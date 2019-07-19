@@ -1,0 +1,69 @@
+{
+  "Law": {
+    "@Era": "Heisei",
+    "@Lang": "ja",
+    "@LawType": "MinisterialOrdinance",
+    "@Num": "129",
+    "@Year": "12",
+    "LawNum": "平成十二年厚生省令第百二十九号",
+    "LawBody": {
+      "LawTitle": "大麻取締法第二十二条の五の規定により地方厚生局長及び地方厚生支局長に委任する権限を定める省令",
+      "EnactStatement": "大麻取締法（昭和二十三年法律第百二十四号）第二十二条の五の規定に基づき、大麻取締法第二十二条の五の規定により地方厚生局長及び地方厚生支局長に委任する権限を定める省令を次のように定める。",
+      "MainProvision": {
+        "Paragraph": [
+          {
+            "@Num": "1",
+            "ParagraphNum": "１",
+            "ParagraphSentence": {
+              "Sentence": [
+                {
+                  "@Function": "main",
+                  "@Num": "1",
+                  "#text": "大麻取締法（以下「法」という。）第二十二条の五第一項の規定により、次に掲げる厚生労働大臣の権限は、地方厚生局長に委任する。"
+                },
+                {
+                  "@Function": "proviso",
+                  "@Num": "2",
+                  "#text": "ただし、厚生労働大臣が第二号に掲げる権限を自ら行うことを妨げない。"
+                }
+              ]
+            },
+            "Item": [
+              {
+                "@Num": "1",
+                "ItemTitle": "一",
+                "ItemSentence": {
+                  "Sentence": "法第十六条に規定する権限"
+                }
+              },
+              {
+                "@Num": "2",
+                "ItemTitle": "二",
+                "ItemSentence": {
+                  "Sentence": "法第二十一条第一項に規定する権限"
+                }
+              }
+            ]
+          },
+          {
+            "@Num": "2",
+            "ParagraphNum": "２",
+            "ParagraphSentence": {
+              "Sentence": "法第二十二条の五第二項の規定により、前項各号に掲げる権限は、地方厚生支局長に委任する。"
+            }
+          }
+        ]
+      },
+      "SupplProvision": {
+        "SupplProvisionLabel": "附　則",
+        "Paragraph": {
+          "@Num": "1",
+          "ParagraphNum": null,
+          "ParagraphSentence": {
+            "Sentence": "この省令は、内閣法の一部を改正する法律（平成十一年法律第八十八号）の施行の日（平成十三年一月六日）から施行する。"
+          }
+        }
+      }
+    }
+  }
+}

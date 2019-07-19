@@ -1,0 +1,352 @@
+{
+  "Law": {
+    "@Era": "Taisho",
+    "@Lang": "ja",
+    "@LawType": "MinisterialOrdinance",
+    "@Num": "6",
+    "@Year": "12",
+    "LawNum": "大正十二年鉄道省令第六号",
+    "LawBody": {
+      "LawTitle": "軌道係員規程",
+      "EnactStatement": "軌道係員規程左ノ通定ム",
+      "MainProvision": {
+        "Article": [
+          {
+            "@Num": "1",
+            "ArticleTitle": "第一条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "軌道係員ノ職制ニ付テハ鉄道係員職制（昭和六十二年運輸省令第十三号）ノ規定ヲ準用ス"
+              }
+            }
+          },
+          {
+            "@Num": "2",
+            "ArticleTitle": "第二条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "旅客及公衆ニ対シ職務ヲ行フ軌道係員ハ一定ノ制服ヲ着クヘシ"
+              }
+            }
+          }
+        ]
+      },
+      "SupplProvision": [
+        {
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": [
+            {
+              "@Num": "1",
+              "ParagraphNum": "○１",
+              "ParagraphSentence": {
+                "Sentence": "本令ハ大正十三年二月一日ヨリ之ヲ施行ス"
+              }
+            },
+            {
+              "@Num": "2",
+              "ParagraphNum": "○２",
+              "ParagraphSentence": {
+                "Sentence": "従来為シタル処分、手続其ノ他ノ行為ハ本令中之ニ相当スル規定アル場合ニ於テハ本令ニ依リテ之ヲ為シタルモノト看做ス"
+              }
+            }
+          ]
+        },
+        {
+          "@AmendLawNum": "昭和一四年八月三一日鉄道省令第六号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "本令ハ公布ノ日ヨリ之ヲ施行ス"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "昭和四五年九月一〇日運輸省令第七九号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": "１",
+            "ParagraphSentence": {
+              "Sentence": [
+                {
+                  "@Function": "main",
+                  "@Num": "1",
+                  "#text": "この省令は、公布の日から施行する。"
+                },
+                {
+                  "@Function": "proviso",
+                  "@Num": "2",
+                  "#text": "ただし、第二条の規定中地方鉄道法施行規則第二条、第二十三条第三項及び第五十七条の改正規定、第三条及び第四条の規定、第六条の規定中軌道係員規程第一条の改正規定、第七条の規定並びに第九条の規定中地方鉄道運転規則第二条第一項ただし書の改正規定は、昭和四十五年十月一日から施行する。"
+                }
+              ]
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "昭和五九年六月二二日運輸省令第一八号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Article": [
+            {
+              "@Num": "1",
+              "ArticleCaption": "（施行期日）",
+              "ArticleTitle": "第一条",
+              "Paragraph": {
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": "この省令は、昭和五十九年七月一日から施行する。"
+                }
+              }
+            },
+            {
+              "@Num": "2",
+              "ArticleCaption": "（経過措置）",
+              "ArticleTitle": "第二条",
+              "Paragraph": {
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": "この省令の施行前に次の表の上欄に掲げる行政庁が法律若しくはこれに基づく命令の規定によりした許可、認可その他の処分又は契約その他の行為（以下「処分等」という。）は、同表の下欄に掲げるそれぞれの行政庁がした処分等とみなし、この省令の施行前に同表の上欄に掲げる行政庁に対してした申請、届出その他の行為（以下「申請等」という。）は、同表の下欄に掲げるそれぞれの行政庁に対してした申請等とみなす。"
+                },
+                "TableStruct": {
+                  "Table": {
+                    "TableRow": [
+                      {
+                        "TableColumn": [
+                          {
+                            "Sentence": "北海海運局長"
+                          },
+                          {
+                            "Sentence": "北海道運輸局長"
+                          }
+                        ]
+                      },
+                      {
+                        "TableColumn": [
+                          {
+                            "Sentence": "東北海運局長（山形県又は秋田県の区域に係る処分等又は申請等に係る場合を除く。）"
+                          },
+                          {
+                            "Sentence": "東北運輸局長"
+                          }
+                        ]
+                      },
+                      {
+                        "TableColumn": [
+                          {
+                            "Sentence": "東北海運局長（山形県又は秋田県の区域に係る処分等又は申請等に係る場合に限る。）及び新潟海運監理部長"
+                          },
+                          {
+                            "Sentence": "新潟運輸局長"
+                          }
+                        ]
+                      },
+                      {
+                        "TableColumn": [
+                          {
+                            "Sentence": "関東海運局長"
+                          },
+                          {
+                            "Sentence": "関東運輸局長"
+                          }
+                        ]
+                      },
+                      {
+                        "TableColumn": [
+                          {
+                            "Sentence": "東海海運局長"
+                          },
+                          {
+                            "Sentence": "中部運輸局長"
+                          }
+                        ]
+                      },
+                      {
+                        "TableColumn": [
+                          {
+                            "Sentence": "近畿海運局長"
+                          },
+                          {
+                            "Sentence": "近畿運輸局長"
+                          }
+                        ]
+                      },
+                      {
+                        "TableColumn": [
+                          {
+                            "Sentence": "中国海運局長"
+                          },
+                          {
+                            "Sentence": "中国運輸局長"
+                          }
+                        ]
+                      },
+                      {
+                        "TableColumn": [
+                          {
+                            "Sentence": "四国海運局長"
+                          },
+                          {
+                            "Sentence": "四国運輸局長"
+                          }
+                        ]
+                      },
+                      {
+                        "TableColumn": [
+                          {
+                            "Sentence": "九州海運局長"
+                          },
+                          {
+                            "Sentence": "九州運輸局長"
+                          }
+                        ]
+                      },
+                      {
+                        "TableColumn": [
+                          {
+                            "Sentence": "神戸海運局長"
+                          },
+                          {
+                            "Sentence": "神戸海運監理部長"
+                          }
+                        ]
+                      },
+                      {
+                        "TableColumn": [
+                          {
+                            "Sentence": "札幌陸運局長"
+                          },
+                          {
+                            "Sentence": "北海道運輸局長"
+                          }
+                        ]
+                      },
+                      {
+                        "TableColumn": [
+                          {
+                            "Sentence": "仙台陸運局長"
+                          },
+                          {
+                            "Sentence": "東北運輸局長"
+                          }
+                        ]
+                      },
+                      {
+                        "TableColumn": [
+                          {
+                            "Sentence": "新潟陸運局長"
+                          },
+                          {
+                            "Sentence": "新潟運輸局長"
+                          }
+                        ]
+                      },
+                      {
+                        "TableColumn": [
+                          {
+                            "Sentence": "東京陸運局長"
+                          },
+                          {
+                            "Sentence": "関東運輸局長"
+                          }
+                        ]
+                      },
+                      {
+                        "TableColumn": [
+                          {
+                            "Sentence": "名古屋陸運局長"
+                          },
+                          {
+                            "Sentence": "中部運輸局長"
+                          }
+                        ]
+                      },
+                      {
+                        "TableColumn": [
+                          {
+                            "Sentence": "大阪陸運局長"
+                          },
+                          {
+                            "Sentence": "近畿運輸局長"
+                          }
+                        ]
+                      },
+                      {
+                        "TableColumn": [
+                          {
+                            "Sentence": "広島陸運局長"
+                          },
+                          {
+                            "Sentence": "中国運輸局長"
+                          }
+                        ]
+                      },
+                      {
+                        "TableColumn": [
+                          {
+                            "Sentence": "高松陸運局長"
+                          },
+                          {
+                            "Sentence": "四国運輸局長"
+                          }
+                        ]
+                      },
+                      {
+                        "TableColumn": [
+                          {
+                            "Sentence": "福岡陸運局長"
+                          },
+                          {
+                            "Sentence": "九州運輸局長"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@AmendLawNum": "昭和六一年四月二二日運輸省令第一五号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphCaption": "（施行期日）",
+            "ParagraphNum": "１",
+            "ParagraphSentence": {
+              "Sentence": "この省令は、公布の日から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "昭和六二年三月二七日運輸省令第二九号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Article": {
+            "@Num": "1",
+            "ArticleCaption": "（施行期日）",
+            "ArticleTitle": "第一条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "この省令は、昭和六十二年四月一日から施行する。"
+              }
+            }
+          }
+        }
+      ]
+    }
+  }
+}

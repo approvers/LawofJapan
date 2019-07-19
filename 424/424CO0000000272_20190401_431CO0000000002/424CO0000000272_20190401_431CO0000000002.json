@@ -1,0 +1,139 @@
+{
+  "Law": {
+    "@DataInfo": "190218e01k01m01",
+    "@Era": "Heisei",
+    "@Lang": "ja",
+    "@LawType": "CabinetOrder",
+    "@Num": "272",
+    "@Year": "24",
+    "LawNum": "平成二十四年政令第二百七十二号",
+    "LawBody": {
+      "LawTitle": "特定多国籍企業による研究開発事業等の促進に関する特別措置法第二条第五項第五号に規定する政令で定める業種等を定める政令",
+      "EnactStatement": "内閣は、特定多国籍企業による研究開発事業等の促進に関する特別措置法（平成二十四年法律第五十五号）第二条第五項第五号及び第十条の規定に基づき、この政令を制定する。",
+      "MainProvision": {
+        "Paragraph": {
+          "@Num": "1",
+          "ParagraphNum": null,
+          "ParagraphSentence": {
+            "Sentence": "特定多国籍企業による研究開発事業等の促進に関する特別措置法第二条第五項第五号に規定する政令で定める業種並びにその業種ごとの資本金の額又は出資の総額及び常時使用する従業員の数は、次の表のとおりとする。"
+          },
+          "TableStruct": {
+            "Table": {
+              "TableRow": [
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": null
+                    },
+                    {
+                      "Sentence": "業種"
+                    },
+                    {
+                      "Sentence": "資本金の額又は出資の総額"
+                    },
+                    {
+                      "Sentence": "常時使用する従業員の数"
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "一"
+                    },
+                    {
+                      "Sentence": "ゴム製品製造業（自動車又は航空機用タイヤ及びチューブ製造業並びに工業用ベルト製造業を除く。）"
+                    },
+                    {
+                      "Sentence": "三億円"
+                    },
+                    {
+                      "Sentence": "九百人"
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "二"
+                    },
+                    {
+                      "Sentence": "ソフトウェア業又は情報処理サービス業"
+                    },
+                    {
+                      "Sentence": "三億円"
+                    },
+                    {
+                      "Sentence": "三百人"
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "三"
+                    },
+                    {
+                      "Sentence": "旅館業"
+                    },
+                    {
+                      "Sentence": "五千万円"
+                    },
+                    {
+                      "Sentence": "二百人"
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        }
+      },
+      "SupplProvision": [
+        {
+          "@Extract": "true",
+          "@Type": "New",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphCaption": "（施行期日）",
+            "ParagraphNum": "１",
+            "ParagraphSentence": {
+              "Sentence": "この政令は、法の施行の日（平成二十四年十一月一日）から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成二八年一月二二日政令第一八号",
+          "@Type": "Amend",
+          "SupplProvisionLabel": "附　則",
+          "Article": {
+            "@Num": "1",
+            "ArticleCaption": "（施行期日）",
+            "ArticleTitle": "第一条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "この政令は、特許法等の一部を改正する法律の施行の日（平成二十八年四月一日）から施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成三一年一月八日政令第二号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphCaption": "（施行期日）",
+            "ParagraphNum": "１",
+            "ParagraphSentence": {
+              "Sentence": "この政令は、不正競争防止法等の一部を改正する法律附則第一条第四号に掲げる規定の施行の日（平成三十一年四月一日）から施行する。"
+            }
+          }
+        }
+      ]
+    }
+  }
+}

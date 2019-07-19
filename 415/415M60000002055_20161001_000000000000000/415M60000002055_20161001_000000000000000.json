@@ -1,0 +1,241 @@
+{
+  "Law": {
+    "@Era": "Heisei",
+    "@Lang": "ja",
+    "@LawType": "MinisterialOrdinance",
+    "@Num": "55",
+    "@Year": "15",
+    "LawNum": "平成十五年内閣府令第五十五号",
+    "LawBody": {
+      "LawTitle": "褒章の制式及び形状を定める内閣府令",
+      "EnactStatement": "褒章条例（明治十四年太政官布告第六十三号）第九条の規定に基づき、褒章の制式及び形状を定める内閣府令を次のように定める。",
+      "MainProvision": {
+        "Paragraph": {
+          "@Num": "1",
+          "ParagraphNum": null,
+          "ParagraphSentence": {
+            "Sentence": "褒章及びその略綬の制式及び形状は、次の表及び図のとおりとする。"
+          },
+          "TableStruct": [
+            {
+              "TableStructTitle": "表",
+              "Table": {
+                "TableRow": [
+                  {
+                    "TableColumn": [
+                      {
+                        "@rowspan": "4",
+                        "Sentence": "章"
+                      },
+                      {
+                        "Sentence": "地金"
+                      },
+                      {
+                        "Sentence": "銀"
+                      }
+                    ]
+                  },
+                  {
+                    "TableColumn": [
+                      {
+                        "Sentence": "表面"
+                      },
+                      {
+                        "Sentence": "中心は金色とし、「褒章」の文字を記す。桜花紋をもって飾る。"
+                      }
+                    ]
+                  },
+                  {
+                    "TableColumn": [
+                      {
+                        "Sentence": "裏面"
+                      },
+                      {
+                        "Sentence": "紺綬褒章の場合を除き、「賜」の文字及び氏名を記す。褒章条例（明治十四年太政官布告第六十三号）第三条第二項の飾版を授与するときは、引き替えた各飾版の授与年月日を記す。"
+                      }
+                    ]
+                  },
+                  {
+                    "TableColumn": [
+                      {
+                        "Sentence": "寸法"
+                      },
+                      {
+                        "Sentence": "直径三十ミリメートル"
+                      }
+                    ]
+                  },
+                  {
+                    "TableColumn": [
+                      {
+                        "Sentence": "鈕"
+                      },
+                      {
+                        "@colspan": "2",
+                        "Sentence": "銀"
+                      }
+                    ]
+                  },
+                  {
+                    "TableColumn": [
+                      {
+                        "Sentence": "飾版"
+                      },
+                      {
+                        "@colspan": "2",
+                        "Sentence": "銀とし、褒章条例第三条第一項の飾版は、表面に授与年月日を記す。褒章条例第三条第二項の飾版は、金色とし、表面は桜をもって飾る。"
+                      }
+                    ]
+                  },
+                  {
+                    "TableColumn": [
+                      {
+                        "@rowspan": "2",
+                        "Sentence": "綬"
+                      },
+                      {
+                        "Sentence": "色"
+                      },
+                      {
+                        "Sentence": "褒章の種類により紅緑黄紫藍紺の六色とする。"
+                      }
+                    ]
+                  },
+                  {
+                    "TableColumn": [
+                      {
+                        "Sentence": "幅"
+                      },
+                      {
+                        "Sentence": "三十六ミリメートル"
+                      }
+                    ]
+                  },
+                  {
+                    "TableColumn": [
+                      {
+                        "Sentence": "略綬"
+                      },
+                      {
+                        "@colspan": "2",
+                        "Sentence": "褒章の種類により紅緑黄紫藍紺の六色とする。大きさは、直径七ミリメートル。"
+                      }
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "Table": {
+                "TableRow": [
+                  {
+                    "TableColumn": [
+                      {
+                        "Sentence": "飾版（銀）"
+                      },
+                      {
+                        "Sentence": "飾版（金）"
+                      },
+                      {
+                        "Sentence": "略綬"
+                      }
+                    ]
+                  },
+                  {
+                    "TableColumn": [
+                      {
+                        "FigStruct": {
+                          "Fig": {
+                            "@src": "./pict/H15F10001000055-003.jpg"
+                          }
+                        }
+                      },
+                      {
+                        "FigStruct": {
+                          "Fig": {
+                            "@src": "./pict/H15F10001000055-004.jpg"
+                          }
+                        }
+                      },
+                      {
+                        "FigStruct": {
+                          "Fig": {
+                            "@src": "./pict/H15F10001000055-005.jpg"
+                          }
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            }
+          ],
+          "StyleStruct": {
+            "StyleStructTitle": "図",
+            "Style": {
+              "List": {
+                "ListSentence": {
+                  "Sentence": "褒章"
+                },
+                "Sublist1": [
+                  {
+                    "Sublist1Sentence": {
+                      "Column": [
+                        {
+                          "@LineBreak": "true",
+                          "@Num": "1",
+                          "Sentence": "表面"
+                        },
+                        {
+                          "@Num": "2",
+                          "Sentence": {
+                            "QuoteStruct": {
+                              "Fig": {
+                                "@src": "./pict/H15F10001000055-001.jpg"
+                              }
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "Sublist1Sentence": {
+                      "Column": [
+                        {
+                          "@LineBreak": "true",
+                          "@Num": "1",
+                          "Sentence": "裏面"
+                        },
+                        {
+                          "@Num": "2",
+                          "Sentence": {
+                            "QuoteStruct": {
+                              "Fig": {
+                                "@src": "./pict/H15F10001000055-002.jpg"
+                              }
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            }
+          }
+        }
+      },
+      "SupplProvision": {
+        "SupplProvisionLabel": "附　則",
+        "Paragraph": {
+          "@Num": "1",
+          "ParagraphNum": null,
+          "ParagraphSentence": {
+            "Sentence": "この府令は、平成十五年十一月三日から施行し、同日以降の日付をもって授与される褒章から適用する。"
+          }
+        }
+      }
+    }
+  }
+}

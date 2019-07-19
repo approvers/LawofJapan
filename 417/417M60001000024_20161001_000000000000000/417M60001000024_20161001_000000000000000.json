@@ -1,0 +1,73 @@
+{
+  "Law": {
+    "@Era": "Heisei",
+    "@Lang": "ja",
+    "@LawType": "MinisterialOrdinance",
+    "@Num": "024",
+    "@Year": "17",
+    "LawNum": "平成十七年環境省令第二十四号",
+    "LawBody": {
+      "LawTitle": "化学物質の審査及び製造等の規制に関する法律第五十四条の規定により地方環境事務所長に委任する権限を定める省令",
+      "EnactStatement": "化学物質の審査及び製造等の規制に関する法律（昭和四十八年法律第百十七号）第三十九条の二の規定に基づき、化学物質の審査及び製造等の規制に関する法律第三十九条の二の規定により地方環境事務所長に委任する権限を定める省令を次のように定める。",
+      "MainProvision": {
+        "Paragraph": {
+          "@Num": "1",
+          "ParagraphNum": null,
+          "ParagraphSentence": {
+            "Sentence": [
+              {
+                "@Function": "main",
+                "@Num": "1",
+                "#text": "化学物質の審査及び製造等の規制に関する法律（以下「法」という。）に規定する環境大臣の権限のうち、次に掲げるものは、地方環境事務所長に委任する。"
+              },
+              {
+                "@Function": "proviso",
+                "@Num": "2",
+                "#text": "ただし、環境大臣が自らその権限を行うことを妨げない。"
+              }
+            ]
+          },
+          "Item": [
+            {
+              "@Num": "1",
+              "ItemTitle": "一",
+              "ItemSentence": {
+                "Sentence": "法第四十三条第一項に規定する権限（法第四十四条第一項に規定する権限の行使に係るものに限る。）"
+              }
+            },
+            {
+              "@Num": "2",
+              "ItemTitle": "二",
+              "ItemSentence": {
+                "Sentence": "法第四十四条第一項に規定する権限"
+              }
+            }
+          ]
+        }
+      },
+      "SupplProvision": [
+        {
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この省令は、平成十七年十月一日から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成二二年四月一日環境省令第六号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この省令は、平成二十三年四月一日から施行する。"
+            }
+          }
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "Law": {
+    "@Era": "Heisei",
+    "@Lang": "ja",
+    "@LawType": "MinisterialOrdinance",
+    "@Num": "002",
+    "@Year": "20",
+    "LawNum": "平成二十年内閣府・財務省・厚生労働省・農林水産省・経済産業省令第二号",
+    "LawBody": {
+      "LawTitle": "犯罪利用預金口座等に係る資金による被害回復分配金の支払等に関する法律第三十六条第一項の規定による立入検査をする職員の携帯する身分を示す証明書の様式を定める命令",
+      "EnactStatement": "犯罪利用預金口座等に係る資金による被害回復分配金の支払等に関する法律（平成十九年法律第百三十三号）を実施するため、犯罪利用預金口座等に係る資金による被害回復分配金の支払等に関する法律第三十六条第一項の規定による立入検査をする職員の携帯する身分を示す証明書の様式を定める命令を次のように定める。",
+      "MainProvision": {
+        "Paragraph": {
+          "@Num": "1",
+          "ParagraphNum": null,
+          "ParagraphSentence": {
+            "Sentence": [
+              {
+                "@Function": "main",
+                "@Num": "1",
+                "#text": "犯罪利用預金口座等に係る資金による被害回復分配金の支払等に関する法律（以下「法」という。）第三十六条第一項の規定による立入検査をする職員の携帯する身分を示す証明書は、別紙様式によるものとする。"
+              },
+              {
+                "@Function": "proviso",
+                "@Num": "2",
+                "#text": "ただし、次に掲げるものについては、この限りでない。"
+              }
+            ]
+          },
+          "Item": [
+            {
+              "@Num": "1",
+              "ItemTitle": "一",
+              "ItemSentence": {
+                "Sentence": "金融庁又は財務局若しくは福岡財務支局の職員が立入検査（財務大臣の権限によるものを除く。）をするときに携帯すべき証明書"
+              }
+            },
+            {
+              "@Num": "2",
+              "ItemTitle": "二",
+              "ItemSentence": {
+                "Sentence": "法第二条第一項第八号から第十四号までに掲げる金融機関に対して農林水産省の職員が立入検査をするときに携帯すべき証明書"
+              }
+            }
+          ]
+        }
+      },
+      "SupplProvision": {
+        "SupplProvisionLabel": "附　則",
+        "Paragraph": {
+          "@Num": "1",
+          "ParagraphNum": null,
+          "ParagraphSentence": {
+            "Sentence": "この命令は、法の施行の日（平成二十年六月二十一日）から施行する。"
+          }
+        }
+      },
+      "AppdxStyle": {
+        "AppdxStyleTitle": "別紙様式",
+        "StyleStruct": {
+          "Style": {
+            "Fig": {
+              "@src": "./pict/H20F10005186002-001.pdf"
+            }
+          }
+        }
+      }
+    }
+  }
+}

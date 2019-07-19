@@ -1,0 +1,93 @@
+{
+  "Law": {
+    "@Era": "Heisei",
+    "@Lang": "ja",
+    "@LawType": "MinisterialOrdinance",
+    "@Num": "2",
+    "@Year": "15",
+    "LawNum": "平成十五年農林水産省・環境省令第二号",
+    "LawBody": {
+      "LawTitle": "農薬取締法第三条第一項の登録を要しない場合を定める省令",
+      "EnactStatement": "農薬取締法（昭和二十三年法律第八十二号）第二条第一項ただし書の規定に基づき、農薬取締法第二条第一項の登録を要しない場合を定める省令を次のように定める。",
+      "MainProvision": {
+        "Paragraph": {
+          "@Hide": "false",
+          "@Num": "1",
+          "ParagraphNum": null,
+          "ParagraphSentence": {
+            "Sentence": {
+              "@WritingMode": "vertical",
+              "#text": "農薬取締法第三条第一項ただし書に規定する農林水産省令・環境省令で定める場合は、次に掲げる場合とする。"
+            }
+          },
+          "Item": [
+            {
+              "@Delete": "false",
+              "@Hide": "false",
+              "@Num": "1",
+              "ItemTitle": "一",
+              "ItemSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "試験研究の目的で農薬を製造し若しくは加工し、又は輸入する場合"
+                }
+              }
+            },
+            {
+              "@Delete": "false",
+              "@Hide": "false",
+              "@Num": "2",
+              "ItemTitle": "二",
+              "ItemSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "植物防疫法（昭和二十五年法律第百五十一号）第十七条第一項及び第十八条第二項の規定による防除を行うために使用する農薬を製造し若しくは加工し、又は輸入する場合"
+                }
+              }
+            }
+          ]
+        }
+      },
+      "SupplProvision": [
+        {
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この省令は、農薬取締法の一部を改正する法律（平成十四年法律第百四十一号）の施行の日（平成十五年三月十日）から施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成三〇年一一月三〇日農林水産省・環境省令第三号",
+          "@Extract": "true",
+          "@Type": "Amend",
+          "SupplProvisionLabel": "附　則",
+          "Article": {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "1",
+            "ArticleCaption": "（施行期日）",
+            "ArticleTitle": "第一条",
+            "Paragraph": {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "この省令は、農薬取締法の一部を改正する法律の施行の日（平成三十年十二月一日）から施行する。"
+                }
+              }
+            }
+          }
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "Law": {
+    "@Era": "Heisei",
+    "@Lang": "ja",
+    "@LawType": "MinisterialOrdinance",
+    "@Num": "51",
+    "@Year": "28",
+    "LawNum": "平成二十八年農林水産省令第五十一号",
+    "LawBody": {
+      "LawTitle": "漁業近代化資金融通法施行規則",
+      "EnactStatement": "漁業近代化資金融通法（昭和四十四年法律第五十二号）第二条第三項第一号の規定に基づき、漁業近代化資金融通法施行規則を次のように定める。",
+      "MainProvision": {
+        "Article": [
+          {
+            "@Num": "1",
+            "ArticleCaption": "（農林水産大臣の承認に係る漁業者等）",
+            "ArticleTitle": "第一条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "漁業近代化資金融通法（以下「法」という。）第二条第三項第一号の農林水産省令で定める漁業者等は、次に掲げる漁業者等とする。"
+              },
+              "Item": [
+                {
+                  "@Num": "1",
+                  "ItemTitle": "一",
+                  "ItemSentence": {
+                    "Sentence": "法第二条第一項第六号から第九号までに掲げる者のうち都道府県の区域を超える区域を地区とするもの"
+                  }
+                },
+                {
+                  "@Num": "2",
+                  "ItemTitle": "二",
+                  "ItemSentence": {
+                    "Sentence": "法第二条第一項第十号に掲げる者のうち都道府県の区域を超える区域における水産業の振興を目的とするもの"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "@Num": "2",
+            "ArticleCaption": "（承認をする都道府県知事）",
+            "ArticleTitle": "第二条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": [
+                  {
+                    "@Function": "main",
+                    "@Num": "1",
+                    "#text": "法第二条第三項第一号の農林水産省令で定める都道府県知事は、同項に規定する資金を借り入れる漁業者等の住所地を管轄する都道府県知事とする。"
+                  },
+                  {
+                    "@Function": "proviso",
+                    "@Num": "2",
+                    "#text": "ただし、当該資金の貸付けについての利子補給契約に係る事務を他の都道府県が行っている場合にあっては、当該都道府県の知事とする。"
+                  }
+                ]
+              }
+            }
+          }
+        ]
+      },
+      "SupplProvision": {
+        "SupplProvisionLabel": "附　則",
+        "Paragraph": {
+          "@Num": "1",
+          "ParagraphNum": null,
+          "ParagraphSentence": {
+            "Sentence": "この省令は、平成二十九年四月一日から施行する。"
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "Law": {
+    "@Era": "Meiji",
+    "@Lang": "ja",
+    "@LawType": "Act",
+    "@Num": "17",
+    "@Year": "37",
+    "LawNum": "明治三十七年法律第十七号",
+    "LawBody": {
+      "LawTitle": "明治三十七年法律第十七号（記名ノ国債ヲ目的トスル質権ノ設定ニ関スル法律）",
+      "MainProvision": {
+        "Paragraph": {
+          "@Hide": "false",
+          "@Num": "1",
+          "ParagraphNum": null,
+          "ParagraphSentence": {
+            "Sentence": {
+              "@WritingMode": "vertical",
+              "#text": "民法第三百六十四条ノ規定ハ記名ノ国債ニハ之ヲ適用セス"
+            }
+          }
+        }
+      },
+      "SupplProvision": {
+        "@AmendLawNum": "平成一七年七月二六日法律第八七号",
+        "@Extract": "true",
+        "@Type": "Amend",
+        "SupplProvisionLabel": "附　則",
+        "Paragraph": {
+          "@Hide": "false",
+          "@Num": "1",
+          "ParagraphNum": null,
+          "ParagraphSentence": {
+            "Sentence": {
+              "@WritingMode": "vertical",
+              "#text": "この法律は、会社法の施行の日から施行する。"
+            }
+          }
+        }
+      }
+    }
+  }
+}

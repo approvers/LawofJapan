@@ -1,0 +1,862 @@
+{
+  "Law": {
+    "@Era": "Heisei",
+    "@Lang": "ja",
+    "@LawType": "MinisterialOrdinance",
+    "@Num": "28",
+    "@Year": "13",
+    "LawNum": "平成十三年国土交通省令第二十八号",
+    "LawBody": {
+      "LawTitle": "国土交通省定員規則",
+      "EnactStatement": "行政機関職員定員令（昭和四十四年政令第百二十一号）第二条第二項の規定に基づき、及び同令を実施するため、国土交通省定員規則を次のように定める。",
+      "MainProvision": {
+        "Article": [
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "1",
+            "ArticleCaption": "（本省及び各外局別の定員）",
+            "ArticleTitle": "第一条",
+            "Paragraph": {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "国土交通省の本省及び各外局別の定員は、次の表のとおりとする。"
+                }
+              },
+              "TableStruct": {
+                "Table": {
+                  "@WritingMode": "vertical",
+                  "TableRow": [
+                    {
+                      "TableColumn": [
+                        {
+                          "@BorderBottom": "solid",
+                          "@BorderLeft": "solid",
+                          "@BorderRight": "solid",
+                          "@BorderTop": "solid",
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "区分"
+                          }
+                        },
+                        {
+                          "@BorderBottom": "solid",
+                          "@BorderLeft": "solid",
+                          "@BorderRight": "solid",
+                          "@BorderTop": "solid",
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "定員"
+                          }
+                        },
+                        {
+                          "@BorderBottom": "solid",
+                          "@BorderLeft": "solid",
+                          "@BorderRight": "solid",
+                          "@BorderTop": "solid",
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "備考"
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "@BorderBottom": "solid",
+                          "@BorderLeft": "solid",
+                          "@BorderRight": "solid",
+                          "@BorderTop": "solid",
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "本省"
+                          }
+                        },
+                        {
+                          "@BorderBottom": "solid",
+                          "@BorderLeft": "solid",
+                          "@BorderRight": "solid",
+                          "@BorderTop": "solid",
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "三八、八八〇人"
+                          }
+                        },
+                        {
+                          "@BorderBottom": "solid",
+                          "@BorderLeft": "solid",
+                          "@BorderRight": "solid",
+                          "@BorderTop": "solid",
+                          "Sentence": {
+                            "@WritingMode": "vertical"
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "@BorderBottom": "solid",
+                          "@BorderLeft": "solid",
+                          "@BorderRight": "solid",
+                          "@BorderTop": "solid",
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "観光庁"
+                          }
+                        },
+                        {
+                          "@BorderBottom": "solid",
+                          "@BorderLeft": "solid",
+                          "@BorderRight": "solid",
+                          "@BorderTop": "solid",
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "二一九人"
+                          }
+                        },
+                        {
+                          "@BorderBottom": "solid",
+                          "@BorderLeft": "solid",
+                          "@BorderRight": "solid",
+                          "@BorderTop": "solid",
+                          "Sentence": {
+                            "@WritingMode": "vertical"
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "@BorderBottom": "solid",
+                          "@BorderLeft": "solid",
+                          "@BorderRight": "solid",
+                          "@BorderTop": "solid",
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "気象庁"
+                          }
+                        },
+                        {
+                          "@BorderBottom": "solid",
+                          "@BorderLeft": "solid",
+                          "@BorderRight": "solid",
+                          "@BorderTop": "solid",
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "五、〇三九人"
+                          }
+                        },
+                        {
+                          "@BorderBottom": "solid",
+                          "@BorderLeft": "solid",
+                          "@BorderRight": "solid",
+                          "@BorderTop": "solid",
+                          "Sentence": {
+                            "@WritingMode": "vertical"
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "@BorderBottom": "solid",
+                          "@BorderLeft": "solid",
+                          "@BorderRight": "solid",
+                          "@BorderTop": "solid",
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "運輸安全委員会"
+                          }
+                        },
+                        {
+                          "@BorderBottom": "solid",
+                          "@BorderLeft": "solid",
+                          "@BorderRight": "solid",
+                          "@BorderTop": "solid",
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "一八〇人"
+                          }
+                        },
+                        {
+                          "@BorderBottom": "solid",
+                          "@BorderLeft": "solid",
+                          "@BorderRight": "solid",
+                          "@BorderTop": "solid",
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "事務局の職員の定員とする。"
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "@BorderBottom": "solid",
+                          "@BorderLeft": "solid",
+                          "@BorderRight": "solid",
+                          "@BorderTop": "solid",
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "海上保安庁"
+                          }
+                        },
+                        {
+                          "@BorderBottom": "solid",
+                          "@BorderLeft": "solid",
+                          "@BorderRight": "solid",
+                          "@BorderTop": "solid",
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "一四、一七八人"
+                          }
+                        },
+                        {
+                          "@BorderBottom": "solid",
+                          "@BorderLeft": "solid",
+                          "@BorderRight": "solid",
+                          "@BorderTop": "solid",
+                          "Sentence": {
+                            "@WritingMode": "vertical"
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "@BorderBottom": "solid",
+                          "@BorderLeft": "solid",
+                          "@BorderRight": "solid",
+                          "@BorderTop": "solid",
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "合計"
+                          }
+                        },
+                        {
+                          "@BorderBottom": "solid",
+                          "@BorderLeft": "solid",
+                          "@BorderRight": "solid",
+                          "@BorderTop": "solid",
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "五八、四九六人"
+                          }
+                        },
+                        {
+                          "@BorderBottom": "solid",
+                          "@BorderLeft": "solid",
+                          "@BorderRight": "solid",
+                          "@BorderTop": "solid",
+                          "Sentence": {
+                            "@WritingMode": "vertical"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "2",
+            "ArticleCaption": "（本省及び各外局の各内部部局、各審議会等、各施設等機関、各特別の機関及び各地方支分部局別の定員）",
+            "ArticleTitle": "第二条",
+            "Paragraph": {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "本省及び各外局の各内部部局、各審議会等、各施設等機関、各特別の機関及び各地方支分部局別の定員は、前条に定める本省又は各外局別の定員の範囲内において、国土交通大臣が別に定める。"
+                }
+              }
+            }
+          }
+        ]
+      },
+      "SupplProvision": [
+        {
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": [
+            {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphCaption": "（施行期日）",
+              "ParagraphNum": "１",
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "この中央省庁等改革推進本部令（次項において「本部令」という。）は、平成十三年一月六日から施行する。"
+                }
+              }
+            },
+            {
+              "@Hide": "false",
+              "@Num": "2",
+              "ParagraphCaption": "（この本部令の効力）",
+              "ParagraphNum": "２",
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "この本部令は、その施行の日に、国土交通省定員規則（平成十三年国土交通省令第二十八号）となるものとする。"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@AmendLawNum": "平成一三年三月二九日国土交通省令第六六号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphCaption": "（施行期日）",
+            "ParagraphNum": "１",
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この省令は、平成十三年四月一日から施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成一四年四月一日国土交通省令第五一号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphCaption": "（施行期日）",
+            "ParagraphNum": "１",
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この省令は、公布の日から施行し、平成十四年四月一日から適用する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成一五年四月一日国土交通省令第四七号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphCaption": "（施行期日）",
+            "ParagraphNum": "１",
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この省令は、公布の日から施行し、平成十五年四月一日から適用する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成一六年四月一日国土交通省令第五五号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphCaption": "（施行期日）",
+            "ParagraphNum": "１",
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この省令は、公布の日から施行し、平成十六年四月一日から適用する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成一七年四月一日国土交通省令第四二号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphCaption": "（施行期日）",
+            "ParagraphNum": "１",
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この省令は、公布の日から施行し、平成十七年四月一日から適用する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成一八年三月三一日国土交通省令第四八号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphCaption": "（施行期日）",
+            "ParagraphNum": "１",
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この省令は、平成十八年四月一日から施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成一九年四月一日国土交通省令第四〇号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphCaption": "（施行期日）",
+            "ParagraphNum": "１",
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この省令は、公布の日から施行し、平成十九年四月一日から適用する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成二〇年三月三一日国土交通省令第一四号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphCaption": "（施行期日）",
+            "ParagraphNum": "１",
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この省令は、平成二十年四月一日から施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成二〇年九月三〇日国土交通省令第七九号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphCaption": "（施行期日）",
+            "ParagraphNum": "１",
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この省令は、平成二十年十月一日から施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成二〇年一二月二六日国土交通省令第一〇九号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphCaption": "（施行期日）",
+            "ParagraphNum": "１",
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この省令は、国家公務員法等の一部を改正する法律（平成十九年法律第百八号）の施行の日（平成二十年十二月三十一日）から施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成二一年三月三一日国土交通省令第一七号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphCaption": "（施行期日）",
+            "ParagraphNum": "１",
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この省令は、平成二十一年四月一日から施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成二一年八月二八日国土交通省令第五四号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphCaption": "（施行期日）",
+            "ParagraphNum": "１",
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この省令は、平成二十一年九月一日から施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成二二年四月一日国土交通省令第二〇号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphCaption": "（施行期日）",
+            "ParagraphNum": "１",
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この省令は、公布の日から施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成二三年三月三一日国土交通省令第三一号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphCaption": "（施行期日）",
+            "ParagraphNum": "１",
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この省令は、平成二十三年四月一日から施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成二四年四月六日国土交通省令第四二号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphCaption": "（施行期日）",
+            "ParagraphNum": "１",
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この省令は、公布の日から施行し、平成二十四年四月一日から適用する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成二五年五月一六日国土交通省令第三八号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphCaption": "（施行期日等）",
+            "ParagraphNum": "１",
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この省令は、公布の日から施行し、平成二十五年四月一日から適用する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成二六年二月一三日国土交通省令第一〇号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この省令は、公布の日から施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成二六年三月二六日国土交通省令第三〇号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphCaption": "（施行期日）",
+            "ParagraphNum": "１",
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この省令は、平成二十六年四月一日から施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成二七年四月一〇日国土交通省令第二七号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphCaption": "（施行期日等）",
+            "ParagraphNum": "１",
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この省令は、公布の日から施行し、改正後の国土交通省定員規則（以下「新規則」という。）第一条及び次項の規定は、平成二十七年四月一日から適用する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成二七年九月一八日国土交通省令第七〇号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この省令は、平成二十七年十月一日から施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成二八年三月三一日国土交通省令第二八号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphCaption": "（施行期日等）",
+            "ParagraphNum": "１",
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この省令は、平成二十八年四月一日から施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成二八年一二月二八日国土交通省令第八六号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この省令は、公布の日から施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成二九年三月三一日国土交通省令第一五号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphCaption": "（施行期日）",
+            "ParagraphNum": "１",
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この省令は、平成二十九年四月一日から施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成三〇年三月三〇日国土交通省令第二三号",
+          "@Extract": "true",
+          "@Type": "Amend",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphCaption": "（施行期日）",
+            "ParagraphNum": "１",
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この省令は、平成三十年四月一日から施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成三〇年一二月二七日国土交通省令第九二号",
+          "@Type": "Amend",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この省令は、平成三十一年一月一日から施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成三一年三月二九日国土交通省令第三〇号",
+          "@Type": "Amend",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": [
+            {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphCaption": "（施行期日）",
+              "ParagraphNum": "１",
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "この省令は、平成三十一年四月一日から施行する。"
+                }
+              }
+            },
+            {
+              "@Hide": "false",
+              "@Num": "2",
+              "ParagraphCaption": "（定員の期間別の特例）",
+              "ParagraphNum": "２",
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "本省の定員は、次の表の期間の欄に掲げる期間においては、改正後の第一条の規定にかかわらず、同表の定員の欄に掲げるとおりとする。"
+                }
+              },
+              "TableStruct": {
+                "Table": {
+                  "@WritingMode": "vertical",
+                  "TableRow": [
+                    {
+                      "TableColumn": [
+                        {
+                          "@Align": "center",
+                          "@BorderBottom": "solid",
+                          "@BorderLeft": "solid",
+                          "@BorderRight": "solid",
+                          "@BorderTop": "solid",
+                          "@Valign": "middle",
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "区分"
+                          }
+                        },
+                        {
+                          "@Align": "center",
+                          "@BorderBottom": "solid",
+                          "@BorderLeft": "solid",
+                          "@BorderRight": "solid",
+                          "@BorderTop": "solid",
+                          "@Valign": "middle",
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "期間"
+                          }
+                        },
+                        {
+                          "@Align": "center",
+                          "@BorderBottom": "solid",
+                          "@BorderLeft": "solid",
+                          "@BorderRight": "solid",
+                          "@BorderTop": "solid",
+                          "@Valign": "middle",
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "定員"
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "@Align": "center",
+                          "@BorderBottom": "solid",
+                          "@BorderLeft": "solid",
+                          "@BorderRight": "solid",
+                          "@BorderTop": "solid",
+                          "@Valign": "middle",
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "本省"
+                          }
+                        },
+                        {
+                          "@BorderBottom": "solid",
+                          "@BorderLeft": "solid",
+                          "@BorderRight": "solid",
+                          "@BorderTop": "solid",
+                          "@Valign": "middle",
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "平成三十一年九月三十日までの間"
+                          }
+                        },
+                        {
+                          "@Align": "right",
+                          "@BorderBottom": "solid",
+                          "@BorderLeft": "solid",
+                          "@BorderRight": "solid",
+                          "@BorderTop": "solid",
+                          "@Valign": "middle",
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "三八、九三一人"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

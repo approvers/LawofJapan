@@ -1,0 +1,144 @@
+{
+  "Law": {
+    "@Era": "Heisei",
+    "@Lang": "ja",
+    "@LawType": "CabinetOrder",
+    "@Num": "299",
+    "@Year": "17",
+    "LawNum": "平成十七年政令第二百九十九号",
+    "LawBody": {
+      "LawTitle": "日本学術会議法施行令",
+      "EnactStatement": "内閣は、日本学術会議法（昭和二十三年法律第百二十一号）第十五条第四項の規定に基づき、日本学術会議法施行令（昭和五十九年政令第百六十号）の全部を改正するこの政令を制定する。",
+      "MainProvision": {
+        "Article": [
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "1",
+            "ArticleCaption": "（連携会員の任期等）",
+            "ArticleTitle": "第一条",
+            "Paragraph": [
+              {
+                "@Hide": "false",
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": [
+                    {
+                      "@Function": "main",
+                      "@Num": "1",
+                      "@WritingMode": "vertical",
+                      "#text": "日本学術会議連携会員（以下「連携会員」という。）の任期は、六年とする。"
+                    },
+                    {
+                      "@Function": "proviso",
+                      "@Num": "2",
+                      "@WritingMode": "vertical",
+                      "#text": "ただし、一定の期間内に限ってその職務を行わせることが必要である場合には、六年未満の任期を定めて任命することを妨げない。"
+                    }
+                  ]
+                }
+              },
+              {
+                "@Hide": "false",
+                "@Num": "2",
+                "ParagraphNum": "２",
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "連携会員は、再任されることができる。"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "2",
+            "ArticleCaption": "（連携会員の辞職）",
+            "ArticleTitle": "第二条",
+            "Paragraph": {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "会長は、連携会員から病気その他やむを得ない事由による辞職の申出があったときは、その辞職を承認することができる。"
+                }
+              }
+            }
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "3",
+            "ArticleCaption": "（連携会員の退職）",
+            "ArticleTitle": "第三条",
+            "Paragraph": {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "会長は、連携会員に連携会員として不適当な行為があるときは、日本学術会議法第二十八条の規定による規則（以下単に「規則」という。）で定めるところにより、当該連携会員を退職させることができる。"
+                }
+              }
+            }
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "4",
+            "ArticleCaption": "（雑則）",
+            "ArticleTitle": "第四条",
+            "Paragraph": {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "この政令に定めるもののほか、連携会員に関し必要な事項は、規則で定める。"
+                }
+              }
+            }
+          }
+        ]
+      },
+      "SupplProvision": {
+        "@Extract": "false",
+        "@Type": "New",
+        "SupplProvisionLabel": "附　則",
+        "Paragraph": [
+          {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphCaption": "（施行期日）",
+            "ParagraphNum": "１",
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この政令は、平成十七年十月一日から施行する。"
+              }
+            }
+          },
+          {
+            "@Hide": "false",
+            "@Num": "2",
+            "ParagraphCaption": "（日本学術会議会員候補者選考委員会令の廃止）",
+            "ParagraphNum": "２",
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "日本学術会議会員候補者選考委員会令（平成十六年政令第百六十二号）は、廃止する。"
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

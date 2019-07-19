@@ -1,0 +1,95 @@
+{
+  "Law": {
+    "@Era": "Heisei",
+    "@Lang": "ja",
+    "@LawType": "MinisterialOrdinance",
+    "@Num": "26",
+    "@Year": "17",
+    "LawNum": "平成十七年環境省令第二十六号",
+    "LawBody": {
+      "LawTitle": "農薬取締法第四十四条第二項の規定により地方環境事務所長に委任する権限を定める省令",
+      "EnactStatement": "農薬取締法（昭和二十三年法律第八十二号）第十三条の四第二項の規定に基づき、農薬取締法第十三条の四第二項の規定により地方環境事務所長に委任する権限を定める省令を次のように定める。",
+      "MainProvision": {
+        "Paragraph": {
+          "@Hide": "false",
+          "@Num": "1",
+          "ParagraphNum": null,
+          "ParagraphSentence": {
+            "Sentence": [
+              {
+                "@Function": "main",
+                "@Num": "1",
+                "@WritingMode": "vertical",
+                "#text": "農薬取締法（以下「法」という。）に規定する環境大臣の権限のうち、次に掲げるものは、地方環境事務所長に委任する。"
+              },
+              {
+                "@Function": "proviso",
+                "@Num": "2",
+                "@WritingMode": "vertical",
+                "#text": "ただし、環境大臣が自らその権限を行うことを妨げない。"
+              }
+            ]
+          },
+          "Item": [
+            {
+              "@Delete": "false",
+              "@Hide": "false",
+              "@Num": "1",
+              "ItemTitle": "一",
+              "ItemSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "法第二十九条第一項に規定する環境大臣の権限のうち、製造者、輸入者、販売者又は農薬使用者に対し、農薬の製造、加工、輸入、販売又は使用に関し報告を命ずる権限及び関係職員にこれらの者から検査のため必要な数量の農薬を集取させ、又は必要な場所に立ち入り、農薬の製造、加工、輸入、販売若しくは使用の状況若しくは帳簿、書類その他必要な物件を検査させる権限"
+                }
+              }
+            },
+            {
+              "@Delete": "false",
+              "@Hide": "false",
+              "@Num": "2",
+              "ItemTitle": "二",
+              "ItemSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "法第二十九条第三項に規定する環境大臣の権限のうち、製造者、輸入者又は農薬使用者に対し、農薬の製造、加工、輸入又は使用に関し報告を命ずる権限及び関係職員にこれらの者から検査のため必要な数量の農薬を集取させ、又は必要な場所に立ち入り、農薬の製造、加工、輸入若しくは使用の状況若しくは帳簿、書類その他必要な物件を検査させる権限"
+                }
+              }
+            }
+          ]
+        }
+      },
+      "SupplProvision": [
+        {
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この省令は、平成十七年十月一日から施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成三〇年一一月三〇日環境省令第二四号",
+          "@Type": "Amend",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この省令は、農薬取締法の一部を改正する法律の施行の日（平成三十年十二月一日）から施行する。"
+              }
+            }
+          }
+        }
+      ]
+    }
+  }
+}

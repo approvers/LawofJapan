@@ -1,0 +1,537 @@
+{
+  "Law": {
+    "@Era": "Heisei",
+    "@Lang": "ja",
+    "@LawType": "CabinetOrder",
+    "@Num": "224",
+    "@Year": "28",
+    "LawNum": "平成二十八年政令第二百二十四号",
+    "LawBody": {
+      "LawTitle": "国会議事堂、内閣総理大臣官邸その他の国の重要な施設等、外国公館等及び原子力事業所の周辺地域の上空における小型無人機等の飛行の禁止に関する法律施行令",
+      "EnactStatement": "内閣は、国会議事堂、内閣総理大臣官邸その他の国の重要な施設等、外国公館等及び原子力事業所の周辺地域の上空における小型無人機等の飛行の禁止に関する法律（平成二十八年法律第九号）第二条第一項第一号ハ及び第六条第一項の規定に基づき、この政令を制定する。",
+      "MainProvision": {
+        "Article": [
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "1",
+            "ArticleCaption": "（法第二条第一項第一号ハの政令で定める国の行政機関及びその庁舎）",
+            "ArticleTitle": "第一条",
+            "Paragraph": {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "国会議事堂、内閣総理大臣官邸その他の国の重要な施設等、外国公館等及び原子力事業所の周辺地域の上空における小型無人機等の飛行の禁止に関する法律（以下「法」という。）第二条第一項第一号ハの政令で定める国の行政機関は、次の表の上欄に掲げるとおりとし、同号ハの政令で定める庁舎は、同表の上欄に掲げる国の行政機関ごとに、それぞれ同表の下欄に掲げるとおりとする。"
+                }
+              },
+              "TableStruct": {
+                "Table": {
+                  "@WritingMode": "vertical",
+                  "TableRow": [
+                    {
+                      "TableColumn": [
+                        {
+                          "@Align": "center",
+                          "@BorderBottom": "solid",
+                          "@BorderLeft": "solid",
+                          "@BorderRight": "solid",
+                          "@BorderTop": "solid",
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "国の行政機関"
+                          }
+                        },
+                        {
+                          "@Align": "center",
+                          "@BorderBottom": "solid",
+                          "@BorderLeft": "solid",
+                          "@BorderRight": "solid",
+                          "@BorderTop": "solid",
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "庁舎"
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "@BorderBottom": "solid",
+                          "@BorderLeft": "solid",
+                          "@BorderRight": "solid",
+                          "@BorderTop": "solid",
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "内閣官房"
+                          }
+                        },
+                        {
+                          "@BorderBottom": "solid",
+                          "@BorderLeft": "solid",
+                          "@BorderRight": "solid",
+                          "@BorderTop": "solid",
+                          "Item": [
+                            {
+                              "@Delete": "false",
+                              "@Hide": "false",
+                              "@Num": "1",
+                              "ItemTitle": "一",
+                              "ItemSentence": {
+                                "Sentence": {
+                                  "@WritingMode": "vertical",
+                                  "#text": "東京都千代田区永田町一丁目六番一号に所在する庁舎"
+                                }
+                              }
+                            },
+                            {
+                              "@Delete": "false",
+                              "@Hide": "false",
+                              "@Num": "2",
+                              "ItemTitle": "二",
+                              "ItemSentence": {
+                                "Sentence": {
+                                  "@WritingMode": "vertical",
+                                  "#text": "東京都千代田区永田町二丁目四番十二号に所在する庁舎"
+                                }
+                              }
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "@BorderBottom": "solid",
+                          "@BorderLeft": "solid",
+                          "@BorderRight": "solid",
+                          "@BorderTop": "solid",
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "内閣府"
+                          }
+                        },
+                        {
+                          "@BorderBottom": "solid",
+                          "@BorderLeft": "solid",
+                          "@BorderRight": "solid",
+                          "@BorderTop": "solid",
+                          "Item": [
+                            {
+                              "@Delete": "false",
+                              "@Hide": "false",
+                              "@Num": "1",
+                              "ItemTitle": "一",
+                              "ItemSentence": {
+                                "Sentence": {
+                                  "@WritingMode": "vertical",
+                                  "#text": "東京都千代田区永田町一丁目六番一号に所在する庁舎"
+                                }
+                              }
+                            },
+                            {
+                              "@Delete": "false",
+                              "@Hide": "false",
+                              "@Num": "2",
+                              "ItemTitle": "二",
+                              "ItemSentence": {
+                                "Sentence": {
+                                  "@WritingMode": "vertical",
+                                  "#text": "東京都港区赤坂五丁目二番二十号に所在する庁舎"
+                                }
+                              }
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "@BorderBottom": "solid",
+                          "@BorderLeft": "solid",
+                          "@BorderRight": "solid",
+                          "@BorderTop": "solid",
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "国家公安委員会"
+                          }
+                        },
+                        {
+                          "@BorderBottom": "solid",
+                          "@BorderLeft": "solid",
+                          "@BorderRight": "solid",
+                          "@BorderTop": "solid",
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "東京都千代田区霞が関二丁目一番二号に所在する庁舎"
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "@BorderBottom": "solid",
+                          "@BorderLeft": "solid",
+                          "@BorderRight": "solid",
+                          "@BorderTop": "solid",
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "総務省"
+                          }
+                        },
+                        {
+                          "@BorderBottom": "solid",
+                          "@BorderLeft": "solid",
+                          "@BorderRight": "solid",
+                          "@BorderTop": "solid",
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "東京都千代田区霞が関二丁目一番二号に所在する庁舎"
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "@BorderBottom": "solid",
+                          "@BorderLeft": "solid",
+                          "@BorderRight": "solid",
+                          "@BorderTop": "solid",
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "法務省"
+                          }
+                        },
+                        {
+                          "@BorderBottom": "solid",
+                          "@BorderLeft": "solid",
+                          "@BorderRight": "solid",
+                          "@BorderTop": "solid",
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "東京都千代田区霞が関一丁目一番一号に所在する庁舎"
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "@BorderBottom": "solid",
+                          "@BorderLeft": "solid",
+                          "@BorderRight": "solid",
+                          "@BorderTop": "solid",
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "外務省"
+                          }
+                        },
+                        {
+                          "@BorderBottom": "solid",
+                          "@BorderLeft": "solid",
+                          "@BorderRight": "solid",
+                          "@BorderTop": "solid",
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "東京都千代田区霞が関二丁目二番一号に所在する庁舎"
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "@BorderBottom": "solid",
+                          "@BorderLeft": "solid",
+                          "@BorderRight": "solid",
+                          "@BorderTop": "solid",
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "財務省"
+                          }
+                        },
+                        {
+                          "@BorderBottom": "solid",
+                          "@BorderLeft": "solid",
+                          "@BorderRight": "solid",
+                          "@BorderTop": "solid",
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "東京都千代田区霞が関三丁目一番一号に所在する庁舎"
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "@BorderBottom": "solid",
+                          "@BorderLeft": "solid",
+                          "@BorderRight": "solid",
+                          "@BorderTop": "solid",
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "文部科学省"
+                          }
+                        },
+                        {
+                          "@BorderBottom": "solid",
+                          "@BorderLeft": "solid",
+                          "@BorderRight": "solid",
+                          "@BorderTop": "solid",
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "東京都千代田区霞が関三丁目二番二号に所在する庁舎"
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "@BorderBottom": "solid",
+                          "@BorderLeft": "solid",
+                          "@BorderRight": "solid",
+                          "@BorderTop": "solid",
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "厚生労働省"
+                          }
+                        },
+                        {
+                          "@BorderBottom": "solid",
+                          "@BorderLeft": "solid",
+                          "@BorderRight": "solid",
+                          "@BorderTop": "solid",
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "東京都千代田区霞が関一丁目二番二号に所在する庁舎"
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "@BorderBottom": "solid",
+                          "@BorderLeft": "solid",
+                          "@BorderRight": "solid",
+                          "@BorderTop": "solid",
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "農林水産省"
+                          }
+                        },
+                        {
+                          "@BorderBottom": "solid",
+                          "@BorderLeft": "solid",
+                          "@BorderRight": "solid",
+                          "@BorderTop": "solid",
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "東京都千代田区霞が関一丁目二番一号に所在する庁舎"
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "@BorderBottom": "solid",
+                          "@BorderLeft": "solid",
+                          "@BorderRight": "solid",
+                          "@BorderTop": "solid",
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "経済産業省"
+                          }
+                        },
+                        {
+                          "@BorderBottom": "solid",
+                          "@BorderLeft": "solid",
+                          "@BorderRight": "solid",
+                          "@BorderTop": "solid",
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "東京都千代田区霞が関一丁目三番一号に所在する庁舎"
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "@BorderBottom": "solid",
+                          "@BorderLeft": "solid",
+                          "@BorderRight": "solid",
+                          "@BorderTop": "solid",
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "国土交通省"
+                          }
+                        },
+                        {
+                          "@BorderBottom": "solid",
+                          "@BorderLeft": "solid",
+                          "@BorderRight": "solid",
+                          "@BorderTop": "solid",
+                          "Item": [
+                            {
+                              "@Delete": "false",
+                              "@Hide": "false",
+                              "@Num": "1",
+                              "ItemTitle": "一",
+                              "ItemSentence": {
+                                "Sentence": {
+                                  "@WritingMode": "vertical",
+                                  "#text": "東京都千代田区霞が関二丁目一番二号に所在する庁舎"
+                                }
+                              }
+                            },
+                            {
+                              "@Delete": "false",
+                              "@Hide": "false",
+                              "@Num": "2",
+                              "ItemTitle": "二",
+                              "ItemSentence": {
+                                "Sentence": {
+                                  "@WritingMode": "vertical",
+                                  "#text": "東京都千代田区霞が関二丁目一番三号に所在する庁舎"
+                                }
+                              }
+                            },
+                            {
+                              "@Delete": "false",
+                              "@Hide": "false",
+                              "@Num": "3",
+                              "ItemTitle": "三",
+                              "ItemSentence": {
+                                "Sentence": {
+                                  "@WritingMode": "vertical",
+                                  "#text": "東京都千代田区大手町一丁目三番四号に所在する庁舎"
+                                }
+                              }
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "@BorderBottom": "solid",
+                          "@BorderLeft": "solid",
+                          "@BorderRight": "solid",
+                          "@BorderTop": "solid",
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "環境省"
+                          }
+                        },
+                        {
+                          "@BorderBottom": "solid",
+                          "@BorderLeft": "solid",
+                          "@BorderRight": "solid",
+                          "@BorderTop": "solid",
+                          "Item": [
+                            {
+                              "@Delete": "false",
+                              "@Hide": "false",
+                              "@Num": "1",
+                              "ItemTitle": "一",
+                              "ItemSentence": {
+                                "Sentence": {
+                                  "@WritingMode": "vertical",
+                                  "#text": "東京都千代田区霞が関一丁目二番二号に所在する庁舎"
+                                }
+                              }
+                            },
+                            {
+                              "@Delete": "false",
+                              "@Hide": "false",
+                              "@Num": "2",
+                              "ItemTitle": "二",
+                              "ItemSentence": {
+                                "Sentence": {
+                                  "@WritingMode": "vertical",
+                                  "#text": "東京都港区六本木一丁目九番九号に所在する庁舎"
+                                }
+                              }
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "@BorderBottom": "solid",
+                          "@BorderLeft": "solid",
+                          "@BorderRight": "solid",
+                          "@BorderTop": "solid",
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "防衛省"
+                          }
+                        },
+                        {
+                          "@BorderBottom": "solid",
+                          "@BorderLeft": "solid",
+                          "@BorderRight": "solid",
+                          "@BorderTop": "solid",
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "東京都新宿区市谷本村町五番一号に所在する庁舎"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "2",
+            "ArticleCaption": "（法第六条第一項の政令で定める原子力事業所）",
+            "ArticleTitle": "第二条",
+            "Paragraph": {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "法第六条第一項の政令で定める原子力事業所は、原子力災害対策特別措置法（平成十一年法律第百五十六号）第二条第四号に規定する原子力事業所とする。"
+                }
+              }
+            }
+          }
+        ]
+      },
+      "SupplProvision": {
+        "SupplProvisionLabel": "附　則",
+        "Paragraph": {
+          "@Hide": "false",
+          "@Num": "1",
+          "ParagraphNum": null,
+          "ParagraphSentence": {
+            "Sentence": {
+              "@WritingMode": "vertical",
+              "#text": "この政令は、法附則第一条ただし書に規定する規定の施行の日（平成二十八年五月二十三日）から施行する。"
+            }
+          }
+        }
+      }
+    }
+  }
+}

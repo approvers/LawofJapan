@@ -1,0 +1,1427 @@
+{
+  "Law": {
+    "@Era": "Heisei",
+    "@Lang": "ja",
+    "@LawType": "MinisterialOrdinance",
+    "@Num": "14",
+    "@Year": "21",
+    "LawNum": "平成二十一年総務省令第十四号",
+    "LawBody": {
+      "LawTitle": "自治紛争処理委員の調停、審査及び処理方策の提示の手続に関する省令",
+      "EnactStatement": "地方自治法施行令（昭和二十二年政令第十六号）第百七十四条の八の規定に基づき、自治紛争処理委員の審査の手続に関する省令を次のように定める。",
+      "TOC": {
+        "TOCLabel": "目次",
+        "TOCChapter": [
+          {
+            "@Num": "1",
+            "ChapterTitle": "第一章　総則",
+            "ArticleRange": "（第一条）"
+          },
+          {
+            "@Num": "2",
+            "ChapterTitle": "第二章　自治紛争処理委員",
+            "ArticleRange": "（第二条―第四条）"
+          },
+          {
+            "@Num": "3",
+            "ChapterTitle": "第三章　都道府県又は都道府県の機関が当事者となる普通地方公共団体相互の間又は普通地方公共団体の機関相互の間の紛争の調停",
+            "TOCSection": [
+              {
+                "@Num": "1",
+                "SectionTitle": "第一節　調停の手続",
+                "ArticleRange": "（第五条―第七条）"
+              },
+              {
+                "@Num": "2",
+                "SectionTitle": "第二節　当事者が調停に出席する場合の手続",
+                "ArticleRange": "（第八条・第九条）"
+              },
+              {
+                "@Num": "3",
+                "SectionTitle": "第三節　情報の収集",
+                "ArticleRange": "（第十条―第十二条）"
+              },
+              {
+                "@Num": "4",
+                "SectionTitle": "第四節　自治紛争処理委員の合議",
+                "ArticleRange": "（第十三条）"
+              }
+            ]
+          },
+          {
+            "@Num": "4",
+            "ChapterTitle": "第四章　都道府県の関与に関する審査の申出があった場合の審査",
+            "TOCSection": [
+              {
+                "@Num": "1",
+                "SectionTitle": "第一節　審査の手続",
+                "ArticleRange": "（第十四条―第二十一条）"
+              },
+              {
+                "@Num": "2",
+                "SectionTitle": "第二節　当事者等が審査に出席する場合の手続",
+                "ArticleRange": "（第二十二条―第二十五条）"
+              },
+              {
+                "@Num": "3",
+                "SectionTitle": "第三節　証拠調べ",
+                "ArticleRange": "（第二十六条―第三十九条）"
+              },
+              {
+                "@Num": "4",
+                "SectionTitle": "第四節　審査の申出の取下げ",
+                "ArticleRange": "（第四十条）"
+              },
+              {
+                "@Num": "5",
+                "SectionTitle": "第五節　自治紛争処理委員の合議",
+                "ArticleRange": "（第四十一条）"
+              }
+            ]
+          },
+          {
+            "@Num": "5",
+            "ChapterTitle": "第五章　都道府県が当事者となる連携協約を締結した普通地方公共団体相互の間の紛争に係る処理方策の提示",
+            "TOCSection": [
+              {
+                "@Num": "1",
+                "SectionTitle": "第一節　処理方策の提示の手続",
+                "ArticleRange": "（第四十二条―第四十四条）"
+              },
+              {
+                "@Num": "2",
+                "SectionTitle": "第二節　当事者が処理方策を定めるための審議に出席する場合の手続",
+                "ArticleRange": "（第四十五条・第四十六条）"
+              },
+              {
+                "@Num": "3",
+                "SectionTitle": "第三節　情報の収集",
+                "ArticleRange": "（第四十七条・第四十八条）"
+              },
+              {
+                "@Num": "4",
+                "SectionTitle": "第四節　自治紛争処理委員の合議",
+                "ArticleRange": "（第四十九条）"
+              }
+            ]
+          },
+          {
+            "@Num": "6",
+            "ChapterTitle": "第六章　電子情報処理組織による提出等の手続等",
+            "ArticleRange": "（第五十条―第五十二条）"
+          }
+        ],
+        "TOCSupplProvision": {
+          "SupplProvisionLabel": "附則"
+        }
+      },
+      "MainProvision": {
+        "Chapter": [
+          {
+            "@Num": "1",
+            "ChapterTitle": "第一章　総則",
+            "Article": {
+              "@Num": "1",
+              "ArticleCaption": "（趣旨）",
+              "ArticleTitle": "第一条",
+              "Paragraph": {
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": "総務大臣が任命する自治紛争処理委員（以下「自治紛争処理委員」という。）が行う調停、審査及び処理方策の提示（地方自治法（昭和二十二年法律第六十七号。以下「法」という。）第二百五十一条の三の二第一項に規定する処理方策をいう。以下同じ。）の手続については、法及び地方自治法施行令（昭和二十二年政令第十六号。以下「令」という。）に定めるもののほか、この省令の定めるところによる。"
+                }
+              }
+            }
+          },
+          {
+            "@Num": "2",
+            "ChapterTitle": "第二章　自治紛争処理委員",
+            "Article": [
+              {
+                "@Num": "2",
+                "ArticleCaption": "（職務の執行）",
+                "ArticleTitle": "第二条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "自治紛争処理委員は、何人からも指示を受けず、良心に従い、かつ、法令に基づいてその職務を執行しなければならない。"
+                  }
+                }
+              },
+              {
+                "@Num": "3",
+                "ArticleCaption": "（代表自治紛争処理委員）",
+                "ArticleTitle": "第三条",
+                "Paragraph": [
+                  {
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": "自治紛争処理委員は、代表自治紛争処理委員を互選しなければならない。"
+                    }
+                  },
+                  {
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": "代表自治紛争処理委員は、自治紛争処理委員の会議を主宰し、自治紛争処理委員を代表する。"
+                    }
+                  },
+                  {
+                    "@Num": "3",
+                    "ParagraphNum": "３",
+                    "ParagraphSentence": {
+                      "Sentence": "自治紛争処理委員の会議は、代表自治紛争処理委員がこれを招集する。"
+                    }
+                  },
+                  {
+                    "@Num": "4",
+                    "ParagraphNum": "４",
+                    "ParagraphSentence": {
+                      "Sentence": "代表自治紛争処理委員に事故があるときは、代表自治紛争処理委員の指定する自治紛争処理委員がその職務を代理する。"
+                    }
+                  }
+                ]
+              },
+              {
+                "@Num": "4",
+                "ArticleCaption": "（異動）",
+                "ArticleTitle": "第四条",
+                "Paragraph": [
+                  {
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": "法第二百五十一条第五項並びに第六項により準用する法第二百五十条の九第八項、第九項（第二号を除く。）、第十項及び第十一項の規定により自治紛争処理委員の欠員を生じた場合においては、法第二百五十一条第二項に定める資格を有する者のうちから、総務大臣が自治紛争処理委員を任命することができる。"
+                    }
+                  },
+                  {
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": "前項の規定により自治紛争処理委員の中に異動があった場合においても、既に行った調停、審査及び勧告並びに処理方策の提示の手続は、影響は受けないものとする。"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "@Num": "3",
+            "ChapterTitle": "第三章　都道府県又は都道府県の機関が当事者となる普通地方公共団体相互の間又は普通地方公共団体の機関相互の間の紛争の調停",
+            "Section": [
+              {
+                "@Num": "1",
+                "SectionTitle": "第一節　調停の手続",
+                "Article": [
+                  {
+                    "@Num": "5",
+                    "ArticleCaption": "（申請書）",
+                    "ArticleTitle": "第五条",
+                    "Paragraph": {
+                      "@Num": "1",
+                      "ParagraphNum": null,
+                      "ParagraphSentence": {
+                        "Sentence": "法第二百五十一条の二第一項の文書には、次に掲げる事項を記載しなければならない。"
+                      },
+                      "Item": [
+                        {
+                          "@Num": "1",
+                          "ItemTitle": "一",
+                          "ItemSentence": {
+                            "Sentence": "紛争の当事者"
+                          }
+                        },
+                        {
+                          "@Num": "2",
+                          "ItemTitle": "二",
+                          "ItemSentence": {
+                            "Sentence": "調停を求める事項（当事者の主張の要点を含む。）"
+                          }
+                        },
+                        {
+                          "@Num": "3",
+                          "ItemTitle": "三",
+                          "ItemSentence": {
+                            "Sentence": "紛争の経過"
+                          }
+                        },
+                        {
+                          "@Num": "4",
+                          "ItemTitle": "四",
+                          "ItemSentence": {
+                            "Sentence": "申請の年月日"
+                          }
+                        },
+                        {
+                          "@Num": "5",
+                          "ItemTitle": "五",
+                          "ItemSentence": {
+                            "Sentence": "前各号に掲げるもののほか、調停を行うについて参考となる事項"
+                          }
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "@Num": "6",
+                    "ArticleCaption": "（調停の期日及び場所）",
+                    "ArticleTitle": "第六条",
+                    "Paragraph": [
+                      {
+                        "@Num": "1",
+                        "ParagraphNum": null,
+                        "ParagraphSentence": {
+                          "Sentence": "自治紛争処理委員の調停の期日及び場所は、代表自治紛争処理委員がこれを定める。"
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "ParagraphNum": "２",
+                        "ParagraphSentence": {
+                          "Sentence": "代表自治紛争処理委員は、必要があると認めるときは、自治紛争処理委員の調停の期日及び場所を変更することができる。"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Num": "7",
+                    "ArticleCaption": "（代理人の選任及び解任の届出）",
+                    "ArticleTitle": "第七条",
+                    "Paragraph": {
+                      "@Num": "1",
+                      "ParagraphNum": null,
+                      "ParagraphSentence": {
+                        "Sentence": [
+                          {
+                            "@Num": "1",
+                            "#text": "当事者は、代理人を選任したときは、書面をもってその者の氏名及び職業を自治紛争処理委員に届け出なければならない。"
+                          },
+                          {
+                            "@Num": "2",
+                            "#text": "解任したときも、同様とする。"
+                          }
+                        ]
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "@Num": "2",
+                "SectionTitle": "第二節　当事者が調停に出席する場合の手続",
+                "Article": [
+                  {
+                    "@Num": "8",
+                    "ArticleCaption": "（調停の公開）",
+                    "ArticleTitle": "第八条",
+                    "Paragraph": {
+                      "@Num": "1",
+                      "ParagraphNum": null,
+                      "ParagraphSentence": {
+                        "Sentence": "当事者が出席する調停は、自治紛争処理委員が公開とすることを相当と認める場合に限り公開する。"
+                      }
+                    }
+                  },
+                  {
+                    "@Num": "9",
+                    "ArticleCaption": "（秩序の維持）",
+                    "ArticleTitle": "第九条",
+                    "Paragraph": [
+                      {
+                        "@Num": "1",
+                        "ParagraphNum": null,
+                        "ParagraphSentence": {
+                          "Sentence": "調停の期日における秩序の維持は、代表自治紛争処理委員が行う。"
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "ParagraphNum": "２",
+                        "ParagraphSentence": {
+                          "Sentence": "代表自治紛争処理委員は、前項に定めるもののほか、調停手続の円滑な進行を確保するために必要な措置をとることができる。"
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "@Num": "3",
+                "SectionTitle": "第三節　情報の収集",
+                "Article": [
+                  {
+                    "@Num": "10",
+                    "ArticleCaption": "（参考人の陳述等）",
+                    "ArticleTitle": "第十条",
+                    "Paragraph": {
+                      "@Num": "1",
+                      "ParagraphNum": null,
+                      "ParagraphSentence": {
+                        "Sentence": "自治紛争処理委員は、調停を行うため必要があると認めるときは、事件の参考人に陳述若しくは意見を求め、又は鑑定人に鑑定を依頼することができる。"
+                      }
+                    }
+                  },
+                  {
+                    "@Num": "11",
+                    "ArticleCaption": "（自治紛争処理委員による情報の収集）",
+                    "ArticleTitle": "第十一条",
+                    "Paragraph": {
+                      "@Num": "1",
+                      "ParagraphNum": null,
+                      "ParagraphSentence": {
+                        "Sentence": "自治紛争処理委員は、法第二百五十一条の二第九項及び前条の規定により情報の収集を行うときは、自治紛争処理委員の調停の期日外においてもこれを行うことができる。"
+                      }
+                    }
+                  },
+                  {
+                    "@Num": "12",
+                    "ArticleTitle": "第十二条",
+                    "Paragraph": {
+                      "@Num": "1",
+                      "ParagraphNum": null,
+                      "ParagraphSentence": {
+                        "Sentence": "削除"
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "@Num": "4",
+                "SectionTitle": "第四節　自治紛争処理委員の合議",
+                "Article": {
+                  "@Num": "13",
+                  "ArticleCaption": "（合議）",
+                  "ArticleTitle": "第十三条",
+                  "Paragraph": {
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": "次に掲げる事項は、自治紛争処理委員の合議によるものとする。"
+                    },
+                    "Item": [
+                      {
+                        "@Num": "1",
+                        "ItemTitle": "一",
+                        "ItemSentence": {
+                          "Sentence": "第八条の規定による当事者が出席する調停の公開の決定"
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "ItemTitle": "二",
+                        "ItemSentence": {
+                          "Sentence": "第十条の規定による参考人による陳述又は鑑定人による鑑定の依頼の決定"
+                        }
+                      }
+                    ]
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "@Num": "4",
+            "ChapterTitle": "第四章　都道府県の関与に関する審査の申出があった場合の審査",
+            "Section": [
+              {
+                "@Num": "1",
+                "SectionTitle": "第一節　審査の手続",
+                "Article": [
+                  {
+                    "@Num": "14",
+                    "ArticleCaption": "（審査の開始）",
+                    "ArticleTitle": "第十四条",
+                    "Paragraph": {
+                      "@Num": "1",
+                      "ParagraphNum": null,
+                      "ParagraphSentence": {
+                        "Sentence": "自治紛争処理委員は、法第二百五十一条の三第一項から第三項までに規定する都道府県の関与に関する審査の申出に係る事件が審査に付されたのち、速やかに審査のための手続を開始しなければならない。"
+                      }
+                    }
+                  },
+                  {
+                    "@Num": "15",
+                    "ArticleCaption": "（文書の補正）",
+                    "ArticleTitle": "第十五条",
+                    "Paragraph": {
+                      "@Num": "1",
+                      "ParagraphNum": null,
+                      "ParagraphSentence": {
+                        "Sentence": "法第二百五十一条の三第一項から第三項までに規定する文書（以下「審査申出書」という。）がそれぞれ令第百七十四条の七第一項から第三項までの規定に違反する場合には、代表自治紛争処理委員は、相当の期間を定め、その期間内に不備を補正すべきことを命じなければならない。"
+                      }
+                    }
+                  },
+                  {
+                    "@Num": "16",
+                    "ArticleCaption": "（答弁書の提出）",
+                    "ArticleTitle": "第十六条",
+                    "Paragraph": [
+                      {
+                        "@Num": "1",
+                        "ParagraphNum": null,
+                        "ParagraphSentence": {
+                          "Sentence": "代表自治紛争処理委員は、法第二百五十一条の三第一項から第三項までに規定する都道府県の関与に関する審査の申出に係る事件が審査に付された場合には、審査申出書の写しを相手方である都道府県の行政庁に送付し、相当の期間を定めて答弁書の提出を求めることができる。"
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "ParagraphNum": "２",
+                        "ParagraphSentence": {
+                          "Sentence": "答弁書は、正副二通を提出しなければならない。"
+                        }
+                      },
+                      {
+                        "@Num": "3",
+                        "ParagraphNum": "３",
+                        "ParagraphSentence": {
+                          "Sentence": "代表自治紛争処理委員は、相手方である都道府県の行政庁から答弁書の提出があった場合は、その副本を当該審査の申出を行った市町村長その他の市町村の執行機関に送付しなければならない。"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Num": "17",
+                    "ArticleCaption": "（反論書の提出）",
+                    "ArticleTitle": "第十七条",
+                    "Paragraph": {
+                      "@Num": "1",
+                      "ParagraphNum": null,
+                      "ParagraphSentence": {
+                        "Sentence": [
+                          {
+                            "@Num": "1",
+                            "#text": "審査の申出を行った市町村長その他の市町村の執行機関は、前条第三項の規定により答弁書の副本の送付を受けたときは、これに対する反論書を提出することができる。"
+                          },
+                          {
+                            "@Num": "2",
+                            "#text": "この場合において、代表自治紛争処理委員が、反論書を提出すべき相当の期間を定めたときは、その期間内にこれを提出しなければならない。"
+                          }
+                        ]
+                      }
+                    }
+                  },
+                  {
+                    "@Num": "18",
+                    "ArticleCaption": "（審査の期日及び場所）",
+                    "ArticleTitle": "第十八条",
+                    "Paragraph": [
+                      {
+                        "@Num": "1",
+                        "ParagraphNum": null,
+                        "ParagraphSentence": {
+                          "Sentence": "自治紛争処理委員の審査の期日及び場所は、代表自治紛争処理委員がこれを定める。"
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "ParagraphNum": "２",
+                        "ParagraphSentence": {
+                          "Sentence": "自治紛争処理委員は、審査の申出を行った市町村長その他の市町村の執行機関及び相手方である都道府県の行政庁（以下「当事者」という。）に出席を求める場合には、自治紛争処理委員の審査の期日及び場所並びに出席を求める旨を記載した通知書を送付しなければならない。"
+                        }
+                      },
+                      {
+                        "@Num": "3",
+                        "ParagraphNum": "３",
+                        "ParagraphSentence": {
+                          "Sentence": "代表自治紛争処理委員は、必要があると認めるときは、自治紛争処理委員の審査の期日及び場所を変更することができる。"
+                        }
+                      },
+                      {
+                        "@Num": "4",
+                        "ParagraphNum": "４",
+                        "ParagraphSentence": {
+                          "Sentence": "前項の場合において、当事者の出席する予定がないときを除き、自治紛争処理委員は、その審査の期日及び場所を、当該当事者に通知しなければならない。"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Num": "19",
+                    "ArticleCaption": "（関係行政機関の参加）",
+                    "ArticleTitle": "第十九条",
+                    "Paragraph": [
+                      {
+                        "@Num": "1",
+                        "ParagraphNum": null,
+                        "ParagraphSentence": {
+                          "Sentence": "法第二百五十一条の三第五項から第七項までにおいて準用する法第二百五十条の十五第一項に規定する当事者又は関係行政機関による関係行政機関の審査手続への参加の申立ては、参加理由を記載した書面をもって行うものとする。"
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "ParagraphNum": "２",
+                        "ParagraphSentence": {
+                          "Sentence": "自治紛争処理委員は、前項の申立てにより関係行政機関の参加を認めたときは、その旨を当事者、当該関係行政機関及び法第二百五十一条の三第五項から第七項までにおいて準用する法第二百五十条の十六第一項に規定する参加行政機関に通知しなければならない。"
+                        }
+                      },
+                      {
+                        "@Num": "3",
+                        "ParagraphNum": "３",
+                        "ParagraphSentence": {
+                          "Sentence": "自治紛争処理委員が法第二百五十一条の三第五項から第七項までにおいて準用する法第二百五十条の十五第一項の規定に基づき関係行政機関を職権で審査手続に参加させる場合には、前項の規定を準用する。"
+                        }
+                      },
+                      {
+                        "@Num": "4",
+                        "ParagraphNum": "４",
+                        "ParagraphSentence": {
+                          "Sentence": "前条第二項及び第四項の規定は、参加行政機関について準用する。"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Num": "20",
+                    "ArticleCaption": "（代理人の選任及び解任の届出）",
+                    "ArticleTitle": "第二十条",
+                    "Paragraph": {
+                      "@Num": "1",
+                      "ParagraphNum": null,
+                      "ParagraphSentence": {
+                        "Sentence": [
+                          {
+                            "@Num": "1",
+                            "#text": "当事者及び参加行政機関（以下「当事者等」という。）は、代理人を選任したときは、書面をもってその者の氏名及び職業を自治紛争処理委員に届け出なければならない。"
+                          },
+                          {
+                            "@Num": "2",
+                            "#text": "解任したときも、同様とする。"
+                          }
+                        ]
+                      }
+                    }
+                  },
+                  {
+                    "@Num": "21",
+                    "ArticleCaption": "（当事者等が作成した書面の送付）",
+                    "ArticleTitle": "第二十一条",
+                    "Paragraph": [
+                      {
+                        "@Num": "1",
+                        "ParagraphNum": null,
+                        "ParagraphSentence": {
+                          "Sentence": "当事者等は、自治紛争処理委員に提出したすべての書面を、遅滞なく、その他の当事者等に送付しなければならない。"
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "ParagraphNum": "２",
+                        "ParagraphSentence": {
+                          "Sentence": "前項の規定による書面の送付を受けた当事者等は、当該書面を受領した旨を記載した書面を自治紛争処理委員に提出しなければならない。"
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "@Num": "2",
+                "SectionTitle": "第二節　当事者等が審査に出席する場合の手続",
+                "Article": [
+                  {
+                    "@Num": "22",
+                    "ArticleCaption": "（審査の公開）",
+                    "ArticleTitle": "第二十二条",
+                    "Paragraph": {
+                      "@Num": "1",
+                      "ParagraphNum": null,
+                      "ParagraphSentence": {
+                        "Sentence": "当事者等が出席する審査は、自治紛争処理委員が公開とすることを相当と認める場合に限り公開する。"
+                      }
+                    }
+                  },
+                  {
+                    "@Num": "23",
+                    "ArticleCaption": "（秩序の維持）",
+                    "ArticleTitle": "第二十三条",
+                    "Paragraph": [
+                      {
+                        "@Num": "1",
+                        "ParagraphNum": null,
+                        "ParagraphSentence": {
+                          "Sentence": "審査期日における秩序の維持は、代表自治紛争処理委員が行う。"
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "ParagraphNum": "２",
+                        "ParagraphSentence": {
+                          "Sentence": "代表自治紛争処理委員は、当事者等が行う陳述が既になした陳述と重複し、又は審査に係る事案と関係のない事項にわたるときその他特に必要と認めるときは、これを制限することができる。"
+                        }
+                      },
+                      {
+                        "@Num": "3",
+                        "ParagraphNum": "３",
+                        "ParagraphSentence": {
+                          "Sentence": "代表自治紛争処理委員は、前二項に定めるもののほか、審査手続の円滑な進行を確保するために必要な措置をとることができる。"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Num": "24",
+                    "ArticleCaption": "（出席者の発言）",
+                    "ArticleTitle": "第二十四条",
+                    "Paragraph": [
+                      {
+                        "@Num": "1",
+                        "ParagraphNum": null,
+                        "ParagraphSentence": {
+                          "Sentence": "審査に出席した者が発言しようとするときは、代表自治紛争処理委員の許可を受けなければならない。"
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "ParagraphNum": "２",
+                        "ParagraphSentence": {
+                          "Sentence": "審査に出席した者の陳述は、事案の範囲を超えてはならない。"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Num": "25",
+                    "ArticleCaption": "（釈明及び発問）",
+                    "ArticleTitle": "第二十五条",
+                    "Paragraph": [
+                      {
+                        "@Num": "1",
+                        "ParagraphNum": null,
+                        "ParagraphSentence": {
+                          "Sentence": "自治紛争処理委員は、事実関係を明らかにするため、当事者等に対し、発問し、又は立証を促すことができる。"
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "ParagraphNum": "２",
+                        "ParagraphSentence": {
+                          "Sentence": "当事者等は、他の当事者等の陳述の趣旨が明らかでないときは、代表自治紛争処理委員に発問を求め、又は代表自治紛争処理委員の許可を得て直接に相手方に発問することができる。"
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "@Num": "3",
+                "SectionTitle": "第三節　証拠調べ",
+                "Article": [
+                  {
+                    "@Num": "26",
+                    "ArticleCaption": "（証拠調べの申立て）",
+                    "ArticleTitle": "第二十六条",
+                    "Paragraph": {
+                      "@Num": "1",
+                      "ParagraphNum": null,
+                      "ParagraphSentence": {
+                        "Sentence": "法第二百五十一条の三第五項から第七項までにおいて準用する法第二百五十条の十六第一項に規定する証拠調べの申立ては文書で行わなければならない。"
+                      }
+                    }
+                  },
+                  {
+                    "@Num": "27",
+                    "ArticleCaption": "（証拠調べの申立ての期限）",
+                    "ArticleTitle": "第二十七条",
+                    "Paragraph": {
+                      "@Num": "1",
+                      "ParagraphNum": null,
+                      "ParagraphSentence": {
+                        "Sentence": "自治紛争処理委員は、証拠調べの申立てができる期限を定めて、当事者等に通知するものとする。"
+                      }
+                    }
+                  },
+                  {
+                    "@Num": "28",
+                    "ArticleCaption": "（証拠調べの申立ての採否）",
+                    "ArticleTitle": "第二十八条",
+                    "Paragraph": {
+                      "@Num": "1",
+                      "ParagraphNum": null,
+                      "ParagraphSentence": {
+                        "Sentence": "自治紛争処理委員は、法第二百五十一条の三第五項から第七項までにおいて準用する法第二百五十条の十六第一項に規定する証拠調べの申立てがあった場合にはその採否について、同項の規定により職権で証拠調べを行う場合にはその決定について、当事者等に通知するものとする。"
+                      }
+                    }
+                  },
+                  {
+                    "@Num": "29",
+                    "ArticleCaption": "（参考人の陳述の申立て）",
+                    "ArticleTitle": "第二十九条",
+                    "Paragraph": {
+                      "@Num": "1",
+                      "ParagraphNum": null,
+                      "ParagraphSentence": {
+                        "Sentence": "法第二百五十一条の三第五項から第七項までにおいて準用する法第二百五十条の十六第一項第一号に基づく参考人の陳述の申立ては、陳述を求めようとする事項を明示して行わなければならない。"
+                      }
+                    }
+                  },
+                  {
+                    "@Num": "30",
+                    "ArticleCaption": "（鑑定の申立て）",
+                    "ArticleTitle": "第三十条",
+                    "Paragraph": {
+                      "@Num": "1",
+                      "ParagraphNum": null,
+                      "ParagraphSentence": {
+                        "Sentence": "法第二百五十一条の三第五項から第七項までにおいて準用する法第二百五十条の十六第一項第一号に基づく鑑定の申立ては、鑑定を求めようとする事項を明示して行わなければならない。"
+                      }
+                    }
+                  },
+                  {
+                    "@Num": "31",
+                    "ArticleCaption": "（呼出状）",
+                    "ArticleTitle": "第三十一条",
+                    "Paragraph": {
+                      "@Num": "1",
+                      "ParagraphNum": null,
+                      "ParagraphSentence": {
+                        "Sentence": "自治紛争処理委員は、参考人又は鑑定人に出席を求めるときには、次に掲げる事項を記載した呼出状によって行わなければならない。"
+                      },
+                      "Item": [
+                        {
+                          "@Num": "1",
+                          "ItemTitle": "一",
+                          "ItemSentence": {
+                            "Sentence": "事案の要旨"
+                          }
+                        },
+                        {
+                          "@Num": "2",
+                          "ItemTitle": "二",
+                          "ItemSentence": {
+                            "Sentence": "出席すべき日時及び場所"
+                          }
+                        },
+                        {
+                          "@Num": "3",
+                          "ItemTitle": "三",
+                          "ItemSentence": {
+                            "Sentence": "陳述又は鑑定を求めようとする事項"
+                          }
+                        },
+                        {
+                          "@Num": "4",
+                          "ItemTitle": "四",
+                          "ItemSentence": {
+                            "Sentence": "その他必要と認める事項"
+                          }
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "@Num": "32",
+                    "ArticleCaption": "（参考人の審尋）",
+                    "ArticleTitle": "第三十二条",
+                    "Paragraph": {
+                      "@Num": "1",
+                      "ParagraphNum": null,
+                      "ParagraphSentence": {
+                        "Sentence": [
+                          {
+                            "@Num": "1",
+                            "#text": "参考人の審尋については、自治紛争処理委員が特に必要と認める場合には、当事者等を立ち会わせることができる。"
+                          },
+                          {
+                            "@Num": "2",
+                            "#text": "この場合においては、当事者等は、代表自治紛争処理委員の許可を得て、参考人を審尋することができる。"
+                          }
+                        ]
+                      }
+                    }
+                  },
+                  {
+                    "@Num": "33",
+                    "ArticleCaption": "（書類その他の物件の提出要求等の申立て）",
+                    "ArticleTitle": "第三十三条",
+                    "Paragraph": {
+                      "@Num": "1",
+                      "ParagraphNum": null,
+                      "ParagraphSentence": {
+                        "Sentence": "当事者等が、法第二百五十一条の三第五項から第七項までにおいて準用する法第二百五十条の十六第一項第二号に規定する書類その他の物件の提出要求及び留置の申立てを行うときは、次に掲げる事項を明示して行わなければならない。"
+                      },
+                      "Item": [
+                        {
+                          "@Num": "1",
+                          "ItemTitle": "一",
+                          "ItemSentence": {
+                            "Sentence": "書類その他の物件の表示"
+                          }
+                        },
+                        {
+                          "@Num": "2",
+                          "ItemTitle": "二",
+                          "ItemSentence": {
+                            "Sentence": "書類その他の物件の所在及び所持人"
+                          }
+                        },
+                        {
+                          "@Num": "3",
+                          "ItemTitle": "三",
+                          "ItemSentence": {
+                            "Sentence": "証明しようとする事実"
+                          }
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "@Num": "34",
+                    "ArticleCaption": "（留め置いた物件の還付）",
+                    "ArticleTitle": "第三十四条",
+                    "Paragraph": {
+                      "@Num": "1",
+                      "ParagraphNum": null,
+                      "ParagraphSentence": {
+                        "Sentence": "法第二百五十一条の三第五項から第七項までにおいて準用する法第二百五十条の十六第一項第二号の規定により留め置いた物件で留め置く必要がなくなったものは、速やかにこれを還付しなければならない。"
+                      }
+                    }
+                  },
+                  {
+                    "@Num": "35",
+                    "ArticleCaption": "（検証の申立て）",
+                    "ArticleTitle": "第三十五条",
+                    "Paragraph": [
+                      {
+                        "@Num": "1",
+                        "ParagraphNum": null,
+                        "ParagraphSentence": {
+                          "Sentence": "法第二百五十一条の三第五項から第七項までにおいて準用する法第二百五十条の十六第一項第三号に基づく検証の申立ては、検証の場所及び目的を明示して行わなければならない。"
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "ParagraphNum": "２",
+                        "ParagraphSentence": {
+                          "Sentence": "検証については、自治紛争処理委員が特に必要と認める場合には、当事者等を立ち会わせることができる。"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Num": "36",
+                    "ArticleCaption": "（当事者等の職員の審尋）",
+                    "ArticleTitle": "第三十六条",
+                    "Paragraph": {
+                      "@Num": "1",
+                      "ParagraphNum": null,
+                      "ParagraphSentence": {
+                        "Sentence": "第二十九条、第三十一条及び第三十二条の規定は、法第二百五十一条の三第五項から第七項までにおいて準用する法第二百五十条の十六第一項第四号に規定する当事者等の職員の審尋についても適用する。"
+                      }
+                    }
+                  },
+                  {
+                    "@Num": "37",
+                    "ArticleCaption": "（証拠の提出）",
+                    "ArticleTitle": "第三十七条",
+                    "Paragraph": {
+                      "@Num": "1",
+                      "ParagraphNum": null,
+                      "ParagraphSentence": {
+                        "Sentence": "当事者等は、法第二百五十一条の三第五項から第七項までにおいて準用する法第二百五十条の十六第二項に規定する証拠の提出について、自治紛争処理委員が証拠を提出すべき相当の期間を定めたときは、その期間内にこれを提出しなければならない。"
+                      }
+                    }
+                  },
+                  {
+                    "@Num": "38",
+                    "ArticleCaption": "（自治紛争処理委員による証拠調べ）",
+                    "ArticleTitle": "第三十八条",
+                    "Paragraph": {
+                      "@Num": "1",
+                      "ParagraphNum": null,
+                      "ParagraphSentence": {
+                        "Sentence": "自治紛争処理委員は、法第二百五十一条の三第五項から第七項までにおいて準用する法第二百五十条の十六の規定により証拠調べを行うときは、自治紛争処理委員の審査期日外においてもこれを行うことができる。"
+                      }
+                    }
+                  },
+                  {
+                    "@Num": "39",
+                    "ArticleCaption": "（閲覧）",
+                    "ArticleTitle": "第三十九条",
+                    "Paragraph": [
+                      {
+                        "@Num": "1",
+                        "ParagraphNum": null,
+                        "ParagraphSentence": {
+                          "Sentence": [
+                            {
+                              "@Num": "1",
+                              "#text": "当事者等は、自治紛争処理委員に対し、他の当事者等から提出された書類その他の物件の閲覧を求めることができる。"
+                            },
+                            {
+                              "@Num": "2",
+                              "#text": "この場合において、自治紛争処理委員は、正当な理由があるときでなければ、その閲覧を拒むことができない。"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "ParagraphNum": "２",
+                        "ParagraphSentence": {
+                          "Sentence": "自治紛争処理委員は、前項の規定による閲覧について、日時及び場所を指定することができる。"
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "@Num": "4",
+                "SectionTitle": "第四節　審査の申出の取下げ",
+                "Article": {
+                  "@Num": "40",
+                  "ArticleCaption": "（当事者等への通知）",
+                  "ArticleTitle": "第四十条",
+                  "Paragraph": {
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": "自治紛争処理委員は、法第二百五十一条の三第五項から第七項までにおいて準用する法第二百五十条の十七の規定による審査の申出の取下げが行われた場合には、速やかにその旨を他の当事者等に通知しなければならない。"
+                    }
+                  }
+                }
+              },
+              {
+                "@Num": "5",
+                "SectionTitle": "第五節　自治紛争処理委員の合議",
+                "Article": {
+                  "@Num": "41",
+                  "ArticleCaption": "（合議）",
+                  "ArticleTitle": "第四十一条",
+                  "Paragraph": {
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": "次に掲げる事項は、自治紛争処理委員の合議によるものとする。"
+                    },
+                    "Item": [
+                      {
+                        "@Num": "1",
+                        "ItemTitle": "一",
+                        "ItemSentence": {
+                          "Sentence": "第十四条の規定による審査の手続の開始"
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "ItemTitle": "二",
+                        "ItemSentence": {
+                          "Sentence": "第十八条第二項の規定による当事者に出席を求める決定（第十九条第四項の規定により準用して行う決定を含む。）"
+                        }
+                      },
+                      {
+                        "@Num": "3",
+                        "ItemTitle": "三",
+                        "ItemSentence": {
+                          "Sentence": "第二十二条の規定による当事者等が出席する審査の公開の決定"
+                        }
+                      },
+                      {
+                        "@Num": "4",
+                        "ItemTitle": "四",
+                        "ItemSentence": {
+                          "Sentence": "第二十七条の規定による証拠調べの申立ての期限の決定"
+                        }
+                      },
+                      {
+                        "@Num": "5",
+                        "ItemTitle": "五",
+                        "ItemSentence": {
+                          "Sentence": "第三十一条の規定による参考人又は鑑定人に出席を求める決定（第三十六条の規定により準用して行う決定を含む。）"
+                        }
+                      },
+                      {
+                        "@Num": "6",
+                        "ItemTitle": "六",
+                        "ItemSentence": {
+                          "Sentence": "第三十二条の規定による参考人の審尋について当事者等の立ち会いを認める決定（第三十六条の規定により準用して行う決定を含む。）"
+                        }
+                      },
+                      {
+                        "@Num": "7",
+                        "ItemTitle": "七",
+                        "ItemSentence": {
+                          "Sentence": "第三十五条第二項の規定による検証について当事者等の立ち会いを認める決定"
+                        }
+                      },
+                      {
+                        "@Num": "8",
+                        "ItemTitle": "八",
+                        "ItemSentence": {
+                          "Sentence": "第三十七条の規定による証拠を提出すべき相当の期間の決定"
+                        }
+                      },
+                      {
+                        "@Num": "9",
+                        "ItemTitle": "九",
+                        "ItemSentence": {
+                          "Sentence": "第三十九条の規定による閲覧拒否の決定又は閲覧の日時及び場所の指定"
+                        }
+                      }
+                    ]
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "@Num": "5",
+            "ChapterTitle": "第五章　都道府県が当事者となる連携協約を締結した普通地方公共団体相互の間の紛争に係る処理方策の提示",
+            "Section": [
+              {
+                "@Num": "1",
+                "SectionTitle": "第一節　処理方策の提示の手続",
+                "Article": [
+                  {
+                    "@Num": "42",
+                    "ArticleCaption": "（申請書）",
+                    "ArticleTitle": "第四十二条",
+                    "Paragraph": {
+                      "@Num": "1",
+                      "ParagraphNum": null,
+                      "ParagraphSentence": {
+                        "Sentence": "法第二百五十二条の二第七項の文書には、次に掲げる事項を記載しなければならない。"
+                      },
+                      "Item": [
+                        {
+                          "@Num": "1",
+                          "ItemTitle": "一",
+                          "ItemSentence": {
+                            "Sentence": "紛争の当事者"
+                          }
+                        },
+                        {
+                          "@Num": "2",
+                          "ItemTitle": "二",
+                          "ItemSentence": {
+                            "Sentence": "処理方策の提示を求める事項（当事者の主張の要点を含む。）"
+                          }
+                        },
+                        {
+                          "@Num": "3",
+                          "ItemTitle": "三",
+                          "ItemSentence": {
+                            "Sentence": "紛争の経過"
+                          }
+                        },
+                        {
+                          "@Num": "4",
+                          "ItemTitle": "四",
+                          "ItemSentence": {
+                            "Sentence": "申請の年月日"
+                          }
+                        },
+                        {
+                          "@Num": "5",
+                          "ItemTitle": "五",
+                          "ItemSentence": {
+                            "Sentence": "前各号に掲げるもののほか、処理方策の提示を行うについて参考となる事項"
+                          }
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "@Num": "43",
+                    "ArticleCaption": "（処理方策を定めるための審議の期日及び場所）",
+                    "ArticleTitle": "第四十三条",
+                    "Paragraph": [
+                      {
+                        "@Num": "1",
+                        "ParagraphNum": null,
+                        "ParagraphSentence": {
+                          "Sentence": "処理方策を定めるための審議の期日及び場所は、代表自治紛争処理委員がこれを定める。"
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "ParagraphNum": "２",
+                        "ParagraphSentence": {
+                          "Sentence": "代表自治紛争処理委員は、必要があると認めるときは、処理方策を定めるための審議の期日及び場所を変更することができる。"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Num": "44",
+                    "ArticleCaption": "（代理人の選任及び解任の届出）",
+                    "ArticleTitle": "第四十四条",
+                    "Paragraph": {
+                      "@Num": "1",
+                      "ParagraphNum": null,
+                      "ParagraphSentence": {
+                        "Sentence": [
+                          {
+                            "@Num": "1",
+                            "#text": "当事者は、代理人を選任したときは、書面をもってその者の氏名及び職業を自治紛争処理委員に届け出なければならない。"
+                          },
+                          {
+                            "@Num": "2",
+                            "#text": "解任したときも、同様とする。"
+                          }
+                        ]
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "@Num": "2",
+                "SectionTitle": "第二節　当事者が処理方策を定めるための審議に出席する場合の手続",
+                "Article": [
+                  {
+                    "@Num": "45",
+                    "ArticleCaption": "（処理方策を定めるための審議の公開）",
+                    "ArticleTitle": "第四十五条",
+                    "Paragraph": {
+                      "@Num": "1",
+                      "ParagraphNum": null,
+                      "ParagraphSentence": {
+                        "Sentence": "当事者が出席する処理方策を定めるための審議は、自治紛争処理委員が公開とすることを相当と認める場合に限り公開する。"
+                      }
+                    }
+                  },
+                  {
+                    "@Num": "46",
+                    "ArticleCaption": "（秩序の維持）",
+                    "ArticleTitle": "第四十六条",
+                    "Paragraph": [
+                      {
+                        "@Num": "1",
+                        "ParagraphNum": null,
+                        "ParagraphSentence": {
+                          "Sentence": "処理方策を定めるための審議の期日における秩序の維持は、代表自治紛争処理委員が行う。"
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "ParagraphNum": "２",
+                        "ParagraphSentence": {
+                          "Sentence": "代表自治紛争処理委員は、前項に定めるもののほか、処理方策の提示の手続の円滑な進行を確保するために必要な措置をとることができる。"
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "@Num": "3",
+                "SectionTitle": "第三節　情報の収集",
+                "Article": [
+                  {
+                    "@Num": "47",
+                    "ArticleCaption": "（参考人の陳述等）",
+                    "ArticleTitle": "第四十七条",
+                    "Paragraph": {
+                      "@Num": "1",
+                      "ParagraphNum": null,
+                      "ParagraphSentence": {
+                        "Sentence": "自治紛争処理委員は、処理方策の提示を行うため必要があると認めるときは、事件の参考人に陳述若しくは意見を求め、又は鑑定人に鑑定を依頼することができる。"
+                      }
+                    }
+                  },
+                  {
+                    "@Num": "48",
+                    "ArticleCaption": "（自治紛争処理委員による情報の収集）",
+                    "ArticleTitle": "第四十八条",
+                    "Paragraph": {
+                      "@Num": "1",
+                      "ParagraphNum": null,
+                      "ParagraphSentence": {
+                        "Sentence": "自治紛争処理委員は、法第二百五十一条の三の二第四項及び前条の規定により情報の収集を行うときは、処理方策を定めるための審議の期日外においてもこれを行うことができる。"
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "@Num": "4",
+                "SectionTitle": "第四節　自治紛争処理委員の合議",
+                "Article": {
+                  "@Num": "49",
+                  "ArticleCaption": "（合議）",
+                  "ArticleTitle": "第四十九条",
+                  "Paragraph": {
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": "次に掲げる事項は、自治紛争処理委員の合議によるものとする。"
+                    },
+                    "Item": [
+                      {
+                        "@Num": "1",
+                        "ItemTitle": "一",
+                        "ItemSentence": {
+                          "Sentence": "第四十五条の規定による当事者が出席する処理方策を定めるための審議の公開の決定"
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "ItemTitle": "二",
+                        "ItemSentence": {
+                          "Sentence": "第四十七条の規定による参考人による陳述又は鑑定人による鑑定の依頼の決定"
+                        }
+                      }
+                    ]
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "@Num": "6",
+            "ChapterTitle": "第六章　電子情報処理組織による提出等の手続等",
+            "Article": [
+              {
+                "@Num": "50",
+                "ArticleCaption": "（電子情報処理組織による提出等の手続の方式等）",
+                "ArticleTitle": "第五十条",
+                "Paragraph": [
+                  {
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": "この省令に規定する提出、送付、申立て及び届出の手続（以下この条及び次条において「提出等の手続」という。）のうち、書面等（第七条に規定する書面、第十六条第一項に規定する答弁書、第十七条に規定する反論書、第十八条第二項に規定する通知書、第十九条第一項、第二十条及び第二十一条に規定する書面、第二十六条及び第三十三条に規定する文書並びに第四十四条に規定する書面をいう。以下同じ。）により行うこととしているものについては、この省令の規定にかかわらず、電子情報処理組織（行政手続等における情報通信の技術の利用に関する法律（平成十四年法律第百五十一号）第三条第一項に規定する電子情報処理組織をいう。以下同じ。）を使用して行うことができる。"
+                    }
+                  },
+                  {
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": "前項の規定により電子情報処理組織を使用して提出等の手続を行う者は、当該提出等の手続を書面等により行うときに記載すべきこととされている事項を、その手続を行う者の使用に係る電子計算機から入力して行わなければならない。"
+                    }
+                  },
+                  {
+                    "@Num": "3",
+                    "ParagraphNum": "３",
+                    "ParagraphSentence": {
+                      "Sentence": "第一項の規定により電子情報処理組織を使用して提出等の手続を行う者は、入力する事項についての情報に電子署名（総務省関係法令に係る行政手続等における情報通信の技術の利用に関する法律施行規則（平成十五年総務省令第四十八号）第二条第二項第一号に規定する電子署名をいう。）を行い、当該電子署名を行った者を確認するために必要な事項を証する電子証明書（同項第二号に規定する電子証明書をいう。）と併せてこれを送信しなければならない。"
+                    }
+                  }
+                ]
+              },
+              {
+                "@Num": "51",
+                "ArticleCaption": "（電子情報処理組織による提出等の手続の効果等）",
+                "ArticleTitle": "第五十一条",
+                "Paragraph": [
+                  {
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": "前条第一項の規定により行われた提出等の手続については、書面等により行われたものとみなして、この省令の規定を適用する。"
+                    }
+                  },
+                  {
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": "前条第一項の規定により第十六条第一項に規定する答弁書の提出が行われた場合においては、答弁書の正副二通が提出されたものとみなす。"
+                    }
+                  },
+                  {
+                    "@Num": "3",
+                    "ParagraphNum": "３",
+                    "ParagraphSentence": {
+                      "Sentence": "前条第一項の規定により行われた提出等の手続は、その相手方の使用に係る電子計算機に備えられたファイルへの記録がされた時に当該相手方に到達したものとみなす。"
+                    }
+                  }
+                ]
+              },
+              {
+                "@Num": "52",
+                "ArticleCaption": "（審査の申出が電子情報処理組織を使用して行われた場合における特例）",
+                "ArticleTitle": "第五十二条",
+                "Paragraph": [
+                  {
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": "法第二百五十一条の三第一項から第三項までに規定する都道府県の関与に関する審査の申出が電子情報処理組織を使用して行われた場合には、審査申出書に記載すべきこととされている事項についての情報を電子情報処理組織を使用して相手方である都道府県の行政庁に送信することをもって第十六条第一項に規定する審査申出書の写しの送付に代えることができる。"
+                    }
+                  },
+                  {
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": "第五十条第三項の規定は、前項の規定により電子情報処理組織を使用して送信する場合について準用する。"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "SupplProvision": [
+        {
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この省令は、公布の日から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成二二年九月二四日総務省令第八七号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この省令は、公布の日から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成二六年一〇月二九日総務省令第八二号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphCaption": "（施行期日）",
+            "ParagraphNum": "１",
+            "ParagraphSentence": {
+              "Sentence": "この省令は、地方自治法の一部を改正する法律（平成二十六年法律第四十二号）附則第一条第一号に掲げる規定の施行の日（平成二十六年十一月一日）から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成二七年一月三〇日総務省令第三号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphCaption": "（施行期日）",
+            "ParagraphNum": "１",
+            "ParagraphSentence": {
+              "Sentence": "この省令は、平成二十七年四月一日から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成二八年二月一二日総務省令第七号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Article": {
+            "@Num": "1",
+            "ArticleCaption": "（施行期日）",
+            "ArticleTitle": "第一条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "この省令は、行政不服審査法の施行の日（平成二十八年四月一日）から施行する。"
+              }
+            }
+          }
+        }
+      ]
+    }
+  }
+}

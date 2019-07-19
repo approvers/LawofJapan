@@ -1,0 +1,152 @@
+{
+  "Law": {
+    "@Era": "Heisei",
+    "@Lang": "ja",
+    "@LawType": "CabinetOrder",
+    "@Num": "54",
+    "@Year": "09",
+    "LawNum": "平成九年政令第五十四号",
+    "LawBody": {
+      "LawTitle": "航空法の一部を改正する法律附則第三条第二項及び第五条第二項の規定により納付すべき手数料の額を定める政令",
+      "EnactStatement": "内閣は、航空法の一部を改正する法律（平成八年法律第三十五号）附則第三条第二項及び第五条第二項の規定に基づき、この政令を制定する。",
+      "MainProvision": {
+        "Article": [
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "1",
+            "ArticleCaption": "（改正法附則第三条第二項の規定により納付すべき手数料の額）",
+            "ArticleTitle": "第一条",
+            "Paragraph": {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "航空法の一部を改正する法律（以下「改正法」という。）附則第三条第二項の規定により納付すべき手数料の額は、五百円とする。"
+                }
+              }
+            }
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "2",
+            "ArticleCaption": "（改正法附則第五条第二項の規定により納付すべき手数料の額）",
+            "ArticleTitle": "第二条",
+            "Paragraph": {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "改正法附則第五条第二項の規定により納付すべき手数料の額は、次のとおりとする。"
+                }
+              },
+              "Item": [
+                {
+                  "@Delete": "false",
+                  "@Hide": "false",
+                  "@Num": "1",
+                  "ItemTitle": "一",
+                  "ItemSentence": {
+                    "Column": [
+                      {
+                        "@LineBreak": "false",
+                        "@Num": "1",
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "最大離陸重量五千七百キログラム以下の航空機の型式の設計について承認を申請する場合"
+                        }
+                      },
+                      {
+                        "@LineBreak": "false",
+                        "@Num": "2",
+                        "Sentence": [
+                          {
+                            "@Function": "main",
+                            "@Num": "1",
+                            "@WritingMode": "vertical",
+                            "#text": "八万五千五百円。"
+                          },
+                          {
+                            "@Function": "proviso",
+                            "@Num": "2",
+                            "@WritingMode": "vertical",
+                            "#text": "ただし、騒音の実測を行う場合は十一万九百円を、発動機の排出物の実測を行う場合は二十五万五千二百円を、八万五千五百円に加算した額"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                },
+                {
+                  "@Delete": "false",
+                  "@Hide": "false",
+                  "@Num": "2",
+                  "ItemTitle": "二",
+                  "ItemSentence": {
+                    "Column": [
+                      {
+                        "@LineBreak": "false",
+                        "@Num": "1",
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "最大離陸重量五千七百キログラムを超える航空機の型式の設計について承認を申請する場合"
+                        }
+                      },
+                      {
+                        "@LineBreak": "false",
+                        "@Num": "2",
+                        "Sentence": [
+                          {
+                            "@Function": "main",
+                            "@Num": "1",
+                            "@WritingMode": "vertical",
+                            "#text": "十三万七千円。"
+                          },
+                          {
+                            "@Function": "proviso",
+                            "@Num": "2",
+                            "@WritingMode": "vertical",
+                            "#text": "ただし、騒音の実測を行う場合は三十四万八千円を、発動機の排出物の実測を行う場合は二十五万五千二百円を、十三万七千円に加算した額"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "SupplProvision": {
+        "SupplProvisionLabel": "附　則",
+        "Paragraph": {
+          "@Hide": "false",
+          "@Num": "1",
+          "ParagraphNum": null,
+          "ParagraphSentence": {
+            "Sentence": [
+              {
+                "@Function": "main",
+                "@Num": "1",
+                "@WritingMode": "vertical",
+                "#text": "この政令は、改正法の施行の日（平成九年十月一日）から施行する。"
+              },
+              {
+                "@Function": "proviso",
+                "@Num": "2",
+                "@WritingMode": "vertical",
+                "#text": "ただし、第二条の規定は、改正法附則第一条ただし書に規定する規定の施行の日（平成九年四月一日）から施行する。"
+              }
+            ]
+          }
+        }
+      }
+    }
+  }
+}

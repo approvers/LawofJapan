@@ -1,0 +1,566 @@
+{
+  "Law": {
+    "@Era": "Heisei",
+    "@Lang": "ja",
+    "@LawType": "MinisterialOrdinance",
+    "@Num": "1",
+    "@Year": "22",
+    "LawNum": "平成二十二年総務省・厚生労働省・経済産業省・国土交通省・環境省・防衛省令第一号",
+    "LawBody": {
+      "LawTitle": "化学物質の審査及び製造等の規制に関する法律施行令附則第三項の表ＰＦＯＳ又はその塩の項に規定する消火器、消火器用消火薬剤及び泡消火薬剤に関する技術上の基準を定める省令",
+      "EnactStatement": "化学物質の審査及び製造等の規制に関する法律施行令の一部を改正する政令（平成二十一年政令第二百五十六号）の施行に伴い、並びに化学物質の審査及び製造等の規制に関する法律（昭和四十八年法律第百十七号）第十七条第二項の規定に基づき、及び化学物質の審査及び製造等の規制に関する法律施行令（昭和四十九年政令第二百二号）附則第三項の規定により読み替えて適用する同令第三条の三の表ＰＦＯＳ又はその塩の項第四号を実施するため、化学物質の審査及び製造等の規制に関する法律施行令附則第三項の規定により読み替えて適用する同令第三条の三の表ＰＦＯＳ又はその塩の項第四号に規定する消火器、消火器用消火薬剤及び泡消火薬剤に関する技術上の基準を定める省令を次のように定める。",
+      "MainProvision": {
+        "Article": [
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "1",
+            "ArticleCaption": "（定義）",
+            "ArticleTitle": "第一条",
+            "Paragraph": {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "この省令において、次の各号に掲げる用語の意義は、当該各号に定めるところによる。"
+                }
+              },
+              "Item": [
+                {
+                  "@Delete": "false",
+                  "@Hide": "false",
+                  "@Num": "1",
+                  "ItemTitle": "一",
+                  "ItemSentence": {
+                    "Column": [
+                      {
+                        "@LineBreak": "false",
+                        "@Num": "1",
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "消火器等"
+                        }
+                      },
+                      {
+                        "@LineBreak": "false",
+                        "@Num": "2",
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "消火器、消火器用消火薬剤又は泡消火薬剤をいう。"
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "@Delete": "false",
+                  "@Hide": "false",
+                  "@Num": "2",
+                  "ItemTitle": "二",
+                  "ItemSentence": {
+                    "Column": [
+                      {
+                        "@LineBreak": "false",
+                        "@Num": "1",
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "泡消火薬剤等"
+                        }
+                      },
+                      {
+                        "@LineBreak": "false",
+                        "@Num": "2",
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "消火器用消火薬剤又は泡消火薬剤をいう。"
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "@Delete": "false",
+                  "@Hide": "false",
+                  "@Num": "3",
+                  "ItemTitle": "三",
+                  "ItemSentence": {
+                    "Column": [
+                      {
+                        "@LineBreak": "false",
+                        "@Num": "1",
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "取扱事業者"
+                        }
+                      },
+                      {
+                        "@LineBreak": "false",
+                        "@Num": "2",
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "業として消火器等を使用する者その他の業として消火器等を取り扱う者をいう。"
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "@Delete": "false",
+                  "@Hide": "false",
+                  "@Num": "4",
+                  "ItemTitle": "四",
+                  "ItemSentence": {
+                    "Column": [
+                      {
+                        "@LineBreak": "false",
+                        "@Num": "1",
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "汚染物"
+                        }
+                      },
+                      {
+                        "@LineBreak": "false",
+                        "@Num": "2",
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "ＰＦＯＳ又はその塩を含む廃液又はＰＦＯＳ又はその塩が付着している布その他の不要物をいう。"
+                        }
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "2",
+            "ArticleCaption": "（泡消火薬剤等の保管）",
+            "ArticleTitle": "第二条",
+            "Paragraph": {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "取扱事業者は、泡消火薬剤等又は汚染物を入れた容器（消防の用に供する貯蔵槽及び消火器を除く。以下同じ。）を保管するときは、次の各号に定めるところにより保管しなければならない。"
+                }
+              },
+              "Item": [
+                {
+                  "@Delete": "false",
+                  "@Hide": "false",
+                  "@Num": "1",
+                  "ItemTitle": "一",
+                  "ItemSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "泡消火薬剤等又は汚染物が漏れ、こぼれる等のおそれがない密閉式の構造の堅固な容器であって、浸透しにくい材料を用いて製作されたものに収めること。"
+                    }
+                  }
+                },
+                {
+                  "@Delete": "false",
+                  "@Hide": "false",
+                  "@Num": "2",
+                  "ItemTitle": "二",
+                  "ItemSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "雨水等による泡消火薬剤等の流出を防止するため、泡消火薬剤等又は汚染物を入れた容器は屋内に保管し、床面をコンクリートとする措置又は合成樹脂等により被覆する措置を講ずること。"
+                    }
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "3",
+            "ArticleCaption": "（容器等の表示）",
+            "ArticleTitle": "第三条",
+            "Paragraph": [
+              {
+                "@Hide": "false",
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "取扱事業者は、泡消火薬剤等を入れた容器を保管するときは、泡消火薬剤等を入れた容器及び保管している場所の見やすい箇所に、それぞれ当該容器及び当該場所に泡消火薬剤等を保管している旨を表示しなければならない。"
+                  }
+                }
+              },
+              {
+                "@Hide": "false",
+                "@Num": "2",
+                "ParagraphNum": "２",
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "取扱事業者は、汚染物を入れた容器を保管するときは、汚染物を入れた容器の見やすい箇所に、当該容器に汚染物を保管している旨を表示しなければならない。"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "4",
+            "ArticleCaption": "（泡消火薬剤等の移替え）",
+            "ArticleTitle": "第四条",
+            "Paragraph": {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "取扱事業者は、泡消火薬剤等の移替えを行うときは、次の各号に定めるところにより行わなければならない。"
+                }
+              },
+              "Item": [
+                {
+                  "@Delete": "false",
+                  "@Hide": "false",
+                  "@Num": "1",
+                  "ItemTitle": "一",
+                  "ItemSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "泡消火薬剤等の移替えはポンプ等により行うこと。"
+                    }
+                  }
+                },
+                {
+                  "@Delete": "false",
+                  "@Hide": "false",
+                  "@Num": "2",
+                  "ItemTitle": "二",
+                  "ItemSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "泡消火薬剤等の飛散又は流出する量が最少の量となるよう、泡消火薬剤等の移替えに係る容器に受皿を設ける等必要な措置を講ずること。"
+                    }
+                  }
+                },
+                {
+                  "@Delete": "false",
+                  "@Hide": "false",
+                  "@Num": "3",
+                  "ItemTitle": "三",
+                  "ItemSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "泡消火薬剤等が飛散又は流出した場合に備えて、布等を準備すること。"
+                    }
+                  }
+                },
+                {
+                  "@Delete": "false",
+                  "@Hide": "false",
+                  "@Num": "4",
+                  "ItemTitle": "四",
+                  "ItemSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "泡消火薬剤等の地下浸透を防止するため、泡消火薬剤等の移替えは床面がコンクリートである場所又は合成樹脂等により被覆された場所等で行うよう努めること。"
+                    }
+                  }
+                },
+                {
+                  "@Delete": "false",
+                  "@Hide": "false",
+                  "@Num": "5",
+                  "ItemTitle": "五",
+                  "ItemSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "泡消火薬剤等の移替えに使用したポンプ等又は保管に使用された空の容器は、洗浄し、又は布等でふき取ること。"
+                    }
+                  }
+                },
+                {
+                  "@Delete": "false",
+                  "@Hide": "false",
+                  "@Num": "6",
+                  "ItemTitle": "六",
+                  "ItemSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "前号の洗浄に用いた水又はふき取った布等は、密閉できる容器に入れて保管すること。"
+                    }
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "5",
+            "ArticleCaption": "（容器等の点検）",
+            "ArticleTitle": "第五条",
+            "Paragraph": [
+              {
+                "@Hide": "false",
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "取扱事業者は、泡消火薬剤等を入れた容器等について次の各号に掲げる事項を定期的に点検しなければならない。"
+                  }
+                },
+                "Item": [
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "1",
+                    "ItemTitle": "一",
+                    "ItemSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "容器から泡消火薬剤等が漏出していないこと。"
+                      }
+                    }
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "2",
+                    "ItemTitle": "二",
+                    "ItemSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "容器に損傷又は腐食が生じていないこと。"
+                      }
+                    }
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "3",
+                    "ItemTitle": "三",
+                    "ItemSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "床面等にひび割れがないこと。"
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "@Hide": "false",
+                "@Num": "2",
+                "ParagraphNum": "２",
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "取扱事業者は、前項に規定する点検の結果において泡消火薬剤等を入れた容器等に異常が認められた場合は、速やかに補修その他の必要な措置を講じなければならない。"
+                  }
+                }
+              },
+              {
+                "@Hide": "false",
+                "@Num": "3",
+                "ParagraphNum": "３",
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "取扱事業者は、第一項の点検の結果の記録を作成し、これを作成の日から起算して五年間保存しなければならない。"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "6",
+            "ArticleCaption": "（漏出処理措置）",
+            "ArticleTitle": "第六条",
+            "Paragraph": {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "取扱事業者は、消火器等を保管する場合又は泡消火薬剤等の移替えを行う場合において、泡消火薬剤等が漏出したときは、次の各号に掲げる措置を講じなければならない。"
+                }
+              },
+              "Item": [
+                {
+                  "@Delete": "false",
+                  "@Hide": "false",
+                  "@Num": "1",
+                  "ItemTitle": "一",
+                  "ItemSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "速やかに漏出の拡大の防止のために必要な応急措置を講ずること。"
+                    }
+                  }
+                },
+                {
+                  "@Delete": "false",
+                  "@Hide": "false",
+                  "@Num": "2",
+                  "ItemTitle": "二",
+                  "ItemSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "漏出した泡消火薬剤等について回収するよう努めること。"
+                    }
+                  }
+                },
+                {
+                  "@Delete": "false",
+                  "@Hide": "false",
+                  "@Num": "3",
+                  "ItemTitle": "三",
+                  "ItemSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "回収した泡消火薬剤等又は泡消火薬剤等をふき取った布等を、密閉できる容器に入れて保管すること。"
+                    }
+                  }
+                },
+                {
+                  "@Delete": "false",
+                  "@Hide": "false",
+                  "@Num": "4",
+                  "ItemTitle": "四",
+                  "ItemSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "前三号に掲げるもののほか、漏出した泡消火薬剤等を取り扱うに当たって必要と認められる措置を講ずること。"
+                    }
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "7",
+            "ArticleCaption": "（帳簿）",
+            "ArticleTitle": "第七条",
+            "Paragraph": [
+              {
+                "@Hide": "false",
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "取扱事業者は、事業所ごとに、泡消火薬剤等の保管数量を記載した帳簿を作成しなければならない。"
+                  }
+                }
+              },
+              {
+                "@Hide": "false",
+                "@Num": "2",
+                "ParagraphNum": "２",
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "前項の帳簿は、事業所ごとに備え、これを最終の記入をした日から五年間保存しなければならない。"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "8",
+            "ArticleCaption": "（訓練等における措置）",
+            "ArticleTitle": "第八条",
+            "Paragraph": [
+              {
+                "@Hide": "false",
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "取扱事業者は、消火器等を訓練又は点検において使用する場合は、放出した泡消火薬剤等を回収しなければならない。"
+                  }
+                }
+              },
+              {
+                "@Hide": "false",
+                "@Num": "2",
+                "ParagraphNum": "２",
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "取扱事業者は、前項により回収した泡消火薬剤等又は泡消火薬剤等をふき取った布等を、密閉できる容器に入れて保管しなければならない。"
+                  }
+                }
+              }
+            ]
+          }
+        ]
+      },
+      "SupplProvision": [
+        {
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この省令は、平成二十二年十月一日から施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成二十三年三月三十一日総務省・厚生労働省・経済産業省・国土交通省・環境省・防衛省令第一号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この省令は、平成二十三年四月一日から施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成三〇年三月三〇日総務省・厚生労働省・経済産業省・国土交通省・環境省・防衛省令第一号",
+          "@Type": "Amend",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この省令は、平成三十年四月一日から施行する。"
+              }
+            }
+          }
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "Law": {
+    "@Era": "Heisei",
+    "@Lang": "ja",
+    "@LawType": "MinisterialOrdinance",
+    "@Num": "004",
+    "@Year": "18",
+    "LawNum": "平成十八年農林水産省令第四号",
+    "LawBody": {
+      "LawTitle": "育成者権を侵害する物品に該当するか否かの認定手続に係る農林水産大臣の意見聴取に関する省令",
+      "EnactStatement": "関税定率法施行令（昭和二十九年政令第百五十五号）第六十一条の十一の二第二項の規定に基づき、育成者権を侵害する物品に該当するか否かの認定手続に係る農林水産大臣の意見聴取に関する省令を次のように定める。",
+      "MainProvision": {
+        "Paragraph": {
+          "@Num": "1",
+          "ParagraphNum": null,
+          "ParagraphSentence": {
+            "Sentence": [
+              {
+                "@Function": "main",
+                "@Num": "1",
+                "#text": "農林水産大臣は、関税法施行令（昭和二十九年政令第百五十号）第六十二条の十二第二項又は第六十二条の二十九第二項の規定により意見聴取を行う場合において、同令第六十二条の十二第一項又は第六十二条の二十九第一項の規定により税関長から提出された資料に係る鑑定を行う必要があるときは、当該鑑定を国立研究開発法人農業・食品産業技術総合研究機構に嘱託することができる。"
+              },
+              {
+                "@Function": "proviso",
+                "@Num": "2",
+                "#text": "ただし、国立研究開発法人農業・食品産業技術総合研究機構に鑑定を嘱託することができない特別の事情があると認められるときは、他の機関又は品種の識別に関し専門の学識経験を有する者に鑑定を嘱託することができる。"
+              }
+            ]
+          }
+        }
+      },
+      "SupplProvision": [
+        {
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この省令は、平成十八年三月一日から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成一八年五月二九日農林水産省令第五一号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この省令は、平成十八年六月一日から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成二一年七月二二日農林水産省令第四七号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この省令は、公布の日から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成二八年三月三〇日農林水産省令第二一号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Article": {
+            "@Num": "1",
+            "ArticleCaption": "（施行期日）",
+            "ArticleTitle": "第一条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "この省令は、平成二十八年四月一日から施行する。"
+              }
+            }
+          }
+        }
+      ]
+    }
+  }
+}

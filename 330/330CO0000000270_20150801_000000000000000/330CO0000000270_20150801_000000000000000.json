@@ -1,0 +1,43 @@
+{
+  "Law": {
+    "@Era": "Showa",
+    "@Lang": "ja",
+    "@LawType": "CabinetOrder",
+    "@Num": "270",
+    "@Year": "30",
+    "LawNum": "昭和三十年政令第二百七十号",
+    "LawBody": {
+      "LawTitle": "恩給法の一部を改正する法律の一部を改正する法律附則第十一項の期間を定める政令",
+      "EnactStatement": "内閣は、恩給法の一部を改正する法律の一部を改正する法律（昭和三十年法律第百四十三号）附則第十一項の規定に基き、この政令を制定する。",
+      "MainProvision": {
+        "Paragraph": {
+          "@Hide": "false",
+          "@Num": "1",
+          "ParagraphNum": null,
+          "ParagraphSentence": {
+            "Sentence": {
+              "@WritingMode": "vertical",
+              "#text": "恩給法の一部を改正する法律の一部を改正する法律附則第十一項の政令で定める期間は、四年とする。"
+            }
+          }
+        }
+      },
+      "SupplProvision": {
+        "@Extract": "false",
+        "@Type": "New",
+        "SupplProvisionLabel": "附　則",
+        "Paragraph": {
+          "@Hide": "false",
+          "@Num": "1",
+          "ParagraphNum": null,
+          "ParagraphSentence": {
+            "Sentence": {
+              "@WritingMode": "vertical",
+              "#text": "この政令は、公布の日から施行し、昭和二十九年七月一日から適用する。"
+            }
+          }
+        }
+      }
+    }
+  }
+}

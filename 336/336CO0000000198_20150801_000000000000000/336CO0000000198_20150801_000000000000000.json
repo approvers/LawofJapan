@@ -1,0 +1,96 @@
+{
+  "Law": {
+    "@Era": "Showa",
+    "@Lang": "ja",
+    "@LawType": "CabinetOrder",
+    "@Num": "198",
+    "@Year": "36",
+    "LawNum": "昭和三十六年政令第百九十八号",
+    "LawBody": {
+      "LawTitle": "恩給法の一部を改正する法律附則第四十一条第一項の職員及び同法附則第四十二条第三項の俸給の額を定める政令",
+      "EnactStatement": "内閣は、恩給法の一部を改正する法律（昭和二十八年法律第百五十五号）附則第四十一条第一項及び同法附則第四十二条第三項の規定に基づき、この政令を制定する。",
+      "MainProvision": {
+        "Article": [
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "1",
+            "ArticleCaption": "（旧日本医療団職員の範囲）",
+            "ArticleTitle": "第一条",
+            "Paragraph": {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "恩給法の一部を改正する法律（昭和二十八年法律第百五十五号。以下「法」という。）附則第四十一条第一項に規定する公務員に相当する職員として政令で定めるものは、次に掲げる職員とする。"
+                }
+              },
+              "Item": [
+                {
+                  "@Delete": "false",
+                  "@Hide": "false",
+                  "@Num": "1",
+                  "ItemTitle": "一",
+                  "ItemSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "旧日本医療団職制による参事、技師、副参事、書記又は技手である職員"
+                    }
+                  }
+                },
+                {
+                  "@Delete": "false",
+                  "@Hide": "false",
+                  "@Num": "2",
+                  "ItemTitle": "二",
+                  "ItemSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "旧日本医療団医療施設職制による施設の長又は医員、歯科医員、薬剤長、薬剤員、技手、看護婦長、助産婦長、保健婦長、事務長、主事若しくは書記である職員"
+                    }
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "2",
+            "ArticleCaption": "（法附則第四十二条第三項の俸給の額）",
+            "ArticleTitle": "第二条",
+            "Paragraph": {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "法附則第四十二条第三項に規定する政令で定める額は、六千二百円とする。"
+                }
+              }
+            }
+          }
+        ]
+      },
+      "SupplProvision": {
+        "@Extract": "false",
+        "@Type": "New",
+        "SupplProvisionLabel": "附　則",
+        "Paragraph": {
+          "@Hide": "false",
+          "@Num": "1",
+          "ParagraphNum": null,
+          "ParagraphSentence": {
+            "Sentence": {
+              "@WritingMode": "vertical",
+              "#text": "この政令は、昭和三十六年十月一日から施行する。"
+            }
+          }
+        }
+      }
+    }
+  }
+}

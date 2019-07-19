@@ -1,0 +1,119 @@
+{
+  "Law": {
+    "@Era": "Showa",
+    "@Lang": "ja",
+    "@LawType": "CabinetOrder",
+    "@Num": "30",
+    "@Year": "62",
+    "LawNum": "昭和六十二年政令第三十号",
+    "LawBody": {
+      "LawTitle": "外国弁護士による法律事務の取扱いに関する特別措置法関係手数料令",
+      "EnactStatement": "内閣は、外国弁護士による法律事務の取扱いに関する特別措置法（昭和六十一年法律第六十六号）第九条第三項及び第十七条第三項の規定に基づき、この政令を制定する。",
+      "MainProvision": {
+        "Article": [
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "1",
+            "ArticleCaption": "（承認申請手数料）",
+            "ArticleTitle": "第一条",
+            "Paragraph": {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "外国弁護士による法律事務の取扱いに関する特別措置法（以下「法」という。）第九条第三項の手数料の額は、申請一件につき二万七千五百円とする。"
+                }
+              }
+            }
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "2",
+            "ArticleCaption": "（指定申請手数料）",
+            "ArticleTitle": "第二条",
+            "Paragraph": [
+              {
+                "@Hide": "false",
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "法第十七条第三項の手数料の額は、申請一件につき一万三千四百円とする。"
+                  }
+                }
+              },
+              {
+                "@Hide": "false",
+                "@Num": "2",
+                "ParagraphNum": "２",
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "法第二条第二号の法務省令で定める一の連邦国家に係る二以上の特定外国法につき同時にする指定の申請は、前項の規定の適用については、一件の申請とみなす。"
+                  }
+                }
+              }
+            ]
+          }
+        ]
+      },
+      "SupplProvision": [
+        {
+          "@Extract": "false",
+          "@Type": "New",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この政令は、法の施行の日（昭和六十二年四月一日）から施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成三年三月一五日政令第三二号",
+          "@Extract": "false",
+          "@Type": "Amend",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この政令は、平成三年四月一日から施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成六年三月一八日政令第四八号",
+          "@Extract": "false",
+          "@Type": "Amend",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この政令は、平成六年四月一日から施行する。"
+              }
+            }
+          }
+        }
+      ]
+    }
+  }
+}

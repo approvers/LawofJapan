@@ -1,0 +1,283 @@
+{
+  "Law": {
+    "@Era": "Heisei",
+    "@Lang": "ja",
+    "@LawType": "CabinetOrder",
+    "@Num": "043",
+    "@Year": "31",
+    "LawNum": "平成三十一年政令第四十三号",
+    "LawBody": {
+      "LawTitle": "平成三十年等における特定地域に係る激甚災害及びこれに対し適用すべき措置の指定に関する政令",
+      "EnactStatement": {
+        "Ruby": {
+          "Rt": "じん",
+          "#text": "甚"
+        },
+        "#text": "内閣は、激災害に対処するための特別の財政援助等に関する法律（昭和三十七年法律第百五十号）第二条第一項及び第二項、第三条第一項、第四条第一項並びに第二十四条第一項の規定に基づき、この政令を制定する。"
+      },
+      "MainProvision": {
+        "Article": [
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "1",
+            "ArticleCaption": "（激甚災害及びこれに対し適用すべき措置の指定）",
+            "ArticleTitle": "第一条",
+            "Paragraph": {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "Ruby": {
+                    "Rt": "じん",
+                    "#text": "甚"
+                  },
+                  "#text": "次の表の上欄に掲げる災害を激災害に対処するための特別の財政援助等に関する法律（以下「法」という。）第二条第一項の激甚災害として指定し、当該激甚災害に対し適用すべき措置を同表の下欄に掲げるとおり指定する。"
+                }
+              },
+              "TableStruct": {
+                "Table": {
+                  "TableRow": [
+                    {
+                      "TableColumn": [
+                        {
+                          "@Align": "center",
+                          "Sentence": "激甚災害"
+                        },
+                        {
+                          "@Align": "center",
+                          "Sentence": "適用すべき措置"
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "@Valign": "top",
+                          "Sentence": "平成二十八年四月十六日から平成三十年五月二十九日までの間の地滑りによる災害で、熊本県天草郡苓北町の区域に係るもの"
+                        },
+                        {
+                          "@Valign": "top",
+                          "@rowspan": "5",
+                          "Sentence": "法第五条及び第二十四条第二項から第四項までに規定する措置"
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": {
+                        "@Valign": "top",
+                        "Sentence": "平成二十八年八月一日から平成三十年十月二日までの間の地滑りによる災害で、宮崎県東臼杵郡椎葉村の区域に係るもの"
+                      }
+                    },
+                    {
+                      "TableColumn": {
+                        "@Valign": "top",
+                        "Sentence": "平成三十年三月八日及び同月九日の豪雨による災害で、山梨県南巨摩郡身延町及び富士川町の区域に係るもの"
+                      }
+                    },
+                    {
+                      "TableColumn": {
+                        "@Valign": "top",
+                        "Sentence": "平成三十年四月二十四日及び同月二十五日の豪雨による災害で、山梨県富士吉田市及び長野県下伊那郡泰阜村の区域に係るもの"
+                      }
+                    },
+                    {
+                      "TableColumn": {
+                        "@Valign": "top",
+                        "Sentence": "平成三十年五月十七日から同月十九日までの間の豪雨による災害で、秋田県南秋田郡五城目町の区域に係るもの"
+                      }
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "@Valign": "top",
+                          "Sentence": "平成三十年七月二十八日から八月十六日までの間の暴風雨及び豪雨による災害で、次に掲げる町村の区域に係るもの"
+                        },
+                        {
+                          "@Valign": "top",
+                          "Sentence": null
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "@Valign": "top",
+                          "Sentence": "イ　岩手県九戸郡九戸村及び山形県最上郡大蔵村"
+                        },
+                        {
+                          "@Valign": "top",
+                          "Sentence": "法第三条、第四条並びに第二十四条第一項、第三項及び第四項に規定する措置"
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "@Valign": "top",
+                          "Sentence": "ロ　山形県最上郡舟形町及び奈良県宇陀郡曽爾村"
+                        },
+                        {
+                          "@Valign": "top",
+                          "Sentence": "法第三条から第五条まで及び第二十四条に規定する措置"
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "@Valign": "top",
+                          "Sentence": "ハ　山形県最上郡戸沢村及び長野県木曽郡大桑村"
+                        },
+                        {
+                          "@Valign": "top",
+                          "Sentence": "法第五条及び第二十四条第二項から第四項までに規定する措置"
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "@Valign": "top",
+                          "Sentence": "平成三十年八月二十日から九月五日までの間の暴風雨及び豪雨による災害で、次に掲げる市町村の区域に係るもの"
+                        },
+                        {
+                          "@Valign": "top",
+                          "Sentence": null
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "@Valign": "top",
+                          "Sentence": "イ　新潟県岩船郡粟島浦村及び鹿児島県鹿児島郡十島村"
+                        },
+                        {
+                          "@Valign": "top",
+                          "Sentence": "法第三条、第四条並びに第二十四条第一項、第三項及び第四項に規定する措置"
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "@Valign": "top",
+                          "Sentence": "ロ　長野県下伊那郡大鹿村及び和歌山県東牟婁郡古座川町"
+                        },
+                        {
+                          "@Valign": "top",
+                          "Sentence": "法第三条から第五条まで及び第二十四条に規定する措置"
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "@Valign": "top",
+                          "Sentence": "ハ　山形県最上郡鮭川村、石川県七尾市、羽咋郡宝達志水町及び鹿島郡中能登町、長野県下伊那郡根羽村、下條村、売木村及び泰阜村、愛知県北設楽郡豊根村、大阪府豊能郡豊能町、奈良県吉野郡天川村、野迫川村、十津川村及び上北山村、和歌山県新宮市及び伊都郡高野町、徳島県名西郡神山町並びに宮崎県東臼杵郡椎葉村"
+                        },
+                        {
+                          "@Valign": "top",
+                          "Sentence": "法第五条及び第二十四条第二項から第四項までに規定する措置"
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "@Valign": "top",
+                          "Sentence": "ニ　和歌山県西牟婁郡白浜町"
+                        },
+                        {
+                          "@Valign": "top",
+                          "Sentence": "法第五条、第六条及び第二十四条第二項から第四項までに規定する措置"
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "@Valign": "top",
+                          "Sentence": "ホ　大阪府高槻市"
+                        },
+                        {
+                          "@Valign": "top",
+                          "Sentence": "法第十一条の二に規定する措置"
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": {
+                        "@Valign": "top",
+                        "@colspan": "2",
+                        "Sentence": [
+                          "備考",
+                          "一　平成三十年七月二十八日から八月十六日までの間の暴風雨及び豪雨による災害に係る暴風雨とは、平成三十年台風第十二号によるものをいう。",
+                          "二　平成三十年八月二十日から九月五日までの間の暴風雨及び豪雨による災害に係る暴風雨とは、平成三十年台風第十九号、同年台風第二十号及び同年台風第二十一号によるものをいう。"
+                        ]
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "2",
+            "ArticleCaption": "（都道府県に係る特例）",
+            "ArticleTitle": "第二条",
+            "Paragraph": {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "Ruby": {
+                    "Rt": "じん",
+                    "#text": "甚"
+                  },
+                  "#text": "前条の規定により激甚災害として指定される災害は、都道府県についての激災害に対処するための特別の財政援助等に関する法律施行令（昭和三十七年政令第四百三号）第一条第一項及び第四十三条第一項の規定の適用並びに都道府県の負担額の算定についての同令第七条第一項の規定の適用については、これらの規定にいう激甚災害には含まれないものとする。"
+                }
+              }
+            }
+          }
+        ]
+      },
+      "SupplProvision": {
+        "SupplProvisionLabel": "附　則",
+        "Paragraph": [
+          {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphCaption": "（施行期日）",
+            "ParagraphNum": "１",
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この政令は、公布の日から施行する。"
+              }
+            }
+          },
+          {
+            "@Hide": "false",
+            "@Num": "2",
+            "ParagraphCaption": "（関係政令の廃止）",
+            "ParagraphNum": "２",
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "平成三十年八月二十日から九月五日までの間の暴風雨及び豪雨による新潟県岩船郡粟島浦村等の区域に係る災害についての激甚災害並びにこれに対し適用すべき措置の指定に関する政令（平成三十年政令第二百八十八号）は、廃止する。"
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

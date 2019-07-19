@@ -1,0 +1,97 @@
+{
+  "Law": {
+    "@Era": "Showa",
+    "@Lang": "ja",
+    "@LawType": "Rule",
+    "@Num": "",
+    "@Year": "24",
+    "LawNum": "昭和二十四年人事院規則三―〇",
+    "LawBody": {
+      "LawTitle": "人事院規則三―〇（事務総長の権限）",
+      "EnactStatement": "人事院は、国家公務員法に基き、事務総長の権限に関し次の人事院規則を制定する。",
+      "MainProvision": {
+        "Paragraph": {
+          "@Num": "1",
+          "ParagraphNum": null,
+          "ParagraphSentence": {
+            "Sentence": [
+              {
+                "@Function": "main",
+                "@Num": "1",
+                "#text": "事務総長は、法律及び規則により定められた行政上及び技術上の責務を遂行するに当たり、人事院の職員並びに国の各機関及び行政執行法人に対し、法律及び規則の定めるところに従い、細則及び通達を発することができる。"
+              },
+              {
+                "@Function": "proviso",
+                "@Num": "2",
+                "#text": "ただし、人事院が特定の事項につき議決をもって留保した権限については、この限りでない。"
+              }
+            ]
+          }
+        }
+      },
+      "SupplProvision": [
+        {
+          "@AmendLawNum": "平成一五年一月一四日人事院規則一―三七",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphCaption": "（施行期日）",
+            "ParagraphNum": "１",
+            "ParagraphSentence": {
+              "Sentence": "この規則は、平成十五年四月一日から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成一九年九月二八日人事院規則一―五〇",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Article": {
+            "@Num": "1",
+            "ArticleCaption": "（施行期日）",
+            "ArticleTitle": "第一条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "この規則は、平成十九年十月一日から施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成二七年三月一八日人事院規則一―六三",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Article": [
+            {
+              "@Num": "1",
+              "ArticleCaption": "（施行期日）",
+              "ArticleTitle": "第一条",
+              "Paragraph": {
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": "この規則は、平成二十七年四月一日から施行する。"
+                }
+              }
+            },
+            {
+              "@Num": "15",
+              "ArticleCaption": "（雑則）",
+              "ArticleTitle": "第十五条",
+              "Paragraph": {
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": "附則第二条から前条までに規定するもののほか、この規則の施行に関し必要な経過措置は、人事院が定める。"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

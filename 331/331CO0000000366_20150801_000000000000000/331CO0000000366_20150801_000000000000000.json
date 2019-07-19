@@ -1,0 +1,128 @@
+{
+  "Law": {
+    "@Era": "Showa",
+    "@Lang": "ja",
+    "@LawType": "CabinetOrder",
+    "@Num": "366",
+    "@Year": "31",
+    "LawNum": "昭和三十一年政令第三百六十六号",
+    "LawBody": {
+      "LawTitle": "旧軍人等の遺族に対する恩給等の特例に関する法律施行令",
+      "EnactStatement": "内閣は、旧軍人等の遺族に対する恩給等の特例に関する法律（昭和三十一年法律第百七十七号）第二条第一項及び附則第四項の規定に基き、この政令を制定する。",
+      "MainProvision": {
+        "Paragraph": {
+          "@Hide": "false",
+          "@Num": "1",
+          "ParagraphNum": null,
+          "ParagraphSentence": {
+            "Sentence": {
+              "@WritingMode": "vertical",
+              "#text": "旧軍人等の遺族に対する恩給等の特例に関する法律（以下「法」という。）第二条第一項に規定する政令で定める地域は、次のとおりとする。"
+            }
+          },
+          "Item": [
+            {
+              "@Delete": "false",
+              "@Hide": "false",
+              "@Num": "1",
+              "ItemTitle": "一",
+              "ItemSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "樺太"
+                }
+              }
+            },
+            {
+              "@Delete": "false",
+              "@Hide": "false",
+              "@Num": "2",
+              "ItemTitle": "二",
+              "ItemSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "千島列島"
+                }
+              }
+            },
+            {
+              "@Delete": "false",
+              "@Hide": "false",
+              "@Num": "3",
+              "ItemTitle": "三",
+              "ItemSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "朝鮮"
+                }
+              }
+            },
+            {
+              "@Delete": "false",
+              "@Hide": "false",
+              "@Num": "4",
+              "ItemTitle": "四",
+              "ItemSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "満洲"
+                }
+              }
+            },
+            {
+              "@Delete": "false",
+              "@Hide": "false",
+              "@Num": "5",
+              "ItemTitle": "五",
+              "ItemSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "台湾"
+                }
+              }
+            }
+          ]
+        }
+      },
+      "SupplProvision": {
+        "@Extract": "true",
+        "@Type": "New",
+        "SupplProvisionLabel": "附　則",
+        "Paragraph": [
+          {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphNum": "１",
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この政令は、昭和三十二年一月一日から施行する。"
+              }
+            }
+          },
+          {
+            "@Hide": "false",
+            "@Num": "2",
+            "ParagraphNum": "２",
+            "ParagraphSentence": {
+              "Sentence": [
+                {
+                  "@Function": "main",
+                  "@Num": "1",
+                  "@WritingMode": "vertical",
+                  "#text": "法附則第四項に規定する遺族年金の支給時期は、昭和三十二年一月分及び二月分の遺族年金については同年四月十一日以後、同年三月分の遺族年金については同年九月十一日以後、その支給の請求があつた日とする。"
+                },
+                {
+                  "@Function": "proviso",
+                  "@Num": "2",
+                  "@WritingMode": "vertical",
+                  "#text": "ただし、同年一月分及び二月分の遺族年金については同年四月十一日前に、同年三月分の遺族年金については同年九月十一日前に、当該遺族年金を受ける権利を有する者が遺族年金を受ける権利を失つた場合における支給時期は、同年四月一日以後その支給の請求があつた日とする。"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    }
+  }
+}

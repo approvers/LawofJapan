@@ -1,0 +1,932 @@
+{
+  "Law": {
+    "@Era": "Heisei",
+    "@Lang": "ja",
+    "@LawType": "CabinetOrder",
+    "@Num": "183",
+    "@Year": "22",
+    "LawNum": "平成二十二年政令第百八十三号",
+    "LawBody": {
+      "LawTitle": "エネルギー環境適合製品の開発及び製造を行う事業の促進に関する法律施行令",
+      "EnactStatement": "内閣は、エネルギー環境適合製品の開発及び製造を行う事業の促進に関する法律（平成二十二年法律第三十八号）第二条第一項並びに第八条第一項第一号及び第四項第一号、同法第十七条の規定により読み替えて適用する株式会社日本政策金融公庫法（平成十九年法律第五十七号）第四十二条第二項、第四十七条第一項及び第五十一条第四項並びにエネルギー環境適合製品の開発及び製造を行う事業の促進に関する法律第十八条第一項の規定に基づき、並びに同法を実施するため、この政令を制定する。",
+      "MainProvision": {
+        "Article": [
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "1",
+            "ArticleCaption": "（非化石エネルギー源）",
+            "ArticleTitle": "第一条",
+            "Paragraph": {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "エネルギー環境適合製品の開発及び製造を行う事業の促進に関する法律（第三条第十三号を除き、以下「法」という。）第二条第一項の政令で定める化石燃料以外のエネルギー源は、次のとおりとする。"
+                }
+              },
+              "Item": [
+                {
+                  "@Delete": "false",
+                  "@Hide": "false",
+                  "@Num": "1",
+                  "ItemTitle": "一",
+                  "ItemSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "水力"
+                    }
+                  }
+                },
+                {
+                  "@Delete": "false",
+                  "@Hide": "false",
+                  "@Num": "2",
+                  "ItemTitle": "二",
+                  "ItemSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "地熱"
+                    }
+                  }
+                },
+                {
+                  "@Delete": "false",
+                  "@Hide": "false",
+                  "@Num": "3",
+                  "ItemTitle": "三",
+                  "ItemSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "太陽熱"
+                    }
+                  }
+                },
+                {
+                  "@Delete": "false",
+                  "@Hide": "false",
+                  "@Num": "4",
+                  "ItemTitle": "四",
+                  "ItemSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "大気中の熱その他の自然界に存する熱（前二号に掲げるものを除く。）"
+                    }
+                  }
+                },
+                {
+                  "@Delete": "false",
+                  "@Hide": "false",
+                  "@Num": "5",
+                  "ItemTitle": "五",
+                  "ItemSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "バイオマス（動植物に由来する有機物であってエネルギー源として利用することができるもの（法第二条第二項に規定する化石燃料を除く。）をいう。）"
+                    }
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "2",
+            "ArticleCaption": "（指定金融機関の範囲）",
+            "ArticleTitle": "第二条",
+            "Paragraph": {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "法第八条第一項第一号の政令で定める金融機関は、次のとおりとする。"
+                }
+              },
+              "Item": [
+                {
+                  "@Delete": "false",
+                  "@Hide": "false",
+                  "@Num": "1",
+                  "ItemTitle": "一",
+                  "ItemSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "銀行"
+                    }
+                  }
+                },
+                {
+                  "@Delete": "false",
+                  "@Hide": "false",
+                  "@Num": "2",
+                  "ItemTitle": "二",
+                  "ItemSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "長期信用銀行"
+                    }
+                  }
+                },
+                {
+                  "@Delete": "false",
+                  "@Hide": "false",
+                  "@Num": "3",
+                  "ItemTitle": "三",
+                  "ItemSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "信用金庫及び信用金庫連合会"
+                    }
+                  }
+                },
+                {
+                  "@Delete": "false",
+                  "@Hide": "false",
+                  "@Num": "4",
+                  "ItemTitle": "四",
+                  "ItemSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "信用協同組合及び中小企業等協同組合法（昭和二十四年法律第百八十一号）第九条の九第一項第一号及び第二号の事業を併せ行う協同組合連合会"
+                    }
+                  }
+                },
+                {
+                  "@Delete": "false",
+                  "@Hide": "false",
+                  "@Num": "5",
+                  "ItemTitle": "五",
+                  "ItemSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "労働金庫及び労働金庫連合会"
+                    }
+                  }
+                },
+                {
+                  "@Delete": "false",
+                  "@Hide": "false",
+                  "@Num": "6",
+                  "ItemTitle": "六",
+                  "ItemSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "農業協同組合（農業協同組合法（昭和二十二年法律第百三十二号）第十条第一項第二号及び第三号の事業を併せ行うものに限る。）及び農業協同組合連合会（同項第二号及び第三号の事業を併せ行うものに限る。）"
+                    }
+                  }
+                },
+                {
+                  "@Delete": "false",
+                  "@Hide": "false",
+                  "@Num": "7",
+                  "ItemTitle": "七",
+                  "ItemSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "漁業協同組合（水産業協同組合法（昭和二十三年法律第二百四十二号）第十一条第一項第三号及び第四号の事業を併せ行うものに限る。）、漁業協同組合連合会（同法第八十七条第一項第三号及び第四号の事業を併せ行うものに限る。）、水産加工業協同組合（同法第九十三条第一項第一号及び第二号の事業を併せ行うものに限る。）及び水産加工業協同組合連合会（同法第九十七条第一項第一号及び第二号の事業を併せ行うものに限る。）"
+                    }
+                  }
+                },
+                {
+                  "@Delete": "false",
+                  "@Hide": "false",
+                  "@Num": "8",
+                  "ItemTitle": "八",
+                  "ItemSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "農林中央金庫"
+                    }
+                  }
+                },
+                {
+                  "@Delete": "false",
+                  "@Hide": "false",
+                  "@Num": "9",
+                  "ItemTitle": "九",
+                  "ItemSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "株式会社商工組合中央金庫"
+                    }
+                  }
+                },
+                {
+                  "@Delete": "false",
+                  "@Hide": "false",
+                  "@Num": "10",
+                  "ItemTitle": "十",
+                  "ItemSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "株式会社日本政策投資銀行"
+                    }
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "3",
+            "ArticleCaption": "（指定金融機関の指定の基準となる法律の範囲）",
+            "ArticleTitle": "第三条",
+            "Paragraph": {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "法第八条第四項第一号の政令で定める法律は、次のとおりとする。"
+                }
+              },
+              "Item": [
+                {
+                  "@Delete": "false",
+                  "@Hide": "false",
+                  "@Num": "1",
+                  "ItemTitle": "一",
+                  "ItemSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "農業協同組合法"
+                    }
+                  }
+                },
+                {
+                  "@Delete": "false",
+                  "@Hide": "false",
+                  "@Num": "2",
+                  "ItemTitle": "二",
+                  "ItemSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "水産業協同組合法"
+                    }
+                  }
+                },
+                {
+                  "@Delete": "false",
+                  "@Hide": "false",
+                  "@Num": "3",
+                  "ItemTitle": "三",
+                  "ItemSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "中小企業等協同組合法"
+                    }
+                  }
+                },
+                {
+                  "@Delete": "false",
+                  "@Hide": "false",
+                  "@Num": "4",
+                  "ItemTitle": "四",
+                  "ItemSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "協同組合による金融事業に関する法律（昭和二十四年法律第百八十三号）"
+                    }
+                  }
+                },
+                {
+                  "@Delete": "false",
+                  "@Hide": "false",
+                  "@Num": "5",
+                  "ItemTitle": "五",
+                  "ItemSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "信用金庫法（昭和二十六年法律第二百三十八号）"
+                    }
+                  }
+                },
+                {
+                  "@Delete": "false",
+                  "@Hide": "false",
+                  "@Num": "6",
+                  "ItemTitle": "六",
+                  "ItemSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "長期信用銀行法（昭和二十七年法律第百八十七号）"
+                    }
+                  }
+                },
+                {
+                  "@Delete": "false",
+                  "@Hide": "false",
+                  "@Num": "7",
+                  "ItemTitle": "七",
+                  "ItemSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "労働金庫法（昭和二十八年法律第二百二十七号）"
+                    }
+                  }
+                },
+                {
+                  "@Delete": "false",
+                  "@Hide": "false",
+                  "@Num": "8",
+                  "ItemTitle": "八",
+                  "ItemSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "銀行法（昭和五十六年法律第五十九号）"
+                    }
+                  }
+                },
+                {
+                  "@Delete": "false",
+                  "@Hide": "false",
+                  "@Num": "9",
+                  "ItemTitle": "九",
+                  "ItemSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "農林中央金庫法（平成十三年法律第九十三号）"
+                    }
+                  }
+                },
+                {
+                  "@Delete": "false",
+                  "@Hide": "false",
+                  "@Num": "10",
+                  "ItemTitle": "十",
+                  "ItemSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "株式会社日本政策金融公庫法"
+                    }
+                  }
+                },
+                {
+                  "@Delete": "false",
+                  "@Hide": "false",
+                  "@Num": "11",
+                  "ItemTitle": "十一",
+                  "ItemSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "株式会社商工組合中央金庫法（平成十九年法律第七十四号）"
+                    }
+                  }
+                },
+                {
+                  "@Delete": "false",
+                  "@Hide": "false",
+                  "@Num": "12",
+                  "ItemTitle": "十二",
+                  "ItemSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "株式会社日本政策投資銀行法（平成十九年法律第八十五号）"
+                    }
+                  }
+                },
+                {
+                  "@Delete": "false",
+                  "@Hide": "false",
+                  "@Num": "13",
+                  "ItemTitle": "十三",
+                  "ItemSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "エネルギー環境適合製品の開発及び製造を行う事業の促進に関する法律"
+                    }
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "4",
+            "ArticleCaption": "（株式会社日本政策金融公庫法施行令の適用）",
+            "ArticleTitle": "第四条",
+            "Paragraph": {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "特定事業促進円滑化業務が行われる場合には、次の表の上欄に掲げる株式会社日本政策金融公庫法施行令（平成二十年政令第百四十三号）の規定中同表の中欄に掲げる字句は、それぞれ同表の下欄に掲げる字句とする。"
+                }
+              },
+              "TableStruct": {
+                "Table": {
+                  "@WritingMode": "vertical",
+                  "TableRow": [
+                    {
+                      "TableColumn": [
+                        {
+                          "@BorderBottom": "solid",
+                          "@BorderLeft": "solid",
+                          "@BorderRight": "solid",
+                          "@BorderTop": "solid",
+                          "@rowspan": "2",
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "第十七条"
+                          }
+                        },
+                        {
+                          "@BorderBottom": "solid",
+                          "@BorderLeft": "solid",
+                          "@BorderRight": "solid",
+                          "@BorderTop": "solid",
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "法第四十二条第二項"
+                          }
+                        },
+                        {
+                          "@BorderBottom": "solid",
+                          "@BorderLeft": "solid",
+                          "@BorderRight": "solid",
+                          "@BorderTop": "solid",
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "エネルギー環境適合製品の開発及び製造を行う事業の促進に関する法律（平成二十二年法律第三十八号。以下「製造事業促進法」という。）第十七条の規定により読み替えて適用する法第四十二条第二項"
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "@BorderBottom": "solid",
+                          "@BorderLeft": "solid",
+                          "@BorderRight": "solid",
+                          "@BorderTop": "solid",
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "において法第四十一条"
+                          }
+                        },
+                        {
+                          "@BorderBottom": "solid",
+                          "@BorderLeft": "solid",
+                          "@BorderRight": "solid",
+                          "@BorderTop": "solid",
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "において製造事業促進法第十七条の規定により読み替えて適用する法第四十一条"
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "@BorderBottom": "solid",
+                          "@BorderLeft": "solid",
+                          "@BorderRight": "solid",
+                          "@BorderTop": "solid",
+                          "@rowspan": "2",
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "第十七条の表第四百四十九条第一項の項"
+                          }
+                        },
+                        {
+                          "@BorderBottom": "solid",
+                          "@BorderLeft": "solid",
+                          "@BorderRight": "solid",
+                          "@BorderTop": "solid",
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "株式会社日本政策金融公庫法第四十一条"
+                          }
+                        },
+                        {
+                          "@BorderBottom": "solid",
+                          "@BorderLeft": "solid",
+                          "@BorderRight": "solid",
+                          "@BorderTop": "solid",
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "製造事業促進法第十七条の規定により読み替えて適用する株式会社日本政策金融公庫法第四十一条"
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "@BorderBottom": "solid",
+                          "@BorderLeft": "solid",
+                          "@BorderRight": "solid",
+                          "@BorderTop": "solid",
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "同法第四十一条"
+                          }
+                        },
+                        {
+                          "@BorderBottom": "solid",
+                          "@BorderLeft": "solid",
+                          "@BorderRight": "solid",
+                          "@BorderTop": "solid",
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "製造事業促進法第十七条の規定により読み替えて適用する株式会社日本政策金融公庫法第四十一条"
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "@BorderBottom": "solid",
+                          "@BorderLeft": "solid",
+                          "@BorderRight": "solid",
+                          "@BorderTop": "solid",
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "第十七条の表第四百四十九条第六項第一号の項、第四百四十九条第六項第二号の項、第八百二十八条第一項第五号の項及び第八百二十八条第二項第五号の項"
+                          }
+                        },
+                        {
+                          "@BorderBottom": "solid",
+                          "@BorderLeft": "solid",
+                          "@BorderRight": "solid",
+                          "@BorderTop": "solid",
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "株式会社日本政策金融公庫法第四十一条"
+                          }
+                        },
+                        {
+                          "@BorderBottom": "solid",
+                          "@BorderLeft": "solid",
+                          "@BorderRight": "solid",
+                          "@BorderTop": "solid",
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "製造事業促進法第十七条の規定により読み替えて適用する株式会社日本政策金融公庫法第四十一条"
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "@BorderBottom": "solid",
+                          "@BorderLeft": "solid",
+                          "@BorderRight": "solid",
+                          "@BorderTop": "solid",
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "第十八条"
+                          }
+                        },
+                        {
+                          "@BorderBottom": "solid",
+                          "@BorderLeft": "solid",
+                          "@BorderRight": "solid",
+                          "@BorderTop": "solid",
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "法第四十七条第一項"
+                          }
+                        },
+                        {
+                          "@BorderBottom": "solid",
+                          "@BorderLeft": "solid",
+                          "@BorderRight": "solid",
+                          "@BorderTop": "solid",
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "製造事業促進法第十七条の規定により読み替えて適用する法第四十七条第一項"
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "@BorderBottom": "solid",
+                          "@BorderLeft": "solid",
+                          "@BorderRight": "solid",
+                          "@BorderTop": "solid",
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "第十八条第七号"
+                          }
+                        },
+                        {
+                          "@BorderBottom": "solid",
+                          "@BorderLeft": "solid",
+                          "@BorderRight": "solid",
+                          "@BorderTop": "solid",
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "七　法第四十一条第七号に掲げる業務に係る勘定　毎事業年度の決算において計上した剰余金の額の百分の五十に相当する額"
+                          }
+                        },
+                        {
+                          "@BorderBottom": "solid",
+                          "@BorderLeft": "solid",
+                          "@BorderRight": "solid",
+                          "@BorderTop": "solid",
+                          "Sentence": [
+                            {
+                              "@WritingMode": "vertical",
+                              "#text": "七　法第四十一条第七号に掲げる業務に係る勘定　毎事業年度の決算において計上した剰余金の額の百分の五十に相当する額"
+                            },
+                            {
+                              "@WritingMode": "vertical",
+                              "#text": "八　特定事業促進円滑化業務（製造事業促進法第六条に規定する特定事業促進円滑化業務をいう。以下同じ。）に係る勘定　毎事業年度の決算において計上した剰余金の額の十一分の一に相当する額"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "@BorderBottom": "solid",
+                          "@BorderLeft": "solid",
+                          "@BorderRight": "solid",
+                          "@BorderTop": "solid",
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "第十九条"
+                          }
+                        },
+                        {
+                          "@BorderBottom": "solid",
+                          "@BorderLeft": "solid",
+                          "@BorderRight": "solid",
+                          "@BorderTop": "solid",
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "法第四十七条第一項"
+                          }
+                        },
+                        {
+                          "@BorderBottom": "solid",
+                          "@BorderLeft": "solid",
+                          "@BorderRight": "solid",
+                          "@BorderTop": "solid",
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "製造事業促進法第十七条の規定により読み替えて適用する法第四十七条第一項"
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "@BorderBottom": "solid",
+                          "@BorderLeft": "solid",
+                          "@BorderRight": "solid",
+                          "@BorderTop": "solid",
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "第十九条第七号"
+                          }
+                        },
+                        {
+                          "@BorderBottom": "solid",
+                          "@BorderLeft": "solid",
+                          "@BorderRight": "solid",
+                          "@BorderTop": "solid",
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "七　法第四十一条第七号に掲げる業務に係る勘定　同号に掲げる業務に係る勘定に整理された資本金の額に相当する額"
+                          }
+                        },
+                        {
+                          "@BorderBottom": "solid",
+                          "@BorderLeft": "solid",
+                          "@BorderRight": "solid",
+                          "@BorderTop": "solid",
+                          "Sentence": [
+                            {
+                              "@WritingMode": "vertical",
+                              "#text": "七　法第四十一条第七号に掲げる業務に係る勘定　同号に掲げる業務に係る勘定に整理された資本金の額に相当する額"
+                            },
+                            {
+                              "@WritingMode": "vertical",
+                              "#text": "八　特定事業促進円滑化業務に係る勘定　同勘定に整理された資本金の額の百分の二十五に相当する額"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "@BorderBottom": "solid",
+                          "@BorderLeft": "solid",
+                          "@BorderRight": "solid",
+                          "@BorderTop": "solid",
+                          "@rowspan": "2",
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "第二十一条及び第二十二条第一項"
+                          }
+                        },
+                        {
+                          "@BorderBottom": "solid",
+                          "@BorderLeft": "solid",
+                          "@BorderRight": "solid",
+                          "@BorderTop": "solid",
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "業務"
+                          }
+                        },
+                        {
+                          "@BorderBottom": "solid",
+                          "@BorderLeft": "solid",
+                          "@BorderRight": "solid",
+                          "@BorderTop": "solid",
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "業務及び特定事業促進円滑化業務"
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "@BorderBottom": "solid",
+                          "@BorderLeft": "solid",
+                          "@BorderRight": "solid",
+                          "@BorderTop": "solid",
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "法第四十七条第一項"
+                          }
+                        },
+                        {
+                          "@BorderBottom": "solid",
+                          "@BorderLeft": "solid",
+                          "@BorderRight": "solid",
+                          "@BorderTop": "solid",
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "製造事業促進法第十七条の規定により読み替えて適用する法第四十七条第一項"
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "@BorderBottom": "solid",
+                          "@BorderLeft": "solid",
+                          "@BorderRight": "solid",
+                          "@BorderTop": "solid",
+                          "@rowspan": "2",
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "第二十六条第一項"
+                          }
+                        },
+                        {
+                          "@BorderBottom": "solid",
+                          "@BorderLeft": "solid",
+                          "@BorderRight": "solid",
+                          "@BorderTop": "solid",
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "法第五十一条第四項"
+                          }
+                        },
+                        {
+                          "@BorderBottom": "solid",
+                          "@BorderLeft": "solid",
+                          "@BorderRight": "solid",
+                          "@BorderTop": "solid",
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "製造事業促進法第十七条の規定により読み替えて適用する法第五十一条第四項"
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "@BorderBottom": "solid",
+                          "@BorderLeft": "solid",
+                          "@BorderRight": "solid",
+                          "@BorderTop": "solid",
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "法第四十九条第五項"
+                          }
+                        },
+                        {
+                          "@BorderBottom": "solid",
+                          "@BorderLeft": "solid",
+                          "@BorderRight": "solid",
+                          "@BorderTop": "solid",
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "製造事業促進法第十七条の規定により読み替えて適用する法第四十九条第五項"
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "@BorderBottom": "solid",
+                          "@BorderLeft": "solid",
+                          "@BorderRight": "solid",
+                          "@BorderTop": "solid",
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "第三十条第一項並びに第三十一条第一項第一号及び第二号並びに第二項"
+                          }
+                        },
+                        {
+                          "@BorderBottom": "solid",
+                          "@BorderLeft": "solid",
+                          "@BorderRight": "solid",
+                          "@BorderTop": "solid",
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "法第五十九条第一項"
+                          }
+                        },
+                        {
+                          "@BorderBottom": "solid",
+                          "@BorderLeft": "solid",
+                          "@BorderRight": "solid",
+                          "@BorderTop": "solid",
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "製造事業促進法第十七条の規定により読み替えて適用する法第五十九条第一項"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "5",
+            "ArticleCaption": "（需要開拓支援法人としての指定を受けることができる法人）",
+            "ArticleTitle": "第五条",
+            "Paragraph": {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "法第十八条第一項の政令で定める法人は、株式会社とする。"
+                }
+              }
+            }
+          }
+        ]
+      },
+      "SupplProvision": {
+        "@Extract": "true",
+        "@Type": "New",
+        "SupplProvisionLabel": "附　則",
+        "Article": {
+          "@Delete": "false",
+          "@Hide": "false",
+          "@Num": "1",
+          "ArticleCaption": "（施行期日）",
+          "ArticleTitle": "第一条",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この政令は、法の施行の日（平成二十二年八月十六日）から施行する。"
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,165 @@
+{
+  "Law": {
+    "@Era": "Heisei",
+    "@Lang": "ja",
+    "@LawType": "CabinetOrder",
+    "@Num": "150",
+    "@Year": "17",
+    "LawNum": "平成十七年政令第百五十号",
+    "LawBody": {
+      "LawTitle": "発達障害者支援法施行令",
+      "EnactStatement": "内閣は、発達障害者支援法（平成十六年法律第百六十七号）第二条第一項、第十四条第一項及び第二十五条の規定に基づき、この政令を制定する。",
+      "MainProvision": {
+        "Article": [
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "1",
+            "ArticleCaption": "（発達障害の定義）",
+            "ArticleTitle": "第一条",
+            "Paragraph": {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "発達障害者支援法（以下「法」という。）第二条第一項の政令で定める障害は、脳機能の障害であってその症状が通常低年齢において発現するもののうち、言語の障害、協調運動の障害その他厚生労働省令で定める障害とする。"
+                }
+              }
+            }
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "2",
+            "ArticleCaption": "（法第十四条第一項の政令で定める法人）",
+            "ArticleTitle": "第二条",
+            "Paragraph": {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "法第十四条第一項の政令で定める法人は、発達障害者の福祉の増進を目的とする一般社団法人若しくは一般財団法人、医療法人、社会福祉法（昭和二十六年法律第四十五号）第二十二条に規定する社会福祉法人、特定非営利活動促進法（平成十年法律第七号）第二条第二項に規定する特定非営利活動法人又は地方独立行政法人法（平成十五年法律第百十八号）第二条第一項に規定する地方独立行政法人とする。"
+                }
+              }
+            }
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "3",
+            "ArticleCaption": "（大都市等の特例）",
+            "ArticleTitle": "第三条",
+            "Paragraph": {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "地方自治法（昭和二十二年法律第六十七号）第二百五十二条の十九第一項の指定都市（以下「指定都市」という。）において、法第二十五条の規定により、指定都市が処理する事務については、地方自治法施行令（昭和二十二年政令第十六号）第百七十四条の三十六に定めるところによる。"
+                }
+              }
+            }
+          }
+        ]
+      },
+      "SupplProvision": [
+        {
+          "@Extract": "true",
+          "@Type": "New",
+          "SupplProvisionLabel": "附　則",
+          "Article": {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "1",
+            "ArticleCaption": "（施行期日）",
+            "ArticleTitle": "第一条",
+            "Paragraph": {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "この政令は、公布の日から施行する。"
+                }
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成一九年三月二日政令第三九号",
+          "@Extract": "false",
+          "@Type": "Amend",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この政令は、一般社団法人及び一般財団法人に関する法律の施行の日から施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成二二年三月三一日政令第六三号",
+          "@Extract": "false",
+          "@Type": "Amend",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この政令は、公布の日から施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成二三年一一月二八日政令第三六一号",
+          "@Extract": "true",
+          "@Type": "Amend",
+          "SupplProvisionLabel": "附　則",
+          "Article": {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "1",
+            "ArticleCaption": "（施行期日）",
+            "ArticleTitle": "第一条",
+            "Paragraph": {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": [
+                  {
+                    "@Function": "main",
+                    "@Num": "1",
+                    "@WritingMode": "vertical",
+                    "#text": "この政令は、地域の自主性及び自立性を高めるための改革の推進を図るための関係法律の整備に関する法律附則第一条第一号に掲げる規定の施行の日（平成二十三年十一月三十日）から施行する。"
+                  },
+                  {
+                    "@Function": "proviso",
+                    "@Num": "2",
+                    "@WritingMode": "vertical",
+                    "#text": "ただし、第一条（地方自治法施行令第百七十九条及び別表第一道路法施行令（昭和二十七年政令第四百七十九号）の項の改正規定を除く。）及び第二条並びに附則第三条から第五条までの規定は、平成二十四年四月一日から施行する。"
+                  }
+                ]
+              }
+            }
+          }
+        }
+      ]
+    }
+  }
+}

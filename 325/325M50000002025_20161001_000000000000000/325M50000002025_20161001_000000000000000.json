@@ -1,0 +1,896 @@
+{
+  "Law": {
+    "@Era": "Showa",
+    "@Lang": "ja",
+    "@LawType": "MinisterialOrdinance",
+    "@Num": "25",
+    "@Year": "25",
+    "LawNum": "昭和二十五年総理府令第二十五号",
+    "LawBody": {
+      "LawTitle": "質屋営業法施行規則",
+      "EnactStatement": "質屋営業法に基き質屋営業法施行規則を次のように定める。",
+      "MainProvision": {
+        "Article": [
+          {
+            "@Num": "1",
+            "ArticleCaption": "（申請及び届出の一般的手続）",
+            "ArticleTitle": "第一条",
+            "Paragraph": [
+              {
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": "質屋営業法（昭和二十五年法律第百五十八号。以下法という。）及びこの府令の規定による都道府県公安委員会（以下「公安委員会」という。）に対する申請書及び届書の提出その他の手続は、特に規定するものを除き、営業所の所在地の所轄警察署長を経由してするものとする。"
+                }
+              },
+              {
+                "@Num": "2",
+                "ParagraphNum": "２",
+                "ParagraphSentence": {
+                  "Sentence": "前項の申請書又は届書には、各本条に規定する事項のほか、次の事項を記載し、法定代理人又は保佐人がある場合には、その連署（法人の場合は、その代表者の連署）がなければならない。"
+                },
+                "Item": [
+                  {
+                    "@Num": "1",
+                    "ItemTitle": "一",
+                    "ItemSentence": {
+                      "Sentence": "申請者又は届出人の住所及び氏名、申請者又は届出人が法人の場合はその名称及び主たる事務所の所在地"
+                    }
+                  },
+                  {
+                    "@Num": "2",
+                    "ItemTitle": "二",
+                    "ItemSentence": {
+                      "Sentence": "許可証の番号及び交付年月日"
+                    }
+                  }
+                ]
+              },
+              {
+                "@Num": "3",
+                "ParagraphNum": "３",
+                "ParagraphSentence": {
+                  "Sentence": "法第二条第一項及び第四条第一項の規定による許可申請書は、公安委員会の別段の定のない限り、正副二通を提出するものとする。"
+                }
+              }
+            ]
+          },
+          {
+            "@Num": "2",
+            "ArticleCaption": "（質屋の許可の申請）",
+            "ArticleTitle": "第二条",
+            "Paragraph": [
+              {
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": "法第二条第一項の規定による質屋の許可申請書には、次の事項を記載しなければならない。"
+                },
+                "Item": [
+                  {
+                    "@Num": "1",
+                    "ItemTitle": "一",
+                    "ItemSentence": {
+                      "Sentence": "申請者の本籍及び生年月日、申請者が法人の場合はその代表者その他業務を行う役員の住所、氏名及び生年月日"
+                    }
+                  },
+                  {
+                    "@Num": "2",
+                    "ItemTitle": "二",
+                    "ItemSentence": {
+                      "Sentence": "営業所の名称及び所在地"
+                    }
+                  },
+                  {
+                    "@Num": "3",
+                    "ItemTitle": "三",
+                    "ItemSentence": {
+                      "Sentence": "法第二条第二項の管理者を定めるときは、その住所、氏名及び生年月日"
+                    }
+                  },
+                  {
+                    "@Num": "4",
+                    "ItemTitle": "四",
+                    "ItemSentence": {
+                      "Sentence": "法定代理人又は保佐人のあるときは、その住所及び生年月日（法人の場合は、その名称及び主たる事務所の所在地並びにその代表者の住所及び生年月日並びにその業務を行う役員の住所、氏名及び生年月日）"
+                    }
+                  },
+                  {
+                    "@Num": "5",
+                    "ItemTitle": "五",
+                    "ItemSentence": {
+                      "Sentence": "法第七条第一項の規定により、公安委員会が質物の保管設備について基準を定めた場合においては、質物の保管設備の構造の概要"
+                    }
+                  }
+                ]
+              },
+              {
+                "@Num": "2",
+                "ParagraphNum": "２",
+                "ParagraphSentence": {
+                  "Sentence": "前条第二項の規定にかかわらず、前項の申請書には、前条第二項第二号に掲げる事項を記載することを要しない。"
+                }
+              },
+              {
+                "@Num": "3",
+                "ParagraphNum": "３",
+                "ParagraphSentence": {
+                  "Sentence": "第一項の申請書には、次に掲げる書類を添えなければならない。"
+                },
+                "Item": [
+                  {
+                    "@Num": "1",
+                    "ItemTitle": "一",
+                    "ItemSentence": {
+                      "Sentence": "申請者が個人であるときは、次に掲げる書類"
+                    },
+                    "Subitem1": [
+                      {
+                        "@Num": "1",
+                        "Subitem1Title": "イ",
+                        "Subitem1Sentence": {
+                          "Sentence": "履歴書及び住民票の写し（住民基本台帳法（昭和四十二年法律第八十一号）第七条第五号に掲げる事項（外国人にあつては、同法第三十条の四十五に規定する国籍等）を記載したものに限る。）"
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "Subitem1Title": "ロ",
+                        "Subitem1Sentence": {
+                          "Sentence": "成年被後見人に該当しない旨の登記事項証明書（後見登記等に関する法律（平成十一年法律第百五十二号）第十条第一項に規定する登記事項証明書をいう。）及び民法の一部を改正する法律（平成十一年法律第百四十九号）附則第三条第一項の規定により成年被後見人とみなされる者又は破産者で復権を得ないものに該当しない旨の市町村（特別区を含む。）の長の証明書"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Num": "2",
+                    "ItemTitle": "二",
+                    "ItemSentence": {
+                      "Sentence": "申請者が法人であるときは、次に掲げる書類"
+                    },
+                    "Subitem1": [
+                      {
+                        "@Num": "1",
+                        "Subitem1Title": "イ",
+                        "Subitem1Sentence": {
+                          "Sentence": "定款及び登記事項証明書"
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "Subitem1Title": "ロ",
+                        "Subitem1Sentence": {
+                          "Sentence": "代表者その他業務を行う役員に係る前号イ及びロに掲げる書類"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Num": "3",
+                    "ItemTitle": "三",
+                    "ItemSentence": {
+                      "Sentence": "管理者を定めるときは、当該管理者に係る第一号イ及びロに掲げる書類"
+                    }
+                  },
+                  {
+                    "@Num": "4",
+                    "ItemTitle": "四",
+                    "ItemSentence": {
+                      "Sentence": "法定代理人のあるときは、当該法定代理人に係る第一号イに掲げる書類（法人の場合は、第二号イ及び代表者その他業務を行う役員に係る第一号イに掲げる書類）及び後見に関する証明書"
+                    }
+                  }
+                ]
+              },
+              {
+                "@Num": "4",
+                "ParagraphNum": "４",
+                "ParagraphSentence": {
+                  "Sentence": [
+                    {
+                      "@Function": "main",
+                      "@Num": "1",
+                      "#text": "質屋がすでに許可を受けている営業所以外の営業所について同一公安委員会から許可を受けようとする場合又は古物商若しくは市場主が当該許可を受けた公安委員会から質屋営業の許可を受けようとする場合の許可申請書には、前項に規定する書類を添えることを要しない。"
+                    },
+                    {
+                      "@Function": "proviso",
+                      "@Num": "2",
+                      "#text": "ただし、当該営業所に管理者を設けようとする場合において、現に当該質屋又は古物商の営業所の管理者である者以外の者を管理者とする場合にあつては、許可申請書に前項第三号に規定する書類を添えなければならない。"
+                    }
+                  ]
+                }
+              },
+              {
+                "@Num": "5",
+                "ParagraphNum": "５",
+                "ParagraphSentence": {
+                  "Sentence": "法第七条第一項の規定により、公安委員会が質物の保管設備について基準を定めた場合においては、第一項の申請書に、申請者が有し又は設けようとする質物の保管設備の構造概要書、図面その他の書類を添えなければならない。"
+                }
+              }
+            ]
+          },
+          {
+            "@Num": "3",
+            "ArticleTitle": "第三条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "営業所を譲り受け、又は相続して、法第二条第一項の許可を受けようとする者は、前条の申請書に、譲渡人の承諾書又はその相続を証明するに足りる書類を添えなければならない。"
+              }
+            }
+          },
+          {
+            "@Num": "4",
+            "ArticleCaption": "（営業所の移転の許可申請）",
+            "ArticleTitle": "第四条",
+            "Paragraph": [
+              {
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": "法第四条第一項の規定による営業所の移転の許可申請書には、移転場所及び移転の事由を記載し、移転場所の所轄警察署長を経て、これを管轄公安委員会に提出しなければならない。"
+                }
+              },
+              {
+                "@Num": "2",
+                "ParagraphNum": "２",
+                "ParagraphSentence": {
+                  "Sentence": "前項の申請書には、第二条第五項の規定を準用する。"
+                }
+              }
+            ]
+          },
+          {
+            "@Num": "5",
+            "ArticleCaption": "（管理者の新設又は変更の許可申請）",
+            "ArticleTitle": "第五条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": [
+                  {
+                    "@Function": "main",
+                    "@Num": "1",
+                    "#text": "法第四条第一項の規定による管理者の新設又は変更の許可申請書には、新設し、又は変更しようとする管理者の本籍、住所、氏名、生年月日及びその事由を記載し、新たに管理者にしようとする者に係る第二条第三項第一号イ及びロに掲げる書類を添えなければならない。"
+                  },
+                  {
+                    "@Function": "proviso",
+                    "@Num": "2",
+                    "#text": "ただし、新たに管理者にしようとする者が現に当該質屋又は古物商の営業所の管理者である場合は、この限りでない。"
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "@Num": "6",
+            "ArticleCaption": "（廃業の届出）",
+            "ArticleTitle": "第六条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "質屋は、廃業したときは、廃業の日から十日以内に、管轄公安委員会にその旨を届け出なければならない。"
+              }
+            }
+          },
+          {
+            "@Num": "7",
+            "ArticleCaption": "（休業の届出）",
+            "ArticleTitle": "第七条",
+            "Paragraph": [
+              {
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": [
+                    {
+                      "@Num": "1",
+                      "#text": "質屋は、三十日以上継続して休業しようとするときは、休業の期間、休業の事由を記載した届書を管轄公安委員会に提出しなければならない。"
+                    },
+                    {
+                      "@Num": "2",
+                      "#text": "休業期間中は、新たに質契約をしてはならない。"
+                    }
+                  ]
+                }
+              },
+              {
+                "@Num": "2",
+                "ParagraphNum": "２",
+                "ParagraphSentence": {
+                  "Sentence": "前項の休業期間を延長しようとするときは、前項に準じ、延長の届出をしなければならない。"
+                }
+              },
+              {
+                "@Num": "3",
+                "ParagraphNum": "３",
+                "ParagraphSentence": {
+                  "Sentence": "休業の届出をした質屋が営業を再開しようとするときは、管轄公安委員会に届け出なければならない。"
+                }
+              }
+            ]
+          },
+          {
+            "@Num": "8",
+            "ArticleCaption": "（営業内容変更の届出）",
+            "ArticleTitle": "第八条",
+            "Paragraph": [
+              {
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": "質屋は、次に掲げる事項の一に該当する事実が生じたときは、十日以内に、その事実及び事由を記載した届書を、管轄公安委員会に提出しなければならない。"
+                },
+                "Item": [
+                  {
+                    "@Num": "1",
+                    "ItemTitle": "一",
+                    "ItemSentence": {
+                      "Sentence": "質屋の本籍、住所又は氏名（法人の場合は、その名称又は主たる事務所の所在地）の変更"
+                    }
+                  },
+                  {
+                    "@Num": "2",
+                    "ItemTitle": "二",
+                    "ItemSentence": {
+                      "Sentence": "法定代理人若しくは保佐人の異動若しくは新たな選任又はその住所若しくは氏名（法人の場合は、その主たる事務所の所在地若しくは名称）の変更"
+                    }
+                  },
+                  {
+                    "@Num": "3",
+                    "ItemTitle": "三",
+                    "ItemSentence": {
+                      "Sentence": "質屋又はその法定代理人若しくは保佐人が法人の場合は、代表者その他業務を行う役員の異動又はその住所若しくは氏名の変更"
+                    }
+                  },
+                  {
+                    "@Num": "4",
+                    "ItemTitle": "四",
+                    "ItemSentence": {
+                      "Sentence": "管理者の廃止又は住所若しくは氏名の変更"
+                    }
+                  },
+                  {
+                    "@Num": "5",
+                    "ItemTitle": "五",
+                    "ItemSentence": {
+                      "Sentence": "営業所の名称の変更"
+                    }
+                  }
+                ]
+              },
+              {
+                "@Num": "2",
+                "ParagraphNum": "２",
+                "ParagraphSentence": {
+                  "Sentence": "前項第二号又は第三号の届書には、次に掲げる書類を添えなければならない。"
+                },
+                "Item": [
+                  {
+                    "@Num": "1",
+                    "ItemTitle": "一",
+                    "ItemSentence": {
+                      "Sentence": "法定代理人の異動又は新たな選任の場合においては、新たに就任する者に係る第二条第三項第一号イに掲げる書類（法人の場合は、同項第二号イ及び代表者その他業務を行う役員に係る同項第一号イに掲げる書類）及び後見に関する証明書"
+                    }
+                  },
+                  {
+                    "@Num": "2",
+                    "ItemTitle": "二",
+                    "ItemSentence": {
+                      "Sentence": "質屋である法人の代表者その他業務を行う役員の異動の場合においては、新たに就任する者に係る第二条第三項第一号イ及びロに掲げる書類"
+                    }
+                  },
+                  {
+                    "@Num": "3",
+                    "ItemTitle": "三",
+                    "ItemSentence": {
+                      "Sentence": "法定代理人である法人の代表者その他業務を行う役員の異動の場合においては、新たに就任する者に係る第二条第三項第一号イに掲げる書類"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "@Num": "9",
+            "ArticleCaption": "（質物の保管設備の変更の届出）",
+            "ArticleTitle": "第九条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "法第七条第一項の規定により公安委員会が質物の保管設備について基準を定めた場合においては、質屋がその質物の保管設備を変更しようとするときは、工事着手の十日前までに、その変更しようとする部分の構造概要書、図面その他の書類を添えて管轄公安委員会に届け出なければならない。"
+              }
+            }
+          },
+          {
+            "@Num": "10",
+            "ArticleCaption": "（死亡の届出）",
+            "ArticleTitle": "第十条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "質屋が死亡したときは、法第四条第三項に規定する届出人は、死亡した質屋の住所及び氏名を記載した届書を、その死亡の日から十日以内に、管轄公安委員会に提出しなければならない。"
+              }
+            }
+          },
+          {
+            "@Num": "11",
+            "ArticleCaption": "（許可証の様式）",
+            "ArticleTitle": "第十一条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "法第八条第一項の内閣府令で定める許可証の様式は、別記様式第一号のとおりとする。"
+              }
+            }
+          },
+          {
+            "@Num": "12",
+            "ArticleCaption": "（許可証の書換えの申請）",
+            "ArticleTitle": "第十二条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "法第八条第二項の規定により許可証の書換えを受けようとする者は、書換申請書を管轄公安委員会に提出しなければならない。"
+              }
+            }
+          },
+          {
+            "@Num": "13",
+            "ArticleCaption": "（許可証の亡失及び盗難）",
+            "ArticleTitle": "第十三条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "法第八条第三項の規定による届書には、営業所の名称及び所在地並びに亡失又は盗難の日時、場所を記載しなければならない。"
+              }
+            }
+          },
+          {
+            "@Num": "14",
+            "ArticleCaption": "（許可証の再交付の申請）",
+            "ArticleTitle": "第十四条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "法第八条第四項の規定により許可証の再交付を受けようとする者は、営業所の名称及び所在地並びに申請の理由を記載した再交付申請書を管轄公安委員会に提出しなければならない。"
+              }
+            }
+          },
+          {
+            "@Num": "14_2",
+            "ArticleCaption": "（許可証の返納）",
+            "ArticleTitle": "第十四条の二",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "法第九条の規定により許可証を返納する場合においては、次に掲げる事項を記載した返納理由書を添えなければならない。"
+              },
+              "Item": [
+                {
+                  "@Num": "1",
+                  "ItemTitle": "一",
+                  "ItemSentence": {
+                    "Sentence": "営業所の名称及び所在地"
+                  }
+                },
+                {
+                  "@Num": "2",
+                  "ItemTitle": "二",
+                  "ItemSentence": {
+                    "Sentence": "返納理由"
+                  }
+                },
+                {
+                  "@Num": "3",
+                  "ItemTitle": "三",
+                  "ItemSentence": {
+                    "Sentence": "返納理由の発生年月日"
+                  }
+                },
+                {
+                  "@Num": "4",
+                  "ItemTitle": "四",
+                  "ItemSentence": {
+                    "Sentence": "廃業した場合又は許可を取り消された場合は、法第二十八条第一項の規定により質契約を終了させるために必要な行為が完了する期限"
+                  }
+                },
+                {
+                  "@Num": "5",
+                  "ItemTitle": "五",
+                  "ItemSentence": {
+                    "Sentence": "死亡した場合又は法人である場合において合併以外の事由により解散し、若しくは合併により消滅したときは、法第二十八条第三項の規定により質契約を終了させるために必要な行為をする者の住所及び氏名（法人の場合は、その名称及び主たる事務所の所在地）並びに当該行為が完了する期限"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "@Num": "15",
+            "ArticleCaption": "（許可の表示）",
+            "ArticleTitle": "第十五条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "法第十条の規定による許可の表示は、別記様式第二号の表示札による。"
+              }
+            }
+          },
+          {
+            "@Num": "16",
+            "ArticleCaption": "（物品を質に取る場合の確認の方法）",
+            "ArticleTitle": "第十六条",
+            "Paragraph": [
+              {
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": "法第十三条の内閣府令で定める方法は、身分証明書、運転免許証、国民健康保険被保険者証等その質置主の住所、氏名、職業及び年齢を確かめるに足りる資料の提示を受け、又は質置主以外の者で質置主の身元を確かめるに足りるものにその質置主の住所、氏名、職業及び年齢を問い合わせることとする。"
+                }
+              },
+              {
+                "@Num": "2",
+                "ParagraphNum": "２",
+                "ParagraphSentence": {
+                  "Sentence": "質屋は、質置主の住所、氏名、職業及び年齢のうち、知しつしている事項があるときは、その事項については、前項に定める方法を行なわないことができる。"
+                }
+              }
+            ]
+          },
+          {
+            "@Num": "17",
+            "ArticleCaption": "（帳簿）",
+            "ArticleTitle": "第十七条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "法第十四条に規定する帳簿は、別記様式第三号及び第四号によらなければならない。"
+              }
+            }
+          },
+          {
+            "@Num": "18",
+            "ArticleCaption": "（電磁的方法による保存）",
+            "ArticleTitle": "第十八条",
+            "Paragraph": [
+              {
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": "法第十四条各号に掲げる事項が電磁的方法（電子的方法、磁気的方法その他の人の知覚によつて認識することができない方法をいう。）により記録され、当該記録が必要に応じ電子計算機その他の機器を用いて直ちに表示されることができるようにして保存されるときは、当該記録の保存をもつて法第十五条第一項に規定する当該事項が記載された帳簿の保存に代えることができる。"
+                }
+              },
+              {
+                "@Num": "2",
+                "ParagraphNum": "２",
+                "ParagraphSentence": {
+                  "Sentence": "前項の規定による保存をする場合には、国家公安委員会が定める基準を確保するよう努めなければならない。"
+                }
+              }
+            ]
+          },
+          {
+            "@Num": "19",
+            "ArticleCaption": "（質受証）",
+            "ArticleTitle": "第十九条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "法第十六条第二項に規定する質札は、別記様式第五号、通帳は、別記様式第六号によらなければならない。"
+              }
+            }
+          },
+          {
+            "@Num": "20",
+            "ArticleCaption": "（質物を返還する場合の確認の方法）",
+            "ArticleTitle": "第二十条",
+            "Paragraph": [
+              {
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": "法第十八条第二項の内閣府令で定める方法は、次の各号に掲げるとおりとする。"
+                },
+                "Item": [
+                  {
+                    "@Num": "1",
+                    "ItemTitle": "一",
+                    "ItemSentence": {
+                      "Sentence": "質札又は通帳を携帯する者から質置主であるとして質物の受けもどしの請求を受けた場合においては、質屋は、相手方からその質札又は通帳の提示を受け、その相手方の住所及び年齢並びにその受けもどしの請求に係る質物の特徴を質問し、かつ、その質札又は通帳及び答弁の内容と法第十四条に規定する帳簿に記載されている関係事項の内容とを照合する。"
+                    }
+                  },
+                  {
+                    "@Num": "2",
+                    "ItemTitle": "二",
+                    "ItemSentence": {
+                      "Sentence": "質札又は通帳を携帯していない者から質置主であるとして質物の受けもどしの請求を受けた場合においては、質屋は、相手方の住所、氏名、職業及び年齢を確かめるに足りる資料の提示を受け、質契約の年月日並びに受けもどしの請求に係る質物の品目、数量及び特徴を質問し、かつ、その資料及び答弁の内容と法第十四条に規定する帳簿に記載されている関係事項の内容とを照合する。"
+                    }
+                  },
+                  {
+                    "@Num": "3",
+                    "ItemTitle": "三",
+                    "ItemSentence": {
+                      "Sentence": "質札又は通帳を携帯する者から質置主以外の者であるとして質物の受けもどしの請求を受けた場合においては、質屋は、相手方から質札又は通帳の提示を受け、その相手方の住所及び氏名、質置主と相手方との間における質物の受取りについての権利関係、質置主の住所及び年齢並びに受けもどしの請求に係る質物の特徴を質問し、かつ、その質札又は通帳及び答弁の内容と法第十四条に規定する帳簿に記載されている関係事項の内容とを照合する。"
+                    }
+                  },
+                  {
+                    "@Num": "4",
+                    "ItemTitle": "四",
+                    "ItemSentence": {
+                      "Sentence": "質札又は通帳を携帯していない者から質置主以外の者であるとして質物の受けもどしの請求を受けた場合においては、質屋は、相手方から、その相手方が質物を受けもどすことについて正当な権限を有する者であることを証するに足りる資料の提示を受け、その相手方の住所、氏名及び職業、質契約の年月日、質置主の住所、氏名、職業及び年齢並びに受けもどしの請求に係る質物の品目、数量及び特徴を質問し、かつ、その答弁の内容と法第十四条に規定する帳簿に記載されている関係事項の内容とを照合する。"
+                    }
+                  }
+                ]
+              },
+              {
+                "@Num": "2",
+                "ParagraphNum": "２",
+                "ParagraphSentence": {
+                  "Sentence": "質屋は、前項の規定により相手方が当該質物の受取りについて正当な権限を有する者であることを確認するために確かめなければならない事項のうち、知しつしているものがあるときは、当該事項についての確認の方法を行なわないことができる。"
+                }
+              }
+            ]
+          },
+          {
+            "@Num": "21",
+            "ArticleCaption": "（許可証等の呈示）",
+            "ArticleTitle": "第二十一条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "質屋又はその従業者が法第十九条第二項の規定により、流質物の売却のため、古物営業法（昭和二十四年法律第百八号）第一条第三項の市場に立ち入ろうとするときは、質屋又はその従業者であることを証明する許可証その他の証票を携帯し、市場主に呈示しなければならない。"
+              }
+            }
+          }
+        ]
+      },
+      "SupplProvision": [
+        {
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": [
+            {
+              "@Num": "1",
+              "ParagraphNum": "１",
+              "ParagraphSentence": {
+                "Sentence": "この府令は、法施行の日（昭和二十五年七月一日）から施行する。"
+              }
+            },
+            {
+              "@Num": "2",
+              "ParagraphNum": "２",
+              "ParagraphSentence": {
+                "Sentence": "法附則第四項の規定による許可証の交付を受けようとする者が納める法第十一条第一項の許可手数料は、第十七条に規定する更新手数料相当額とする。"
+              }
+            }
+          ]
+        },
+        {
+          "@AmendLawNum": "昭和二九年六月三〇日総理府令第四五号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": "１",
+            "ParagraphSentence": {
+              "Sentence": "この府令は、昭和二十九年七月一日から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "昭和三七年六月一二日総理府令第三七号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": [
+            {
+              "@Num": "1",
+              "ParagraphNum": "１",
+              "ParagraphSentence": {
+                "Sentence": "この府令は、質屋営業法及び古物営業法の一部を改正する法律（昭和三十七年法律第七十六号）施行の日（昭和三十七年七月一日）から施行する。"
+              }
+            },
+            {
+              "@Num": "2",
+              "ParagraphNum": "２",
+              "ParagraphSentence": {
+                "Sentence": "この府令による改正後の質屋営業法施行規則（以下「新令」という。）第十五条、第十七条及び第十九条の規定にかかわらず、従前の様式による木札、帳簿、質札及び通帳は、この府令の施行の日から六月間は、なお使用することができる。"
+              }
+            },
+            {
+              "@Num": "3",
+              "ParagraphNum": "３",
+              "ParagraphSentence": {
+                "Sentence": "前項の規定により従前の様式による質物台帳を使用する場合においては、質屋は、新令第十七条に規定する質物台帳の記載事項のうち、この府令による改正前の質屋営業法施行規則第十八条に規定する質物台帳又は流質物台帳の記載事項でなかつたものを当該帳簿の余白に記載しなければならない。"
+              }
+            }
+          ]
+        },
+        {
+          "@AmendLawNum": "昭和四二年一一月八日総理府令第五一号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": [
+            {
+              "@Num": "1",
+              "ParagraphNum": "１",
+              "ParagraphSentence": {
+                "Sentence": "この府令は、住民基本台帳法の施行の日（昭和四十二年十一月十日）から施行する。"
+              }
+            },
+            {
+              "@Num": "2",
+              "ParagraphNum": "２",
+              "ParagraphSentence": {
+                "Sentence": "この府令の施行前に改正前の関係総理府令の規定に基づき旧住民登録法の規定による住民票の謄本又は抄本を添付して行なつた申請又は届出は、改正後の関係総理府令の規定に基づき住民基本台帳法の規定による住民票の写しを添付して行なわれたものとみなす。"
+              }
+            },
+            {
+              "@Num": "3",
+              "ParagraphNum": "３",
+              "ParagraphSentence": {
+                "Sentence": "この府令の施行の際現に旧住民登録法の規定により交付されている住民票の謄本又は抄本は、改正後の関係総理府令の規定により申請書又は届出書に添付すべき住民基本台帳法の規定による住民票の写しに替えることができる。"
+              }
+            }
+          ]
+        },
+        {
+          "@AmendLawNum": "昭和四四年一一月一五日総理府令第四三号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この府令は、公布の日から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "昭和五八年三月一日総理府令第四号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この府令は、公布の日から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成一〇年七月二九日総理府令第五〇号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": "１",
+            "ParagraphSentence": {
+              "Sentence": "この府令は、平成十年八月一日から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成一二年三月三〇日総理府令第二九号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この府令は、地方分権の推進を図るための関係法律の整備等に関する法律の施行の日（平成十二年四月一日）から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成一二年八月一四日総理府令第八九号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphCaption": "（施行期日）",
+            "ParagraphNum": "１",
+            "ParagraphSentence": {
+              "Sentence": "この府令は、内閣法の一部を改正する法律（平成十一年法律第八十八号）の施行の日（平成十三年一月六日）から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成二四年三月一六日内閣府令第七号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この府令は、民法等の一部を改正する法律の施行の日（平成二十四年四月一日）から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成二四年六月一八日内閣府令第三九号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Article": {
+            "@Num": "1",
+            "ArticleCaption": "（施行期日）",
+            "ArticleTitle": "第一条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "この府令は、出入国管理及び難民認定法及び日本国との平和条約に基づき日本の国籍を離脱した者等の出入国管理に関する特例法の一部を改正する等の法律（平成二十一年法律第七十九号。以下「改正法」という。）の施行の日（平成二十四年七月九日）から施行する。"
+              }
+            }
+          }
+        }
+      ],
+      "AppdxStyle": [
+        {
+          "AppdxStyleTitle": "別記様式　第１号（許可証）",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/S25F03101000025-001.pdf"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": "別記様式　第２号（表示札）",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/S25F03101000025-002.pdf"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": "別記様式　第３号（質物台帳）",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/S25F03101000025-003.pdf"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": "別記様式　第４号（質取引人名簿）",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/S25F03101000025-004.pdf"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": "別記様式　第５号（質札）",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/S25F03101000025-005.pdf"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": "別記様式　第６号（通帳）",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/S25F03101000025-006.pdf"
+              }
+            }
+          }
+        }
+      ]
+    }
+  }
+}

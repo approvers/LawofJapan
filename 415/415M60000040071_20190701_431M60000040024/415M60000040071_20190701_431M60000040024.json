@@ -1,0 +1,2706 @@
+{
+  "Law": {
+    "@DataInfo": "190516e03k07m02",
+    "@Era": "Heisei",
+    "@Lang": "ja",
+    "@LawType": "MinisterialOrdinance",
+    "@Num": "071",
+    "@Year": "15",
+    "LawNum": "平成十五年財務省令第七十一号",
+    "LawBody": {
+      "LawTitle": "国税関係法令に係る行政手続等における情報通信の技術の利用に関する省令",
+      "EnactStatement": "行政手続等における情報通信の技術の利用に関する法律（平成十四年法律第百五十一号）第三条第一項及び第四項並びに第四条第一項及び第四項並びに国税通則法（昭和三十七年法律第六十六号）第三十四条第一項の規定に基づき、並びに行政手続等における情報通信の技術の利用に関する法律及び国税関係法令を実施するため、国税関係法令に係る行政手続等における情報通信の技術の利用に関する省令を次のように定める。",
+      "TOC": {
+        "TOCLabel": "目次",
+        "TOCChapter": [
+          {
+            "@Delete": "false",
+            "@Num": "1",
+            "ChapterTitle": "第一章　総則",
+            "ArticleRange": "（第一条・第二条）"
+          },
+          {
+            "@Delete": "false",
+            "@Num": "2",
+            "ChapterTitle": "第二章　申請等及び納付手続",
+            "ArticleRange": "（第三条―第七条）"
+          },
+          {
+            "@Delete": "false",
+            "@Num": "3",
+            "ChapterTitle": "第三章　処分通知等",
+            "ArticleRange": "（第八条・第九条）"
+          },
+          {
+            "@Delete": "false",
+            "@Num": "4",
+            "ChapterTitle": "第四章　雑則",
+            "ArticleRange": "（第十条）"
+          }
+        ],
+        "TOCSupplProvision": {
+          "SupplProvisionLabel": "附則"
+        }
+      },
+      "MainProvision": {
+        "Chapter": [
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "1",
+            "ChapterTitle": "第一章　総則",
+            "Article": [
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "1",
+                "ArticleCaption": "（趣旨）",
+                "ArticleTitle": "第一条",
+                "Paragraph": {
+                  "@Hide": "false",
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "国税関係法令に係る手続等を、行政手続等における情報通信の技術の利用に関する法律（平成十四年法律第百五十一号。以下「情報通信技術利用法」という。）第三条及び第四条の規定に基づき又は準じて、電子情報処理組織又は電磁的記録を使用して行わせ、又は行う場合については、この省令の定めるところによる。"
+                    }
+                  }
+                }
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "2",
+                "ArticleCaption": "（定義）",
+                "ArticleTitle": "第二条",
+                "Paragraph": [
+                  {
+                    "@Hide": "false",
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "この省令において、次の各号に掲げる用語の意義は、当該各号に定めるところによる。"
+                      }
+                    },
+                    "Item": [
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "1",
+                        "ItemTitle": "一",
+                        "ItemSentence": {
+                          "Column": [
+                            {
+                              "@LineBreak": "false",
+                              "@Num": "1",
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "電子署名"
+                              }
+                            },
+                            {
+                              "@LineBreak": "false",
+                              "@Num": "2",
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "電子署名及び認証業務に関する法律（平成十二年法律第百二号）第二条第一項に規定する電子署名をいう。"
+                              }
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "2",
+                        "ItemTitle": "二",
+                        "ItemSentence": {
+                          "Column": [
+                            {
+                              "@LineBreak": "false",
+                              "@Num": "1",
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "電子証明書"
+                              }
+                            },
+                            {
+                              "@LineBreak": "false",
+                              "@Num": "2",
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "申請等を行う者、行政機関等その他の者が電子署名を行ったものであることを確認するために用いられる事項がこれらの者に係るものであることを証明するために作成する電磁的記録で、次のイからハまでのいずれかに該当するものをいう。"
+                              }
+                            }
+                          ]
+                        },
+                        "Subitem1": [
+                          {
+                            "@Delete": "false",
+                            "@Hide": "false",
+                            "@Num": "1",
+                            "Subitem1Title": "イ",
+                            "Subitem1Sentence": {
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "商業登記法（昭和三十八年法律第百二十五号）第十二条の二第一項及び第三項（これらの規定を他の法令の規定において準用する場合を含む。）の規定に基づき登記官が作成したもの"
+                              }
+                            }
+                          },
+                          {
+                            "@Delete": "false",
+                            "@Hide": "false",
+                            "@Num": "2",
+                            "Subitem1Title": "ロ",
+                            "Subitem1Sentence": {
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "電子署名等に係る地方公共団体情報システム機構の認証業務に関する法律（平成十四年法律第百五十三号）第三条第一項に基づき地方公共団体情報システム機構が作成したもの"
+                              }
+                            }
+                          },
+                          {
+                            "@Delete": "false",
+                            "@Hide": "false",
+                            "@Num": "3",
+                            "Subitem1Title": "ハ",
+                            "Subitem1Sentence": {
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "イ及びロに掲げるもののほか、これらと同様の機能を有する電磁的記録として国税庁長官が定めるもの"
+                              }
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@Hide": "false",
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "前項に規定するもののほか、この省令で使用する用語は、情報通信技術利用法で使用する用語の例による。"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "2",
+            "ChapterTitle": "第二章　申請等及び納付手続",
+            "Article": [
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "3",
+                "ArticleCaption": "（申請等の指定）",
+                "ArticleTitle": "第三条",
+                "Paragraph": {
+                  "@Hide": "false",
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "情報通信技術利用法第三条第一項の規定に基づき又は準じて、電子情報処理組織を使用して行わせることができる申請等は、別表に掲げる法令の規定に基づき税務署長等（税務署長、国税局長、国税庁長官、徴収職員（国税徴収法（昭和三十四年法律第百四十七号）第二条第十一号に規定する徴収職員をいう。）、国税不服審判所長、担当審判官又は国税審議会会長をいう。以下同じ。）に対して行われる申請等とする。"
+                    }
+                  }
+                }
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "4",
+                "ArticleCaption": "（事前届出）",
+                "ArticleTitle": "第四条",
+                "Paragraph": [
+                  {
+                    "@Hide": "false",
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "電子情報処理組織を使用して申請等を行おうとする者（次条第一項ただし書（第一号に係る部分に限る。）の規定により申請等を行おうとする者を除く。）又は電子情報処理組織を使用して国税の納付を行おうとする者（第七条第一項ただし書の規定により国税の納付を行おうとする者を除く。）は、次に掲げる事項をあらかじめ税務署長に届け出なければならない。"
+                      }
+                    },
+                    "Item": [
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "1",
+                        "ItemTitle": "一",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "次に掲げる者の区分に応じ、それぞれ次に定める事項"
+                          }
+                        },
+                        "Subitem1": [
+                          {
+                            "@Delete": "false",
+                            "@Hide": "false",
+                            "@Num": "1",
+                            "Subitem1Title": "イ",
+                            "Subitem1Sentence": {
+                              "Column": [
+                                {
+                                  "@LineBreak": "false",
+                                  "@Num": "1",
+                                  "Sentence": {
+                                    "@WritingMode": "vertical",
+                                    "#text": "別表第一号から第六十三号までに掲げる法令の規定に基づき当該申請等を行おうとする者又は当該国税の納付を行おうとする者"
+                                  }
+                                },
+                                {
+                                  "@LineBreak": "false",
+                                  "@Num": "2",
+                                  "Sentence": {
+                                    "@WritingMode": "vertical",
+                                    "#text": "氏名（法人については、名称。以下この号及び第四項第一号において同じ。）、住所又は居所及び法人番号（行政手続における特定の個人を識別するための番号の利用等に関する法律（平成二十五年法律第二十七号）第二条第十五項に規定する法人番号をいう。以下この号及び第四項第一号において同じ。）（法人番号を有しない者にあっては、氏名及び住所又は居所）"
+                                  }
+                                }
+                              ]
+                            }
+                          },
+                          {
+                            "@Delete": "false",
+                            "@Hide": "false",
+                            "@Num": "2",
+                            "Subitem1Title": "ロ",
+                            "Subitem1Sentence": {
+                              "Column": [
+                                {
+                                  "@LineBreak": "false",
+                                  "@Num": "1",
+                                  "Sentence": {
+                                    "@WritingMode": "vertical",
+                                    "#text": "別表第六十四号から第八十号までに掲げる法令の規定に基づき当該申請等を行おうとする者"
+                                  }
+                                },
+                                {
+                                  "@LineBreak": "false",
+                                  "@Num": "2",
+                                  "Sentence": {
+                                    "@WritingMode": "vertical",
+                                    "#text": "氏名及び住所又は居所"
+                                  }
+                                }
+                              ]
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "2",
+                        "ItemTitle": "二",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "対象とする手続の範囲"
+                          }
+                        }
+                      },
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "3",
+                        "ItemTitle": "三",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "その他参考となるべき事項"
+                          }
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Hide": "false",
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "税務署長は、前項の届出を受理したときは、当該届出をした者（次項に規定する者を除く。）に対し、識別符号及び暗証符号を通知し、前項の申請等又は国税の納付手続に利用することができる入出力用プログラムを提供するものとする。"
+                      }
+                    }
+                  },
+                  {
+                    "@Hide": "false",
+                    "@Num": "3",
+                    "ParagraphNum": "３",
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "税務署長は、第一項の届出が国税の納付手続に利用できるものとして金融機関が提供するプログラムのみを使用して行う国税の納付手続（第七条第一項において「特定納付手続」という。）のみに係るものであるときは、当該届出をした者に対し、識別符号を通知するものとする。"
+                      }
+                    }
+                  },
+                  {
+                    "@Hide": "false",
+                    "@Num": "4",
+                    "ParagraphNum": "４",
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "電子情報処理組織を使用して国税の納付を行おうとする者のうち、第二項の入出力用プログラム又はこれと同様の機能を有するもののみを使用して国税の納付手続を行おうとする者は、次に掲げる事項をあらかじめ税務署長に届け出なければならない。"
+                      }
+                    },
+                    "Item": [
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "1",
+                        "ItemTitle": "一",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "氏名、住所又は居所及び法人番号（法人番号を有しない者にあっては、氏名及び住所又は居所）"
+                          }
+                        }
+                      },
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "2",
+                        "ItemTitle": "二",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "国税の納付手続に利用する預金口座又は貯金口座のある金融機関の名称並びに当該口座の種別及び口座番号"
+                          }
+                        }
+                      },
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "3",
+                        "ItemTitle": "三",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "その他参考となるべき事項"
+                          }
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Hide": "false",
+                    "@Num": "5",
+                    "ParagraphNum": "５",
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "次に掲げる者の区分に応じ、それぞれ次に定める届出事項に変更が生じることとなったときは、遅滞なく、その旨を税務署長に届け出なければならない。"
+                      }
+                    },
+                    "Item": [
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "1",
+                        "ItemTitle": "一",
+                        "ItemSentence": {
+                          "Column": [
+                            {
+                              "@LineBreak": "false",
+                              "@Num": "1",
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "第一項の届出をした者"
+                              }
+                            },
+                            {
+                              "@LineBreak": "false",
+                              "@Num": "2",
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "同項第二号及び第三号の届出事項"
+                              }
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "2",
+                        "ItemTitle": "二",
+                        "ItemSentence": {
+                          "Column": [
+                            {
+                              "@LineBreak": "false",
+                              "@Num": "1",
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "前項の届出をした者"
+                              }
+                            },
+                            {
+                              "@LineBreak": "false",
+                              "@Num": "2",
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "同項第二号及び第三号の届出事項"
+                              }
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Hide": "false",
+                    "@Num": "6",
+                    "ParagraphNum": "６",
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "税務署長は、既に第三項の規定により識別符号の通知を受けている者が、第一項第二号の届出事項に変更が生じることとなったことにより前項第一号の届出をした場合には、当該届出をした者に対し、暗証符号を通知し、第一項の申請等又は国税の納付手続に利用することができる入出力用プログラムを提供するものとする。"
+                      }
+                    }
+                  },
+                  {
+                    "@Hide": "false",
+                    "@Num": "7",
+                    "ParagraphNum": "７",
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "電子情報処理組織を使用して第一項又は第五項第一号の届出を行う者は、国税庁の使用に係る電子計算機と電気通信回線を通じて通信できる機能を備えた電子計算機から、これらの規定により税務署長に届け出なければならないこととされている事項を入力して送信することにより、当該届出を行わなければならない。"
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "5",
+                "ArticleCaption": "（電子情報処理組織による申請等）",
+                "ArticleTitle": "第五条",
+                "Paragraph": [
+                  {
+                    "@Hide": "false",
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": [
+                        {
+                          "@Function": "main",
+                          "@Num": "1",
+                          "@WritingMode": "vertical",
+                          "#text": "電子情報処理組織を使用して申請等（前条第一項、第四項又は第五項の規定による届出を除く。）を行う者は、同条第二項の入出力用プログラム又はこれと同様の機能を有するものを用いて、国税庁の使用に係る電子計算機と電気通信回線を通じて通信できる機能を備えた電子計算機から、当該申請等につき規定した法令の規定において書面等に記載すべきこととされている事項並びに同条の規定により通知された識別符号及び暗証符号を入力して、当該申請等の情報に電子署名を行い、当該電子署名に係る電子証明書と併せてこれらを送信することにより、当該申請等を行わなければならない。"
+                        },
+                        {
+                          "@Function": "proviso",
+                          "@Num": "2",
+                          "@WritingMode": "vertical",
+                          "#text": "ただし、次の各号に掲げる場合には、当該各号に定める行為をすることを要しない。"
+                        }
+                      ]
+                    },
+                    "Item": [
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "1",
+                        "ItemTitle": "一",
+                        "ItemSentence": {
+                          "Column": [
+                            {
+                              "@LineBreak": "false",
+                              "@Num": "1",
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "当該電子情報処理組織の使用に係る情報に個人番号カード（行政手続における特定の個人を識別するための番号の利用等に関する法律第二条第七項に規定する個人番号カードをいう。次条及び第七条第一項において同じ。）を用いて電子署名を行い、当該電子署名に係る電子証明書と併せてこれらを送信する場合"
+                              }
+                            },
+                            {
+                              "@LineBreak": "false",
+                              "@Num": "2",
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "識別符号及び暗証符号を入力すること。"
+                              }
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "2",
+                        "ItemTitle": "二",
+                        "ItemSentence": {
+                          "Column": [
+                            {
+                              "@LineBreak": "false",
+                              "@Num": "1",
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "当該電子署名が、国税庁長官が定める者に係るものである場合"
+                              }
+                            },
+                            {
+                              "@LineBreak": "false",
+                              "@Num": "2",
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "当該申請等の情報に当該者に係る電子署名を行うこと及び当該電子署名に係る電子証明書を送信すること。"
+                              }
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Hide": "false",
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "前項の申請等が行われる場合において、税務署長等は、当該申請等につき規定した法令の規定に基づき添付すべきこととされている書面等（以下この条において「添付書面等」という。）に記載されている事項又は記載すべき事項（以下この項及び次項において「添付書面等記載事項」という。）を次に掲げる方法により送信させることをもって、当該添付書面等の提出に代えさせることができる。"
+                      }
+                    },
+                    "Item": [
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "1",
+                        "ItemTitle": "一",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "当該添付書面等記載事項を当該申請等に併せて入力して送信する方法"
+                          }
+                        }
+                      },
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "2",
+                        "ItemTitle": "二",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "当該添付書面等記載事項をスキャナにより読み取る方法その他これに類する方法により作成した電磁的記録（次に掲げる要件を満たすように読み取り、又は作成したものに限る。）を当該申請等と併せて送信する方法（前号に掲げる方法につき国税庁の使用に係る電子計算機において用いることができない場合に限る。）"
+                          }
+                        },
+                        "Subitem1": [
+                          {
+                            "@Delete": "false",
+                            "@Hide": "false",
+                            "@Num": "1",
+                            "Subitem1Title": "イ",
+                            "Subitem1Sentence": {
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "解像度が、日本産業規格（産業標準化法（昭和二十四年法律第百八十五号）第二十条第一項に規定する日本産業規格をいう。）Ｚ六〇一六附属書ＡのＡ・一・二に規定する一般文書のスキャニング時の解像度である二十五・四ミリメートル当たり二百ドット以上であること。"
+                              }
+                            }
+                          },
+                          {
+                            "@Delete": "false",
+                            "@Hide": "false",
+                            "@Num": "2",
+                            "Subitem1Title": "ロ",
+                            "Subitem1Sentence": {
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "赤色、緑色及び青色の階調がそれぞれ二百五十六階調以上であること。"
+                              }
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "3",
+                        "ItemTitle": "三",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "当該添付書面等記載事項（国税庁長官が定める添付書面等に係るものに限る。）が記録された電磁的記録であって、当該添付書面等を交付すべき者から提供を受けたもの（当該添付書面等を交付すべき者により当該電磁的記録に記録された情報に電子署名が行われ、かつ、当該電子署名に係る電子証明書が当該情報と併せて提供されているものその他これに類するものとして国税庁長官が定めるものに限る。）を当該申請等と併せて送信する方法"
+                          }
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Hide": "false",
+                    "@Num": "3",
+                    "ParagraphNum": "３",
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "第一項の書面等に記載すべきこととされている事項又は添付書面等記載事項を前二項に規定する方法により送信し、又は提出する場合におけるその送信又は提出に関するファイル形式については、国税庁長官が定める。"
+                      }
+                    }
+                  },
+                  {
+                    "@Hide": "false",
+                    "@Num": "4",
+                    "ParagraphNum": "４",
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "第二項（第一号に係る部分に限る。）の場合において、国税庁長官が定める添付書面等に記載されている事項又は記載すべき事項を送信するときは、税務署長等は、国税庁長官が定める期間、当該送信に係る事項の確認のために必要があるときは、当該添付書面等を提示又は提出させることができる。"
+                      }
+                    }
+                  },
+                  {
+                    "@Hide": "false",
+                    "@Num": "5",
+                    "ParagraphNum": "５",
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "第二項（第一号に係る部分に限る。）の規定は、申請等を行った者が前項の規定による提示又は提出に応じない場合には、当該提示又は提出に応じない添付書面等については、適用しない。"
+                      }
+                    }
+                  },
+                  {
+                    "@Hide": "false",
+                    "@Num": "6",
+                    "ParagraphNum": "６",
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "第一項の申請等が行われる場合において、添付書面等が登記事項証明書であるときは、税務署長等がこれに代わるべき電気通信回線による登記情報の提供に関する法律（平成十一年法律第二百二十六号）第二条第一項に規定する登記情報の送信を同法第三条第一項の規定による指定を受けた者から受けるのに必要な情報であって、当該者から送信を受けたものを送信させることをもって、当該添付書面等の提出に代えさせることができる。"
+                      }
+                    }
+                  },
+                  {
+                    "@Hide": "false",
+                    "@Num": "7",
+                    "ParagraphNum": "７",
+                    "ParagraphSentence": {
+                      "Sentence": [
+                        {
+                          "@Num": "1",
+                          "@WritingMode": "vertical",
+                          "#text": "第一項の規定により電子情報処理組織を使用して国税通則法（昭和三十七年法律第六十六号）第百二十三条第一項の証明書の交付を請求する者は、国税通則法施行令（昭和三十七年政令第百三十五号）第四十二条第一項の手数料のほか送付に要する費用を納付して、当該証明書の送付を求めることができる。"
+                        },
+                        {
+                          "@Num": "2",
+                          "@WritingMode": "vertical",
+                          "#text": "この場合において、当該費用の納付は、国税局長又は税務署長から得た納付情報により納付する方法によってしなければならない。"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "6",
+                "ArticleCaption": "（申請等において氏名等を明らかにする措置）",
+                "ArticleTitle": "第六条",
+                "Paragraph": {
+                  "@Hide": "false",
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "情報通信技術利用法第三条第四項に規定する主務省令で定めるものは、電子情報処理組織を使用して行う申請等の情報に電子署名を行い、当該電子署名に係る電子証明書を当該申請等と併せて送信すること又は第四条の規定により通知された識別符号及び暗証符号を入力して申請等を行うこと若しくは電子情報処理組織の使用に係る情報に個人番号カードを用いて電子署名を行い、当該電子署名に係る電子証明書を送信して申請等を行うことをいう。"
+                    }
+                  }
+                }
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "7",
+                "ArticleCaption": "（電子情報処理組織による納付手続）",
+                "ArticleTitle": "第七条",
+                "Paragraph": [
+                  {
+                    "@Hide": "false",
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": [
+                        {
+                          "@Function": "main",
+                          "@Num": "1",
+                          "@WritingMode": "vertical",
+                          "#text": "電子情報処理組織を使用して国税の納付を行おうとする者は、国税庁の使用に係る電子計算機と電気通信回線を通じて通信できる機能を備えた電子計算機から、国税通則法第三十四条第一項に規定する納付書に記載すべきこととされている事項並びに特定納付手続を行う者にあっては識別符号を、特定納付手続以外の納付手続を行う者にあっては第四条第二項の入出力用プログラム又はこれと同様の機能を有するものを用いて識別符号及び暗証符号を、それぞれ入力して納付を行わなければならない。"
+                        },
+                        {
+                          "@Function": "proviso",
+                          "@Num": "2",
+                          "@WritingMode": "vertical",
+                          "#text": "ただし、特定納付手続以外の納付手続について、当該電子情報処理組織の使用に係る情報に個人番号カードを用いて電子署名を行い、当該電子署名に係る電子証明書と併せてこれらを送信する場合には、識別符号及び暗証符号を入力することを要しない。"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "@Hide": "false",
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "前項又は国税通則法第三十四条の三第一項（第二号に係る部分に限る。）の規定により所得税を納付しようとする者であって、所得税法（昭和四十年法律第三十三号）第二百二十条又は租税特別措置法施行令（昭和三十二年政令第四十三号）第二十五条の十の十一第六項若しくは第二十六条の十第一項の規定に該当するものは、これらの規定に規定する計算書については、第五条の規定により申請等を行わなければならない。"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "3",
+            "ChapterTitle": "第三章　処分通知等",
+            "Article": [
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "8",
+                "ArticleCaption": "（電子情報処理組織による処分通知等）",
+                "ArticleTitle": "第八条",
+                "Paragraph": [
+                  {
+                    "@Hide": "false",
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "情報通信技術利用法第四条第一項の規定により電子情報処理組織を使用して行うことができる処分通知等は、第五条の規定により電子情報処理組織を使用して行われた国税通則法第百二十三条第一項及び租税特別措置法（昭和三十二年法律第二十六号）第九十七条の請求に対してこれらの規定により行う証明書の交付とする。"
+                      }
+                    }
+                  },
+                  {
+                    "@Hide": "false",
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "税務署長等は、前項の証明書の交付を行うときは、国税通則法第百二十三条第一項又は租税特別措置法第九十七条に規定する証明書に記載すべきこととされている事項を国税庁の使用に係る電子計算機から入力し、その入力した情報に電子署名を行い、当該電子署名に係る電子証明書と併せてこれらを国税庁の使用に係る電子計算機に備えられたファイルに、当該証明書の交付を受ける者が入手可能な状態で記録しなければならない。"
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "9",
+                "ArticleCaption": "（処分通知等において氏名等を明らかにする措置）",
+                "ArticleTitle": "第九条",
+                "Paragraph": {
+                  "@Hide": "false",
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "国税通則法第百二十三条第一項及び租税特別措置法第九十七条の規定に基づく処分通知等において記載すべき事項とされた署名等に代わるものであって、情報通信技術利用法第四条第四項に規定する主務省令で定めるものは、電子情報処理組織を使用して行う処分通知等の情報に電子署名を行い、当該電子署名に係る電子証明書を当該処分通知等と併せて国税庁の使用に係る電子計算機に備えられたファイルに記録することをいう。"
+                    }
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "4",
+            "ChapterTitle": "第四章　雑則",
+            "Article": {
+              "@Delete": "false",
+              "@Hide": "false",
+              "@Num": "10",
+              "ArticleCaption": "（手続の細目）",
+              "ArticleTitle": "第十条",
+              "Paragraph": {
+                "@Hide": "false",
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "この省令に定めるもののほか、電子情報処理組織の使用に係る手続に関し必要な事項及び手続の細目については、別に定めるところによる。"
+                  }
+                }
+              }
+            }
+          }
+        ]
+      },
+      "SupplProvision": [
+        {
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": [
+            {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": "１",
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "この省令は、平成十五年十一月四日から施行する。"
+                }
+              }
+            },
+            {
+              "@Hide": "false",
+              "@Num": "2",
+              "ParagraphNum": "２",
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "第四条第一項の届出については、平成十六年三月三十一日までは、名古屋国税局長若しくは名古屋国税局の管轄区域内の税務署長に対して行う申請等又は同管轄区域内を納税地として行う国税の納付に係るものに限るものとする。"
+                }
+              }
+            },
+            {
+              "@Hide": "false",
+              "@Num": "3",
+              "ParagraphNum": "３",
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "この省令の施行の日から平成十六年三月三十一日までの間における別表第六十六号の規定の適用については、同号中「若しくは第六項」とあるのは、「、第六項若しくは第八項」とする。"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@AmendLawNum": "平成一六年三月三一日財務省令第三一号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Article": {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "1",
+            "ArticleCaption": "（施行期日）",
+            "ArticleTitle": "第一条",
+            "Paragraph": {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "この省令は、平成十六年四月一日から施行する。"
+                }
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成一六年七月七日財務省令第五一号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この省令は、公布の日から施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成一七年三月四日財務省令第八号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphNum": "１",
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この省令は、不動産登記法（平成十六年法律第百二十三号）の施行の日（平成十七年三月七日）から施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成一七年四月一三日財務省令第四五号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この省令は、中小企業経営革新支援法の一部を改正する法律（平成十七年法律第三十号）の施行の日から施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成一七年一二月二日財務省令第八四号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この省令は、平成十八年一月四日から施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成一八年一二月二七日財務省令第七六号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この省令は、平成十九年一月四日から施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成一九年三月三〇日財務省令第二二号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": [
+                {
+                  "@Function": "main",
+                  "@Num": "1",
+                  "@WritingMode": "vertical",
+                  "#text": "この省令は、平成二十年一月四日から施行する。"
+                },
+                {
+                  "@Function": "proviso",
+                  "@Num": "2",
+                  "@WritingMode": "vertical",
+                  "#text": "ただし、別表第六十二号を次のように改める改正規定は、平成十九年四月一日から施行する。"
+                }
+              ]
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成一九年一二月二七日財務省令第六七号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": [
+            {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": "１",
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "この省令は、平成二十年一月四日から施行する。"
+                }
+              }
+            },
+            {
+              "@Hide": "false",
+              "@Num": "2",
+              "ParagraphNum": "２",
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "改正後の国税関係法令に係る行政手続等における情報通信の技術の利用に関する省令第五条第六項の規定は、この省令の施行の日以後に同条の規定により電子情報処理組織（行政手続等における情報通信の技術の利用に関する法律第三条第一項に規定する電子情報処理組織をいう。）を使用して行う国税通則法（昭和三十七年法律第六十六号）第百二十三条第一項の請求について適用する。"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@AmendLawNum": "平成二〇年四月三〇日財務省令第三三号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": [
+            {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": "１",
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "この省令は、平成二十一年九月一日から施行する。"
+                }
+              }
+            },
+            {
+              "@Hide": "false",
+              "@Num": "2",
+              "ParagraphNum": "２",
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "改正後の第四条第四項に定める国税の納付手続を行おうとする者は、施行日前においても、同項の規定の例により、その届出を行うことができる。"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@AmendLawNum": "平成二〇年一二月一日財務省令第七八号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": [
+            {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": "１",
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "この省令は、一般社団法人及び一般財団法人に関する法律及び公益社団法人及び公益財団法人の認定等に関する法律の施行に伴う関係法律の整備等に関する法律（以下「整備法」という。）の施行の日（平成二十年十二月一日）から施行する。"
+                }
+              }
+            },
+            {
+              "@Hide": "false",
+              "@Num": "7",
+              "ParagraphNum": "７",
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "附則第四項の規定にかかわらず、整備法第九十五条の規定によりなお従前の例により特例民法法人の業務の監督が行われる間は、国税関係法令に係る行政手続等における情報通信の技術の利用に関する省令中監督省令に関する規定（監督省令第三条に係るものを除く。）は、この省令の施行後も、なおその効力を有する。"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@AmendLawNum": "平成二二年三月三一日／総務省／財務省／令第一号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Article": {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "1",
+            "ArticleCaption": "（施行期日）",
+            "ArticleTitle": "第一条",
+            "Paragraph": {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "この省令は、平成二十二年六月一日から施行する。"
+                }
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成二三年四月二七日財務省令第二〇号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Article": {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "1",
+            "ArticleCaption": "（施行期日）",
+            "ArticleTitle": "第一条",
+            "Paragraph": {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "この省令は、公布の日から施行する。"
+                }
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成二四年一月六日財務省令第二号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Article": {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "1",
+            "ArticleCaption": "（施行期日）",
+            "ArticleTitle": "第一条",
+            "Paragraph": {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "この省令は、公布の日から施行し、改正後の別紙様式第一号及び第二号は、平成二十三年分の給与から適用する。"
+                }
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成二四年一月二五日財務省令第七号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Article": {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "1",
+            "ArticleCaption": "（施行期日）",
+            "ArticleTitle": "第一条",
+            "Paragraph": {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "この省令は、平成二十四年四月一日から施行する。"
+                }
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成二六年三月三一日財務省令第二二号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Article": {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "1",
+            "ArticleCaption": "（施行期日）",
+            "ArticleTitle": "第一条",
+            "Paragraph": {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "この省令は、平成二十六年十月一日から施行する。"
+                }
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成二六年七月九日財務省令第六三号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": [
+            {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": "１",
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "この省令は、行政手続における特定の個人を識別するための番号の利用等に関する法律（平成二十五年法律第二十七号）附則第一条第四号に掲げる規定の施行の日から施行する。"
+                }
+              }
+            },
+            {
+              "@Hide": "false",
+              "@Num": "2",
+              "ParagraphNum": "２",
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "改正後の国税関係法令に係る行政手続等における情報通信の技術の利用に関する省令第四条第一項及び第四項の規定は、この省令の施行の日以後に行う同条第一項又は第四項の規定による届出について適用し、同日前に行われた改正前の国税関係法令に係る行政手続等における情報通信の技術の利用に関する省令第四条第一項又は第四項の規定による届出については、なお従前の例による。"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@AmendLawNum": "平成二七年三月三一日財務省令第四〇号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この省令は、平成二十八年四月一日から施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成二七年一〇月二日財務省令第七九号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": [
+            {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": "１",
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "この省令は、平成二十八年一月一日から施行する。"
+                }
+              }
+            },
+            {
+              "@Hide": "false",
+              "@Num": "2",
+              "ParagraphNum": "２",
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "改正後の国税関係法令に係る行政手続等における情報通信の技術の利用に関する省令第四条第一項及び第四項の規定は、この省令の施行の日以後に行う同条第一項又は第四項の規定による届出について適用し、同日前に行われた改正前の国税関係法令に係る行政手続等における情報通信の技術の利用に関する省令第四条第一項又は第四項の規定による届出については、なお従前の例による。"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@AmendLawNum": "平成二八年三月三一日財務省令第二九号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この省令は、中小企業の新たな事業活動の促進に関する法律の一部を改正する法律（平成二十八年法律第　　　号）の施行の日から施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成二八年六月一〇日／総務省／財務省／令第五号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Article": {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "1",
+            "ArticleCaption": "（施行期日）",
+            "ArticleTitle": "第一条",
+            "Paragraph": {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "この省令は、所得税法等の一部を改正する法律（平成二十八年法律第十五号）附則第一条第五号に掲げる規定の施行の日から施行する。"
+                }
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成二九年三月三一日財務省令第三〇号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": [
+            {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphCaption": "（施行期日）",
+              "ParagraphNum": "１",
+              "ParagraphSentence": {
+                "Sentence": [
+                  {
+                    "@Function": "main",
+                    "@Num": "1",
+                    "@WritingMode": "vertical",
+                    "#text": "この省令は、平成三十年一月一日から施行する。"
+                  },
+                  {
+                    "@Function": "proviso",
+                    "@Num": "2",
+                    "@WritingMode": "vertical",
+                    "#text": "ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。"
+                  }
+                ]
+              },
+              "Item": [
+                {
+                  "@Delete": "false",
+                  "@Hide": "false",
+                  "@Num": "1",
+                  "ItemTitle": "一",
+                  "ItemSentence": {
+                    "Column": [
+                      {
+                        "@LineBreak": "false",
+                        "@Num": "1",
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "第七条第二項の改正規定"
+                        }
+                      },
+                      {
+                        "@LineBreak": "false",
+                        "@Num": "2",
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "平成二十九年六月一日"
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "@Delete": "false",
+                  "@Hide": "false",
+                  "@Num": "2",
+                  "ItemTitle": "二",
+                  "ItemSentence": {
+                    "Column": [
+                      {
+                        "@LineBreak": "false",
+                        "@Num": "1",
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "第四条第一項の改正規定（「使用して申請等を行おうとする者」の下に「（次条第一項ただし書（第一号に係る部分に限る。）の規定により申請等を行おうとする者を除く。）」を加える部分に限る。）及び第五条第一項ただし書の改正規定並びに次項及び附則第三項の規定"
+                        }
+                      },
+                      {
+                        "@LineBreak": "false",
+                        "@Num": "2",
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "平成三十一年一月四日"
+                        }
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            {
+              "@Hide": "false",
+              "@Num": "2",
+              "ParagraphCaption": "（経過措置）",
+              "ParagraphNum": "２",
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "改正後の国税関係法令に係る行政手続等における情報通信の技術の利用に関する省令（次項において「新令」という。）第四条第一項の規定は、平成三十一年一月四日以後に行う同項に規定する申請等について適用し、同日前に行われた改正前の国税関係法令に係る行政手続等における情報通信の技術の利用に関する省令（次項において「旧令」という。）第四条第一項に規定する申請等については、なお従前の例による。"
+                }
+              }
+            },
+            {
+              "@Hide": "false",
+              "@Num": "3",
+              "ParagraphNum": "３",
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "新令第五条第一項の規定は、平成三十一年一月四日以後に行う同項の規定による申請等について適用し、同日前に行われた旧令第五条第一項の規定による申請等については、なお従前の例による。"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@AmendLawNum": "平成三〇年三月三一日財務省令第三二号",
+          "@Extract": "true",
+          "@Type": "Amend",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": [
+            {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphCaption": "（施行期日）",
+              "ParagraphNum": "１",
+              "ParagraphSentence": {
+                "Sentence": [
+                  {
+                    "@Function": "main",
+                    "@Num": "1",
+                    "@WritingMode": "vertical",
+                    "#text": "この省令は、平成三十年四月一日から施行する。"
+                  },
+                  {
+                    "@Function": "proviso",
+                    "@Num": "2",
+                    "@WritingMode": "vertical",
+                    "#text": "ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。"
+                  }
+                ]
+              },
+              "Item": [
+                {
+                  "@Delete": "false",
+                  "@Hide": "false",
+                  "@Num": "1",
+                  "ItemTitle": "一",
+                  "ItemSentence": {
+                    "Column": [
+                      {
+                        "@LineBreak": "false",
+                        "@Num": "1",
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "第四条第一項の改正規定、第五条第一項の改正規定、第六条の改正規定及び第七条第一項の改正規定並びに次項及び附則第六項の規定"
+                        }
+                      },
+                      {
+                        "@LineBreak": "false",
+                        "@Num": "2",
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "平成三十一年一月四日"
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "@Delete": "false",
+                  "@Hide": "false",
+                  "@Num": "2",
+                  "ItemTitle": "二",
+                  "ItemSentence": {
+                    "Column": [
+                      {
+                        "@LineBreak": "false",
+                        "@Num": "1",
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "第五条第二項の改正規定（「この項」の下に「及び次項」を加える部分に限る。）、同条第七項を同条第八項とする改正規定、同条第六項の改正規定、同項を同条第七項とする改正規定、同条第五項を同条第六項とする改正規定、同条第四項を同条第五項とする改正規定、同条第三項を同条第四項とする改正規定及び同条第二項の次に一項を加える改正規定並びに附則第五項の規定"
+                        }
+                      },
+                      {
+                        "@LineBreak": "false",
+                        "@Num": "2",
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "平成三十一年四月一日"
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "@Delete": "false",
+                  "@Hide": "false",
+                  "@Num": "3",
+                  "ItemTitle": "三",
+                  "ItemSentence": {
+                    "Column": [
+                      {
+                        "@LineBreak": "false",
+                        "@Num": "1",
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "第八条の改正規定、第九条の改正規定及び別表の改正規定並びに附則第七項の規定"
+                        }
+                      },
+                      {
+                        "@LineBreak": "false",
+                        "@Num": "2",
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "平成三十二年一月一日"
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "@Delete": "false",
+                  "@Hide": "false",
+                  "@Num": "4",
+                  "ItemTitle": "四",
+                  "ItemSentence": {
+                    "Column": [
+                      {
+                        "@LineBreak": "false",
+                        "@Num": "1",
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "第五条第二項の改正規定（「送信させる」を「送信させ、又は提出させる」に改める部分に限る。）及び同項に一号を加える改正規定並びに附則第四項の規定"
+                        }
+                      },
+                      {
+                        "@LineBreak": "false",
+                        "@Num": "2",
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "平成三十二年四月一日"
+                        }
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            {
+              "@Hide": "false",
+              "@Num": "2",
+              "ParagraphCaption": "（経過措置）",
+              "ParagraphNum": "２",
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "改正後の国税関係法令に係る行政手続等における情報通信の技術の利用に関する省令（以下「新令」という。）第五条第一項の規定は、平成三十一年一月四日以後に行う同項の規定による申請等について適用し、同日前に行われた改正前の国税関係法令に係る行政手続等における情報通信の技術の利用に関する省令（以下「旧令」という。）第五条第一項の規定による申請等については、なお従前の例による。"
+                }
+              }
+            },
+            {
+              "@Hide": "false",
+              "@Num": "3",
+              "ParagraphNum": "３",
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "新令第五条第二項（第二号に係る部分に限る。）の規定は、この省令の施行の日以後に行う同条第一項の規定による申請等について適用し、同日前に行われた旧令第五条第一項の規定による申請等については、なお従前の例による。"
+                }
+              }
+            },
+            {
+              "@Hide": "false",
+              "@Num": "5",
+              "ParagraphNum": "５",
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "平成三十一年四月一日から平成三十二年三月三十一日までの間における新令第五条第三項の規定の適用については、同項中「送信し、又は提出」とあり、及び「送信又は提出」とあるのは、「送信」とする。"
+                }
+              }
+            },
+            {
+              "@Hide": "false",
+              "@Num": "6",
+              "ParagraphNum": "６",
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "新令第七条第一項ただし書の規定は、平成三十一年一月四日以後に納付する国税について適用する。"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@AmendLawNum": "平成三〇年四月一八日財務省令第三九号",
+          "@Extract": "true",
+          "@Type": "Amend",
+          "SupplProvisionLabel": "附　則",
+          "Article": {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "1",
+            "ArticleCaption": "（施行期日）",
+            "ArticleTitle": "第一条",
+            "Paragraph": {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "この省令は、平成三十一年一月七日から施行する。"
+                }
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成三一年三月二九日財務省令第二四号",
+          "@Extract": "true",
+          "@Type": "Amend",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": [
+            {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphCaption": "（施行期日）",
+              "ParagraphNum": "１",
+              "ParagraphSentence": {
+                "Sentence": [
+                  {
+                    "@Function": "main",
+                    "@Num": "1",
+                    "@WritingMode": "vertical",
+                    "#text": "この省令は、平成三十一年四月一日から施行する。"
+                  },
+                  {
+                    "@Function": "proviso",
+                    "@Num": "2",
+                    "@WritingMode": "vertical",
+                    "#text": "ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。"
+                  }
+                ]
+              },
+              "Item": [
+                {
+                  "@Delete": "false",
+                  "@Hide": "false",
+                  "@Num": "1",
+                  "ItemTitle": "一",
+                  "ItemSentence": {
+                    "Column": [
+                      {
+                        "@LineBreak": "false",
+                        "@Num": "1",
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "第五条第二項第二号イの改正規定"
+                        }
+                      },
+                      {
+                        "@LineBreak": "false",
+                        "@Num": "2",
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "平成三十一年七月一日"
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "@Delete": "false",
+                  "@Hide": "false",
+                  "@Num": "2",
+                  "ItemTitle": "二",
+                  "ItemSentence": {
+                    "Column": [
+                      {
+                        "@LineBreak": "false",
+                        "@Num": "1",
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "別表第四十七号を同表第四十八号とし、同号の次に一号を加える改正規定（同表第四十七号を同表第四十八号とする部分を除く。）"
+                        }
+                      },
+                      {
+                        "@LineBreak": "false",
+                        "@Num": "2",
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "平成三十一年九月三十日"
+                        }
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            {
+              "@Hide": "false",
+              "@Num": "2",
+              "ParagraphCaption": "（経過措置）",
+              "ParagraphNum": "２",
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "改正後の国税関係法令に係る行政手続等における情報通信の技術の利用に関する省令第五条第二項（第三号に係る部分に限る。）の規定は、この省令の施行の日以後に行う同条第一項の規定による申請等について適用する。"
+                }
+              }
+            }
+          ]
+        }
+      ],
+      "AppdxTable": {
+        "AppdxTableTitle": {
+          "@WritingMode": "vertical",
+          "#text": "別表"
+        },
+        "RelatedArticleNum": "（第三条関係）",
+        "Item": [
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "1",
+            "ItemTitle": "一",
+            "ItemSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "所得税法"
+              }
+            }
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "2",
+            "ItemTitle": "二",
+            "ItemSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "所得税法施行令（昭和四十年政令第九十六号）"
+              }
+            }
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "3",
+            "ItemTitle": "三",
+            "ItemSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "所得税法施行規則（昭和四十年大蔵省令第十一号）"
+              }
+            }
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "4",
+            "ItemTitle": "四",
+            "ItemSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "法人税法（昭和四十年法律第三十四号）"
+              }
+            }
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "5",
+            "ItemTitle": "五",
+            "ItemSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "法人税法施行令（昭和四十年政令第九十七号）"
+              }
+            }
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "6",
+            "ItemTitle": "六",
+            "ItemSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "法人税法施行規則（昭和四十年大蔵省令第十二号）"
+              }
+            }
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "7",
+            "ItemTitle": "七",
+            "ItemSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "地方法人税法（平成二十六年法律第十一号）"
+              }
+            }
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "8",
+            "ItemTitle": "八",
+            "ItemSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "相続税法（昭和二十五年法律第七十三号）"
+              }
+            }
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "9",
+            "ItemTitle": "九",
+            "ItemSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "相続税法施行令（昭和二十五年政令第七十一号）"
+              }
+            }
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "10",
+            "ItemTitle": "十",
+            "ItemSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "相続税法施行規則（昭和二十五年大蔵省令第十七号）"
+              }
+            }
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "11",
+            "ItemTitle": "十一",
+            "ItemSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "地価税法（平成三年法律第六十九号）"
+              }
+            }
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "12",
+            "ItemTitle": "十二",
+            "ItemSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "消費税法（昭和六十三年法律第百八号）"
+              }
+            }
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "13",
+            "ItemTitle": "十三",
+            "ItemSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "消費税法施行令（昭和六十三年政令第三百六十号）"
+              }
+            }
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "14",
+            "ItemTitle": "十四",
+            "ItemSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "消費税法施行規則（昭和六十三年大蔵省令第五十三号）"
+              }
+            }
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "15",
+            "ItemTitle": "十五",
+            "ItemSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "酒税法（昭和二十八年法律第六号）"
+              }
+            }
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "16",
+            "ItemTitle": "十六",
+            "ItemSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "酒税法施行令（昭和三十七年政令第九十七号）"
+              }
+            }
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "17",
+            "ItemTitle": "十七",
+            "ItemSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "たばこ税法（昭和五十九年法律第七十二号）"
+              }
+            }
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "18",
+            "ItemTitle": "十八",
+            "ItemSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "たばこ税法施行令（昭和六十年政令第五号）"
+              }
+            }
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "19",
+            "ItemTitle": "十九",
+            "ItemSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "揮発油税法（昭和三十二年法律第五十五号）"
+              }
+            }
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "20",
+            "ItemTitle": "二十",
+            "ItemSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "揮発油税法施行令（昭和三十二年政令第五十七号）"
+              }
+            }
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "21",
+            "ItemTitle": "二十一",
+            "ItemSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "地方揮発油税法（昭和三十年法律第百四号）"
+              }
+            }
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "22",
+            "ItemTitle": "二十二",
+            "ItemSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "石油ガス税法（昭和四十年法律第百五十六号）"
+              }
+            }
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "23",
+            "ItemTitle": "二十三",
+            "ItemSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "石油ガス税法施行令（昭和四十一年政令第五号）"
+              }
+            }
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "24",
+            "ItemTitle": "二十四",
+            "ItemSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "石油ガス税法施行規則（昭和四十一年大蔵省令第四号）"
+              }
+            }
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "25",
+            "ItemTitle": "二十五",
+            "ItemSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "石油石炭税法（昭和五十三年法律第二十五号）"
+              }
+            }
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "26",
+            "ItemTitle": "二十六",
+            "ItemSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "石油石炭税法施行令（昭和五十三年政令第百三十二号）"
+              }
+            }
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "27",
+            "ItemTitle": "二十七",
+            "ItemSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "航空機燃料税法施行令（昭和四十七年政令第五十七号）"
+              }
+            }
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "28",
+            "ItemTitle": "二十八",
+            "ItemSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "自動車重量税法（昭和四十六年法律第八十九号）"
+              }
+            }
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "29",
+            "ItemTitle": "二十九",
+            "ItemSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "国際観光旅客税法（平成三十年法律第十六号）"
+              }
+            }
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "30",
+            "ItemTitle": "三十",
+            "ItemSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "国際観光旅客税法施行規則（平成三十年財務省令第三十九号）"
+              }
+            }
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "31",
+            "ItemTitle": "三十一",
+            "ItemSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "印紙税法（昭和四十二年法律第二十三号）"
+              }
+            }
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "32",
+            "ItemTitle": "三十二",
+            "ItemSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "印紙税法施行令（昭和四十二年政令第百八号）"
+              }
+            }
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "33",
+            "ItemTitle": "三十三",
+            "ItemSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "電源開発促進税法（昭和四十九年法律第七十九号）"
+              }
+            }
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "34",
+            "ItemTitle": "三十四",
+            "ItemSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "電源開発促進税法施行令（昭和四十九年政令第三百三十九号）"
+              }
+            }
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "35",
+            "ItemTitle": "三十五",
+            "ItemSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "国税通則法"
+              }
+            }
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "36",
+            "ItemTitle": "三十六",
+            "ItemSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "国税通則法施行令"
+              }
+            }
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "37",
+            "ItemTitle": "三十七",
+            "ItemSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "国税徴収法"
+              }
+            }
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "38",
+            "ItemTitle": "三十八",
+            "ItemSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "国税徴収法施行令（昭和三十四年政令第三百二十九号）"
+              }
+            }
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "39",
+            "ItemTitle": "三十九",
+            "ItemSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "租税特別措置法"
+              }
+            }
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "40",
+            "ItemTitle": "四十",
+            "ItemSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "租税特別措置法施行令"
+              }
+            }
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "41",
+            "ItemTitle": "四十一",
+            "ItemSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "租税特別措置法施行規則（昭和三十二年大蔵省令第十五号）"
+              }
+            }
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "42",
+            "ItemTitle": "四十二",
+            "ItemSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "外国居住者等の所得に対する相互主義による所得税等の非課税等に関する法律（昭和三十七年法律第百四十四号）"
+              }
+            }
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "43",
+            "ItemTitle": "四十三",
+            "ItemSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "外国居住者等の所得に対する相互主義による所得税等の非課税等に関する法律施行令（昭和三十七年政令第二百二十七号）"
+              }
+            }
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "44",
+            "ItemTitle": "四十四",
+            "ItemSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "阪神・淡路大震災の被災者等に係る国税関係法律の臨時特例に関する法律（平成七年法律第十一号）"
+              }
+            }
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "45",
+            "ItemTitle": "四十五",
+            "ItemSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "阪神・淡路大震災の被災者等に係る国税関係法律の臨時特例に関する法律施行令（平成七年政令第二十九号）"
+              }
+            }
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "46",
+            "ItemTitle": "四十六",
+            "ItemSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "内国税の適正な課税の確保を図るための国外送金等に係る調書の提出等に関する法律（平成九年法律第百十号）"
+              }
+            }
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "47",
+            "ItemTitle": "四十七",
+            "ItemSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "内国税の適正な課税の確保を図るための国外送金等に係る調書の提出等に関する法律施行令（平成九年政令第三百六十三号）"
+              }
+            }
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "48",
+            "ItemTitle": "四十八",
+            "ItemSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "電子計算機を使用して作成する国税関係帳簿書類の保存方法等の特例に関する法律（平成十年法律第二十五号）"
+              }
+            }
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "50",
+            "ItemTitle": "五十",
+            "ItemSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "東日本大震災の被災者等に係る国税関係法律の臨時特例に関する法律（平成二十三年法律第二十九号）"
+              }
+            }
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "51",
+            "ItemTitle": "五十一",
+            "ItemSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "東日本大震災の被災者等に係る国税関係法律の臨時特例に関する法律施行令（平成二十三年政令第百十二号）"
+              }
+            }
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "52",
+            "ItemTitle": "五十二",
+            "ItemSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "東日本大震災の被災者等に係る国税関係法律の臨時特例に関する法律施行規則（平成二十三年財務省令第二十号）"
+              }
+            }
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "53",
+            "ItemTitle": "五十三",
+            "ItemSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "東日本大震災からの復興のための施策を実施するために必要な財源の確保に関する特別措置法（平成二十三年法律第百十七号）"
+              }
+            }
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "54",
+            "ItemTitle": "五十四",
+            "ItemSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "災害被害者に対する租税の減免、徴収猶予等に関する法律の施行に関する政令（昭和二十二年政令第二百六十八号）"
+              }
+            }
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "55",
+            "ItemTitle": "五十五",
+            "ItemSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "日本国とアメリカ合衆国との間の相互協力及び安全保障条約第六条に基づく施設及び区域並びに日本国における合衆国軍隊の地位に関する協定の実施に伴う所得税法等の臨時特例に関する法律施行令（昭和二十七年政令第百二十四号）"
+              }
+            }
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "56",
+            "ItemTitle": "五十六",
+            "ItemSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "日本国とアメリカ合衆国との間の相互防衛援助協定の実施に伴う関税法等の臨時特例に関する法律施行令（昭和二十九年政令第百三号）"
+              }
+            }
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "57",
+            "ItemTitle": "五十七",
+            "ItemSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "日本国における国際連合の軍隊の地位に関する協定の実施に伴う所得税法等の臨時特例に関する法律施行令（昭和二十九年政令第百二十八号）"
+              }
+            }
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "58",
+            "ItemTitle": "五十八",
+            "ItemSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "滞納処分と強制執行等との手続の調整に関する政令（昭和三十二年政令第二百四十八号）"
+              }
+            }
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "59",
+            "ItemTitle": "五十九",
+            "ItemSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "沖縄の復帰に伴う国税関係法令の適用の特別措置等に関する政令（昭和四十七年政令第百五十一号）"
+              }
+            }
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "60",
+            "ItemTitle": "六十",
+            "ItemSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "沖縄の復帰に伴う国税関係法令の適用の特別措置等に関する省令（昭和四十七年大蔵省令第四十二号）"
+              }
+            }
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "61",
+            "ItemTitle": "六十一",
+            "ItemSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "減価償却資産の耐用年数等に関する省令（昭和四十年大蔵省令第十五号）"
+              }
+            }
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "62",
+            "ItemTitle": "六十二",
+            "ItemSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "租税条約等の実施に伴う所得税法、法人税法及び地方税法の特例等に関する法律の施行に関する省令（昭和四十四年大蔵省、自治省令第一号）"
+              }
+            }
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "63",
+            "ItemTitle": "六十三",
+            "ItemSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "遺産、相続及び贈与に対する租税に関する二重課税の回避及び脱税の防止のための日本国とアメリカ合衆国との間の条約の実施に伴う相続税法の特例等に関する法律の施行に関する省令（昭和四十四年大蔵省令第三十六号）"
+              }
+            }
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "64",
+            "ItemTitle": "六十四",
+            "ItemSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "印紙等模造取締法（昭和二十二年法律第百八十九号）"
+              }
+            }
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "65",
+            "ItemTitle": "六十五",
+            "ItemSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "中小企業等協同組合法（昭和二十四年法律第百八十一号）"
+              }
+            }
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "66",
+            "ItemTitle": "六十六",
+            "ItemSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "税理士法（昭和二十六年法律第二百三十七号）"
+              }
+            }
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "67",
+            "ItemTitle": "六十七",
+            "ItemSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "税理士法施行令（昭和二十六年政令第二百十六号）"
+              }
+            }
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "68",
+            "ItemTitle": "六十八",
+            "ItemSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "税理士法施行規則（昭和二十六年大蔵省令第五十五号）"
+              }
+            }
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "69",
+            "ItemTitle": "六十九",
+            "ItemSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "酒税の保全及び酒類業組合等に関する法律（昭和二十八年法律第七号）"
+              }
+            }
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "70",
+            "ItemTitle": "七十",
+            "ItemSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "酒税の保全及び酒類業組合等に関する法律施行令（昭和二十八年政令第二十八号）"
+              }
+            }
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "71",
+            "ItemTitle": "七十一",
+            "ItemSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "連続式蒸留機の新設及び拡張の臨時制限に関する省令（昭和二十八年大蔵省令第九号）"
+              }
+            }
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "72",
+            "ItemTitle": "七十二",
+            "ItemSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "中小企業団体の組織に関する法律（昭和三十二年法律第百八十五号）"
+              }
+            }
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "73",
+            "ItemTitle": "七十三",
+            "ItemSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "中小企業団体の組織に関する法律施行規則（平成十九年財務省、厚生労働省、農林水産省、経済産業省、国土交通省令第一号）"
+              }
+            }
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "74",
+            "ItemTitle": "七十四",
+            "ItemSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "技術研究組合法（昭和三十六年法律第八十一号）"
+              }
+            }
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "75",
+            "ItemTitle": "七十五",
+            "ItemSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "清酒製造業等の安定に関する特別措置法（昭和四十五年法律第七十七号）"
+              }
+            }
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "76",
+            "ItemTitle": "七十六",
+            "ItemSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "清酒製造業等の安定に関する特別措置法施行令（昭和四十五年政令第百二十五号）"
+              }
+            }
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "77",
+            "ItemTitle": "七十七",
+            "ItemSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "中小小売商業振興法（昭和四十八年法律第百一号）"
+              }
+            }
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "78",
+            "ItemTitle": "七十八",
+            "ItemSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "中小小売商業振興法施行令（昭和四十八年政令第二百八十六号）"
+              }
+            }
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "79",
+            "ItemTitle": "七十九",
+            "ItemSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "中小企業等経営強化法（平成十一年法律第十八号）"
+              }
+            }
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "80",
+            "ItemTitle": "八十",
+            "ItemSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "納税貯蓄組合法施行令（昭和二十六年政令第九十九号）"
+              }
+            }
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "81",
+            "ItemTitle": "八十一",
+            "ItemSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "国税関係法令に係る行政手続等における情報通信の技術の利用に関する省令（平成十五年財務省令第七十一号）"
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,144 @@
+{
+  "Law": {
+    "@Era": "Showa",
+    "@Lang": "ja",
+    "@LawType": "Rule",
+    "@Num": "004",
+    "@Year": "40",
+    "LawNum": "昭和四十年国家公安委員会規則第四号",
+    "LawBody": {
+      "LawTitle": "犯罪統計規則",
+      "EnactStatement": "犯罪統計規則を次のように定める。",
+      "Preamble": {
+        "Paragraph": {
+          "@Num": "1",
+          "ParagraphNum": null,
+          "ParagraphSentence": {
+            "Sentence": "犯罪統計規則（昭和二十九年国家公安委員会規則第六号）の全部を次のように改正する。"
+          }
+        }
+      },
+      "MainProvision": {
+        "Article": [
+          {
+            "@Num": "1",
+            "ArticleCaption": "（目的）",
+            "ArticleTitle": "第一条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "この規則は、犯罪統計の正確かつ迅速な作成およびその効率的な運用を図るため必要な事項を定めることを目的とする。"
+              }
+            }
+          },
+          {
+            "@Num": "2",
+            "ArticleCaption": "（犯罪統計作成の原則）",
+            "ArticleTitle": "第二条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "犯罪統計は、警察庁長官（以下「長官」という。）の定める犯罪統計原票（以下「原票」という。）または犯罪統計調査票（以下「調査票」という。）に基づき作成するものとする。"
+              }
+            }
+          },
+          {
+            "@Num": "3",
+            "ArticleCaption": "（原票等の作成等）",
+            "ArticleTitle": "第三条",
+            "Paragraph": [
+              {
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": "都道府県警察は、長官の定めるところにより、犯罪と思料される事件を認知し、又は検挙したときは、速やかに、原票を作成し、その内容を電子情報処理組織を使用して警察庁へ報告しなければならない。"
+                }
+              },
+              {
+                "@Num": "2",
+                "ParagraphNum": "２",
+                "ParagraphSentence": {
+                  "Sentence": "都道府県警察は、前項の規定による原票のほか、長官が臨時に特別の調査事項に関し犯罪統計を作成する必要があると認めて指示したときは、速やかに、その指示に係る調査票を作成し、長官の指示する方法により警察庁へ報告しなければならない。"
+                }
+              }
+            ]
+          },
+          {
+            "@Num": "4",
+            "ArticleCaption": "（犯罪統計作成の特例）",
+            "ArticleTitle": "第四条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "犯罪統計は、長官が定める場合においては、前二条の規定にかかわらず原票又は調査票に基づかないで作成することができる。"
+              }
+            }
+          },
+          {
+            "@Num": "5",
+            "ArticleCaption": "（統計の利用）",
+            "ArticleTitle": "第五条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "警察庁は、前三条の規定により作成された犯罪統計を都道府県警察に利用させるために必要な措置を講じるものとする。"
+              }
+            }
+          },
+          {
+            "@Num": "6",
+            "ArticleCaption": "（細則への委任）",
+            "ArticleTitle": "第六条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "この規則に定めのあるもののほか、この規則の実施のため必要な事項は、長官が定める。"
+              }
+            }
+          }
+        ]
+      },
+      "SupplProvision": [
+        {
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphCaption": "（施行期日）",
+            "ParagraphNum": "１",
+            "ParagraphSentence": {
+              "Sentence": "この規則は、昭和四十一年一月一日から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成一五年一〇月三一日国家公安委員会規則第一八号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": [
+            {
+              "@Num": "1",
+              "ParagraphCaption": "（施行期日）",
+              "ParagraphNum": "１",
+              "ParagraphSentence": {
+                "Sentence": "この規則は、平成十六年一月一日から施行する。"
+              }
+            },
+            {
+              "@Num": "2",
+              "ParagraphCaption": "（経過措置）",
+              "ParagraphNum": "２",
+              "ParagraphSentence": {
+                "Sentence": "改正前の犯罪統計規則に基づき作成された原票又は調査票の送付及び報告については、なお従前の例による。"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

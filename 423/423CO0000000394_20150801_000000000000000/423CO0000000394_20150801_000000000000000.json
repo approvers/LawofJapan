@@ -1,0 +1,112 @@
+{
+  "Law": {
+    "@Era": "Heisei",
+    "@Lang": "ja",
+    "@LawType": "CabinetOrder",
+    "@Num": "394",
+    "@Year": "23",
+    "LawNum": "平成二十三年政令第三百九十四号",
+    "LawBody": {
+      "LawTitle": "平成二十三年三月十一日に発生した東北地方太平洋沖地震に伴う原子力発電所の事故により放出された放射性物質による環境の汚染への対処に関する特別措置法施行令",
+      "EnactStatement": "内閣は、平成二十三年三月十一日に発生した東北地方太平洋沖地震に伴う原子力発電所の事故により放出された放射性物質による環境の汚染への対処に関する特別措置法（平成二十三年法律第百十号）第三十四条第一項、第四十二条第二項及び第五十七条の規定に基づき、この政令を制定する。",
+      "MainProvision": {
+        "Article": [
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "1",
+            "ArticleCaption": "（汚染状況重点調査地域内の汚染の状況の調査測定をすることができる市町村）",
+            "ArticleTitle": "第一条",
+            "Paragraph": {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "平成二十三年三月十一日に発生した東北地方太平洋沖地震に伴う原子力発電所の事故により放出された放射性物質による環境の汚染への対処に関する特別措置法（以下「法」という。）第三十四条第一項の政令で定める市町村は、その区域の全部又は一部が汚染状況重点調査地域内にある市町村とする。"
+                }
+              }
+            }
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "2",
+            "ArticleCaption": "（国による措置の代行）",
+            "ArticleTitle": "第二条",
+            "Paragraph": {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": [
+                  {
+                    "@Num": "1",
+                    "@WritingMode": "vertical",
+                    "#text": "法第四章第三節（第三十四条、第三十六条及び第三十七条を除く。）に規定する措置に関する事務を所掌する大臣は、法第四十二条第一項の規定により当該措置を行おうとするときは、あらかじめ、当該措置を行う区域及び当該措置の開始の日を公示しなければならない。"
+                  },
+                  {
+                    "@Num": "2",
+                    "@WritingMode": "vertical",
+                    "#text": "当該措置を完了しようとするときも、同様とする。"
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "3",
+            "ArticleCaption": "（権限の委任）",
+            "ArticleTitle": "第三条",
+            "Paragraph": {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": [
+                  {
+                    "@Function": "main",
+                    "@Num": "1",
+                    "@WritingMode": "vertical",
+                    "#text": "法第十六条、第十七条第一項、第十八条第一項から第四項まで、第三十一条第三項及び第四項、第四十九条第二項から第四項まで並びに第五十条第二項から第四項までの規定による環境大臣の権限は、地方環境事務所長に委任する。"
+                  },
+                  {
+                    "@Function": "proviso",
+                    "@Num": "2",
+                    "@WritingMode": "vertical",
+                    "#text": "ただし、法第四十九条第二項から第四項まで及び第五十条第二項から第四項までの規定による権限にあっては、環境大臣が自らその権限を行うことを妨げない。"
+                  }
+                ]
+              }
+            }
+          }
+        ]
+      },
+      "SupplProvision": {
+        "@Extract": "true",
+        "SupplProvisionLabel": "附　則",
+        "Article": {
+          "@Delete": "false",
+          "@Hide": "false",
+          "@Num": "1",
+          "ArticleCaption": "（施行期日）",
+          "ArticleTitle": "第一条",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この政令は、平成二十四年一月一日から施行する。"
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

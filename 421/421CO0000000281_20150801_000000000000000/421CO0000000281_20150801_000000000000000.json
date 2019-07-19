@@ -1,0 +1,85 @@
+{
+  "Law": {
+    "@Era": "Heisei",
+    "@Lang": "ja",
+    "@LawType": "CabinetOrder",
+    "@Num": "281",
+    "@Year": "21",
+    "LawNum": "平成二十一年政令第二百八十一号",
+    "LawBody": {
+      "LawTitle": "子ども・若者育成支援推進本部令",
+      "EnactStatement": "内閣は、子ども・若者育成支援推進法（平成二十一年法律第七十一号）第三十三条の規定に基づき、この政令を制定する。",
+      "MainProvision": {
+        "Article": [
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "1",
+            "ArticleCaption": "（庶務）",
+            "ArticleTitle": "第一条",
+            "Paragraph": {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "子ども・若者育成支援推進本部（次条において「本部」という。）の庶務は、内閣府本府に置かれる政策統括官が処理する。"
+                }
+              }
+            }
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "2",
+            "ArticleCaption": "（本部の運営）",
+            "ArticleTitle": "第二条",
+            "Paragraph": {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "前条に定めるもののほか、本部の運営に関し必要な事項は、子ども・若者育成支援推進本部長が本部に諮って定める。"
+                }
+              }
+            }
+          }
+        ]
+      },
+      "SupplProvision": {
+        "@Extract": "true",
+        "@Type": "New",
+        "SupplProvisionLabel": "附　則",
+        "Paragraph": [
+          {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphCaption": "（施行期日）",
+            "ParagraphNum": "１",
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この政令は、子ども・若者育成支援推進法の施行の日（平成二十二年四月一日）から施行する。"
+              }
+            }
+          },
+          {
+            "@Hide": "false",
+            "@Num": "2",
+            "ParagraphCaption": "（インターネット青少年有害情報対策・環境整備推進会議令の廃止）",
+            "ParagraphNum": "２",
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "インターネット青少年有害情報対策・環境整備推進会議令（平成二十年政令第三百七十九号）は、廃止する。"
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

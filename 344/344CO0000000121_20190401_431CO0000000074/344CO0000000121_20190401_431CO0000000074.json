@@ -1,0 +1,2407 @@
+{
+  "Law": {
+    "@DataInfo": "190528e01k01m01",
+    "@Era": "Showa",
+    "@Lang": "ja",
+    "@LawType": "CabinetOrder",
+    "@Num": "121",
+    "@Year": "44",
+    "LawNum": "昭和四十四年政令第百二十一号",
+    "LawBody": {
+      "LawTitle": "行政機関職員定員令",
+      "EnactStatement": "内閣は、行政機関の職員の定員に関する法律（昭和四十四年法律第三十三号）第二条及び第三条の規定に基づき、並びに同法を実施するため、この政令を制定する。",
+      "MainProvision": {
+        "Article": [
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "1",
+            "ArticleTitle": "第一条",
+            "Paragraph": [
+              {
+                "@Hide": "false",
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "行政機関の職員の定員に関する法律（以下「法」という。）第一条第一項の定員は、次の表のとおりとする。"
+                  }
+                },
+                "TableStruct": {
+                  "Table": {
+                    "TableRow": [
+                      {
+                        "TableColumn": [
+                          {
+                            "@Valign": "top",
+                            "Sentence": "区分"
+                          },
+                          {
+                            "@Valign": "top",
+                            "Sentence": "定員"
+                          },
+                          {
+                            "@Valign": "top",
+                            "Sentence": "備考"
+                          }
+                        ]
+                      },
+                      {
+                        "TableColumn": [
+                          {
+                            "@Valign": "top",
+                            "Sentence": "内閣の機関"
+                          },
+                          {
+                            "@Valign": "top",
+                            "Sentence": "一、二四五人"
+                          },
+                          {
+                            "@Valign": "top",
+                            "Sentence": "うち、一六人は、特別職の職員の定員とする。"
+                          }
+                        ]
+                      },
+                      {
+                        "TableColumn": [
+                          {
+                            "@Valign": "top",
+                            "Sentence": "内閣府"
+                          },
+                          {
+                            "@Valign": "top",
+                            "Sentence": "一四、三七一人"
+                          },
+                          {
+                            "@Valign": "top",
+                            "Sentence": "うち、六三人は、特別職の職員の定員とする。"
+                          }
+                        ]
+                      },
+                      {
+                        "TableColumn": [
+                          {
+                            "@Valign": "top",
+                            "Sentence": "復興庁"
+                          },
+                          {
+                            "@Valign": "top",
+                            "Sentence": "二一二人"
+                          },
+                          {
+                            "@Valign": "top",
+                            "Sentence": null
+                          }
+                        ]
+                      },
+                      {
+                        "TableColumn": [
+                          {
+                            "@Valign": "top",
+                            "Sentence": "総務省"
+                          },
+                          {
+                            "@Valign": "top",
+                            "Sentence": "四、八〇八人"
+                          },
+                          {
+                            "@Valign": "top",
+                            "Sentence": "うち、一人は、特別職の職員の定員とする。"
+                          }
+                        ]
+                      },
+                      {
+                        "TableColumn": [
+                          {
+                            "@Valign": "top",
+                            "Sentence": "法務省"
+                          },
+                          {
+                            "@Valign": "top",
+                            "Sentence": "五四、一五一人"
+                          },
+                          {
+                            "@Valign": "top",
+                            "Sentence": [
+                              "一　うち、一人は、特別職の職員の定員とする。",
+                              "二　うち、一一、八六〇人は、検察庁の職員の定員とする。"
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "TableColumn": [
+                          {
+                            "@Valign": "top",
+                            "Sentence": "外務省"
+                          },
+                          {
+                            "@Valign": "top",
+                            "Sentence": "六、二八一人"
+                          },
+                          {
+                            "@Valign": "top",
+                            "Sentence": "うち、一六八人は、特別職の職員の定員とする。"
+                          }
+                        ]
+                      },
+                      {
+                        "TableColumn": [
+                          {
+                            "@Valign": "top",
+                            "Sentence": "財務省"
+                          },
+                          {
+                            "@Valign": "top",
+                            "Sentence": "七二、一五七人"
+                          },
+                          {
+                            "@Valign": "top",
+                            "Sentence": "うち、一人は、特別職の職員の定員とする。"
+                          }
+                        ]
+                      },
+                      {
+                        "TableColumn": [
+                          {
+                            "@Valign": "top",
+                            "Sentence": "文部科学省"
+                          },
+                          {
+                            "@Valign": "top",
+                            "Sentence": "二、一三三人"
+                          },
+                          {
+                            "@Valign": "top",
+                            "Sentence": "うち、一人は、特別職の職員の定員とする。"
+                          }
+                        ]
+                      },
+                      {
+                        "TableColumn": [
+                          {
+                            "@Valign": "top",
+                            "Sentence": "厚生労働省"
+                          },
+                          {
+                            "@Valign": "top",
+                            "Sentence": "三一、八二〇人"
+                          },
+                          {
+                            "@Valign": "top",
+                            "Sentence": "うち、一人は、特別職の職員の定員とする。"
+                          }
+                        ]
+                      },
+                      {
+                        "TableColumn": [
+                          {
+                            "@Valign": "top",
+                            "Sentence": "農林水産省"
+                          },
+                          {
+                            "@Valign": "top",
+                            "Sentence": "二〇、七四七人"
+                          },
+                          {
+                            "@Valign": "top",
+                            "Sentence": "うち、一人は、特別職の職員の定員とする。"
+                          }
+                        ]
+                      },
+                      {
+                        "TableColumn": [
+                          {
+                            "@Valign": "top",
+                            "Sentence": "経済産業省"
+                          },
+                          {
+                            "@Valign": "top",
+                            "Sentence": "七、九九〇人"
+                          },
+                          {
+                            "@Valign": "top",
+                            "Sentence": "うち、一人は、特別職の職員の定員とする。"
+                          }
+                        ]
+                      },
+                      {
+                        "TableColumn": [
+                          {
+                            "@Valign": "top",
+                            "Sentence": "国土交通省"
+                          },
+                          {
+                            "@Valign": "top",
+                            "Sentence": "五八、四九六人"
+                          },
+                          {
+                            "@Valign": "top",
+                            "Sentence": "うち、一人は、特別職の職員の定員とする。"
+                          }
+                        ]
+                      },
+                      {
+                        "TableColumn": [
+                          {
+                            "@Valign": "top",
+                            "Sentence": "環境省"
+                          },
+                          {
+                            "@Valign": "top",
+                            "Sentence": "三、一七三人"
+                          },
+                          {
+                            "@Valign": "top",
+                            "Sentence": "うち、一人は、特別職の職員の定員とする。"
+                          }
+                        ]
+                      },
+                      {
+                        "TableColumn": [
+                          {
+                            "@Valign": "top",
+                            "Sentence": "防衛省"
+                          },
+                          {
+                            "@Valign": "top",
+                            "Sentence": "二〇、九〇三人"
+                          },
+                          {
+                            "@Valign": "top",
+                            "Sentence": "うち、二〇、八七六人は、特別職の職員の定員とする。"
+                          }
+                        ]
+                      },
+                      {
+                        "TableColumn": [
+                          {
+                            "@Valign": "top",
+                            "Sentence": "合計"
+                          },
+                          {
+                            "@Valign": "top",
+                            "Sentence": "二九八、四八七人"
+                          },
+                          {
+                            "@Valign": "top",
+                            "Sentence": null
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                }
+              },
+              {
+                "@Hide": "false",
+                "@Num": "2",
+                "ParagraphNum": "２",
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "前項に規定する内閣府の定員のうち、宮内庁及び各外局別の定員は、次の表のとおりとする。"
+                  }
+                },
+                "TableStruct": {
+                  "Table": {
+                    "@WritingMode": "vertical",
+                    "TableRow": [
+                      {
+                        "TableColumn": [
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "区分"
+                            }
+                          },
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "定員"
+                            }
+                          },
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "備考"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "TableColumn": [
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "宮内庁"
+                            }
+                          },
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "一、〇六一人"
+                            }
+                          },
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "うち、六三人は、特別職の職員の定員とする。"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "TableColumn": [
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "公正取引委員会"
+                            }
+                          },
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "八四〇人"
+                            }
+                          },
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "事務総局の職員の定員とする。"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "TableColumn": [
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "国家公安委員会"
+                            }
+                          },
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "七、九七五人"
+                            }
+                          },
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "Sentence": [
+                              {
+                                "@WritingMode": "vertical",
+                                "#text": "一　警察庁の職員の定員とする。"
+                              },
+                              {
+                                "@WritingMode": "vertical",
+                                "#text": "二　うち、二、二一〇人は、警察官の定員とする。"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "TableColumn": [
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "個人情報保護委員会"
+                            }
+                          },
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "一三一人"
+                            }
+                          },
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "事務局の職員の定員とする。"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "TableColumn": [
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "金融庁"
+                            }
+                          },
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "一、六〇八人"
+                            }
+                          },
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "Sentence": {
+                              "@WritingMode": "vertical"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "TableColumn": [
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "消費者庁"
+                            }
+                          },
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "三六三人"
+                            }
+                          },
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "Sentence": {
+                              "@WritingMode": "vertical"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                }
+              },
+              {
+                "@Hide": "false",
+                "@Num": "3",
+                "ParagraphNum": "３",
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "第一項に規定する総務省の定員のうち、公害等調整委員会の定員は、三十五人（事務局の職員の定員とする。）とする。"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "2",
+            "ArticleTitle": "第二条",
+            "Paragraph": [
+              {
+                "@Hide": "false",
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "内閣の各機関別の定員は、前条第一項に規定する内閣の機関の定員の範囲内において、内閣総理大臣が定める。"
+                  }
+                }
+              },
+              {
+                "@Hide": "false",
+                "@Num": "2",
+                "ParagraphNum": "２",
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "各省の本省及び各外局（総務省にあつては、公害等調整委員会を除く。）別の定員は、前条第一項に規定する当該省の定員（総務省にあつては、同項に規定する総務省の定員から同条第三項に規定する公害等調整委員会の定員を除いた定員とする。）の範囲内において、それぞれ省令で定める。"
+                  }
+                }
+              }
+            ]
+          }
+        ]
+      },
+      "SupplProvision": [
+        {
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": [
+            {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": "１",
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "この政令は、公布の日から施行し、昭和四十四年四月一日から適用する。"
+                }
+              }
+            },
+            {
+              "@Hide": "false",
+              "@Num": "5",
+              "ParagraphNum": "５",
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "次に掲げる政令は、廃止する。"
+                }
+              },
+              "Item": [
+                {
+                  "@Delete": "false",
+                  "@Hide": "false",
+                  "@Num": "1",
+                  "ItemTitle": "一",
+                  "ItemSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "造幣事業及び印刷事業職員定員令（昭和三十六年政令第百六十九号）"
+                    }
+                  }
+                },
+                {
+                  "@Delete": "false",
+                  "@Hide": "false",
+                  "@Num": "2",
+                  "ItemTitle": "二",
+                  "ItemSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "国有林野事業職員定員令（昭和三十六年政令第百七十二号）"
+                    }
+                  }
+                },
+                {
+                  "@Delete": "false",
+                  "@Hide": "false",
+                  "@Num": "3",
+                  "ItemTitle": "三",
+                  "ItemSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "アルコール専売事業職員定員令（昭和三十六年政令第百七十三号）"
+                    }
+                  }
+                },
+                {
+                  "@Delete": "false",
+                  "@Hide": "false",
+                  "@Num": "4",
+                  "ItemTitle": "四",
+                  "ItemSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "郵政事業職員定員令（昭和三十六年政令第百七十四号）"
+                    }
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "@AmendLawNum": "平成一二年一二月六日政令第四九六号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphCaption": "（施行期日）",
+            "ParagraphNum": "１",
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この政令は、行政機関の職員の定員に関する法律等の一部を改正する法律の施行の日（平成十三年一月六日）から施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成一三年三月三〇日政令第一〇九号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphCaption": "（施行期日）",
+            "ParagraphNum": "１",
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この政令は、平成十三年四月一日から施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成一三年六月二七日政令第二一六号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphCaption": "（施行期日）",
+            "ParagraphNum": "１",
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この政令は、公布の日から施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成一三年一二月一二日政令第三九二号",
+          "@Extract": "false",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この政令は、公布の日から施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成一四年四月一日政令第一二六号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphCaption": "（施行期日）",
+            "ParagraphNum": "１",
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この政令は、公布の日から施行し、改正後の行政機関職員定員令（以下「新令」という。）第一条及び第三条の規定並びに次項から附則第五項までの規定は、平成十四年四月一日から適用する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成一五年四月一日政令第一六七号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphCaption": "（施行期日）",
+            "ParagraphNum": "１",
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この政令は、公布の日から施行し、改正後の行政機関職員定員令（以下「新令」という。）第一条及び第三条の規定並びに次項から附則第五項までの規定は、平成十五年四月一日から適用する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成一五年四月九日政令第二〇一号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphCaption": "（施行期日）",
+            "ParagraphNum": "１",
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この政令は、公正取引委員会を内閣府の外局に移行させるための関係法律の整備に関する法律の施行の日（平成十五年四月九日）から施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成一五年五月二八日政令第二三三号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphCaption": "（施行期日）",
+            "ParagraphNum": "１",
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この政令は、公布の日から施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成一五年六月二〇日政令第二七三号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphCaption": "（施行期日）",
+            "ParagraphNum": "１",
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この政令は、法の施行の日（平成十五年七月一日）から施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成一五年六月二五日政令第二七七号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Article": {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "1",
+            "ArticleCaption": "（施行期日）",
+            "ArticleTitle": "第一条",
+            "Paragraph": {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "この政令は、平成十五年七月一日から施行する。"
+                }
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成一六年四月一日政令第一二五号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphCaption": "（施行期日）",
+            "ParagraphNum": "１",
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この政令は、公布の日から施行し、改正後の行政機関職員定員令（以下「新令」という。）の規定は、平成十六年四月一日から適用する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成一七年四月一日政令第一一二号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphCaption": "（施行期日等）",
+            "ParagraphNum": "１",
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この政令は、公布の日から施行し、改正後の行政機関職員定員令（以下「新令」という。）の規定は、平成十七年四月一日から適用する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成一七年八月一五日政令第二七九号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Article": {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "1",
+            "ArticleCaption": "（施行期日）",
+            "ArticleTitle": "第一条",
+            "Paragraph": {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": [
+                  {
+                    "@Function": "main",
+                    "@Num": "1",
+                    "@WritingMode": "vertical",
+                    "#text": "この政令は、公布の日から施行する。"
+                  },
+                  {
+                    "@Function": "proviso",
+                    "@Num": "2",
+                    "@WritingMode": "vertical",
+                    "#text": "ただし、附則第五条から第十条までの規定は、平成十七年十月一日から施行する。"
+                  }
+                ]
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成一八年三月三〇日政令第九二号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphCaption": "（施行期日）",
+            "ParagraphNum": "１",
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この政令は、平成十八年四月一日から施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成一九年一月四日政令第三号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Article": {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "1",
+            "ArticleCaption": "（施行期日）",
+            "ArticleTitle": "第一条",
+            "Paragraph": {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "この政令は、防衛庁設置法等の一部を改正する法律の施行の日（平成十九年一月九日）から施行する。"
+                }
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成一九年四月一日政令第一三二号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphCaption": "（施行期日等）",
+            "ParagraphNum": "１",
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この政令は、公布の日から施行し、改正後の行政機関職員定員令（以下「新令」という。）の規定は、平成十九年四月一日から適用する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成二〇年三月三一日政令第九〇号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphCaption": "（施行期日）",
+            "ParagraphNum": "１",
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この政令は、平成二十年四月一日から施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成二〇年七月一八日政令第二三一号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Article": {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "1",
+            "ArticleCaption": "（施行期日）",
+            "ArticleTitle": "第一条",
+            "Paragraph": {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "この政令は、平成二十年十月一日から施行する。"
+                }
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成二〇年一〇月一〇日政令第三一一号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphCaption": "（施行期日）",
+            "ParagraphNum": "１",
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この政令は、公布の日から施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成二〇年一二月二五日政令第三九四号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphCaption": "（施行期日）",
+            "ParagraphNum": "１",
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この政令は、国家公務員法等の一部を改正する法律（平成十九年法律第百八号）の施行の日（平成二十年十二月三十一日）から施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成二一年三月三一日政令第六七号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphCaption": "（施行期日）",
+            "ParagraphNum": "１",
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この政令は、平成二十一年四月一日から施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成二一年六月一日政令第一四四号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphCaption": "（施行期日）",
+            "ParagraphNum": "１",
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この政令は、公布の日から施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成二一年八月一四日政令第二一七号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphCaption": "（施行期日）",
+            "ParagraphNum": "１",
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この政令は、消費者庁及び消費者委員会設置法の施行の日（平成二十一年九月一日）から施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成二二年四月一日政令第八四号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphCaption": "（施行期日）",
+            "ParagraphNum": "１",
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この政令は、公布の日から施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成二三年一月一三日政令第一号",
+          "@Extract": "false",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この政令は、公布の日から施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成二三年三月三一日政令第六三号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphCaption": "（施行期日）",
+            "ParagraphNum": "１",
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この政令は、平成二十三年四月一日から施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成二三年一一月二八日政令第三四九号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphCaption": "（施行期日）",
+            "ParagraphNum": "１",
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この政令は、公布の日から施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成二四年二月一日政令第二二号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Article": {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "1",
+            "ArticleCaption": "（施行期日）",
+            "ArticleTitle": "第一条",
+            "Paragraph": {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "この政令は、復興庁設置法の施行の日（平成二十四年二月十日）から施行する。"
+                }
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成二四年四月六日政令第一二〇号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphCaption": "（施行期日等）",
+            "ParagraphNum": "１",
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この政令は、公布の日から施行し、改正後の行政機関職員定員令（以下「新令」という。）の規定は、平成二十四年四月一日から適用する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成二四年七月一一日政令第一八七号",
+          "@Extract": "false",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この政令は、内閣府設置法等の一部を改正する法律の施行の日（平成二十四年七月十二日）から施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成二四年九月一四日政令第二三五号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Article": {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "1",
+            "ArticleCaption": "（施行期日）",
+            "ArticleTitle": "第一条",
+            "Paragraph": {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "この政令は、原子力規制委員会設置法の施行の日（平成二十四年九月十九日）から施行する。"
+                }
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成二五年三月一三日政令第五五号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Article": {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "1",
+            "ArticleCaption": "（施行期日）",
+            "ArticleTitle": "第一条",
+            "Paragraph": {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "この政令は、平成二十五年四月一日から施行する。"
+                }
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成二五年三月二九日政令第一〇四号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Article": {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "1",
+            "ArticleCaption": "（施行期日）",
+            "ArticleTitle": "第一条",
+            "Paragraph": {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "この政令は、平成二十五年四月一日から施行する。"
+                }
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成二五年五月一六日政令第一四一号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphCaption": "（施行期日等）",
+            "ParagraphNum": "１",
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この政令は、公布の日から施行し、改正後の行政機関職員定員令（以下「新令」という。）の規定は、平成二十五年四月一日から適用する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成二五年九月四日政令第二五三号",
+          "@Extract": "false",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この政令は、公布の日から施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成二五年九月二六日政令第二八五号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Article": {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "1",
+            "ArticleCaption": "（施行期日）",
+            "ArticleTitle": "第一条",
+            "Paragraph": {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "この政令は、災害対策基本法等の一部を改正する法律附則第一条第一号に掲げる規定の施行の日（平成二十五年十月一日）から施行する。"
+                }
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成二五年一〇月一七日政令第三〇〇号",
+          "@Extract": "false",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この政令は、行政手続における特定の個人を識別するための番号の利用等に関する法律附則第一条第二号に掲げる規定の施行の日（平成二十六年一月一日）から施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成二五年一二月二〇日政令第三四九号",
+          "@Extract": "false",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この政令は、安全保障会議設置法等の一部を改正する法律附則第一項ただし書に規定する規定の施行の日（平成二十六年一月七日）から施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成二六年二月一三日政令第二六号",
+          "@Extract": "false",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この政令は、公布の日から施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成二六年二月一九日政令第三九号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphCaption": "（施行期日）",
+            "ParagraphNum": "１",
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この政令は、法の施行の日（平成二十六年三月一日）から施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成二六年三月二六日政令第七六号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphCaption": "（施行期日）",
+            "ParagraphNum": "１",
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この政令は、平成二十六年四月一日から施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成二六年五月二九日政令第一九五号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Article": [
+            {
+              "@Delete": "false",
+              "@Hide": "false",
+              "@Num": "1",
+              "ArticleCaption": "（施行期日）",
+              "ArticleTitle": "第一条",
+              "Paragraph": {
+                "@Hide": "false",
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "この政令は、法の施行の日（平成二十六年五月三十日）から施行する。"
+                  }
+                }
+              }
+            },
+            {
+              "@Delete": "false",
+              "@Hide": "false",
+              "@Num": "4",
+              "ArticleCaption": "（処分等の効力）",
+              "ArticleTitle": "第四条",
+              "Paragraph": {
+                "@Hide": "false",
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "この政令の施行前にこの政令による改正前のそれぞれの政令（次条において「旧政令」という。）の規定によってした処分、手続その他の行為であって、この政令による改正後のそれぞれの政令（以下この条及び次条において「新政令」という。）の規定に相当の規定があるものは、別段の定めがあるものを除き、新政令の相当の規定によってしたものとみなす。"
+                  }
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@AmendLawNum": "平成二六年七月四日政令第二四九号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphCaption": "（施行期日）",
+            "ParagraphNum": "１",
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この政令は、公布の日から施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成二六年一〇月一日政令第三一九号",
+          "@Extract": "false",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この政令は、平成二十六年十月十四日から施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成二六年一〇月一七日政令第三三七号",
+          "@Extract": "false",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この政令は、平成二十六年十二月十日から施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成二六年一二月一二日政令第三八六号",
+          "@Extract": "false",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この政令は、公布の日から施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成二六年一二月一九日政令第四〇一号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Article": {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "1",
+            "ArticleCaption": "（施行期日）",
+            "ArticleTitle": "第一条",
+            "Paragraph": {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "この政令は、サイバーセキュリティ基本法附則第一条ただし書に規定する規定の施行の日（平成二十七年一月九日）から施行する。"
+                }
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成二七年一月一五日政令第三号",
+          "@Extract": "false",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この政令は、公布の日から施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成二七年四月一〇日政令第一七六号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphCaption": "（施行期日等）",
+            "ParagraphNum": "１",
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この政令は、公布の日から施行し、改正後の行政機関職員定員令（以下「新令」という。）第一条並びに次項及び附則第三項の規定は、平成二十七年四月一日から適用する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成二七年六月二四日政令第二五六号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphCaption": "（施行期日）",
+            "ParagraphNum": "１",
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この政令は、法の施行の日（平成二十七年六月二十五日）から施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成二七年七月三日政令第二六六号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphCaption": "（施行期日）",
+            "ParagraphNum": "１",
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この政令は、公布の日から施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成二七年八月二八日政令第三〇八号",
+          "@Extract": "false",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この政令は、電気事業法等の一部を改正する等の法律（平成二十七年法律第四十七号）附則第一条第二号に掲げる規定の施行の日（平成二十七年九月一日）から施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成二七年九月一八日政令第三二八号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphCaption": "（施行期日）",
+            "ParagraphNum": "１",
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この政令は、平成二十七年十月一日から施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成二七年九月一八日政令第三三四号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphCaption": "（施行期日）",
+            "ParagraphNum": "１",
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この政令は、防衛省設置法等の一部を改正する法律の施行の日（平成二十七年十月一日）から施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成二七年一二月八日政令第四〇七号",
+          "@Extract": "false",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この政令は、公布の日から施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成二七年一二月一八日政令第四二七号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphCaption": "（施行期日）",
+            "ParagraphNum": "１",
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この政令は、平成二十八年一月一日から施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成二七年一二月一八日政令第四二八号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphCaption": "（施行期日）",
+            "ParagraphNum": "１",
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この政令は、公布の日から施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成二八年三月三一日政令第一〇四号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphCaption": "（施行期日）",
+            "ParagraphNum": "１",
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この政令は、平成二十八年四月一日から施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成二八年九月七日政令第二九一号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphCaption": "（施行期日）",
+            "ParagraphNum": "１",
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この政令は、公布の日から施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成二八年九月七日政令第二九二号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphCaption": "（施行期日）",
+            "ParagraphNum": "１",
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この政令は、公布の日から施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成二八年一二月二八日政令第四〇四号",
+          "@Extract": "false",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この政令は、公布の日から施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成二九年三月三一日政令第六六号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphCaption": "（施行期日）",
+            "ParagraphNum": "１",
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この政令は、平成二十九年四月一日から施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成二九年九月一日政令第二二九号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphCaption": "（施行期日）",
+            "ParagraphNum": "１",
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この政令は、公布の日から施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成三〇年三月三〇日政令第七五号",
+          "@Extract": "true",
+          "@Type": "Amend",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphCaption": "（施行期日）",
+            "ParagraphNum": "１",
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この政令は、平成三十年四月一日から施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成三〇年八月三一日政令第二四六号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphCaption": "（施行期日）",
+            "ParagraphNum": "１",
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この政令は、平成三十年九月三日から施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成三〇年一二月二七日政令第三四九号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この政令は、平成三十一年一月一日から施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成三一年三月二九日政令第七四号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": [
+            {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphCaption": "（施行期日）",
+              "ParagraphNum": "１",
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "この政令は、平成三十一年四月一日から施行する。"
+                }
+              }
+            },
+            {
+              "@Hide": "false",
+              "@Num": "2",
+              "ParagraphCaption": "（定員の期間別の特例）",
+              "ParagraphNum": "２",
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "改正後の行政機関職員定員令（次項において「新令」という。）第一条第一項の規定にかかわらず、次の表の区分の欄に掲げる機関の同項に規定する定員は、同表の期間の欄に掲げる期間においては、それぞれ同表の定員の欄及び備考の欄に掲げるとおりとする。"
+                }
+              },
+              "TableStruct": {
+                "Table": {
+                  "TableRow": [
+                    {
+                      "TableColumn": [
+                        {
+                          "@Align": "center",
+                          "@Valign": "top",
+                          "Sentence": "区分"
+                        },
+                        {
+                          "@Align": "center",
+                          "@Valign": "top",
+                          "Sentence": "期間"
+                        },
+                        {
+                          "@Align": "center",
+                          "@Valign": "top",
+                          "Sentence": "定員"
+                        },
+                        {
+                          "@Align": "center",
+                          "@Valign": "top",
+                          "Sentence": "備考"
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "@Valign": "top",
+                          "Sentence": "内閣の機関"
+                        },
+                        {
+                          "@Valign": "top",
+                          "Sentence": "平成三十一年六月三十日までの間"
+                        },
+                        {
+                          "@Align": "right",
+                          "@Valign": "top",
+                          "Sentence": "一、二四三人"
+                        },
+                        {
+                          "@Valign": "top",
+                          "Sentence": "うち、一六人は、特別職の職員の定員とする。"
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "@Valign": "top",
+                          "@rowspan": "3",
+                          "Sentence": "内閣府"
+                        },
+                        {
+                          "@Valign": "top",
+                          "Sentence": "平成三十一年四月三十日までの間"
+                        },
+                        {
+                          "@Align": "right",
+                          "@Valign": "top",
+                          "Sentence": "一四、三七八人"
+                        },
+                        {
+                          "@Valign": "top",
+                          "Sentence": "うち、五一人は、特別職の職員の定員とする。"
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "@Valign": "top",
+                          "Sentence": "平成三十一年五月一日から同年六月三十日までの間"
+                        },
+                        {
+                          "@Align": "right",
+                          "@Valign": "top",
+                          "Sentence": "一四、三九九人"
+                        },
+                        {
+                          "@Valign": "top",
+                          "Sentence": "うち、六三人は、特別職の職員の定員とする。"
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "@Valign": "top",
+                          "Sentence": "平成三十一年七月一日から同年九月三十日までの間"
+                        },
+                        {
+                          "@Align": "right",
+                          "@Valign": "top",
+                          "Sentence": "一四、四〇〇人"
+                        },
+                        {
+                          "@Valign": "top",
+                          "Sentence": "うち、六三人は、特別職の職員の定員とする。"
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "@Valign": "top",
+                          "Sentence": "総務省"
+                        },
+                        {
+                          "@Valign": "top",
+                          "Sentence": "平成三十一年九月三十日までの間"
+                        },
+                        {
+                          "@Align": "right",
+                          "@Valign": "top",
+                          "Sentence": "四、八三四人"
+                        },
+                        {
+                          "@Valign": "top",
+                          "Sentence": "うち、一人は、特別職の職員の定員とする。"
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "@Valign": "top",
+                          "@rowspan": "2",
+                          "Sentence": "法務省"
+                        },
+                        {
+                          "@Valign": "top",
+                          "Sentence": "平成三十一年九月三十日までの間"
+                        },
+                        {
+                          "@Align": "right",
+                          "@Valign": "top",
+                          "Sentence": "五四、一七八人"
+                        },
+                        {
+                          "@Valign": "top",
+                          "Sentence": [
+                            "一　うち、一人は、特別職の職員の定員とする。",
+                            "二　うち、一一、八七三人は、検察庁の職員の定員とする。"
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "@Valign": "top",
+                          "Sentence": "平成三十一年十月一日から同年十二月三十一日までの間"
+                        },
+                        {
+                          "@Align": "right",
+                          "@Valign": "top",
+                          "Sentence": "五四、一六四人"
+                        },
+                        {
+                          "@Valign": "top",
+                          "Sentence": [
+                            "一　うち、一人は、特別職の職員の定員とする。",
+                            "二　うち、一一、八七三人は、検察庁の職員の定員とする。"
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "@Valign": "top",
+                          "Sentence": "財務省"
+                        },
+                        {
+                          "@Valign": "top",
+                          "Sentence": "平成三十一年九月三十日までの間"
+                        },
+                        {
+                          "@Align": "right",
+                          "@Valign": "top",
+                          "Sentence": "七二、二三八人"
+                        },
+                        {
+                          "@Valign": "top",
+                          "Sentence": "うち、一人は、特別職の職員の定員とする。"
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "@Valign": "top",
+                          "Sentence": "文部科学省"
+                        },
+                        {
+                          "@Valign": "top",
+                          "Sentence": "平成三十一年九月三十日までの間"
+                        },
+                        {
+                          "@Align": "right",
+                          "@Valign": "top",
+                          "Sentence": "二、一六六人"
+                        },
+                        {
+                          "@Valign": "top",
+                          "Sentence": "うち、一人は、特別職の職員の定員とする。"
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "@Valign": "top",
+                          "Sentence": "厚生労働省"
+                        },
+                        {
+                          "@Valign": "top",
+                          "Sentence": "平成三十一年六月三十日までの間"
+                        },
+                        {
+                          "@Align": "right",
+                          "@Valign": "top",
+                          "Sentence": "三一、八二一人"
+                        },
+                        {
+                          "@Valign": "top",
+                          "Sentence": "うち、一人は、特別職の職員の定員とする。"
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "@Valign": "top",
+                          "Sentence": "経済産業省"
+                        },
+                        {
+                          "@Valign": "top",
+                          "Sentence": "平成三十一年九月三十日までの間"
+                        },
+                        {
+                          "@Align": "right",
+                          "@Valign": "top",
+                          "Sentence": "八、〇一〇人"
+                        },
+                        {
+                          "@Valign": "top",
+                          "Sentence": "うち、一人は、特別職の職員の定員とする。"
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "@Valign": "top",
+                          "Sentence": "国土交通省"
+                        },
+                        {
+                          "@Valign": "top",
+                          "Sentence": "平成三十一年九月三十日までの間"
+                        },
+                        {
+                          "@Align": "right",
+                          "@Valign": "top",
+                          "Sentence": "五八、五四七人"
+                        },
+                        {
+                          "@Valign": "top",
+                          "Sentence": "うち、一人は、特別職の職員の定員とする。"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "@Hide": "false",
+              "@Num": "3",
+              "ParagraphNum": "３",
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "新令第一条第二項の規定にかかわらず、次の表の区分の欄に掲げる機関の同項に規定する定員は、同表の期間の欄に掲げる期間においては、それぞれ同表の定員の欄及び備考の欄に掲げるとおりとする。"
+                }
+              },
+              "TableStruct": {
+                "Table": {
+                  "@WritingMode": "vertical",
+                  "TableRow": [
+                    {
+                      "TableColumn": [
+                        {
+                          "@Align": "center",
+                          "@BorderBottom": "solid",
+                          "@BorderLeft": "solid",
+                          "@BorderRight": "solid",
+                          "@BorderTop": "solid",
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "区分"
+                          }
+                        },
+                        {
+                          "@Align": "center",
+                          "@BorderBottom": "solid",
+                          "@BorderLeft": "solid",
+                          "@BorderRight": "solid",
+                          "@BorderTop": "solid",
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "期間"
+                          }
+                        },
+                        {
+                          "@Align": "center",
+                          "@BorderBottom": "solid",
+                          "@BorderLeft": "solid",
+                          "@BorderRight": "solid",
+                          "@BorderTop": "solid",
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "定員"
+                          }
+                        },
+                        {
+                          "@Align": "center",
+                          "@BorderBottom": "solid",
+                          "@BorderLeft": "solid",
+                          "@BorderRight": "solid",
+                          "@BorderTop": "solid",
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "備考"
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "@BorderBottom": "solid",
+                          "@BorderLeft": "solid",
+                          "@BorderRight": "solid",
+                          "@BorderTop": "solid",
+                          "@Valign": "top",
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "宮内庁"
+                          }
+                        },
+                        {
+                          "@BorderBottom": "solid",
+                          "@BorderLeft": "solid",
+                          "@BorderRight": "solid",
+                          "@BorderTop": "solid",
+                          "@Valign": "top",
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "平成三十一年四月三十日までの間"
+                          }
+                        },
+                        {
+                          "@Align": "right",
+                          "@BorderBottom": "solid",
+                          "@BorderLeft": "solid",
+                          "@BorderRight": "solid",
+                          "@BorderTop": "solid",
+                          "@Valign": "top",
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "一、〇四〇人"
+                          }
+                        },
+                        {
+                          "@BorderBottom": "solid",
+                          "@BorderLeft": "solid",
+                          "@BorderRight": "solid",
+                          "@BorderTop": "solid",
+                          "@Valign": "top",
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "うち、五一人は、特別職の職員の定員とする。"
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "@BorderBottom": "solid",
+                          "@BorderLeft": "solid",
+                          "@BorderRight": "solid",
+                          "@BorderTop": "solid",
+                          "@Valign": "top",
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "公正取引委員会"
+                          }
+                        },
+                        {
+                          "@BorderBottom": "solid",
+                          "@BorderLeft": "solid",
+                          "@BorderRight": "solid",
+                          "@BorderTop": "solid",
+                          "@Valign": "top",
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "平成三十一年六月三十日までの間"
+                          }
+                        },
+                        {
+                          "@Align": "right",
+                          "@BorderBottom": "solid",
+                          "@BorderLeft": "solid",
+                          "@BorderRight": "solid",
+                          "@BorderTop": "solid",
+                          "@Valign": "top",
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "八四一人"
+                          }
+                        },
+                        {
+                          "@BorderBottom": "solid",
+                          "@BorderLeft": "solid",
+                          "@BorderRight": "solid",
+                          "@BorderTop": "solid",
+                          "@Valign": "top",
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "事務総局の職員の定員とする。"
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "@BorderBottom": "solid",
+                          "@BorderLeft": "solid",
+                          "@BorderRight": "solid",
+                          "@BorderTop": "solid",
+                          "@Valign": "top",
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "消費者庁"
+                          }
+                        },
+                        {
+                          "@BorderBottom": "solid",
+                          "@BorderLeft": "solid",
+                          "@BorderRight": "solid",
+                          "@BorderTop": "solid",
+                          "@Valign": "top",
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "平成三十一年六月三十日までの間"
+                          }
+                        },
+                        {
+                          "@Align": "right",
+                          "@BorderBottom": "solid",
+                          "@BorderLeft": "solid",
+                          "@BorderRight": "solid",
+                          "@BorderTop": "solid",
+                          "@Valign": "top",
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "三六一人"
+                          }
+                        },
+                        {
+                          "@BorderBottom": "solid",
+                          "@BorderLeft": "solid",
+                          "@BorderRight": "solid",
+                          "@BorderTop": "solid",
+                          "@Valign": "top",
+                          "Sentence": {
+                            "@WritingMode": "vertical"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

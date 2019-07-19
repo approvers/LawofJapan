@@ -1,0 +1,543 @@
+{
+  "Law": {
+    "@DataInfo": "190316e81k80m01",
+    "@Era": "Showa",
+    "@Lang": "ja",
+    "@LawType": "MinisterialOrdinance",
+    "@Num": "67",
+    "@Year": "30",
+    "LawNum": "昭和三十年総理府令第六十七号",
+    "LawBody": {
+      "LawTitle": "内閣府の所管に属する補助金等の事務委任の範囲及びその委任を受ける者を定める内閣府令",
+      "EnactStatement": "補助金等に係る予算の執行の適正化に関する法律施行令第十六条の規定に基き、総理府の所管に属する補助金等の事務委任の範囲及びその委任を受ける者を定める総理府令を次のとおり定める。",
+      "MainProvision": {
+        "Paragraph": {
+          "@Num": "1",
+          "ParagraphNum": null,
+          "ParagraphSentence": {
+            "Sentence": "補助金等に係る予算の執行の適正化に関する法律施行令（昭和三十年政令第二百五十五号。以下「令」という。）第十六条の規定に基き、内閣府の所管に属する補助金等の事務を委任する範囲及びその委任を受ける者は、次の各号に定めるところによるものとする。ただし、内閣府沖縄総合事務局長に委任する事務の範囲については、第一号の規定にかかわらず、第一号に掲げる事務のうち内閣総理大臣が定めるものとする。"
+          },
+          "Item": [
+            {
+              "@Num": "1",
+              "ItemTitle": "一",
+              "ItemSentence": {
+                "Sentence": "事務委任の範囲"
+              },
+              "Subitem1": [
+                {
+                  "@Num": "1",
+                  "Subitem1Title": "１",
+                  "Subitem1Sentence": {
+                    "Sentence": "補助金等の交付の申請の受理に関すること。"
+                  }
+                },
+                {
+                  "@Num": "2",
+                  "Subitem1Title": "２",
+                  "Subitem1Sentence": {
+                    "Sentence": "補助金等の交付の決定及びその取消に関すること。"
+                  }
+                },
+                {
+                  "@Num": "3",
+                  "Subitem1Title": "３",
+                  "Subitem1Sentence": {
+                    "Sentence": "補助事業等の実績報告の受理に関すること。"
+                  }
+                },
+                {
+                  "@Num": "4",
+                  "Subitem1Title": "４",
+                  "Subitem1Sentence": {
+                    "Sentence": "補助金等の額の確定に関すること。"
+                  }
+                },
+                {
+                  "@Num": "5",
+                  "Subitem1Title": "５",
+                  "Subitem1Sentence": {
+                    "Sentence": [
+                      {
+                        "@Function": "main",
+                        "@Num": "1",
+                        "#text": "補助金等の返還に関する処分に関すること。"
+                      },
+                      {
+                        "@Function": "proviso",
+                        "@Num": "2",
+                        "#text": "ただし、令第九条第三項及び第十二条の規定により財務大臣に協議する場合を除く。"
+                      }
+                    ]
+                  }
+                },
+                {
+                  "@Num": "6",
+                  "Subitem1Title": "６",
+                  "Subitem1Sentence": {
+                    "Sentence": [
+                      {
+                        "@Function": "main",
+                        "@Num": "1",
+                        "#text": "補助事業等の監督に関すること。"
+                      },
+                      {
+                        "@Function": "proviso",
+                        "@Num": "2",
+                        "#text": "ただし、令第十四条第二項の規定による財務大臣への協議及び内閣総理大臣が特に必要と認める場合における補助金等に係る予算の執行の適正化に関する法律（昭和三十年法律第百七十九号。以下「法」という。）第二十三条の規定による立入検査等を除く。"
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            {
+              "@Num": "2",
+              "ItemTitle": "二",
+              "ItemSentence": {
+                "Sentence": "委任を受ける者"
+              },
+              "Subitem1": [
+                {
+                  "@Num": "1",
+                  "Subitem1Title": "１",
+                  "Subitem1Sentence": {
+                    "Column": [
+                      {
+                        "@Num": "1",
+                        "Sentence": "内閣府本府の所掌に属する国家公務員共済組合負担金の事務"
+                      },
+                      {
+                        "@Num": "2",
+                        "Sentence": "内閣府大臣官房会計課長"
+                      }
+                    ]
+                  }
+                },
+                {
+                  "@Num": "2",
+                  "Subitem1Title": "２",
+                  "Subitem1Sentence": {
+                    "Column": [
+                      {
+                        "@Num": "1",
+                        "Sentence": "内閣府本府の所掌に属する補助金等のうち内閣総理大臣の指定する補助金等の事務"
+                      },
+                      {
+                        "@Num": "2",
+                        "Sentence": "内閣府沖縄総合事務局長"
+                      }
+                    ]
+                  }
+                },
+                {
+                  "@Num": "3",
+                  "Subitem1Title": "３",
+                  "Subitem1Sentence": {
+                    "Column": [
+                      {
+                        "@Num": "1",
+                        "Sentence": "宮内庁の所掌に属する補助金等の事務"
+                      },
+                      {
+                        "@Num": "2",
+                        "Sentence": "宮内庁長官"
+                      }
+                    ]
+                  }
+                },
+                {
+                  "@Num": "4",
+                  "Subitem1Title": "４",
+                  "Subitem1Sentence": {
+                    "Column": [
+                      {
+                        "@Num": "1",
+                        "Sentence": "公正取引委員会の所掌に属する補助金等の事務"
+                      },
+                      {
+                        "@Num": "2",
+                        "Sentence": "公正取引委員会事務総長"
+                      }
+                    ]
+                  }
+                },
+                {
+                  "@Num": "5",
+                  "Subitem1Title": "５",
+                  "Subitem1Sentence": {
+                    "Column": [
+                      {
+                        "@Num": "1",
+                        "Sentence": "警察庁の所掌に属する補助金等の事務"
+                      },
+                      {
+                        "@Num": "2",
+                        "Sentence": "警察庁長官"
+                      }
+                    ]
+                  }
+                },
+                {
+                  "@Num": "6",
+                  "Subitem1Title": "６",
+                  "Subitem1Sentence": {
+                    "Column": [
+                      {
+                        "@Num": "1",
+                        "Sentence": "個人情報保護委員会の所掌に属する補助金等の事務"
+                      },
+                      {
+                        "@Num": "2",
+                        "Sentence": "個人情報保護委員会事務局長"
+                      }
+                    ]
+                  }
+                },
+                {
+                  "@Num": "7",
+                  "Subitem1Title": "７",
+                  "Subitem1Sentence": {
+                    "Column": [
+                      {
+                        "@Num": "1",
+                        "Sentence": "金融庁の所掌に属する補助金等の事務"
+                      },
+                      {
+                        "@Num": "2",
+                        "Sentence": "金融庁長官"
+                      }
+                    ]
+                  }
+                },
+                {
+                  "@Num": "8",
+                  "Subitem1Title": "８",
+                  "Subitem1Sentence": {
+                    "Column": [
+                      {
+                        "@Num": "1",
+                        "Sentence": "消費者庁の所掌に属する補助金等の事務"
+                      },
+                      {
+                        "@Num": "2",
+                        "Sentence": "消費者庁長官"
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "SupplProvision": [
+        {
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": {
+                "@Num": "1",
+                "@WritingMode": "vertical",
+                "#text": "この府令は、公布の日から施行し、昭和三十年十二月一日から適用する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "昭和三一年三月三一日総理府令第二二号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": {
+                "@Num": "1",
+                "@WritingMode": "vertical",
+                "#text": "この府令は、公布の日から施行し、昭和三十一年二月一日から適用する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "昭和三五年七月一四日総理府令第四五号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": {
+                "@Num": "1",
+                "@WritingMode": "vertical",
+                "#text": "この府令は、公布の日から施行し、昭和三十五年七月一日から適用する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "昭和三七年一〇月二〇日総理府令第六〇号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": {
+                "@Num": "1",
+                "@WritingMode": "vertical",
+                "#text": "この府令は、昭和三十七年十一月一日から施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "昭和三九年三月三一日総理府令第一三号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": {
+                "@Num": "1",
+                "@WritingMode": "vertical",
+                "#text": "この府令は、昭和三十九年四月一日から施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "昭和四六年七月一〇日総理府令第四五号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": {
+                "@Num": "1",
+                "@WritingMode": "vertical",
+                "#text": "この府令は、公布の日から施行し、昭和四十六年度に交付する補助金等から適用する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "昭和四七年五月一三日総理府令第三二号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": {
+                "@Num": "1",
+                "@WritingMode": "vertical",
+                "#text": "この府令は、沖縄開発庁設置法の施行の日（昭和四十七年五月十五日）から施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "昭和四九年六月二六日総理府令第四〇号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": {
+                "@Num": "1",
+                "@WritingMode": "vertical",
+                "#text": "この府令は、公布の日から施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "昭和五九年六月二九日総理府令第三五号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": {
+                "@Num": "1",
+                "@WritingMode": "vertical",
+                "#text": "この府令は、昭和五十九年七月一日から施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "昭和六〇年一〇月一九日総理府令第三九号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Article": {
+            "@Num": "1",
+            "ArticleCaption": "（施行期日）",
+            "ArticleTitle": "第一条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@Num": "1",
+                  "@WritingMode": "vertical",
+                  "#text": "この府令は、昭和六十年十一月一日から施行する。"
+                }
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成一一年一月二二日総理府令第三号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": {
+                "@Num": "1",
+                "@WritingMode": "vertical",
+                "#text": "この府令は、公布の日から施行し、改正後の内閣及び総理府の所管に属する補助金等の事務委任の範囲及びその委任を受ける者を定める総理府令の規定は、平成十年十二月十五日から適用する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成一二年六月三〇日総理府令第七一号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": {
+                "@Num": "1",
+                "@WritingMode": "vertical",
+                "#text": "この府令は、平成十二年七月一日から施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成一二年八月一四日総理府令第八八号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": {
+                "@Num": "1",
+                "@WritingMode": "vertical",
+                "#text": "この府令は、内閣法の一部を改正する法律（平成十一年法律第八十八号）の施行の日（平成十三年一月六日）から施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成一五年四月九日内閣府令第四二号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": {
+                "@Num": "1",
+                "@WritingMode": "vertical",
+                "#text": "この府令は、公布の日から施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成一九年一月四日内閣府令第一号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": {
+                "@Num": "1",
+                "@WritingMode": "vertical",
+                "#text": "この府令は、防衛庁設置法等の一部を改正する法律（平成十八年法律第百十八号）の施行の日（平成十九年一月九日）から施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成二一年八月二八日内閣府令第四四号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": {
+                "@Num": "1",
+                "@WritingMode": "vertical",
+                "#text": "この府令は、消費者庁及び消費者委員会設置法の施行の日（平成二十一年九月一日）より施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成二六年一月六日内閣府令第二号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": {
+                "@Num": "1",
+                "@WritingMode": "vertical",
+                "#text": "この府令は公布の日から施行し、平成二十六年一月一日から適用する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成二七年一二月二八日内閣府令第七八号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": {
+                "@Num": "1",
+                "@WritingMode": "vertical",
+                "#text": "この府令は、個人情報の保護に関する法律及び行政手続における特定の個人を識別するための番号の利用等に関する法律の一部を改正する法律附則第一条第二号に掲げる規定の施行の日（平成二十八年一月一日）から施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成二九年三月三一日内閣府令第一四号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": {
+                "@Num": "1",
+                "@WritingMode": "vertical",
+                "#text": "この府令は、平成二十九年四月一日から施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成三〇年三月三〇日内閣府令第一〇号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": {
+                "@Num": "1",
+                "@WritingMode": "vertical",
+                "#text": "この府令は、平成三十年四月一日から施行する。"
+              }
+            }
+          }
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "Law": {
+    "@Era": "Heisei",
+    "@Lang": "ja",
+    "@LawType": "MinisterialOrdinance",
+    "@Num": "117",
+    "@Year": "29",
+    "LawNum": "平成二十九年厚生労働省令第百十七号",
+    "LawBody": {
+      "LawTitle": "厚生労働省関係住宅宿泊事業法施行規則",
+      "EnactStatement": "住宅宿泊事業法（平成二十九年法律第六十五号）第五条の規定に基づき、厚生労働省関係住宅宿泊事業法施行規則を次のように定める。",
+      "MainProvision": {
+        "Paragraph": {
+          "@Hide": "false",
+          "@Num": "1",
+          "ParagraphNum": null,
+          "ParagraphSentence": {
+            "Sentence": {
+              "@WritingMode": "vertical",
+              "#text": "住宅宿泊事業法（平成二十九年法律第六十五号）第五条に規定する厚生労働省令で定める措置は、次のとおりとする。"
+            }
+          },
+          "Item": [
+            {
+              "@Delete": "false",
+              "@Hide": "false",
+              "@Num": "1",
+              "ItemTitle": "一",
+              "ItemSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "居室の床面積は、宿泊者一人当たり三・三平方メートル以上を確保すること。"
+                }
+              }
+            },
+            {
+              "@Delete": "false",
+              "@Hide": "false",
+              "@Num": "2",
+              "ItemTitle": "二",
+              "ItemSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "定期的な清掃及び換気を行うこと。"
+                }
+              }
+            }
+          ]
+        }
+      },
+      "SupplProvision": {
+        "SupplProvisionLabel": "附　則",
+        "Paragraph": {
+          "@Hide": "false",
+          "@Num": "1",
+          "ParagraphNum": null,
+          "ParagraphSentence": {
+            "Sentence": {
+              "@WritingMode": "vertical",
+              "#text": "この省令は、平成三十年六月十五日から施行する。"
+            }
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,901 @@
+{
+  "Law": {
+    "@Era": "Showa",
+    "@Lang": "ja",
+    "@LawType": "MinisterialOrdinance",
+    "@Num": "1",
+    "@Year": "49",
+    "LawNum": "昭和四十九年大蔵省・厚生省・農林省・通商産業省・運輸省令第一号",
+    "LawBody": {
+      "LawTitle": "工場立地法施行規則",
+      "EnactStatement": "工場立地法（昭和三十四年法律第二十四号）第四条第一項、第六条第一項及び第二項（第七条第二項及び第八条第二項において準用する場合を含む。）、第七条第一項、第八条第一項並びに工場立地の調査等に関する法律の一部を改正する法律（昭和四十八年法律第百八号）附則第三条第一項の規定に基づき、並びに工場立地法を実施するため、工場立地法施行規則を次のように定める。",
+      "MainProvision": {
+        "Article": [
+          {
+            "@Num": "1",
+            "ArticleCaption": "（用語）",
+            "ArticleTitle": "第一条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "この省令において使用する用語は、工場立地法（昭和三十四年法律第二十四号。以下「法」という。）において使用する用語の例による。"
+              }
+            }
+          },
+          {
+            "@Num": "2",
+            "ArticleCaption": "（生産施設）",
+            "ArticleTitle": "第二条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "法第四条第一項第一号の生産施設は、次の各号に掲げる施設（地下に設置されるものを除く。）とする。"
+              },
+              "Item": [
+                {
+                  "@Num": "1",
+                  "ItemTitle": "一",
+                  "ItemSentence": {
+                    "Sentence": "製造業における物品の製造工程（加工修理工程を含む。）、電気供給業における発電工程、ガス供給業におけるガス製造工程又は熱供給業における熱発生工程を形成する機械又は装置（次号において「製造工程等形成施設」という。）が設置される建築物"
+                  }
+                },
+                {
+                  "@Num": "2",
+                  "ItemTitle": "二",
+                  "ItemSentence": {
+                    "Sentence": "製造工程等形成施設で前号の建築物の外に設置されるもの（製造工程等形成施設の主要な部分に係る附帯施設であつて周辺の地域の生活環境の保持に支障を及ぼすおそれがないことが特に認められるものを除く。）"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "@Num": "3",
+            "ArticleCaption": "（緑地）",
+            "ArticleTitle": "第三条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "法第四条第一項第一号の緑地は、次の各号に掲げる土地又は施設（建築物その他の施設（以下「建築物等施設」という。）に設けられるものであつて、当該建築物等施設の屋上その他の屋外に設けられるものに限る。以下「建築物屋上等緑化施設」という。）とする。"
+              },
+              "Item": [
+                {
+                  "@Num": "1",
+                  "ItemTitle": "一",
+                  "ItemSentence": {
+                    "Sentence": "樹木が生育する区画された土地又は建築物屋上等緑化施設であつて、工場又は事業場の周辺の地域の生活環境の保持に寄与するもの"
+                  }
+                },
+                {
+                  "@Num": "2",
+                  "ItemTitle": "二",
+                  "ItemSentence": {
+                    "Sentence": "低木又は芝その他の地被植物（除草等の手入れがなされているものに限る。）で表面が被われている土地又は建築物屋上等緑化施設"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "@Num": "4",
+            "ArticleCaption": "（緑地以外の環境施設）",
+            "ArticleTitle": "第四条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "法第四条第一項第一号の緑地以外の主務省令で定める環境施設は、次の各号に掲げる土地又は施設であつて工場又は事業場の周辺の地域の生活環境の保持に寄与するように管理がなされるものとする。"
+              },
+              "Item": [
+                {
+                  "@Num": "1",
+                  "ItemTitle": "一",
+                  "ItemSentence": {
+                    "Sentence": "次に掲げる施設の用に供する区画された土地（緑地と重複する部分を除く。）"
+                  },
+                  "Subitem1": [
+                    {
+                      "@Num": "1",
+                      "Subitem1Title": "イ",
+                      "Subitem1Sentence": {
+                        "Sentence": "噴水、水流、池その他の修景施設"
+                      }
+                    },
+                    {
+                      "@Num": "2",
+                      "Subitem1Title": "ロ",
+                      "Subitem1Sentence": {
+                        "Sentence": "屋外運動場"
+                      }
+                    },
+                    {
+                      "@Num": "3",
+                      "Subitem1Title": "ハ",
+                      "Subitem1Sentence": {
+                        "Sentence": "広場"
+                      }
+                    },
+                    {
+                      "@Num": "4",
+                      "Subitem1Title": "ニ",
+                      "Subitem1Sentence": {
+                        "Sentence": "屋内運動施設"
+                      }
+                    },
+                    {
+                      "@Num": "5",
+                      "Subitem1Title": "ホ",
+                      "Subitem1Sentence": {
+                        "Sentence": "教養文化施設"
+                      }
+                    },
+                    {
+                      "@Num": "6",
+                      "Subitem1Title": "ヘ",
+                      "Subitem1Sentence": {
+                        "Sentence": "雨水浸透施設"
+                      }
+                    },
+                    {
+                      "@Num": "7",
+                      "Subitem1Title": "ト",
+                      "Subitem1Sentence": {
+                        "Sentence": "太陽光発電施設"
+                      }
+                    },
+                    {
+                      "@Num": "8",
+                      "Subitem1Title": "チ",
+                      "Subitem1Sentence": {
+                        "Sentence": "イからトまでに掲げる施設のほか、工場又は事業場の周辺の地域の生活環境の保持に寄与することが特に認められるもの"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "@Num": "2",
+                  "ItemTitle": "二",
+                  "ItemSentence": {
+                    "Sentence": "太陽光発電施設のうち建築物等施設の屋上その他の屋外に設置されるもの（緑地又は前号に規定する土地と重複するものを除く。）"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "@Num": "5",
+            "ArticleTitle": "第五条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "削除"
+              }
+            }
+          },
+          {
+            "@Num": "6",
+            "ArticleCaption": "（特定工場の新設等の届出）",
+            "ArticleTitle": "第六条",
+            "Paragraph": [
+              {
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": "法第六条第一項、第七条第一項若しくは第八条第一項又は工場立地の調査等に関する法律の一部を改正する法律（昭和四十八年法律第百八号）附則第三条第一項の規定による届出（以下「新設等の届出」という。）をしようとする者は、当該特定工場の設置の場所を管轄する市町村長（特別区の区長を含む。）に、様式第一（特定工場の設置の場所が指定地区に属するときは、様式第二）による届出書を一部提出しなければならない。"
+                }
+              },
+              {
+                "@Num": "2",
+                "ParagraphNum": "２",
+                "ParagraphSentence": {
+                  "Sentence": "法第六条第二項（法第七条第二項及び第八条第二項において準用する場合を含む。）の主務省令で定める書類は、次の各号（当該特定工場の設置の場所が指定地区に属しない場合にあつては、第一号から第五号まで及び第八号）に掲げるものとする。"
+                },
+                "Item": [
+                  {
+                    "@Num": "1",
+                    "ItemTitle": "一",
+                    "ItemSentence": {
+                      "Sentence": "次に掲げる事項を記載した当該特定工場の事業概要説明書"
+                    },
+                    "Subitem1": [
+                      {
+                        "@Num": "1",
+                        "Subitem1Title": "イ",
+                        "Subitem1Sentence": {
+                          "Sentence": "生産の開始の時期並びに生産数量及び生産能力"
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "Subitem1Title": "ロ",
+                        "Subitem1Sentence": {
+                          "Sentence": "工業用水及び電力の使用量"
+                        }
+                      },
+                      {
+                        "@Num": "3",
+                        "Subitem1Title": "ハ",
+                        "Subitem1Sentence": {
+                          "Sentence": "従業員数"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Num": "2",
+                    "ItemTitle": "二",
+                    "ItemSentence": {
+                      "Sentence": "生産施設、緑地、環境施設その他の主要施設の配置図"
+                    }
+                  },
+                  {
+                    "@Num": "3",
+                    "ItemTitle": "三",
+                    "ItemSentence": {
+                      "Sentence": "当該特定工場の用に供する土地及びその周辺の土地の利用状況を説明した書類"
+                    }
+                  },
+                  {
+                    "@Num": "4",
+                    "ItemTitle": "四",
+                    "ItemSentence": {
+                      "Sentence": "工業団地内の工場敷地、次条の施設、公共道路その他の主要施設の配置図（工業団地に当該特定工場の新設等が行われる場合であつて法第八条第一項の規定による届出以外の新設等の届出をする場合に限る。）"
+                    }
+                  },
+                  {
+                    "@Num": "5",
+                    "ItemTitle": "五",
+                    "ItemSentence": {
+                      "Sentence": "隣接緑地等における環境施設の配置図（工業集合地に当該特定工場の新設等が行われる場合であつて法第四条第一項第三号ロに掲げる事項に係る同項第一号及び第二号に掲げる事項の特例の適用を受けようとする場合に限る。）"
+                    }
+                  },
+                  {
+                    "@Num": "6",
+                    "ItemTitle": "六",
+                    "ItemSentence": {
+                      "Sentence": "汚染物質の発生経路及び汚染物質の処理工程を示す図面"
+                    }
+                  },
+                  {
+                    "@Num": "7",
+                    "ItemTitle": "七",
+                    "ItemSentence": {
+                      "Sentence": "工場立地に伴う公害の防止に関する調査の対象となつた物質であつて別表第一及び別表第二に掲げる物質以外のもののうち指定地区ごとに経済産業大臣及び環境大臣が定めるものの最大排出予定量に関する事項を説明した書類"
+                    }
+                  },
+                  {
+                    "@Num": "8",
+                    "ItemTitle": "八",
+                    "ItemSentence": {
+                      "Sentence": "当該特定工場の新設等のための工事の日程を説明した書類"
+                    }
+                  }
+                ]
+              },
+              {
+                "@Num": "3",
+                "ParagraphNum": "３",
+                "ParagraphSentence": {
+                  "Sentence": "法第八条第一項の規定による届出をしようとする者は、当該届出に係る特定工場の新設等の届出の際に添付した前項の書類であつて最終のものに示した事項について変更がない場合には、当該書類に相当する書類の添付を省略することができる。"
+                }
+              }
+            ]
+          },
+          {
+            "@Num": "7",
+            "ArticleCaption": "（工業団地共通施設）",
+            "ArticleTitle": "第七条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "法第六条第一項第五号の緑地、環境施設その他の主務省令で定める施設（以下「工業団地共通施設」という。）は、工業団地内の次の各号に掲げる施設（工業団地に設置される工場又は事業場の敷地内にあるものを除く。）とする。"
+              },
+              "Item": [
+                {
+                  "@Num": "1",
+                  "ItemTitle": "一",
+                  "ItemSentence": {
+                    "Sentence": "緑地及び緑地以外の環境施設"
+                  }
+                },
+                {
+                  "@Num": "2",
+                  "ItemTitle": "二",
+                  "ItemSentence": {
+                    "Sentence": "排水施設、工業団地管理事務所、集会所、駐車場その他これらに類する施設の敷地"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "@Num": "8",
+            "ArticleCaption": "（汚染物質）",
+            "ArticleTitle": "第八条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "法第六条第一項第六号に規定する汚染物質のうち、大気に係るものは別表第一に掲げる物質とし、水質に係るものは別表第二に掲げる物質とする。"
+              }
+            }
+          },
+          {
+            "@Num": "9",
+            "ArticleCaption": "（軽微な変更）",
+            "ArticleTitle": "第九条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "法第七条第一項の主務省令で定める軽微な変更は、次のとおりとする。"
+              },
+              "Item": [
+                {
+                  "@Num": "1",
+                  "ItemTitle": "一",
+                  "ItemSentence": {
+                    "Sentence": "法第六条第一項第五号の事項に係る変更を伴わない当該特定工場の建築面積の変更"
+                  }
+                },
+                {
+                  "@Num": "2",
+                  "ItemTitle": "二",
+                  "ItemSentence": {
+                    "Sentence": "特定工場に係る生産施設の修繕によるその面積の変更であつて、当該修繕に伴い増加する面積の合計が三十平方メートル未満のもの"
+                  }
+                },
+                {
+                  "@Num": "3",
+                  "ItemTitle": "三",
+                  "ItemSentence": {
+                    "Sentence": "特定工場に係る生産施設の撤去"
+                  }
+                },
+                {
+                  "@Num": "4",
+                  "ItemTitle": "四",
+                  "ItemSentence": {
+                    "Sentence": "特定工場に係る緑地又は緑地以外の環境施設の増加"
+                  }
+                },
+                {
+                  "@Num": "5",
+                  "ItemTitle": "五",
+                  "ItemSentence": {
+                    "Sentence": "特定工場に係る緑地又は緑地以外の環境施設の移設であつて、当該移設によりそれぞれの面積の減少を伴わないもの（周辺の地域の生活環境の保持に支障を及ぼすおそれがないものに限る。）"
+                  }
+                },
+                {
+                  "@Num": "6",
+                  "ItemTitle": "六",
+                  "ItemSentence": {
+                    "Sentence": "特定工場に係る緑地の削減によるその面積の変更であつて、当該削減によつて減少する面積の合計が十平方メートル以下のもの（保安上その他やむを得ない事由により速やかに行う必要がある場合に限る。）"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "@Num": "10",
+            "ArticleCaption": "（氏名等の変更の届出）",
+            "ArticleTitle": "第十条",
+            "Paragraph": [
+              {
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": "法第十二条の規定による届出は、様式第三による届出書によつてしなければならない。"
+                }
+              },
+              {
+                "@Num": "2",
+                "ParagraphNum": "２",
+                "ParagraphSentence": {
+                  "Sentence": "第六条第一項の規定は、前項の届出の場合に準用する。"
+                }
+              }
+            ]
+          },
+          {
+            "@Num": "11",
+            "ArticleCaption": "（承継の届出）",
+            "ArticleTitle": "第十一条",
+            "Paragraph": [
+              {
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": "法第十三条第三項の規定による届出は、様式第四による届出書によつてしなければならない。"
+                }
+              },
+              {
+                "@Num": "2",
+                "ParagraphNum": "２",
+                "ParagraphSentence": {
+                  "Sentence": "第六条第一項の規定は、前項の届出の場合に準用する。"
+                }
+              }
+            ]
+          },
+          {
+            "@Num": "12",
+            "ArticleCaption": "（条例等に係る適用除外）",
+            "ArticleTitle": "第十二条",
+            "Paragraph": [
+              {
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": "前二条の規定は、市町村（特別区を含む。）の条例、規則その他の定めに別段の定めがあるときは、その限度において適用しない。"
+                }
+              },
+              {
+                "@Num": "1",
+                "ParagraphNum": "１",
+                "ParagraphSentence": {
+                  "Sentence": "この省令は、工場立地の調査等に関する法律の一部を改正する法律の施行の日（昭和四十九年三月三十一日）から施行する。"
+                }
+              },
+              {
+                "@Num": "2",
+                "ParagraphNum": "２",
+                "ParagraphSentence": {
+                  "Sentence": "工場立地の調査等に関する法律施行規則（昭和三十六年大蔵省・厚生省・農林省・通商産業省・運輸省令第一号）は、廃止する。"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      "SupplProvision": [
+        {
+          "@AmendLawNum": "昭和五三年七月五日大蔵省・厚生省・農林省・通商産業省・運輸省令第二号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この省令は、公布の日から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "昭和五六年三月三〇日大蔵省・厚生省・農林水産省・通商産業省・運輸省令第二号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この省令は、地方支分部局の整理のための行政管理庁設置法等の一部を改正する法律の施行の日（昭和五十六年四月一日）から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "昭和五七年三月二三日大蔵省・厚生省・農林水産省・通商産業省・運輸省令第一号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この省令は、昭和五十七年四月一日から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "昭和五九年六月二二日大蔵省・厚生省・農林水産省・通商産業省・運輸省令第二号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この省令は、昭和五十九年七月一日から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "昭和六一年四月二六日大蔵省・厚生省・農林水産省・通商産業省・運輸省令第一号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この省令は、公布の日から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成四年八月三一日大蔵省・厚生省・農林水産省・通商産業省・運輸省令第一号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": [
+            {
+              "@Num": "1",
+              "ParagraphNum": "１",
+              "ParagraphSentence": {
+                "Sentence": "この省令は、工場立地法施行令の一部を改正する政令（平成四年政令第二百六十九号）の施行の日（平成四年九月一日）から施行する。"
+              }
+            },
+            {
+              "@Num": "2",
+              "ParagraphNum": "２",
+              "ParagraphSentence": {
+                "Sentence": "この省令の施行前に改正前の工場立地法施行規則第六条第一項、第十条第二項又は第十一条第二項の規定により別表第二の一の項から七の項の中欄に掲げる者に提出された届出書については、なお従前の例による。"
+              }
+            }
+          ]
+        },
+        {
+          "@AmendLawNum": "平成六年一二月二六日大蔵省・厚生省・農林水産省・通商産業省・運輸省令第二号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": [
+                {
+                  "@Function": "main",
+                  "@Num": "1",
+                  "#text": "この省令は、平成七年一月一日から施行する。"
+                },
+                {
+                  "@Function": "proviso",
+                  "@Num": "2",
+                  "#text": "ただし、様式第一から様式第四までの改正規定の適用に関しては、平成七年三月三十一日までは、なお従前の例によることができる。"
+                }
+              ]
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成一〇年一月一二日大蔵省・厚生省・農林水産省・通商産業省・運輸省令第一号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この省令は、工場立地法の一部を改正する法律の施行の日（平成十年一月三十一日）から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成一二年一月一三日大蔵省・厚生省・農林水産省・通商産業省・運輸省令第一号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この省令は、平成十二年四月一日から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成一二年九月一九日大蔵省・厚生省・農林水産省・通商産業省・運輸省令第五号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この省令は、平成十三年一月六日から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成一六年三月三一日財務省・厚生労働省・農林水産省・経済産業省・国土交通省令第一号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この省令は、公布の日から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成二二年六月三〇日財務省・厚生労働省・農林水産省・経済産業省・国土交通省令第一号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この省令は、公布の日から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成二三年九月三〇日財務省・厚生労働省・農林水産省・経済産業省・国土交通省令第一号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この省令は、公布の日から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成二四年二月一七日財務省・厚生労働省・農林水産省・経済産業省・国土交通省令第一号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この省令は、地域の自主性及び自立性を高めるための改革の推進を図るための関係法律の整備に関する法律附則第一条第二号に掲げる規定の施行の日（平成二十四年四月一日）から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成二四年六月一五日財務省・厚生労働省・農林水産省・経済産業省・国土交通省令第二号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この省令は、公布の日から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成二九年二月二七日財務省、厚生労働省、農林水産省、経済産業省、国土交通省令第一号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この省令は、平成二十九年四月一日から施行する。"
+            }
+          }
+        }
+      ],
+      "AppdxTable": [
+        {
+          "AppdxTableTitle": "別表第一",
+          "RelatedArticleNum": "（第六条、第八条関係）",
+          "Item": [
+            {
+              "@Num": "1",
+              "ItemTitle": "一",
+              "ItemSentence": {
+                "Sentence": "いおう酸化物"
+              }
+            },
+            {
+              "@Num": "2",
+              "ItemTitle": "二",
+              "ItemSentence": {
+                "Sentence": "窒素酸化物"
+              }
+            },
+            {
+              "@Num": "3",
+              "ItemTitle": "三",
+              "ItemSentence": {
+                "Sentence": "ばいじん"
+              }
+            },
+            {
+              "@Num": "4",
+              "ItemTitle": "四",
+              "ItemSentence": {
+                "Sentence": "カドミウム及びその化合物"
+              }
+            },
+            {
+              "@Num": "5",
+              "ItemTitle": "五",
+              "ItemSentence": {
+                "Sentence": "塩素及び塩化水素"
+              }
+            },
+            {
+              "@Num": "6",
+              "ItemTitle": "六",
+              "ItemSentence": {
+                "Sentence": "ふつ素、ふつ化水素及びふつ化けい素"
+              }
+            },
+            {
+              "@Num": "7",
+              "ItemTitle": "七",
+              "ItemSentence": {
+                "Sentence": "鉛及びその化合物"
+              }
+            },
+            {
+              "@Num": "8",
+              "ItemTitle": "八",
+              "ItemSentence": {
+                "Sentence": "粉じん"
+              }
+            }
+          ]
+        },
+        {
+          "AppdxTableTitle": "別表第二",
+          "RelatedArticleNum": "（第六条、第八条関係）",
+          "Item": [
+            {
+              "@Num": "1",
+              "ItemTitle": "一",
+              "ItemSentence": {
+                "Sentence": "生物化学的酸素要求量又は化学的酸素要求量として表示される有機性物質"
+              }
+            },
+            {
+              "@Num": "2",
+              "ItemTitle": "二",
+              "ItemSentence": {
+                "Sentence": "浮遊物質"
+              }
+            },
+            {
+              "@Num": "3",
+              "ItemTitle": "三",
+              "ItemSentence": {
+                "Sentence": "ノルマルヘキサン抽出物質"
+              }
+            },
+            {
+              "@Num": "4",
+              "ItemTitle": "四",
+              "ItemSentence": {
+                "Sentence": "カドミウム及びその化合物"
+              }
+            },
+            {
+              "@Num": "5",
+              "ItemTitle": "五",
+              "ItemSentence": {
+                "Sentence": "シアン化合物"
+              }
+            },
+            {
+              "@Num": "6",
+              "ItemTitle": "六",
+              "ItemSentence": {
+                "Sentence": "有機りん化合物（ジエチルパラニトロフエニルチオホスフエイト（別名パラチオン）、ジメチルパラニトロフエニルチオホスフエイト（別名メチルパラチオン）、ジメチルエチルメルカプトエチルチオホスフエイト（別名メチルジメトン）及びエチルパラニトロフエニルチオノベンゼンホスホネイト（別名EPN）に限る。）"
+              }
+            },
+            {
+              "@Num": "7",
+              "ItemTitle": "七",
+              "ItemSentence": {
+                "Sentence": "鉛及びその化合物"
+              }
+            },
+            {
+              "@Num": "8",
+              "ItemTitle": "八",
+              "ItemSentence": {
+                "Sentence": "六価クロム化合物"
+              }
+            },
+            {
+              "@Num": "9",
+              "ItemTitle": "九",
+              "ItemSentence": {
+                "Sentence": "ひ素及びその化合物"
+              }
+            },
+            {
+              "@Num": "10",
+              "ItemTitle": "一〇",
+              "ItemSentence": {
+                "Sentence": "水銀及びアルキル水銀その他の水銀化合物"
+              }
+            },
+            {
+              "@Num": "11",
+              "ItemTitle": "一一",
+              "ItemSentence": {
+                "Sentence": "水素イオン"
+              }
+            },
+            {
+              "@Num": "12",
+              "ItemTitle": "一二",
+              "ItemSentence": {
+                "Sentence": "フエノール類"
+              }
+            },
+            {
+              "@Num": "13",
+              "ItemTitle": "一三",
+              "ItemSentence": {
+                "Sentence": "銅"
+              }
+            },
+            {
+              "@Num": "14",
+              "ItemTitle": "一四",
+              "ItemSentence": {
+                "Sentence": "亜鉛"
+              }
+            },
+            {
+              "@Num": "15",
+              "ItemTitle": "一五",
+              "ItemSentence": {
+                "Sentence": "溶解性鉄"
+              }
+            },
+            {
+              "@Num": "16",
+              "ItemTitle": "一六",
+              "ItemSentence": {
+                "Sentence": "溶解性マンガン"
+              }
+            },
+            {
+              "@Num": "17",
+              "ItemTitle": "一七",
+              "ItemSentence": {
+                "Sentence": "クロム"
+              }
+            },
+            {
+              "@Num": "18",
+              "ItemTitle": "一八",
+              "ItemSentence": {
+                "Sentence": "ふつ素"
+              }
+            },
+            {
+              "@Num": "19",
+              "ItemTitle": "一九",
+              "ItemSentence": {
+                "Sentence": "大腸菌群"
+              }
+            }
+          ]
+        }
+      ],
+      "AppdxStyle": [
+        {
+          "AppdxStyleTitle": "様式第１",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/S49F03405003001-001.pdf"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": "様式第２",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/S49F03405003001-002.pdf"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": "様式第３",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/S49F03405003001-003.pdf"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": "様式第４",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/S49F03405003001-004.pdf"
+              }
+            }
+          }
+        }
+      ]
+    }
+  }
+}

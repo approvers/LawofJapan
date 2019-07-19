@@ -1,0 +1,4193 @@
+{
+  "Law": {
+    "@Era": "Showa",
+    "@Lang": "ja",
+    "@LawType": "MinisterialOrdinance",
+    "@Num": "065",
+    "@Year": "29",
+    "LawNum": "昭和二十九年総理府令第六十五号",
+    "LawBody": {
+      "LawTitle": "表層地質調査作業規程準則",
+      "EnactStatement": "国土調査法第三条第二項の規定に基き、表層地質調査作業規程準則を次のように定める。",
+      "TOC": {
+        "TOCLabel": "目次",
+        "TOCChapter": [
+          {
+            "@Num": "1",
+            "ChapterTitle": "第一章　総則",
+            "ArticleRange": "（第一条―第十条）"
+          },
+          {
+            "@Num": "2",
+            "ChapterTitle": "第二章　準備作業",
+            "ArticleRange": "（第十一条―第十三条）"
+          },
+          {
+            "@Num": "3",
+            "ChapterTitle": "第三章　現地作業",
+            "ArticleRange": "（第十四条―第十七条）"
+          },
+          {
+            "@Num": "4",
+            "ChapterTitle": "第四章　室内作業",
+            "ArticleRange": "（第十八条）"
+          },
+          {
+            "@Num": "5",
+            "ChapterTitle": "第五章　整理作業",
+            "ArticleRange": "（第十九条―第二十二条）"
+          }
+        ],
+        "TOCSupplProvision": {
+          "SupplProvisionLabel": "附則"
+        }
+      },
+      "MainProvision": {
+        "Chapter": [
+          {
+            "@Num": "1",
+            "ChapterTitle": "第一章　総則",
+            "Article": [
+              {
+                "@Num": "1",
+                "ArticleCaption": "（目的）",
+                "ArticleTitle": "第一条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "国土調査法（昭和二十六年法律第百八十号）第二条第二項の規定による土地分類調査の基準の設定のための調査（土地分類基本調査）のうち、表層地質についての調査（以下「表層地質調査」という。）に関する作業規程の準則は、この省令の定めるところによる。"
+                  }
+                }
+              },
+              {
+                "@Num": "2",
+                "ArticleCaption": "（表層地質調査の内容）",
+                "ArticleTitle": "第二条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "表層地質調査においては、主として国土の開発、保全及び利用に関係のある岩石の分布及び性状並びに地質構造等を明らかにするための調査を行い、その結果を地図及び簿冊に作成するものとする。"
+                  }
+                }
+              },
+              {
+                "@Num": "3",
+                "ArticleCaption": "（表層地質調査の作業）",
+                "ArticleTitle": "第三条",
+                "Paragraph": [
+                  {
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": "表層地質調査の作業は、準備作業、現地作業、室内作業及び整理作業とする。"
+                    }
+                  },
+                  {
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": [
+                        {
+                          "@Function": "main",
+                          "@Num": "1",
+                          "#text": "前項の作業は、測量法（昭和二十四年法律第百八十八号）第二十七条第二項の規定により国土交通大臣の刊行した五万分の一地形図（以下「地形図」という。）の図郭の区域ごとに行うものとする。"
+                        },
+                        {
+                          "@Function": "proviso",
+                          "@Num": "2",
+                          "#text": "ただし、作業を行おうとする区域が図郭の区域の一部である場合その他特別の事由がある場合には、図郭の区域の一部の区域について行うことができる。"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "@Num": "4",
+                "ArticleTitle": "第四条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "表層地質調査において、地形図を基図として使用するに当つては、あらかじめ空中写真と比較検討し、地形図と空中写真とがはなはだしく異なる場合には、空中写真により補正したものを用いなければならない。"
+                  }
+                }
+              },
+              {
+                "@Num": "5",
+                "ArticleCaption": "（準備作業）",
+                "ArticleTitle": "第五条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "準備作業とは、作業を行う区域に関する各種の地図、空中写真及び各種の資料に基いて、左の各号に掲げる地図を作成し、あわせて現地調査を行う路線の選定及び日程を立案する作業をいう。"
+                  },
+                  "Item": [
+                    {
+                      "@Num": "1",
+                      "ItemTitle": "一",
+                      "ItemSentence": {
+                        "Sentence": "空中写真及び地形図によつて作成する予察図"
+                      }
+                    },
+                    {
+                      "@Num": "2",
+                      "ItemTitle": "二",
+                      "ItemSentence": {
+                        "Sentence": {
+                          "Ruby": [
+                            {
+                              "Rt": "ヽ",
+                              "#text": "さ"
+                            },
+                            {
+                              "Rt": "ヽ",
+                              "#text": "ん"
+                            }
+                          ],
+                          "#text": "各種資料によつて作成する編\n図"
+                        }
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "@Num": "6",
+                "ArticleCaption": "（現地作業）",
+                "ArticleTitle": "第六条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": {
+                      "Ruby": [
+                        {
+                          "Rt": "ヽ",
+                          "#text": "し"
+                        },
+                        {
+                          "Rt": "ヽ",
+                          "#text": "ゆ"
+                        },
+                        {
+                          "Rt": "ヽ",
+                          "#text": "う"
+                        }
+                      ],
+                      "#text": "現地作業とは、第十一条に規定する予察図を参考として現地調査を行い、表層地質図及び表層地質図説明書（以下この章において「説明書」という。）の作成に必要な事項について観察し、計測し及び各種試料の\n\n集を行い、且つ、表層地質素図及び柱状断面素図を作成する作業をいう。"
+                    }
+                  }
+                }
+              },
+              {
+                "@Num": "7",
+                "ArticleCaption": "（室内作業）",
+                "ArticleTitle": "第七条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "室内作業とは、現地作業において判定困難な試料及び表層地質図並びに説明書作成のために必要と思われる試料について鑑定及び試験を行う作業をいう。"
+                  }
+                }
+              },
+              {
+                "@Num": "8",
+                "ArticleCaption": "（整理作業）",
+                "ArticleTitle": "第八条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "整理作業とは、現地作業及び室内作業の結果を基礎として、表層地質図、説明書、地質断面図及び柱状断面図を作成する作業をいう。"
+                  }
+                }
+              },
+              {
+                "@Num": "9",
+                "ArticleCaption": "（地図の接合）",
+                "ArticleTitle": "第九条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "地図は、隣接する地図と接合するように調製するものとする。"
+                  }
+                }
+              },
+              {
+                "@Num": "10",
+                "ArticleCaption": "（地図における表示の方法）",
+                "ArticleTitle": "第十条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": [
+                      {
+                        "@Function": "main",
+                        "@Num": "1",
+                        "#text": "表層地質素図、表層地質図、地質断面図及び柱状断面図に表示する様式は、別表二に定めるところによるものとする。"
+                      },
+                      {
+                        "@Function": "proviso",
+                        "@Num": "2",
+                        "#text": "但し、別表二に定めのないものについてはその旨を注記して、適宜の表現様式によることができる。"
+                      }
+                    ]
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "@Num": "2",
+            "ChapterTitle": "第二章　準備作業",
+            "Article": [
+              {
+                "@Num": "11",
+                "ArticleCaption": "（予察図の作成）",
+                "ArticleTitle": "第十一条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "予察図は、水系、谷密度等を考慮して地形の開析状態を明らかにし、地形の主要素材である岩石の分布及び性状並びに地質構造を表示するように作成するものとする。"
+                  }
+                }
+              },
+              {
+                "@Num": "12",
+                "ArticleCaption": {
+                  "Ruby": [
+                    {
+                      "Rt": "ヽ",
+                      "#text": "さ"
+                    },
+                    {
+                      "Rt": "ヽ",
+                      "#text": "ん"
+                    }
+                  ],
+                  "#text": "（編\n図の作成）"
+                },
+                "ArticleTitle": "第十二条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": {
+                      "Ruby": [
+                        {
+                          "Rt": "ヽ",
+                          "#text": "さ"
+                        },
+                        {
+                          "Rt": "ヽ",
+                          "#text": "ん"
+                        }
+                      ],
+                      "#text": "編\n図は、既存の資料がある場合に限り、これを検討して関係区域の地形、岩石の分布及び性状並びに地質構造について別表一の上欄の調査項目に従い、それぞれの下欄の調査事項を記載して作成するものとする。"
+                    }
+                  }
+                }
+              },
+              {
+                "@Num": "13",
+                "ArticleCaption": "（記録）",
+                "ArticleTitle": "第十三条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": {
+                      "Ruby": [
+                        {
+                          "Rt": "ヽ",
+                          "#text": "さ"
+                        },
+                        {
+                          "Rt": "ヽ",
+                          "#text": "ん"
+                        }
+                      ],
+                      "#text": "予察図及び編\n図の作成に当つては、現地調査によつて明らかにすべき事項及びそれらに図示できない事項を整理記録しておかなければならない。"
+                    }
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "@Num": "3",
+            "ChapterTitle": "第三章　現地作業",
+            "Article": [
+              {
+                "@Num": "14",
+                "ArticleCaption": "（調査の内容）",
+                "ArticleTitle": "第十四条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "現地作業における調査は、別表一の各調査項目について行い、これを路線図及び野帳に記載するものとする。"
+                  }
+                }
+              },
+              {
+                "@Num": "15",
+                "ArticleCaption": "（路線図及び野帳）",
+                "ArticleTitle": "第十五条",
+                "Paragraph": [
+                  {
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": "路線図には、左に掲げる事項を記入するものとする。"
+                    },
+                    "Item": [
+                      {
+                        "@Num": "1",
+                        "ItemTitle": "一",
+                        "ItemSentence": {
+                          "Sentence": "別表一の調査事項"
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "ItemTitle": "二",
+                        "ItemSentence": {
+                          "Sentence": "踏査経路"
+                        }
+                      },
+                      {
+                        "@Num": "3",
+                        "ItemTitle": "三",
+                        "ItemSentence": {
+                          "Sentence": "露岩地点"
+                        }
+                      },
+                      {
+                        "@Num": "4",
+                        "ItemTitle": "四",
+                        "ItemSentence": {
+                          "Sentence": "野帳記載地点"
+                        }
+                      },
+                      {
+                        "@Num": "5",
+                        "ItemTitle": "五",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "Ruby": [
+                              {
+                                "Rt": "ヽ",
+                                "#text": "し"
+                              },
+                              {
+                                "Rt": "ヽ",
+                                "#text": "ゆ"
+                              },
+                              {
+                                "Rt": "ヽ",
+                                "#text": "う"
+                              }
+                            ],
+                            "#text": "試料\n\n集地点"
+                          }
+                        }
+                      },
+                      {
+                        "@Num": "6",
+                        "ItemTitle": "六",
+                        "ItemSentence": {
+                          "Sentence": "その他路線図に記入することを適当とする事項"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": "野帳に記載する事項は、前項の路線図に記入すべき事項以外の説明事項、参考事項及び路線図に記入することを適当としない事項とする。"
+                    }
+                  },
+                  {
+                    "@Num": "3",
+                    "ParagraphNum": "３",
+                    "ParagraphSentence": {
+                      "Sentence": "野帳の様式については、国土交通大臣の定めるところによる。"
+                    }
+                  }
+                ]
+              },
+              {
+                "@Num": "16",
+                "ArticleCaption": "（表層地質素図の作成）",
+                "ArticleTitle": "第十六条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "表層地質素図は、前条第一項の路線図を基として、同条第二項の野帳に記載した事項を参考とし、且つ、現地調査の調査項目相互間の関係を推定して総合的判断を行い、別表二の様式に従い別表一の調査事項を表示するように作成するものとする。"
+                  }
+                }
+              },
+              {
+                "@Num": "17",
+                "ArticleCaption": "（柱状断面素図の作成）",
+                "ArticleTitle": "第十七条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": {
+                      "Ruby": [
+                        {
+                          "Rt": "たい",
+                          "#text": "堆"
+                        },
+                        {
+                          "Rt": "よう",
+                          "#text": "熔"
+                        }
+                      ],
+                      "#text": "柱状断面素図は、未固結積物、薄い堆積物若しくは岩等におおわれているか又は二種類以上の岩石が累積しているために表層地質図では現況の判断ができがたいと認める地点について、別表一の調査事項を垂直に表示するように作成するものとする。"
+                    }
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "@Num": "4",
+            "ChapterTitle": "第四章　室内作業",
+            "Article": {
+              "@Num": "18",
+              "ArticleCaption": "（室内作業）",
+              "ArticleTitle": "第十八条",
+              "Paragraph": {
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": "室内作業においては、左に掲げる事項のうち必要と認めるものについてのみその作業を行う。"
+                },
+                "Item": [
+                  {
+                    "@Num": "1",
+                    "ItemTitle": "一",
+                    "ItemSentence": {
+                      "Sentence": "岩石その他の試料について検鏡を行い、その種類を鑑定する。"
+                    }
+                  },
+                  {
+                    "@Num": "2",
+                    "ItemTitle": "二",
+                    "ItemSentence": {
+                      "Sentence": {
+                        "Ruby": {
+                          "Rt": "げき",
+                          "#text": "隙"
+                        },
+                        "#text": "岩石の孔、空隙及びかたさなどについて物理的試験を行う。"
+                      }
+                    }
+                  },
+                  {
+                    "@Num": "3",
+                    "ItemTitle": "三",
+                    "ItemSentence": {
+                      "Sentence": "岩石その他の成分について化学的試験を行う。"
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "@Num": "5",
+            "ChapterTitle": "第五章　整理作業",
+            "Article": [
+              {
+                "@Num": "19",
+                "ArticleCaption": "（表層地質図の作成）",
+                "ArticleTitle": "第十九条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": [
+                      {
+                        "@Num": "1",
+                        "#text": "表層地質図は、表層地質素図を地形図に転記して作成するものとする。"
+                      },
+                      {
+                        "@Num": "2",
+                        "#text": "この場合において、前条の室内作業を行つた場合には、その結果に基いて補正した表層地質素図を転記して作成しなければならない。"
+                      }
+                    ]
+                  }
+                }
+              },
+              {
+                "@Num": "20",
+                "ArticleCaption": "（地質断面図の作成）",
+                "ArticleTitle": "第二十条",
+                "Paragraph": [
+                  {
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": "地質断面図は、表層地質図を基とし、別表一の調査事項を表示するのに適当と認める方向に水平五万分の一、垂直五万分の一若しくは二万五千分の一の縮尺で地形の断面を作成し、当該断面に別表一の調査事項を推定図示して作成するものとする。"
+                    }
+                  },
+                  {
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": "地質断面図は、一図葉に二本以上を作成し、その断面方向及び断面の位置を表層地質図上に明示しておかなければならない。"
+                    }
+                  }
+                ]
+              },
+              {
+                "@Num": "21",
+                "ArticleCaption": "（柱状断面図の作成）",
+                "ArticleTitle": "第二十一条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": [
+                      {
+                        "@Num": "1",
+                        "#text": "柱状断面図は、柱状断面素図に基いて作成するものとする。"
+                      },
+                      {
+                        "@Num": "2",
+                        "#text": "この場合において、第十八条の室内作業を行つた場合には、その結果に基いて補正した柱状断面素図によつて作成しなければならない。"
+                      }
+                    ]
+                  }
+                }
+              },
+              {
+                "@Num": "22",
+                "ArticleCaption": "（表層地質図説明書）",
+                "ArticleTitle": "第二十二条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "表層地質図説明書は、別表三に定めるところに従つて記載し、地質の特性、地質と土地の開発、保全及び利用との関連並びに表層地質図に図示できない事項等を明らかにし、表層地質図等を使用する場合の便宜に供しうるように作成するものとする。"
+                  }
+                }
+              }
+            ]
+          }
+        ]
+      },
+      "SupplProvision": [
+        {
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この府令は、公布の日から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "昭和三〇年七月二〇日総理府令第二七号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この府令は、公布の日から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "昭和四九年六月二六日総理府令第三九号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この府令は、公布の日から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成一二年八月一四日総理府令第一〇三号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この府令は、内閣法の一部を改正する法律（平成十一年法律第八十八号）の施行の日（平成十三年一月六日）から施行する。"
+            }
+          }
+        }
+      ],
+      "AppdxTable": [
+        {
+          "AppdxTableTitle": "別表第一",
+          "TableStruct": {
+            "Table": {
+              "TableRow": [
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "調　　　査　　　項　　　目"
+                    },
+                    {
+                      "@colspan": "2",
+                      "Sentence": "調　　　　　　査　　　　　　事　　　　　　項"
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "@rowspan": "6",
+                      "Sentence": "一　岩石の区分"
+                    },
+                    {
+                      "Sentence": "未固結堆積物"
+                    },
+                    {
+                      "Sentence": [
+                        {
+                          "Ruby": {
+                            "Rt": "れき",
+                            "#text": "礫"
+                          }
+                        },
+                        "砂",
+                        {
+                          "Ruby": {
+                            "Rt": "でい",
+                            "#text": "泥"
+                          }
+                        },
+                        {
+                          "Ruby": [
+                            {
+                              "Rt": "せつ",
+                              "#text": "屑"
+                            },
+                            {
+                              "Rt": "がい",
+                              "#text": "崖"
+                            },
+                            {
+                              "Rt": "すい",
+                              "#text": "錐"
+                            }
+                          ],
+                          "#text": "砕物（\n堆積物及び土石流）"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "固結堆積物"
+                    },
+                    {
+                      "Sentence": [
+                        "礫岩",
+                        "砂岩",
+                        "泥岩",
+                        "砂岩泥岩互層",
+                        {
+                          "Ruby": {
+                            "Rt": "けい",
+                            "#text": "珪"
+                          },
+                          "#text": "岩質岩石（角石、チヤート及び珪岩）"
+                        },
+                        "輝緑凝灰岩",
+                        "石灰岩"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "火山性岩石"
+                    },
+                    {
+                      "Sentence": [
+                        "火山灰砂",
+                        "火山砕屑物",
+                        "軽石",
+                        "シラス",
+                        "ローム",
+                        "集塊岩",
+                        "凝灰岩質岩石（凝灰岩及び凝灰分に富む岩石）",
+                        "流紋岩質岩石（流紋岩及び強ハリ質岩石）",
+                        "安山岩質岩石（石英安山岩、安山岩、玄武岩及び［ひん］（ひん）岩で、強ハリ質岩を除く。）"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "深成岩"
+                    },
+                    {
+                      "Sentence": [
+                        {
+                          "Ruby": [
+                            {
+                              "Rt": "はん",
+                              "#text": "斑"
+                            },
+                            {
+                              "Rt": "こう",
+                              "#text": "崗"
+                            }
+                          ],
+                          "#text": "岩（花斑岩及び石英斑岩）"
+                        },
+                        {
+                          "Ruby": {
+                            "Rt": "せん",
+                            "#text": "閃"
+                          },
+                          "#text": "花崗岩質岩石（花崗岩、花崗緑岩、巨晶花崗岩、半花崗岩、石英閃緑岩及び閃緑岩中で比較的優白色のもの又は片麻岩で片理構造の弱いもの。）"
+                        },
+                        {
+                          "Ruby": {
+                            "Rt": "れい",
+                            "#text": "糲"
+                          },
+                          "#text": "斑岩質岩石（斑糲岩、輝緑岩及び角閃岩のうち片状構造の明瞭でないもの及び閃緑岩中で比較的優黒色のもの。）"
+                        },
+                        {
+                          "Ruby": [
+                            {
+                              "Rt": "じや",
+                              "#text": "蛇"
+                            },
+                            {
+                              "Rt": "かん",
+                              "#text": "橄"
+                            },
+                            {
+                              "Rt": "らん",
+                              "#text": "欖"
+                            }
+                          ],
+                          "#text": "紋岩質岩石（蛇紋岩、\n岩及びその他蛇紋岩化作用の著しく進んだもの。）"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "変成岩"
+                    },
+                    {
+                      "Sentence": [
+                        "ホルンフエルス（ホルンフエルスのうち片状構造の明瞭のものを除く。）",
+                        {
+                          "Ruby": {
+                            "Rt": "れん",
+                            "#text": "簾"
+                          },
+                          "#text": "緑色片岩（緑泥片岩、緑片岩及び角閃岩のうち片状の明瞭のもの。）"
+                        },
+                        "黒色片岩（千枚岩及び石墨片岩）",
+                        "その他の片岩（緑色片岩及び黒色片岩以外の片状構造の明瞭な変成岩及び片麻岩中で片状構造の明瞭のもの。）"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "圧砕岩"
+                    },
+                    {
+                      "Sentence": "圧砕岩質岩石（圧砕岩化作用の進んだもの。）"
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "@rowspan": "2",
+                      "Sentence": "二　岩石のかたさ"
+                    },
+                    {
+                      "@colspan": "2",
+                      "Sentence": [
+                        "（一）　岩片",
+                        {
+                          "Ruby": {
+                            "Rt": "こう",
+                            "#text": "洪"
+                          },
+                          "#text": "１　はなはだやわらかい（未固結とも固結ともいえない程度の岩石で、たとえば、軟質泥岩、鮮新積世の軟質砂岩等）"
+                        },
+                        "２　やわらかい（耐圧一〇〇Ｋｇ／Ｃｍ２未満の岩石で、たとえば、大谷石、ごくやわらかい凝灰岩、鮮新洪積世の中位の砂岩、房州石等）",
+                        "３　やややわらかい（耐圧一〇〇Ｋｇ／Ｃｍ２以上四〇〇Ｋｇ／Ｃｍ２未満の岩石で、たとえば、軟質凝灰岩等）",
+                        "４　ややかたい（耐圧四〇〇Ｋｇ／Ｃｍ２以上一、〇〇〇Ｋｇ／Ｃｍ２未満の岩石で、たとえば、やわらかい安山岩、中位のかたさの凝灰岩、第三紀の中位のかたさの砂岩等）",
+                        "５　かたい（耐圧一、〇〇〇Ｋｇ／Ｃｍ２以上二、〇〇〇Ｋｇ／Ｃｍ２未満の岩石で、たとえば、安山岩、花崗岩、軟質玄武岩、かたい砂岩、かたい石灰岩、石英粗面岩、斑岩等）",
+                        "６　はなはだかたい（耐圧二、〇〇〇Ｋｇ／Ｃｍ２以上の岩石で、たとえば、チヤート、珪岩、珪岩質砂岩、角岩、微晶質石英粗面岩、微晶質硬質安山岩、玄武岩、細粒硬質花崗岩の一部等）",
+                        "（二）　岩体",
+                        {
+                          "Ruby": {
+                            "Rt": "ぱ",
+                            "#text": "播"
+                          },
+                          "#text": "１　はなはだやわらかい（岩片としてのかたさが（一）の１に相当する岩石で構成され、風化、割れ目等により岩体としてのかたさが弱められていないもの及び岩片としてのかたさが（一）の２以上の岩石で構成され、風化、割れ目等の影響により岩体としてのかたさが（一）の１と同程度に弱くなつているもので、弾性波伝速度「縦波」がおよそ一・五Ｋｍ／Ｓｅｃ未満のもの。）"
+                        },
+                        "２　やわらかい（岩片としてのかたさが（一）の２に相当する岩石で構成され、風化、割れ目等により岩体としてのかたさが弱められていないもの及び岩片としてのかたさが（一）の３以上の岩石で構成され、風化、割れ目等の影響により岩体としてのかたさが（一）の２と同程度に弱くなつているもので、弾性波伝播速度「縦波」がおよそ一・五Ｋｍ／Ｓｅｃ以上二・二Ｋｍ／Ｓｅｃ未満のもの。）"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": {
+                    "@colspan": "2",
+                    "Sentence": [
+                      "３　やややわらかい（岩片としてのかたさが（一）の３に相当する岩石で構成され、風化、割れ目等により岩体としてのかたさが弱められていないもの及び岩片としてのかたさが（一）の４以上の岩石で構成され、風化、割れ目等の影響により岩体としてのかたさが（一）の３と同程度に弱くなつているもので、弾性波伝播速度「縦波」がおよそ二・二Ｋｍ／Ｓｅｃ以上三・〇Ｋｍ／Ｓｅｃ未満のもの。）",
+                      "４　ややかたい（岩片としてのかたさが（一）の４に相当する岩石で構成され、風化、割れ目等により岩体としてのかたさが弱められていないもの及び岩片としてのかたさが（一）の５以上の岩石で構成され、風化、割れ目等の影響により岩体としてのかたさが（一）の４と同程度に弱くなつているもので、弾性波伝播速度「縦波」がおよそ三・〇Ｋｍ／Ｓｅｃ以上四・〇Ｋｍ／Ｓｅｃ未満のもの。）",
+                      "５　かたい（岩片としてのかたさが（一）の５に相当する岩石で構成され、風化、割れ目等により岩体としてのかたさが弱められていないもの及び岩石としてのかたさが（一）の５以上の岩石で構成され、風化、割れ目等の影響により岩体としてのかたさが（一）の５と同程度に弱くなつているもので、弾性波伝播速度「縦波」がおよそ四・〇Ｋｍ／Ｓｅｃ以上五・五Ｋｍ／Ｓｅｃ未満のもの。）",
+                      "６　はなはだかたい（岩片としてのかたさが（一）の６に相当する岩石で構成され、風化、割れ目等により岩体としてのかたさが弱められていないもので、弾性波伝播速度「縦波」がおよそ五・五Ｋｍ／Ｓｅｃ程度以上のもの。）"
+                    ]
+                  }
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "三　岩石の層理、片理及び著しい流理"
+                    },
+                    {
+                      "@colspan": "2",
+                      "Sentence": "走向、傾斜及び著しいものについて、その範囲"
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "四　岩石の割れ目及び節理"
+                    },
+                    {
+                      "@colspan": "2",
+                      "Sentence": "著しいものについて、その範囲"
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "五　岩石の孔隙及び空隙"
+                    },
+                    {
+                      "@colspan": "2",
+                      "Sentence": "火山岩類及び凝灰岩類の著しいものについて、その範囲"
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "六　岩石の風化及び変質"
+                    },
+                    {
+                      "@colspan": "2",
+                      "Sentence": [
+                        "著しいものについて、左の各号に区分する。",
+                        "１　まさ",
+                        "２　変朽安山岩",
+                        "３　温泉変質帯及び余土",
+                        "４　焼け"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "七　破砕部及び破砕帯"
+                    },
+                    {
+                      "@colspan": "2",
+                      "Sentence": "範囲"
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "八　断層"
+                    },
+                    {
+                      "@colspan": "2",
+                      "Sentence": {
+                        "Ruby": [
+                          {
+                            "Rt": "ヽ",
+                            "#text": "て"
+                          },
+                          {
+                            "Rt": "ヽ",
+                            "#text": "ん"
+                          }
+                        ],
+                        "#text": "幅及び充\n物等の状態及びその走向及び傾斜"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": {
+                        "Ruby": {
+                          "Rt": "しゆう",
+                          "#text": "褶"
+                        },
+                        "#text": "九　曲軸"
+                      }
+                    },
+                    {
+                      "@colspan": "2",
+                      "Sentence": "位置"
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "十　火口"
+                    },
+                    {
+                      "@colspan": "2",
+                      "Sentence": "範囲"
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "十一　地すべり及び崩壊"
+                    },
+                    {
+                      "@colspan": "2",
+                      "Sentence": "範囲"
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "十二　時代"
+                    },
+                    {
+                      "@colspan": "2",
+                      "Sentence": [
+                        "堆積岩については、原則として左の時代に区別する。但し、時代を正確に判定できないものは、便宜的に左の時代のいずれかに属させその旨を附記する。",
+                        "古生代",
+                        "中生代",
+                        "古第三紀",
+                        "新第三紀",
+                        "洪積世",
+                        {
+                          "Ruby": {
+                            "Rt": "ちゆう",
+                            "#text": "沖"
+                          },
+                          "#text": "積世"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "十三　鉱山"
+                    },
+                    {
+                      "@colspan": "2",
+                      "Sentence": "位置"
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "十四　温泉硫気孔及び鉱泉"
+                    },
+                    {
+                      "@colspan": "2",
+                      "Sentence": {
+                        "Ruby": {
+                          "Rt": "ゆう",
+                          "#text": "湧"
+                        },
+                        "#text": "地点及び温泉並びに鉱泉については出量及び泉質等、但し、温泉については、単純泉、アルカリ泉、アルカリ塩類泉及び酸性泉を区別する。"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": {
+                    "@colspan": "3",
+                    "Sentence": [
+                      "備考",
+                      "一　Ｋｇ／Ｃｍ２とは、重量キログラム毎平方センチメートルを表示する。",
+                      "二　Ｋｍ／Ｓｅｃ　とは、キロメートル毎秒を表示する。"
+                    ]
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "AppdxTableTitle": "別表第二",
+          "TableStruct": [
+            {
+              "TableStructTitle": "第１部　記号",
+              "Table": {
+                "TableRow": [
+                  {
+                    "TableColumn": [
+                      {
+                        "@rowspan": "2",
+                        "Sentence": "区分"
+                      },
+                      {
+                        "@colspan": "4",
+                        "Sentence": "印刷における記号"
+                      },
+                      {
+                        "@colspan": "3",
+                        "Sentence": "現地作業及び整理作業における記号"
+                      },
+                      {
+                        "@rowspan": "2",
+                        "Sentence": "記号の表示の方法又は図例"
+                      }
+                    ]
+                  },
+                  {
+                    "TableColumn": [
+                      {
+                        "Sentence": "略号"
+                      },
+                      {
+                        "Sentence": "状形及び大きさ"
+                      },
+                      {
+                        "Sentence": "線色及び線幅"
+                      },
+                      {
+                        "Sentence": "彩色"
+                      },
+                      {
+                        "Sentence": "形状及び大きさ"
+                      },
+                      {
+                        "Sentence": "線色及び線幅"
+                      },
+                      {
+                        "Sentence": "彩色"
+                      }
+                    ]
+                  },
+                  {
+                    "TableColumn": [
+                      {
+                        "Sentence": "未固結堆積物"
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": null
+                      }
+                    ]
+                  },
+                  {
+                    "TableColumn": [
+                      {
+                        "Sentence": "礫"
+                      },
+                      {
+                        "Sentence": "ｇ"
+                      },
+                      {
+                        "Sentence": "図（略）"
+                      },
+                      {
+                        "Sentence": "淡青"
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": "図（略）"
+                      },
+                      {
+                        "Sentence": "茶"
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": null
+                      }
+                    ]
+                  },
+                  {
+                    "TableColumn": [
+                      {
+                        "Sentence": "砂"
+                      },
+                      {
+                        "Sentence": "ｓ"
+                      },
+                      {
+                        "Sentence": "図（略）"
+                      },
+                      {
+                        "Sentence": "淡青"
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": "図（略）"
+                      },
+                      {
+                        "Sentence": "黄"
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": null
+                      }
+                    ]
+                  },
+                  {
+                    "TableColumn": [
+                      {
+                        "Sentence": "泥"
+                      },
+                      {
+                        "Sentence": "ｍ"
+                      },
+                      {
+                        "Sentence": "図（略）"
+                      },
+                      {
+                        "Sentence": "淡青"
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": "図（略）"
+                      },
+                      {
+                        "Sentence": "濃青"
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": null
+                      }
+                    ]
+                  },
+                  {
+                    "TableColumn": [
+                      {
+                        "Sentence": "泥炭"
+                      },
+                      {
+                        "Sentence": "ｐ"
+                      },
+                      {
+                        "Sentence": "図（略）"
+                      },
+                      {
+                        "Sentence": "淡青"
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": "図（略）"
+                      },
+                      {
+                        "Sentence": "黒"
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": null
+                      }
+                    ]
+                  },
+                  {
+                    "TableColumn": [
+                      {
+                        "Sentence": "砕屑物"
+                      },
+                      {
+                        "Sentence": "ｃｌ"
+                      },
+                      {
+                        "Sentence": "図（略）"
+                      },
+                      {
+                        "Sentence": "淡青"
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": "図（略）"
+                      },
+                      {
+                        "Sentence": "桃"
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": null
+                      }
+                    ]
+                  },
+                  {
+                    "TableColumn": [
+                      {
+                        "Sentence": "固結堆積物"
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": null
+                      }
+                    ]
+                  },
+                  {
+                    "TableColumn": [
+                      {
+                        "Sentence": "礫岩"
+                      },
+                      {
+                        "Sentence": "ｃｇ"
+                      },
+                      {
+                        "Sentence": "図（略）"
+                      },
+                      {
+                        "Sentence": "わかたけいろ"
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": "図（略）"
+                      },
+                      {
+                        "Sentence": "茶"
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": null
+                      }
+                    ]
+                  },
+                  {
+                    "TableColumn": [
+                      {
+                        "Sentence": "砂岩"
+                      },
+                      {
+                        "Sentence": "ｓｓ"
+                      },
+                      {
+                        "Sentence": "図（略）"
+                      },
+                      {
+                        "Sentence": "わかたけいろ"
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": "図（略）"
+                      },
+                      {
+                        "Sentence": "だいだい"
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": null
+                      }
+                    ]
+                  },
+                  {
+                    "TableColumn": [
+                      {
+                        "Sentence": "泥岩"
+                      },
+                      {
+                        "Sentence": "ｍｓ"
+                      },
+                      {
+                        "Sentence": "図（略）"
+                      },
+                      {
+                        "Sentence": "わかたけいろ"
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": "図（略）"
+                      },
+                      {
+                        "Sentence": "濃青"
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": null
+                      }
+                    ]
+                  },
+                  {
+                    "TableColumn": [
+                      {
+                        "Sentence": "砂岩、泥岩互層"
+                      },
+                      {
+                        "Sentence": "ａｌｔｓｍ"
+                      },
+                      {
+                        "Sentence": "図（略）"
+                      },
+                      {
+                        "Sentence": "わかたけいろ"
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": "図（略）"
+                      },
+                      {
+                        "Sentence": "濃緑"
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": null
+                      }
+                    ]
+                  },
+                  {
+                    "TableColumn": [
+                      {
+                        "Sentence": "珪岩質岩石"
+                      },
+                      {
+                        "Sentence": "ｃｈ"
+                      },
+                      {
+                        "Sentence": "図（略）"
+                      },
+                      {
+                        "Sentence": "わかたけいろ"
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": "図（略）"
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": "黄"
+                      },
+                      {
+                        "Sentence": "現地作業及び整理作業における記号においては、その部分を全部彩色する。"
+                      }
+                    ]
+                  },
+                  {
+                    "TableColumn": [
+                      {
+                        "Sentence": "輝緑凝灰岩"
+                      },
+                      {
+                        "Sentence": "ｓｃｈ"
+                      },
+                      {
+                        "Sentence": "図（略）"
+                      },
+                      {
+                        "Sentence": "わかたけいろ"
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": "図（略）"
+                      },
+                      {
+                        "Sentence": "紫"
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": null
+                      }
+                    ]
+                  },
+                  {
+                    "TableColumn": [
+                      {
+                        "Sentence": "石灰岩"
+                      },
+                      {
+                        "Sentence": "ｌｓ"
+                      },
+                      {
+                        "Sentence": "図（略）"
+                      },
+                      {
+                        "Sentence": "わかたけいろ"
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": "図（略）"
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": "濃青"
+                      },
+                      {
+                        "Sentence": "現地作業及び整理作業における記号においては、その部分を全部彩色する。"
+                      }
+                    ]
+                  },
+                  {
+                    "TableColumn": [
+                      {
+                        "Sentence": "火山性岩石"
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": null
+                      }
+                    ]
+                  },
+                  {
+                    "TableColumn": [
+                      {
+                        "Sentence": "火山灰砂"
+                      },
+                      {
+                        "Sentence": "Ａｓ"
+                      },
+                      {
+                        "Sentence": "図（略）"
+                      },
+                      {
+                        "Sentence": "こうじいろ"
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": "図（略）"
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": "草"
+                      },
+                      {
+                        "Sentence": "現地作業及び整理作業における記号においては、その部分を全部彩色する。"
+                      }
+                    ]
+                  },
+                  {
+                    "TableColumn": [
+                      {
+                        "Sentence": "火山砕屑物"
+                      },
+                      {
+                        "Sentence": "Ｐｙ"
+                      },
+                      {
+                        "Sentence": "図（略）"
+                      },
+                      {
+                        "Sentence": "こうじいろ"
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": "図（略）"
+                      },
+                      {
+                        "Sentence": "桃"
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": null
+                      }
+                    ]
+                  },
+                  {
+                    "TableColumn": [
+                      {
+                        "Sentence": "軽石"
+                      },
+                      {
+                        "Sentence": "Ｐｍ"
+                      },
+                      {
+                        "Sentence": "図（略）"
+                      },
+                      {
+                        "Sentence": "こうじいろ"
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": "図（略）"
+                      },
+                      {
+                        "Sentence": "黒"
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": null
+                      }
+                    ]
+                  },
+                  {
+                    "TableColumn": [
+                      {
+                        "Sentence": "シラス"
+                      },
+                      {
+                        "Sentence": "Ｓｉ"
+                      },
+                      {
+                        "Sentence": "図（略）"
+                      },
+                      {
+                        "Sentence": "こうじいろ"
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": "図（略）"
+                      },
+                      {
+                        "Sentence": "濃青"
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": null
+                      }
+                    ]
+                  },
+                  {
+                    "TableColumn": [
+                      {
+                        "Sentence": "ローム"
+                      },
+                      {
+                        "Sentence": "Ｌ"
+                      },
+                      {
+                        "Sentence": "図（略）"
+                      },
+                      {
+                        "Sentence": "こうじいろ"
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": "図（略）"
+                      },
+                      {
+                        "Sentence": "だいだい"
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": null
+                      }
+                    ]
+                  },
+                  {
+                    "TableColumn": [
+                      {
+                        "Sentence": "集塊岩"
+                      },
+                      {
+                        "Sentence": "Ａｇ"
+                      },
+                      {
+                        "Sentence": "図（略）"
+                      },
+                      {
+                        "Sentence": "こうじいろ"
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": "図（略）"
+                      },
+                      {
+                        "Sentence": "茶"
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": null
+                      }
+                    ]
+                  },
+                  {
+                    "TableColumn": [
+                      {
+                        "Sentence": "凝灰岩質岩石"
+                      },
+                      {
+                        "Sentence": "Ｔｒ"
+                      },
+                      {
+                        "Sentence": "図（略）"
+                      },
+                      {
+                        "Sentence": "こうじいろ"
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": "図（略）"
+                      },
+                      {
+                        "Sentence": "紫"
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": null
+                      }
+                    ]
+                  },
+                  {
+                    "TableColumn": [
+                      {
+                        "Sentence": "流紋岩質岩石"
+                      },
+                      {
+                        "Sentence": "Ｒｙ"
+                      },
+                      {
+                        "Sentence": "図（略）"
+                      },
+                      {
+                        "Sentence": "こうじいろ"
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": "図（略）"
+                      },
+                      {
+                        "Sentence": "赤"
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": null
+                      }
+                    ]
+                  },
+                  {
+                    "TableColumn": [
+                      {
+                        "Sentence": "安山岩質岩石"
+                      },
+                      {
+                        "Sentence": "Ａｂ"
+                      },
+                      {
+                        "Sentence": "図（略）"
+                      },
+                      {
+                        "Sentence": "こうじいろ"
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": "図（略）"
+                      },
+                      {
+                        "Sentence": "濃緑"
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": null
+                      }
+                    ]
+                  },
+                  {
+                    "TableColumn": [
+                      {
+                        "Sentence": "深成岩"
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": null
+                      }
+                    ]
+                  },
+                  {
+                    "TableColumn": [
+                      {
+                        "Sentence": "斑岩"
+                      },
+                      {
+                        "Sentence": "Ｑｐ"
+                      },
+                      {
+                        "Sentence": "図（略）"
+                      },
+                      {
+                        "Sentence": "ぼたんいろ"
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": "図（略）"
+                      },
+                      {
+                        "Sentence": "だいだい"
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": null
+                      }
+                    ]
+                  },
+                  {
+                    "TableColumn": [
+                      {
+                        "Sentence": "花崗岩質岩石"
+                      },
+                      {
+                        "Sentence": "Ｇｒ"
+                      },
+                      {
+                        "Sentence": "図（略）"
+                      },
+                      {
+                        "Sentence": "ぼたんいろ"
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": "図（略）"
+                      },
+                      {
+                        "Sentence": "赤"
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": null
+                      }
+                    ]
+                  },
+                  {
+                    "TableColumn": [
+                      {
+                        "Sentence": "斑糲岩質岩石"
+                      },
+                      {
+                        "Sentence": "Ｇｂ"
+                      },
+                      {
+                        "Sentence": "図（略）"
+                      },
+                      {
+                        "Sentence": "ぼたんいろ"
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": "図（略）"
+                      },
+                      {
+                        "Sentence": "紫"
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": null
+                      }
+                    ]
+                  },
+                  {
+                    "TableColumn": [
+                      {
+                        "Sentence": "蛇紋岩質岩石"
+                      },
+                      {
+                        "Sentence": "Ｓｐ"
+                      },
+                      {
+                        "Sentence": "図（略）"
+                      },
+                      {
+                        "Sentence": "ぼたんいろ"
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": "図（略）"
+                      },
+                      {
+                        "Sentence": "濃緑"
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": null
+                      }
+                    ]
+                  },
+                  {
+                    "TableColumn": [
+                      {
+                        "Sentence": "変成岩"
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": null
+                      }
+                    ]
+                  },
+                  {
+                    "TableColumn": [
+                      {
+                        "Sentence": "ホルンフェルス"
+                      },
+                      {
+                        "Sentence": "Ｈｒ"
+                      },
+                      {
+                        "Sentence": "図（略）"
+                      },
+                      {
+                        "Sentence": "とびいろ"
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": "図（略）"
+                      },
+                      {
+                        "Sentence": "茶"
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": null
+                      }
+                    ]
+                  },
+                  {
+                    "TableColumn": [
+                      {
+                        "Sentence": "緑色片岩"
+                      },
+                      {
+                        "Sentence": "Ｇｓ"
+                      },
+                      {
+                        "Sentence": "図（略）"
+                      },
+                      {
+                        "Sentence": "とびいろ"
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": "図（略）"
+                      },
+                      {
+                        "Sentence": "濃緑"
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": null
+                      }
+                    ]
+                  },
+                  {
+                    "TableColumn": [
+                      {
+                        "Sentence": "黒色片岩"
+                      },
+                      {
+                        "Sentence": "Ｂｓ"
+                      },
+                      {
+                        "Sentence": "図（略）"
+                      },
+                      {
+                        "Sentence": "とびいろ"
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": "図（略）"
+                      },
+                      {
+                        "Sentence": "黒"
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": null
+                      }
+                    ]
+                  },
+                  {
+                    "TableColumn": [
+                      {
+                        "Sentence": "その他の片岩"
+                      },
+                      {
+                        "Sentence": "Ｓｏ"
+                      },
+                      {
+                        "Sentence": "図（略）"
+                      },
+                      {
+                        "Sentence": "とびいろ"
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": "図（略）"
+                      },
+                      {
+                        "Sentence": "紫"
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": null
+                      }
+                    ]
+                  },
+                  {
+                    "TableColumn": [
+                      {
+                        "Sentence": "圧砕岩"
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": null
+                      }
+                    ]
+                  },
+                  {
+                    "TableColumn": [
+                      {
+                        "Sentence": "圧砕岩質岩石"
+                      },
+                      {
+                        "Sentence": "Ｍｇ"
+                      },
+                      {
+                        "Sentence": "図（略）"
+                      },
+                      {
+                        "Sentence": "とびいろ"
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": "図（略）"
+                      },
+                      {
+                        "Sentence": "だいだい"
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": null
+                      }
+                    ]
+                  },
+                  {
+                    "TableColumn": [
+                      {
+                        "Sentence": "岩石の種類の境界"
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": "図（略）"
+                      },
+                      {
+                        "Sentence": "黒０．１"
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": "図（略）"
+                      },
+                      {
+                        "Sentence": "黒０．１"
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": "断層線と重なる場合は表示しない。"
+                      }
+                    ]
+                  },
+                  {
+                    "TableColumn": [
+                      {
+                        "Sentence": "岩片のかたさ"
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": null
+                      }
+                    ]
+                  },
+                  {
+                    "TableColumn": [
+                      {
+                        "Sentence": "はなはだやわらかい"
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": "図（略）"
+                      },
+                      {
+                        "Sentence": "黒０．１"
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": "図（略）"
+                      },
+                      {
+                        "Sentence": "黒０．１"
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": null
+                      }
+                    ]
+                  },
+                  {
+                    "TableColumn": [
+                      {
+                        "Sentence": "やわらかい"
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": "図（略）"
+                      },
+                      {
+                        "Sentence": "黒０．１"
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": "図（略）"
+                      },
+                      {
+                        "Sentence": "黒０．１"
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": null
+                      }
+                    ]
+                  },
+                  {
+                    "TableColumn": [
+                      {
+                        "Sentence": "やややわらかい"
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": "図（略）"
+                      },
+                      {
+                        "Sentence": "黒０．１"
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": "図（略）"
+                      },
+                      {
+                        "Sentence": "黒０．１"
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": null
+                      }
+                    ]
+                  },
+                  {
+                    "TableColumn": [
+                      {
+                        "Sentence": "ややかたい"
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": "図（略）"
+                      },
+                      {
+                        "Sentence": "黒０．１"
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": "図（略）"
+                      },
+                      {
+                        "Sentence": "黒０．１"
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": null
+                      }
+                    ]
+                  },
+                  {
+                    "TableColumn": [
+                      {
+                        "Sentence": "かたい"
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": "図（略）"
+                      },
+                      {
+                        "Sentence": "黒０．１"
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": "図（略）"
+                      },
+                      {
+                        "Sentence": "黒０．１"
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": null
+                      }
+                    ]
+                  },
+                  {
+                    "TableColumn": [
+                      {
+                        "Sentence": "はなはだかたい"
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": "図（略）"
+                      },
+                      {
+                        "Sentence": "黒０．１"
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": "図（略）"
+                      },
+                      {
+                        "Sentence": "黒０．１"
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": null
+                      }
+                    ]
+                  },
+                  {
+                    "TableColumn": [
+                      {
+                        "Sentence": "岩体のかたさ"
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": null
+                      }
+                    ]
+                  },
+                  {
+                    "TableColumn": [
+                      {
+                        "Sentence": "はなはだやわらかい"
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": "図（略）"
+                      },
+                      {
+                        "Sentence": "黒０．１"
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": "図（略）"
+                      },
+                      {
+                        "Sentence": "黒０．１"
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": null
+                      }
+                    ]
+                  },
+                  {
+                    "TableColumn": [
+                      {
+                        "Sentence": "やわらかい"
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": "図（略）"
+                      },
+                      {
+                        "Sentence": "黒０．１"
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": "図（略）"
+                      },
+                      {
+                        "Sentence": "黒０．１"
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": null
+                      }
+                    ]
+                  },
+                  {
+                    "TableColumn": [
+                      {
+                        "Sentence": "やややわらかい"
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": "図（略）"
+                      },
+                      {
+                        "Sentence": "黒０．１"
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": "図（略）"
+                      },
+                      {
+                        "Sentence": "黒０．１"
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": null
+                      }
+                    ]
+                  },
+                  {
+                    "TableColumn": [
+                      {
+                        "Sentence": "ややかたい"
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": "図（略）"
+                      },
+                      {
+                        "Sentence": "黒０．１"
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": "図（略）"
+                      },
+                      {
+                        "Sentence": "黒０．１"
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": null
+                      }
+                    ]
+                  },
+                  {
+                    "TableColumn": [
+                      {
+                        "Sentence": "かたい"
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": "図（略）"
+                      },
+                      {
+                        "Sentence": "黒０．１"
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": "図（略）"
+                      },
+                      {
+                        "Sentence": "黒０．１"
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": null
+                      }
+                    ]
+                  },
+                  {
+                    "TableColumn": [
+                      {
+                        "Sentence": "はなはだかたい"
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": "図（略）"
+                      },
+                      {
+                        "Sentence": "黒０．１"
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": "図（略）"
+                      },
+                      {
+                        "Sentence": "黒０．１"
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": null
+                      }
+                    ]
+                  },
+                  {
+                    "TableColumn": [
+                      {
+                        "Sentence": "岩石の層理、片理及び著しい流理"
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": "図（略）"
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": "図（略）"
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": null
+                      }
+                    ]
+                  },
+                  {
+                    "TableColumn": [
+                      {
+                        "Sentence": "走向及び傾斜"
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": "図（略）"
+                      },
+                      {
+                        "Sentence": "黒０．２"
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": "図（略）"
+                      },
+                      {
+                        "Sentence": "黒０．２"
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": null
+                      }
+                    ]
+                  },
+                  {
+                    "TableColumn": [
+                      {
+                        "Sentence": "岩石の割れ目及び節理"
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": "図（略）"
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": "図（略）"
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": null
+                      }
+                    ]
+                  },
+                  {
+                    "TableColumn": [
+                      {
+                        "Sentence": "岩石の孔隙及び空隙"
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": "図（略）"
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": "図（略）"
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": null
+                      }
+                    ]
+                  },
+                  {
+                    "TableColumn": [
+                      {
+                        "Sentence": "岩石の風化及び変質"
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": "実形を記入する。"
+                      }
+                    ]
+                  },
+                  {
+                    "TableColumn": [
+                      {
+                        "Sentence": "まさ"
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": "図（略）"
+                      },
+                      {
+                        "Sentence": "赤０．２"
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": "図（略）"
+                      },
+                      {
+                        "Sentence": "赤０．２"
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": "図（略）"
+                      }
+                    ]
+                  },
+                  {
+                    "TableColumn": [
+                      {
+                        "Sentence": "片朽安山岩"
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": "図（略）"
+                      },
+                      {
+                        "Sentence": "赤０．２"
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": "図（略）"
+                      },
+                      {
+                        "Sentence": "赤０．２"
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": "図（略）"
+                      }
+                    ]
+                  },
+                  {
+                    "TableColumn": [
+                      {
+                        "Sentence": "温泉変質帯及び余土"
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": "図（略）"
+                      },
+                      {
+                        "Sentence": "赤０．２"
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": "図（略）"
+                      },
+                      {
+                        "Sentence": "赤０．２"
+                      },
+                      {
+                        "Sentence": "図（略）"
+                      },
+                      {
+                        "Sentence": null
+                      }
+                    ]
+                  },
+                  {
+                    "TableColumn": [
+                      {
+                        "Sentence": "焼け"
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": "図（略）"
+                      },
+                      {
+                        "Sentence": "赤０．２"
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": "図（略）"
+                      },
+                      {
+                        "Sentence": "赤０．２"
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": null
+                      }
+                    ]
+                  },
+                  {
+                    "TableColumn": [
+                      {
+                        "@rowspan": "2",
+                        "Sentence": "破砕部及び破砕体"
+                      },
+                      {
+                        "@rowspan": "2",
+                        "Sentence": null
+                      },
+                      {
+                        "@rowspan": "2",
+                        "Sentence": "図（略）"
+                      },
+                      {
+                        "@rowspan": "2",
+                        "Sentence": "赤０．２"
+                      },
+                      {
+                        "@rowspan": "2",
+                        "Sentence": null
+                      },
+                      {
+                        "@rowspan": "2",
+                        "Sentence": "図（略）"
+                      },
+                      {
+                        "@rowspan": "2",
+                        "Sentence": "赤０．２"
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": "実形を記入する。"
+                      }
+                    ]
+                  },
+                  {
+                    "TableColumn": [
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": "図（略）"
+                      }
+                    ]
+                  },
+                  {
+                    "TableColumn": [
+                      {
+                        "Sentence": "断層"
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": null
+                      }
+                    ]
+                  },
+                  {
+                    "TableColumn": [
+                      {
+                        "Sentence": "調査したもの"
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": "図（略）"
+                      },
+                      {
+                        "Sentence": "黒０．４"
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": "図（略）"
+                      },
+                      {
+                        "Sentence": "黒０．４"
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": null
+                      }
+                    ]
+                  },
+                  {
+                    "TableColumn": [
+                      {
+                        "Sentence": "推定したもの"
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": "図（略）"
+                      },
+                      {
+                        "Sentence": "黒０．４"
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": "図（略）"
+                      },
+                      {
+                        "Sentence": "黒０．４"
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": null
+                      }
+                    ]
+                  },
+                  {
+                    "TableColumn": [
+                      {
+                        "Sentence": "褶曲軸"
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": null
+                      }
+                    ]
+                  },
+                  {
+                    "TableColumn": [
+                      {
+                        "Sentence": "背斜"
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": "図（略）"
+                      },
+                      {
+                        "Sentence": "赤０．３"
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": "図（略）"
+                      },
+                      {
+                        "Sentence": "赤０．２"
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": null
+                      }
+                    ]
+                  },
+                  {
+                    "TableColumn": [
+                      {
+                        "Sentence": "向斜"
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": "図（略）"
+                      },
+                      {
+                        "Sentence": "赤０．３"
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": "図（略）"
+                      },
+                      {
+                        "Sentence": "赤０．２"
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": null
+                      }
+                    ]
+                  },
+                  {
+                    "TableColumn": [
+                      {
+                        "Sentence": "火口"
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": "図（略）"
+                      },
+                      {
+                        "Sentence": "赤０．３"
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": "図（略）"
+                      },
+                      {
+                        "Sentence": "赤０．３"
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": "実形を記入する。"
+                      }
+                    ]
+                  },
+                  {
+                    "TableColumn": [
+                      {
+                        "Sentence": "地すべり及び崩壊"
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": "図（略）"
+                      },
+                      {
+                        "Sentence": "黒０．３"
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": "図（略）"
+                      },
+                      {
+                        "Sentence": "黒０．３"
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": "実形を記入する。"
+                      }
+                    ]
+                  },
+                  {
+                    "TableColumn": [
+                      {
+                        "Sentence": "時代"
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": null
+                      }
+                    ]
+                  },
+                  {
+                    "TableColumn": [
+                      {
+                        "Sentence": "古生代"
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": "Ｐ"
+                      },
+                      {
+                        "Sentence": "黒０．１"
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": "Ｐ"
+                      },
+                      {
+                        "Sentence": "黒０．１"
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "@rowspan": "6",
+                        "Sentence": "字体はゴシックとし、字高は２．０とする。"
+                      }
+                    ]
+                  },
+                  {
+                    "TableColumn": [
+                      {
+                        "Sentence": "中生代"
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": "Ｍ"
+                      },
+                      {
+                        "Sentence": "黒０．１"
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": "Ｍ"
+                      },
+                      {
+                        "Sentence": "黒０．１"
+                      },
+                      {
+                        "Sentence": null
+                      }
+                    ]
+                  },
+                  {
+                    "TableColumn": [
+                      {
+                        "Sentence": "古第三紀"
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": "Ｔｐ"
+                      },
+                      {
+                        "Sentence": "黒０．１"
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": "Ｔｐ"
+                      },
+                      {
+                        "Sentence": "黒０．１"
+                      },
+                      {
+                        "Sentence": null
+                      }
+                    ]
+                  },
+                  {
+                    "TableColumn": [
+                      {
+                        "Sentence": "新第三紀"
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": "Ｔｎ"
+                      },
+                      {
+                        "Sentence": "黒０．１"
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": "Ｔｎ"
+                      },
+                      {
+                        "Sentence": "黒０．１"
+                      },
+                      {
+                        "Sentence": null
+                      }
+                    ]
+                  },
+                  {
+                    "TableColumn": [
+                      {
+                        "Sentence": "洪積世"
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": "Ｄ"
+                      },
+                      {
+                        "Sentence": "黒０．１"
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": "Ｄ"
+                      },
+                      {
+                        "Sentence": "黒０．１"
+                      },
+                      {
+                        "Sentence": null
+                      }
+                    ]
+                  },
+                  {
+                    "TableColumn": [
+                      {
+                        "Sentence": "沖積世"
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": "Ａ"
+                      },
+                      {
+                        "Sentence": "黒０．１"
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": "Ａ"
+                      },
+                      {
+                        "Sentence": "黒０．１"
+                      },
+                      {
+                        "Sentence": null
+                      }
+                    ]
+                  },
+                  {
+                    "TableColumn": [
+                      {
+                        "Sentence": "鉱山"
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": "図（略）"
+                      },
+                      {
+                        "Sentence": "黒０．１"
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": "図（略）"
+                      },
+                      {
+                        "Sentence": "黒０．１"
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": "鉱山の記号の下又は右に１．０を離して、字高０．２で主要な鉱種を元素記号により表示する。石炭にあつては、Ｃｏａｌと表示する。"
+                      }
+                    ]
+                  },
+                  {
+                    "TableColumn": [
+                      {
+                        "Sentence": "採石場"
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": "図（略）"
+                      },
+                      {
+                        "Sentence": "黒０．１"
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": "図（略）"
+                      },
+                      {
+                        "Sentence": "黒０．１"
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": null
+                      }
+                    ]
+                  },
+                  {
+                    "TableColumn": [
+                      {
+                        "Sentence": "石油"
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": "図（略）"
+                      },
+                      {
+                        "Sentence": "黒０．１"
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": "図（略）"
+                      },
+                      {
+                        "Sentence": "黒０．１"
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": null
+                      }
+                    ]
+                  },
+                  {
+                    "TableColumn": [
+                      {
+                        "Sentence": "天然ガス"
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": "図（略）"
+                      },
+                      {
+                        "Sentence": "黒０．１"
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": "図（略）"
+                      },
+                      {
+                        "Sentence": "黒０．１"
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": null
+                      }
+                    ]
+                  },
+                  {
+                    "TableColumn": [
+                      {
+                        "Sentence": "温泉"
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": "図（略）"
+                      },
+                      {
+                        "Sentence": "黒０．１"
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": "図（略）"
+                      },
+                      {
+                        "Sentence": "黒０．１"
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": null
+                      }
+                    ]
+                  },
+                  {
+                    "TableColumn": [
+                      {
+                        "Sentence": "硫気孔"
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": "図（略）"
+                      },
+                      {
+                        "Sentence": "黒０．１"
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": "図（略）"
+                      },
+                      {
+                        "Sentence": "黒０．１"
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": null
+                      }
+                    ]
+                  },
+                  {
+                    "TableColumn": [
+                      {
+                        "Sentence": "鉱泉"
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": "図（略）"
+                      },
+                      {
+                        "Sentence": "黒０．１"
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": "図（略）"
+                      },
+                      {
+                        "Sentence": "黒０．１"
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": null
+                      }
+                    ]
+                  },
+                  {
+                    "TableColumn": [
+                      {
+                        "Sentence": "表層地質図に表示する地質断面図の断面方向及び位置を表示する線"
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": "黒０．１"
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": "黒０．１"
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": "断面方向を表示する線の両端には、Ａ、Ｂ、Ｃ…等の記号を表示する。この場合のＡ、Ｂ、Ｃ等の記号の大きさは２．０とする。"
+                      }
+                    ]
+                  },
+                  {
+                    "TableColumn": [
+                      {
+                        "Sentence": "表層地質図に表示する柱状断面図の位置"
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": "図（略）"
+                      },
+                      {
+                        "Sentence": "赤０．１"
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": "図（略）"
+                      },
+                      {
+                        "Sentence": "赤０．１"
+                      },
+                      {
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": "直径２．０の円内に、１、２、３…等の数字を表示して表示する。円の中心点を地図上の位置に一致させる。"
+                      }
+                    ]
+                  }
+                ]
+              },
+              "Remarks": {
+                "RemarksLabel": "備考",
+                "Item": [
+                  {
+                    "@Num": "1",
+                    "ItemTitle": "１",
+                    "ItemSentence": {
+                      "Sentence": "記号の欄及び記号の表示の方法又は図例の欄における０．１、１．０等の数字は、それぞれ０．１ミリメートル、１．０ミリメートル等を表示する。"
+                    }
+                  },
+                  {
+                    "@Num": "2",
+                    "ItemTitle": "２",
+                    "ItemSentence": {
+                      "Sentence": "現場作業及び整理作業における記号の形状及び大きさ並びに線幅は、誤解を生じない範囲内において多少変更することができる。"
+                    }
+                  },
+                  {
+                    "@Num": "3",
+                    "ItemTitle": "３",
+                    "ItemSentence": {
+                      "Sentence": "形状及び大きさの欄に記号寸法が表示していないものについては、表示された寸法の形状及び大きさのとおりに表示する。"
+                    }
+                  },
+                  {
+                    "@Num": "4",
+                    "ItemTitle": "４",
+                    "ItemSentence": {
+                      "Sentence": "記号のうち、水平線を含むものは当該水平線を図郭の下辺に平行に、斜線を含むものは当該斜線を図郭の下辺に４５度を保つように表示する。"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "TableStructTitle": "第２部　整飾",
+              "Table": {
+                "TableRow": [
+                  {
+                    "TableColumn": [
+                      {
+                        "@colspan": "2",
+                        "Sentence": "区分"
+                      },
+                      {
+                        "Sentence": "表示の方法"
+                      },
+                      {
+                        "Sentence": "備考"
+                      }
+                    ]
+                  },
+                  {
+                    "TableColumn": [
+                      {
+                        "@colspan": "2",
+                        "Sentence": "色"
+                      },
+                      {
+                        "Sentence": "黒色又はその他の色"
+                      },
+                      {
+                        "Sentence": "印刷する場合は薄ねずみ色"
+                      }
+                    ]
+                  },
+                  {
+                    "TableColumn": [
+                      {
+                        "@colspan": "2",
+                        "Sentence": "表題"
+                      },
+                      {
+                        "Sentence": "表層地質図と表示する。"
+                      },
+                      {
+                        "Sentence": null
+                      }
+                    ]
+                  },
+                  {
+                    "TableColumn": [
+                      {
+                        "@rowspan": "4",
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": "書体"
+                      },
+                      {
+                        "Sentence": "直立等線体左横書"
+                      },
+                      {
+                        "Sentence": null
+                      }
+                    ]
+                  },
+                  {
+                    "TableColumn": [
+                      {
+                        "Sentence": "字大"
+                      },
+                      {
+                        "Sentence": "５ミリメートル"
+                      },
+                      {
+                        "Sentence": null
+                      }
+                    ]
+                  },
+                  {
+                    "TableColumn": [
+                      {
+                        "Sentence": "字隔"
+                      },
+                      {
+                        "Sentence": "２ミリメートル"
+                      },
+                      {
+                        "Sentence": null
+                      }
+                    ]
+                  },
+                  {
+                    "TableColumn": [
+                      {
+                        "Sentence": "位置"
+                      },
+                      {
+                        "Sentence": "図名の２ミリメートル上部"
+                      },
+                      {
+                        "Sentence": null
+                      }
+                    ]
+                  },
+                  {
+                    "TableColumn": [
+                      {
+                        "@colspan": "2",
+                        "Sentence": "図名"
+                      },
+                      {
+                        "Sentence": "基図のままとする。"
+                      },
+                      {
+                        "Sentence": "印刷する場合は、左横書"
+                      }
+                    ]
+                  },
+                  {
+                    "TableColumn": {
+                      "@colspan": "4",
+                      "Sentence": "調査年月"
+                    }
+                  },
+                  {
+                    "TableColumn": [
+                      {
+                        "@rowspan": "4",
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": "書体"
+                      },
+                      {
+                        "@rowspan": "3",
+                        "Sentence": "基図の調査年月のものと同じ様式とする。"
+                      },
+                      {
+                        "@rowspan": "3",
+                        "Sentence": null
+                      }
+                    ]
+                  },
+                  {
+                    "TableColumn": {
+                      "Sentence": "字大"
+                    }
+                  },
+                  {
+                    "TableColumn": {
+                      "Sentence": "字隔"
+                    }
+                  },
+                  {
+                    "TableColumn": [
+                      {
+                        "Sentence": "位置"
+                      },
+                      {
+                        "Sentence": "基図の測図の年を記入してある行から左側へ２．５ミリメートル離して記入する。"
+                      },
+                      {
+                        "Sentence": null
+                      }
+                    ]
+                  },
+                  {
+                    "TableColumn": {
+                      "@colspan": "4",
+                      "Sentence": "作成機関名"
+                    }
+                  },
+                  {
+                    "TableColumn": [
+                      {
+                        "@rowspan": "4",
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": "書体"
+                      },
+                      {
+                        "@rowspan": "3",
+                        "Sentence": "基図の調査年月のものと同じ様式とする。"
+                      },
+                      {
+                        "@rowspan": "3",
+                        "Sentence": null
+                      }
+                    ]
+                  },
+                  {
+                    "TableColumn": {
+                      "Sentence": "字大"
+                    }
+                  },
+                  {
+                    "TableColumn": {
+                      "Sentence": "字隔"
+                    }
+                  },
+                  {
+                    "TableColumn": [
+                      {
+                        "Sentence": "位置"
+                      },
+                      {
+                        "Sentence": "基図の国土地理院の行の左側へ記入する。"
+                      },
+                      {
+                        "Sentence": null
+                      }
+                    ]
+                  },
+                  {
+                    "TableColumn": {
+                      "@colspan": "4",
+                      "Sentence": "作成者氏名"
+                    }
+                  },
+                  {
+                    "TableColumn": [
+                      {
+                        "@rowspan": "4",
+                        "Sentence": null
+                      },
+                      {
+                        "Sentence": "書体"
+                      },
+                      {
+                        "@rowspan": "3",
+                        "Sentence": "基図の国土地理院のものと同じ様式とし、左横書とする。"
+                      },
+                      {
+                        "@rowspan": "3",
+                        "Sentence": null
+                      }
+                    ]
+                  },
+                  {
+                    "TableColumn": {
+                      "Sentence": "字大"
+                    }
+                  },
+                  {
+                    "TableColumn": {
+                      "Sentence": "字隔"
+                    }
+                  },
+                  {
+                    "TableColumn": [
+                      {
+                        "Sentence": "位置"
+                      },
+                      {
+                        "Sentence": "図郭の下辺の左側から右へ１センチメートル、下辺から５ミリメートル離して記入する。"
+                      },
+                      {
+                        "Sentence": null
+                      }
+                    ]
+                  },
+                  {
+                    "TableColumn": [
+                      {
+                        "@colspan": "2",
+                        "Sentence": "記号及びその説明"
+                      },
+                      {
+                        "Sentence": "記載しない。"
+                      },
+                      {
+                        "Sentence": "印刷する場合は、基図に記載している記号の場所と同一の場所に記載する。（基図に記載されているものを除く。）"
+                      }
+                    ]
+                  },
+                  {
+                    "TableColumn": [
+                      {
+                        "@colspan": "2",
+                        "Sentence": "地質断面図の位置"
+                      },
+                      {
+                        "Sentence": "下辺の図郭外に記載する。"
+                      },
+                      {
+                        "Sentence": null
+                      }
+                    ]
+                  },
+                  {
+                    "TableColumn": [
+                      {
+                        "@colspan": "2",
+                        "Sentence": "柱状断面図の位置"
+                      },
+                      {
+                        "Sentence": "右辺の図郭外に記載する。"
+                      },
+                      {
+                        "Sentence": null
+                      }
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "AppdxTableTitle": "別表第三",
+          "TableStruct": {
+            "Table": {
+              "TableRow": [
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "記載すべき事項"
+                    },
+                    {
+                      "Sentence": "記載すべき内容"
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "一　位置"
+                    },
+                    {
+                      "Sentence": "行政区分及び地理的位置"
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "二　地形及び気象"
+                    },
+                    {
+                      "Sentence": "地質と関係の深い地形及び地質に影響を与える気象の特徴"
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "三　地質概説"
+                    },
+                    {
+                      "Sentence": "地質の概要及び特徴"
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "四　地質各論"
+                    },
+                    {
+                      "Sentence": "岩石の区分に従つて各岩体の物理的、化学的及び地質学的性質並びに各岩体相互の関係"
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "五　応用地質"
+                    },
+                    {
+                      "Sentence": "地すべり、山くずれ等の現況及び記録並びに鉱床、温泉、石材、地下水等の性質及びその利用状況"
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "六　資料及び統計書名"
+                    },
+                    {
+                      "Sentence": null
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "七　要約"
+                    },
+                    {
+                      "Sentence": null
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        }
+      ]
+    }
+  }
+}

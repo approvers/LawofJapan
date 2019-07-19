@@ -1,0 +1,65 @@
+{
+  "Law": {
+    "@Era": "Showa",
+    "@Lang": "ja",
+    "@LawType": "MinisterialOrdinance",
+    "@Num": "131",
+    "@Year": "27",
+    "LawNum": "昭和二十七年大蔵省令第百三十一号",
+    "LawBody": {
+      "LawTitle": "日本銀行の本邦外における外貨債の特別取扱に関する省令",
+      "EnactStatement": "国債に関する法律（明治三十九年法律第三十四号）第一条の規定に基き、日本銀行の本邦外における外貨債の特別取扱に関する省令を次のように定める。",
+      "MainProvision": {
+        "Paragraph": [
+          {
+            "@Num": "1",
+            "ParagraphNum": "１",
+            "ParagraphSentence": {
+              "Sentence": "日本銀行は、本邦外において元金償還及び利子支払を要する外貨債に関する事務については、財務大臣の指示するところにより、財務代理人に取り扱わせるものとする。"
+            }
+          },
+          {
+            "@Num": "2",
+            "ParagraphNum": "２",
+            "ParagraphSentence": {
+              "Sentence": [
+                {
+                  "@Num": "1",
+                  "#text": "日本銀行は、前項の財務代理人と財務代理契約を締結しようとするときは、あらかじめ、当該財務代理契約の内容について財務大臣の認可を受けなければならない。"
+                },
+                {
+                  "@Num": "2",
+                  "#text": "財務代理人を廃止若しくは変更し、又は財務代理契約の内容を変更しようとするときも、また同様とする。"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "SupplProvision": [
+        {
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この省令は、公布の日から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成一二年八月二一日大蔵省令第六九号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": "１",
+            "ParagraphSentence": {
+              "Sentence": "この省令は、平成十三年一月六日から施行する。"
+            }
+          }
+        }
+      ]
+    }
+  }
+}

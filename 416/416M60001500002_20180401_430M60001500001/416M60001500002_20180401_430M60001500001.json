@@ -1,0 +1,762 @@
+{
+  "Law": {
+    "@Era": "Heisei",
+    "@Lang": "ja",
+    "@LawType": "MinisterialOrdinance",
+    "@Num": "002",
+    "@Year": "16",
+    "LawNum": "平成十六年厚生労働省・経済産業省・環境省令第二号",
+    "LawBody": {
+      "LawTitle": "有害性情報の報告に関する省令",
+      "EnactStatement": "化学物質の審査及び製造等の規制に関する法律（昭和四十八年法律第百十七号）第三十一条の二第一項の規定に基づき、有害性情報の報告に関する省令を次のように定める。",
+      "MainProvision": {
+        "Article": [
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "1",
+            "ArticleCaption": "（報告を要する知見の範囲）",
+            "ArticleTitle": "第一条",
+            "Paragraph": {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "化学物質の審査及び製造等の規制に関する法律（以下「法」という。）第四十一条第一項（同条第二項において準用する場合を含む。次条において同じ。）各号に規定する性状を有することを示す知見として厚生労働省令、経済産業省令及び環境省令で定めるものは、次の各号に掲げる性状につき、当該各号に掲げる知見とする。"
+                }
+              },
+              "Item": [
+                {
+                  "@Delete": "false",
+                  "@Hide": "false",
+                  "@Num": "1",
+                  "ItemTitle": "一",
+                  "ItemSentence": {
+                    "Column": [
+                      {
+                        "@LineBreak": "false",
+                        "@Num": "1",
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "自然的作用による化学的変化を生じにくいものであること"
+                        }
+                      },
+                      {
+                        "@LineBreak": "false",
+                        "@Num": "2",
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "微生物等による化学物質の分解度試験において、易分解性でないもの"
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "@Delete": "false",
+                  "@Hide": "false",
+                  "@Num": "2",
+                  "ItemTitle": "二",
+                  "ItemSentence": {
+                    "Column": [
+                      {
+                        "@LineBreak": "false",
+                        "@Num": "1",
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "生物の体内に蓄積されやすいものであること"
+                        }
+                      },
+                      {
+                        "@LineBreak": "false",
+                        "@Num": "2",
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "イ又はロに該当するもの"
+                        }
+                      }
+                    ]
+                  },
+                  "Subitem1": [
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "1",
+                      "Subitem1Title": "イ",
+                      "Subitem1Sentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "魚介類の体内における化学物質の濃縮度試験において、生物濃縮係数が一〇〇〇以上又は経口生物濃縮係数が〇・〇〇七以上であるもの"
+                        }
+                      }
+                    },
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "2",
+                      "Subitem1Title": "ロ",
+                      "Subitem1Sentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "一―オクタノールと水との間の分配係数測定試験において、分配係数の対数が三・五以上であるもの"
+                        }
+                      }
+                    }
+                  ]
+                },
+                {
+                  "@Delete": "false",
+                  "@Hide": "false",
+                  "@Num": "3",
+                  "ItemTitle": "三",
+                  "ItemSentence": {
+                    "Column": [
+                      {
+                        "@LineBreak": "false",
+                        "@Num": "1",
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "継続的に摂取される場合には、人の健康を損なうおそれがあるものであること"
+                        }
+                      },
+                      {
+                        "@LineBreak": "false",
+                        "@Num": "2",
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "慢性毒性試験、生殖能及び後世代に及ぼす影響に関する試験、催奇形性試験、変異原性試験、がん原性試験、生体内運命に関する試験、薬理学的試験又は反復投与毒性試験において、死亡、がん、長期にわたる障害、生殖能又は後世代の発生に及ぼす影響その他これらに準じて毒性学的に重要な影響がみられたもの"
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "@Delete": "false",
+                  "@Hide": "false",
+                  "@Num": "4",
+                  "ItemTitle": "四",
+                  "ItemSentence": {
+                    "Column": [
+                      {
+                        "@LineBreak": "false",
+                        "@Num": "1",
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "動植物の生息又は生育に支障を及ぼすおそれがあるものであること"
+                        }
+                      },
+                      {
+                        "@LineBreak": "false",
+                        "@Num": "2",
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "イからチまでのいずれかに該当するもの"
+                        }
+                      }
+                    ]
+                  },
+                  "Subitem1": [
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "1",
+                      "Subitem1Title": "イ",
+                      "Subitem1Sentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "ほ乳類の生殖能及び後世代に及ぼす影響に関する試験において、死亡、生殖能又は後世代の発生に及ぼす影響その他これらに準じて毒性学的に重要な影響がみられたもの"
+                        }
+                      }
+                    },
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "2",
+                      "Subitem1Title": "ロ",
+                      "Subitem1Sentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "鳥類の繁殖に及ぼす影響に関する試験において、死亡、産卵数の低下、ふ化率の低下その他これらに準じて毒性学的に重要な影響がみられたもの"
+                        }
+                      }
+                    },
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "3",
+                      "Subitem1Title": "ハ",
+                      "Subitem1Sentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "藻類生長阻害試験において、半数影響濃度が一〇ｍｇ／ｌ以下であるもの、無影響濃度が一ｍｇ／ｌ以下であるものその他毒性学的に重要な影響がみられたもの"
+                        }
+                      }
+                    },
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "4",
+                      "Subitem1Title": "ニ",
+                      "Subitem1Sentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "ミジンコ急性遊泳阻害試験において、半数影響濃度が一〇ｍｇ／ｌ以下であるものその他毒性学的に重要な影響がみられたもの"
+                        }
+                      }
+                    },
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "5",
+                      "Subitem1Title": "ホ",
+                      "Subitem1Sentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "魚類急性毒性試験において、半数致死濃度が一〇ｍｇ／ｌ以下であるものその他毒性学的に重要な影響がみられたもの"
+                        }
+                      }
+                    },
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "6",
+                      "Subitem1Title": "ヘ",
+                      "Subitem1Sentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "ミジンコの繁殖に及ぼす影響に関する試験において、無影響濃度が一ｍｇ／ｌ以下であるものその他毒性学的に重要な影響がみられたもの"
+                        }
+                      }
+                    },
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "7",
+                      "Subitem1Title": "ト",
+                      "Subitem1Sentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "魚類の初期生活段階における生息又は生育に及ぼす影響に関する試験において、無影響濃度が一ｍｇ／ｌ以下であるものその他毒性学的に重要な影響がみられたもの"
+                        }
+                      }
+                    },
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "8",
+                      "Subitem1Title": "チ",
+                      "Subitem1Sentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "ユスリカの生息又は生育に及ぼす影響に関する試験において、死亡、羽化率の低下その他これらに準じて毒性学的に重要な影響がみられたもの"
+                        }
+                      }
+                    }
+                  ]
+                },
+                {
+                  "@Delete": "false",
+                  "@Hide": "false",
+                  "@Num": "5",
+                  "ItemTitle": "五",
+                  "ItemSentence": {
+                    "Column": [
+                      {
+                        "@LineBreak": "false",
+                        "@Num": "1",
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "報告対象物質が自然的作用による化学的変化を生じやすいものである場合における、自然的作用による化学的変化により生成する化学物質（元素を含む。）が前各号のいずれかに該当するものであること"
+                        }
+                      },
+                      {
+                        "@LineBreak": "false",
+                        "@Num": "2",
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "前各号に掲げる知見"
+                        }
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "2",
+            "ArticleCaption": "（報告を要する知見に係る報告書の提出）",
+            "ArticleTitle": "第二条",
+            "Paragraph": {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "報告対象物質の製造又は輸入の事業を営む者は、その製造し、又は輸入した報告対象物質について、前条に規定する知見が得られたときは、法第四十一条第一項の規定に基づき、当該知見を得た日から六十日以内に別記様式第一による報告書を、厚生労働大臣、経済産業大臣及び環境大臣に提出しなければならない。"
+                }
+              }
+            }
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "3",
+            "ArticleCaption": "（報告を行う組成、性状等）",
+            "ArticleTitle": "第三条",
+            "Paragraph": {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "法第四十一条第三項に規定する組成、性状等に関する知見として厚生労働省令、経済産業省令及び環境省令で定めるものは、次の各号に掲げる知見とする。"
+                }
+              },
+              "Item": [
+                {
+                  "@Delete": "false",
+                  "@Hide": "false",
+                  "@Num": "1",
+                  "ItemTitle": "一",
+                  "ItemSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "融点"
+                    }
+                  }
+                },
+                {
+                  "@Delete": "false",
+                  "@Hide": "false",
+                  "@Num": "2",
+                  "ItemTitle": "二",
+                  "ItemSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "沸点"
+                    }
+                  }
+                },
+                {
+                  "@Delete": "false",
+                  "@Hide": "false",
+                  "@Num": "3",
+                  "ItemTitle": "三",
+                  "ItemSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "蒸気圧"
+                    }
+                  }
+                },
+                {
+                  "@Delete": "false",
+                  "@Hide": "false",
+                  "@Num": "4",
+                  "ItemTitle": "四",
+                  "ItemSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "一―オクタノールと水との間の分配係数"
+                    }
+                  }
+                },
+                {
+                  "@Delete": "false",
+                  "@Hide": "false",
+                  "@Num": "5",
+                  "ItemTitle": "五",
+                  "ItemSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "水に対する溶解度"
+                    }
+                  }
+                },
+                {
+                  "@Delete": "false",
+                  "@Hide": "false",
+                  "@Num": "6",
+                  "ItemTitle": "六",
+                  "ItemSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "解離定数"
+                    }
+                  }
+                },
+                {
+                  "@Delete": "false",
+                  "@Hide": "false",
+                  "@Num": "7",
+                  "ItemTitle": "七",
+                  "ItemSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "光分解性"
+                    }
+                  }
+                },
+                {
+                  "@Delete": "false",
+                  "@Hide": "false",
+                  "@Num": "8",
+                  "ItemTitle": "八",
+                  "ItemSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "加水分解性"
+                    }
+                  }
+                },
+                {
+                  "@Delete": "false",
+                  "@Hide": "false",
+                  "@Num": "9",
+                  "ItemTitle": "九",
+                  "ItemSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "大気、水域、底質又は土壌に係る分配係数"
+                    }
+                  }
+                },
+                {
+                  "@Delete": "false",
+                  "@Hide": "false",
+                  "@Num": "10",
+                  "ItemTitle": "十",
+                  "ItemSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "生分解性"
+                    }
+                  }
+                },
+                {
+                  "@Delete": "false",
+                  "@Hide": "false",
+                  "@Num": "11",
+                  "ItemTitle": "十一",
+                  "ItemSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "生物濃縮性"
+                    }
+                  }
+                },
+                {
+                  "@Delete": "false",
+                  "@Hide": "false",
+                  "@Num": "12",
+                  "ItemTitle": "十二",
+                  "ItemSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "魚類に対する急性毒性又は慢性毒性"
+                    }
+                  }
+                },
+                {
+                  "@Delete": "false",
+                  "@Hide": "false",
+                  "@Num": "13",
+                  "ItemTitle": "十三",
+                  "ItemSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "水生の無脊椎動物に対する急性毒性又は慢性毒性"
+                    }
+                  }
+                },
+                {
+                  "@Delete": "false",
+                  "@Hide": "false",
+                  "@Num": "14",
+                  "ItemTitle": "十四",
+                  "ItemSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "水生の植物に対する毒性"
+                    }
+                  }
+                },
+                {
+                  "@Delete": "false",
+                  "@Hide": "false",
+                  "@Num": "15",
+                  "ItemTitle": "十五",
+                  "ItemSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "鳥類の繁殖に及ぼす影響"
+                    }
+                  }
+                },
+                {
+                  "@Delete": "false",
+                  "@Hide": "false",
+                  "@Num": "16",
+                  "ItemTitle": "十六",
+                  "ItemSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "底生生物に対する毒性"
+                    }
+                  }
+                },
+                {
+                  "@Delete": "false",
+                  "@Hide": "false",
+                  "@Num": "17",
+                  "ItemTitle": "十七",
+                  "ItemSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "生体内運命（継続的に摂取される場合には人の健康を損なうおそれがあるものに係る知見に限る。次号から第二十四号までにおいて同じ。）"
+                    }
+                  }
+                },
+                {
+                  "@Delete": "false",
+                  "@Hide": "false",
+                  "@Num": "18",
+                  "ItemTitle": "十八",
+                  "ItemSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "薬理学的特性"
+                    }
+                  }
+                },
+                {
+                  "@Delete": "false",
+                  "@Hide": "false",
+                  "@Num": "19",
+                  "ItemTitle": "十九",
+                  "ItemSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "反復投与による毒性"
+                    }
+                  }
+                },
+                {
+                  "@Delete": "false",
+                  "@Hide": "false",
+                  "@Num": "20",
+                  "ItemTitle": "二十",
+                  "ItemSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "慢性毒性"
+                    }
+                  }
+                },
+                {
+                  "@Delete": "false",
+                  "@Hide": "false",
+                  "@Num": "21",
+                  "ItemTitle": "二十一",
+                  "ItemSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "変異原性"
+                    }
+                  }
+                },
+                {
+                  "@Delete": "false",
+                  "@Hide": "false",
+                  "@Num": "22",
+                  "ItemTitle": "二十二",
+                  "ItemSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "がん原性"
+                    }
+                  }
+                },
+                {
+                  "@Delete": "false",
+                  "@Hide": "false",
+                  "@Num": "23",
+                  "ItemTitle": "二十三",
+                  "ItemSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "催奇形性"
+                    }
+                  }
+                },
+                {
+                  "@Delete": "false",
+                  "@Hide": "false",
+                  "@Num": "24",
+                  "ItemTitle": "二十四",
+                  "ItemSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "生殖能及び後世代に及ぼす影響"
+                    }
+                  }
+                },
+                {
+                  "@Delete": "false",
+                  "@Hide": "false",
+                  "@Num": "25",
+                  "ItemTitle": "二十五",
+                  "ItemSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "その他毒性学的に重要な影響"
+                    }
+                  }
+                },
+                {
+                  "@Delete": "false",
+                  "@Hide": "false",
+                  "@Num": "26",
+                  "ItemTitle": "二十六",
+                  "ItemSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "優先評価化学物質、監視化学物質又は第二種特定化学物質が自然的作用による化学的変化を生じやすいものである場合における、自然的作用による化学的変化により生成する化学物質（元素を含む。）に関する前各号のいずれかに掲げる知見"
+                    }
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "4",
+            "ArticleCaption": "（報告を行う組成、性状等に係る報告書の提出）",
+            "ArticleTitle": "第四条",
+            "Paragraph": {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "優先評価化学物質、監視化学物質又は第二種特定化学物質の製造又は輸入の事業を営む者は、その製造し、又は輸入した優先評価化学物質、監視化学物質又は第二種特定化学物質について、前条に規定する知見を有しているときは、法第四十一条第三項の規定に基づき、遅滞なく、別記様式第二による報告書を、厚生労働大臣、経済産業大臣及び環境大臣に提出するものとする。"
+                }
+              }
+            }
+          }
+        ]
+      },
+      "SupplProvision": [
+        {
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この省令は、平成十六年四月一日から施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成一七年四月一日厚生労働省・経済産業省・環境省令第四号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この省令は、公布の日から施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成二一年一二月二八日厚生労働省・経済産業省・環境省令第二号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": [
+                {
+                  "@Function": "main",
+                  "@Num": "1",
+                  "@WritingMode": "vertical",
+                  "#text": "この省令は、平成二十二年四月一日から施行する。"
+                },
+                {
+                  "@Function": "proviso",
+                  "@Num": "2",
+                  "@WritingMode": "vertical",
+                  "#text": "ただし、第二条の規定は、平成二十三年四月一日から施行する。"
+                }
+              ]
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成三〇年三月一二日厚生労働省・経済産業省・環境省令第一号",
+          "@Type": "Amend",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この省令は、平成三十年四月一日から施行する。"
+              }
+            }
+          }
+        }
+      ],
+      "AppdxStyle": [
+        {
+          "AppdxStyleTitle": {
+            "@WritingMode": "vertical",
+            "#text": "様式第一"
+          },
+          "RelatedArticleNum": "（第二条関係）",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/H16F19003005002-001.pdf"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": {
+            "@WritingMode": "vertical",
+            "#text": "様式第二"
+          },
+          "RelatedArticleNum": "（第四条関係）",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/H16F19003005002-002.pdf"
+              }
+            }
+          }
+        }
+      ]
+    }
+  }
+}

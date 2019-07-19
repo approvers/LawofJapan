@@ -1,0 +1,987 @@
+{
+  "Law": {
+    "@Era": "Showa",
+    "@Lang": "ja",
+    "@LawType": "MinisterialOrdinance",
+    "@Num": "42",
+    "@Year": "28",
+    "LawNum": "昭和二十八年運輸省令第四十二号",
+    "LawBody": {
+      "LawTitle": "臨時船舶建造調整法施行規則",
+      "EnactStatement": "臨時船舶建造調整法第四条及び臨時船舶建造調整法施行令第二条の規定に基き、並びに同法を実施するため、臨時船舶建造調整法施行規則を次のように定める。",
+      "MainProvision": {
+        "Article": [
+          {
+            "@Num": "1",
+            "ArticleCaption": "（建造の許可を要しない船舶）",
+            "ArticleTitle": "第一条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "臨時船舶建造調整法施行令（昭和二十八年政令第百八十八号。以下「令」という。）第一条の国土交通省令で定める船舶は、次に掲げる船舶とする。"
+              },
+              "Item": [
+                {
+                  "@Num": "1",
+                  "ItemTitle": "一",
+                  "ItemSentence": {
+                    "Sentence": "国からの注文に係る船舶"
+                  }
+                },
+                {
+                  "@Num": "2",
+                  "ItemTitle": "二",
+                  "ItemSentence": {
+                    "Sentence": "令第一条第一号に掲げる船舶であつて貨客船以外のもの"
+                  }
+                },
+                {
+                  "@Num": "3",
+                  "ItemTitle": "三",
+                  "ItemSentence": {
+                    "Sentence": "パイプ敷設船"
+                  }
+                },
+                {
+                  "@Num": "4",
+                  "ItemTitle": "四",
+                  "ItemSentence": {
+                    "Sentence": "しゆんせつ船"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "@Num": "2",
+            "ArticleCaption": "（建造の許可の申請）",
+            "ArticleTitle": "第二条",
+            "Paragraph": [
+              {
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": "造船事業者は、臨時船舶建造調整法（昭和二十八年法律第百四十九号。以下「法」という。）第二条の規定により建造（同条に定める改造を除く。）の許可を受けようとするときは、次に掲げる事項を記載した申請書を提出するものとする。"
+                },
+                "Item": [
+                  {
+                    "@Num": "1",
+                    "ItemTitle": "一",
+                    "ItemSentence": {
+                      "Sentence": "氏名又は名称及び住所"
+                    }
+                  },
+                  {
+                    "@Num": "2",
+                    "ItemTitle": "二",
+                    "ItemSentence": {
+                      "Sentence": "船舶の計画要目"
+                    },
+                    "Subitem1": [
+                      {
+                        "@Num": "1",
+                        "Subitem1Title": "(一)",
+                        "Subitem1Sentence": {
+                          "Sentence": "用途"
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "Subitem1Title": "(二)",
+                        "Subitem1Sentence": {
+                          "Sentence": "総トン数"
+                        }
+                      },
+                      {
+                        "@Num": "3",
+                        "Subitem1Title": "(三)",
+                        "Subitem1Sentence": {
+                          "Sentence": "載荷重量トン数"
+                        }
+                      },
+                      {
+                        "@Num": "4",
+                        "Subitem1Title": "(四)",
+                        "Subitem1Sentence": {
+                          "Sentence": "主要寸法（長さ、幅及び深さ）"
+                        }
+                      },
+                      {
+                        "@Num": "5",
+                        "Subitem1Title": "(五)",
+                        "Subitem1Sentence": {
+                          "Sentence": "機関の種類、数及び連続最大出力"
+                        }
+                      },
+                      {
+                        "@Num": "6",
+                        "Subitem1Title": "(六)",
+                        "Subitem1Sentence": {
+                          "Sentence": "航海速力"
+                        }
+                      },
+                      {
+                        "@Num": "7",
+                        "Subitem1Title": "(七)",
+                        "Subitem1Sentence": {
+                          "Sentence": "航行区域"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Num": "3",
+                    "ItemTitle": "三",
+                    "ItemSentence": {
+                      "Sentence": "建造計画"
+                    },
+                    "Subitem1": [
+                      {
+                        "@Num": "1",
+                        "Subitem1Title": "(一)",
+                        "Subitem1Sentence": {
+                          "Sentence": "船体の製造工場名"
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "Subitem1Title": "(二)",
+                        "Subitem1Sentence": {
+                          "Sentence": "使用予定船台の番号"
+                        }
+                      },
+                      {
+                        "@Num": "3",
+                        "Subitem1Title": "(三)",
+                        "Subitem1Sentence": {
+                          "Sentence": "当該船舶の製造番号"
+                        }
+                      },
+                      {
+                        "@Num": "4",
+                        "Subitem1Title": "(四)",
+                        "Subitem1Sentence": {
+                          "Sentence": {
+                            "Ruby": [
+                              {
+                                "Rt": "ヽ",
+                                "#text": "し"
+                              },
+                              {
+                                "Rt": "ヽ",
+                                "#text": "ゆ"
+                              },
+                              {
+                                "Rt": "ヽ",
+                                "#text": "ん"
+                              }
+                            ],
+                            "#text": "起工、進水及び\n\n工の予定期日"
+                          }
+                        }
+                      },
+                      {
+                        "@Num": "5",
+                        "Subitem1Title": "(五)",
+                        "Subitem1Sentence": {
+                          "Sentence": "建造契約価格及びその内訳"
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "@Num": "2",
+                "ParagraphNum": "２",
+                "ParagraphSentence": {
+                  "Sentence": [
+                    {
+                      "@Function": "main",
+                      "@Num": "1",
+                      "#text": "前項の申請書には、次に掲げる図面及び書類を添付するものとする。"
+                    },
+                    {
+                      "@Function": "proviso",
+                      "@Num": "2",
+                      "#text": "ただし、外国からの注文に係る申請の場合で、第四号に掲げる書類を添付することが困難な場合には、当該書類の添付を省略することができる。"
+                    }
+                  ]
+                },
+                "Item": [
+                  {
+                    "@Num": "1",
+                    "ItemTitle": "一",
+                    "ItemSentence": {
+                      "Sentence": "一般配置図"
+                    }
+                  },
+                  {
+                    "@Num": "2",
+                    "ItemTitle": "二",
+                    "ItemSentence": {
+                      "Sentence": "製造仕様の概要を記載した書面"
+                    }
+                  },
+                  {
+                    "@Num": "3",
+                    "ItemTitle": "三",
+                    "ItemSentence": {
+                      "Sentence": "作業計画を記載した書面"
+                    }
+                  },
+                  {
+                    "@Num": "4",
+                    "ItemTitle": "四",
+                    "ItemSentence": {
+                      "Sentence": "注文者の当該船舶の使用計画を記載した書面"
+                    }
+                  },
+                  {
+                    "@Num": "5",
+                    "ItemTitle": "五",
+                    "ItemSentence": {
+                      "Sentence": "当該建造に係る契約書の写し"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "@Num": "3",
+            "ArticleCaption": "（改造の許可の申請）",
+            "ArticleTitle": "第三条",
+            "Paragraph": [
+              {
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": "造船事業者は、法第二条の規定により建造（同条に定める改造に限る。）の許可を受けようとするときは、次に掲げる事項を記載した申請書を提出するものとする。"
+                },
+                "Item": [
+                  {
+                    "@Num": "1",
+                    "ItemTitle": "一",
+                    "ItemSentence": {
+                      "Sentence": "氏名又は名称及び住所"
+                    }
+                  },
+                  {
+                    "@Num": "2",
+                    "ItemTitle": "二",
+                    "ItemSentence": {
+                      "Sentence": "改造しようとする船舶の船名及び船舶番号（日本船舶以外の船舶にあつては、国籍）"
+                    }
+                  },
+                  {
+                    "@Num": "3",
+                    "ItemTitle": "三",
+                    "ItemSentence": {
+                      "Sentence": "当該船舶の改造前における要目及び改造後における計画要目"
+                    },
+                    "Subitem1": [
+                      {
+                        "@Num": "1",
+                        "Subitem1Title": "(一)",
+                        "Subitem1Sentence": {
+                          "Sentence": "用途"
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "Subitem1Title": "(二)",
+                        "Subitem1Sentence": {
+                          "Sentence": "総トン数"
+                        }
+                      },
+                      {
+                        "@Num": "3",
+                        "Subitem1Title": "(三)",
+                        "Subitem1Sentence": {
+                          "Sentence": "載荷重量トン数"
+                        }
+                      },
+                      {
+                        "@Num": "4",
+                        "Subitem1Title": "(四)",
+                        "Subitem1Sentence": {
+                          "Sentence": "主要寸法（長さ、幅及び深さ）"
+                        }
+                      },
+                      {
+                        "@Num": "5",
+                        "Subitem1Title": "(五)",
+                        "Subitem1Sentence": {
+                          "Sentence": "機関の種類、数及び連続最大出力"
+                        }
+                      },
+                      {
+                        "@Num": "6",
+                        "Subitem1Title": "(六)",
+                        "Subitem1Sentence": {
+                          "Sentence": "航海速力"
+                        }
+                      },
+                      {
+                        "@Num": "7",
+                        "Subitem1Title": "(七)",
+                        "Subitem1Sentence": {
+                          "Sentence": "航海区域"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Num": "4",
+                    "ItemTitle": "四",
+                    "ItemSentence": {
+                      "Sentence": "改造計画"
+                    },
+                    "Subitem1": [
+                      {
+                        "@Num": "1",
+                        "Subitem1Title": "(一)",
+                        "Subitem1Sentence": {
+                          "Sentence": "改造後における船名"
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "Subitem1Title": "(二)",
+                        "Subitem1Sentence": {
+                          "Sentence": "改造工事を行う工場名"
+                        }
+                      },
+                      {
+                        "@Num": "3",
+                        "Subitem1Title": "(三)",
+                        "Subitem1Sentence": {
+                          "Sentence": "改造工事の着手及び完成の予定期日"
+                        }
+                      },
+                      {
+                        "@Num": "4",
+                        "Subitem1Title": "(四)",
+                        "Subitem1Sentence": {
+                          "Sentence": "改造工事の概要"
+                        }
+                      },
+                      {
+                        "@Num": "5",
+                        "Subitem1Title": "(五)",
+                        "Subitem1Sentence": {
+                          "Sentence": "改造契約価格及びその内訳"
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "@Num": "2",
+                "ParagraphNum": "２",
+                "ParagraphSentence": {
+                  "Sentence": [
+                    {
+                      "@Function": "main",
+                      "@Num": "1",
+                      "#text": "前項の申請書には、次に掲げる図面及び書類を添付するものとする。"
+                    },
+                    {
+                      "@Function": "proviso",
+                      "@Num": "2",
+                      "#text": "ただし、外国からの注文に係る申請の場合で、第二号に掲げる書類を添付することが困難な場合には、当該書類の添付を省略することができる。"
+                    }
+                  ]
+                },
+                "Item": [
+                  {
+                    "@Num": "1",
+                    "ItemTitle": "一",
+                    "ItemSentence": {
+                      "Sentence": "当該改造に係る設計図面"
+                    }
+                  },
+                  {
+                    "@Num": "2",
+                    "ItemTitle": "二",
+                    "ItemSentence": {
+                      "Sentence": "注文者の当該船舶の使用計画を記載した書面"
+                    }
+                  },
+                  {
+                    "@Num": "3",
+                    "ItemTitle": "三",
+                    "ItemSentence": {
+                      "Sentence": "当該改造に係る契約書の写し"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "@Num": "4",
+            "ArticleCaption": "（用途の別）",
+            "ArticleTitle": "第四条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "令第二条第一号の国土交通省令で定める用途の別は、次の通りとする。"
+              },
+              "Item": [
+                {
+                  "@Num": "1",
+                  "ItemTitle": "一",
+                  "ItemSentence": {
+                    "Sentence": "貨客船"
+                  }
+                },
+                {
+                  "@Num": "2",
+                  "ItemTitle": "二",
+                  "ItemSentence": {
+                    "Sentence": "貨物船"
+                  }
+                },
+                {
+                  "@Num": "3",
+                  "ItemTitle": "三",
+                  "ItemSentence": {
+                    "Sentence": "油槽船"
+                  }
+                },
+                {
+                  "@Num": "4",
+                  "ItemTitle": "四",
+                  "ItemSentence": {
+                    "Sentence": "特殊貨物船"
+                  }
+                },
+                {
+                  "@Num": "5",
+                  "ItemTitle": "五",
+                  "ItemSentence": {
+                    "Sentence": "母船式漁業における母船"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "@Num": "5",
+            "ArticleCaption": "（許可を受けなければならないトン数の変更）",
+            "ArticleTitle": "第五条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "令第二条但書の国土交通省令で定めるトン数は、総トン数又は載荷重量トン数について、それぞれその二十パーセントのトン数とする。"
+              }
+            }
+          },
+          {
+            "@Num": "6",
+            "ArticleCaption": "（変更の承認を受けなければならない許可事項）",
+            "ArticleTitle": "第六条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "法第四条の国土交通省令で定める事項は、次の事項とする。"
+              },
+              "Item": [
+                {
+                  "@Num": "1",
+                  "ItemTitle": "一",
+                  "ItemSentence": {
+                    "Sentence": "用途"
+                  }
+                },
+                {
+                  "@Num": "2",
+                  "ItemTitle": "二",
+                  "ItemSentence": {
+                    "Sentence": "総トン数（二十パーセント未満の変更に係るものを除く。）"
+                  }
+                },
+                {
+                  "@Num": "3",
+                  "ItemTitle": "三",
+                  "ItemSentence": {
+                    "Sentence": "載荷重量トン数（二十パーセント未満の変更に係るものを除く。）"
+                  }
+                },
+                {
+                  "@Num": "4",
+                  "ItemTitle": "四",
+                  "ItemSentence": {
+                    "Sentence": "機関の種類、数及び連続最大出力"
+                  }
+                },
+                {
+                  "@Num": "5",
+                  "ItemTitle": "五",
+                  "ItemSentence": {
+                    "Sentence": "航行区域"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "@Num": "7",
+            "ArticleCaption": "（許可事項の変更の承認の申請）",
+            "ArticleTitle": "第七条",
+            "Paragraph": [
+              {
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": "法第四条の規定による変更の承認を受けようとする者は、左に掲げる事項を記載した申請書を提出するものとする。"
+                },
+                "Item": [
+                  {
+                    "@Num": "1",
+                    "ItemTitle": "一",
+                    "ItemSentence": {
+                      "Sentence": "氏名又は名称及び住所"
+                    }
+                  },
+                  {
+                    "@Num": "2",
+                    "ItemTitle": "二",
+                    "ItemSentence": {
+                      "Sentence": "変更しようとする事項"
+                    }
+                  },
+                  {
+                    "@Num": "3",
+                    "ItemTitle": "三",
+                    "ItemSentence": {
+                      "Sentence": "変更を必要とする理由"
+                    }
+                  }
+                ]
+              },
+              {
+                "@Num": "2",
+                "ParagraphNum": "２",
+                "ParagraphSentence": {
+                  "Sentence": "前項の申請書には、申請者が提出した建造又は改造の許可に係る添付図面及び添付書類のうち、当該変更によりその内容に変更が生じたものについて、その変更部分を明らかにした図面又は書類を添付するものとする。"
+                }
+              }
+            ]
+          },
+          {
+            "@Num": "8",
+            "ArticleCaption": "（権限の委任）",
+            "ArticleTitle": "第八条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "法第二条及び第四条に規定する国土交通大臣の権限のうち、船舶の用途を貨物船から母船式漁業における母船に又は母船式漁業における母船から貨物船に変更しようとする場合における船舶の改造（外国からの注文に係るものを除く。）の許可及び許可事項の変更の承認については、造船事業者の工場の所在地を管轄する地方運輸局長（運輸監理部長を含む。次条において同じ。）に委任する。"
+              }
+            }
+          },
+          {
+            "@Num": "9",
+            "ArticleCaption": "（経由機関）",
+            "ArticleTitle": "第九条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "法又はこの省令の規定により国土交通大臣に提出する申請書は、造船事業者の主たる事務所又は工場の所在地を管轄する地方運輸局長を経由することができる。"
+              }
+            }
+          }
+        ]
+      },
+      "SupplProvision": [
+        {
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この省令は、昭和二十八年八月十五日から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "昭和四六年一月一一日運輸省令第二号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphCaption": "（施行期日）",
+            "ParagraphNum": "１",
+            "ParagraphSentence": {
+              "Sentence": "この省令は、公布の日から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "昭和四六年六月一日運輸省令第三〇号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この省令は、公布の日から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "昭和四七年一一月二〇日運輸省令第六〇号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この省令は、公布の日から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "昭和五四年五月二日運輸省令第一七号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この省令は、公布の日から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "昭和五六年三月三〇日運輸省令第一二号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Article": {
+            "@Num": "1",
+            "ArticleCaption": "（施行期日）",
+            "ArticleTitle": "第一条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "この省令は、地方支分部局の整理のための行政管理庁設置法等の一部を改正する法律の施行の日（昭和五十六年四月一日）から施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "昭和五九年六月二二日運輸省令第一八号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Article": [
+            {
+              "@Num": "1",
+              "ArticleCaption": "（施行期日）",
+              "ArticleTitle": "第一条",
+              "Paragraph": {
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": "この省令は、昭和五十九年七月一日から施行する。"
+                }
+              }
+            },
+            {
+              "@Num": "2",
+              "ArticleCaption": "（経過措置）",
+              "ArticleTitle": "第二条",
+              "Paragraph": {
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": "この省令の施行前に次の表の上欄に掲げる行政庁が法律若しくはこれに基づく命令の規定によりした許可、認可その他の処分又は契約その他の行為（以下「処分等」という。）は、同表の下欄に掲げるそれぞれの行政庁がした処分等とみなし、この省令の施行前に同表の上欄に掲げる行政庁に対してした申請、届出その他の行為（以下「申請等」という。）は、同表の下欄に掲げるそれぞれの行政庁に対してした申請等とみなす。"
+                },
+                "TableStruct": {
+                  "Table": {
+                    "TableRow": [
+                      {
+                        "TableColumn": [
+                          {
+                            "Sentence": "北海海運局長"
+                          },
+                          {
+                            "Sentence": "北海道運輸局長"
+                          }
+                        ]
+                      },
+                      {
+                        "TableColumn": [
+                          {
+                            "Sentence": "東北海運局長（山形県又は秋田県の区域に係る処分等又は申請等に係る場合を除く。）"
+                          },
+                          {
+                            "Sentence": "東北運輸局長"
+                          }
+                        ]
+                      },
+                      {
+                        "TableColumn": [
+                          {
+                            "Sentence": "東北海運局長（山形県又は秋田県の区域に係る処分等又は申請等に係る場合に限る。）及び新潟海運監理部長"
+                          },
+                          {
+                            "Sentence": "新潟運輸局長"
+                          }
+                        ]
+                      },
+                      {
+                        "TableColumn": [
+                          {
+                            "Sentence": "関東海運局長"
+                          },
+                          {
+                            "Sentence": "関東運輸局長"
+                          }
+                        ]
+                      },
+                      {
+                        "TableColumn": [
+                          {
+                            "Sentence": "東海海運局長"
+                          },
+                          {
+                            "Sentence": "中部運輸局長"
+                          }
+                        ]
+                      },
+                      {
+                        "TableColumn": [
+                          {
+                            "Sentence": "近畿海運局長"
+                          },
+                          {
+                            "Sentence": "近畿運輸局長"
+                          }
+                        ]
+                      },
+                      {
+                        "TableColumn": [
+                          {
+                            "Sentence": "中国海運局長"
+                          },
+                          {
+                            "Sentence": "中国運輸局長"
+                          }
+                        ]
+                      },
+                      {
+                        "TableColumn": [
+                          {
+                            "Sentence": "四国海運局長"
+                          },
+                          {
+                            "Sentence": "四国運輸局長"
+                          }
+                        ]
+                      },
+                      {
+                        "TableColumn": [
+                          {
+                            "Sentence": "九州海運局長"
+                          },
+                          {
+                            "Sentence": "九州運輸局長"
+                          }
+                        ]
+                      },
+                      {
+                        "TableColumn": [
+                          {
+                            "Sentence": "神戸海運局長"
+                          },
+                          {
+                            "Sentence": "神戸海運監理部長"
+                          }
+                        ]
+                      },
+                      {
+                        "TableColumn": [
+                          {
+                            "Sentence": "札幌陸運局長"
+                          },
+                          {
+                            "Sentence": "北海道運輸局長"
+                          }
+                        ]
+                      },
+                      {
+                        "TableColumn": [
+                          {
+                            "Sentence": "仙台陸運局長"
+                          },
+                          {
+                            "Sentence": "東北運輸局長"
+                          }
+                        ]
+                      },
+                      {
+                        "TableColumn": [
+                          {
+                            "Sentence": "新潟陸運局長"
+                          },
+                          {
+                            "Sentence": "新潟運輸局長"
+                          }
+                        ]
+                      },
+                      {
+                        "TableColumn": [
+                          {
+                            "Sentence": "東京陸運局長"
+                          },
+                          {
+                            "Sentence": "関東運輸局長"
+                          }
+                        ]
+                      },
+                      {
+                        "TableColumn": [
+                          {
+                            "Sentence": "名古屋陸運局長"
+                          },
+                          {
+                            "Sentence": "中部運輸局長"
+                          }
+                        ]
+                      },
+                      {
+                        "TableColumn": [
+                          {
+                            "Sentence": "大阪陸運局長"
+                          },
+                          {
+                            "Sentence": "近畿運輸局長"
+                          }
+                        ]
+                      },
+                      {
+                        "TableColumn": [
+                          {
+                            "Sentence": "広島陸運局長"
+                          },
+                          {
+                            "Sentence": "中国運輸局長"
+                          }
+                        ]
+                      },
+                      {
+                        "TableColumn": [
+                          {
+                            "Sentence": "高松陸運局長"
+                          },
+                          {
+                            "Sentence": "四国運輸局長"
+                          }
+                        ]
+                      },
+                      {
+                        "TableColumn": [
+                          {
+                            "Sentence": "福岡陸運局長"
+                          },
+                          {
+                            "Sentence": "九州運輸局長"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                }
+              }
+            },
+            {
+              "@Num": "3",
+              "ArticleTitle": "第三条",
+              "Paragraph": {
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": "この省令の施行前に海運局支局長が法律又はこれに基づく命令の規定によりした処分等は、相当の地方運輸局又は海運監理部の海運支局長がした処分等とみなし、この省令の施行前に海運局支局長に対してした申請等は、相当の地方運輸局又は海運監理部の海運支局長に対してした申請等とみなす。"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@AmendLawNum": "平成九年八月四日運輸省令第五一号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": [
+            {
+              "@Num": "1",
+              "ParagraphNum": "１",
+              "ParagraphSentence": {
+                "Sentence": "この省令は、公布の日から施行する。"
+              }
+            },
+            {
+              "@Num": "2",
+              "ParagraphNum": "２",
+              "ParagraphSentence": {
+                "Sentence": "この省令の施行の際現に臨時船舶建造調整法第二条の規定によりされている許可の申請又は同法第四条第一項の規定によりされている承認の申請に係る添付図面及び添付書類については、この省令による改正後の臨時船舶建造調整法施行規則第二条第二項、第三条第二項及び第七条第二項の規定にかかわらず、なお従前の例による。"
+              }
+            }
+          ]
+        },
+        {
+          "@AmendLawNum": "平成一二年一一月二九日運輸省令第三九号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Article": {
+            "@Num": "1",
+            "ArticleCaption": "（施行期日）",
+            "ArticleTitle": "第一条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "この省令は、平成十三年一月六日から施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成一四年六月二八日国土交通省令第七九号",
+          "SupplProvisionLabel": "附　則",
+          "Article": [
+            {
+              "@Num": "1",
+              "ArticleCaption": "（施行期日）",
+              "ArticleTitle": "第一条",
+              "Paragraph": {
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": "この省令は、平成十四年七月一日から施行する。"
+                }
+              }
+            },
+            {
+              "@Num": "2",
+              "ArticleCaption": "（経過措置）",
+              "ArticleTitle": "第二条",
+              "Paragraph": {
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": "この省令の施行の際現にあるこの省令による改正前の様式又は書式による申請書、証明書その他の文書は、この省令による改正後のそれぞれの様式又は書式にかかわらず、当分の間、なおこれを使用することができる。"
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,412 @@
+{
+  "Law": {
+    "@Era": "Showa",
+    "@Lang": "ja",
+    "@LawType": "MinisterialOrdinance",
+    "@Num": "006",
+    "@Year": "49",
+    "LawNum": "昭和四十九年運輸省令第六号",
+    "LawBody": {
+      "LawTitle": "公共用飛行場周辺における航空機騒音による障害の防止等に関する法律施行規則",
+      "EnactStatement": "公共用飛行場周辺における航空機騒音による障害の防止等に関する法律（昭和四十二年法律第百十号）第二十五条第三項、第四十五条第二項及び第六十六条並びに公共用飛行場周辺における航空機騒音による障害の防止等に関する法律施行令（昭和四十二年政令第二百八十四号）第六条の規定に基づき、公共用飛行場周辺における航空機騒音による障害の防止等に関する法律施行規則を次のように定める。",
+      "MainProvision": {
+        "Paragraph": [
+          {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphNum": "１",
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "公共用飛行場周辺における航空機騒音による障害の防止等に関する法律施行令（昭和四十二年政令第二百八十四号。次項及び第三項において「令」という。）第四条第一号の国土交通省令で定める施設は、次に掲げるものとする。"
+              }
+            },
+            "Item": [
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "1",
+                "ItemTitle": "一",
+                "ItemSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "病児保育事業の対象となる児童の居宅"
+                  }
+                }
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "2",
+                "ItemTitle": "二",
+                "ItemSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "前号に掲げるもののほか、不特定の者の用に供されない施設"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "@Hide": "false",
+            "@Num": "2",
+            "ParagraphNum": "２",
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "令第六条の国土交通省令で定める算定方法は、次の算式によるものとする。"
+              }
+            },
+            "FigStruct": {
+              "Fig": {
+                "@src": "./pict/S49F03901000006-001.jpg"
+              },
+              "Remarks": {
+                "RemarksLabel": {
+                  "@LineBreak": "true",
+                  "#text": "備考"
+                },
+                "Item": [
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "1",
+                    "ItemTitle": "一",
+                    "ItemSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "ArithFormula": [
+                          {
+                            "Fig": {
+                              "@src": "./pict/S49F03901000006-002.jpg"
+                            }
+                          },
+                          {
+                            "Fig": {
+                              "@src": "./pict/S49F03901000006-003.jpg"
+                            }
+                          },
+                          {
+                            "Fig": {
+                              "@src": "./pict/S49F03901000006-004.jpg"
+                            }
+                          },
+                          {
+                            "Fig": {
+                              "@src": "./pict/S49F03901000006-005.jpg"
+                            }
+                          }
+                        ],
+                        "#text": "この算式において、、、、及びＴの意義は、それぞれ次のとおりとする。"
+                      }
+                    },
+                    "List": [
+                      {
+                        "ListSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "ArithFormula": {
+                              "Fig": {
+                                "@src": "./pict/S49F03901000006-002.jpg"
+                              }
+                            },
+                            "#text": "当該飛行場において離陸し、又は着陸する航空機により一日の間に単発的に発生する騒音（以下この号において「単発騒音」という。）のうち午前七時を過ぎ午後七時に至るまでの間におけるｉ番目のものの単発騒音暴露レベル（工業標準化法（昭和二十四年法律第百八十五号）第十七条第一項に規定する日本工業規格Ｚ八七三一で定める算式により得た単発騒音暴露レベルをいう。以下この号において同じ。）"
+                          }
+                        }
+                      },
+                      {
+                        "ListSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "ArithFormula": {
+                              "Fig": {
+                                "@src": "./pict/S49F03901000006-003.jpg"
+                              }
+                            },
+                            "#text": "単発騒音のうち午後七時を過ぎ午後十時に至るまでの間におけるｊ番目のものの単発騒音暴露レベル"
+                          }
+                        }
+                      },
+                      {
+                        "ListSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "ArithFormula": {
+                              "Fig": {
+                                "@src": "./pict/S49F03901000006-004.jpg"
+                              }
+                            },
+                            "#text": "単発騒音のうち午前零時を過ぎ午前七時に至るまで及び午後十時を過ぎ午後十二時に至るまでの間におけるｋ番目のものの単発騒音暴露レベル"
+                          }
+                        }
+                      },
+                      {
+                        "ListSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "ArithFormula": {
+                              "Fig": {
+                                "@src": "./pict/S49F03901000006-005.jpg"
+                              }
+                            },
+                            "#text": "規準化時間（秒）とし、一"
+                          }
+                        }
+                      },
+                      {
+                        "ListSentence": {
+                          "Column": [
+                            {
+                              "@LineBreak": "false",
+                              "@Num": "1",
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "Ｔ"
+                              }
+                            },
+                            {
+                              "@LineBreak": "false",
+                              "@Num": "2",
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "一日の時間（秒）とし、八六、四〇〇"
+                              }
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "2",
+                    "ItemTitle": "二",
+                    "ItemSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "ArithFormula": [
+                          {
+                            "Fig": {
+                              "@src": "./pict/S49F03901000006-002.jpg"
+                            }
+                          },
+                          {
+                            "Fig": {
+                              "@src": "./pict/S49F03901000006-003.jpg"
+                            }
+                          },
+                          {
+                            "Fig": {
+                              "@src": "./pict/S49F03901000006-004.jpg"
+                            }
+                          }
+                        ],
+                        "#text": "前号に規定する、及びの値は、当該飛行場において離陸し、又は着陸する航空機の型式、飛行回数、飛行経路、飛行時刻その他の事項に関し、年間を通じての標準的な条件を設定し、これに基づいて算定するものとする。"
+                      }
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "@Hide": "false",
+            "@Num": "3",
+            "ParagraphNum": "３",
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "令第六条の国土交通省令で定める値は、第一種区域にあつては六十二デシベル、第二種区域にあつては七十三デシベル、第三種区域にあつては七十六デシベルとする。"
+              }
+            }
+          }
+        ]
+      },
+      "SupplProvision": [
+        {
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphCaption": "（施行期日）",
+            "ParagraphNum": "１",
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この省令は、公共用飛行場周辺における航空機騒音による障害の防止等に関する法律の一部を改正する法律（昭和四十九年法律第八号）の施行の日（昭和四十九年三月二十八日）から施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "昭和五二年六月二四日運輸省令第一六号",
+          "@Extract": "false",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この省令は、公布の日から施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "昭和五四年七月一〇日運輸省令第三一号",
+          "@Extract": "false",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この省令は、公布の日から施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "昭和五七年三月三〇日運輸省令第五号",
+          "@Extract": "false",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この省令は、公布の日から施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "昭和六〇年六月七日運輸省令第一九号",
+          "@Extract": "false",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": [
+            {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": "１",
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "この省令は、公布の日から施行する。"
+                }
+              }
+            },
+            {
+              "@Hide": "false",
+              "@Num": "2",
+              "ParagraphNum": "２",
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "この省令の施行の際現に存する公共用飛行場周辺における航空機騒音による障害の防止等に関する法律の一部を改正する法律（昭和六十年法律第四十七号。以下「法」という。）による改正前の公共用飛行場周辺における航空機騒音による障害の防止等に関する法律第三章の規定により設立された空港周辺整備機構（以下「旧機構」という。）については、この省令による改正前の公共用飛行場周辺における航空機騒音による障害の防止等に関する法律施行規則及び空港周辺整備機構の財務及び会計に関する省令は、法附則第四条第一項の規定により旧機構が解散するまでの間は、なおその効力を有する。"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@AmendLawNum": "平成元年七月二〇日運輸省令第二四号",
+          "@Extract": "false",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この省令は、公布の日から施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成一二年一一月二九日運輸省令第三九号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Article": {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "1",
+            "ArticleCaption": "（施行期日）",
+            "ArticleTitle": "第一条",
+            "Paragraph": {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "この省令は、平成十三年一月六日から施行する。"
+                }
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成一五年一〇月一日国土交通省令第一〇七号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphCaption": "（施行期日）",
+            "ParagraphNum": "１",
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この省令は、公布の日から施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成二四年九月二六日国土交通省令第七八号",
+          "@Extract": "false",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この省令は、平成二十五年四月一日から施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成三〇年三月三〇日国土交通省令第二四号",
+          "@Type": "Amend",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この省令は、公共用飛行場周辺における航空機騒音による障害の防止等に関する法律施行令の一部を改正する政令（平成三十年政令第百三号）の施行の日（平成三十年四月一日）から施行する。"
+              }
+            }
+          }
+        }
+      ]
+    }
+  }
+}

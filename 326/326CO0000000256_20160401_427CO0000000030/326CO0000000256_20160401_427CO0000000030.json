@@ -1,0 +1,3896 @@
+{
+  "Law": {
+    "@Era": "Showa",
+    "@Lang": "ja",
+    "@LawType": "CabinetOrder",
+    "@Num": "256",
+    "@Year": "26",
+    "LawNum": "昭和二十六年政令第二百五十六号",
+    "LawBody": {
+      "LawTitle": "自動車登録令",
+      "EnactStatement": "内閣は、道路運送車両法（昭和二十六年法律第百八十五号）第二十三条及び第三十九条第一項並びに自動車抵当法（昭和二十六年法律第百八十七号）第五条第二項の規定に基き、並びにこれらの法律を実施するため、この政令を制定する。",
+      "TOC": {
+        "TOCLabel": "目次",
+        "TOCChapter": [
+          {
+            "@Delete": "false",
+            "@Num": "1",
+            "ChapterTitle": "第一章　総則",
+            "ArticleRange": "（第一条―第五条）"
+          },
+          {
+            "@Delete": "false",
+            "@Num": "2",
+            "ChapterTitle": "第二章　自動車登録ファイル及び電子情報処理組織",
+            "ArticleRange": "（第六条―第八条）"
+          },
+          {
+            "@Delete": "false",
+            "@Num": "3",
+            "ChapterTitle": "第三章　登録等の手続",
+            "TOCSection": [
+              {
+                "@Delete": "false",
+                "@Num": "1",
+                "SectionTitle": "第一節　通則",
+                "ArticleRange": "（第九条―第三十八条）"
+              },
+              {
+                "@Delete": "false",
+                "@Num": "2",
+                "SectionTitle": "第二節　自動車の登録等",
+                "ArticleRange": "（第三十九条―第四十八条）"
+              },
+              {
+                "@Delete": "false",
+                "@Num": "3",
+                "SectionTitle": "第三節　抵当権の登録",
+                "ArticleRange": "（第四十九条―第六十条）"
+              },
+              {
+                "@Delete": "false",
+                "@Num": "4",
+                "SectionTitle": "第四節　信託に関する登録",
+                "ArticleRange": "（第六十一条―第六十九条）"
+              }
+            ]
+          }
+        ],
+        "TOCSupplProvision": {
+          "SupplProvisionLabel": "附則"
+        }
+      },
+      "MainProvision": {
+        "Chapter": [
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "1",
+            "ChapterTitle": "第一章　総則",
+            "Article": [
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "1",
+                "ArticleCaption": "（目的）",
+                "ArticleTitle": "第一条",
+                "Paragraph": {
+                  "@Hide": "false",
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "この政令は、道路運送車両法（昭和二十六年法律第百八十五号）による自動車の登録等及び自動車抵当法（昭和二十六年法律第百八十七号）による自動車の抵当権の登録に関する事項を定めることを目的とする。"
+                    }
+                  }
+                }
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "2",
+                "ArticleCaption": "（付記登録）",
+                "ArticleTitle": "第二条",
+                "Paragraph": [
+                  {
+                    "@Hide": "false",
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "次に掲げる登録は、付記登録とする。"
+                      }
+                    },
+                    "Item": [
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "1",
+                        "ItemTitle": "一",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "登録名義人の表示の変更の登録"
+                          }
+                        }
+                      },
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "2",
+                        "ItemTitle": "二",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "一部が抹消された登録の回復の登録"
+                          }
+                        }
+                      },
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "3",
+                        "ItemTitle": "三",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "自動車の変更登録"
+                          }
+                        }
+                      },
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "4",
+                        "ItemTitle": "四",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "抵当権の移転の登録"
+                          }
+                        }
+                      },
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "5",
+                        "ItemTitle": "五",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "信託による抵当権の変更の登録"
+                          }
+                        }
+                      },
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "6",
+                        "ItemTitle": "六",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "自動車抵当法第十九条の二第二項において準用する民法（明治二十九年法律第八十九号）第三百九十八条の八第一項又は第二項の合意の登録"
+                          }
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Hide": "false",
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "次に掲げる登録は、登録上利害関係を有する第三者がないとき、又は登録上利害関係を有する第三者の承諾書若しくはこれに対抗することができる裁判の謄本が提出されたときに限り、付記登録とする。"
+                      }
+                    },
+                    "Item": [
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "1",
+                        "ItemTitle": "一",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "更正の登録"
+                          }
+                        }
+                      },
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "2",
+                        "ItemTitle": "二",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "抵当権の変更の登録（信託による抵当権の変更の登録を除く。）"
+                          }
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "3",
+                "ArticleCaption": "（順位）",
+                "ArticleTitle": "第三条",
+                "Paragraph": {
+                  "@Hide": "false",
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "附記登録の順位は、主登録の順位により、附記登録間の順位は、その前後による。"
+                    }
+                  }
+                }
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "4",
+                "ArticleCaption": "（登録の欠缺を主張できない者）",
+                "ArticleTitle": "第四条",
+                "Paragraph": {
+                  "@Hide": "false",
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "詐欺又は強迫によつて登録の申請を妨げた第三者は、その登録の欠缺を主張することができない。"
+                    }
+                  }
+                }
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "5",
+                "ArticleTitle": "第五条",
+                "Paragraph": {
+                  "@Hide": "false",
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": [
+                      {
+                        "@Function": "main",
+                        "@Num": "1",
+                        "@WritingMode": "vertical",
+                        "#text": "他人のため登録を申請する義務がある者は、その登録の欠缺を主張することができない。"
+                      },
+                      {
+                        "@Function": "proviso",
+                        "@Num": "2",
+                        "@WritingMode": "vertical",
+                        "#text": "但し、その登録の原因が自己の登録の原因の後に発生したときは、この限りでない。"
+                      }
+                    ]
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "2",
+            "ChapterTitle": "第二章　自動車登録ファイル及び電子情報処理組織",
+            "Article": [
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "6",
+                "ArticleCaption": "（自動車登録ファイル等）",
+                "ArticleTitle": "第六条",
+                "Paragraph": [
+                  {
+                    "@Hide": "false",
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "自動車登録ファイルは、現在記録ファイル及び保存記録ファイルとする。"
+                      }
+                    }
+                  },
+                  {
+                    "@Hide": "false",
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "現在記録ファイルには、自動車に関する登録に係る登録事項で現に効力を有すべきもの及び道路運送車両法第十五条の二第一項ただし書の届出に関する事項その他の国土交通省令で定める事項を記録する。"
+                      }
+                    }
+                  },
+                  {
+                    "@Hide": "false",
+                    "@Num": "3",
+                    "ParagraphNum": "３",
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "保存記録ファイルには、現在記録ファイルに記録した自動車に関する登録に係る登録事項で抹消したもの並びに道路運送車両法第十六条第二項及び第四項の届出に関する事項その他の国土交通省令で定める事項を記録する。"
+                      }
+                    }
+                  },
+                  {
+                    "@Hide": "false",
+                    "@Num": "4",
+                    "ParagraphNum": "４",
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "国土交通大臣は、自動車登録ファイルに記録した事項と同一の事項を記録する副自動車登録ファイルを調製しておくものとする。"
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "7",
+                "ArticleCaption": "（電子情報処理組織）",
+                "ArticleTitle": "第七条",
+                "Paragraph": [
+                  {
+                    "@Hide": "false",
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": [
+                        {
+                          "@Function": "main",
+                          "@Num": "1",
+                          "@WritingMode": "vertical",
+                          "#text": "道路運送車両法第六条第一項の電子情報処理組織（次項において単に「電子情報処理組織」という。）により自動車登録ファイルにする登録等（登録並びに前条第二項及び第三項の国土交通省令で定める事項の記録その他の自動車登録ファイルの正確な記録を確保するための措置をいう。以下同じ。）に関する事務の処理は、オンライン・リアルタイム処理方式による。"
+                        },
+                        {
+                          "@Function": "proviso",
+                          "@Num": "2",
+                          "@WritingMode": "vertical",
+                          "#text": "ただし、同法第二十二条第一項の規定による登録事項等証明書の交付に関する事務で国土交通省令で定めるものの処理については、この限りでない。"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "@Hide": "false",
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "自動車登録ファイルにする登録等に関する事務の処理のための電子情報処理組織への入力はＯＣＲ（光学的文字読取装置をいう。）を用い又は電気通信回線を通じて行い、その出力は印字することにより行う。"
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "7_2",
+                "ArticleCaption": "（登録等事項の略号化）",
+                "ArticleTitle": "第七条の二",
+                "Paragraph": {
+                  "@Hide": "false",
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "自動車登録ファイルの登録等に関する事項（以下「登録等事項」という。）の一部は、国土交通省令で定めるところにより、略号にして記録することができる。"
+                    }
+                  }
+                }
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "8",
+                "ArticleCaption": "（登録等事項の表示に用いる文字等）",
+                "ArticleTitle": "第八条",
+                "Paragraph": {
+                  "@Hide": "false",
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "自動車登録ファイルの登録等事項は、漢字、平仮名、片仮名、アラビア数字、ローマ字及び国土交通省令で定める記号により表示する。"
+                    }
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "3",
+            "ChapterTitle": "第三章　登録等の手続",
+            "Section": [
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "1",
+                "SectionTitle": "第一節　通則",
+                "Article": [
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "9",
+                    "ArticleCaption": "（登録を行う場合）",
+                    "ArticleTitle": "第九条",
+                    "Paragraph": [
+                      {
+                        "@Hide": "false",
+                        "@Num": "1",
+                        "ParagraphNum": null,
+                        "ParagraphSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "登録は、法令に別段の定がある場合を除く外、申請又は嘱託（通知を含む。）がなければ、これをしてはならない。"
+                          }
+                        }
+                      },
+                      {
+                        "@Hide": "false",
+                        "@Num": "2",
+                        "ParagraphNum": "２",
+                        "ParagraphSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "申請による登録に関する規定は、法令に別段の定がある場合を除く外、嘱託（通知を含む。）による登録の手続に準用する。"
+                          }
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "10",
+                    "ArticleCaption": "（共同申請）",
+                    "ArticleTitle": "第十条",
+                    "Paragraph": {
+                      "@Hide": "false",
+                      "@Num": "1",
+                      "ParagraphNum": null,
+                      "ParagraphSentence": {
+                        "Sentence": [
+                          {
+                            "@Function": "main",
+                            "@Num": "1",
+                            "@WritingMode": "vertical",
+                            "#text": "登録は、登録権利者及び登録義務者又はこれらの者の代理人が運輸監理部又は運輸支局に出頭して申請しなければならない。"
+                          },
+                          {
+                            "@Function": "proviso",
+                            "@Num": "2",
+                            "@WritingMode": "vertical",
+                            "#text": "ただし、行政手続等における情報通信の技術の利用に関する法律（平成十四年法律第百五十一号）第三条第一項の規定により同項に規定する電子情報処理組織を使用して申請する場合にあつては、運輸監理部又は運輸支局に出頭することを要しない。"
+                          }
+                        ]
+                      }
+                    }
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "11",
+                    "ArticleCaption": "（単独申請）",
+                    "ArticleTitle": "第十一条",
+                    "Paragraph": {
+                      "@Hide": "false",
+                      "@Num": "1",
+                      "ParagraphNum": null,
+                      "ParagraphSentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "判決による登録、相続その他の一般承継による登録並びに自動車の新規登録、永久抹消登録、輸出抹消仮登録及び一時抹消登録は、登録権利者だけで申請することができる。"
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "12",
+                    "ArticleTitle": "第十二条",
+                    "Paragraph": [
+                      {
+                        "@Hide": "false",
+                        "@Num": "1",
+                        "ParagraphNum": null,
+                        "ParagraphSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "自動車の変更登録は、登録名義人だけで申請することができる。"
+                          }
+                        }
+                      },
+                      {
+                        "@Hide": "false",
+                        "@Num": "2",
+                        "ParagraphNum": "２",
+                        "ParagraphSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "Ruby": [
+                              {
+                                "Rt": "ヽ",
+                                "#text": "ま"
+                              },
+                              {
+                                "Rt": "ヽ",
+                                "#text": "つ"
+                              }
+                            ],
+                            "#text": "自動車の抵当権の登録名義人の表示の変更又は自動車の抵当権の登録名義人と自動車の登録名義人とが同一人となつた場合の抵当権の\n消の登録は、登録名義人だけで申請することができる。"
+                          }
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "13",
+                    "ArticleTitle": "第十三条",
+                    "Paragraph": {
+                      "@Hide": "false",
+                      "@Num": "1",
+                      "ParagraphNum": null,
+                      "ParagraphSentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "削除"
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "14",
+                    "ArticleCaption": "（申請手続）",
+                    "ArticleTitle": "第十四条",
+                    "Paragraph": [
+                      {
+                        "@Hide": "false",
+                        "@Num": "1",
+                        "ParagraphNum": null,
+                        "ParagraphSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "登録の申請をする者（以下「申請人」という。）は、申請書に次に掲げる書面を添えて提出しなければならない。"
+                          }
+                        },
+                        "Item": [
+                          {
+                            "@Delete": "false",
+                            "@Hide": "false",
+                            "@Num": "1",
+                            "ItemTitle": "一",
+                            "ItemSentence": {
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "登録の原因を証する書面"
+                              }
+                            }
+                          },
+                          {
+                            "@Delete": "false",
+                            "@Hide": "false",
+                            "@Num": "2",
+                            "ItemTitle": "二",
+                            "ItemSentence": {
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "登録の原因について第三者の許可、同意又は承諾を要するときは、これを証する書面"
+                              }
+                            }
+                          },
+                          {
+                            "@Delete": "false",
+                            "@Hide": "false",
+                            "@Num": "3",
+                            "ItemTitle": "三",
+                            "ItemSentence": {
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "代理人により登録の申請をするときは、その権限を証する書面"
+                              }
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "@Hide": "false",
+                        "@Num": "2",
+                        "ParagraphNum": "２",
+                        "ParagraphSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "前項第一号の書面が執行力のある判決であるときは、同項第二号の書面を提出しなくてもよい。"
+                          }
+                        }
+                      },
+                      {
+                        "@Hide": "false",
+                        "@Num": "3",
+                        "ParagraphNum": "３",
+                        "ParagraphSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "申請人は、道路運送車両法第三十三条第四項の規定により譲渡証明書に記載すべき事項が登録情報処理機関に提供されたときは、国土交通省令で定めるところにより、第一項の申請書にその旨を記載することをもつて同項第一号の書面（譲渡証明書に限る。）の提出に代えることができる。"
+                          }
+                        }
+                      },
+                      {
+                        "@Hide": "false",
+                        "@Num": "4",
+                        "ParagraphNum": "４",
+                        "ParagraphSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "前項の規定により譲渡証明書に記載すべき事項が登録情報処理機関に提供されたことが第一項の申請書に記載されたときは、国土交通大臣は、登録情報処理機関に対し、国土交通省令で定めるところにより、必要な事項を照会するものとする。"
+                          }
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "15",
+                    "ArticleCaption": "（申請書）",
+                    "ArticleTitle": "第十五条",
+                    "Paragraph": [
+                      {
+                        "@Hide": "false",
+                        "@Num": "1",
+                        "ParagraphNum": null,
+                        "ParagraphSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "申請書には、国土交通省令で定める事項を記載し、申請人がこれに署名押印しなければならない。"
+                          }
+                        }
+                      },
+                      {
+                        "@Hide": "false",
+                        "@Num": "2",
+                        "ParagraphNum": "２",
+                        "ParagraphSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "申請書の様式及び記載方法は、国土交通省令で定める。"
+                          }
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "16",
+                    "ArticleCaption": "（印鑑に関する証明書の添付）",
+                    "ArticleTitle": "第十六条",
+                    "Paragraph": [
+                      {
+                        "@Hide": "false",
+                        "@Num": "1",
+                        "ParagraphNum": null,
+                        "ParagraphSentence": {
+                          "Sentence": [
+                            {
+                              "@Function": "main",
+                              "@Num": "1",
+                              "@WritingMode": "vertical",
+                              "#text": "申請書には、やむを得ない場合を除き、申請人及びその第三者（第十四条第一項第二号の書面を提出する場合に限る。）の印鑑に関する証明書（住所地の市町村長（特別区の区長を含むものとし、地方自治法（昭和二十二年法律第六十七号）第二百五十二条の十九第一項の指定都市にあつては、市長又は区長若しくは総合区長とする。）又は登記官が作成するものに限る。以下この条において同じ。）を添付しなければならない。"
+                            },
+                            {
+                              "@Function": "proviso",
+                              "@Num": "2",
+                              "@WritingMode": "vertical",
+                              "#text": "ただし、自動車の変更登録又は更正の登録の申請書にあつては申請人の、抹消した登録の回復又は抵当権の登録の申請書にあつては登録権利者である申請人の印鑑に関する証明書を添付しなくてもよい。"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "@Hide": "false",
+                        "@Num": "2",
+                        "ParagraphNum": "２",
+                        "ParagraphSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "前項の規定は、申請人又はその第三者が国又は地方公共団体である場合には、適用しない。"
+                          }
+                        }
+                      },
+                      {
+                        "@Hide": "false",
+                        "@Num": "3",
+                        "ParagraphNum": "３",
+                        "ParagraphSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "第一項の印鑑に関する証明書は、作成後三月以内のものでなければならない。"
+                          }
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "17",
+                    "ArticleCaption": "（同意書等の省略）",
+                    "ArticleTitle": "第十七条",
+                    "Paragraph": {
+                      "@Hide": "false",
+                      "@Num": "1",
+                      "ParagraphNum": null,
+                      "ParagraphSentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "申請書に第三者の許可、同意又は承諾を証する書面を添えて提出することを要する場合において、申請書にその第三者が署名押印したときは、その書面を提出しなくてもよい。"
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "18",
+                    "ArticleCaption": "（戸籍謄本等の提出）",
+                    "ArticleTitle": "第十八条",
+                    "Paragraph": {
+                      "@Hide": "false",
+                      "@Num": "1",
+                      "ParagraphNum": null,
+                      "ParagraphSentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "次に掲げる場合には、申請書にその事実を証する戸籍の謄本若しくは抄本若しくは登記事項証明書又はこれを証するに足るその他の書面を添付しなければならない。"
+                        }
+                      },
+                      "Item": [
+                        {
+                          "@Delete": "false",
+                          "@Hide": "false",
+                          "@Num": "1",
+                          "ItemTitle": "一",
+                          "ItemSentence": {
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "登録の原因が相続その他の一般承継であるとき。"
+                            }
+                          }
+                        },
+                        {
+                          "@Delete": "false",
+                          "@Hide": "false",
+                          "@Num": "2",
+                          "ItemTitle": "二",
+                          "ItemSentence": {
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "申請人が登録権利者又は登録義務者の相続人その他の一般承継人であるとき。"
+                            }
+                          }
+                        },
+                        {
+                          "@Delete": "false",
+                          "@Hide": "false",
+                          "@Num": "3",
+                          "ItemTitle": "三",
+                          "ItemSentence": {
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "登録名義人の表示の変更の登録の申請をするとき。"
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "19",
+                    "ArticleCaption": "（債権者の代位）",
+                    "ArticleTitle": "第十九条",
+                    "Paragraph": {
+                      "@Hide": "false",
+                      "@Num": "1",
+                      "ParagraphNum": null,
+                      "ParagraphSentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "債権者は、民法第四百二十三条の規定により債務者に代位して登録の申請をする場合には、申請書に債権者及び債務者の氏名又は名称及び住所並びに代位の原因を記載して署名押印し、且つ、これに代位の原因を証する書面を添えて提出しなければならない。"
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "20",
+                    "ArticleTitle": "第二十条",
+                    "Paragraph": {
+                      "@Hide": "false",
+                      "@Num": "1",
+                      "ParagraphNum": null,
+                      "ParagraphSentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "削除"
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "21",
+                    "ArticleCaption": "（申請の受理をしない場合）",
+                    "ArticleTitle": "第二十一条",
+                    "Paragraph": [
+                      {
+                        "@Hide": "false",
+                        "@Num": "1",
+                        "ParagraphNum": null,
+                        "ParagraphSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "運輸監理部長又は運輸支局長は、登録の申請が次に掲げる場合に該当するときは、その申請を受理してはならない。"
+                          }
+                        },
+                        "Item": [
+                          {
+                            "@Delete": "false",
+                            "@Hide": "false",
+                            "@Num": "1",
+                            "ItemTitle": "一",
+                            "ItemSentence": {
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "使用の本拠の所在地がその管轄に属しないとき。"
+                              }
+                            }
+                          },
+                          {
+                            "@Delete": "false",
+                            "@Hide": "false",
+                            "@Num": "2",
+                            "ItemTitle": "二",
+                            "ItemSentence": {
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "登録の申請をした事項が登録をすべきものでないとき。"
+                              }
+                            }
+                          },
+                          {
+                            "@Delete": "false",
+                            "@Hide": "false",
+                            "@Num": "3",
+                            "ItemTitle": "三",
+                            "ItemSentence": {
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "第十条ただし書に規定する場合を除くほか、当事者が出頭しないとき。"
+                              }
+                            }
+                          },
+                          {
+                            "@Delete": "false",
+                            "@Hide": "false",
+                            "@Num": "4",
+                            "ItemTitle": "四",
+                            "ItemSentence": {
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "申請が方式に適合しないとき。"
+                              }
+                            }
+                          },
+                          {
+                            "@Delete": "false",
+                            "@Hide": "false",
+                            "@Num": "5",
+                            "ItemTitle": "五",
+                            "ItemSentence": {
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "道路運送車両法第七条第六項又は同法第十二条第二項（同法第十三条第三項において準用する場合を含む。）の規定に違反するとき。"
+                              }
+                            }
+                          },
+                          {
+                            "@Delete": "false",
+                            "@Hide": "false",
+                            "@Num": "6",
+                            "ItemTitle": "六",
+                            "ItemSentence": {
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "申請書に記載した抵当権の表示が登録されている事項と符合しないとき。"
+                              }
+                            }
+                          },
+                          {
+                            "@Delete": "false",
+                            "@Hide": "false",
+                            "@Num": "7",
+                            "ItemTitle": "七",
+                            "ItemSentence": {
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "第十八条第二号に規定する場合を除くほか、申請書に記載した登録義務者又は登録名義人の表示が登録されている事項と符合しないとき。"
+                              }
+                            }
+                          },
+                          {
+                            "@Delete": "false",
+                            "@Hide": "false",
+                            "@Num": "8",
+                            "ItemTitle": "八",
+                            "ItemSentence": {
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "その他申請書に記載した事項のうち国土交通省令で定める事項が登録されている事項と符合しないとき。"
+                              }
+                            }
+                          },
+                          {
+                            "@Delete": "false",
+                            "@Hide": "false",
+                            "@Num": "9",
+                            "ItemTitle": "九",
+                            "ItemSentence": {
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "登録の手数料又は登録免許税を納付しないとき。"
+                              }
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "@Hide": "false",
+                        "@Num": "2",
+                        "ParagraphNum": "２",
+                        "ParagraphSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "運輸監理部長又は運輸支局長は、登録の申請を受理する前に、その申請が道路運送車両法第八条（同法第十二条第三項において準用する場合を含む。）、同法第十三条第二項又は次条第一項の規定により登録すべきものでないと認めるときは、これを受理しないものとする。"
+                          }
+                        }
+                      },
+                      {
+                        "@Hide": "false",
+                        "@Num": "3",
+                        "ParagraphNum": "３",
+                        "ParagraphSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "運輸監理部長又は運輸支局長は、登録の申請を受理しないときは、申請人に対し、その理由を示さなければならない。"
+                          }
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "22",
+                    "ArticleCaption": "（登録をしない場合）",
+                    "ArticleTitle": "第二十二条",
+                    "Paragraph": [
+                      {
+                        "@Hide": "false",
+                        "@Num": "1",
+                        "ParagraphNum": null,
+                        "ParagraphSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "運輸監理部長又は運輸支局長は、新規登録、変更登録及び移転登録以外の登録の申請を受理した場合において、その申請について道路運送車両法第八条第四号に掲げる事由があるときは、これを登録しないものとする。"
+                          }
+                        }
+                      },
+                      {
+                        "@Hide": "false",
+                        "@Num": "2",
+                        "ParagraphNum": "２",
+                        "ParagraphSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "運輸監理部長又は運輸支局長は、登録の申請を受理した場合において、その申請について道路運送車両法第八条第四号に掲げる事由の有無を審査するときは、次に掲げる事項について審査しなければならない。"
+                          }
+                        },
+                        "Item": [
+                          {
+                            "@Delete": "false",
+                            "@Hide": "false",
+                            "@Num": "1",
+                            "ItemTitle": "一",
+                            "ItemSentence": {
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "申請書に記載した事項が登録の原因を証する書面と符合するかどうか。"
+                              }
+                            }
+                          },
+                          {
+                            "@Delete": "false",
+                            "@Hide": "false",
+                            "@Num": "2",
+                            "ItemTitle": "二",
+                            "ItemSentence": {
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "申請書及び添付書類に記載した事項が真正なものであると認められるかどうか。"
+                              }
+                            }
+                          },
+                          {
+                            "@Delete": "false",
+                            "@Hide": "false",
+                            "@Num": "3",
+                            "ItemTitle": "三",
+                            "ItemSentence": {
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "提示された自動車の車台番号又は原動機の型式の打刻が真正なものであると認められるかどうか。"
+                              }
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "@Hide": "false",
+                        "@Num": "3",
+                        "ParagraphNum": "３",
+                        "ParagraphSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "運輸監理部長又は運輸支局長は、登録の申請を受理した場合において、その登録をしないこととしたときは、その理由を示して、その旨を申請人に通知しなければならない。"
+                          }
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "23",
+                    "ArticleCaption": "（登録の順序）",
+                    "ArticleTitle": "第二十三条",
+                    "Paragraph": {
+                      "@Hide": "false",
+                      "@Num": "1",
+                      "ParagraphNum": null,
+                      "ParagraphSentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "一の運輸監理部又は運輸支局において一の自動車に関し二以上の登録の申請があつたときは、これらの登録は、これらの申請を受理した順序に従つてしなければならない。"
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "24",
+                    "ArticleCaption": "（行政区画の名称等の変更）",
+                    "ArticleTitle": "第二十四条",
+                    "Paragraph": {
+                      "@Hide": "false",
+                      "@Num": "1",
+                      "ParagraphNum": null,
+                      "ParagraphSentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "行政区画又は土地の名称の変更があつたときは、当該行政区画又は土地の名称に係る登録等は、変更後の行政区画又は土地の名称に変更されたものとみなす。"
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "25",
+                    "ArticleCaption": "（更正登録）",
+                    "ArticleTitle": "第二十五条",
+                    "Paragraph": [
+                      {
+                        "@Hide": "false",
+                        "@Num": "1",
+                        "ParagraphNum": null,
+                        "ParagraphSentence": {
+                          "Sentence": [
+                            {
+                              "@Function": "main",
+                              "@Num": "1",
+                              "@WritingMode": "vertical",
+                              "#text": "運輸監理部長又は運輸支局長は、登録を完了した後、その登録について錯誤又は脱落があることを発見した場合において、錯誤又は脱落が運輸監理部長又は運輸支局長の過誤に基づくものであるときは、更正の登録をし、その旨を登録権利者及び登録義務者又は登録名義人に通知しなければならない。"
+                            },
+                            {
+                              "@Function": "proviso",
+                              "@Num": "2",
+                              "@WritingMode": "vertical",
+                              "#text": "ただし、登録上利害関係を有する第三者がある場合は、この限りでない。"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "@Hide": "false",
+                        "@Num": "2",
+                        "ParagraphNum": "２",
+                        "ParagraphSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "運輸監理部長又は運輸支局長は、前項の更正の登録（道路運送車両法第七条第一項第一号、第二号、第三号若しくは第五号に掲げる事項又は自動車登録番号に係るものを除く。）をしようとするときは、あらかじめ、地方運輸局長の許可を受けなければならない。"
+                          }
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "26",
+                    "ArticleTitle": "第二十六条",
+                    "Paragraph": {
+                      "@Hide": "false",
+                      "@Num": "1",
+                      "ParagraphNum": null,
+                      "ParagraphSentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "運輸監理部長又は運輸支局長は、前条の規定により更正の登録をする場合を除くほか、登録を完了した後、その登録について錯誤又は脱落があることを発見したときは、その旨を登録権利者及び登録義務者又は登録名義人に通知しなければならない。"
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "27",
+                    "ArticleTitle": "第二十七条",
+                    "Paragraph": {
+                      "@Hide": "false",
+                      "@Num": "1",
+                      "ParagraphNum": null,
+                      "ParagraphSentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "前二条の通知は、登録が第十九条の規定による申請に係るものであるときは、債権者にも、これをしなければならない。"
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "28",
+                    "ArticleTitle": "第二十八条",
+                    "Paragraph": {
+                      "@Hide": "false",
+                      "@Num": "1",
+                      "ParagraphNum": null,
+                      "ParagraphSentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "登録について錯誤又は脱落がある場合には、当該登録の申請人は、運輸監理部長又は運輸支局長に対し、更正の登録を申請することができる。"
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "29",
+                    "ArticleCaption": "（登録の抹消）",
+                    "ArticleTitle": "第二十九条",
+                    "Paragraph": [
+                      {
+                        "@Hide": "false",
+                        "@Num": "1",
+                        "ParagraphNum": null,
+                        "ParagraphSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "運輸監理部長又は運輸支局長は、登録を完了した後、その登録が第二十一条第一項第一号若しくは第二号又は道路運送車両法第八条第一号に掲げる事由に該当することを発見したときは、登録権利者、登録義務者、登録名義人及び登録上利害関係を有する第三者に対し、一箇月以内の期間を定め、その期間内に異議を述べないときは、その登録を抹消すべき旨を通知しなければならない。"
+                          }
+                        }
+                      },
+                      {
+                        "@Hide": "false",
+                        "@Num": "2",
+                        "ParagraphNum": "２",
+                        "ParagraphSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "通知を受けるべき者の住所又は居所が不明のときは、前項の通知に代えて、官報で公告をしなければならない。"
+                          }
+                        }
+                      },
+                      {
+                        "@Hide": "false",
+                        "@Num": "3",
+                        "ParagraphNum": "３",
+                        "ParagraphSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "運輸監理部長又は運輸支局長は、官報のほか相当と認める新聞紙に同一の公告を掲載することができる。"
+                          }
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "30",
+                    "ArticleTitle": "第三十条",
+                    "Paragraph": {
+                      "@Hide": "false",
+                      "@Num": "1",
+                      "ParagraphNum": null,
+                      "ParagraphSentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "前条の規定により異議を述べる者があつたときは、運輸監理部長又は運輸支局長は、その異議について決定をしなければならない。"
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "31",
+                    "ArticleTitle": "第三十一条",
+                    "Paragraph": {
+                      "@Hide": "false",
+                      "@Num": "1",
+                      "ParagraphNum": null,
+                      "ParagraphSentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "異議を述べる者がないとき、又は異議を却下したときは、運輸監理部長又は運輸支局長は、第二十九条第一項に規定する登録を抹消しなければならない。"
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "32",
+                    "ArticleTitle": "第三十二条",
+                    "Paragraph": {
+                      "@Hide": "false",
+                      "@Num": "1",
+                      "ParagraphNum": null,
+                      "ParagraphSentence": {
+                        "Sentence": [
+                          {
+                            "@Function": "main",
+                            "@Num": "1",
+                            "@WritingMode": "vertical",
+                            "Ruby": [
+                              {
+                                "Rt": "ヽ",
+                                "#text": "ま"
+                              },
+                              {
+                                "Rt": "ヽ",
+                                "#text": "つ"
+                              },
+                              {
+                                "Rt": "ヽ",
+                                "#text": "ま"
+                              },
+                              {
+                                "Rt": "ヽ",
+                                "#text": "つ"
+                              }
+                            ],
+                            "#text": "登録の\n消の申請をする場合において、その\n消について登録上利害関係を有する第三者があるときは、申請書に添えてその者の承諾書又はこれに対抗することができる裁判の謄本を添附しなければならない。"
+                          },
+                          {
+                            "@Function": "proviso",
+                            "@Num": "2",
+                            "@WritingMode": "vertical",
+                            "#text": "但し、道路運送車両法第十五条第一項第一号に規定する自動車の滅失により申請をする場合は、この限りでない。"
+                          }
+                        ]
+                      }
+                    }
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "32_2",
+                    "ArticleTitle": "第三十二条の二",
+                    "Paragraph": [
+                      {
+                        "@Hide": "false",
+                        "@Num": "1",
+                        "ParagraphNum": null,
+                        "ParagraphSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "登録自動車の所有権について民事保全法（平成元年法律第九十一号）第五十四条において準用する同法第五十三条第一項の規定による仮処分の登録（同法第五十四条において準用する同法第五十三条第二項の規定による仮処分による仮登録（以下「保全仮登録」という。）とともにしたものを除く。以下この条及び次条において同じ。）をした後、その仮処分の債権者がその仮処分の債務者を登録義務者として自動車の登録を申請する場合においては、その債権者だけでその仮処分の登録に後れる登録の抹消を申請することができる。"
+                          }
+                        }
+                      },
+                      {
+                        "@Hide": "false",
+                        "@Num": "2",
+                        "ParagraphNum": "２",
+                        "ParagraphSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "前項の規定により登録の抹消を申請する場合には、申請書に民事保全法第六十一条において準用する同法第五十九条第一項の規定による通知をしたことを証する書面を添付しなければならない。"
+                          }
+                        }
+                      },
+                      {
+                        "@Hide": "false",
+                        "@Num": "3",
+                        "ParagraphNum": "３",
+                        "ParagraphSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "運輸監理部長又は運輸支局長は、第一項の規定により仮処分の登録に後れる登録を抹消したときは、その仮処分の登録を抹消しなければならない。"
+                          }
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "32_3",
+                    "ArticleTitle": "第三十二条の三",
+                    "Paragraph": [
+                      {
+                        "@Hide": "false",
+                        "@Num": "1",
+                        "ParagraphNum": null,
+                        "ParagraphSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "前条第一項及び第二項の規定は、登録自動車の抵当権について民事保全法第五十四条において準用する同法第五十三条第一項の規定による仮処分の登録をした後、その仮処分の債権者がその仮処分の債務者を登録義務者として抵当権の移転又は消滅の登録を申請する場合について準用する。"
+                          }
+                        }
+                      },
+                      {
+                        "@Hide": "false",
+                        "@Num": "2",
+                        "ParagraphNum": "２",
+                        "ParagraphSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "前条第三項の規定は、前項において準用する同条第一項の規定により仮処分の登録に後れる登録を抹消した場合について準用する。"
+                          }
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "32_4",
+                    "ArticleTitle": "第三十二条の四",
+                    "Paragraph": {
+                      "@Hide": "false",
+                      "@Num": "1",
+                      "ParagraphNum": null,
+                      "ParagraphSentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "運輸監理部長又は運輸支局長は、保全仮登録をした後、本登録をしたときは、その保全仮登録及びこれとともにした処分禁止の登録を抹消しなければならない。"
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "33",
+                    "ArticleCaption": {
+                      "Ruby": [
+                        {
+                          "Rt": "ヽ",
+                          "#text": "ま"
+                        },
+                        {
+                          "Rt": "ヽ",
+                          "#text": "つ"
+                        }
+                      ],
+                      "#text": "（\n消した登録の回復）"
+                    },
+                    "ArticleTitle": "第三十三条",
+                    "Paragraph": {
+                      "@Hide": "false",
+                      "@Num": "1",
+                      "ParagraphNum": null,
+                      "ParagraphSentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "Ruby": [
+                            {
+                              "Rt": "ヽ",
+                              "#text": "ま"
+                            },
+                            {
+                              "Rt": "ヽ",
+                              "#text": "つ"
+                            }
+                          ],
+                          "#text": "消した登録の回復の申請をする場合において、登録上利害関係を有する第三者があるときは、申請書に添えて、その者の承諾書又はこれに対抗することができる裁判の謄本を提出しなければならない。"
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "34",
+                    "ArticleCaption": "（予告登録）",
+                    "ArticleTitle": "第三十四条",
+                    "Paragraph": {
+                      "@Hide": "false",
+                      "@Num": "1",
+                      "ParagraphNum": null,
+                      "ParagraphSentence": {
+                        "Sentence": [
+                          {
+                            "@Function": "main",
+                            "@Num": "1",
+                            "@WritingMode": "vertical",
+                            "Ruby": [
+                              {
+                                "Rt": "ヽ",
+                                "#text": "ま"
+                              },
+                              {
+                                "Rt": "ヽ",
+                                "#text": "つ"
+                              }
+                            ],
+                            "#text": "予告登録は、登録自動車に係る登録の原因の無効又は取消による登録の\n消又は回復について訴の提起があつた場合にするものとする。"
+                          },
+                          {
+                            "@Function": "proviso",
+                            "@Num": "2",
+                            "@WritingMode": "vertical",
+                            "#text": "但し、登録の原因の取消による訴については、その取消をもつて善意の第三者に対抗することができる場合に限る。"
+                          }
+                        ]
+                      }
+                    }
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "35",
+                    "ArticleCaption": "（予告登録の嘱託）",
+                    "ArticleTitle": "第三十五条",
+                    "Paragraph": {
+                      "@Hide": "false",
+                      "@Num": "1",
+                      "ParagraphNum": null,
+                      "ParagraphSentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "裁判所書記官は、前条に規定する訴えの提起があつたときは、職権で、嘱託書に訴状の謄本又は抄本を添付して、予告登録を運輸監理部長又は運輸支局長に嘱託しなければならない。"
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "36",
+                    "ArticleCaption": "（予告登録の抹消）",
+                    "ArticleTitle": "第三十六条",
+                    "Paragraph": {
+                      "@Hide": "false",
+                      "@Num": "1",
+                      "ParagraphNum": null,
+                      "ParagraphSentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "第一審裁判所の裁判所書記官は、第三十四条の訴えを却下した裁判若しくはこれを提起した者に対して敗訴を言い渡した裁判が確定したとき、訴えの取下げがあつたとき、請求の放棄があつたとき、又は請求の目的について和解があつたときは、職権で、嘱託書に裁判の謄本若しくは抄本又は訴えの取下げ、請求の放棄若しくは和解を証する書面を添付して、予告登録の抹消を運輸監理部長又は運輸支局長に嘱託しなければならない。"
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "36_2",
+                    "ArticleCaption": "（自動車登録ファイルの登録等の回復）",
+                    "ArticleTitle": "第三十六条の二",
+                    "Paragraph": [
+                      {
+                        "@Hide": "false",
+                        "@Num": "1",
+                        "ParagraphNum": null,
+                        "ParagraphSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "国土交通大臣は、自動車登録ファイルの登録等事項の記録の全部又は一部が滅失したときは、副自動車登録ファイルの記録により登録等の回復をする。"
+                          }
+                        }
+                      },
+                      {
+                        "@Hide": "false",
+                        "@Num": "2",
+                        "ParagraphNum": "２",
+                        "ParagraphSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "国土交通大臣は、副自動車登録ファイルの記録がないため前項の規定により登録等の回復をすることができないときは、記録の滅失した自動車の範囲及び登録等の回復の申請をすることができる期間（三月を下らない期間とする。）を告示する。"
+                          }
+                        }
+                      },
+                      {
+                        "@Hide": "false",
+                        "@Num": "3",
+                        "ParagraphNum": "３",
+                        "ParagraphSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "前項の規定により告示された範囲の自動車に係る登録名義人（一時抹消登録を受けた自動車にあつては、当該一時抹消登録の申請が行われた時における当該自動車の所有者又は道路運送車両法第十八条第三項の規定により当該自動車の新所有者として記録を受けた者）は、同項の規定により告示された期間内に、運輸監理部長又は運輸支局長に対し、登録等の回復の申請をすることができる。"
+                          }
+                        }
+                      },
+                      {
+                        "@Hide": "false",
+                        "@Num": "4",
+                        "ParagraphNum": "４",
+                        "ParagraphSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "運輸監理部長又は運輸支局長は、前項の申請に基づき、登録等の回復をする。"
+                          }
+                        }
+                      },
+                      {
+                        "@Hide": "false",
+                        "@Num": "5",
+                        "ParagraphNum": "５",
+                        "ParagraphSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "回復された登録の順位は、滅失前の登録の順位による。"
+                          }
+                        }
+                      },
+                      {
+                        "@Hide": "false",
+                        "@Num": "6",
+                        "ParagraphNum": "６",
+                        "ParagraphSentence": {
+                          "Sentence": [
+                            {
+                              "@Num": "1",
+                              "@WritingMode": "vertical",
+                              "#text": "第一項の規定により登録等の回復をするまでの間における自動車に関する登録等は、副自動車登録ファイルに行う。"
+                            },
+                            {
+                              "@Num": "2",
+                              "@WritingMode": "vertical",
+                              "#text": "この場合においては、副自動車登録ファイルを自動車登録ファイルとみなす。"
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "37",
+                    "ArticleCaption": "（申請書等の記載）",
+                    "ArticleTitle": "第三十七条",
+                    "Paragraph": [
+                      {
+                        "@Hide": "false",
+                        "@Num": "1",
+                        "ParagraphNum": null,
+                        "ParagraphSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "申請書その他登録等の申請又は届出に関する書面を作成する場合には、文字、記号等を明確に記載しなければならない。"
+                          }
+                        }
+                      },
+                      {
+                        "@Hide": "false",
+                        "@Num": "2",
+                        "ParagraphNum": "２",
+                        "ParagraphSentence": {
+                          "Sentence": [
+                            {
+                              "@Num": "1",
+                              "@WritingMode": "vertical",
+                              "#text": "前項の場合（申請書を作成する場合を除く。）において、文字を改め、加え、又は削つたときは、その字数を国土交通省令で定める箇所に記載し、これに押印しなければならない。"
+                            },
+                            {
+                              "@Num": "2",
+                              "@WritingMode": "vertical",
+                              "#text": "その削除に係る文字は、なお読むことができるように字体を残さなければならない。"
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "38",
+                    "ArticleCaption": "（国土交通省令への委任）",
+                    "ArticleTitle": "第三十八条",
+                    "Paragraph": {
+                      "@Hide": "false",
+                      "@Num": "1",
+                      "ParagraphNum": null,
+                      "ParagraphSentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "この政令に定めるもののほか、自動車に関する登録等の実施及び登録等の回復に関して必要な事項は、国土交通省令で定める。"
+                        }
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "2",
+                "SectionTitle": "第二節　自動車の登録等",
+                "Article": [
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "39",
+                    "ArticleTitle": "第三十九条",
+                    "Paragraph": {
+                      "@Hide": "false",
+                      "@Num": "1",
+                      "ParagraphNum": null,
+                      "ParagraphSentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "削除"
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "40",
+                    "ArticleCaption": "（変更登録）",
+                    "ArticleTitle": "第四十条",
+                    "Paragraph": {
+                      "@Hide": "false",
+                      "@Num": "1",
+                      "ParagraphNum": null,
+                      "ParagraphSentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "自動車の変更登録を申請する場合において、型式、車台番号又は原動機の型式の変更が登録の原因であるときは、当該自動車を提示しなければならない。"
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "41",
+                    "ArticleTitle": "第四十一条",
+                    "Paragraph": {
+                      "@Hide": "false",
+                      "@Num": "1",
+                      "ParagraphNum": null,
+                      "ParagraphSentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "削除"
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "42",
+                    "ArticleTitle": "第四十二条",
+                    "Paragraph": {
+                      "@Hide": "false",
+                      "@Num": "1",
+                      "ParagraphNum": null,
+                      "ParagraphSentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "削除"
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "43",
+                    "ArticleCaption": "（自動車登録番号の変更）",
+                    "ArticleTitle": "第四十三条",
+                    "Paragraph": [
+                      {
+                        "@Hide": "false",
+                        "@Num": "1",
+                        "ParagraphNum": null,
+                        "ParagraphSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "運輸監理部長又は運輸支局長は、道路運送車両法第十一条第二項において準用する同条第一項の規定により自動車登録番号標の交付を受けようとする自動車の所有者から申請があつたときは、自動車登録番号を変更することができる。"
+                          }
+                        }
+                      },
+                      {
+                        "@Hide": "false",
+                        "@Num": "2",
+                        "ParagraphNum": "２",
+                        "ParagraphSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "道路運送車両法第九条及び第十条の規定は、前項の規定により自動車登録番号を変更する場合について準用する。"
+                          }
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "44",
+                    "ArticleTitle": "第四十四条",
+                    "Paragraph": {
+                      "@Hide": "false",
+                      "@Num": "1",
+                      "ParagraphNum": null,
+                      "ParagraphSentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "運輸監理部長又は運輸支局長は、道路運送車両法第十四条第一項又は前条第一項の規定により自動車登録番号を変更したときは、遅滞なく、その旨を登録上利害関係を有する第三者に通知しなければならない。"
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "45",
+                    "ArticleCaption": "（公売処分による移転登録）",
+                    "ArticleTitle": "第四十五条",
+                    "Paragraph": {
+                      "@Hide": "false",
+                      "@Num": "1",
+                      "ParagraphNum": null,
+                      "ParagraphSentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "登録自動車の公売処分をした者は、国税徴収法（昭和三十四年法律第百四十七号）その他の法令に別段の定めがある場合を除き、登録権利者の請求により、嘱託書に登録の原因を証する書面を添付して、自動車の移転登録を運輸監理部長又は運輸支局長に嘱託しなければならない。"
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "46",
+                    "ArticleCaption": "（解体報告記録）",
+                    "ArticleTitle": "第四十六条",
+                    "Paragraph": {
+                      "@Hide": "false",
+                      "@Num": "1",
+                      "ParagraphNum": null,
+                      "ParagraphSentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "道路運送車両法第十五条第一項の政令で定める記録は、使用済自動車の再資源化等に関する法律（平成十四年法律第八十七号）第八十一条第九項の規定により解体業者（同法による解体業者をいう。以下同じ。）が解体自動車全部利用者（同法による解体自動車全部利用者をいう。以下同じ。）に解体自動車（同法による解体自動車をいう。以下同じ。）を引き渡したとき（当該解体自動車全部利用者に当該解体自動車を引き渡すために行う運搬を他人に委託する場合にあつては、当該解体自動車の運搬を受託した者に当該解体自動車を引き渡したとき）、又は同条第十項の規定により破砕業者（同法による破砕業者をいう。）が解体業者から解体自動車を引き取つたときにおける情報管理センターに対する報告の記録とする。"
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "47",
+                    "ArticleCaption": "（抵当自動車の輸出抹消仮登録等）",
+                    "ArticleTitle": "第四十七条",
+                    "Paragraph": [
+                      {
+                        "@Hide": "false",
+                        "@Num": "1",
+                        "ParagraphNum": null,
+                        "ParagraphSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "運輸監理部長又は運輸支局長は、抵当自動車について輸出抹消仮登録又は一時抹消登録の申請を受理した場合において、自動車抵当法第十六条後段の規定により通知をしたときは、その旨の登録をしなければならない。"
+                          }
+                        }
+                      },
+                      {
+                        "@Hide": "false",
+                        "@Num": "2",
+                        "ParagraphNum": "２",
+                        "ParagraphSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "運輸監理部長又は運輸支局長は、自動車抵当法第十七条第二項の規定により抵当権の実行の手続をすることができる期間内に競売の申立てがなかつたときは、輸出抹消仮登録又は一時抹消登録をし、その旨を登録権利者に通知する。"
+                          }
+                        }
+                      },
+                      {
+                        "@Hide": "false",
+                        "@Num": "3",
+                        "ParagraphNum": "３",
+                        "ParagraphSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "運輸監理部長又は運輸支局長は、自動車抵当法第十七条第二項の規定により抵当権の実行の手続をすることができる期間内に競売に係る差押えの登録の嘱託があり、これに基づきその登録をした場合において、競売申立ての取下げ又は競売手続の取消決定によるその登録の抹消の嘱託があり、これに基づきその登録を抹消したときは、その期間経過後輸出抹消仮登録又は一時抹消登録をし、その旨を登録権利者に通知する。"
+                          }
+                        }
+                      },
+                      {
+                        "@Hide": "false",
+                        "@Num": "4",
+                        "ParagraphNum": "４",
+                        "ParagraphSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "運輸監理部長又は運輸支局長は、自動車抵当法第十七条第四項の規定により輸出抹消仮登録又は一時抹消登録の申請がなかつたものとみなされた自動車について、競売に係る代金納付による移転登録の嘱託があり、これに基づきその登録をするときは、併せて、第一項の登録を抹消しなければならない。"
+                          }
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "48",
+                    "ArticleCaption": "（一時抹消登録後の所有者の変更に係る記録の申請）",
+                    "ArticleTitle": "第四十八条",
+                    "Paragraph": [
+                      {
+                        "@Hide": "false",
+                        "@Num": "1",
+                        "ParagraphNum": null,
+                        "ParagraphSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "道路運送車両法第十八条第三項の規定により所有者の変更について自動車登録ファイルに記録を受けようとする新所有者は、申請書に、当該自動車の所有権を証明するに足る書面その他の国土交通省令で定める書面を添えて提出しなければならない。"
+                          }
+                        }
+                      },
+                      {
+                        "@Hide": "false",
+                        "@Num": "2",
+                        "ParagraphNum": "２",
+                        "ParagraphSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "前項の申請書の様式及び記載方法は、国土交通省令で定める。"
+                          }
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "3",
+                "SectionTitle": "第三節　抵当権の登録",
+                "Article": [
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "49",
+                    "ArticleCaption": "（設定の登録）",
+                    "ArticleTitle": "第四十九条",
+                    "Paragraph": [
+                      {
+                        "@Hide": "false",
+                        "@Num": "1",
+                        "ParagraphNum": null,
+                        "ParagraphSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "抵当権の設定の登録の申請をする場合には、申請書にその債権の額を記載し、且つ、登録の原因に利息に関する定があるとき、その債権に条件を附したとき、又は自動車抵当法第六条但書の定があるときは、これを記載しなければならない。"
+                          }
+                        }
+                      },
+                      {
+                        "@Hide": "false",
+                        "@Num": "2",
+                        "ParagraphNum": "２",
+                        "ParagraphSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "自動車抵当法第十九条の二第一項の抵当権（以下「根抵当権」という。）の設定の登録の申請をする場合には、前項の規定にかかわらず、申請書に、担保すべき債権の範囲及び極度額を記載し、かつ、同法第六条ただし書の定めがあるとき、又は担保すべき元本の確定すべき期日の定めがあるときは、これを記載しなければならない。"
+                          }
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "50",
+                    "ArticleTitle": "第五十条",
+                    "Paragraph": {
+                      "@Hide": "false",
+                      "@Num": "1",
+                      "ParagraphNum": null,
+                      "ParagraphSentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "抵当権の設定の登録の申請をする場合において、抵当権の設定者が債務者でないときは、申請書にその債務者の氏名又は名称及び住所を記載しなければならない。"
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "51",
+                    "ArticleTitle": "第五十一条",
+                    "Paragraph": {
+                      "@Hide": "false",
+                      "@Num": "1",
+                      "ParagraphNum": null,
+                      "ParagraphSentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "一定の金額を目的としない債権の担保たる抵当権の設定登録の申請をする場合には、申請書にその債権の価格を記載しなければならない。"
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "52",
+                    "ArticleCaption": "（共同抵当）",
+                    "ArticleTitle": "第五十二条",
+                    "Paragraph": {
+                      "@Hide": "false",
+                      "@Num": "1",
+                      "ParagraphNum": null,
+                      "ParagraphSentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "同一の債権を担保するため二両以上の自動車を目的とする抵当権の設定の登録の申請をする場合には、それぞれの自動車に係る申請書に他の自動車についての国土交通省令で定める事項を記載しなければならない。"
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "53",
+                    "ArticleTitle": "第五十三条",
+                    "Paragraph": {
+                      "@Hide": "false",
+                      "@Num": "1",
+                      "ParagraphNum": null,
+                      "ParagraphSentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "自動車の抵当権の設定の登録をした後、同一の債権を担保するため他の自動車について抵当権の設定の登録を申請する場合には、申請書に前の登録を表示するに足る事項を記載しなければならない。"
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "54",
+                    "ArticleCaption": "（根抵当権当事者の相続に関する合意の登録）",
+                    "ArticleTitle": "第五十四条",
+                    "Paragraph": {
+                      "@Hide": "false",
+                      "@Num": "1",
+                      "ParagraphNum": null,
+                      "ParagraphSentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "自動車抵当法第十九条の二第二項において準用する民法第三百九十八条の八第一項又は第二項の合意の登録は、相続による根抵当権の移転又は債務者の変更の登録をした後でなければすることができない。"
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "55",
+                    "ArticleCaption": "（移転の登録）",
+                    "ArticleTitle": "第五十五条",
+                    "Paragraph": {
+                      "@Hide": "false",
+                      "@Num": "1",
+                      "ParagraphNum": null,
+                      "ParagraphSentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "抵当権（元本の確定前の根抵当権を除く。）の移転の登録の申請をする場合には、申請書に添えて債権の移転を証する書面を提出しなければならない。"
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "56",
+                    "ArticleTitle": "第五十六条",
+                    "Paragraph": {
+                      "@Hide": "false",
+                      "@Num": "1",
+                      "ParagraphNum": null,
+                      "ParagraphSentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "債権の一部の譲渡又は代位弁済による抵当権の移転の登録の申請をする場合には、申請書に譲渡又は代位弁済の目的たる債権の額を記載しなければならない。"
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "57",
+                    "ArticleTitle": "第五十七条",
+                    "Paragraph": {
+                      "@Hide": "false",
+                      "@Num": "1",
+                      "ParagraphNum": null,
+                      "ParagraphSentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "削除"
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "58",
+                    "ArticleCaption": "（登録の抹消）",
+                    "ArticleTitle": "第五十八条",
+                    "Paragraph": [
+                      {
+                        "@Hide": "false",
+                        "@Num": "1",
+                        "ParagraphNum": null,
+                        "ParagraphSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "登録権利者は、登録義務者の所在が不分明であるため抵当権の登録の抹消の申請をすることができないときは、非訟事件手続法（平成二十三年法律第五十一号）第九十九条に規定する公示催告の申立てをすることができる。"
+                          }
+                        }
+                      },
+                      {
+                        "@Hide": "false",
+                        "@Num": "2",
+                        "ParagraphNum": "２",
+                        "ParagraphSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "前項の場合において、非訟事件手続法第百六条第一項に規定する除権決定があつたときは、申請書にその謄本を添付して、登録権利者だけで抵当権の登録の抹消の申請をすることができる。"
+                          }
+                        }
+                      },
+                      {
+                        "@Hide": "false",
+                        "@Num": "3",
+                        "ParagraphNum": "３",
+                        "ParagraphSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "登録義務者の所在が不分明であるため根抵当権以外の抵当権について登録の抹消の申請をすることができない場合において、申請書に添付して、債権証書、債権の受取証書並びに自動車抵当法第十二条の規定により抵当権を行使することができる定期金及び損害賠償の受取証書を提出したときは、登録権利者だけで抵当権の登録の抹消の申請をすることができる。"
+                          }
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "59",
+                    "ArticleTitle": "第五十九条",
+                    "Paragraph": {
+                      "@Hide": "false",
+                      "@Num": "1",
+                      "ParagraphNum": null,
+                      "ParagraphSentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "運輸監理部長又は運輸支局長は、第四十五条の規定による公売処分による自動車の移転登録の嘱託があつた場合において、当該自動車について抵当権の登録があるときは、その登録を抹消しなければならない。"
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "60",
+                    "ArticleCaption": "（保全仮登録に基づく本登録の順位）",
+                    "ArticleTitle": "第六十条",
+                    "Paragraph": {
+                      "@Hide": "false",
+                      "@Num": "1",
+                      "ParagraphNum": null,
+                      "ParagraphSentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "保全仮登録に基づく本登録の順位は、保全仮登録の順位による。"
+                        }
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "4",
+                "SectionTitle": "第四節　信託に関する登録",
+                "Article": [
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "61",
+                    "ArticleCaption": "（信託の登録の申請書）",
+                    "ArticleTitle": "第六十一条",
+                    "Paragraph": [
+                      {
+                        "@Hide": "false",
+                        "@Num": "1",
+                        "ParagraphNum": null,
+                        "ParagraphSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "信託の登録の申請書には、次に掲げる事項を記載しなければならない。"
+                          }
+                        },
+                        "Item": [
+                          {
+                            "@Delete": "false",
+                            "@Hide": "false",
+                            "@Num": "1",
+                            "ItemTitle": "一",
+                            "ItemSentence": {
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "委託者、受託者及び受益者の氏名又は名称及び住所"
+                              }
+                            }
+                          },
+                          {
+                            "@Delete": "false",
+                            "@Hide": "false",
+                            "@Num": "2",
+                            "ItemTitle": "二",
+                            "ItemSentence": {
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "受益者の指定に関する条件又は受益者を定める方法の定めがあるときは、その定め"
+                              }
+                            }
+                          },
+                          {
+                            "@Delete": "false",
+                            "@Hide": "false",
+                            "@Num": "3",
+                            "ItemTitle": "三",
+                            "ItemSentence": {
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "信託管理人があるときは、その氏名又は名称及び住所"
+                              }
+                            }
+                          },
+                          {
+                            "@Delete": "false",
+                            "@Hide": "false",
+                            "@Num": "4",
+                            "ItemTitle": "四",
+                            "ItemSentence": {
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "受益者代理人があるときは、その氏名又は名称及び住所"
+                              }
+                            }
+                          },
+                          {
+                            "@Delete": "false",
+                            "@Hide": "false",
+                            "@Num": "5",
+                            "ItemTitle": "五",
+                            "ItemSentence": {
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "信託法（平成十八年法律第百八号）第百八十五条第三項に規定する受益証券発行信託であるときは、その旨"
+                              }
+                            }
+                          },
+                          {
+                            "@Delete": "false",
+                            "@Hide": "false",
+                            "@Num": "6",
+                            "ItemTitle": "六",
+                            "ItemSentence": {
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "信託法第二百五十八条第一項に規定する受益者の定めのない信託であるときは、その旨"
+                              }
+                            }
+                          },
+                          {
+                            "@Delete": "false",
+                            "@Hide": "false",
+                            "@Num": "7",
+                            "ItemTitle": "七",
+                            "ItemSentence": {
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "公益信託ニ関スル法律（大正十一年法律第六十二号）第一条に規定する公益信託であるときは、その旨"
+                              }
+                            }
+                          },
+                          {
+                            "@Delete": "false",
+                            "@Hide": "false",
+                            "@Num": "8",
+                            "ItemTitle": "八",
+                            "ItemSentence": {
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "信託の目的"
+                              }
+                            }
+                          },
+                          {
+                            "@Delete": "false",
+                            "@Hide": "false",
+                            "@Num": "9",
+                            "ItemTitle": "九",
+                            "ItemSentence": {
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "信託財産の管理方法"
+                              }
+                            }
+                          },
+                          {
+                            "@Delete": "false",
+                            "@Hide": "false",
+                            "@Num": "10",
+                            "ItemTitle": "十",
+                            "ItemSentence": {
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "信託の終了の事由"
+                              }
+                            }
+                          },
+                          {
+                            "@Delete": "false",
+                            "@Hide": "false",
+                            "@Num": "11",
+                            "ItemTitle": "十一",
+                            "ItemSentence": {
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "その他の信託の条項"
+                              }
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "@Hide": "false",
+                        "@Num": "2",
+                        "ParagraphNum": "２",
+                        "ParagraphSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "前項の申請書に同項第二号から第六号までに掲げる事項のいずれかを記載したときは、同項第一号の受益者（同項第四号に掲げる事項を記載した場合にあつては、当該受益者代理人が代理する受益者に限る。）の氏名又は名称及び住所を記載することを要しない。"
+                          }
+                        }
+                      },
+                      {
+                        "@Hide": "false",
+                        "@Num": "3",
+                        "ParagraphNum": "３",
+                        "ParagraphSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "運輸監理部長又は運輸支局長は、第一項各号に掲げる事項を明らかにするため、国土交通省令で定めるところにより、信託目録を作成することができる。"
+                          }
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "62",
+                    "ArticleCaption": "（信託の登録の申請方法等）",
+                    "ArticleTitle": "第六十二条",
+                    "Paragraph": [
+                      {
+                        "@Hide": "false",
+                        "@Num": "1",
+                        "ParagraphNum": null,
+                        "ParagraphSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "信託の登録の申請は、当該信託に係る自動車に関する権利の設定、移転又は変更の登録の申請と同時にしなければならない。"
+                          }
+                        }
+                      },
+                      {
+                        "@Hide": "false",
+                        "@Num": "2",
+                        "ParagraphNum": "２",
+                        "ParagraphSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "自動車に関する権利の信託の登録は、受託者だけで申請することができる。"
+                          }
+                        }
+                      },
+                      {
+                        "@Hide": "false",
+                        "@Num": "3",
+                        "ParagraphNum": "３",
+                        "ParagraphSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "信託法第三条第三号に掲げる方法によつてされた信託による権利の変更の登録は、受託者だけで申請することができる。"
+                          }
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "63",
+                    "ArticleCaption": "（代位による信託の登録の申請）",
+                    "ArticleTitle": "第六十三条",
+                    "Paragraph": [
+                      {
+                        "@Hide": "false",
+                        "@Num": "1",
+                        "ParagraphNum": null,
+                        "ParagraphSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "受益者又は委託者は、受託者に代位して信託の登録を申請することができる。"
+                          }
+                        }
+                      },
+                      {
+                        "@Hide": "false",
+                        "@Num": "2",
+                        "ParagraphNum": "２",
+                        "ParagraphSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "第十九条の規定は、前項の規定による申請について準用する。"
+                          }
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "64",
+                    "ArticleCaption": "（受託者の変更による登録等）",
+                    "ArticleTitle": "第六十四条",
+                    "Paragraph": [
+                      {
+                        "@Hide": "false",
+                        "@Num": "1",
+                        "ParagraphNum": null,
+                        "ParagraphSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "受託者の任務が死亡、後見開始若しくは保佐開始の審判、破産手続開始の決定、法人の合併以外の理由による解散又は裁判所若しくは主務官庁（その権限の委任を受けた国に所属する行政庁及びその権限に属する事務を処理する都道府県の執行機関を含む。第六十六条第二項において同じ。）の解任命令により終了し、新たに受託者が選任されたときは、信託財産に属する自動車についてする受託者の変更による権利の移転の登録は、第十条の規定にかかわらず、新たに選任された当該受託者だけで申請することができる。"
+                          }
+                        }
+                      },
+                      {
+                        "@Hide": "false",
+                        "@Num": "2",
+                        "ParagraphNum": "２",
+                        "ParagraphSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "受託者が二人以上ある場合において、その一部の受託者の任務が前項に規定する事由により終了したときは、信託財産に属する自動車についてする当該受託者の任務の終了による権利の変更の登録は、第十条の規定にかかわらず、他の受託者だけで申請することができる。"
+                          }
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "65",
+                    "ArticleCaption": "（職権による信託の変更の登録）",
+                    "ArticleTitle": "第六十五条",
+                    "Paragraph": {
+                      "@Hide": "false",
+                      "@Num": "1",
+                      "ParagraphNum": null,
+                      "ParagraphSentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "運輸監理部長又は運輸支局長は、信託財産に属する自動車について次に掲げる登録をするときは、職権で、信託の変更の登録をしなければならない。"
+                        }
+                      },
+                      "Item": [
+                        {
+                          "@Delete": "false",
+                          "@Hide": "false",
+                          "@Num": "1",
+                          "ItemTitle": "一",
+                          "ItemSentence": {
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "信託法第七十五条第一項又は第二項の規定による権利の移転の登録"
+                            }
+                          }
+                        },
+                        {
+                          "@Delete": "false",
+                          "@Hide": "false",
+                          "@Num": "2",
+                          "ItemTitle": "二",
+                          "ItemSentence": {
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "信託法第八十六条第四項本文の規定による権利の変更の登録"
+                            }
+                          }
+                        },
+                        {
+                          "@Delete": "false",
+                          "@Hide": "false",
+                          "@Num": "3",
+                          "ItemTitle": "三",
+                          "ItemSentence": {
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "受託者である登録名義人の氏名若しくは名称又は住所についての変更の登録又は更正の登録"
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "66",
+                    "ArticleCaption": "（嘱託による信託の変更の登録）",
+                    "ArticleTitle": "第六十六条",
+                    "Paragraph": [
+                      {
+                        "@Hide": "false",
+                        "@Num": "1",
+                        "ParagraphNum": null,
+                        "ParagraphSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "裁判所書記官は、受託者の解任の裁判があつたとき、信託管理人若しくは受益者代理人の選任若しくは解任の裁判があつたとき、又は信託の変更を命ずる裁判があつたときは、職権で、遅滞なく、信託の変更の登録を運輸監理部長又は運輸支局長に嘱託しなければならない。"
+                          }
+                        }
+                      },
+                      {
+                        "@Hide": "false",
+                        "@Num": "2",
+                        "ParagraphNum": "２",
+                        "ParagraphSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "主務官庁は、受託者を解任したとき、信託管理人若しくは受益者代理人を選任し、若しくは解任したとき、又は信託の変更を命じたときは、遅滞なく、信託の変更の登録を運輸監理部長又は運輸支局長に嘱託しなければならない。"
+                          }
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "67",
+                    "ArticleCaption": "（信託の変更の登録の申請）",
+                    "ArticleTitle": "第六十七条",
+                    "Paragraph": [
+                      {
+                        "@Hide": "false",
+                        "@Num": "1",
+                        "ParagraphNum": null,
+                        "ParagraphSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "前二条に規定するもののほか、第六十一条第一項各号に掲げる事項について変更があつたときは、受託者は、遅滞なく、信託の変更の登録を申請しなければならない。"
+                          }
+                        }
+                      },
+                      {
+                        "@Hide": "false",
+                        "@Num": "2",
+                        "ParagraphNum": "２",
+                        "ParagraphSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "受益者又は委託者は、受託者に代位して前項の規定による申請をすることができる。"
+                          }
+                        }
+                      },
+                      {
+                        "@Hide": "false",
+                        "@Num": "3",
+                        "ParagraphNum": "３",
+                        "ParagraphSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "第十九条の規定は、前項の規定による申請について準用する。"
+                          }
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "68",
+                    "ArticleCaption": "（信託の登録の抹消）",
+                    "ArticleTitle": "第六十八条",
+                    "Paragraph": [
+                      {
+                        "@Hide": "false",
+                        "@Num": "1",
+                        "ParagraphNum": null,
+                        "ParagraphSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "信託財産に属する自動車に関する権利が移転、変更又は消滅により信託財産に属しないこととなつた場合における信託の登録の抹消の申請は、自動車に関する権利の移転若しくは変更の登録又は当該権利の登録の抹消の申請と同時にしなければならない。"
+                          }
+                        }
+                      },
+                      {
+                        "@Hide": "false",
+                        "@Num": "2",
+                        "ParagraphNum": "２",
+                        "ParagraphSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "信託の登録の抹消は、受託者だけで申請することができる。"
+                          }
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "69",
+                    "ArticleCaption": "（権利の変更の登録等の特則）",
+                    "ArticleTitle": "第六十九条",
+                    "Paragraph": [
+                      {
+                        "@Hide": "false",
+                        "@Num": "1",
+                        "ParagraphNum": null,
+                        "ParagraphSentence": {
+                          "Sentence": [
+                            {
+                              "@Num": "1",
+                              "@WritingMode": "vertical",
+                              "#text": "信託の併合又は分割により自動車に関する権利が一の信託の信託財産に属する財産から他の信託の信託財産に属する財産となつた場合における当該権利に係る当該一の信託についての信託の登録の抹消及び当該他の信託についての信託の登録の申請は、信託の併合又は分割による権利の変更の登録の申請と同時にしなければならない。"
+                            },
+                            {
+                              "@Num": "2",
+                              "@WritingMode": "vertical",
+                              "#text": "信託の併合又は分割以外の事由により自動車に関する権利が一の信託の信託財産に属する財産から受託者を同一とする他の信託の信託財産に属する財産となつた場合も、同様とする。"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "@Hide": "false",
+                        "@Num": "2",
+                        "ParagraphNum": "２",
+                        "ParagraphSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "信託財産に属する自動車についてする次の表の上欄に掲げる場合における権利の変更の登録（第六十二条第三項の登録を除く。）については、同表の中欄に掲げる者を登録権利者とし、同表の下欄に掲げる者を登録義務者とする。"
+                          }
+                        },
+                        "TableStruct": {
+                          "Table": {
+                            "@WritingMode": "vertical",
+                            "TableRow": [
+                              {
+                                "TableColumn": [
+                                  {
+                                    "@BorderBottom": "solid",
+                                    "@BorderLeft": "solid",
+                                    "@BorderRight": "solid",
+                                    "@BorderTop": "solid",
+                                    "Sentence": {
+                                      "@WritingMode": "vertical",
+                                      "#text": "一　自動車に関する権利が固有財産に属する財産から信託財産に属する財産となつた場合"
+                                    }
+                                  },
+                                  {
+                                    "@BorderBottom": "solid",
+                                    "@BorderLeft": "solid",
+                                    "@BorderRight": "solid",
+                                    "@BorderTop": "solid",
+                                    "Sentence": {
+                                      "@WritingMode": "vertical",
+                                      "#text": "受益者（信託管理人がある場合にあつては、信託管理人。以下この表において同じ。）"
+                                    }
+                                  },
+                                  {
+                                    "@BorderBottom": "solid",
+                                    "@BorderLeft": "solid",
+                                    "@BorderRight": "solid",
+                                    "@BorderTop": "solid",
+                                    "Sentence": {
+                                      "@WritingMode": "vertical",
+                                      "#text": "受託者"
+                                    }
+                                  }
+                                ]
+                              },
+                              {
+                                "TableColumn": [
+                                  {
+                                    "@BorderBottom": "solid",
+                                    "@BorderLeft": "solid",
+                                    "@BorderRight": "solid",
+                                    "@BorderTop": "solid",
+                                    "Sentence": {
+                                      "@WritingMode": "vertical",
+                                      "#text": "二　自動車に関する権利が信託財産に属する財産から固有財産に属する財産となつた場合"
+                                    }
+                                  },
+                                  {
+                                    "@BorderBottom": "solid",
+                                    "@BorderLeft": "solid",
+                                    "@BorderRight": "solid",
+                                    "@BorderTop": "solid",
+                                    "Sentence": {
+                                      "@WritingMode": "vertical",
+                                      "#text": "受託者"
+                                    }
+                                  },
+                                  {
+                                    "@BorderBottom": "solid",
+                                    "@BorderLeft": "solid",
+                                    "@BorderRight": "solid",
+                                    "@BorderTop": "solid",
+                                    "Sentence": {
+                                      "@WritingMode": "vertical",
+                                      "#text": "受益者"
+                                    }
+                                  }
+                                ]
+                              },
+                              {
+                                "TableColumn": [
+                                  {
+                                    "@BorderBottom": "solid",
+                                    "@BorderLeft": "solid",
+                                    "@BorderRight": "solid",
+                                    "@BorderTop": "solid",
+                                    "Sentence": {
+                                      "@WritingMode": "vertical",
+                                      "#text": "三　自動車に関する権利が一の信託の信託財産に属する財産から他の信託の信託財産に属する財産となつた場合"
+                                    }
+                                  },
+                                  {
+                                    "@BorderBottom": "solid",
+                                    "@BorderLeft": "solid",
+                                    "@BorderRight": "solid",
+                                    "@BorderTop": "solid",
+                                    "Sentence": {
+                                      "@WritingMode": "vertical",
+                                      "#text": "当該他の信託の受益者及び受託者"
+                                    }
+                                  },
+                                  {
+                                    "@BorderBottom": "solid",
+                                    "@BorderLeft": "solid",
+                                    "@BorderRight": "solid",
+                                    "@BorderTop": "solid",
+                                    "Sentence": {
+                                      "@WritingMode": "vertical",
+                                      "#text": "当該一の信託の受益者及び受託者"
+                                    }
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "SupplProvision": [
+        {
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": [
+            {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": "１",
+              "ParagraphSentence": {
+                "Sentence": [
+                  {
+                    "@Function": "main",
+                    "@Num": "1",
+                    "@WritingMode": "vertical",
+                    "#text": "この政令は、昭和二十六年七月一日から施行する。"
+                  },
+                  {
+                    "@Function": "proviso",
+                    "@Num": "2",
+                    "@WritingMode": "vertical",
+                    "#text": "但し、第三条から第五条まで、第七条第二項、第十条（抵当権の登録に関する部分に限る。）、第十二条第二項、第三十四条から第三十七条まで、第四十一条及び第四十五条から第五十九条までの規定は、昭和二十七年四月一日から施行する。"
+                  }
+                ]
+              }
+            },
+            {
+              "@Hide": "false",
+              "@Num": "2",
+              "ParagraphNum": "２",
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "自動車抵当法施行法（昭和二十六年法律第百八十八号）第七条の規定による質権の登録の申請は、登録権利者が自動車を呈示して行う場合に限り、その者だけで行うことができる。"
+                }
+              }
+            },
+            {
+              "@Hide": "false",
+              "@Num": "3",
+              "ParagraphNum": "３",
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "前項の質権の登録を申請する場合において、登録権利者である質権者が質権の目的たる自動車を転質とした場合には、当該質権者は、転質権者の承諾書の添附を同項の自動車の呈示に代えることができる。"
+                }
+              }
+            },
+            {
+              "@Hide": "false",
+              "@Num": "4",
+              "ParagraphNum": "４",
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "転質権者は、質権の設定の登録がされていないときでも、附則第二項の規定により転質の登録を申請することができる。"
+                }
+              }
+            },
+            {
+              "@Hide": "false",
+              "@Num": "5",
+              "ParagraphNum": "５",
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "都道府県知事は、前項の申請により転質の登録をするときは、職権により、質権の設定の登録をしなければならない。"
+                }
+              }
+            },
+            {
+              "@Hide": "false",
+              "@Num": "6",
+              "ParagraphNum": "６",
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "質権の設定又は転質の登録を申請する場合には、申請書に債権の額を記載し、且つ、登録の原因に存続期間若しくは弁済期の定があるとき、違約金若しくは賠償額の定があるとき、その債権に条件を附したとき又は民法第三百四十六条但書の定があるときは、これを記載しなければならない。"
+                }
+              }
+            },
+            {
+              "@Hide": "false",
+              "@Num": "7",
+              "ParagraphNum": "７",
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "前六項に定めるものの外、附則第二項の質権の登録については、自動車の抵当権の登録に関する規定を準用する。"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@AmendLawNum": "昭和二七年四月一日政令第九七号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この政令は、公布の日から施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "昭和二七年四月二八日政令第一一六号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この政令は、公布の日から施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "昭和三〇年九月二八日政令第二六三号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": [
+            {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": "１",
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "この政令は、昭和三十年十月一日から施行する。"
+                }
+              }
+            },
+            {
+              "@Hide": "false",
+              "@Num": "2",
+              "ParagraphNum": "２",
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "Ruby": [
+                    {
+                      "Rt": "ヽ",
+                      "#text": "ま"
+                    },
+                    {
+                      "Rt": "ヽ",
+                      "#text": "つ"
+                    }
+                  ],
+                  "#text": "この政令の施行の際現に自動車登録原簿に自動車の所有権の登録以外の登録がある自動車については、第十五条、第四十条及び第四十一条の改正規定にかかわらず、当該自動車に係る所有権の登録以外の登録が\n消されるまでの間は、なお従前の例による。"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@AmendLawNum": "昭和三四年一二月二六日政令第三八三号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphNum": "１",
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この政令は、国税徴収法の施行の日（昭和三十五年一月一日）から施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "昭和三八年九月一三日政令第三二五号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この政令は、昭和三十八年十月十五日から施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "昭和三九年三月一七日政令第二五号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この政令は、昭和三十九年四月一日から施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "昭和四二年六月三〇日政令第一六二号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphNum": "１",
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この政令は、昭和四十二年八月一日から施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "昭和四四年一二月一九日政令第三〇八号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この政令中、第一条から第三条までの規定は、昭和四十五年一月一日から、第四条から第六条までの規定は、同年三月一日から、第七条の規定は、同年四月一日から施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "昭和四七年三月二八日政令第三九号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": [
+            {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": "１",
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "この政令は、昭和四十七年四月一日から施行する。"
+                }
+              }
+            },
+            {
+              "@Hide": "false",
+              "@Num": "2",
+              "ParagraphNum": "２",
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "民法の一部を改正する法律（昭和四十六年法律第九十九号）附則第二十三条及び第二十五条の規定によりその例によるものとされた同法附則第二条ただし書の規定により効力を有する事項の登録については、なお従前の例による。"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@AmendLawNum": "昭和五五年八月三〇日政令第二三一号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphCaption": "（施行期日）",
+            "ParagraphNum": "１",
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この政令は、民事執行法の施行の日（昭和五十五年十月一日）から施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "昭和五九年六月六日政令第一七六号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Article": [
+            {
+              "@Delete": "false",
+              "@Hide": "false",
+              "@Num": "1",
+              "ArticleCaption": "（施行期日）",
+              "ArticleTitle": "第一条",
+              "Paragraph": {
+                "@Hide": "false",
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "この政令は、昭和五十九年七月一日から施行する。"
+                  }
+                }
+              }
+            },
+            {
+              "@Delete": "false",
+              "@Hide": "false",
+              "@Num": "2",
+              "ArticleCaption": "（経過措置）",
+              "ArticleTitle": "第二条",
+              "Paragraph": {
+                "@Hide": "false",
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "この政令の施行前に次の表の上欄に掲げる行政庁が法律若しくはこれに基づく命令の規定によりした許可、認可その他の処分又は契約その他の行為（以下「処分等」という。）は、同表の下欄に掲げるそれぞれの行政庁がした処分等とみなし、この政令の施行前に同表の上欄に掲げる行政庁に対してした申請、届出その他の行為（以下「申請等」という。）は、同表の下欄に掲げるそれぞれの行政庁に対してした申請等とみなす。"
+                  }
+                },
+                "TableStruct": {
+                  "Table": {
+                    "@WritingMode": "vertical",
+                    "TableRow": [
+                      {
+                        "TableColumn": [
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "北海海運局長"
+                            }
+                          },
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "北海道運輸局長"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "TableColumn": [
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "東北海運局長（山形県又は秋田県の区域に係る処分等又は申請等に係る場合を除く。）"
+                            }
+                          },
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "東北運輸局長"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "TableColumn": [
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "東北海運局長（山形県又は秋田県の区域に係る処分等又は申請等に係る場合に限る。）及び新潟海運監理部長"
+                            }
+                          },
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "新潟運輸局長"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "TableColumn": [
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "関東海運局長"
+                            }
+                          },
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "関東運輸局長"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "TableColumn": [
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "東海海運局長"
+                            }
+                          },
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "中部運輸局長"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "TableColumn": [
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "近畿海運局長"
+                            }
+                          },
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "近畿運輸局長"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "TableColumn": [
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "中国海運局長"
+                            }
+                          },
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "中国運輸局長"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "TableColumn": [
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "四国海運局長"
+                            }
+                          },
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "四国運輸局長"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "TableColumn": [
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "九州海運局長"
+                            }
+                          },
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "九州運輸局長"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "TableColumn": [
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "神戸海運局長"
+                            }
+                          },
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "神戸海運監理部長"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "TableColumn": [
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "札幌陸運局長"
+                            }
+                          },
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "北海道運輸局長"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "TableColumn": [
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "仙台陸運局長"
+                            }
+                          },
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "東北運輸局長"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "TableColumn": [
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "新潟陸運局長"
+                            }
+                          },
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "新潟運輸局長"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "TableColumn": [
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "東京陸運局長"
+                            }
+                          },
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "関東運輸局長"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "TableColumn": [
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "名古屋陸運局長"
+                            }
+                          },
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "中部運輸局長"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "TableColumn": [
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "大阪陸運局長"
+                            }
+                          },
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "近畿運輸局長"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "TableColumn": [
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "広島陸運局長"
+                            }
+                          },
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "中国運輸局長"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "TableColumn": [
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "高松陸運局長"
+                            }
+                          },
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "四国運輸局長"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "TableColumn": [
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "福岡陸運局長"
+                            }
+                          },
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "九州運輸局長"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@AmendLawNum": "昭和五九年一一月二四日政令第三三一号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この政令は、道路運送法等の一部を改正する法律の施行の日（昭和六十年四月一日）から施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "昭和六二年八月一一日政令第二八〇号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この政令は、昭和六十三年一月一日から施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成二年九月二七日政令第二八五号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この政令は、民事保全法の施行の日（平成三年一月一日）から施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成六年九月一九日政令第三〇三号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Article": {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "1",
+            "ArticleCaption": "（施行期日）",
+            "ArticleTitle": "第一条",
+            "Paragraph": {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "この政令は、行政手続法の施行の日（平成六年十月一日）から施行する。"
+                }
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成九年一一月一九日政令第三三三号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この政令は、民事訴訟法の施行の日（平成十年一月一日）から施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成一二年六月七日政令第三一二号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphCaption": "（施行期日）",
+            "ParagraphNum": "１",
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この政令は、内閣法の一部を改正する法律（平成十一年法律第八十八号）の施行の日（平成十三年一月六日）から施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成一四年六月七日政令第二〇〇号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Article": {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "1",
+            "ArticleCaption": "（施行期日）",
+            "ArticleTitle": "第一条",
+            "Paragraph": {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "この政令は、平成十四年七月一日から施行する。"
+                }
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成一五年六月一八日政令第二六〇号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この政令は、平成十六年一月一日から施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成一五年一二月一〇日政令第四九五号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この政令は、道路運送車両法の一部を改正する法律附則第一条本文の規定の施行の日（平成十七年一月一日）から施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成一五年一二月二五日政令第五四五号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この政令は、仲裁法の施行の日（平成十六年三月一日）から施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成一六年一二月二七日政令第四一九号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": [
+            {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphCaption": "（施行期日）",
+              "ParagraphNum": "１",
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "この政令は、民事関係手続の改善のための民事訴訟法等の一部を改正する法律（以下「改正法」という。）の施行の日（平成十七年四月一日）から施行する。"
+                }
+              }
+            },
+            {
+              "@Hide": "false",
+              "@Num": "2",
+              "ParagraphCaption": "（除権判決に関する経過措置）",
+              "ParagraphNum": "２",
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "改正法の施行前にされた改正法附則第二条の規定による廃止前の公示催告手続ニ関スル法律（明治二十三年法律第二十九号。以下「旧公示催告手続法」という。）の規定による除権判決又は改正法の施行後に改正法附則第六条第一項の規定によりなお従前の例によることとされる同項の公示催告手続においてされた旧公示催告手続法の規定による除権判決は、改正法第二条の規定による改正後の非訟事件手続法（明治三十一年法律第十四号）の規定による除権決定とみなす。"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@AmendLawNum": "平成一七年二月一八日政令第二四号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Article": {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "1",
+            "ArticleCaption": "（施行期日）",
+            "ArticleTitle": "第一条",
+            "Paragraph": {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "この政令は、不動産登記法の施行の日（平成十七年三月七日）から施行する。"
+                }
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成一七年三月九日政令第三七号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この政令は、民法の一部を改正する法律の施行の日（平成十七年四月一日）から施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成一七年五月二七日政令第一八七号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Article": {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "1",
+            "ArticleCaption": "（施行期日）",
+            "ArticleTitle": "第一条",
+            "Paragraph": {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "この政令は、自動車関係手続における電子情報処理組織の活用のための道路運送車両法等の一部を改正する法律（以下「改正法」という。）の施行の日（平成十七年十二月二十六日）から施行する。"
+                }
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成一九年七月一三日政令第二〇七号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この政令は、信託法の施行の日から施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成二〇年三月二八日政令第八二号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この政令は、道路運送法等の一部を改正する法律附則第一条第四号に掲げる規定の施行の日（平成二十年十一月四日）から施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成二四年七月一九日政令第一九七号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この政令は、新非訟事件手続法の施行の日（平成二十五年一月一日）から施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成二七年一月三〇日政令第三〇号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Article": {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "1",
+            "ArticleCaption": "（施行期日）",
+            "ArticleTitle": "第一条",
+            "Paragraph": {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "この政令は、地方自治法の一部を改正する法律（次条において「改正法」という。）の施行の日（平成二十八年四月一日）から施行する。"
+                }
+              }
+            }
+          }
+        }
+      ]
+    }
+  }
+}

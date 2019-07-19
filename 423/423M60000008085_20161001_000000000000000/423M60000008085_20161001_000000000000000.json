@@ -1,0 +1,276 @@
+{
+  "Law": {
+    "@Era": "Heisei",
+    "@Lang": "ja",
+    "@LawType": "MinisterialOrdinance",
+    "@Num": "085",
+    "@Year": "23",
+    "LawNum": "平成二十三年総務省令第八十五号",
+    "LawBody": {
+      "LawTitle": "中波放送に関する送信の標準方式",
+      "EnactStatement": "放送法（昭和二十五年法律第百三十二号）第百十一条第一項及び第百二十一条第一項の規定に基づき、中波放送に関する送信の標準方式を次のように定める。",
+      "MainProvision": {
+        "Article": [
+          {
+            "@Num": "1",
+            "ArticleCaption": "（目的）",
+            "ArticleTitle": "第一条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "この省令は、放送法（昭和二十五年法律第百三十二号。以下「法」という。）第百十一条第一項及び第百二十一条第一項の規定に基づき、基幹放送設備、特定地上基幹放送局等設備及び基幹放送局設備に適用される中波放送に関する送信の標準方式を定めることを目的とする。"
+              }
+            }
+          },
+          {
+            "@Num": "2",
+            "ArticleCaption": "（定義）",
+            "ArticleTitle": "第二条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "この省令において使用する用語は、法、電波法（昭和二十五年法律第百三十一号）及び電波法施行規則（昭和二十五年電波監理委員会規則第十四号）において使用する用語の例による。"
+              }
+            }
+          },
+          {
+            "@Num": "3",
+            "ArticleCaption": "（搬送波の変調）",
+            "ArticleTitle": "第三条",
+            "Paragraph": [
+              {
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": "搬送波の変調の型式は、モノホニック放送を行う場合にあっては振幅変調、ステレオホニック放送を行う場合にあっては一定の順序で振幅変調及び角度変調を行うものとする。"
+                }
+              },
+              {
+                "@Num": "2",
+                "ParagraphNum": "２",
+                "ParagraphSentence": {
+                  "Sentence": "搬送波を変調する信号は、モノホニック放送を行う場合にあっては音声信号とし、ステレオホニック放送を行う場合にあっては和信号（左側信号と右側信号の和の信号をいう。以下同じ。）、差信号（左側信号と右側信号の差の信号をいう。以下同じ。）及びパイロット信号（ステレオホニック放送の受信の補助のために伝送する信号をいう。以下同じ。）からなるものであって別表に示す方程式によるものとする。"
+                }
+              }
+            ]
+          },
+          {
+            "@Num": "4",
+            "ArticleCaption": "（ステレオホニック放送）",
+            "ArticleTitle": "第四条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "ステレオホニック放送を行う場合にあっては、前条の規定によるほか、次のとおりとする。"
+              },
+              "Item": [
+                {
+                  "@Num": "1",
+                  "ItemTitle": "一",
+                  "ItemSentence": {
+                    "Sentence": "和信号及び差信号による搬送波の最大位相偏移は（±）〇・七八五ラジアンとする。"
+                  }
+                },
+                {
+                  "@Num": "2",
+                  "ItemTitle": "二",
+                  "ItemSentence": {
+                    "Sentence": "パイロット信号の周波数は二五Ｈｚ、パイロット信号による搬送波の最大位相偏移は（±）〇・〇五ラジアンとする。"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "@Num": "5",
+            "ArticleCaption": "（地上基幹放送試験局に適用する規定）",
+            "ArticleTitle": "第五条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "中波放送を行うための地上基幹放送試験局の送信の方式のうちこの省令の規定を適用することが困難又は不合理であるため総務大臣が別に告示するものについては、この省令の規定によらないことができる。"
+              }
+            }
+          },
+          {
+            "@Num": "6",
+            "ArticleCaption": "（緊急警報信号に適用する規定）",
+            "ArticleTitle": "第六条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "中波放送により緊急警報信号を送る場合は、緊急警報信号を音声信号とみなし、この省令の音声信号に関する規定を適用する。"
+              }
+            }
+          }
+        ]
+      },
+      "SupplProvision": {
+        "SupplProvisionLabel": "附　則",
+        "Article": [
+          {
+            "@Num": "1",
+            "ArticleCaption": "（施行期日）",
+            "ArticleTitle": "第一条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "この省令は、放送法等の一部を改正する法律（平成二十二年法律第六十五号）の施行の日（平成二十三年六月三十日）から施行する。"
+              }
+            }
+          },
+          {
+            "@Num": "2",
+            "ArticleCaption": "（省令の廃止）",
+            "ArticleTitle": "第二条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "中波放送に関する送信の標準方式（平成四年郵政省令第四号）は、廃止する。"
+              }
+            }
+          }
+        ]
+      },
+      "AppdxTable": {
+        "AppdxTableTitle": "別表",
+        "RelatedArticleNum": "（第３条第２項関係）",
+        "TableStruct": {
+          "Table": {
+            "TableRow": [
+              {
+                "TableColumn": {
+                  "@BorderBottom": "none",
+                  "@BorderLeft": "none",
+                  "@BorderRight": "none",
+                  "@BorderTop": "none",
+                  "Sentence": [
+                    "ステレオホニック放送を行う場合の変調信号の方程式",
+                    "ｅ＝（１＋Ｍ）ｃｏｓ（２πｆｃｔ＋θ）"
+                  ]
+                }
+              },
+              {
+                "TableColumn": {
+                  "@BorderBottom": "none",
+                  "@BorderLeft": "none",
+                  "@BorderRight": "none",
+                  "@BorderTop": "none",
+                  "FigStruct": {
+                    "Fig": {
+                      "@src": "./pict/H23F11001000085-001.jpg"
+                    }
+                  }
+                }
+              },
+              {
+                "TableColumn": {
+                  "@BorderBottom": "none",
+                  "@BorderLeft": "none",
+                  "@BorderRight": "none",
+                  "@BorderTop": "none",
+                  "Sentence": [
+                    "Ｍ＝Ｌ＋Ｒ",
+                    "Ｓ＝Ｌ－Ｒ"
+                  ]
+                }
+              }
+            ]
+          },
+          "Remarks": {
+            "RemarksLabel": {
+              "@LineBreak": "false",
+              "#text": "注"
+            },
+            "Item": [
+              {
+                "@Num": "1",
+                "ItemTitle": "１",
+                "ItemSentence": {
+                  "Sentence": "ｅは、変調された搬送波の電圧とする。"
+                }
+              },
+              {
+                "@Num": "2",
+                "ItemTitle": "２",
+                "ItemSentence": {
+                  "Sentence": "ｆｃは、搬送波の周波数とする。"
+                }
+              },
+              {
+                "@Num": "3",
+                "ItemTitle": "３",
+                "ItemSentence": {
+                  "Sentence": "ｆｐは、パイロット信号の周波数とする。"
+                }
+              },
+              {
+                "@Num": "4",
+                "ItemTitle": "４",
+                "ItemSentence": {
+                  "Sentence": "Ｍは、和信号のレベルとする。"
+                }
+              },
+              {
+                "@Num": "5",
+                "ItemTitle": "５",
+                "ItemSentence": {
+                  "Sentence": "Ｓは、差信号のレベルとする。"
+                }
+              },
+              {
+                "@Num": "6",
+                "ItemTitle": "６",
+                "ItemSentence": {
+                  "Sentence": "Ｌは、左側信号のレベルとする。"
+                }
+              },
+              {
+                "@Num": "7",
+                "ItemTitle": "７",
+                "ItemSentence": {
+                  "Sentence": "Ｒは、右側信号のレベルとする。"
+                }
+              },
+              {
+                "@Num": "8",
+                "ItemTitle": "８",
+                "ItemSentence": {
+                  "Sentence": "Ｐは、パイロット信号のレベルとする。"
+                }
+              },
+              {
+                "@Num": "9",
+                "ItemTitle": "９",
+                "ItemSentence": {
+                  "Sentence": "θは、搬送波の位相偏移とする。"
+                }
+              },
+              {
+                "@Num": "10",
+                "ItemTitle": "１０",
+                "ItemSentence": {
+                  "Sentence": "ｔは、時間とする。"
+                }
+              },
+              {
+                "@Num": "11",
+                "ItemTitle": "１１",
+                "ItemSentence": {
+                  "Sentence": "Ｍ、Ｓ、Ｌ、Ｒ、Ｐは搬送波電圧で正規化された値とする。"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  }
+}

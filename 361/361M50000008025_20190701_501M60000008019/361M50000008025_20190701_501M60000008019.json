@@ -1,0 +1,3699 @@
+{
+  "Law": {
+    "@Era": "Showa",
+    "@Lang": "ja",
+    "@LawType": "MinisterialOrdinance",
+    "@Num": "025",
+    "@Year": "61",
+    "LawNum": "昭和六十一年自治省令第二十五号",
+    "LawBody": {
+      "LawTitle": "消防用吸管の技術上の規格を定める省令",
+      "EnactStatement": "消防法（昭和二十三年法律第百八十六号）第二十一条の十六の三第一項の規定に基づき、消防用吸管の技術上の規格を定める省令（昭和四十五年自治省令第七号）の全部を改正する省令を次のように定める。",
+      "TOC": {
+        "TOCLabel": "目次",
+        "TOCChapter": [
+          {
+            "@Delete": "false",
+            "@Num": "1",
+            "ChapterTitle": "第一章　総則",
+            "ArticleRange": "（第一条・第二条）"
+          },
+          {
+            "@Delete": "false",
+            "@Num": "2",
+            "ChapterTitle": "第二章　消防用吸管",
+            "ArticleRange": "（第三条―第十七条）"
+          },
+          {
+            "@Delete": "false",
+            "@Num": "3",
+            "ChapterTitle": "第三章　大容量泡放水砲用吸管",
+            "ArticleRange": "（第十八条―第二十二条）"
+          },
+          {
+            "@Delete": "false",
+            "@Num": "4",
+            "ChapterTitle": "第四章　雑則",
+            "ArticleRange": "（第二十三条）"
+          }
+        ],
+        "TOCSupplProvision": {
+          "SupplProvisionLabel": "附則"
+        }
+      },
+      "MainProvision": {
+        "Chapter": [
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "1",
+            "ChapterTitle": "第一章　総則",
+            "Article": [
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "1",
+                "ArticleCaption": "（趣旨）",
+                "ArticleTitle": "第一条",
+                "Paragraph": {
+                  "@Hide": "false",
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "この省令は、消防用吸管の技術上の規格を定めるものとする。"
+                    }
+                  }
+                }
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "2",
+                "ArticleCaption": "（用語の意義）",
+                "ArticleTitle": "第二条",
+                "Paragraph": {
+                  "@Hide": "false",
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "この省令において次の各号に掲げる用語の意義は、当該各号に定めるところによる。"
+                    }
+                  },
+                  "Item": [
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "1",
+                      "ItemTitle": "一",
+                      "ItemSentence": {
+                        "Column": [
+                          {
+                            "@LineBreak": "false",
+                            "@Num": "1",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "消防用吸管"
+                            }
+                          },
+                          {
+                            "@LineBreak": "false",
+                            "@Num": "2",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "動力消防ポンプ（動力消防ポンプの技術上の規格を定める省令（昭和六十一年自治省令第二十四号。以下「ポンプ規格省令」という。）第二条第一号に規定するものをいう。）の吸水口に結合して使用する吸水のための導管をいう。"
+                            }
+                          }
+                        ]
+                      }
+                    },
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "2",
+                      "ItemTitle": "二",
+                      "ItemSentence": {
+                        "Column": [
+                          {
+                            "@LineBreak": "false",
+                            "@Num": "1",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "大容量泡放水砲用吸管"
+                            }
+                          },
+                          {
+                            "@LineBreak": "false",
+                            "@Num": "2",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "石油コンビナート等災害防止法施行令（昭和五十一年政令第百二十九号）第十三条第三項に規定する大容量泡放水砲用防災資機材としての用途にのみ用いられる、大容量泡放水砲用消防ポンプ自動車（ポンプ規格省令第二条第四号に規定するものをいう。）又は大容量泡放水砲用可搬消防ポンプ（ポンプ規格省令第二条第五号に規定するものをいう。）に使用する消防用吸管をいう。"
+                            }
+                          }
+                        ]
+                      }
+                    },
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "3",
+                      "ItemTitle": "三",
+                      "ItemSentence": {
+                        "Column": [
+                          {
+                            "@LineBreak": "false",
+                            "@Num": "1",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "呼び径"
+                            }
+                          },
+                          {
+                            "@LineBreak": "false",
+                            "@Num": "2",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "大容量泡放水砲用吸管の設計された内径（単位"
+                            }
+                          },
+                          {
+                            "@LineBreak": "false",
+                            "@Num": "3",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "ミリメートル）をいう。"
+                            }
+                          }
+                        ]
+                      }
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "2",
+            "ChapterTitle": "第二章　消防用吸管",
+            "Article": [
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "3",
+                "ArticleCaption": "（構造）",
+                "ArticleTitle": "第三条",
+                "Paragraph": {
+                  "@Hide": "false",
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "消防用吸管（大容量泡放水砲用吸管を除く。以下この章において同じ。）の構造は、次の各号に適合するものでなければならない。"
+                    }
+                  },
+                  "Item": [
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "1",
+                      "ItemTitle": "一",
+                      "ItemSentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "きず、気泡、き裂等の欠陥がなく、かつ、内面にしわ等の不均一な部分がないこと。"
+                        }
+                      }
+                    },
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "2",
+                      "ItemTitle": "二",
+                      "ItemSentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "補強線は、ゴム（天然ゴム及びその誘導体をいう。以下同じ。）、合成ゴム又は合成樹脂で覆われていること。"
+                        }
+                      }
+                    },
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "3",
+                      "ItemTitle": "三",
+                      "ItemSentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "布又は補強線（合成樹脂製のものを除く。）が露出している部分には、はつ水性の塗料の塗布、ゴムによる被覆等の防水処理が施されていること。"
+                        }
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "4",
+                "ArticleCaption": "（内径）",
+                "ArticleTitle": "第四条",
+                "Paragraph": {
+                  "@Hide": "false",
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": [
+                      {
+                        "@Function": "main",
+                        "@Num": "1",
+                        "@WritingMode": "vertical",
+                        "#text": "消防用吸管は、内径の寸法により、次の表の上欄に掲げる呼称に区分するものとし、その内径は、ＪＩＳ（産業標準化法（昭和二十四年法律第百八十五号）第二十条第一項の日本産業規格をいう。以下同じ。）　Ｋ　六三三〇―一（ゴム及びプラスチックホース試験方法―第一部：ホース及びホースアセンブリの寸法測定）のホースの内径寸法測定Ｄ法により測定した場合において、その呼称に応じ、次の表の下欄に掲げる範囲内の寸法でなければならない。"
+                      },
+                      {
+                        "@Function": "proviso",
+                        "@Num": "2",
+                        "@WritingMode": "vertical",
+                        "#text": "ただし、結合金具の装着部（たけのこ式のものを除く。）に装着する部分にあつては、この限りでない。"
+                      }
+                    ]
+                  },
+                  "TableStruct": {
+                    "Table": {
+                      "@WritingMode": "vertical",
+                      "TableRow": [
+                        {
+                          "TableColumn": [
+                            {
+                              "@BorderBottom": "solid",
+                              "@BorderLeft": "solid",
+                              "@BorderRight": "solid",
+                              "@BorderTop": "solid",
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "呼称"
+                              }
+                            },
+                            {
+                              "@BorderBottom": "solid",
+                              "@BorderLeft": "solid",
+                              "@BorderRight": "solid",
+                              "@BorderTop": "solid",
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "内径の寸法（ミリメートル）"
+                              }
+                            }
+                          ]
+                        },
+                        {
+                          "TableColumn": [
+                            {
+                              "@BorderBottom": "solid",
+                              "@BorderLeft": "solid",
+                              "@BorderRight": "solid",
+                              "@BorderTop": "solid",
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "百五十"
+                              }
+                            },
+                            {
+                              "@BorderBottom": "solid",
+                              "@BorderLeft": "solid",
+                              "@BorderRight": "solid",
+                              "@BorderTop": "solid",
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "百五十二以上百五十六以下"
+                              }
+                            }
+                          ]
+                        },
+                        {
+                          "TableColumn": [
+                            {
+                              "@BorderBottom": "solid",
+                              "@BorderLeft": "solid",
+                              "@BorderRight": "solid",
+                              "@BorderTop": "solid",
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "百四十"
+                              }
+                            },
+                            {
+                              "@BorderBottom": "solid",
+                              "@BorderLeft": "solid",
+                              "@BorderRight": "solid",
+                              "@BorderTop": "solid",
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "百四十以上百四十四以下"
+                              }
+                            }
+                          ]
+                        },
+                        {
+                          "TableColumn": [
+                            {
+                              "@BorderBottom": "solid",
+                              "@BorderLeft": "solid",
+                              "@BorderRight": "solid",
+                              "@BorderTop": "solid",
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "百二十五"
+                              }
+                            },
+                            {
+                              "@BorderBottom": "solid",
+                              "@BorderLeft": "solid",
+                              "@BorderRight": "solid",
+                              "@BorderTop": "solid",
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "百二十七以上百三十一以下"
+                              }
+                            }
+                          ]
+                        },
+                        {
+                          "TableColumn": [
+                            {
+                              "@BorderBottom": "solid",
+                              "@BorderLeft": "solid",
+                              "@BorderRight": "solid",
+                              "@BorderTop": "solid",
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "百十五"
+                              }
+                            },
+                            {
+                              "@BorderBottom": "solid",
+                              "@BorderLeft": "solid",
+                              "@BorderRight": "solid",
+                              "@BorderTop": "solid",
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "百十四以上百十七以下"
+                              }
+                            }
+                          ]
+                        },
+                        {
+                          "TableColumn": [
+                            {
+                              "@BorderBottom": "solid",
+                              "@BorderLeft": "solid",
+                              "@BorderRight": "solid",
+                              "@BorderTop": "solid",
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "百"
+                              }
+                            },
+                            {
+                              "@BorderBottom": "solid",
+                              "@BorderLeft": "solid",
+                              "@BorderRight": "solid",
+                              "@BorderTop": "solid",
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "百二以上百五以下"
+                              }
+                            }
+                          ]
+                        },
+                        {
+                          "TableColumn": [
+                            {
+                              "@BorderBottom": "solid",
+                              "@BorderLeft": "solid",
+                              "@BorderRight": "solid",
+                              "@BorderTop": "solid",
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "九十"
+                              }
+                            },
+                            {
+                              "@BorderBottom": "solid",
+                              "@BorderLeft": "solid",
+                              "@BorderRight": "solid",
+                              "@BorderTop": "solid",
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "八十九以上九十二以下"
+                              }
+                            }
+                          ]
+                        },
+                        {
+                          "TableColumn": [
+                            {
+                              "@BorderBottom": "solid",
+                              "@BorderLeft": "solid",
+                              "@BorderRight": "solid",
+                              "@BorderTop": "solid",
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "七十五"
+                              }
+                            },
+                            {
+                              "@BorderBottom": "solid",
+                              "@BorderLeft": "solid",
+                              "@BorderRight": "solid",
+                              "@BorderTop": "solid",
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "七十六以上七十九以下"
+                              }
+                            }
+                          ]
+                        },
+                        {
+                          "TableColumn": [
+                            {
+                              "@BorderBottom": "solid",
+                              "@BorderLeft": "solid",
+                              "@BorderRight": "solid",
+                              "@BorderTop": "solid",
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "六十五"
+                              }
+                            },
+                            {
+                              "@BorderBottom": "solid",
+                              "@BorderLeft": "solid",
+                              "@BorderRight": "solid",
+                              "@BorderTop": "solid",
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "六十三・五以上六十六・五以下"
+                              }
+                            }
+                          ]
+                        },
+                        {
+                          "TableColumn": [
+                            {
+                              "@BorderBottom": "solid",
+                              "@BorderLeft": "solid",
+                              "@BorderRight": "solid",
+                              "@BorderTop": "solid",
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "五十"
+                              }
+                            },
+                            {
+                              "@BorderBottom": "solid",
+                              "@BorderLeft": "solid",
+                              "@BorderRight": "solid",
+                              "@BorderTop": "solid",
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "五十一以上五十四以下"
+                              }
+                            }
+                          ]
+                        },
+                        {
+                          "TableColumn": [
+                            {
+                              "@BorderBottom": "solid",
+                              "@BorderLeft": "solid",
+                              "@BorderRight": "solid",
+                              "@BorderTop": "solid",
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "四十"
+                              }
+                            },
+                            {
+                              "@BorderBottom": "solid",
+                              "@BorderLeft": "solid",
+                              "@BorderRight": "solid",
+                              "@BorderTop": "solid",
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "三十八以上四十一以下"
+                              }
+                            }
+                          ]
+                        },
+                        {
+                          "TableColumn": [
+                            {
+                              "@BorderBottom": "solid",
+                              "@BorderLeft": "solid",
+                              "@BorderRight": "solid",
+                              "@BorderTop": "solid",
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "二十五"
+                              }
+                            },
+                            {
+                              "@BorderBottom": "solid",
+                              "@BorderLeft": "solid",
+                              "@BorderRight": "solid",
+                              "@BorderTop": "solid",
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "二十六以上二十八以下"
+                              }
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                }
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "5",
+                "ArticleCaption": "（材料）",
+                "ArticleTitle": "第五条",
+                "Paragraph": {
+                  "@Hide": "false",
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "消防用吸管に使用する材料は、次の各号に適合するものでなければならない。"
+                    }
+                  },
+                  "Item": [
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "1",
+                      "ItemTitle": "一",
+                      "ItemSentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "ゴム、合成ゴム及び合成樹脂（補強線に用いるものを除く。以下同じ。）は、次に掲げるところによること。"
+                        }
+                      },
+                      "Subitem1": [
+                        {
+                          "@Delete": "false",
+                          "@Hide": "false",
+                          "@Num": "1",
+                          "Subitem1Title": "イ",
+                          "Subitem1Sentence": {
+                            "Column": [
+                              {
+                                "@LineBreak": "false",
+                                "@Num": "1",
+                                "Sentence": {
+                                  "@WritingMode": "vertical",
+                                  "#text": "引張り強さが、ＪＩＳ"
+                                }
+                              },
+                              {
+                                "@LineBreak": "false",
+                                "@Num": "2",
+                                "Sentence": {
+                                  "@WritingMode": "vertical",
+                                  "#text": "Ｋ"
+                                }
+                              },
+                              {
+                                "@LineBreak": "false",
+                                "@Num": "3",
+                                "Sentence": {
+                                  "@WritingMode": "vertical",
+                                  "#text": "六二五一（加硫ゴム及び熱可塑性ゴム―引張特性の求め方）の引張試験を行つた場合において、ゴムにあつては十三メガパスカル以上、合成ゴム及び合成樹脂にあつては十一メガパスカル以上であること。"
+                                }
+                              }
+                            ]
+                          }
+                        },
+                        {
+                          "@Delete": "false",
+                          "@Hide": "false",
+                          "@Num": "2",
+                          "Subitem1Title": "ロ",
+                          "Subitem1Sentence": {
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "引張り強さが、空気加熱老化試験（六十九度から七十一度までの温度で九十六時間放置した後イに掲げる引張試験を行うものをいう。）を行つた場合において、ゴムにあつては九メガパスカル以上、合成ゴム及び合成樹脂にあつては八メガパスカル以上であること。"
+                            }
+                          }
+                        },
+                        {
+                          "@Delete": "false",
+                          "@Hide": "false",
+                          "@Num": "3",
+                          "Subitem1Title": "ハ",
+                          "Subitem1Sentence": {
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "伸びが、イに掲げる引張試験を行つた場合において、ゴムにあつては四百二十パーセント以上、合成ゴム及び合成樹脂にあつては二百六十パーセント以上であること。"
+                            }
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "2",
+                      "ItemTitle": "二",
+                      "ItemSentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "ゴム及び合成ゴムは、前号に規定するもののほか、次の式で求めた永久伸びが、二十五パーセント以下であること。"
+                        }
+                      },
+                      "List": [
+                        {
+                          "ListSentence": {
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "永久伸び（％）＝｛（Ｌ１―Ｌ０）÷Ｌ０｝×１００"
+                            }
+                          }
+                        },
+                        {
+                          "ListSentence": {
+                            "Column": [
+                              {
+                                "@LineBreak": "false",
+                                "@Num": "1",
+                                "Sentence": {
+                                  "@WritingMode": "vertical",
+                                  "#text": "Ｌ０は、ＪＩＳ"
+                                }
+                              },
+                              {
+                                "@LineBreak": "false",
+                                "@Num": "2",
+                                "Sentence": {
+                                  "@WritingMode": "vertical",
+                                  "#text": "Ｋ"
+                                }
+                              },
+                              {
+                                "@LineBreak": "false",
+                                "@Num": "3",
+                                "Sentence": {
+                                  "@WritingMode": "vertical",
+                                  "#text": "六二五一（加硫ゴム及び熱可塑性ゴム―引張特性の求め方）で定める方法により採取した試験片（以下この号において「試験片」という。）に付された伸び測定用の標線間の距離（単位"
+                                }
+                              },
+                              {
+                                "@LineBreak": "false",
+                                "@Num": "4",
+                                "Sentence": [
+                                  {
+                                    "@Num": "1",
+                                    "@WritingMode": "vertical",
+                                    "#text": "ミリメートル。"
+                                  },
+                                  {
+                                    "@Num": "2",
+                                    "@WritingMode": "vertical",
+                                    "#text": "以下この号において「標線距離」という。"
+                                  },
+                                  {
+                                    "@Num": "3",
+                                    "@WritingMode": "vertical",
+                                    "#text": "）"
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        },
+                        {
+                          "ListSentence": {
+                            "Column": [
+                              {
+                                "@LineBreak": "false",
+                                "@Num": "1",
+                                "Sentence": {
+                                  "@WritingMode": "vertical",
+                                  "#text": "Ｌ１は、試験片をＪＩＳ"
+                                }
+                              },
+                              {
+                                "@LineBreak": "false",
+                                "@Num": "2",
+                                "Sentence": {
+                                  "@WritingMode": "vertical",
+                                  "#text": "Ｋ"
+                                }
+                              },
+                              {
+                                "@LineBreak": "false",
+                                "@Num": "3",
+                                "Sentence": {
+                                  "@WritingMode": "vertical",
+                                  "#text": "六二五一（加硫ゴム及び熱可塑性ゴム―引張特性の求め方）の引張試験において算出した伸びの約二分の一に相当する長さに引つ張り、十分間保持した後、急に収縮させ、十分間放置した後に測定した標線距離"
+                                }
+                              }
+                            ]
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "3",
+                      "ItemTitle": "三",
+                      "ItemSentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "合成樹脂は、第一号に規定するもののほか、次に掲げるところによること。"
+                        }
+                      },
+                      "Subitem1": [
+                        {
+                          "@Delete": "false",
+                          "@Hide": "false",
+                          "@Num": "1",
+                          "Subitem1Title": "イ",
+                          "Subitem1Sentence": {
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "室温で二十四時間以上乾燥器中に放置した後、質量を量り、九十八度以上百二度以下とした加熱器中に四十八時間つるし、室温で乾燥器中に放冷した後、再び質量を量つた場合、次の式で求めた減量が、一パーセント以下であること。"
+                            }
+                          },
+                          "List": [
+                            {
+                              "ListSentence": {
+                                "Sentence": {
+                                  "@WritingMode": "vertical",
+                                  "#text": "減量（％）＝｛（Ｗ１―Ｗ２）÷Ｗ１｝×１００"
+                                }
+                              }
+                            },
+                            {
+                              "ListSentence": {
+                                "Column": [
+                                  {
+                                    "@LineBreak": "false",
+                                    "@Num": "1",
+                                    "Sentence": {
+                                      "@WritingMode": "vertical",
+                                      "#text": "Ｗ１は、加熱前の質量（単位"
+                                    }
+                                  },
+                                  {
+                                    "@LineBreak": "false",
+                                    "@Num": "2",
+                                    "Sentence": {
+                                      "@WritingMode": "vertical",
+                                      "#text": "グラム）"
+                                    }
+                                  }
+                                ]
+                              }
+                            },
+                            {
+                              "ListSentence": {
+                                "Column": [
+                                  {
+                                    "@LineBreak": "false",
+                                    "@Num": "1",
+                                    "Sentence": {
+                                      "@WritingMode": "vertical",
+                                      "#text": "Ｗ２は、加熱後の質量（単位"
+                                    }
+                                  },
+                                  {
+                                    "@LineBreak": "false",
+                                    "@Num": "2",
+                                    "Sentence": {
+                                      "@WritingMode": "vertical",
+                                      "#text": "グラム）"
+                                    }
+                                  }
+                                ]
+                              }
+                            }
+                          ]
+                        },
+                        {
+                          "@Delete": "false",
+                          "@Hide": "false",
+                          "@Num": "2",
+                          "Subitem1Title": "ロ",
+                          "Subitem1Sentence": {
+                            "Column": [
+                              {
+                                "@LineBreak": "false",
+                                "@Num": "1",
+                                "Sentence": {
+                                  "@WritingMode": "vertical",
+                                  "#text": "補強層のない消防用吸管に用いる合成樹脂は、消防用吸管の軸方向にＪＩＳ"
+                                }
+                              },
+                              {
+                                "@LineBreak": "false",
+                                "@Num": "2",
+                                "Sentence": {
+                                  "@WritingMode": "vertical",
+                                  "#text": "Ｋ"
+                                }
+                              },
+                              {
+                                "@LineBreak": "false",
+                                "@Num": "3",
+                                "Sentence": {
+                                  "@WritingMode": "vertical",
+                                  "#text": "六二五一（加硫ゴム及び熱可塑性ゴム―引張特性の求め方）の一号形ダンベル状試験片を採取しその一端を固定した状態で、その呼称に応じ、次の表に掲げる数値の荷重をその他端に加え三十分間放置した場合において、き裂を生ぜず、かつ、荷重を取り除き十分後に測定した永久伸びが三十パーセント以下であること。"
+                                }
+                              }
+                            ]
+                          },
+                          "TableStruct": {
+                            "Table": {
+                              "@WritingMode": "vertical",
+                              "TableRow": [
+                                {
+                                  "TableColumn": [
+                                    {
+                                      "@BorderBottom": "solid",
+                                      "@BorderLeft": "solid",
+                                      "@BorderRight": "solid",
+                                      "@BorderTop": "solid",
+                                      "Sentence": {
+                                        "@WritingMode": "vertical",
+                                        "#text": "呼称"
+                                      }
+                                    },
+                                    {
+                                      "@BorderBottom": "solid",
+                                      "@BorderLeft": "solid",
+                                      "@BorderRight": "solid",
+                                      "@BorderTop": "solid",
+                                      "Sentence": {
+                                        "@WritingMode": "vertical",
+                                        "#text": "荷重（ニュートン）"
+                                      }
+                                    }
+                                  ]
+                                },
+                                {
+                                  "TableColumn": [
+                                    {
+                                      "@BorderBottom": "solid",
+                                      "@BorderLeft": "solid",
+                                      "@BorderRight": "solid",
+                                      "@BorderTop": "solid",
+                                      "Sentence": {
+                                        "@WritingMode": "vertical",
+                                        "#text": "百五十"
+                                      }
+                                    },
+                                    {
+                                      "@BorderBottom": "solid",
+                                      "@BorderLeft": "solid",
+                                      "@BorderRight": "solid",
+                                      "@BorderTop": "solid",
+                                      "Sentence": {
+                                        "@WritingMode": "vertical",
+                                        "#text": "六百八十"
+                                      }
+                                    }
+                                  ]
+                                },
+                                {
+                                  "TableColumn": [
+                                    {
+                                      "@BorderBottom": "solid",
+                                      "@BorderLeft": "solid",
+                                      "@BorderRight": "solid",
+                                      "@BorderTop": "solid",
+                                      "Sentence": {
+                                        "@WritingMode": "vertical",
+                                        "#text": "百四十"
+                                      }
+                                    },
+                                    {
+                                      "@BorderBottom": "solid",
+                                      "@BorderLeft": "solid",
+                                      "@BorderRight": "solid",
+                                      "@BorderTop": "solid",
+                                      "Sentence": {
+                                        "@WritingMode": "vertical",
+                                        "#text": "六百三十"
+                                      }
+                                    }
+                                  ]
+                                },
+                                {
+                                  "TableColumn": [
+                                    {
+                                      "@BorderBottom": "solid",
+                                      "@BorderLeft": "solid",
+                                      "@BorderRight": "solid",
+                                      "@BorderTop": "solid",
+                                      "Sentence": {
+                                        "@WritingMode": "vertical",
+                                        "#text": "百二十五"
+                                      }
+                                    },
+                                    {
+                                      "@BorderBottom": "solid",
+                                      "@BorderLeft": "solid",
+                                      "@BorderRight": "solid",
+                                      "@BorderTop": "solid",
+                                      "Sentence": {
+                                        "@WritingMode": "vertical",
+                                        "#text": "七百六十"
+                                      }
+                                    }
+                                  ]
+                                },
+                                {
+                                  "TableColumn": [
+                                    {
+                                      "@BorderBottom": "solid",
+                                      "@BorderLeft": "solid",
+                                      "@BorderRight": "solid",
+                                      "@BorderTop": "solid",
+                                      "Sentence": {
+                                        "@WritingMode": "vertical",
+                                        "#text": "百十五"
+                                      }
+                                    },
+                                    {
+                                      "@BorderBottom": "solid",
+                                      "@BorderLeft": "solid",
+                                      "@BorderRight": "solid",
+                                      "@BorderTop": "solid",
+                                      "Sentence": {
+                                        "@WritingMode": "vertical",
+                                        "#text": "六百八十"
+                                      }
+                                    }
+                                  ]
+                                },
+                                {
+                                  "TableColumn": [
+                                    {
+                                      "@BorderBottom": "solid",
+                                      "@BorderLeft": "solid",
+                                      "@BorderRight": "solid",
+                                      "@BorderTop": "solid",
+                                      "Sentence": {
+                                        "@WritingMode": "vertical",
+                                        "#text": "百"
+                                      }
+                                    },
+                                    {
+                                      "@BorderBottom": "solid",
+                                      "@BorderLeft": "solid",
+                                      "@BorderRight": "solid",
+                                      "@BorderTop": "solid",
+                                      "Sentence": {
+                                        "@WritingMode": "vertical",
+                                        "#text": "千百四十"
+                                      }
+                                    }
+                                  ]
+                                },
+                                {
+                                  "TableColumn": [
+                                    {
+                                      "@BorderBottom": "solid",
+                                      "@BorderLeft": "solid",
+                                      "@BorderRight": "solid",
+                                      "@BorderTop": "solid",
+                                      "Sentence": {
+                                        "@WritingMode": "vertical",
+                                        "#text": "九十"
+                                      }
+                                    },
+                                    {
+                                      "@BorderBottom": "solid",
+                                      "@BorderLeft": "solid",
+                                      "@BorderRight": "solid",
+                                      "@BorderTop": "solid",
+                                      "Sentence": {
+                                        "@WritingMode": "vertical",
+                                        "#text": "千"
+                                      }
+                                    }
+                                  ]
+                                },
+                                {
+                                  "TableColumn": [
+                                    {
+                                      "@BorderBottom": "solid",
+                                      "@BorderLeft": "solid",
+                                      "@BorderRight": "solid",
+                                      "@BorderTop": "solid",
+                                      "Sentence": {
+                                        "@WritingMode": "vertical",
+                                        "#text": "七十五"
+                                      }
+                                    },
+                                    {
+                                      "@BorderBottom": "solid",
+                                      "@BorderLeft": "solid",
+                                      "@BorderRight": "solid",
+                                      "@BorderTop": "solid",
+                                      "Sentence": {
+                                        "@WritingMode": "vertical",
+                                        "#text": "千三十"
+                                      }
+                                    }
+                                  ]
+                                },
+                                {
+                                  "TableColumn": [
+                                    {
+                                      "@BorderBottom": "solid",
+                                      "@BorderLeft": "solid",
+                                      "@BorderRight": "solid",
+                                      "@BorderTop": "solid",
+                                      "Sentence": {
+                                        "@WritingMode": "vertical",
+                                        "#text": "六十五"
+                                      }
+                                    },
+                                    {
+                                      "@BorderBottom": "solid",
+                                      "@BorderLeft": "solid",
+                                      "@BorderRight": "solid",
+                                      "@BorderTop": "solid",
+                                      "Sentence": {
+                                        "@WritingMode": "vertical",
+                                        "#text": "八百五十"
+                                      }
+                                    }
+                                  ]
+                                },
+                                {
+                                  "TableColumn": [
+                                    {
+                                      "@BorderBottom": "solid",
+                                      "@BorderLeft": "solid",
+                                      "@BorderRight": "solid",
+                                      "@BorderTop": "solid",
+                                      "Sentence": {
+                                        "@WritingMode": "vertical",
+                                        "#text": "五十"
+                                      }
+                                    },
+                                    {
+                                      "@BorderBottom": "solid",
+                                      "@BorderLeft": "solid",
+                                      "@BorderRight": "solid",
+                                      "@BorderTop": "solid",
+                                      "Sentence": {
+                                        "@WritingMode": "vertical",
+                                        "#text": "六百八十"
+                                      }
+                                    }
+                                  ]
+                                },
+                                {
+                                  "TableColumn": [
+                                    {
+                                      "@BorderBottom": "solid",
+                                      "@BorderLeft": "solid",
+                                      "@BorderRight": "solid",
+                                      "@BorderTop": "solid",
+                                      "Sentence": {
+                                        "@WritingMode": "vertical",
+                                        "#text": "四十"
+                                      }
+                                    },
+                                    {
+                                      "@BorderBottom": "solid",
+                                      "@BorderLeft": "solid",
+                                      "@BorderRight": "solid",
+                                      "@BorderTop": "solid",
+                                      "Sentence": {
+                                        "@WritingMode": "vertical",
+                                        "#text": "六十"
+                                      }
+                                    }
+                                  ]
+                                },
+                                {
+                                  "TableColumn": [
+                                    {
+                                      "@BorderBottom": "solid",
+                                      "@BorderLeft": "solid",
+                                      "@BorderRight": "solid",
+                                      "@BorderTop": "solid",
+                                      "Sentence": {
+                                        "@WritingMode": "vertical",
+                                        "#text": "二十五"
+                                      }
+                                    },
+                                    {
+                                      "@BorderBottom": "solid",
+                                      "@BorderLeft": "solid",
+                                      "@BorderRight": "solid",
+                                      "@BorderTop": "solid",
+                                      "Sentence": {
+                                        "@WritingMode": "vertical",
+                                        "#text": "四十"
+                                      }
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "4",
+                      "ItemTitle": "四",
+                      "ItemSentence": {
+                        "Column": [
+                          {
+                            "@LineBreak": "false",
+                            "@Num": "1",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "金属製の補強線は、ＪＩＳ"
+                            }
+                          },
+                          {
+                            "@LineBreak": "false",
+                            "@Num": "2",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "Ｚ"
+                            }
+                          },
+                          {
+                            "@LineBreak": "false",
+                            "@Num": "3",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "二三七一（塩水噴霧試験方法）により、六時間噴霧した後に十八時間放置することを四回繰り返した場合において、さびを生じないものであること。"
+                            }
+                          }
+                        ]
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "6",
+                "ArticleCaption": "（各層間の密着強さ）",
+                "ArticleTitle": "第六条",
+                "Paragraph": {
+                  "@Hide": "false",
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": [
+                      {
+                        "@Num": "1",
+                        "@WritingMode": "vertical",
+                        "#text": "消防用吸管の各層間の密着強さは、ＪＩＳ　Ｋ　六三三〇―六（ゴム及び樹脂ホース試験方法―第六部：接着試験）の試験片により、補強線の外側及び結合金具の装着部の各層間にあつては五十ニュートン、補強線の内側にあつては七十ニュートンの荷重をそれぞれ一分間加えた場合において、はく離距離が二十五ミリメートル以下でなければならない。"
+                      },
+                      {
+                        "@Num": "2",
+                        "@WritingMode": "vertical",
+                        "#text": "この場合において、試験片は軸方向と垂直の切り口をもち、長さが二十四・五ミリメートルから二十五・五ミリメートルまでのリング状のものとする。"
+                      }
+                    ]
+                  }
+                }
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "7",
+                "ArticleCaption": "（長さ）",
+                "ArticleTitle": "第七条",
+                "Paragraph": {
+                  "@Hide": "false",
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "消防用吸管の長さは、当該消防用吸管に表示された長さからその長さの百五パーセントの長さまでの範囲内のものでなければならない。"
+                    }
+                  }
+                }
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "8",
+                "ArticleCaption": "（質量）",
+                "ArticleTitle": "第八条",
+                "Paragraph": {
+                  "@Hide": "false",
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "消防用吸管の質量は、乾燥した状態で、その呼称に応じ、長さ一メートルにつき次の表に掲げる質量以下のものでなければならない。"
+                    }
+                  },
+                  "TableStruct": {
+                    "Table": {
+                      "@WritingMode": "vertical",
+                      "TableRow": [
+                        {
+                          "TableColumn": [
+                            {
+                              "@BorderBottom": "solid",
+                              "@BorderLeft": "solid",
+                              "@BorderRight": "solid",
+                              "@BorderTop": "solid",
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "呼称"
+                              }
+                            },
+                            {
+                              "@BorderBottom": "solid",
+                              "@BorderLeft": "solid",
+                              "@BorderRight": "solid",
+                              "@BorderTop": "solid",
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "質量（キログラム）"
+                              }
+                            }
+                          ]
+                        },
+                        {
+                          "TableColumn": [
+                            {
+                              "@BorderBottom": "solid",
+                              "@BorderLeft": "solid",
+                              "@BorderRight": "solid",
+                              "@BorderTop": "solid",
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "百五十"
+                              }
+                            },
+                            {
+                              "@BorderBottom": "solid",
+                              "@BorderLeft": "solid",
+                              "@BorderRight": "solid",
+                              "@BorderTop": "solid",
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "十二・〇"
+                              }
+                            }
+                          ]
+                        },
+                        {
+                          "TableColumn": [
+                            {
+                              "@BorderBottom": "solid",
+                              "@BorderLeft": "solid",
+                              "@BorderRight": "solid",
+                              "@BorderTop": "solid",
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "百四十"
+                              }
+                            },
+                            {
+                              "@BorderBottom": "solid",
+                              "@BorderLeft": "solid",
+                              "@BorderRight": "solid",
+                              "@BorderTop": "solid",
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "十・〇"
+                              }
+                            }
+                          ]
+                        },
+                        {
+                          "TableColumn": [
+                            {
+                              "@BorderBottom": "solid",
+                              "@BorderLeft": "solid",
+                              "@BorderRight": "solid",
+                              "@BorderTop": "solid",
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "百二十五"
+                              }
+                            },
+                            {
+                              "@BorderBottom": "solid",
+                              "@BorderLeft": "solid",
+                              "@BorderRight": "solid",
+                              "@BorderTop": "solid",
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "八・五"
+                              }
+                            }
+                          ]
+                        },
+                        {
+                          "TableColumn": [
+                            {
+                              "@BorderBottom": "solid",
+                              "@BorderLeft": "solid",
+                              "@BorderRight": "solid",
+                              "@BorderTop": "solid",
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "百十五"
+                              }
+                            },
+                            {
+                              "@BorderBottom": "solid",
+                              "@BorderLeft": "solid",
+                              "@BorderRight": "solid",
+                              "@BorderTop": "solid",
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "七・五"
+                              }
+                            }
+                          ]
+                        },
+                        {
+                          "TableColumn": [
+                            {
+                              "@BorderBottom": "solid",
+                              "@BorderLeft": "solid",
+                              "@BorderRight": "solid",
+                              "@BorderTop": "solid",
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "百"
+                              }
+                            },
+                            {
+                              "@BorderBottom": "solid",
+                              "@BorderLeft": "solid",
+                              "@BorderRight": "solid",
+                              "@BorderTop": "solid",
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "六・〇"
+                              }
+                            }
+                          ]
+                        },
+                        {
+                          "TableColumn": [
+                            {
+                              "@BorderBottom": "solid",
+                              "@BorderLeft": "solid",
+                              "@BorderRight": "solid",
+                              "@BorderTop": "solid",
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "九十"
+                              }
+                            },
+                            {
+                              "@BorderBottom": "solid",
+                              "@BorderLeft": "solid",
+                              "@BorderRight": "solid",
+                              "@BorderTop": "solid",
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "五・〇"
+                              }
+                            }
+                          ]
+                        },
+                        {
+                          "TableColumn": [
+                            {
+                              "@BorderBottom": "solid",
+                              "@BorderLeft": "solid",
+                              "@BorderRight": "solid",
+                              "@BorderTop": "solid",
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "七十五"
+                              }
+                            },
+                            {
+                              "@BorderBottom": "solid",
+                              "@BorderLeft": "solid",
+                              "@BorderRight": "solid",
+                              "@BorderTop": "solid",
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "四・〇"
+                              }
+                            }
+                          ]
+                        },
+                        {
+                          "TableColumn": [
+                            {
+                              "@BorderBottom": "solid",
+                              "@BorderLeft": "solid",
+                              "@BorderRight": "solid",
+                              "@BorderTop": "solid",
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "六十五"
+                              }
+                            },
+                            {
+                              "@BorderBottom": "solid",
+                              "@BorderLeft": "solid",
+                              "@BorderRight": "solid",
+                              "@BorderTop": "solid",
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "三・〇"
+                              }
+                            }
+                          ]
+                        },
+                        {
+                          "TableColumn": [
+                            {
+                              "@BorderBottom": "solid",
+                              "@BorderLeft": "solid",
+                              "@BorderRight": "solid",
+                              "@BorderTop": "solid",
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "五十"
+                              }
+                            },
+                            {
+                              "@BorderBottom": "solid",
+                              "@BorderLeft": "solid",
+                              "@BorderRight": "solid",
+                              "@BorderTop": "solid",
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "二・五"
+                              }
+                            }
+                          ]
+                        },
+                        {
+                          "TableColumn": [
+                            {
+                              "@BorderBottom": "solid",
+                              "@BorderLeft": "solid",
+                              "@BorderRight": "solid",
+                              "@BorderTop": "solid",
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "四十"
+                              }
+                            },
+                            {
+                              "@BorderBottom": "solid",
+                              "@BorderLeft": "solid",
+                              "@BorderRight": "solid",
+                              "@BorderTop": "solid",
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "一・二"
+                              }
+                            }
+                          ]
+                        },
+                        {
+                          "TableColumn": [
+                            {
+                              "@BorderBottom": "solid",
+                              "@BorderLeft": "solid",
+                              "@BorderRight": "solid",
+                              "@BorderTop": "solid",
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "二十五"
+                              }
+                            },
+                            {
+                              "@BorderBottom": "solid",
+                              "@BorderLeft": "solid",
+                              "@BorderRight": "solid",
+                              "@BorderTop": "solid",
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "一・〇"
+                              }
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                }
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "9",
+                "ArticleCaption": "（折り曲げ）",
+                "ArticleTitle": "第九条",
+                "Paragraph": {
+                  "@Hide": "false",
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "消防用吸管の端の部分でその長さが当該消防用吸管の内径の四倍に相当する部分は、結合金具を装着した状態で、呼称が七十五以下のものにあつては六十度、呼称が九十及び百のものにあつては四十五度の折り曲げを毎分六回の割合で二千回繰り返した後に、次条から第十二条までの試験を行つた場合において、異常を生じないものでなければならない。"
+                    }
+                  }
+                }
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "10",
+                "ArticleCaption": "（耐圧力）",
+                "ArticleTitle": "第十条",
+                "Paragraph": {
+                  "@Hide": "false",
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "長さが一メートル以上の消防用吸管の一端をふさぎ、次の表に掲げる状態及び呼称に応じ、同表に掲げる数値の水圧力を五分間加えた場合において、き裂、漏れ、変形等が生じないものでなければならない。"
+                    }
+                  },
+                  "TableStruct": {
+                    "Table": {
+                      "@WritingMode": "vertical",
+                      "TableRow": [
+                        {
+                          "TableColumn": [
+                            {
+                              "@BorderBottom": "solid",
+                              "@BorderLeft": "solid",
+                              "@BorderRight": "solid",
+                              "@BorderTop": "solid",
+                              "Sentence": {
+                                "@WritingMode": "vertical"
+                              }
+                            },
+                            {
+                              "@BorderBottom": "solid",
+                              "@BorderLeft": "solid",
+                              "@BorderRight": "solid",
+                              "@BorderTop": "solid",
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "呼称"
+                              }
+                            },
+                            {
+                              "@BorderBottom": "solid",
+                              "@BorderLeft": "solid",
+                              "@BorderRight": "solid",
+                              "@BorderTop": "solid",
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "百五十"
+                              }
+                            },
+                            {
+                              "@BorderBottom": "solid",
+                              "@BorderLeft": "solid",
+                              "@BorderRight": "solid",
+                              "@BorderTop": "solid",
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "百四十"
+                              }
+                            },
+                            {
+                              "@BorderBottom": "solid",
+                              "@BorderLeft": "solid",
+                              "@BorderRight": "solid",
+                              "@BorderTop": "solid",
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "百二十五"
+                              }
+                            },
+                            {
+                              "@BorderBottom": "solid",
+                              "@BorderLeft": "solid",
+                              "@BorderRight": "solid",
+                              "@BorderTop": "solid",
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "百十五"
+                              }
+                            },
+                            {
+                              "@BorderBottom": "solid",
+                              "@BorderLeft": "solid",
+                              "@BorderRight": "solid",
+                              "@BorderTop": "solid",
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "百"
+                              }
+                            },
+                            {
+                              "@BorderBottom": "solid",
+                              "@BorderLeft": "solid",
+                              "@BorderRight": "solid",
+                              "@BorderTop": "solid",
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "九十"
+                              }
+                            },
+                            {
+                              "@BorderBottom": "solid",
+                              "@BorderLeft": "solid",
+                              "@BorderRight": "solid",
+                              "@BorderTop": "solid",
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "七十五"
+                              }
+                            },
+                            {
+                              "@BorderBottom": "solid",
+                              "@BorderLeft": "solid",
+                              "@BorderRight": "solid",
+                              "@BorderTop": "solid",
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "六十五"
+                              }
+                            },
+                            {
+                              "@BorderBottom": "solid",
+                              "@BorderLeft": "solid",
+                              "@BorderRight": "solid",
+                              "@BorderTop": "solid",
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "五十"
+                              }
+                            },
+                            {
+                              "@BorderBottom": "solid",
+                              "@BorderLeft": "solid",
+                              "@BorderRight": "solid",
+                              "@BorderTop": "solid",
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "四十"
+                              }
+                            },
+                            {
+                              "@BorderBottom": "solid",
+                              "@BorderLeft": "solid",
+                              "@BorderRight": "solid",
+                              "@BorderTop": "solid",
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "二十五"
+                              }
+                            }
+                          ]
+                        },
+                        {
+                          "TableColumn": [
+                            {
+                              "@BorderBottom": "solid",
+                              "@BorderLeft": "solid",
+                              "@BorderRight": "solid",
+                              "@BorderTop": "solid",
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "状態"
+                              }
+                            },
+                            {
+                              "@BorderBottom": "solid",
+                              "@BorderLeft": "solid",
+                              "@BorderRight": "solid",
+                              "@BorderTop": "solid",
+                              "Sentence": {
+                                "@WritingMode": "vertical"
+                              }
+                            },
+                            {
+                              "@BorderBottom": "solid",
+                              "@BorderLeft": "solid",
+                              "@BorderRight": "solid",
+                              "@BorderTop": "solid",
+                              "Sentence": {
+                                "@WritingMode": "vertical"
+                              }
+                            },
+                            {
+                              "@BorderBottom": "solid",
+                              "@BorderLeft": "solid",
+                              "@BorderRight": "solid",
+                              "@BorderTop": "solid",
+                              "Sentence": {
+                                "@WritingMode": "vertical"
+                              }
+                            },
+                            {
+                              "@BorderBottom": "solid",
+                              "@BorderLeft": "solid",
+                              "@BorderRight": "solid",
+                              "@BorderTop": "solid",
+                              "Sentence": {
+                                "@WritingMode": "vertical"
+                              }
+                            },
+                            {
+                              "@BorderBottom": "solid",
+                              "@BorderLeft": "solid",
+                              "@BorderRight": "solid",
+                              "@BorderTop": "solid",
+                              "Sentence": {
+                                "@WritingMode": "vertical"
+                              }
+                            },
+                            {
+                              "@BorderBottom": "solid",
+                              "@BorderLeft": "solid",
+                              "@BorderRight": "solid",
+                              "@BorderTop": "solid",
+                              "Sentence": {
+                                "@WritingMode": "vertical"
+                              }
+                            },
+                            {
+                              "@BorderBottom": "solid",
+                              "@BorderLeft": "solid",
+                              "@BorderRight": "solid",
+                              "@BorderTop": "solid",
+                              "Sentence": {
+                                "@WritingMode": "vertical"
+                              }
+                            },
+                            {
+                              "@BorderBottom": "solid",
+                              "@BorderLeft": "solid",
+                              "@BorderRight": "solid",
+                              "@BorderTop": "solid",
+                              "Sentence": {
+                                "@WritingMode": "vertical"
+                              }
+                            },
+                            {
+                              "@BorderBottom": "solid",
+                              "@BorderLeft": "solid",
+                              "@BorderRight": "solid",
+                              "@BorderTop": "solid",
+                              "Sentence": {
+                                "@WritingMode": "vertical"
+                              }
+                            },
+                            {
+                              "@BorderBottom": "solid",
+                              "@BorderLeft": "solid",
+                              "@BorderRight": "solid",
+                              "@BorderTop": "solid",
+                              "Sentence": {
+                                "@WritingMode": "vertical"
+                              }
+                            },
+                            {
+                              "@BorderBottom": "solid",
+                              "@BorderLeft": "solid",
+                              "@BorderRight": "solid",
+                              "@BorderTop": "solid",
+                              "Sentence": {
+                                "@WritingMode": "vertical"
+                              }
+                            },
+                            {
+                              "@BorderBottom": "solid",
+                              "@BorderLeft": "solid",
+                              "@BorderRight": "solid",
+                              "@BorderTop": "solid",
+                              "Sentence": {
+                                "@WritingMode": "vertical"
+                              }
+                            }
+                          ]
+                        },
+                        {
+                          "TableColumn": [
+                            {
+                              "@BorderBottom": "solid",
+                              "@BorderLeft": "solid",
+                              "@BorderRight": "solid",
+                              "@BorderTop": "solid",
+                              "@colspan": "2",
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "まつすぐにした状態"
+                              }
+                            },
+                            {
+                              "@BorderBottom": "solid",
+                              "@BorderLeft": "solid",
+                              "@BorderRight": "solid",
+                              "@BorderTop": "solid",
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "〇・六"
+                              }
+                            },
+                            {
+                              "@BorderBottom": "solid",
+                              "@BorderLeft": "solid",
+                              "@BorderRight": "solid",
+                              "@BorderTop": "solid",
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "〇・六"
+                              }
+                            },
+                            {
+                              "@BorderBottom": "solid",
+                              "@BorderLeft": "solid",
+                              "@BorderRight": "solid",
+                              "@BorderTop": "solid",
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "〇・八"
+                              }
+                            },
+                            {
+                              "@BorderBottom": "solid",
+                              "@BorderLeft": "solid",
+                              "@BorderRight": "solid",
+                              "@BorderTop": "solid",
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "〇・八"
+                              }
+                            },
+                            {
+                              "@BorderBottom": "solid",
+                              "@BorderLeft": "solid",
+                              "@BorderRight": "solid",
+                              "@BorderTop": "solid",
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "一・五"
+                              }
+                            },
+                            {
+                              "@BorderBottom": "solid",
+                              "@BorderLeft": "solid",
+                              "@BorderRight": "solid",
+                              "@BorderTop": "solid",
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "一・五"
+                              }
+                            },
+                            {
+                              "@BorderBottom": "solid",
+                              "@BorderLeft": "solid",
+                              "@BorderRight": "solid",
+                              "@BorderTop": "solid",
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "一・八"
+                              }
+                            },
+                            {
+                              "@BorderBottom": "solid",
+                              "@BorderLeft": "solid",
+                              "@BorderRight": "solid",
+                              "@BorderTop": "solid",
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "一・八"
+                              }
+                            },
+                            {
+                              "@BorderBottom": "solid",
+                              "@BorderLeft": "solid",
+                              "@BorderRight": "solid",
+                              "@BorderTop": "solid",
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "一・八"
+                              }
+                            },
+                            {
+                              "@BorderBottom": "solid",
+                              "@BorderLeft": "solid",
+                              "@BorderRight": "solid",
+                              "@BorderTop": "solid",
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "〇・二"
+                              }
+                            },
+                            {
+                              "@BorderBottom": "solid",
+                              "@BorderLeft": "solid",
+                              "@BorderRight": "solid",
+                              "@BorderTop": "solid",
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "〇・二"
+                              }
+                            }
+                          ]
+                        },
+                        {
+                          "TableColumn": [
+                            {
+                              "@BorderBottom": "solid",
+                              "@BorderLeft": "solid",
+                              "@BorderRight": "solid",
+                              "@BorderTop": "solid",
+                              "@colspan": "2",
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "曲率半径が〇・七五メートルとなるように曲げた状態"
+                              }
+                            },
+                            {
+                              "@BorderBottom": "solid",
+                              "@BorderLeft": "solid",
+                              "@BorderRight": "solid",
+                              "@BorderTop": "solid",
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "〇・五"
+                              }
+                            },
+                            {
+                              "@BorderBottom": "solid",
+                              "@BorderLeft": "solid",
+                              "@BorderRight": "solid",
+                              "@BorderTop": "solid",
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "〇・五"
+                              }
+                            },
+                            {
+                              "@BorderBottom": "solid",
+                              "@BorderLeft": "solid",
+                              "@BorderRight": "solid",
+                              "@BorderTop": "solid",
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "〇・六"
+                              }
+                            },
+                            {
+                              "@BorderBottom": "solid",
+                              "@BorderLeft": "solid",
+                              "@BorderRight": "solid",
+                              "@BorderTop": "solid",
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "〇・六"
+                              }
+                            },
+                            {
+                              "@BorderBottom": "solid",
+                              "@BorderLeft": "solid",
+                              "@BorderRight": "solid",
+                              "@BorderTop": "solid",
+                              "Sentence": {
+                                "@WritingMode": "vertical"
+                              }
+                            },
+                            {
+                              "@BorderBottom": "solid",
+                              "@BorderLeft": "solid",
+                              "@BorderRight": "solid",
+                              "@BorderTop": "solid",
+                              "Sentence": {
+                                "@WritingMode": "vertical"
+                              }
+                            },
+                            {
+                              "@BorderBottom": "solid",
+                              "@BorderLeft": "solid",
+                              "@BorderRight": "solid",
+                              "@BorderTop": "solid",
+                              "Sentence": {
+                                "@WritingMode": "vertical"
+                              }
+                            },
+                            {
+                              "@BorderBottom": "solid",
+                              "@BorderLeft": "solid",
+                              "@BorderRight": "solid",
+                              "@BorderTop": "solid",
+                              "Sentence": {
+                                "@WritingMode": "vertical"
+                              }
+                            },
+                            {
+                              "@BorderBottom": "solid",
+                              "@BorderLeft": "solid",
+                              "@BorderRight": "solid",
+                              "@BorderTop": "solid",
+                              "Sentence": {
+                                "@WritingMode": "vertical"
+                              }
+                            },
+                            {
+                              "@BorderBottom": "solid",
+                              "@BorderLeft": "solid",
+                              "@BorderRight": "solid",
+                              "@BorderTop": "solid",
+                              "Sentence": {
+                                "@WritingMode": "vertical"
+                              }
+                            },
+                            {
+                              "@BorderBottom": "solid",
+                              "@BorderLeft": "solid",
+                              "@BorderRight": "solid",
+                              "@BorderTop": "solid",
+                              "Sentence": {
+                                "@WritingMode": "vertical"
+                              }
+                            }
+                          ]
+                        },
+                        {
+                          "TableColumn": [
+                            {
+                              "@BorderBottom": "solid",
+                              "@BorderLeft": "solid",
+                              "@BorderRight": "solid",
+                              "@BorderTop": "solid",
+                              "@colspan": "2",
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "曲率半径が〇・五メートルとなるように曲げた状態"
+                              }
+                            },
+                            {
+                              "@BorderBottom": "solid",
+                              "@BorderLeft": "solid",
+                              "@BorderRight": "solid",
+                              "@BorderTop": "solid",
+                              "Sentence": {
+                                "@WritingMode": "vertical"
+                              }
+                            },
+                            {
+                              "@BorderBottom": "solid",
+                              "@BorderLeft": "solid",
+                              "@BorderRight": "solid",
+                              "@BorderTop": "solid",
+                              "Sentence": {
+                                "@WritingMode": "vertical"
+                              }
+                            },
+                            {
+                              "@BorderBottom": "solid",
+                              "@BorderLeft": "solid",
+                              "@BorderRight": "solid",
+                              "@BorderTop": "solid",
+                              "Sentence": {
+                                "@WritingMode": "vertical"
+                              }
+                            },
+                            {
+                              "@BorderBottom": "solid",
+                              "@BorderLeft": "solid",
+                              "@BorderRight": "solid",
+                              "@BorderTop": "solid",
+                              "Sentence": {
+                                "@WritingMode": "vertical"
+                              }
+                            },
+                            {
+                              "@BorderBottom": "solid",
+                              "@BorderLeft": "solid",
+                              "@BorderRight": "solid",
+                              "@BorderTop": "solid",
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "一・二"
+                              }
+                            },
+                            {
+                              "@BorderBottom": "solid",
+                              "@BorderLeft": "solid",
+                              "@BorderRight": "solid",
+                              "@BorderTop": "solid",
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "一・二"
+                              }
+                            },
+                            {
+                              "@BorderBottom": "solid",
+                              "@BorderLeft": "solid",
+                              "@BorderRight": "solid",
+                              "@BorderTop": "solid",
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "一・五"
+                              }
+                            },
+                            {
+                              "@BorderBottom": "solid",
+                              "@BorderLeft": "solid",
+                              "@BorderRight": "solid",
+                              "@BorderTop": "solid",
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "一・五"
+                              }
+                            },
+                            {
+                              "@BorderBottom": "solid",
+                              "@BorderLeft": "solid",
+                              "@BorderRight": "solid",
+                              "@BorderTop": "solid",
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "一・五"
+                              }
+                            },
+                            {
+                              "@BorderBottom": "solid",
+                              "@BorderLeft": "solid",
+                              "@BorderRight": "solid",
+                              "@BorderTop": "solid",
+                              "Sentence": {
+                                "@WritingMode": "vertical"
+                              }
+                            },
+                            {
+                              "@BorderBottom": "solid",
+                              "@BorderLeft": "solid",
+                              "@BorderRight": "solid",
+                              "@BorderTop": "solid",
+                              "Sentence": {
+                                "@WritingMode": "vertical"
+                              }
+                            }
+                          ]
+                        },
+                        {
+                          "TableColumn": [
+                            {
+                              "@BorderBottom": "solid",
+                              "@BorderLeft": "solid",
+                              "@BorderRight": "solid",
+                              "@BorderTop": "solid",
+                              "@colspan": "2",
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "曲率半径が〇・二五メートルとなるように曲げた状態"
+                              }
+                            },
+                            {
+                              "@BorderBottom": "solid",
+                              "@BorderLeft": "solid",
+                              "@BorderRight": "solid",
+                              "@BorderTop": "solid",
+                              "Sentence": {
+                                "@WritingMode": "vertical"
+                              }
+                            },
+                            {
+                              "@BorderBottom": "solid",
+                              "@BorderLeft": "solid",
+                              "@BorderRight": "solid",
+                              "@BorderTop": "solid",
+                              "Sentence": {
+                                "@WritingMode": "vertical"
+                              }
+                            },
+                            {
+                              "@BorderBottom": "solid",
+                              "@BorderLeft": "solid",
+                              "@BorderRight": "solid",
+                              "@BorderTop": "solid",
+                              "Sentence": {
+                                "@WritingMode": "vertical"
+                              }
+                            },
+                            {
+                              "@BorderBottom": "solid",
+                              "@BorderLeft": "solid",
+                              "@BorderRight": "solid",
+                              "@BorderTop": "solid",
+                              "Sentence": {
+                                "@WritingMode": "vertical"
+                              }
+                            },
+                            {
+                              "@BorderBottom": "solid",
+                              "@BorderLeft": "solid",
+                              "@BorderRight": "solid",
+                              "@BorderTop": "solid",
+                              "Sentence": {
+                                "@WritingMode": "vertical"
+                              }
+                            },
+                            {
+                              "@BorderBottom": "solid",
+                              "@BorderLeft": "solid",
+                              "@BorderRight": "solid",
+                              "@BorderTop": "solid",
+                              "Sentence": {
+                                "@WritingMode": "vertical"
+                              }
+                            },
+                            {
+                              "@BorderBottom": "solid",
+                              "@BorderLeft": "solid",
+                              "@BorderRight": "solid",
+                              "@BorderTop": "solid",
+                              "Sentence": {
+                                "@WritingMode": "vertical"
+                              }
+                            },
+                            {
+                              "@BorderBottom": "solid",
+                              "@BorderLeft": "solid",
+                              "@BorderRight": "solid",
+                              "@BorderTop": "solid",
+                              "Sentence": {
+                                "@WritingMode": "vertical"
+                              }
+                            },
+                            {
+                              "@BorderBottom": "solid",
+                              "@BorderLeft": "solid",
+                              "@BorderRight": "solid",
+                              "@BorderTop": "solid",
+                              "Sentence": {
+                                "@WritingMode": "vertical"
+                              }
+                            },
+                            {
+                              "@BorderBottom": "solid",
+                              "@BorderLeft": "solid",
+                              "@BorderRight": "solid",
+                              "@BorderTop": "solid",
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "〇・二"
+                              }
+                            },
+                            {
+                              "@BorderBottom": "solid",
+                              "@BorderLeft": "solid",
+                              "@BorderRight": "solid",
+                              "@BorderTop": "solid",
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "〇・二"
+                              }
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    "Remarks": {
+                      "RemarksLabel": {
+                        "@LineBreak": "false"
+                      },
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "（単位　メガパスカル）"
+                      }
+                    }
+                  }
+                }
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "11",
+                "ArticleCaption": "（耐負圧力）",
+                "ArticleTitle": "第十一条",
+                "Paragraph": {
+                  "@Hide": "false",
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "長さが一メートル以上の消防用吸管の一端をふさぎ、当該消防用吸管内の真空度を九十四キロパスカル以上として十分間放置した場合において、はく離、き裂、漏れ、変形等が生ぜず、呼称が百五十から五十までのものにあつては十パーセント以上、呼称が四十及び二十五のものにあつては二十パーセント以上の縮みが生じないものであり、かつ、大気圧に戻した後十分以内にその縮みが二パーセント以下となるものでなければならない。"
+                    }
+                  }
+                }
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "12",
+                "ArticleCaption": "（伸び）",
+                "ArticleTitle": "第十二条",
+                "Paragraph": {
+                  "@Hide": "false",
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "消防用吸管は、その呼称に応じ、第十条の表に掲げるまつすぐにした状態において加える数値の水圧力を五分間加えた場合において、伸びが、呼称が百五十から五十までのものにあつては二十パーセント以下、呼称が四十及び二十五のものにあつては三十五パーセント以下であり、かつ、水圧力を除いた後十分以内にその伸びが五パーセント以下となるものでなければならない。"
+                    }
+                  }
+                }
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "13",
+                "ArticleCaption": "（屈とう性）",
+                "ArticleTitle": "第十三条",
+                "Paragraph": [
+                  {
+                    "@Hide": "false",
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "消防用吸管（呼称が百五十から百十五までのものを除く。次項において同じ。）は、その呼称に応じ、次の表に掲げる長さの部分を次の図のように百八十度曲げるために要する荷重が、第十六条第一項に規定する温度が使用温度範囲の上限である場合は百ニュートン以下、下限である場合は二百ニュートン以下であり、かつ、曲げた場合において、き裂、変形等が生じないものでなければならない。"
+                      }
+                    },
+                    "TableStruct": {
+                      "Table": {
+                        "@WritingMode": "vertical",
+                        "TableRow": [
+                          {
+                            "TableColumn": [
+                              {
+                                "@BorderBottom": "solid",
+                                "@BorderLeft": "solid",
+                                "@BorderRight": "solid",
+                                "@BorderTop": "solid",
+                                "Sentence": {
+                                  "@WritingMode": "vertical",
+                                  "#text": "呼称"
+                                }
+                              },
+                              {
+                                "@BorderBottom": "solid",
+                                "@BorderLeft": "solid",
+                                "@BorderRight": "solid",
+                                "@BorderTop": "solid",
+                                "Sentence": {
+                                  "@WritingMode": "vertical",
+                                  "#text": "長さ（センチメートル）"
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "TableColumn": [
+                              {
+                                "@BorderBottom": "solid",
+                                "@BorderLeft": "solid",
+                                "@BorderRight": "solid",
+                                "@BorderTop": "solid",
+                                "Sentence": {
+                                  "@WritingMode": "vertical",
+                                  "#text": "百"
+                                }
+                              },
+                              {
+                                "@BorderBottom": "solid",
+                                "@BorderLeft": "solid",
+                                "@BorderRight": "solid",
+                                "@BorderTop": "solid",
+                                "Sentence": {
+                                  "@WritingMode": "vertical",
+                                  "#text": "二百八十"
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "TableColumn": [
+                              {
+                                "@BorderBottom": "solid",
+                                "@BorderLeft": "solid",
+                                "@BorderRight": "solid",
+                                "@BorderTop": "solid",
+                                "Sentence": {
+                                  "@WritingMode": "vertical",
+                                  "#text": "九十"
+                                }
+                              },
+                              {
+                                "@BorderBottom": "solid",
+                                "@BorderLeft": "solid",
+                                "@BorderRight": "solid",
+                                "@BorderTop": "solid",
+                                "Sentence": {
+                                  "@WritingMode": "vertical",
+                                  "#text": "二百二十五"
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "TableColumn": [
+                              {
+                                "@BorderBottom": "solid",
+                                "@BorderLeft": "solid",
+                                "@BorderRight": "solid",
+                                "@BorderTop": "solid",
+                                "Sentence": {
+                                  "@WritingMode": "vertical",
+                                  "#text": "七十五"
+                                }
+                              },
+                              {
+                                "@BorderBottom": "solid",
+                                "@BorderLeft": "solid",
+                                "@BorderRight": "solid",
+                                "@BorderTop": "solid",
+                                "Sentence": {
+                                  "@WritingMode": "vertical",
+                                  "#text": "百九十"
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "TableColumn": [
+                              {
+                                "@BorderBottom": "solid",
+                                "@BorderLeft": "solid",
+                                "@BorderRight": "solid",
+                                "@BorderTop": "solid",
+                                "Sentence": {
+                                  "@WritingMode": "vertical",
+                                  "#text": "六十五"
+                                }
+                              },
+                              {
+                                "@BorderBottom": "solid",
+                                "@BorderLeft": "solid",
+                                "@BorderRight": "solid",
+                                "@BorderTop": "solid",
+                                "Sentence": {
+                                  "@WritingMode": "vertical",
+                                  "#text": "百七十"
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "TableColumn": [
+                              {
+                                "@BorderBottom": "solid",
+                                "@BorderLeft": "solid",
+                                "@BorderRight": "solid",
+                                "@BorderTop": "solid",
+                                "Sentence": {
+                                  "@WritingMode": "vertical",
+                                  "#text": "五十"
+                                }
+                              },
+                              {
+                                "@BorderBottom": "solid",
+                                "@BorderLeft": "solid",
+                                "@BorderRight": "solid",
+                                "@BorderTop": "solid",
+                                "Sentence": {
+                                  "@WritingMode": "vertical",
+                                  "#text": "百五十五"
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "TableColumn": [
+                              {
+                                "@BorderBottom": "solid",
+                                "@BorderLeft": "solid",
+                                "@BorderRight": "solid",
+                                "@BorderTop": "solid",
+                                "Sentence": {
+                                  "@WritingMode": "vertical",
+                                  "#text": "四十"
+                                }
+                              },
+                              {
+                                "@BorderBottom": "solid",
+                                "@BorderLeft": "solid",
+                                "@BorderRight": "solid",
+                                "@BorderTop": "solid",
+                                "Sentence": {
+                                  "@WritingMode": "vertical",
+                                  "#text": "百四十"
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "TableColumn": [
+                              {
+                                "@BorderBottom": "solid",
+                                "@BorderLeft": "solid",
+                                "@BorderRight": "solid",
+                                "@BorderTop": "solid",
+                                "Sentence": {
+                                  "@WritingMode": "vertical",
+                                  "#text": "二十五"
+                                }
+                              },
+                              {
+                                "@BorderBottom": "solid",
+                                "@BorderLeft": "solid",
+                                "@BorderRight": "solid",
+                                "@BorderTop": "solid",
+                                "Sentence": {
+                                  "@WritingMode": "vertical",
+                                  "#text": "九十"
+                                }
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    },
+                    "FigStruct": {
+                      "Fig": {
+                        "@src": "./pict/S61F04301000025-001.jpg"
+                      }
+                    }
+                  },
+                  {
+                    "@Hide": "false",
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "消防用吸管は、その呼称に応じ、前項の表に掲げる長さを円周の長さとして、次の図一のように二回巻いて固定した状態で二十四時間放置した場合において、き裂、変形等が生ぜず、かつ、その一端を次の図二のように取り付け、その一巻分を解き、他の一巻分が解いた部分の荷重となるように鉛直につり下げた場合において、残留ひずみ（同図に掲げる算式により算出したものをいう。）が三分以内に、その呼称に応じ、同項の表に掲げる長さの五パーセント以下となるものでなければならない。"
+                      }
+                    },
+                    "FigStruct": [
+                      {
+                        "FigStructTitle": "図一",
+                        "Fig": {
+                          "@src": "./pict/S61F04301000025-002.jpg"
+                        }
+                      },
+                      {
+                        "FigStructTitle": "図二",
+                        "Fig": {
+                          "@src": "./pict/S61F04301000025-003.jpg"
+                        }
+                      }
+                    ],
+                    "List": {
+                      "ListSentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "残留ひずみ（％）＝（Ｌ０－Ｌ１）／Ｌ０×１００"
+                        }
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "14",
+                "ArticleCaption": "（曲げ）",
+                "ArticleTitle": "第十四条",
+                "Paragraph": {
+                  "@Hide": "false",
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "長さ一メートル以上の消防用吸管の一端を、次の図のように固定して、その呼称に応じ、次の表一に掲げる長さの曲率半径をもつた枕木に沿つて九十度曲げ、その呼称に応じ、次の表二に掲げる荷重をその先端に加えて三十分間放置した場合において、つぶれ（同図に掲げる算式により算出したものをいう。以下同じ。）が十パーセント未満であり、かつ、荷重を取り除いた後のつぶれが二パーセント以下となるものでなければならない。"
+                    }
+                  },
+                  "FigStruct": {
+                    "Fig": {
+                      "@src": "./pict/S61F04301000025-004.jpg"
+                    }
+                  },
+                  "List": [
+                    {
+                      "ListSentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "つぶれ（％）＝（Ｃ１－Ｃ２）／Ｃ１×１００"
+                        }
+                      }
+                    },
+                    {
+                      "ListSentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "Ｃ１は、荷重を加える前のＡ点とＢ点を通る外径（単位　ミリメートル）"
+                        }
+                      }
+                    },
+                    {
+                      "ListSentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "Ｃ２は、荷重を加えた後及び荷重を取り除いた後のＡ点とＢ点を通る外径（単位　ミリメートル）"
+                        }
+                      }
+                    }
+                  ],
+                  "TableStruct": [
+                    {
+                      "TableStructTitle": {
+                        "@WritingMode": "vertical",
+                        "#text": "表一"
+                      },
+                      "Table": {
+                        "@WritingMode": "vertical",
+                        "TableRow": [
+                          {
+                            "TableColumn": [
+                              {
+                                "@BorderBottom": "solid",
+                                "@BorderLeft": "solid",
+                                "@BorderRight": "solid",
+                                "@BorderTop": "solid",
+                                "Sentence": {
+                                  "@WritingMode": "vertical",
+                                  "#text": "呼称"
+                                }
+                              },
+                              {
+                                "@BorderBottom": "solid",
+                                "@BorderLeft": "solid",
+                                "@BorderRight": "solid",
+                                "@BorderTop": "solid",
+                                "Sentence": {
+                                  "@WritingMode": "vertical",
+                                  "#text": "曲率半径（センチメートル）"
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "TableColumn": [
+                              {
+                                "@BorderBottom": "solid",
+                                "@BorderLeft": "solid",
+                                "@BorderRight": "solid",
+                                "@BorderTop": "solid",
+                                "Sentence": [
+                                  {
+                                    "@WritingMode": "vertical",
+                                    "#text": "百五十"
+                                  },
+                                  {
+                                    "@WritingMode": "vertical",
+                                    "#text": "百四十"
+                                  }
+                                ]
+                              },
+                              {
+                                "@BorderBottom": "solid",
+                                "@BorderLeft": "solid",
+                                "@BorderRight": "solid",
+                                "@BorderTop": "solid",
+                                "Sentence": {
+                                  "@WritingMode": "vertical",
+                                  "#text": "四十"
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "TableColumn": [
+                              {
+                                "@BorderBottom": "solid",
+                                "@BorderLeft": "solid",
+                                "@BorderRight": "solid",
+                                "@BorderTop": "solid",
+                                "Sentence": [
+                                  {
+                                    "@WritingMode": "vertical",
+                                    "#text": "百二十五"
+                                  },
+                                  {
+                                    "@WritingMode": "vertical",
+                                    "#text": "百十五"
+                                  }
+                                ]
+                              },
+                              {
+                                "@BorderBottom": "solid",
+                                "@BorderLeft": "solid",
+                                "@BorderRight": "solid",
+                                "@BorderTop": "solid",
+                                "Sentence": {
+                                  "@WritingMode": "vertical",
+                                  "#text": "三十"
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "TableColumn": [
+                              {
+                                "@BorderBottom": "solid",
+                                "@BorderLeft": "solid",
+                                "@BorderRight": "solid",
+                                "@BorderTop": "solid",
+                                "Sentence": [
+                                  {
+                                    "@WritingMode": "vertical",
+                                    "#text": "百"
+                                  },
+                                  {
+                                    "@WritingMode": "vertical",
+                                    "#text": "九十"
+                                  },
+                                  {
+                                    "@WritingMode": "vertical",
+                                    "#text": "七十五"
+                                  },
+                                  {
+                                    "@WritingMode": "vertical",
+                                    "#text": "六十五"
+                                  }
+                                ]
+                              },
+                              {
+                                "@BorderBottom": "solid",
+                                "@BorderLeft": "solid",
+                                "@BorderRight": "solid",
+                                "@BorderTop": "solid",
+                                "Sentence": {
+                                  "@WritingMode": "vertical",
+                                  "#text": "二十"
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "TableColumn": [
+                              {
+                                "@BorderBottom": "solid",
+                                "@BorderLeft": "solid",
+                                "@BorderRight": "solid",
+                                "@BorderTop": "solid",
+                                "Sentence": [
+                                  {
+                                    "@WritingMode": "vertical",
+                                    "#text": "五十"
+                                  },
+                                  {
+                                    "@WritingMode": "vertical",
+                                    "#text": "四十"
+                                  },
+                                  {
+                                    "@WritingMode": "vertical",
+                                    "#text": "二十五"
+                                  }
+                                ]
+                              },
+                              {
+                                "@BorderBottom": "solid",
+                                "@BorderLeft": "solid",
+                                "@BorderRight": "solid",
+                                "@BorderTop": "solid",
+                                "Sentence": {
+                                  "@WritingMode": "vertical",
+                                  "#text": "十五"
+                                }
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    },
+                    {
+                      "TableStructTitle": {
+                        "@WritingMode": "vertical",
+                        "#text": "表二"
+                      },
+                      "Table": {
+                        "@WritingMode": "vertical",
+                        "TableRow": [
+                          {
+                            "TableColumn": [
+                              {
+                                "@BorderBottom": "solid",
+                                "@BorderLeft": "solid",
+                                "@BorderRight": "solid",
+                                "@BorderTop": "solid",
+                                "Sentence": {
+                                  "@WritingMode": "vertical",
+                                  "#text": "呼称"
+                                }
+                              },
+                              {
+                                "@BorderBottom": "solid",
+                                "@BorderLeft": "solid",
+                                "@BorderRight": "solid",
+                                "@BorderTop": "solid",
+                                "Sentence": {
+                                  "@WritingMode": "vertical",
+                                  "#text": "荷重（ニュートン）"
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "TableColumn": [
+                              {
+                                "@BorderBottom": "solid",
+                                "@BorderLeft": "solid",
+                                "@BorderRight": "solid",
+                                "@BorderTop": "solid",
+                                "Sentence": {
+                                  "@WritingMode": "vertical",
+                                  "#text": "百五十"
+                                }
+                              },
+                              {
+                                "@BorderBottom": "solid",
+                                "@BorderLeft": "solid",
+                                "@BorderRight": "solid",
+                                "@BorderTop": "solid",
+                                "Sentence": {
+                                  "@WritingMode": "vertical",
+                                  "#text": "二千六百"
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "TableColumn": [
+                              {
+                                "@BorderBottom": "solid",
+                                "@BorderLeft": "solid",
+                                "@BorderRight": "solid",
+                                "@BorderTop": "solid",
+                                "Sentence": {
+                                  "@WritingMode": "vertical",
+                                  "#text": "百四十"
+                                }
+                              },
+                              {
+                                "@BorderBottom": "solid",
+                                "@BorderLeft": "solid",
+                                "@BorderRight": "solid",
+                                "@BorderTop": "solid",
+                                "Sentence": {
+                                  "@WritingMode": "vertical",
+                                  "#text": "二千二百"
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "TableColumn": [
+                              {
+                                "@BorderBottom": "solid",
+                                "@BorderLeft": "solid",
+                                "@BorderRight": "solid",
+                                "@BorderTop": "solid",
+                                "Sentence": {
+                                  "@WritingMode": "vertical",
+                                  "#text": "百二十五"
+                                }
+                              },
+                              {
+                                "@BorderBottom": "solid",
+                                "@BorderLeft": "solid",
+                                "@BorderRight": "solid",
+                                "@BorderTop": "solid",
+                                "Sentence": {
+                                  "@WritingMode": "vertical",
+                                  "#text": "千八百"
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "TableColumn": [
+                              {
+                                "@BorderBottom": "solid",
+                                "@BorderLeft": "solid",
+                                "@BorderRight": "solid",
+                                "@BorderTop": "solid",
+                                "Sentence": {
+                                  "@WritingMode": "vertical",
+                                  "#text": "百十五"
+                                }
+                              },
+                              {
+                                "@BorderBottom": "solid",
+                                "@BorderLeft": "solid",
+                                "@BorderRight": "solid",
+                                "@BorderTop": "solid",
+                                "Sentence": {
+                                  "@WritingMode": "vertical",
+                                  "#text": "千四百五十"
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "TableColumn": [
+                              {
+                                "@BorderBottom": "solid",
+                                "@BorderLeft": "solid",
+                                "@BorderRight": "solid",
+                                "@BorderTop": "solid",
+                                "Sentence": {
+                                  "@WritingMode": "vertical",
+                                  "#text": "百"
+                                }
+                              },
+                              {
+                                "@BorderBottom": "solid",
+                                "@BorderLeft": "solid",
+                                "@BorderRight": "solid",
+                                "@BorderTop": "solid",
+                                "Sentence": {
+                                  "@WritingMode": "vertical",
+                                  "#text": "千六百"
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "TableColumn": [
+                              {
+                                "@BorderBottom": "solid",
+                                "@BorderLeft": "solid",
+                                "@BorderRight": "solid",
+                                "@BorderTop": "solid",
+                                "Sentence": {
+                                  "@WritingMode": "vertical",
+                                  "#text": "九十"
+                                }
+                              },
+                              {
+                                "@BorderBottom": "solid",
+                                "@BorderLeft": "solid",
+                                "@BorderRight": "solid",
+                                "@BorderTop": "solid",
+                                "Sentence": {
+                                  "@WritingMode": "vertical",
+                                  "#text": "千四百"
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "TableColumn": [
+                              {
+                                "@BorderBottom": "solid",
+                                "@BorderLeft": "solid",
+                                "@BorderRight": "solid",
+                                "@BorderTop": "solid",
+                                "Sentence": {
+                                  "@WritingMode": "vertical",
+                                  "#text": "七十五"
+                                }
+                              },
+                              {
+                                "@BorderBottom": "solid",
+                                "@BorderLeft": "solid",
+                                "@BorderRight": "solid",
+                                "@BorderTop": "solid",
+                                "Sentence": {
+                                  "@WritingMode": "vertical",
+                                  "#text": "千百"
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "TableColumn": [
+                              {
+                                "@BorderBottom": "solid",
+                                "@BorderLeft": "solid",
+                                "@BorderRight": "solid",
+                                "@BorderTop": "solid",
+                                "Sentence": {
+                                  "@WritingMode": "vertical",
+                                  "#text": "六十五"
+                                }
+                              },
+                              {
+                                "@BorderBottom": "solid",
+                                "@BorderLeft": "solid",
+                                "@BorderRight": "solid",
+                                "@BorderTop": "solid",
+                                "Sentence": {
+                                  "@WritingMode": "vertical",
+                                  "#text": "五百五十"
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "TableColumn": [
+                              {
+                                "@BorderBottom": "solid",
+                                "@BorderLeft": "solid",
+                                "@BorderRight": "solid",
+                                "@BorderTop": "solid",
+                                "Sentence": {
+                                  "@WritingMode": "vertical",
+                                  "#text": "五十"
+                                }
+                              },
+                              {
+                                "@BorderBottom": "solid",
+                                "@BorderLeft": "solid",
+                                "@BorderRight": "solid",
+                                "@BorderTop": "solid",
+                                "Sentence": {
+                                  "@WritingMode": "vertical",
+                                  "#text": "四百"
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "TableColumn": [
+                              {
+                                "@BorderBottom": "solid",
+                                "@BorderLeft": "solid",
+                                "@BorderRight": "solid",
+                                "@BorderTop": "solid",
+                                "Sentence": {
+                                  "@WritingMode": "vertical",
+                                  "#text": "四十"
+                                }
+                              },
+                              {
+                                "@BorderBottom": "solid",
+                                "@BorderLeft": "solid",
+                                "@BorderRight": "solid",
+                                "@BorderTop": "solid",
+                                "Sentence": {
+                                  "@WritingMode": "vertical",
+                                  "#text": "百三十"
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "TableColumn": [
+                              {
+                                "@BorderBottom": "solid",
+                                "@BorderLeft": "solid",
+                                "@BorderRight": "solid",
+                                "@BorderTop": "solid",
+                                "Sentence": {
+                                  "@WritingMode": "vertical",
+                                  "#text": "二十五"
+                                }
+                              },
+                              {
+                                "@BorderBottom": "solid",
+                                "@BorderLeft": "solid",
+                                "@BorderRight": "solid",
+                                "@BorderTop": "solid",
+                                "Sentence": {
+                                  "@WritingMode": "vertical",
+                                  "#text": "六十"
+                                }
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "15",
+                "ArticleCaption": "（押しつぶし性）",
+                "ArticleTitle": "第十五条",
+                "Paragraph": {
+                  "@Hide": "false",
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "消防用吸管は、長さが十二・五センチメートルの部分に対し、呼称が百五十から五十までのものにあつては百二十ニュートン毎センチメートル、呼称が四十及び二十五のものにあつては四十ニュートン毎センチメートルの等分布荷重を加えた場合において、次に掲げる算式により算出した通水断面積の低下率が四十パーセント以下で、き裂が生じないものであり、かつ、荷重を取り除いた後、次に掲げる算式により算出した残留ひずみが五パーセント以下となるものでなければならない。"
+                    }
+                  },
+                  "List": [
+                    {
+                      "ListSentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "通水断面積の低下率（％）＝（（ｄ１２－ｄ２×ｄ３）／ｄ１２）×１００"
+                        }
+                      }
+                    },
+                    {
+                      "ListSentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "残留ひずみ（％）＝（ｄ１－ｄ４）／ｄ１×１００"
+                        }
+                      }
+                    },
+                    {
+                      "ListSentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "ｄ１は、荷重を加える前の吸管の内径（単位　ミリメートル）"
+                        }
+                      }
+                    },
+                    {
+                      "ListSentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "ｄ２は、荷重を加えた後の吸管の鉛直方向の内寸法（単位　ミリメートル）"
+                        }
+                      }
+                    },
+                    {
+                      "ListSentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "ｄ３は、荷重を加えた後の吸管の水平方向の内寸法（単位　ミリメートル）"
+                        }
+                      }
+                    },
+                    {
+                      "ListSentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "ｄ４は、荷重を取り除いた後の吸管の鉛直方向の内寸法（単位　ミリメートル）"
+                        }
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "16",
+                "ArticleCaption": "（試験条件）",
+                "ArticleTitle": "第十六条",
+                "Paragraph": [
+                  {
+                    "@Hide": "false",
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "消防用吸管は、その使用温度範囲を零下五度以上四十度以下又は零下二十五度以上四十度以下に区分するものとし、第五条第三号ロ及び第十三条から第十五条までの規定による試験は、その使用温度範囲に応じ、次の各号に掲げる温度で行わなければならない。"
+                      }
+                    },
+                    "Item": [
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "1",
+                        "ItemTitle": "一",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "使用温度範囲が零下五度以上四十度以下の消防用吸管にあつては、零下五度及び四十度"
+                          }
+                        }
+                      },
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "2",
+                        "ItemTitle": "二",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "使用温度範囲が零下二十五度以上四十度以下の消防用吸管にあつては、零下二十五度及び四十度"
+                          }
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Hide": "false",
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "第四条から第十二条までの規定（第五条第三号ロの規定を除く。）による試験は、別段の定めがあるほか、温度が五度以上三十五度以下の状態において行わなければならない。"
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "17",
+                "ArticleCaption": "（表示）",
+                "ArticleTitle": "第十七条",
+                "Paragraph": {
+                  "@Hide": "false",
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "消防用吸管には、次の各号に掲げる事項を容易に消えないように表示しなければならない。"
+                    }
+                  },
+                  "Item": [
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "1",
+                      "ItemTitle": "一",
+                      "ItemSentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "製造者名"
+                        }
+                      }
+                    },
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "2",
+                      "ItemTitle": "二",
+                      "ItemSentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "製造年"
+                        }
+                      }
+                    },
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "3",
+                      "ItemTitle": "三",
+                      "ItemSentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "呼称及び長さ"
+                        }
+                      }
+                    },
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "4",
+                      "ItemTitle": "四",
+                      "ItemSentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "使用温度範囲"
+                        }
+                      }
+                    },
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "5",
+                      "ItemTitle": "五",
+                      "ItemSentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "届出番号"
+                        }
+                      }
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "3",
+            "ChapterTitle": "第三章　大容量泡放水砲用吸管",
+            "Article": [
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "18",
+                "ArticleCaption": "（内径）",
+                "ArticleTitle": "第十八条",
+                "Paragraph": {
+                  "@Hide": "false",
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "大容量泡放水砲用吸管の内径は、第四条に定める方法により測定した場合において、当該大容量泡放水砲用吸管に表示された呼び径からその呼び径の百三パーセントの内径までの範囲内のものでなければならない。"
+                    }
+                  }
+                }
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "19",
+                "ArticleCaption": "（耐圧力）",
+                "ArticleTitle": "第十九条",
+                "Paragraph": {
+                  "@Hide": "false",
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "長さが一メートル以上の大容量泡放水砲用吸管の一端をふさぎ、まつすぐにした状態で、〇・三メガパスカルの水圧力を五分間加えた場合において、き裂、漏れ、変形等が生じないものでなければならない。"
+                    }
+                  }
+                }
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "20",
+                "ArticleCaption": "（伸び）",
+                "ArticleTitle": "第二十条",
+                "Paragraph": {
+                  "@Hide": "false",
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "大容量泡放水砲用吸管は、前条の水圧力を五分間加えた場合において、伸びが、十パーセント以下であり、かつ、水圧力を除いた後十分以内にその伸びが二パーセント以下となるものでなければならない。"
+                    }
+                  }
+                }
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "21",
+                "ArticleCaption": "（表示）",
+                "ArticleTitle": "第二十一条",
+                "Paragraph": {
+                  "@Hide": "false",
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "大容量泡放水砲用吸管には、次の各号に掲げる事項を容易に消えないように表示しなければならない。"
+                    }
+                  },
+                  "Item": [
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "1",
+                      "ItemTitle": "一",
+                      "ItemSentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "製造者名"
+                        }
+                      }
+                    },
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "2",
+                      "ItemTitle": "二",
+                      "ItemSentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "製造年"
+                        }
+                      }
+                    },
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "3",
+                      "ItemTitle": "三",
+                      "ItemSentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "呼び径及び長さ"
+                        }
+                      }
+                    },
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "4",
+                      "ItemTitle": "四",
+                      "ItemSentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "使用温度範囲"
+                        }
+                      }
+                    },
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "5",
+                      "ItemTitle": "五",
+                      "ItemSentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "届出番号"
+                        }
+                      }
+                    },
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "6",
+                      "ItemTitle": "六",
+                      "ItemSentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "大容量泡放水砲用である旨"
+                        }
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "22",
+                "ArticleCaption": "（準用）",
+                "ArticleTitle": "第二十二条",
+                "Paragraph": {
+                  "@Hide": "false",
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": [
+                      {
+                        "@Num": "1",
+                        "@WritingMode": "vertical",
+                        "#text": "第三条、第五条から第七条まで、第十一条、第十四条及び第十六条の規定は大容量泡放水砲用吸管について準用する。"
+                      },
+                      {
+                        "@Num": "2",
+                        "@WritingMode": "vertical",
+                        "#text": "この場合において、第五条第三号ロの規定中「その呼称に応じ、次の表に掲げる数値の荷重」とあるのは「使用時にかかる荷重」と、第十一条の規定中「呼称が百五十から五十までのものにあつては十パーセント以上、呼称が四十及び二十五のものにあつては二十パーセント」とあるのは「十パーセント」と、第十四条の規定中「その呼称に応じ、次の表一に掲げる長さの」とあるのは「設計された」と、「その呼称に応じ、次の表二に掲げる」とあるのは「使用時にかかる」と、第十六条第一項の規定中「第十三条から第十五条まで」とあるのは「第二十一条において準用する第十四条」と、同条第二項の規定中「第四条から第十二条まで」とあるのは「第五条（第三号ロを除く。）第六条、第七条、第十八条から第二十条まで並びに第二十二条において準用する第五条第三号ロ及び第十一条」と読み替えるものとする。"
+                      }
+                    ]
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "4",
+            "ChapterTitle": "第四章　雑則",
+            "Article": {
+              "@Delete": "false",
+              "@Hide": "false",
+              "@Num": "23",
+              "ArticleCaption": "（基準の特例）",
+              "ArticleTitle": "第二十三条",
+              "Paragraph": {
+                "@Hide": "false",
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "新たな技術開発に係る消防用吸管について、その形状、構造、材質及び性能から判断して、この省令の規定に適合するものと同等以上の性能があると総務大臣が認めた場合は、この省令の規定にかかわらず、総務大臣が定める技術上の規格によることができる。"
+                  }
+                }
+              }
+            }
+          }
+        ]
+      },
+      "SupplProvision": [
+        {
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この省令は、昭和六十一年十二月一日から施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成一〇年九月二八日自治省令第三七号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Article": [
+            {
+              "@Delete": "false",
+              "@Hide": "false",
+              "@Num": "1",
+              "ArticleCaption": "（施行期日）",
+              "ArticleTitle": "第一条",
+              "Paragraph": {
+                "@Hide": "false",
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "この省令は、平成十一年十月一日から施行する。"
+                  }
+                }
+              }
+            },
+            {
+              "@Delete": "false",
+              "@Hide": "false",
+              "@Num": "2",
+              "ArticleCaption": "（経過措置）",
+              "ArticleTitle": "第二条",
+              "Paragraph": [
+                {
+                  "@Hide": "false",
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "略"
+                    }
+                  }
+                },
+                {
+                  "@Hide": "false",
+                  "@Num": "13",
+                  "ParagraphNum": "１３",
+                  "ParagraphSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "この省令の施行の日前に消防法第二十一条の十六の四第一項の規定により自治大臣に届出を行った消防用吸管については、第十条による改正後の消防用吸管の技術上の規格を定める省令の規格に適合する消防用吸管とみなす。"
+                    }
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "@AmendLawNum": "平成一二年九月一四日自治省令第四四号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この省令は、内閣法の一部を改正する法律（平成十一年法律第八十八号）の施行の日（平成十三年一月六日）から施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成二〇年三月三一日総務省令第四八号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": [
+            {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": "１",
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "この省令は、公布の日から施行する。"
+                }
+              }
+            },
+            {
+              "@Hide": "false",
+              "@Num": "2",
+              "ParagraphNum": "２",
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "この省令の施行の日前に消防法第二十一条の十六の四第一項の規定により総務大臣に届出を行った消防用吸管については、改正後の消防用吸管の技術上の規格を定める省令の規格に適合する消防用吸管とみなす。"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@AmendLawNum": "令和元年六月二八日総務省令第一九号",
+          "@Type": "Amend",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この省令は、不正競争防止法等の一部を改正する法律の施行の日（令和元年七月一日）から施行する。"
+              }
+            }
+          }
+        }
+      ]
+    }
+  }
+}

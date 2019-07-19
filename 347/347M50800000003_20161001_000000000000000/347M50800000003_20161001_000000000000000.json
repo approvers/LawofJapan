@@ -1,0 +1,3154 @@
+{
+  "Law": {
+    "@Era": "Showa",
+    "@Lang": "ja",
+    "@LawType": "Rule",
+    "@Num": "003",
+    "@Year": "47",
+    "LawNum": "昭和四十七年公害等調整委員会規則第三号",
+    "LawBody": {
+      "LawTitle": "公害紛争の処理手続等に関する規則",
+      "EnactStatement": "公害紛争処理法（昭和四十五年法律第百八号）第二十六条第一項、第四十二条の十二第一項、第四十二条の二十七第一項及び第四十七条並びに公害紛争処理法施行令（昭和四十五年政令第二百五十三号）第十八条第三項及び第四項並びに第十九条第一項及び第二項の規定に基づき、公害紛争の処理手続等に関する規則を次のように定める。",
+      "TOC": {
+        "TOCLabel": "目次",
+        "TOCChapter": [
+          {
+            "@Num": "1",
+            "ChapterTitle": "第一章　総則",
+            "ArticleRange": "（第一条―第四条の三）"
+          },
+          {
+            "@Num": "2",
+            "ChapterTitle": "第二章　あつせん、調停及び仲裁",
+            "TOCSection": [
+              {
+                "@Num": "1",
+                "SectionTitle": "第一節　通則",
+                "ArticleRange": "（第五条―第九条）"
+              },
+              {
+                "@Num": "2",
+                "SectionTitle": "第二節　あつせん",
+                "ArticleRange": "（第九条の二―第九条の四）"
+              },
+              {
+                "@Num": "3",
+                "SectionTitle": "第三節　調停",
+                "ArticleRange": "（第十条―第二十一条の二）"
+              },
+              {
+                "@Num": "4",
+                "SectionTitle": "第四節　仲裁",
+                "ArticleRange": "（第二十二条―第二十四条）"
+              }
+            ]
+          },
+          {
+            "@Num": "3",
+            "ChapterTitle": "第三章　裁定",
+            "TOCSection": [
+              {
+                "@Num": "1",
+                "SectionTitle": "第一節　通則",
+                "ArticleRange": "（第二十四条の二―第三十三条）"
+              },
+              {
+                "@Num": "2",
+                "SectionTitle": "第二節　責任裁定",
+                "ArticleRange": "（第三十四条―第五十五条）"
+              },
+              {
+                "@Num": "3",
+                "SectionTitle": "第三節　原因裁定",
+                "ArticleRange": "（第五十六条―第六十三条）"
+              }
+            ]
+          },
+          {
+            "@Num": "4",
+            "ChapterTitle": "第四章　雑則",
+            "ArticleRange": "（第六十四条―第六十九条）"
+          }
+        ],
+        "TOCSupplProvision": {
+          "SupplProvisionLabel": "附則"
+        }
+      },
+      "MainProvision": {
+        "Chapter": [
+          {
+            "@Num": "1",
+            "ChapterTitle": "第一章　総則",
+            "Article": [
+              {
+                "@Num": "1",
+                "ArticleCaption": "（趣旨）",
+                "ArticleTitle": "第一条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "公害等調整委員会（以下「中央委員会」という。）が公害紛争処理法（以下「法」という。）に基づいて行う公害に係る紛争についてのあつせん、調停、仲裁及び裁定の手続等については、法及び公害紛争処理法施行令（以下「令」という。）に定めるもののほか、この規則の定めるところによる。"
+                  }
+                }
+              },
+              {
+                "@Num": "2",
+                "ArticleCaption": "（代理人についての承認の申請の方式等）",
+                "ArticleTitle": "第二条",
+                "Paragraph": [
+                  {
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": "弁護士又は弁護士法人である代理人の権限を証明する法第二十三条の二第三項の書面には、代理人の所属する弁護士会の名称及び代理人の事務所を記載しなければならない。"
+                    }
+                  },
+                  {
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": "弁護士又は弁護士法人以外の者を代理人とすることにつき法第二十三条の二第一項の承認を求めるには、その者の氏名又は名称、住所、職業、当事者との関係その他代理人として適当であるか否かを知るに足る事項を記載した書面をもつてしなければならない。"
+                    }
+                  },
+                  {
+                    "@Num": "3",
+                    "ParagraphNum": "３",
+                    "ParagraphSentence": {
+                      "Sentence": "前項の書面には、代理人の権限を証明する法第二十三条の二第三項の書面を添附しなければならない。"
+                    }
+                  }
+                ]
+              },
+              {
+                "@Num": "2_2",
+                "ArticleCaption": "（事件を担当する社員の届出）",
+                "ArticleTitle": "第二条の二",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "代理人となった弁護士法人は、遅滞なく、当該事件を担当する社員の氏名を調停委員会、仲裁委員会又は裁定委員会に書面で届け出なければならない。"
+                  }
+                }
+              },
+              {
+                "@Num": "3",
+                "ArticleCaption": "（調停委員長、仲裁委員長及び裁定委員長）",
+                "ArticleTitle": "第三条",
+                "Paragraph": [
+                  {
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": [
+                        {
+                          "@Function": "main",
+                          "@Num": "1",
+                          "#text": "調停委員会、仲裁委員会及び裁定委員会に、それぞれ、調停委員長、仲裁委員長及び裁定委員長を置き、調停委員、仲裁委員又は裁定委員の互選によつてこれを定める。"
+                        },
+                        {
+                          "@Function": "proviso",
+                          "@Num": "2",
+                          "#text": "ただし、中央委員会の委員長が調停委員、仲裁委員又は裁定委員であるときは、委員長を調停委員長、仲裁委員長又は裁定委員長とする。"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": "調停委員長、仲裁委員長及び裁定委員長は、それぞれ、調停、仲裁及び裁定の手続を指揮する。"
+                    }
+                  }
+                ]
+              },
+              {
+                "@Num": "4",
+                "ArticleCaption": "（期間の計算）",
+                "ArticleTitle": "第四条",
+                "Paragraph": [
+                  {
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": "期間の計算は、民法（明治二十九年法律第八十九号）に従う。"
+                    }
+                  },
+                  {
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": "期間の末日が行政機関の休日に関する法律（昭和六十三年法律第九十一号）第一条第一項各号に掲げる日に当たるときは、期間は、その翌日をもつて満了する。"
+                    }
+                  }
+                ]
+              },
+              {
+                "@Num": "4_2",
+                "ArticleCaption": "（送達の通知）",
+                "ArticleTitle": "第四条の二",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "法第四十五条の二において準用する民事訴訟法（平成八年法律第百九号）第百六条第二項に規定する補充送達がされたときは、中央委員会の事務局の職員は、その旨を送達を受けた者に通知しなければならない。"
+                  }
+                }
+              },
+              {
+                "@Num": "4_3",
+                "ArticleTitle": "第四条の三",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "法第四十五条の二において準用する民事訴訟法第百七条第一項に規定する書留郵便に付する送達をしたときは、中央委員会の事務局の職員は、その旨及び当該書類について書留郵便に付して発送した時に送達があつたものとみなされることを送達を受けた者に通知しなければならない。"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "@Num": "2",
+            "ChapterTitle": "第二章　あつせん、調停及び仲裁",
+            "Section": [
+              {
+                "@Num": "1",
+                "SectionTitle": "第一節　通則",
+                "Article": [
+                  {
+                    "@Num": "5",
+                    "ArticleCaption": "（代表者の選定）",
+                    "ArticleTitle": "第五条",
+                    "Paragraph": [
+                      {
+                        "@Num": "1",
+                        "ParagraphNum": null,
+                        "ParagraphSentence": {
+                          "Sentence": "法第二十六条第一項の申請、法第二十七条の二第一項の規定によるあつせん又は法第二十七条の三第一項の規定による調停（これらに係る法第二十三条の四第一項の規定による参加の申立てを含む。次項において「申請等」という。）に係る当事者が多数である場合においては、当該当事者は、そのうちから一人若しくは数人の代表者を選定し、又はこれを変更することができる。"
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "ParagraphNum": "２",
+                        "ParagraphSentence": {
+                          "Sentence": "代表者は、各自、他の当事者のために、申請若しくは参加の申立ての取下げ又は和解の締結若しくは調停案の受諾を除き、当該申請等に係る一切の行為をすることができる。"
+                        }
+                      },
+                      {
+                        "@Num": "3",
+                        "ParagraphNum": "３",
+                        "ParagraphSentence": {
+                          "Sentence": "代表者が選定されたときは、代表者のすることができる行為は、代表者を通じてしなければならない。"
+                        }
+                      },
+                      {
+                        "@Num": "4",
+                        "ParagraphNum": "４",
+                        "ParagraphSentence": {
+                          "Sentence": "第一項の規定による代表者の選定及びその変更は、書面をもつて証明しなければならない。"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Num": "6",
+                    "ArticleCaption": "（申請書等）",
+                    "ArticleTitle": "第六条",
+                    "Paragraph": [
+                      {
+                        "@Num": "1",
+                        "ParagraphNum": null,
+                        "ParagraphSentence": {
+                          "Sentence": "法第二十六条第一項の書面には、次に掲げる事項を記載し、申請人、前条第一項の代表者又は代理人が記名押印しなければならない。"
+                        },
+                        "Item": [
+                          {
+                            "@Num": "1",
+                            "ItemTitle": "一",
+                            "ItemSentence": {
+                              "Sentence": "当事者の氏名又は名称及び住所"
+                            }
+                          },
+                          {
+                            "@Num": "2",
+                            "ItemTitle": "二",
+                            "ItemSentence": {
+                              "Sentence": "前条第一項の代表者又は代理人を選定又は選任したときは、その者の氏名又は名称及び住所"
+                            }
+                          },
+                          {
+                            "@Num": "3",
+                            "ItemTitle": "三",
+                            "ItemSentence": {
+                              "Sentence": "当該公害に係る事業活動その他の人の活動の行われた場所及び被害の生じた場所"
+                            }
+                          },
+                          {
+                            "@Num": "4",
+                            "ItemTitle": "四",
+                            "ItemSentence": {
+                              "Sentence": "あつせん、調停又は仲裁を求める事項及びその理由"
+                            }
+                          },
+                          {
+                            "@Num": "5",
+                            "ItemTitle": "五",
+                            "ItemSentence": {
+                              "Sentence": "紛争の経過"
+                            }
+                          },
+                          {
+                            "@Num": "6",
+                            "ItemTitle": "六",
+                            "ItemSentence": {
+                              "Sentence": "申請の年月日"
+                            }
+                          },
+                          {
+                            "@Num": "7",
+                            "ItemTitle": "七",
+                            "ItemSentence": {
+                              "Sentence": "仲裁の申請の場合において、当事者が合意によつて選定した仲裁委員があるときは、その者の氏名"
+                            }
+                          },
+                          {
+                            "@Num": "8",
+                            "ItemTitle": "八",
+                            "ItemSentence": {
+                              "Sentence": "前各号に掲げるもののほか、あつせん、調停又は仲裁を行うについて参考となる事項"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "@Num": "2",
+                        "ParagraphNum": "２",
+                        "ParagraphSentence": {
+                          "Sentence": "仲裁の申請の場合において、当事者の一方から仲裁の申請をするときは法の規定による仲裁に付する旨の合意を証する書面を、法第二十四条第三項の規定により合意によつて管轄を定めたときはその合意を証する書面を当該申請書に添附しなければならない。"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Num": "7",
+                    "ArticleCaption": "（申請があつた旨の通知）",
+                    "ArticleTitle": "第七条",
+                    "Paragraph": {
+                      "@Num": "1",
+                      "ParagraphNum": null,
+                      "ParagraphSentence": {
+                        "Sentence": "中央委員会は、当事者の一方からあつせん、調停又は仲裁の申請があつたときは、当該申請書の写しを添えて、その相手方に対し、遅滞なく、書面をもつて、その旨を通知しなければならない。"
+                      }
+                    }
+                  },
+                  {
+                    "@Num": "8",
+                    "ArticleCaption": "（事件の移送等の場合の措置）",
+                    "ArticleTitle": "第八条",
+                    "Paragraph": {
+                      "@Num": "1",
+                      "ParagraphNum": null,
+                      "ParagraphSentence": {
+                        "Sentence": "中央委員会は、法第二十五条の規定により事件を移送するとき、又は法第三十八条第三項の規定により準用する同条第一項の規定により事件を引き継ぐときは、当事者が提出していたすべての文書及び物件その他当該事件に関係する文書及び物件を管轄都道府県公害審査会（都道府県公害審査会を置かない都道府県にあつては、都道府県知事とし、以下「審査会等」という。）又は関係都道府県の審査会等に送付し、かつ、当事者に対し、遅滞なく、書面をもつて、その旨を通知しなければならない。"
+                      }
+                    }
+                  },
+                  {
+                    "@Num": "9",
+                    "ArticleCaption": "（手続を行う場所）",
+                    "ArticleTitle": "第九条",
+                    "Paragraph": {
+                      "@Num": "1",
+                      "ParagraphNum": null,
+                      "ParagraphSentence": {
+                        "Sentence": "あつせん委員、調停委員会又は仲裁委員会は、相当と認めるときは、被害の生じた場所その他適当な場所で手続を行うことができる。"
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "@Num": "2",
+                "SectionTitle": "第二節　あつせん",
+                "Article": [
+                  {
+                    "@Num": "9_2",
+                    "ArticleCaption": "（議決をした旨の通知）",
+                    "ArticleTitle": "第九条の二",
+                    "Paragraph": {
+                      "@Num": "1",
+                      "ParagraphNum": null,
+                      "ParagraphSentence": {
+                        "Sentence": "中央委員会は、法第二十七条の二第一項の規定による議決をしたときは、当事者に対し、遅滞なく、次に掲げる事項を記載した書面をもつて、その旨を通知しなければならない。"
+                      },
+                      "Item": [
+                        {
+                          "@Num": "1",
+                          "ItemTitle": "一",
+                          "ItemSentence": {
+                            "Sentence": "事件の表示"
+                          }
+                        },
+                        {
+                          "@Num": "2",
+                          "ItemTitle": "二",
+                          "ItemSentence": {
+                            "Sentence": "当事者の氏名又は名称及び住所"
+                          }
+                        },
+                        {
+                          "@Num": "3",
+                          "ItemTitle": "三",
+                          "ItemSentence": {
+                            "Sentence": "あつせんの目的となる事項"
+                          }
+                        },
+                        {
+                          "@Num": "4",
+                          "ItemTitle": "四",
+                          "ItemSentence": {
+                            "Sentence": "議決の年月日"
+                          }
+                        },
+                        {
+                          "@Num": "5",
+                          "ItemTitle": "五",
+                          "ItemSentence": {
+                            "Sentence": "あつせん委員の氏名"
+                          }
+                        },
+                        {
+                          "@Num": "6",
+                          "ItemTitle": "六",
+                          "ItemSentence": {
+                            "Sentence": "前各号に掲げるもののほか、あつせんの開始のために必要と認める事項"
+                          }
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "@Num": "9_3",
+                    "ArticleCaption": "（あつせんを打ち切つた旨の通知）",
+                    "ArticleTitle": "第九条の三",
+                    "Paragraph": {
+                      "@Num": "1",
+                      "ParagraphNum": null,
+                      "ParagraphSentence": {
+                        "Sentence": "あつせん委員は、法第三十条第一項の規定によりあつせんを打ち切つたときは、当事者に対し、遅滞なく、書面をもつて、その旨を通知しなければならない。"
+                      }
+                    }
+                  },
+                  {
+                    "@Num": "9_4",
+                    "ArticleCaption": "（準用規定）",
+                    "ArticleTitle": "第九条の四",
+                    "Paragraph": {
+                      "@Num": "1",
+                      "ParagraphNum": null,
+                      "ParagraphSentence": {
+                        "Sentence": "第十二条及び第十四条の規定は、あつせん委員の行うあつせんの手続について準用する。"
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "@Num": "3",
+                "SectionTitle": "第三節　調停",
+                "Article": [
+                  {
+                    "@Num": "10",
+                    "ArticleCaption": "（参加申立書）",
+                    "ArticleTitle": "第十条",
+                    "Paragraph": [
+                      {
+                        "@Num": "1",
+                        "ParagraphNum": null,
+                        "ParagraphSentence": {
+                          "Sentence": "法第二十三条の四第一項の規定による調停の手続への参加の申立ては、書面をもつてしなければならない。"
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "ParagraphNum": "２",
+                        "ParagraphSentence": {
+                          "Sentence": [
+                            {
+                              "@Num": "1",
+                              "#text": "第六条第一項（第七号を除く。）の規定は、前項の書面について準用する。"
+                            },
+                            {
+                              "@Num": "2",
+                              "#text": "この場合において、同条第一項第四号中「あつせん、調停又は仲裁を求める事項」とあるのは、「参加を求める調停事件の表示並びに参加により調停を求める事項」と読み替えるものとする。"
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Num": "11",
+                    "ArticleCaption": "（参加の申立てがあつた旨の通知）",
+                    "ArticleTitle": "第十一条",
+                    "Paragraph": {
+                      "@Num": "1",
+                      "ParagraphNum": null,
+                      "ParagraphSentence": {
+                        "Sentence": "調停委員会は、法第二十三条の四第一項の規定による調停の手続への参加の申立てがあつたときは当該申立書の写しを添えて当事者に対し、参加の許否の決定をしたときは申立人及び当事者に対し、それぞれ、遅滞なく、書面をもつて、その旨を通知しなければならない。"
+                      }
+                    }
+                  },
+                  {
+                    "@Num": "12",
+                    "ArticleCaption": "（申請の変更）",
+                    "ArticleTitle": "第十二条",
+                    "Paragraph": [
+                      {
+                        "@Num": "1",
+                        "ParagraphNum": null,
+                        "ParagraphSentence": {
+                          "Sentence": [
+                            {
+                              "@Function": "main",
+                              "@Num": "1",
+                              "#text": "調停の手続における申請人又は参加人は、書面をもつて、調停を求める事項又はその理由を変更することができる。"
+                            },
+                            {
+                              "@Function": "proviso",
+                              "@Num": "2",
+                              "#text": "ただし、これにより当該調停の手続を著しく遅滞させる場合は、この限りでない。"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "ParagraphNum": "２",
+                        "ParagraphSentence": {
+                          "Sentence": "調停委員会は、前項の規定による変更の申請があつたときは、同項の書面の写しを添えて、その相手方に対し、遅滞なく、書面をもつて、その旨を通知しなければならない。"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Num": "13",
+                    "ArticleCaption": "（手続の受継）",
+                    "ArticleTitle": "第十三条",
+                    "Paragraph": [
+                      {
+                        "@Num": "1",
+                        "ParagraphNum": null,
+                        "ParagraphSentence": {
+                          "Sentence": "調停の手続における当事者が死亡、手続をする能力の喪失その他の事由によつて手続を続行することができない場合には、法令により手続を続行する資格のある者は、手続の受継を申し立てることができる。"
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "ParagraphNum": "２",
+                        "ParagraphSentence": {
+                          "Sentence": "調停委員会は、前項の場合において必要があると認めるときは、同項の資格のある者に手続を受継させることができる。"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Num": "14",
+                    "ArticleCaption": "（手続の分離又は併合）",
+                    "ArticleTitle": "第十四条",
+                    "Paragraph": [
+                      {
+                        "@Num": "1",
+                        "ParagraphNum": null,
+                        "ParagraphSentence": {
+                          "Sentence": "調停委員会は、適当と認めるときは、調停の手続を分離し、又は併合することができる。"
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "ParagraphNum": "２",
+                        "ParagraphSentence": {
+                          "Sentence": "調停委員会は、前項の規定により調停の手続を分離し、又は併合したときは、当事者に対し、遅滞なく、書面をもつて、その旨を通知しなければならない。"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Num": "15",
+                    "ArticleCaption": "（出頭要求の方式）",
+                    "ArticleTitle": "第十五条",
+                    "Paragraph": {
+                      "@Num": "1",
+                      "ParagraphNum": null,
+                      "ParagraphSentence": {
+                        "Sentence": "調停委員会が法第三十二条の規定により当事者の出頭を求めるには、出頭すべき日時、場所、正当な理由がなくて出頭の要求に応じなかつたときの法律上の制裁その他調停委員会が必要と認める事項を記載した書面をもつてしなければならない。"
+                      }
+                    }
+                  },
+                  {
+                    "@Num": "16",
+                    "ArticleCaption": "（関係人の陳述等）",
+                    "ArticleTitle": "第十六条",
+                    "Paragraph": [
+                      {
+                        "@Num": "1",
+                        "ParagraphNum": null,
+                        "ParagraphSentence": {
+                          "Sentence": "調停委員会は、調停を行なうため必要があると認めるときは、事件の関係人若しくは参考人に陳述若しくは意見を求め、又は鑑定人に鑑定を依頼することができる。"
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "ParagraphNum": "２",
+                        "ParagraphSentence": {
+                          "Sentence": "調停委員会は、必要があると認めるときは、自ら事実の調査をし、又は中央委員会の事務局の職員にこれを行なわせることができる。"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Num": "17",
+                    "ArticleCaption": "（文書等の提出要求の方式）",
+                    "ArticleTitle": "第十七条",
+                    "Paragraph": {
+                      "@Num": "1",
+                      "ParagraphNum": null,
+                      "ParagraphSentence": {
+                        "Sentence": "調停委員会が法第三十三条第一項の規定により文書又は物件の提出を求めるには、提出すべき文書又は物件の表示、提出期限、正当な理由がなくて文書又は物件の提出の要求に応じなかつたときの法律上の制裁その他調停委員会が必要と認める事項を記載した書面をもつてしなければならない。"
+                      }
+                    }
+                  },
+                  {
+                    "@Num": "18",
+                    "ArticleCaption": "（立入検査の場合の措置）",
+                    "ArticleTitle": "第十八条",
+                    "Paragraph": [
+                      {
+                        "@Num": "1",
+                        "ParagraphNum": null,
+                        "ParagraphSentence": {
+                          "Sentence": "調停委員会が法第三十三条第二項の規定により立入検査をする場合においては、書面をもつて、立ち入る場所及び検査する文書又は物件を明示しなければならない。"
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "ParagraphNum": "２",
+                        "ParagraphSentence": {
+                          "Sentence": "前項の書面には、正当な理由がなくて立入検査を拒み、妨げ、又は忌避したときの法律上の制裁を記載しなければならない。"
+                        }
+                      },
+                      {
+                        "@Num": "3",
+                        "ParagraphNum": "３",
+                        "ParagraphSentence": {
+                          "Sentence": "第一項の立入検査をする場合においては、調停委員又は専門委員は、その身分を示す別記様式の証明書を携帯し、関係人の請求があつたときは、これを提示しなければならない。"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Num": "19",
+                    "ArticleCaption": "（調停案の受諾の勧告の方式等）",
+                    "ArticleTitle": "第十九条",
+                    "Paragraph": [
+                      {
+                        "@Num": "1",
+                        "ParagraphNum": null,
+                        "ParagraphSentence": {
+                          "Sentence": "法第三十四条第一項の規定により調停委員会がする調停案の受諾の勧告は、当該調停案及び指定された期間内に調停案を受諾しない旨の申出が到達しなければ当事者間に調停案と同一の内容の合意が成立したものとみなされる旨を記載した書面をもつてしなければならない。"
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "ParagraphNum": "２",
+                        "ParagraphSentence": {
+                          "Sentence": "調停委員会に対する法第三十四条第三項の受諾しない旨の申出は、書面をもつてしなければならない。"
+                        }
+                      },
+                      {
+                        "@Num": "3",
+                        "ParagraphNum": "３",
+                        "ParagraphSentence": {
+                          "Sentence": "法第三十四条第一項の規定に基づいて指定された期間が経過したときは、調停委員会は、当事者に対し、遅滞なく、書面をもつて、当事者間に調停案と同一の内容の合意が成立したものとみなされた旨又は調停が打ち切られたものとみなされた旨を通知しなければならない。"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Num": "20",
+                    "ArticleCaption": "（調停をしない旨の通知等）",
+                    "ArticleTitle": "第二十条",
+                    "Paragraph": {
+                      "@Num": "1",
+                      "ParagraphNum": null,
+                      "ParagraphSentence": {
+                        "Sentence": "調停委員会は、法第三十五条の規定により調停をしないものとしたとき、又は法第三十六条第一項の規定により調停を打ち切つたときは、当事者に対し、遅滞なく、書面をもつて、その旨を通知しなければならない。"
+                      }
+                    }
+                  },
+                  {
+                    "@Num": "21",
+                    "ArticleCaption": "（調書）",
+                    "ArticleTitle": "第二十一条",
+                    "Paragraph": {
+                      "@Num": "1",
+                      "ParagraphNum": null,
+                      "ParagraphSentence": {
+                        "Sentence": [
+                          {
+                            "@Function": "main",
+                            "@Num": "1",
+                            "#text": "調停委員会は、中央委員会の事務局の職員に、調停の手続について、調書を作成させなければならない。"
+                          },
+                          {
+                            "@Function": "proviso",
+                            "@Num": "2",
+                            "#text": "ただし、調停委員会においてその必要がないと認めたときは、この限りでない。"
+                          }
+                        ]
+                      }
+                    }
+                  },
+                  {
+                    "@Num": "21_2",
+                    "ArticleCaption": "（準用規定）",
+                    "ArticleTitle": "第二十一条の二",
+                    "Paragraph": {
+                      "@Num": "1",
+                      "ParagraphNum": null,
+                      "ParagraphSentence": {
+                        "Sentence": "第九条の二の規定は、中央委員会が法第二十七条の三第一項の規定による議決をした場合について準用する。"
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "@Num": "4",
+                "SectionTitle": "第四節　仲裁",
+                "Article": [
+                  {
+                    "@Num": "22",
+                    "ArticleCaption": "（仲裁委員の指名等）",
+                    "ArticleTitle": "第二十二条",
+                    "Paragraph": {
+                      "@Num": "1",
+                      "ParagraphNum": null,
+                      "ParagraphSentence": {
+                        "Sentence": "法第三十九条第二項ただし書の規定により中央委員会の委員長が仲裁委員を指名する場合においては、当事者の意思等を勘案してするものとし、仲裁委員を指名したときは、当事者に対し、遅滞なく、書面をもつて、その者の氏名を通知しなければならない。"
+                      }
+                    }
+                  },
+                  {
+                    "@Num": "23",
+                    "ArticleCaption": "（仲裁委員が欠けた場合の措置）",
+                    "ArticleTitle": "第二十三条",
+                    "Paragraph": [
+                      {
+                        "@Num": "1",
+                        "ParagraphNum": null,
+                        "ParagraphSentence": {
+                          "Sentence": [
+                            {
+                              "@Function": "main",
+                              "@Num": "1",
+                              "#text": "仲裁委員が死亡、解任、辞任その他の理由により欠けた場合においては、中央委員会の委員長及び委員のうちから、当事者が合意によつて選定した者につき、中央委員会の委員長が後任の仲裁委員を指名する。"
+                            },
+                            {
+                              "@Function": "proviso",
+                              "@Num": "2",
+                              "#text": "ただし、当事者の合意による選定がされなかつたときは、中央委員会の委員長及び委員のうちから、当事者の意思等を勘案して中央委員会の委員長が指名する。"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "ParagraphNum": "２",
+                        "ParagraphSentence": {
+                          "Sentence": "中央委員会の委員長は、前項ただし書の規定により仲裁委員を指名したときは、当事者に対し、遅滞なく、書面をもつて、その者の氏名を通知しなければならない。"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Num": "24",
+                    "ArticleCaption": "（準用規定）",
+                    "ArticleTitle": "第二十四条",
+                    "Paragraph": {
+                      "@Num": "1",
+                      "ParagraphNum": null,
+                      "ParagraphSentence": {
+                        "Sentence": "第十六条及び第二十一条の規定は仲裁委員会の行なう仲裁の手続について、第十七条の規定は仲裁委員会が法第四十条第一項の規定により文書又は物件の提出を求める場合について、第十八条の規定は仲裁委員会が法第四十条第二項の規定により立入検査をする場合について準用する。"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "@Num": "3",
+            "ChapterTitle": "第三章　裁定",
+            "Section": [
+              {
+                "@Num": "1",
+                "SectionTitle": "第一節　通則",
+                "Article": [
+                  {
+                    "@Num": "24_2",
+                    "ArticleCaption": "（ファクシミリを利用した書面の提出）",
+                    "ArticleTitle": "第二十四条の二",
+                    "Paragraph": [
+                      {
+                        "@Num": "1",
+                        "ParagraphNum": null,
+                        "ParagraphSentence": {
+                          "Sentence": "中央委員会又は裁定委員会に提出すべき書面は、次に掲げるものを除き、ファクシミリを利用して送信することにより提出することができる。"
+                        },
+                        "Item": [
+                          {
+                            "@Num": "1",
+                            "ItemTitle": "一",
+                            "ItemSentence": {
+                              "Sentence": "法第四十五条の規定により手数料を納付しなければならない申請又は申立てに係る書面"
+                            }
+                          },
+                          {
+                            "@Num": "2",
+                            "ItemTitle": "二",
+                            "ItemSentence": {
+                              "Sentence": "その提出により裁定の手続の開始、続行、停止又は完結をさせる書面（前号に該当する書面を除く。）"
+                            }
+                          },
+                          {
+                            "@Num": "3",
+                            "ItemTitle": "三",
+                            "ItemSentence": {
+                              "Sentence": "法定代理権、手続をするのに必要な授権又は法第二十三条の二第一項の代理人の権限を証明する書面その他の裁定の手続上重要な事項を証明する書面"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "@Num": "2",
+                        "ParagraphNum": "２",
+                        "ParagraphSentence": {
+                          "Sentence": "ファクシミリを利用して書面が提出されたときは、中央委員会が受信した時に、当該書面が中央委員会又は裁定委員会に提出されたものとみなす。"
+                        }
+                      },
+                      {
+                        "@Num": "3",
+                        "ParagraphNum": "３",
+                        "ParagraphSentence": {
+                          "Sentence": "中央委員会又は裁定委員会は、前項に規定する場合において、必要があると認めるときは、提出者に対し、送信に使用した書面を提出させることができる。"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Num": "24_3",
+                    "ArticleCaption": "（電子メールを利用した書面の提出）",
+                    "ArticleTitle": "第二十四条の三",
+                    "Paragraph": [
+                      {
+                        "@Num": "1",
+                        "ParagraphNum": null,
+                        "ParagraphSentence": {
+                          "Sentence": "前条第一項の規定によりファクシミリを利用して送信することにより提出することができる書面のうち、次に掲げる書面については、裁定委員会が認めた場合は、電子メール（特定電子メールの送信の適正化等に関する法律（平成十四年法律第二十六号）第二条第一号に規定する電子メールをいう。以下同じ。）を利用して提出することができる。"
+                        },
+                        "Item": [
+                          {
+                            "@Num": "1",
+                            "ItemTitle": "一",
+                            "ItemSentence": {
+                              "Sentence": "準備書面"
+                            }
+                          },
+                          {
+                            "@Num": "2",
+                            "ItemTitle": "二",
+                            "ItemSentence": {
+                              "Sentence": "第四十五条第一項及び第三項から第五項までに規定する書面"
+                            }
+                          },
+                          {
+                            "@Num": "3",
+                            "ItemTitle": "三",
+                            "ItemSentence": {
+                              "Sentence": "第四十五条の二第一項に規定する証拠説明書"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "@Num": "2",
+                        "ParagraphNum": "２",
+                        "ParagraphSentence": {
+                          "Sentence": "裁定委員会は、前項の規定により提出された書面が中央委員会の使用に係る電子計算機に備えられたファイルに記録されたときは、当該ファイルに記録された情報の内容を書面に出力しなければならない。"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Num": "25",
+                    "ArticleCaption": "（未成年者、成年被後見人等の手続をする能力）",
+                    "ArticleTitle": "第二十五条",
+                    "Paragraph": [
+                      {
+                        "@Num": "1",
+                        "ParagraphNum": null,
+                        "ParagraphSentence": {
+                          "Sentence": [
+                            {
+                              "@Function": "main",
+                              "@Num": "1",
+                              "#text": "未成年者及び成年被後見人は、法定代理人によらなければ、手続をすることができない。"
+                            },
+                            {
+                              "@Function": "proviso",
+                              "@Num": "2",
+                              "#text": "ただし、未成年者が独立して法律行為をすることができるときは、この限りでない。"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "ParagraphNum": "２",
+                        "ParagraphSentence": {
+                          "Sentence": "被保佐人が手続をするには、保佐人の同意を得なければならない。"
+                        }
+                      },
+                      {
+                        "@Num": "3",
+                        "ParagraphNum": "３",
+                        "ParagraphSentence": {
+                          "Sentence": "法定代理人が本人に代わつて手続をするには、後見監督人があるときは、その同意を得なければならない。"
+                        }
+                      },
+                      {
+                        "@Num": "4",
+                        "ParagraphNum": "４",
+                        "ParagraphSentence": {
+                          "Sentence": "被保佐人又は法定代理人が相手方の申請した裁定の手続において手続をするときは、前二項の規定は、適用しない。"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Num": "26",
+                    "ArticleCaption": "（手続をする能力のない者がした行為の追認）",
+                    "ArticleTitle": "第二十六条",
+                    "Paragraph": [
+                      {
+                        "@Num": "1",
+                        "ParagraphNum": null,
+                        "ParagraphSentence": {
+                          "Sentence": "手続をする能力のない未成年者又は成年被後見人がした行為は、手続をする能力を取得した本人又は法定代理人の追認により、行為の時にさかのぼつて効力を生ずる。"
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "ParagraphNum": "２",
+                        "ParagraphSentence": {
+                          "Sentence": "被保佐人が保佐人の同意を得ないでした行為は、手続をする能力を取得した被保佐人又は保佐人の同意を得た被保佐人の追認により、行為の時にさかのぼつて効力を生ずる。"
+                        }
+                      },
+                      {
+                        "@Num": "3",
+                        "ParagraphNum": "３",
+                        "ParagraphSentence": {
+                          "Sentence": "後見監督人がある場合において法定代理人がその同意を得ないでした行為は、手続をする能力を取得した本人又は後見監督人の同意を得た法定代理人の追認により、行為の時にさかのぼつて効力を生ずる。"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Num": "27",
+                    "ArticleCaption": "（代理権の不消滅）",
+                    "ArticleTitle": "第二十七条",
+                    "Paragraph": {
+                      "@Num": "1",
+                      "ParagraphNum": null,
+                      "ParagraphSentence": {
+                        "Sentence": "法第二十三条の二第一項の代理人の権限は、当事者の死亡若しくは手続をする能力の喪失、当事者である法人の合併による消滅、法定代理人の死亡、手続をする能力の喪失若しくはその代理権の変更若しくは消滅又は代表当事者の資格の喪失によつては、消滅しない。"
+                      }
+                    }
+                  },
+                  {
+                    "@Num": "28",
+                    "ArticleCaption": "（代理権消滅の届出等）",
+                    "ArticleTitle": "第二十八条",
+                    "Paragraph": [
+                      {
+                        "@Num": "1",
+                        "ParagraphNum": null,
+                        "ParagraphSentence": {
+                          "Sentence": "代理権の消滅は、本人又は代理人から裁定委員会に届け出なければ、その効力を生じない。"
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "ParagraphNum": "２",
+                        "ParagraphSentence": {
+                          "Sentence": "前項の規定は、代表当事者がその資格を喪失した場合について準用する。"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Num": "29",
+                    "ArticleCaption": "（代理権のない者がした行為の追認）",
+                    "ArticleTitle": "第二十九条",
+                    "Paragraph": {
+                      "@Num": "1",
+                      "ParagraphNum": null,
+                      "ParagraphSentence": {
+                        "Sentence": "代理権のない者がした行為は、手続をする能力のある本人又は法定代理人の追認により、行為の時にさかのぼつて効力を生ずる。"
+                      }
+                    }
+                  },
+                  {
+                    "@Num": "30",
+                    "ArticleCaption": "（手続の中断及び受継）",
+                    "ArticleTitle": "第三十条",
+                    "Paragraph": [
+                      {
+                        "@Num": "1",
+                        "ParagraphNum": null,
+                        "ParagraphSentence": {
+                          "Sentence": "裁定の手続は、当事者若しくはその法定代理人（補助人である場合を除く。）の死亡、手続をする能力の喪失、代理権の喪失、当事者である法人の合併による消滅又は代表当事者の資格の喪失により、中断する。"
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "ParagraphNum": "２",
+                        "ParagraphSentence": {
+                          "Sentence": "前項の規定は、当事者に法第二十三条の二第一項の代理人がある場合には、適用しない。"
+                        }
+                      },
+                      {
+                        "@Num": "3",
+                        "ParagraphNum": "３",
+                        "ParagraphSentence": {
+                          "Sentence": "第一項の法定代理人が保佐人である場合にあっては、同項の規定は、次に掲げるときには、適用しない。"
+                        },
+                        "Item": [
+                          {
+                            "@Num": "1",
+                            "ItemTitle": "一",
+                            "ItemSentence": {
+                              "Sentence": "被保佐人が手続をすることについて保佐人の同意を得ることを要しないとき。"
+                            }
+                          },
+                          {
+                            "@Num": "2",
+                            "ItemTitle": "二",
+                            "ItemSentence": {
+                              "Sentence": "被保佐人が前号に規定する同意を得ることを要する場合において、その同意を得ているとき。"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "@Num": "4",
+                        "ParagraphNum": "４",
+                        "ParagraphSentence": {
+                          "Sentence": "第一項に掲げる事由が生じたときは、法第二十三条の二第一項の代理人は、その旨を裁定委員会に書面で届け出なければならない。"
+                        }
+                      },
+                      {
+                        "@Num": "5",
+                        "ParagraphNum": "５",
+                        "ParagraphSentence": {
+                          "Sentence": "第一項の場合において、法令により手続を続行する資格のある者は、手続の受継を申し立てることができる。"
+                        }
+                      },
+                      {
+                        "@Num": "6",
+                        "ParagraphNum": "６",
+                        "ParagraphSentence": {
+                          "Sentence": "前項の申立ては、書面をもつて行い、かつ、申立人が法令により手続を続行する資格のある者であることを明らかにする資料を添付してしなければならない。"
+                        }
+                      },
+                      {
+                        "@Num": "7",
+                        "ParagraphNum": "７",
+                        "ParagraphSentence": {
+                          "Sentence": "裁定委員会は、第一項の場合において必要があると認めるときは、第五項の資格のある者に手続を受継させることができる。"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Num": "31",
+                    "ArticleCaption": "（除斥又は忌避の申立ての方式等）",
+                    "ArticleTitle": "第三十一条",
+                    "Paragraph": [
+                      {
+                        "@Num": "1",
+                        "ParagraphNum": null,
+                        "ParagraphSentence": {
+                          "Sentence": "除斥又は忌避の申立ては、中央委員会に対し、その原因を記載した書面を提出してしなければならない。"
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "ParagraphNum": "２",
+                        "ParagraphSentence": {
+                          "Sentence": [
+                            {
+                              "@Num": "1",
+                              "#text": "除斥又は忌避の原因は、前項の申立てをした日から三日以内に、疎明しなければならない。"
+                            },
+                            {
+                              "@Num": "2",
+                              "#text": "法第四十二条の四第二項ただし書の事実についても、同様とする。"
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Num": "31_2",
+                    "ArticleCaption": "（裁定委員の回避）",
+                    "ArticleTitle": "第三十一条の二",
+                    "Paragraph": {
+                      "@Num": "1",
+                      "ParagraphNum": null,
+                      "ParagraphSentence": {
+                        "Sentence": "裁定委員は、法第四十二条の三第一項又は法第四十二条の四第一項に規定する場合には、中央委員会の許可を得て、回避することができる。"
+                      }
+                    }
+                  },
+                  {
+                    "@Num": "31_3",
+                    "ArticleCaption": "（裁定委員の交代）",
+                    "ArticleTitle": "第三十一条の三",
+                    "Paragraph": {
+                      "@Num": "1",
+                      "ParagraphNum": null,
+                      "ParagraphSentence": {
+                        "Sentence": "裁定委員が代わった場合には、当事者は、従前の審問の結果を陳述しなければならない。"
+                      }
+                    }
+                  },
+                  {
+                    "@Num": "32",
+                    "ArticleCaption": "（代表当事者の選定命令の方式等）",
+                    "ArticleTitle": "第三十二条",
+                    "Paragraph": [
+                      {
+                        "@Num": "1",
+                        "ParagraphNum": null,
+                        "ParagraphSentence": {
+                          "Sentence": "法第四十二条の八第一項の規定により裁定委員会が代表当事者の選定を命ずるには、次に掲げる事項を記載した書面をもつてしなければならない。"
+                        },
+                        "Item": [
+                          {
+                            "@Num": "1",
+                            "ItemTitle": "一",
+                            "ItemSentence": {
+                              "Sentence": "代表当事者を選定すべき当事者"
+                            }
+                          },
+                          {
+                            "@Num": "2",
+                            "ItemTitle": "二",
+                            "ItemSentence": {
+                              "Sentence": "選定すべき代表当事者の数"
+                            }
+                          },
+                          {
+                            "@Num": "3",
+                            "ItemTitle": "三",
+                            "ItemSentence": {
+                              "Sentence": "選定の期限"
+                            }
+                          },
+                          {
+                            "@Num": "4",
+                            "ItemTitle": "四",
+                            "ItemSentence": {
+                              "Sentence": "選定の効果その他裁定委員会が必要と認める事項"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "@Num": "2",
+                        "ParagraphNum": "２",
+                        "ParagraphSentence": {
+                          "Sentence": "法第四十二条の八第二項の規定による取消しは、書面をもつてしなければならない。"
+                        }
+                      },
+                      {
+                        "@Num": "3",
+                        "ParagraphNum": "３",
+                        "ParagraphSentence": {
+                          "Sentence": "第一項の規定は、法第四十二条の八第二項の規定による変更について準用する。"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Num": "33",
+                    "ArticleCaption": "（裁定委員会による代表当事者の選定の方式等）",
+                    "ArticleTitle": "第三十三条",
+                    "Paragraph": [
+                      {
+                        "@Num": "1",
+                        "ParagraphNum": null,
+                        "ParagraphSentence": {
+                          "Sentence": "裁定委員会は、法第四十二条の九第一項の規定により代表当事者を選定したときは、当事者に対し、遅滞なく、書面をもつて、その旨を通知しなければならない。"
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "ParagraphNum": "２",
+                        "ParagraphSentence": {
+                          "Sentence": "前項の書面には、次に掲げる事項を記載しなければならない。"
+                        },
+                        "Item": [
+                          {
+                            "@Num": "1",
+                            "ItemTitle": "一",
+                            "ItemSentence": {
+                              "Sentence": "代表当事者"
+                            }
+                          },
+                          {
+                            "@Num": "2",
+                            "ItemTitle": "二",
+                            "ItemSentence": {
+                              "Sentence": "当該代表当事者に係る被代表者"
+                            }
+                          },
+                          {
+                            "@Num": "3",
+                            "ItemTitle": "三",
+                            "ItemSentence": {
+                              "Sentence": "代表当事者の資格を限定したときはその範囲"
+                            }
+                          },
+                          {
+                            "@Num": "4",
+                            "ItemTitle": "四",
+                            "ItemSentence": {
+                              "Sentence": "選定の効果その他裁定委員会が必要と認める事項"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "@Num": "3",
+                        "ParagraphNum": "３",
+                        "ParagraphSentence": {
+                          "Sentence": "法第四十二条の九第二項において準用する法第四十二条の八第二項の規定による取消しは、書面をもつてしなければならない。"
+                        }
+                      },
+                      {
+                        "@Num": "4",
+                        "ParagraphNum": "４",
+                        "ParagraphSentence": {
+                          "Sentence": "第二項の規定は、法第四十二条の九第二項において準用する法第四十二条の八第二項の規定による変更について準用する。"
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "@Num": "2",
+                "SectionTitle": "第二節　責任裁定",
+                "Article": [
+                  {
+                    "@Num": "34",
+                    "ArticleCaption": "（申請書）",
+                    "ArticleTitle": "第三十四条",
+                    "Paragraph": [
+                      {
+                        "@Num": "1",
+                        "ParagraphNum": null,
+                        "ParagraphSentence": {
+                          "Sentence": "法第四十二条の十二第一項の書面には、次に掲げる事項を記載し、申請人又は代理人が記名押印しなければならない。"
+                        },
+                        "Item": [
+                          {
+                            "@Num": "1",
+                            "ItemTitle": "一",
+                            "ItemSentence": {
+                              "Sentence": "当事者の氏名又は名称及び住所"
+                            }
+                          },
+                          {
+                            "@Num": "2",
+                            "ItemTitle": "二",
+                            "ItemSentence": {
+                              "Sentence": "当事者が法第四十二条の七第一項の代表当事者であるときは、選定者の氏名又は名称及び住所"
+                            }
+                          },
+                          {
+                            "@Num": "3",
+                            "ItemTitle": "三",
+                            "ItemSentence": {
+                              "Sentence": "代理人の氏名又は名称及び住所"
+                            }
+                          },
+                          {
+                            "@Num": "4",
+                            "ItemTitle": "四",
+                            "ItemSentence": {
+                              "Sentence": "申請人又は代理人の郵便番号及び電話番号（ファクシミリの番号を含む。以下同じ。）"
+                            }
+                          },
+                          {
+                            "@Num": "5",
+                            "ItemTitle": "五",
+                            "ItemSentence": {
+                              "Sentence": "当該公害に係る事業活動その他の人の活動の行なわれた場所及び被害の生じた場所"
+                            }
+                          },
+                          {
+                            "@Num": "6",
+                            "ItemTitle": "六",
+                            "ItemSentence": {
+                              "Sentence": "裁定を求める事項及びその理由"
+                            }
+                          },
+                          {
+                            "@Num": "7",
+                            "ItemTitle": "七",
+                            "ItemSentence": {
+                              "Sentence": "被害の態様及び規模並びに紛争の実情"
+                            }
+                          },
+                          {
+                            "@Num": "8",
+                            "ItemTitle": "八",
+                            "ItemSentence": {
+                              "Sentence": "申請の年月日"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "@Num": "2",
+                        "ParagraphNum": "２",
+                        "ParagraphSentence": {
+                          "Sentence": "前項第六号の裁定を求める理由には、申請を理由づける事実を具体的に記載し、かつ、立証を要する事由ごとに、当該事実に関連する事実で重要なもの及び証拠を記載しなければならない。"
+                        }
+                      },
+                      {
+                        "@Num": "3",
+                        "ParagraphNum": "３",
+                        "ParagraphSentence": {
+                          "Sentence": "申請書には、立証を要する事由につき、証拠となるべき文書の写しで重要なものを添付しなければならない。"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Num": "35",
+                    "ArticleCaption": "（申請があつた旨の通知）",
+                    "ArticleTitle": "第三十五条",
+                    "Paragraph": {
+                      "@Num": "1",
+                      "ParagraphNum": null,
+                      "ParagraphSentence": {
+                        "Sentence": "中央委員会は、責任裁定の申請があつたときは、当該申請書の写しを添えて、その相手方に対し、遅滞なく、書面をもつて、その旨を通知しなければならない。"
+                      }
+                    }
+                  },
+                  {
+                    "@Num": "36",
+                    "ArticleCaption": "（申請の不受理）",
+                    "ArticleTitle": "第三十六条",
+                    "Paragraph": [
+                      {
+                        "@Num": "1",
+                        "ParagraphNum": null,
+                        "ParagraphSentence": {
+                          "Sentence": "法第四十二条の十二第二項の規定による責任裁定の申請を受理しない旨の決定は、すみやかに行なうものとし、申請があつた日から六十日を経過した後は、これをすることができない。"
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "ParagraphNum": "２",
+                        "ParagraphSentence": {
+                          "Sentence": "前項の決定は、文書をもつて行ない、かつ、理由を附さなければならない。"
+                        }
+                      },
+                      {
+                        "@Num": "3",
+                        "ParagraphNum": "３",
+                        "ParagraphSentence": {
+                          "Sentence": "中央委員会は、第一項の決定をしたときは、当事者に対し、決定書の正本を送達しなければならない。"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Num": "37",
+                    "ArticleCaption": "（補正）",
+                    "ArticleTitle": "第三十七条",
+                    "Paragraph": [
+                      {
+                        "@Num": "1",
+                        "ParagraphNum": null,
+                        "ParagraphSentence": {
+                          "Sentence": "裁定委員会は、不適法な責任裁定の申請で、その欠陥を補正することができるものについては、相当の期間を定めて、補正すべきことを命じなければならない。"
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "ParagraphNum": "２",
+                        "ParagraphSentence": {
+                          "Sentence": "前項の規定による命令は、書面をもつて行ない、かつ、申請人に対し、これを送達しなければならない。"
+                        }
+                      },
+                      {
+                        "@Num": "3",
+                        "ParagraphNum": "３",
+                        "ParagraphSentence": {
+                          "Sentence": "前二項の規定は、申請人が法第四十五条の手数料を納付しない場合について準用する。"
+                        }
+                      },
+                      {
+                        "@Num": "4",
+                        "ParagraphNum": "４",
+                        "ParagraphSentence": {
+                          "Sentence": [
+                            {
+                              "@Num": "1",
+                              "#text": "第一項（前項において準用する場合を含む。次項において同じ。）の規定により補正を命ぜられた申請人が指定された期間内にその補正をしないときは、裁定委員会は、決定をもつて、申請を却下しなければならない。"
+                            },
+                            {
+                              "@Num": "2",
+                              "#text": "この場合においては、法第四十二条の十三第一項後段及び第二項の規定を準用する。"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "@Num": "5",
+                        "ParagraphNum": "５",
+                        "ParagraphSentence": {
+                          "Sentence": "裁定委員会は、第一項の場合において、必要な補正を促すときは、中央委員会の事務局の職員に命じて行わせることができる。"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Num": "38",
+                    "ArticleCaption": "（準備書面の提出等）",
+                    "ArticleTitle": "第三十八条",
+                    "Paragraph": [
+                      {
+                        "@Num": "1",
+                        "ParagraphNum": null,
+                        "ParagraphSentence": {
+                          "Sentence": "答弁書その他の準備書面を裁定委員会に提出する当事者は、準備書面に記載した事項について相手方が準備をするのに必要な期間をおいて、提出しなければならない。"
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "ParagraphNum": "２",
+                        "ParagraphSentence": {
+                          "Sentence": "準備書面に事実についての主張を記載する場合には、立証を要する事由ごとに、証拠を記載しなければならない。"
+                        }
+                      },
+                      {
+                        "@Num": "3",
+                        "ParagraphNum": "３",
+                        "ParagraphSentence": {
+                          "Sentence": "準備書面において相手方の主張する事実を否認する場合には、その理由を記載しなければならない。"
+                        }
+                      },
+                      {
+                        "@Num": "4",
+                        "ParagraphNum": "４",
+                        "ParagraphSentence": {
+                          "Sentence": "裁定委員会は、必要があると認めるときは、当事者に対し、相当の期間を定めて、準備書面の提出を命ずることができる。"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Num": "38_2",
+                    "ArticleTitle": "第三十八条の二",
+                    "Paragraph": [
+                      {
+                        "@Num": "1",
+                        "ParagraphNum": null,
+                        "ParagraphSentence": {
+                          "Sentence": "答弁書には、次に掲げる事項を記載しなければならない。"
+                        },
+                        "Item": [
+                          {
+                            "@Num": "1",
+                            "ItemTitle": "一",
+                            "ItemSentence": {
+                              "Sentence": "答弁書を提出する当事者の氏名又は名称及び住所"
+                            }
+                          },
+                          {
+                            "@Num": "2",
+                            "ItemTitle": "二",
+                            "ItemSentence": {
+                              "Sentence": "代理人の氏名又は名称及び住所"
+                            }
+                          },
+                          {
+                            "@Num": "3",
+                            "ItemTitle": "三",
+                            "ItemSentence": {
+                              "Sentence": "答弁書を提出する当事者又は代理人の郵便番号及び電話番号"
+                            }
+                          },
+                          {
+                            "@Num": "4",
+                            "ItemTitle": "四",
+                            "ItemSentence": {
+                              "Sentence": "裁定を求める事項に対する答弁"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "@Num": "2",
+                        "ParagraphNum": "２",
+                        "ParagraphSentence": {
+                          "Sentence": [
+                            {
+                              "@Num": "1",
+                              "#text": "答弁書には、前項に掲げる事項のほか、申請書又は参加申立書に記載された事実に対する認否及び抗弁事実を具体的に記載し、かつ、立証を要する事由ごとに、当該事実に関連する事実で重要なもの及び証拠を記載しなければならない。"
+                            },
+                            {
+                              "@Num": "2",
+                              "#text": "やむを得ない事由によりこれらを記載することができない場合には、答弁書の提出後速やかに、これらを記載した準備書面を提出しなければならない。"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "@Num": "3",
+                        "ParagraphNum": "３",
+                        "ParagraphSentence": {
+                          "Sentence": [
+                            {
+                              "@Num": "1",
+                              "#text": "答弁書には、立証を要する事由につき、証拠となるべき文書の写しで重要なものを添付しなければならない。"
+                            },
+                            {
+                              "@Num": "2",
+                              "#text": "やむを得ない事由により添付することができない場合には、答弁書の提出後速やかに、これを提出しなければならない。"
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Num": "38_3",
+                    "ArticleTitle": "第三十八条の三",
+                    "Paragraph": {
+                      "@Num": "1",
+                      "ParagraphNum": null,
+                      "ParagraphSentence": {
+                        "Sentence": [
+                          {
+                            "@Num": "1",
+                            "#text": "前条に規定する答弁により反論を要することとなつた場合には、申請人又は参加人は、速やかに、答弁書に記載された事実に対する認否及び再抗弁事実を具体的に記載し、かつ、立証を要することとなつた事由ごとに、当該事実に関連する事実で重要なもの及び証拠を記載した準備書面を提出しなければならない。"
+                          },
+                          {
+                            "@Num": "2",
+                            "#text": "当該準備書面には、立証を要することとなつた事由につき、証拠となるべき文書の写しで重要なものを添付しなければならない。"
+                          }
+                        ]
+                      }
+                    }
+                  },
+                  {
+                    "@Num": "38_4",
+                    "ArticleTitle": "第三十八条の四",
+                    "Paragraph": [
+                      {
+                        "@Num": "1",
+                        "ParagraphNum": null,
+                        "ParagraphSentence": {
+                          "Sentence": "準備書面を裁定委員会に提出する当事者は、当該準備書面について、第三十八条第一項の期間をおいて、又は同条第四項の期間内に、直送（当事者の相手方に対する直接の送付をいう。以下同じ。）をしなければならない。"
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "ParagraphNum": "２",
+                        "ParagraphSentence": {
+                          "Sentence": "前項の規定による準備書面の直送を受けた相手方は、当該準備書面を受領した旨を記載した書面について直送をするとともに、当該書面を裁定委員会に提出しなければならない。"
+                        }
+                      },
+                      {
+                        "@Num": "3",
+                        "ParagraphNum": "３",
+                        "ParagraphSentence": {
+                          "Sentence": "前項の規定は、当事者が、受領した旨を相手方が記載した準備書面を裁定委員会に提出した場合には、適用しない。"
+                        }
+                      },
+                      {
+                        "@Num": "4",
+                        "ParagraphNum": "４",
+                        "ParagraphSentence": {
+                          "Sentence": "第一項又は第二項の規定により当事者が直送をしなければならない書面について、直送を困難とする事由その他相当とする事由があるときは、当該当事者は、裁定委員会に対し、当該書面の相手方への送付を行うよう申し出ることができる。"
+                        }
+                      },
+                      {
+                        "@Num": "5",
+                        "ParagraphNum": "５",
+                        "ParagraphSentence": {
+                          "Sentence": [
+                            {
+                              "@Function": "main",
+                              "@Num": "1",
+                              "#text": "第一項又は第二項の規定による直送は、直送をしなければならない書面の写しの交付又はファクシミリを利用しての送信によつてする。"
+                            },
+                            {
+                              "@Function": "proviso",
+                              "@Num": "2",
+                              "#text": "ただし、裁定委員会が認めた場合には、電子メールの送信によることができる。"
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Num": "39",
+                    "ArticleCaption": "（参加申立書）",
+                    "ArticleTitle": "第三十九条",
+                    "Paragraph": [
+                      {
+                        "@Num": "1",
+                        "ParagraphNum": null,
+                        "ParagraphSentence": {
+                          "Sentence": "法第二十三条の四第一項の規定による責任裁定の手続への参加の申立ては、書面をもつてしなければならない。"
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "ParagraphNum": "２",
+                        "ParagraphSentence": {
+                          "Sentence": [
+                            {
+                              "@Num": "1",
+                              "#text": "第三十四条の規定は、前項の書面について準用する。"
+                            },
+                            {
+                              "@Num": "2",
+                              "#text": "この場合において、同条第一項第六号中「裁定を求める事項」とあるのは、「参加を求める裁定事件の表示並びに参加により裁定を求める事項」と読み替えるものとする。"
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Num": "40",
+                    "ArticleCaption": "（審問期日）",
+                    "ArticleTitle": "第四十条",
+                    "Paragraph": [
+                      {
+                        "@Num": "1",
+                        "ParagraphNum": null,
+                        "ParagraphSentence": {
+                          "Sentence": "裁定委員会は、審問の期日を定め、当事者に通知しなければならない。"
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "ParagraphNum": "２",
+                        "ParagraphSentence": {
+                          "Sentence": "裁定委員会は、正当な理由がある場合には、審問の期日を延期し、又は変更することができる。"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Num": "41",
+                    "ArticleCaption": "（審問の場所）",
+                    "ArticleTitle": "第四十一条",
+                    "Paragraph": [
+                      {
+                        "@Num": "1",
+                        "ParagraphNum": null,
+                        "ParagraphSentence": {
+                          "Sentence": "審問は、中央委員会の審問廷で行う。"
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "ParagraphNum": "２",
+                        "ParagraphSentence": {
+                          "Sentence": "前項の規定にかかわらず、裁定委員会は、相当と認めるときは、中央委員会の承認を得て、被害の生じた場所その他適当な場所で審問を行うことができる。"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Num": "42",
+                    "ArticleCaption": "（申請の変更）",
+                    "ArticleTitle": "第四十二条",
+                    "Paragraph": [
+                      {
+                        "@Num": "1",
+                        "ParagraphNum": null,
+                        "ParagraphSentence": {
+                          "Sentence": [
+                            {
+                              "@Function": "main",
+                              "@Num": "1",
+                              "#text": "責任裁定の手続における申請人又は参加人は、書面をもつて、裁定を求める事項又はその理由を変更することができる。"
+                            },
+                            {
+                              "@Function": "proviso",
+                              "@Num": "2",
+                              "#text": "ただし、これにより裁定の手続を著しく遅滞させる場合は、この限りでない。"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "ParagraphNum": "２",
+                        "ParagraphSentence": {
+                          "Sentence": "裁定委員会は、前項ただし書の場合においては、申請の変更を許さない旨の決定をしなければならない。"
+                        }
+                      },
+                      {
+                        "@Num": "3",
+                        "ParagraphNum": "３",
+                        "ParagraphSentence": {
+                          "Sentence": "裁定委員会は、第一項の規定による変更の申請があつたときは同項の書面の写しを添えてその相手方に対し、前項の決定をしたときは当事者に対し、それぞれ、遅滞なく、書面をもつて、その旨を通知しなければならない。"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Num": "43",
+                    "ArticleCaption": "（申請の取下げ）",
+                    "ArticleTitle": "第四十三条",
+                    "Paragraph": [
+                      {
+                        "@Num": "1",
+                        "ParagraphNum": null,
+                        "ParagraphSentence": {
+                          "Sentence": "責任裁定の手続における申請人又は参加人は、責任裁定があるまでは、いつでも、申請又は参加の申立てを取り下げることができる。"
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "ParagraphNum": "２",
+                        "ParagraphSentence": {
+                          "Sentence": "前項の規定による取下げは、書面をもつてしなければならない。"
+                        }
+                      },
+                      {
+                        "@Num": "3",
+                        "ParagraphNum": "３",
+                        "ParagraphSentence": {
+                          "Sentence": "裁定委員会は、第一項の規定による取下げがあつたときは、相手方に対し、遅滞なく、書面をもつて、その旨を通知しなければならない。"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Num": "43_2",
+                    "ArticleCaption": "（参考事項の聴取）",
+                    "ArticleTitle": "第四十三条の二",
+                    "Paragraph": [
+                      {
+                        "@Num": "1",
+                        "ParagraphNum": null,
+                        "ParagraphSentence": {
+                          "Sentence": "裁定委員会は、当事者から、責任裁定の手続の進行に関する意見その他責任裁定の手続の進行について参考とすべき事項の聴取をすることができる。"
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "ParagraphNum": "２",
+                        "ParagraphSentence": {
+                          "Sentence": "裁定委員会は、前項の聴取をする場合には、中央委員会の事務局の職員に命じて行わせることができる。"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Num": "43_3",
+                    "ArticleCaption": "（釈明権）",
+                    "ArticleTitle": "第四十三条の三",
+                    "Paragraph": [
+                      {
+                        "@Num": "1",
+                        "ParagraphNum": null,
+                        "ParagraphSentence": {
+                          "Sentence": "裁定委員会は、審問の期日又は期日外において、事件関係を明瞭にするため、事実上及び法律上の事項に関し、当事者に対して問いを発し、又は立証を促すことができる。"
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "ParagraphNum": "２",
+                        "ParagraphSentence": {
+                          "Sentence": "裁定委員会は、前項の規定による釈明のための処置をする場合には、中央委員会の事務局の職員に命じて行わせることができる。"
+                        }
+                      },
+                      {
+                        "@Num": "3",
+                        "ParagraphNum": "３",
+                        "ParagraphSentence": {
+                          "Sentence": "裁定委員会が、審問の期日外において、攻撃又は防御の方法に重要な変更を生じ得る事項について第一項の規定による処置をしたとき（前項の規定により中央委員会の事務局の職員に行わせたときを含む。）は、その内容を相手方に通知しなければならない。"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Num": "43_4",
+                    "ArticleCaption": "（進行協議）",
+                    "ArticleTitle": "第四十三条の四",
+                    "Paragraph": [
+                      {
+                        "@Num": "1",
+                        "ParagraphNum": null,
+                        "ParagraphSentence": {
+                          "Sentence": "裁定委員会は、審問の期日外において、当事者の出頭を求めて責任裁定の手続の進行に関し必要な事項について協議することができる。"
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "ParagraphNum": "２",
+                        "ParagraphSentence": {
+                          "Sentence": "裁定委員会は、当事者が遠隔の地に居住しているときその他相当と認めるときは、当事者の意見を聴いて、裁定委員会及び当事者双方が音声の送受信により同時に通話をすることができる方法によって、前項の規定による協議（以下この条において「進行協議」という。）における手続を行うことができる。"
+                        }
+                      },
+                      {
+                        "@Num": "3",
+                        "ParagraphNum": "３",
+                        "ParagraphSentence": {
+                          "Sentence": "進行協議に出頭しないで前項の手続に関与した当事者は、その進行協議に出頭したものとみなす。"
+                        }
+                      },
+                      {
+                        "@Num": "4",
+                        "ParagraphNum": "４",
+                        "ParagraphSentence": {
+                          "Sentence": "裁定委員会は、第二項の規定により、進行協議における手続を行うときは、通話者及び通話先の場所の確認をしなければならない。"
+                        }
+                      },
+                      {
+                        "@Num": "5",
+                        "ParagraphNum": "５",
+                        "ParagraphSentence": {
+                          "Sentence": "裁定委員会は、進行協議における手続を行うときは、中央委員会の事務局の職員に命じて行わせることができる。"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Num": "44",
+                    "ArticleCaption": "（証拠の申出の採否）",
+                    "ArticleTitle": "第四十四条",
+                    "Paragraph": {
+                      "@Num": "1",
+                      "ParagraphNum": null,
+                      "ParagraphSentence": {
+                        "Sentence": "裁定委員会は、法第四十二条の十六第一項の規定により当事者の申し出た証拠で必要がないと認めるものについては、これを取り調べることを要しない。"
+                      }
+                    }
+                  },
+                  {
+                    "@Num": "45",
+                    "ArticleCaption": "（証拠の申出の方式）",
+                    "ArticleTitle": "第四十五条",
+                    "Paragraph": [
+                      {
+                        "@Num": "1",
+                        "ParagraphNum": null,
+                        "ParagraphSentence": {
+                          "Sentence": "法第四十二条の十六第一項第一号の規定による当事者又は参考人の尋問の申出は、当事者又は参考人の氏名、住所、尋問事項及び尋問に要する見込みの時間を明らかにした書面をもつてしなければならない。"
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "ParagraphNum": "２",
+                        "ParagraphSentence": {
+                          "Sentence": "前項の尋問事項は、できる限り、個別的かつ具体的に記載しなければならない。"
+                        }
+                      },
+                      {
+                        "@Num": "3",
+                        "ParagraphNum": "３",
+                        "ParagraphSentence": {
+                          "Sentence": "法第四十二条の十六第一項第二号の規定による鑑定の申出は、鑑定事項を明らかにした書面をもつてしなければならない。"
+                        }
+                      },
+                      {
+                        "@Num": "4",
+                        "ParagraphNum": "４",
+                        "ParagraphSentence": {
+                          "Sentence": "法第四十二条の十六第一項第三号の規定による文書又は物件の提出命令の申立ては、次に掲げる事項を明らかにした書面をもつてしなければならない。"
+                        },
+                        "Item": [
+                          {
+                            "@Num": "1",
+                            "ItemTitle": "一",
+                            "ItemSentence": {
+                              "Sentence": "文書又は物件の表示"
+                            }
+                          },
+                          {
+                            "@Num": "2",
+                            "ItemTitle": "二",
+                            "ItemSentence": {
+                              "Sentence": "文書にあつては、その趣旨"
+                            }
+                          },
+                          {
+                            "@Num": "3",
+                            "ItemTitle": "三",
+                            "ItemSentence": {
+                              "Sentence": "文書又は物件の所持人"
+                            }
+                          },
+                          {
+                            "@Num": "4",
+                            "ItemTitle": "四",
+                            "ItemSentence": {
+                              "Sentence": "立証すべき事実"
+                            }
+                          },
+                          {
+                            "@Num": "5",
+                            "ItemTitle": "五",
+                            "ItemSentence": {
+                              "Sentence": "当該文書又は物件の提出を必要とする理由"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "@Num": "5",
+                        "ParagraphNum": "５",
+                        "ParagraphSentence": {
+                          "Sentence": "法第四十二条の十六第一項第四号の規定による立入検査の申出は、次に掲げる事項を明らかにした書面をもつてしなければならない。"
+                        },
+                        "Item": [
+                          {
+                            "@Num": "1",
+                            "ItemTitle": "一",
+                            "ItemSentence": {
+                              "Sentence": "立ち入るべき場所及び検査すべき文書又は物件の表示"
+                            }
+                          },
+                          {
+                            "@Num": "2",
+                            "ItemTitle": "二",
+                            "ItemSentence": {
+                              "Sentence": "文書にあつては、その趣旨"
+                            }
+                          },
+                          {
+                            "@Num": "3",
+                            "ItemTitle": "三",
+                            "ItemSentence": {
+                              "Sentence": "立ち入るべき場所を管理する者及び文書又は物件の所持人"
+                            }
+                          },
+                          {
+                            "@Num": "4",
+                            "ItemTitle": "四",
+                            "ItemSentence": {
+                              "Sentence": "立証すべき事実"
+                            }
+                          },
+                          {
+                            "@Num": "5",
+                            "ItemTitle": "五",
+                            "ItemSentence": {
+                              "Sentence": "立入検査を必要とする理由"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "@Num": "6",
+                        "ParagraphNum": "６",
+                        "ParagraphSentence": {
+                          "Sentence": "第三十八条の四の規定は、第一項及び前三項の証拠の申出を記載した書面についても適用する。"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Num": "45_2",
+                    "ArticleTitle": "第四十五条の二",
+                    "Paragraph": [
+                      {
+                        "@Num": "1",
+                        "ParagraphNum": null,
+                        "ParagraphSentence": {
+                          "Sentence": "当事者は、その主張する事実を証するため、文書又は物件を裁定委員会に提出するときは、文書の記載から明らかな場合を除き、当該文書又は物件を提出する時までに、次に掲げる事項を記載した証拠説明書を提出しなければならない。"
+                        },
+                        "Item": [
+                          {
+                            "@Num": "1",
+                            "ItemTitle": "一",
+                            "ItemSentence": {
+                              "Sentence": "文書又は物件の表示"
+                            }
+                          },
+                          {
+                            "@Num": "2",
+                            "ItemTitle": "二",
+                            "ItemSentence": {
+                              "Sentence": "立証すべき事実"
+                            }
+                          },
+                          {
+                            "@Num": "3",
+                            "ItemTitle": "三",
+                            "ItemSentence": {
+                              "Sentence": "文書又は図面にあつては、作成者"
+                            }
+                          },
+                          {
+                            "@Num": "4",
+                            "ItemTitle": "四",
+                            "ItemSentence": {
+                              "Sentence": "写真にあつては、撮影者並びに撮影の対象、日時及び場所"
+                            }
+                          },
+                          {
+                            "@Num": "5",
+                            "ItemTitle": "五",
+                            "ItemSentence": {
+                              "Sentence": "録音テープ又はビデオテープ（これらに準ずる方法により一定の事項を記載することができる物を含む。以下「録音テープ等」という。）にあつては、録音、録画等をした者並びに録音、録画等の対象、日時及び場所"
+                            }
+                          },
+                          {
+                            "@Num": "6",
+                            "ItemTitle": "六",
+                            "ItemSentence": {
+                              "Sentence": "当該文書又は物件の提出を必要とする理由"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "@Num": "2",
+                        "ParagraphNum": "２",
+                        "ParagraphSentence": {
+                          "Sentence": "前項の規定により文書、図面、写真又は録音テープ等（以下「文書等」という。）を提出する事件関係人は、当該文書等を提出する時までに、その写しを提出しなければならない。"
+                        }
+                      },
+                      {
+                        "@Num": "3",
+                        "ParagraphNum": "３",
+                        "ParagraphSentence": {
+                          "Sentence": "第一項の規定により文書又は物件を提出する当事者は、第一項の証拠説明書及び前項の文書等の写しについて直送をすることができる。"
+                        }
+                      },
+                      {
+                        "@Num": "4",
+                        "ParagraphNum": "４",
+                        "ParagraphSentence": {
+                          "Sentence": "第三十八条の四第五項本文の規定は、前項の規定により証拠説明書及び文書等の写しを直送する場合について、第三十八条の四第五項ただし書の規定は、前項の規定により証拠説明書を直送する場合について準用する。"
+                        }
+                      },
+                      {
+                        "@Num": "5",
+                        "ParagraphNum": "５",
+                        "ParagraphSentence": {
+                          "Sentence": "証拠とする文書等の提出は、原本又は認証ある謄本をもつてしなければならない。"
+                        }
+                      },
+                      {
+                        "@Num": "6",
+                        "ParagraphNum": "６",
+                        "ParagraphSentence": {
+                          "Sentence": "裁定委員会は、前項の規定にかかわらず、原本の提出を命ずることができる。"
+                        }
+                      },
+                      {
+                        "@Num": "7",
+                        "ParagraphNum": "７",
+                        "ParagraphSentence": {
+                          "Sentence": "裁定委員会は、当事者にその提出した証拠とする文書等において引用する文書等の謄本又は抄本を提出させることができる。"
+                        }
+                      },
+                      {
+                        "@Num": "8",
+                        "ParagraphNum": "８",
+                        "ParagraphSentence": {
+                          "Sentence": "裁定委員会は、当事者にその提出した証拠とする録音テープ等の内容を説明した書面（当該録音テープ等を反訳した書面を含む。）を提出させることができる。"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Num": "46",
+                    "ArticleCaption": "（審問期日外における証拠調べ）",
+                    "ArticleTitle": "第四十六条",
+                    "Paragraph": {
+                      "@Num": "1",
+                      "ParagraphNum": null,
+                      "ParagraphSentence": {
+                        "Sentence": [
+                          {
+                            "@Num": "1",
+                            "#text": "裁定委員会は、必要があると認めるときは、審問期日以外の期日において証拠調べを行なうことができる。"
+                          },
+                          {
+                            "@Num": "2",
+                            "#text": "この場合においては、あらかじめ、当事者に対し、証拠調べを行なう期日及び場所を通知しなければならない。"
+                          }
+                        ]
+                      }
+                    }
+                  },
+                  {
+                    "@Num": "47",
+                    "ArticleCaption": "（呼出し）",
+                    "ArticleTitle": "第四十七条",
+                    "Paragraph": {
+                      "@Num": "1",
+                      "ParagraphNum": null,
+                      "ParagraphSentence": {
+                        "Sentence": "当事者、参考人又は鑑定人の呼出しは、次に掲げる事項を記載した呼出状を送達してしなければならない。"
+                      },
+                      "Item": [
+                        {
+                          "@Num": "1",
+                          "ItemTitle": "一",
+                          "ItemSentence": {
+                            "Sentence": "事件及び当事者の表示"
+                          }
+                        },
+                        {
+                          "@Num": "2",
+                          "ItemTitle": "二",
+                          "ItemSentence": {
+                            "Sentence": "出頭すべき日時及び場所"
+                          }
+                        },
+                        {
+                          "@Num": "3",
+                          "ItemTitle": "三",
+                          "ItemSentence": {
+                            "Sentence": "尋問事項又は鑑定事項"
+                          }
+                        },
+                        {
+                          "@Num": "4",
+                          "ItemTitle": "四",
+                          "ItemSentence": {
+                            "Sentence": "正当な理由がなくて出頭しなかつたときの法律上の制裁"
+                          }
+                        },
+                        {
+                          "@Num": "5",
+                          "ItemTitle": "五",
+                          "ItemSentence": {
+                            "Sentence": "その他裁定委員会が必要と認める事項"
+                          }
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "@Num": "48",
+                    "ArticleCaption": "（宣誓）",
+                    "ArticleTitle": "第四十八条",
+                    "Paragraph": [
+                      {
+                        "@Num": "1",
+                        "ParagraphNum": null,
+                        "ParagraphSentence": {
+                          "Sentence": "宣誓は、尋問前にさせなければならない。"
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "ParagraphNum": "２",
+                        "ParagraphSentence": {
+                          "Sentence": "宣誓は、当事者、参考人又は鑑定人に宣誓書を朗読させ、かつ、これに署名押印させてしなければならない。"
+                        }
+                      },
+                      {
+                        "@Num": "3",
+                        "ParagraphNum": "３",
+                        "ParagraphSentence": {
+                          "Sentence": "裁定委員長は、宣誓前に、宣誓の趣旨及び虚偽の陳述又は鑑定に対する罰を告げなければならない。"
+                        }
+                      },
+                      {
+                        "@Num": "4",
+                        "ParagraphNum": "４",
+                        "ParagraphSentence": {
+                          "Sentence": "宣誓は、起立して厳粛に行なわなければならない。"
+                        }
+                      },
+                      {
+                        "@Num": "5",
+                        "ParagraphNum": "５",
+                        "ParagraphSentence": {
+                          "Sentence": [
+                            {
+                              "@Num": "1",
+                              "#text": "鑑定人の宣誓は、宣誓書を裁定委員会に提出する方式によつてもさせることができる。"
+                            },
+                            {
+                              "@Num": "2",
+                              "#text": "この場合における裁定委員長による宣誓の趣旨及び虚偽の鑑定に対する罰の告知は、これらの事項を記載した書面を鑑定人に送付する方法によつて行う。"
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Num": "49",
+                    "ArticleCaption": "（証拠保全の申立ての方式）",
+                    "ArticleTitle": "第四十九条",
+                    "Paragraph": [
+                      {
+                        "@Num": "1",
+                        "ParagraphNum": null,
+                        "ParagraphSentence": {
+                          "Sentence": "法第四十二条の十七第一項の規定による証拠保全の申立ては、書面をもつてしなければならない。"
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "ParagraphNum": "２",
+                        "ParagraphSentence": {
+                          "Sentence": "前項の書面には、次に掲げる事項を記載し、申立人又は代理人が記名押印しなければならない。"
+                        },
+                        "Item": [
+                          {
+                            "@Num": "1",
+                            "ItemTitle": "一",
+                            "ItemSentence": {
+                              "Sentence": "相手方の氏名又は名称及び住所"
+                            }
+                          },
+                          {
+                            "@Num": "2",
+                            "ItemTitle": "二",
+                            "ItemSentence": {
+                              "Sentence": "立証すべき事実"
+                            }
+                          },
+                          {
+                            "@Num": "3",
+                            "ItemTitle": "三",
+                            "ItemSentence": {
+                              "Sentence": "証拠"
+                            }
+                          },
+                          {
+                            "@Num": "4",
+                            "ItemTitle": "四",
+                            "ItemSentence": {
+                              "Sentence": "証拠保全を必要とする理由"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "@Num": "3",
+                        "ParagraphNum": "３",
+                        "ParagraphSentence": {
+                          "Sentence": "証拠保全を必要とする理由は、これを疎明しなければならない。"
+                        }
+                      },
+                      {
+                        "@Num": "4",
+                        "ParagraphNum": "４",
+                        "ParagraphSentence": {
+                          "Sentence": "証拠保全の申立ては、相手方を指定することができない場合においても、これをすることができる。"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Num": "50",
+                    "ArticleCaption": "（申立人等への通知）",
+                    "ArticleTitle": "第五十条",
+                    "Paragraph": {
+                      "@Num": "1",
+                      "ParagraphNum": null,
+                      "ParagraphSentence": {
+                        "Sentence": [
+                          {
+                            "@Function": "main",
+                            "@Num": "1",
+                            "#text": "証拠保全として行なう証拠調べの期日及び場所は、申立人及び相手方に通知しなければならない。"
+                          },
+                          {
+                            "@Function": "proviso",
+                            "@Num": "2",
+                            "#text": "ただし、急速を要する場合は、この限りでない。"
+                          }
+                        ]
+                      }
+                    }
+                  },
+                  {
+                    "@Num": "50_2",
+                    "ArticleCaption": "（裁定書）",
+                    "ArticleTitle": "第五十条の二",
+                    "Paragraph": {
+                      "@Num": "1",
+                      "ParagraphNum": null,
+                      "ParagraphSentence": {
+                        "Sentence": "裁定委員が法第四十二条の十九第一項の裁定書に署名押印することに支障があるときは、他の裁定委員の一人がその事由を付記して署名押印しなければならない。"
+                      }
+                    }
+                  },
+                  {
+                    "@Num": "51",
+                    "ArticleCaption": "（管轄審査会等への通知）",
+                    "ArticleTitle": "第五十一条",
+                    "Paragraph": {
+                      "@Num": "1",
+                      "ParagraphNum": null,
+                      "ParagraphSentence": {
+                        "Sentence": "裁定委員会は、法第四十二条の二十四第一項の規定により管轄審査会等に事件を処理させるときは、管轄審査会等に対し、遅滞なく、書面をもつて、その旨を通知し、かつ、当該事件の記録を送付しなければならない。"
+                      }
+                    }
+                  },
+                  {
+                    "@Num": "52",
+                    "ArticleCaption": "（審問の終結及び再開）",
+                    "ArticleTitle": "第五十二条",
+                    "Paragraph": [
+                      {
+                        "@Num": "1",
+                        "ParagraphNum": null,
+                        "ParagraphSentence": {
+                          "Sentence": "裁定委員会は、事件が責任裁定をするのに熟したときは、審問を終結しなければならない。"
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "ParagraphNum": "２",
+                        "ParagraphSentence": {
+                          "Sentence": "裁定委員会は、必要があると認めるときは、終結した審問を再開することができる。"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Num": "53",
+                    "ArticleCaption": "（責任裁定の手続の中止）",
+                    "ArticleTitle": "第五十三条",
+                    "Paragraph": [
+                      {
+                        "@Num": "1",
+                        "ParagraphNum": null,
+                        "ParagraphSentence": {
+                          "Sentence": "裁定委員会は、法第四十二条の二十六第二項の規定により責任裁定の手続を中止するときは、あらかじめ、当事者の意見をきかなければならない。"
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "ParagraphNum": "２",
+                        "ParagraphSentence": {
+                          "Sentence": "裁定委員会は、責任裁定の手続を中止したときは、当事者に対し、遅滞なく、書面をもつて、その旨を通知しなければならない。"
+                        }
+                      },
+                      {
+                        "@Num": "3",
+                        "ParagraphNum": "３",
+                        "ParagraphSentence": {
+                          "Sentence": [
+                            {
+                              "@Num": "1",
+                              "#text": "裁定委員会は、相当と認めるときは、いつでも、中止の決定を取り消すことができる。"
+                            },
+                            {
+                              "@Num": "2",
+                              "#text": "この場合においては、前項の規定を準用する。"
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Num": "54",
+                    "ArticleCaption": "（調書）",
+                    "ArticleTitle": "第五十四条",
+                    "Paragraph": [
+                      {
+                        "@Num": "1",
+                        "ParagraphNum": null,
+                        "ParagraphSentence": {
+                          "Sentence": "裁定委員会は、中央委員会の事務局の職員に、審問及び証拠調べについて、期日ごとに調書を作成させなければならない。"
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "ParagraphNum": "２",
+                        "ParagraphSentence": {
+                          "Sentence": "前項の調書には、次に掲げる事項を記載し、裁定委員長及び作成した職員が記名押印しなければならない。"
+                        },
+                        "Item": [
+                          {
+                            "@Num": "1",
+                            "ItemTitle": "一",
+                            "ItemSentence": {
+                              "Sentence": "事件の表示"
+                            }
+                          },
+                          {
+                            "@Num": "2",
+                            "ItemTitle": "二",
+                            "ItemSentence": {
+                              "Sentence": "期日及び場所"
+                            }
+                          },
+                          {
+                            "@Num": "3",
+                            "ItemTitle": "三",
+                            "ItemSentence": {
+                              "Sentence": "裁定委員及び出席した中央委員会の事務局の職員の氏名"
+                            }
+                          },
+                          {
+                            "@Num": "4",
+                            "ItemTitle": "四",
+                            "ItemSentence": {
+                              "Sentence": "出頭した当事者及び代理人の氏名又は名称"
+                            }
+                          },
+                          {
+                            "@Num": "5",
+                            "ItemTitle": "五",
+                            "ItemSentence": {
+                              "Sentence": "審問の公開の有無"
+                            }
+                          },
+                          {
+                            "@Num": "6",
+                            "ItemTitle": "六",
+                            "ItemSentence": {
+                              "Sentence": "審問及び証拠調べの要領"
+                            }
+                          },
+                          {
+                            "@Num": "7",
+                            "ItemTitle": "七",
+                            "ItemSentence": {
+                              "Sentence": "その他裁定委員会が必要と認める事項"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "@Num": "3",
+                        "ParagraphNum": "３",
+                        "ParagraphSentence": {
+                          "Sentence": "前項の場合において、裁定委員長が調書に記名押印することに支障があるときは、他の裁定委員の一人がその事由を付記して記名押印しなければならない。"
+                        }
+                      },
+                      {
+                        "@Num": "4",
+                        "ParagraphNum": "４",
+                        "ParagraphSentence": {
+                          "Sentence": [
+                            {
+                              "@Num": "1",
+                              "#text": "中央委員会の事務局の職員は、第二項の規定にかかわらず、裁定委員長の許可があつたときは、当事者、参考人又は鑑定人の陳述を録音テープ等に記録し、これをもつて調書の記載に代えることができる。"
+                            },
+                            {
+                              "@Num": "2",
+                              "#text": "この場合において、当事者は、裁定委員長が許可をする際に、意見を述べることができる。"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "@Num": "5",
+                        "ParagraphNum": "５",
+                        "ParagraphSentence": {
+                          "Sentence": "前項の場合において、責任裁定の手続が完結するまでに当事者の申出があつたときは、当事者、参考人又は鑑定人の陳述を記載した書面を作成しなければならない。"
+                        }
+                      },
+                      {
+                        "@Num": "6",
+                        "ParagraphNum": "６",
+                        "ParagraphSentence": {
+                          "Sentence": "裁定委員会は、第一項に定める場合のほか、必要があると認めるときは、中央委員会の事務局の職員に、責任裁定の手続について、調書を作成させることができる。"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Num": "55",
+                    "ArticleCaption": "（準用規定）",
+                    "ArticleTitle": "第五十五条",
+                    "Paragraph": {
+                      "@Num": "1",
+                      "ParagraphNum": null,
+                      "ParagraphSentence": {
+                        "Sentence": "第十一条及び第十四条の規定は責任裁定の手続について、第十七条の規定は裁定委員会が法第四十二条の十六第一項第三号の規定により文書又は物件の提出を命ずる場合について、第十八条の規定は裁定委員会が法第四十二条の十六第一項第四号の規定により立入検査をする場合及び裁定委員会又はその命を受けた中央委員会の事務局の職員が法第四十二条の十八第二項の規定により立入検査をする場合について準用する。"
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "@Num": "3",
+                "SectionTitle": "第三節　原因裁定",
+                "Article": [
+                  {
+                    "@Num": "56",
+                    "ArticleCaption": "（相手方の特定を留保する申請）",
+                    "ArticleTitle": "第五十六条",
+                    "Paragraph": {
+                      "@Num": "1",
+                      "ParagraphNum": null,
+                      "ParagraphSentence": {
+                        "Sentence": "法第四十二条の二十八第一項の規定による申請をする者は、相手方を特定しないことについてのやむを得ない理由を疎明しなければならない。"
+                      }
+                    }
+                  },
+                  {
+                    "@Num": "57",
+                    "ArticleCaption": "（相手方の特定の申立て）",
+                    "ArticleTitle": "第五十七条",
+                    "Paragraph": [
+                      {
+                        "@Num": "1",
+                        "ParagraphNum": null,
+                        "ParagraphSentence": {
+                          "Sentence": "法第四十二条の二十八第一項の規定による申請をした者は、できる限りすみやかに、相手方を特定しなければならない。"
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "ParagraphNum": "２",
+                        "ParagraphSentence": {
+                          "Sentence": "相手方の特定は、相手方の氏名又は名称及び住所を記載した書面をもつてしなければならない。"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Num": "58",
+                    "ArticleCaption": "（相手方の特定命令等）",
+                    "ArticleTitle": "第五十八条",
+                    "Paragraph": [
+                      {
+                        "@Num": "1",
+                        "ParagraphNum": null,
+                        "ParagraphSentence": {
+                          "Sentence": "法第四十二条の二十八第二項の規定による命令は、申請人に対し、相手方を特定すべき期間及び当該期間内に相手方を特定しないときは原因裁定の申請が取り下げられたものとみなされる旨を記載した書面を送達してしなければならない。"
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "ParagraphNum": "２",
+                        "ParagraphSentence": {
+                          "Sentence": "裁定委員会は、法第四十二条の二十八第三項の規定により原因裁定の申請が取り下げられたものとみなされたときは、申請人に対し、遅滞なく、書面をもつて、その旨を通知しなければならない。"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Num": "59",
+                    "ArticleCaption": "（裁定を求めた事項以外の事項についての裁定）",
+                    "ArticleTitle": "第五十九条",
+                    "Paragraph": {
+                      "@Num": "1",
+                      "ParagraphNum": null,
+                      "ParagraphSentence": {
+                        "Sentence": "裁定委員会は、法第四十二条の三十第一項の規定により申請人が裁定を求めた事項以外の事項について裁定するときは、あらかじめ、当事者及び裁定の結果について利害関係を有する第三者に対し、その旨を通知しなければならない。"
+                      }
+                    }
+                  },
+                  {
+                    "@Num": "60",
+                    "ArticleCaption": "（法第四十二条の三十第二項の申立ての方式）",
+                    "ArticleTitle": "第六十条",
+                    "Paragraph": [
+                      {
+                        "@Num": "1",
+                        "ParagraphNum": null,
+                        "ParagraphSentence": {
+                          "Sentence": "法第四十二条の三十第二項の申立ては、書面をもつてしなければならない。"
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "ParagraphNum": "２",
+                        "ParagraphSentence": {
+                          "Sentence": "前項の書面には、次に掲げる事項を記載し、申立人又は代理人が記名押印しなければならない。"
+                        },
+                        "Item": [
+                          {
+                            "@Num": "1",
+                            "ItemTitle": "一",
+                            "ItemSentence": {
+                              "Sentence": "参加を求める裁定事件の表示"
+                            }
+                          },
+                          {
+                            "@Num": "2",
+                            "ItemTitle": "二",
+                            "ItemSentence": {
+                              "Sentence": "参加人の氏名又は名称及び住所"
+                            }
+                          },
+                          {
+                            "@Num": "3",
+                            "ItemTitle": "三",
+                            "ItemSentence": {
+                              "Sentence": "参加を必要とする理由"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@Num": "61",
+                    "ArticleCaption": "（法第四十二条の三十第二項の決定の方式等）",
+                    "ArticleTitle": "第六十一条",
+                    "Paragraph": [
+                      {
+                        "@Num": "1",
+                        "ParagraphNum": null,
+                        "ParagraphSentence": {
+                          "Sentence": "法第四十二条の三十第二項の決定又は同項の申立てを却下する旨の決定は、文書をもつて行ない、かつ、理由を附さなければならない。"
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "ParagraphNum": "２",
+                        "ParagraphSentence": {
+                          "Sentence": "裁定委員会は、法第四十二条の三十第二項の申立てがあつたときは当該申立書の写しを添えて、前項の決定があつたときは決定書の写しを添えて、当事者及び同条第二項の第三者に対し、それぞれ、遅滞なく、書面をもつて、その旨を通知しなければならない。"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Num": "62",
+                    "ArticleCaption": "（受訴裁判所への裁定書の送付）",
+                    "ArticleTitle": "第六十二条",
+                    "Paragraph": {
+                      "@Num": "1",
+                      "ParagraphNum": null,
+                      "ParagraphSentence": {
+                        "Sentence": "法第四十二条の三十二第一項の規定による嘱託に基づく原因裁定があつたときは、中央委員会は、受訴裁判所に対し、遅滞なく、書面をもつて、その旨を通知し、かつ、裁定書の正本を送付しなければならない。"
+                      }
+                    }
+                  },
+                  {
+                    "@Num": "63",
+                    "ArticleCaption": "（準用規定）",
+                    "ArticleTitle": "第六十三条",
+                    "Paragraph": {
+                      "@Num": "1",
+                      "ParagraphNum": null,
+                      "ParagraphSentence": {
+                        "Sentence": "前節の規定は、原因裁定の手続について準用する。"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "@Num": "4",
+            "ChapterTitle": "第四章　雑則",
+            "Article": [
+              {
+                "@Num": "64",
+                "ArticleCaption": "（記録の閲覧）",
+                "ArticleTitle": "第六十四条",
+                "Paragraph": [
+                  {
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": "当事者は、中央委員会の許可を得て、あつせん、調停又は仲裁に係る事件の記録を閲覧することができる。"
+                    }
+                  },
+                  {
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": "当事者又は利害関係人は、中央委員会の許可を得て、裁定に係る事件の記録を閲覧又は謄写することができる。"
+                    }
+                  },
+                  {
+                    "@Num": "3",
+                    "ParagraphNum": "３",
+                    "ParagraphSentence": {
+                      "Sentence": "前項の規定による事件の記録の閲覧又は謄写が、第二十四条の三第一項の規定により提出された場合は、同条第二項の書面をもつてするものとする。"
+                    }
+                  },
+                  {
+                    "@Num": "4",
+                    "ParagraphNum": "４",
+                    "ParagraphSentence": {
+                      "Sentence": "第一項又は第二項の規定により記録の閲覧又は謄写を請求するには、次に掲げる事項を記載した書面をもつてしなければならない。"
+                    },
+                    "Item": [
+                      {
+                        "@Num": "1",
+                        "ItemTitle": "一",
+                        "ItemSentence": {
+                          "Sentence": "閲覧又は謄写を請求する者の氏名又は名称及び住所"
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "ItemTitle": "二",
+                        "ItemSentence": {
+                          "Sentence": "事件の表示"
+                        }
+                      },
+                      {
+                        "@Num": "3",
+                        "ItemTitle": "三",
+                        "ItemSentence": {
+                          "Sentence": "閲覧又は謄写の請求の理由"
+                        }
+                      },
+                      {
+                        "@Num": "4",
+                        "ItemTitle": "四",
+                        "ItemSentence": {
+                          "Sentence": "閲覧又は謄写の請求の年月日"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Num": "5",
+                    "ParagraphNum": "５",
+                    "ParagraphSentence": {
+                      "Sentence": "記録を閲覧又は謄写する者は、閲覧又は謄写の場所、時間その他閲覧又は謄写に関する事項につき中央委員会の指示に従わなければならない。"
+                    }
+                  }
+                ]
+              },
+              {
+                "@Num": "65",
+                "ArticleCaption": "（委員長及び委員の名簿）",
+                "ArticleTitle": "第六十五条",
+                "Paragraph": [
+                  {
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": "中央委員会は、委員長及び委員の名簿を備え、一般の閲覧に供しなければならない。"
+                    }
+                  },
+                  {
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": "前項の名簿には、次に掲げる事項を記載しなければならない。"
+                    },
+                    "Item": [
+                      {
+                        "@Num": "1",
+                        "ItemTitle": "一",
+                        "ItemSentence": {
+                          "Sentence": "氏名"
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "ItemTitle": "二",
+                        "ItemSentence": {
+                          "Sentence": "経歴及び弁護士となる資格を有する者にあつては、その旨"
+                        }
+                      },
+                      {
+                        "@Num": "3",
+                        "ItemTitle": "三",
+                        "ItemSentence": {
+                          "Sentence": "任命及び任期満了の年月日"
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "@Num": "66",
+                "ArticleCaption": "（手数料の納付）",
+                "ArticleTitle": "第六十六条",
+                "Paragraph": [
+                  {
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": "令第十八条第一項の手数料は、調停、仲裁、責任裁定又は原因裁定の申請については当該申請書に同条第三項の収入印紙をはつて、法第二十三条の四第一項の規定による参加の申立てについては参加が許可された後中央委員会が指定する期間内に中央委員会が指定する書面に令第十八条第三項の収入印紙をはつて、証拠保全の申立てについては当該申立書に同項の収入印紙をはつて、それぞれ、納めなければならない。"
+                    }
+                  },
+                  {
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": "第十二条又は第四十二条第一項の規定により調停又は責任裁定を求める事項の価額を増加するときは、中央委員会が指定する期間内に当該申請書に令第十八条第四項の収入印紙をはつて納めなければならない。"
+                    }
+                  },
+                  {
+                    "@Num": "3",
+                    "ParagraphNum": "３",
+                    "ParagraphSentence": {
+                      "Sentence": "令第十九条第一項の規定により納付を猶予された手数料を納付するときは、中央委員会の指定する書面に納付すべき手数料の額に相当する額の収入印紙をはつて納めなければならない。"
+                    }
+                  }
+                ]
+              },
+              {
+                "@Num": "67",
+                "ArticleCaption": "（申請手数料の減免又はその納付の猶予）",
+                "ArticleTitle": "第六十七条",
+                "Paragraph": [
+                  {
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": "中央委員会は、令第十九条第二項の規定による申請があつた場合において、当該申請人が生活保護法（昭和二十五年法律第百四十四号）による保護を受けている者の世帯に属しているときは、令第十八条第一項の手数料を免除する。"
+                    }
+                  },
+                  {
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": "中央委員会は、令第十九条第二項の規定による申請があつた場合において、当該申請人及びこれと生計を一にする者がいずれも所得税法（昭和四十年法律第三十三号）による前年分の所得税（毎年一月から四月までの間になされる申請にあつては、その年の前前年分の所得税）を納付すべき義務を有しないときは、令第十八条第一項の手数料の二分の一を免除する。"
+                    }
+                  },
+                  {
+                    "@Num": "3",
+                    "ParagraphNum": "３",
+                    "ParagraphSentence": {
+                      "Sentence": [
+                        {
+                          "@Num": "1",
+                          "#text": "中央委員会は、令第十九条第二項の規定による申請があつた場合において、当該申請人がやむを得ない事情により令第十八条第一項の手数料を一時に納付することが困難であると認めるときは、手数料を納付すべき期限を別に定めることができる。"
+                        },
+                        {
+                          "@Num": "2",
+                          "#text": "この場合においては、当該手数料を分割し、その分割した額ごとに、納付すべき期限を定めることができる。"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "@Num": "4",
+                    "ParagraphNum": "４",
+                    "ParagraphSentence": {
+                      "Sentence": "前項の規定により納付すべき期限を別に定める場合においては、その期限（同項後段の規定により手数料を分割し、その分割した額ごとに納付すべき期限を定める場合にあつては、最終の納付分に係る期限）が当該申請をした日から二年をこえないように定めなければならない。"
+                    }
+                  },
+                  {
+                    "@Num": "5",
+                    "ParagraphNum": "５",
+                    "ParagraphSentence": {
+                      "Sentence": "中央委員会は、令第十九条第二項の規定による申請の許否の決定をしたときは、当該申請をした者に対し、遅滞なく、書面をもつて、その旨を通知しなければならない。"
+                    }
+                  }
+                ]
+              },
+              {
+                "@Num": "68",
+                "ArticleTitle": "第六十八条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "令第十九条第二項の書面には、申請人の氏名及び住所並びに申請の理由を記載し、次に掲げる事項を証明する書面を添附しなければならない。"
+                  },
+                  "Item": [
+                    {
+                      "@Num": "1",
+                      "ItemTitle": "一",
+                      "ItemSentence": {
+                        "Sentence": "申請人が生活保護法による保護を受けている者の世帯に属しているときは、その旨"
+                      }
+                    },
+                    {
+                      "@Num": "2",
+                      "ItemTitle": "二",
+                      "ItemSentence": {
+                        "Sentence": "前条第二項に掲げる者が同項の所得税を納付すべき義務を有しないときは、その旨"
+                      }
+                    },
+                    {
+                      "@Num": "3",
+                      "ItemTitle": "三",
+                      "ItemSentence": {
+                        "Sentence": "前二号に掲げるもののほか、申請人が手数料を納付することが困難である事情があるときは、その旨"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "@Num": "69",
+                "ArticleCaption": "（秩序維持のための措置）",
+                "ArticleTitle": "第六十九条",
+                "Paragraph": [
+                  {
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": "あつせん委員、調停委員長、仲裁委員長又は裁定委員長は、あつせん、調停、仲裁又は裁定をする場合において、職務の執行を妨げ、又は不当な行状をする者に対し、退場を命じ、その他職務の円滑な執行のため必要な措置を執ることができる。"
+                    }
+                  },
+                  {
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": "前項の規定は、法第二十三条の五の規定により手続を行なう調停委員、仲裁委員若しくは裁定委員又は法第四十二条の十七第二項の規定により指名された者が手続を行なう場合について準用する。"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "SupplProvision": [
+        {
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": [
+            {
+              "@Num": "1",
+              "ParagraphNum": "１",
+              "ParagraphSentence": {
+                "Sentence": "この規則は、公布の日から施行する。"
+              }
+            },
+            {
+              "@Num": "2",
+              "ParagraphNum": "２",
+              "ParagraphSentence": {
+                "Sentence": "公害紛争の処理手続等に関する規則（昭和四十七年公害等調整委員会規則第一号）は、廃止する。"
+              }
+            }
+          ]
+        },
+        {
+          "@AmendLawNum": "昭和四九年九月三日公害等調整委員会規則第一号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この規則は、昭和四十九年十一月一日から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "昭和六三年一二月一九日公害等調整委員会規則第一号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この規則は、昭和六十四年一月一日から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成元年四月四日公害等調整委員会規則第一号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この規則は、公布の日から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成九年一二月二二日公害等調整委員会規則第二号",
+          "SupplProvisionLabel": "附　則",
+          "Article": [
+            {
+              "@Num": "1",
+              "ArticleCaption": "（施行期日）",
+              "ArticleTitle": "第一条",
+              "Paragraph": {
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": "この規則は、平成十年一月一日から施行する。"
+                }
+              }
+            },
+            {
+              "@Num": "2",
+              "ArticleCaption": "（経過措置の原則）",
+              "ArticleTitle": "第二条",
+              "Paragraph": {
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": [
+                    {
+                      "@Function": "main",
+                      "@Num": "1",
+                      "#text": "この規則による改正後の公害紛争の処理手続等に関する規則（以下「新規則」という。）は、この附則に特別の定めがある場合を除き、この規則の施行前に生じた事項にも適用する。"
+                    },
+                    {
+                      "@Function": "proviso",
+                      "@Num": "2",
+                      "#text": "ただし、この規則による改正前の公害紛争の処理手続等に関する規則によつて生じた効力を妨げない。"
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "@Num": "3",
+              "ArticleCaption": "（調書に関する経過措置）",
+              "ArticleTitle": "第三条",
+              "Paragraph": {
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": "新規則第五十四条第三項及び第四項の規定は、この規則の施行前にされた当事者、参考人又は鑑定人の陳述については、適用しない。"
+                }
+              }
+            },
+            {
+              "@Num": "4",
+              "ArticleCaption": "（準備書面に関する経過措置）",
+              "ArticleTitle": "第四条",
+              "Paragraph": {
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": "この規則の施行前に提出された準備書面については、新規則第三十八条の四の規定にかかわらず、なお従前の例による。"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@AmendLawNum": "平成一一年一〇月二一日公害等調整委員会規則第一号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この規則は、平成十二年四月一日から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成一二年三月二三日公害等調整委員会規則第一号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この規則は、平成十二年四月一日から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成一四年三月一三日公害等調整委員会規則第二号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この規則は、平成十四年四月一日から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成二一年五月二〇日公害等調整委員会規則第一号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この規則は、公布の日から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成二四年三月二二日公害等調整委員会規則第三号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この規則は、平成二十四年四月一日から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成二六年三月三一日公害等調整委員会規則第一号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この規則は、平成二十六年四月一日から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成二六年九月二九日公害等調整委員会規則第三号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この規則は、公布の日から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成二七年一二月二一日公害等調整委員会規則第一号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この規則は、平成二十八年一月一日から施行する。"
+            }
+          }
+        }
+      ],
+      "AppdxStyle": {
+        "AppdxStyleTitle": "別記様式",
+        "StyleStruct": {
+          "Style": {
+            "Fig": {
+              "@src": "./pict/S47F30401000003-001.pdf"
+            }
+          }
+        }
+      }
+    }
+  }
+}

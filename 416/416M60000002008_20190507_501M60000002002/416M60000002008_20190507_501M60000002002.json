@@ -1,0 +1,87 @@
+{
+  "Law": {
+    "@Era": "Heisei",
+    "@Lang": "ja",
+    "@LawType": "MinisterialOrdinance",
+    "@Num": "8",
+    "@Year": "16",
+    "LawNum": "平成十六年内閣府令第八号",
+    "LawBody": {
+      "LawTitle": "公認会計士・監査審査会の職員が検査の際に携帯すべき証票の様式を定める内閣府令",
+      "EnactStatement": "公認会計士法（昭和二十三年法律第百三号）第四十九条の五の規定に基づき、公認会計士・監査審査会の職員が検査の際に携帯すべき証票の様式を定める内閣府令を次のように定める。",
+      "MainProvision": {
+        "Paragraph": {
+          "@Hide": "false",
+          "@Num": "1",
+          "ParagraphNum": null,
+          "ParagraphSentence": {
+            "Sentence": {
+              "@WritingMode": "vertical",
+              "#text": "公認会計士法第四十六条の十二第二項及び第四十九条の三第三項（同法第四十九条の三の二第三項において準用する場合を含む。）の規定により、同法第四十六条の十二第一項、第四十九条の三第二項及び第四十九条の三の二第二項の規定による検査（同法第四十九条の四第二項及び第三項の規定により公認会計士・監査審査会に委任されたものに限る。）の際に公認会計士・監査審査会の職員が携帯すべきその身分を示す証票は、別紙様式による。"
+            }
+          }
+        }
+      },
+      "AppdxStyle": {
+        "AppdxStyleTitle": {
+          "@WritingMode": "vertical",
+          "#text": "別紙様式"
+        },
+        "StyleStruct": {
+          "Style": {
+            "Fig": {
+              "@src": "./pict/H16F10001000008_1905221405_001.pdf"
+            }
+          }
+        }
+      },
+      "SupplProvision": [
+        {
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この府令は、平成十六年四月一日から施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成一九年一二月七日内閣府令第八四号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この府令は、公認会計士法等の一部を改正する法律の施行の日から施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "令和元年五月七日内閣府令第二号",
+          "@Type": "Amend",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この府令は、公布の日から施行する。"
+              }
+            }
+          }
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,862 @@
+{
+  "Law": {
+    "@Era": "Showa",
+    "@Lang": "ja",
+    "@LawType": "CabinetOrder",
+    "@Num": "322",
+    "@Year": "51",
+    "LawNum": "昭和五十一年政令第三百二十二号",
+    "LawBody": {
+      "LawTitle": "財形住宅債券令",
+      "EnactStatement": "内閣は、住宅金融公庫法（昭和二十五年法律第百五十六号）第二十七条の三第七項及び沖縄振興開発金融公庫法（昭和四十七年法律第三十一号）第二十七条第七項の規定に基づき、この政令を制定する。",
+      "MainProvision": {
+        "Article": [
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "1",
+            "ArticleCaption": "（形式）",
+            "ArticleTitle": "第一条",
+            "Paragraph": {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "住宅金融支援機構財形住宅債券及び沖縄振興開発金融公庫財形住宅債券（以下「財形住宅債券」と総称する。）は、無記名利札付きとする。"
+                }
+              }
+            }
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "2",
+            "ArticleCaption": "（発行の方法）",
+            "ArticleTitle": "第二条",
+            "Paragraph": {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "財形住宅債券の発行は、募集の方法による。"
+                }
+              }
+            }
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "3",
+            "ArticleCaption": "（財形住宅債券申込証）",
+            "ArticleTitle": "第三条",
+            "Paragraph": [
+              {
+                "@Hide": "false",
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "財形住宅債券の募集に応じようとする者は、財形住宅債券申込証にその引き受けようとする財形住宅債券の数及び住所を記載し、これに署名し、又は記名押印しなければならない。"
+                  }
+                }
+              },
+              {
+                "@Hide": "false",
+                "@Num": "2",
+                "ParagraphNum": "２",
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "社債、株式等の振替に関する法律（平成十三年法律第七十五号。以下「社債等振替法」という。）の規定の適用がある財形住宅債券（次条第二項において「振替財形住宅債券」という。）の募集に応じようとする者は、前項の記載事項のほか、自己のために開設された当該財形住宅債券の振替を行うための口座（同条第二項において「振替口座」という。）を財形住宅債券申込証に記載しなければならない。"
+                  }
+                }
+              },
+              {
+                "@Hide": "false",
+                "@Num": "3",
+                "ParagraphNum": "３",
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "財形住宅債券申込証は、独立行政法人住宅金融支援機構又は沖縄振興開発金融公庫（以下「機構等」という。）が作成し、これに次の事項を記載しなければならない。"
+                  }
+                },
+                "Item": [
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "1",
+                    "ItemTitle": "一",
+                    "ItemSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "財形住宅債券の名称"
+                      }
+                    }
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "2",
+                    "ItemTitle": "二",
+                    "ItemSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "財形住宅債券の総額"
+                      }
+                    }
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "3",
+                    "ItemTitle": "三",
+                    "ItemSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "各財形住宅債券の金額"
+                      }
+                    }
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "4",
+                    "ItemTitle": "四",
+                    "ItemSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "財形住宅債券の利率"
+                      }
+                    }
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "5",
+                    "ItemTitle": "五",
+                    "ItemSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "財形住宅債券の償還の方法及び期限"
+                      }
+                    }
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "6",
+                    "ItemTitle": "六",
+                    "ItemSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "利息の支払の方法及び期限"
+                      }
+                    }
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "7",
+                    "ItemTitle": "七",
+                    "ItemSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "財形住宅債券の発行の価額"
+                      }
+                    }
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "8",
+                    "ItemTitle": "八",
+                    "ItemSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "社債等振替法の規定の適用があるときは、その旨"
+                      }
+                    }
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "9",
+                    "ItemTitle": "九",
+                    "ItemSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "社債等振替法の規定の適用がないときは、無記名式である旨"
+                      }
+                    }
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "10",
+                    "ItemTitle": "十",
+                    "ItemSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "応募額が財形住宅債券の総額を超える場合の措置"
+                      }
+                    }
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "11",
+                    "ItemTitle": "十一",
+                    "ItemSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "募集又は管理の委託を受けた会社があるときは、その商号"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "4",
+            "ArticleCaption": "（引受け）",
+            "ArticleTitle": "第四条",
+            "Paragraph": [
+              {
+                "@Hide": "false",
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "前条の規定は、政府が財形住宅債券を引き受ける場合又は財形住宅債券の募集の委託を受けた会社が自ら財形住宅債券を引き受ける場合においては、その引き受ける部分については、適用しない。"
+                  }
+                }
+              },
+              {
+                "@Hide": "false",
+                "@Num": "2",
+                "ParagraphNum": "２",
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "前項の場合において、振替財形住宅債券を引き受ける政府又は振替財形住宅債券の募集の委託を受けた会社は、その引受けの際に、振替口座を機構等に示さなければならない。"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "5",
+            "ArticleCaption": "（成立の特則）",
+            "ArticleTitle": "第五条",
+            "Paragraph": {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "財形住宅債券の応募総額が財形住宅債券の総額に達しないときでも、財形住宅債券を成立させる旨を財形住宅債券申込証に記載したときは、その応募額をもつて財形住宅債券の総額とする。"
+                }
+              }
+            }
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "6",
+            "ArticleCaption": "（払込み）",
+            "ArticleTitle": "第六条",
+            "Paragraph": {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "財形住宅債券の募集が完了したときは、機構等は、遅滞なく、各財形住宅債券についてその全額の払込みをさせなければならない。"
+                }
+              }
+            }
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "7",
+            "ArticleCaption": "（債券の発行）",
+            "ArticleTitle": "第七条",
+            "Paragraph": [
+              {
+                "@Hide": "false",
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": [
+                    {
+                      "@Function": "main",
+                      "@Num": "1",
+                      "@WritingMode": "vertical",
+                      "#text": "機構等は、前条の払込みがあつたときは、遅滞なく、債券を発行しなければならない。"
+                    },
+                    {
+                      "@Function": "proviso",
+                      "@Num": "2",
+                      "@WritingMode": "vertical",
+                      "#text": "ただし、財形住宅債券につき社債等振替法の規定の適用があるときは、この限りでない。"
+                    }
+                  ]
+                }
+              },
+              {
+                "@Hide": "false",
+                "@Num": "2",
+                "ParagraphNum": "２",
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "各債券には、第三条第三項第一号から第六号まで、第九号及び第十一号に掲げる事項並びに番号を記載し、機構等の理事長がこれに記名押印しなければならない。"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "8",
+            "ArticleCaption": "（財形住宅債券原簿）",
+            "ArticleTitle": "第八条",
+            "Paragraph": [
+              {
+                "@Hide": "false",
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "機構等は、主たる事務所に財形住宅債券原簿を備えて置かなければならない。"
+                  }
+                }
+              },
+              {
+                "@Hide": "false",
+                "@Num": "2",
+                "ParagraphNum": "２",
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "財形住宅債券原簿には、次の事項を記載しなければならない。"
+                  }
+                },
+                "Item": [
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "1",
+                    "ItemTitle": "一",
+                    "ItemSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "財形住宅債券の発行の年月日"
+                      }
+                    }
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "2",
+                    "ItemTitle": "二",
+                    "ItemSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "財形住宅債券の数（社債等振替法の規定の適用がないときは、財形住宅債券の数及び番号）"
+                      }
+                    }
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "3",
+                    "ItemTitle": "三",
+                    "ItemSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "第三条第三項第一号から第六号まで、第八号及び第十一号に掲げる事項"
+                      }
+                    }
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "4",
+                    "ItemTitle": "四",
+                    "ItemSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "元利金の支払に関する事項"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "9",
+            "ArticleCaption": "（利札が欠けている場合の償還等）",
+            "ArticleTitle": "第九条",
+            "Paragraph": [
+              {
+                "@Hide": "false",
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": [
+                    {
+                      "@Function": "main",
+                      "@Num": "1",
+                      "@WritingMode": "vertical",
+                      "#text": "財形住宅債券を償還する場合において、欠けている利札があるときは、これに相当する金額を償還額から控除する。"
+                    },
+                    {
+                      "@Function": "proviso",
+                      "@Num": "2",
+                      "@WritingMode": "vertical",
+                      "#text": "ただし、既に支払期が到来した利札については、この限りでない。"
+                    }
+                  ]
+                }
+              },
+              {
+                "@Hide": "false",
+                "@Num": "2",
+                "ParagraphNum": "２",
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "前項の利札の所持人がこれと引換えに控除金額の支払を請求したときは、機構等は、これに応じなければならない。"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "10",
+            "ArticleCaption": "（発行の認可）",
+            "ArticleTitle": "第十条",
+            "Paragraph": [
+              {
+                "@Hide": "false",
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "機構等は、独立行政法人住宅金融支援機構法（平成十七年法律第八十二号）第十九条第三項又は沖縄振興開発金融公庫法第二十七条第三項の規定により財形住宅債券の発行の認可を受けようとするときは、財形住宅債券の募集の日の二十日前までに次の事項を記載した申請書を主務大臣に提出しなければならない。"
+                  }
+                },
+                "Item": [
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "1",
+                    "ItemTitle": "一",
+                    "ItemSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "財形住宅債券の発行を必要とする理由"
+                      }
+                    }
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "2",
+                    "ItemTitle": "二",
+                    "ItemSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "第三条第三項第一号から第八号までに掲げる事項"
+                      }
+                    }
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "3",
+                    "ItemTitle": "三",
+                    "ItemSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "財形住宅債券の募集の方法"
+                      }
+                    }
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "4",
+                    "ItemTitle": "四",
+                    "ItemSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "財形住宅債券の発行に要する費用の概算額"
+                      }
+                    }
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "5",
+                    "ItemTitle": "五",
+                    "ItemSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "第二号に掲げるもののほか、債券に記載しようとする事項"
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "@Hide": "false",
+                "@Num": "2",
+                "ParagraphNum": "２",
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "前項の申請書には、次の書類を添付しなければならない。"
+                  }
+                },
+                "Item": [
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "1",
+                    "ItemTitle": "一",
+                    "ItemSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "作成しようとする財形住宅債券申込証"
+                      }
+                    }
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "2",
+                    "ItemTitle": "二",
+                    "ItemSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "財形住宅債券の引受けの見込みを記載した書面"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "11",
+            "ArticleCaption": "（主務大臣）",
+            "ArticleTitle": "第十一条",
+            "Paragraph": {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "この政令における主務大臣は、独立行政法人住宅金融支援機構にあつては国土交通大臣及び財務大臣とし、沖縄振興開発金融公庫にあつては内閣総理大臣及び財務大臣とする。"
+                }
+              }
+            }
+          }
+        ]
+      },
+      "SupplProvision": [
+        {
+          "@Extract": "false",
+          "@Type": "New",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この政令は、昭和五十二年四月一日から施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成五年八月四日政令第二七三号",
+          "@Extract": "false",
+          "@Type": "Amend",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この政令は、平成五年十月一日から施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成一二年四月一九日政令第二〇三号",
+          "@Extract": "true",
+          "@Type": "Amend",
+          "SupplProvisionLabel": "附　則",
+          "Article": {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "1",
+            "ArticleCaption": "（施行期日）",
+            "ArticleTitle": "第一条",
+            "Paragraph": {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "この政令は、公布の日から施行する。"
+                }
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成一二年六月七日政令第三一二号",
+          "@Extract": "true",
+          "@Type": "Amend",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphCaption": "（施行期日）",
+            "ParagraphNum": "１",
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この政令は、内閣法の一部を改正する法律（平成十一年法律第八十八号）の施行の日（平成十三年一月六日）から施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成一二年六月二三日政令第三五二号",
+          "@Extract": "true",
+          "@Type": "Amend",
+          "SupplProvisionLabel": "附　則",
+          "Article": {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "1",
+            "ArticleCaption": "（施行期日）",
+            "ArticleTitle": "第一条",
+            "Paragraph": {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "この政令は、沖縄振興開発金融公庫法の一部を改正する法律（平成十二年法律第七十七号）の施行の日（平成十二年六月二十六日）から施行する。"
+                }
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成一四年一二月六日政令第三六三号",
+          "@Extract": "true",
+          "@Type": "Amend",
+          "SupplProvisionLabel": "附　則",
+          "Article": [
+            {
+              "@Delete": "false",
+              "@Hide": "false",
+              "@Num": "1",
+              "ArticleCaption": "（施行期日）",
+              "ArticleTitle": "第一条",
+              "Paragraph": {
+                "@Hide": "false",
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "この政令は、平成十五年一月六日から施行する。"
+                  }
+                }
+              }
+            },
+            {
+              "@Delete": "false",
+              "@Hide": "false",
+              "@Num": "6",
+              "ArticleCaption": "（罰則に関する経過措置）",
+              "ArticleTitle": "第六条",
+              "Paragraph": {
+                "@Hide": "false",
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "この政令の施行前にした行為に対する罰則の適用については、なお従前の例による。"
+                  }
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@AmendLawNum": "平成一九年二月二三日政令第三一号",
+          "@Extract": "true",
+          "@Type": "Amend",
+          "SupplProvisionLabel": "附　則",
+          "Article": [
+            {
+              "@Delete": "false",
+              "@Hide": "false",
+              "@Num": "1",
+              "ArticleCaption": "（施行期日）",
+              "ArticleTitle": "第一条",
+              "Paragraph": {
+                "@Hide": "false",
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "この政令は、平成十九年四月一日から施行する。"
+                  }
+                }
+              }
+            },
+            {
+              "@Delete": "false",
+              "@Hide": "false",
+              "@Num": "6",
+              "ArticleCaption": "（財形住宅債券令の一部改正に伴う経過措置）",
+              "ArticleTitle": "第六条",
+              "Paragraph": {
+                "@Hide": "false",
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": [
+                    {
+                      "@Num": "1",
+                      "@WritingMode": "vertical",
+                      "#text": "第二十六条の規定による改正後の財形住宅債券令第八条及び第九条の規定は、公庫が旧公庫法第二十七条の三第三項の規定により発行した住宅金融公庫財形住宅債券に係る財形住宅債券原簿及び利札の取扱いについても、適用する。"
+                    },
+                    {
+                      "@Num": "2",
+                      "@WritingMode": "vertical",
+                      "#text": "この場合において、同令第八条第一項中「機構等は」とあるのは「独立行政法人住宅金融支援機構は、独立行政法人住宅金融支援機構法（平成十七年法律第八十二号）附則第十条の規定による廃止前の住宅金融公庫法（昭和二十五年法律第百五十六号）第二十七条の三第三項の規定により発行された住宅金融公庫財形住宅債券の償還及びその利息の支払を完了するまでの間」と、同令第九条第二項中「機構等」とあるのは「独立行政法人住宅金融支援機構」とする。"
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@AmendLawNum": "平成一九年一二月一四日政令第三六九号",
+          "@Extract": "true",
+          "@Type": "Amend",
+          "SupplProvisionLabel": "附　則",
+          "Article": [
+            {
+              "@Delete": "false",
+              "@Hide": "false",
+              "@Num": "1",
+              "ArticleCaption": "（施行期日）",
+              "ArticleTitle": "第一条",
+              "Paragraph": {
+                "@Hide": "false",
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "この政令は、平成二十年一月四日から施行する。"
+                  }
+                }
+              }
+            },
+            {
+              "@Delete": "false",
+              "@Hide": "false",
+              "@Num": "20",
+              "ArticleCaption": "（財形住宅債券令の一部改正に伴う経過措置）",
+              "ArticleTitle": "第二十条",
+              "Paragraph": {
+                "@Hide": "false",
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "証券市場整備法附則第三条の規定によりなお効力を有することとされる旧社債等登録法の規定が準用される財形住宅債券に係る財形住宅債券原簿については、第二十四条の規定による改正後の財形住宅債券令第八条第二項の規定にかかわらず、なお従前の例による。"
+                  }
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@AmendLawNum": "平成二〇年七月四日政令第二一九号",
+          "@Extract": "true",
+          "@Type": "Amend",
+          "SupplProvisionLabel": "附　則",
+          "Article": {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "1",
+            "ArticleCaption": "（施行期日）",
+            "ArticleTitle": "第一条",
+            "Paragraph": {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "この政令は、株式等の取引に係る決済の合理化を図るための社債等の振替に関する法律等の一部を改正する法律（以下「改正法」という。）の施行の日から施行する。"
+                }
+              }
+            }
+          }
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,5029 @@
+{
+  "Law": {
+    "@Era": "Showa",
+    "@Lang": "ja",
+    "@LawType": "MinisterialOrdinance",
+    "@Num": "040",
+    "@Year": "58",
+    "LawNum": "昭和五十八年運輸省令第四十号",
+    "LawBody": {
+      "LawTitle": "海洋汚染等及び海上災害の防止に関する法律の規定に基づく事業場の認定に関する規則",
+      "EnactStatement": "海洋汚染及び海上災害の防止に関する法律（昭和四十五年法律第百三十六号）第十七条の十五第一項及び第二項において準用する船舶安全法（昭和八年法律第十一号）第六条ノ二、第六条ノ三、第六条ノ四第二項、第九条第五項、第二十九条ノ三及び第二十九条ノ四第一項並びに海洋汚染及び海上災害の防止に関する法律第五十三条の規定に基づき、海洋汚染及び海上災害の防止に関する法律の規定に基づく事業場の認定に関する規則を次のように定める。",
+      "TOC": {
+        "TOCLabel": "目次",
+        "TOCChapter": [
+          {
+            "@Delete": "false",
+            "@Num": "1",
+            "ChapterTitle": "第一章　総則",
+            "ArticleRange": "（第一条・第二条）"
+          },
+          {
+            "@Delete": "false",
+            "@Num": "2",
+            "ChapterTitle": "第二章　製造工事又は改造修理工事に係る事業場の認定",
+            "ArticleRange": "（第三条―第十二条）"
+          },
+          {
+            "@Delete": "false",
+            "@Num": "3",
+            "ChapterTitle": "第三章　整備規程の認可及び整備に係る事業場の認定",
+            "ArticleRange": "（第十三条―第二十八条）"
+          },
+          {
+            "@Delete": "false",
+            "@Num": "4",
+            "ChapterTitle": "第四章　雑則",
+            "ArticleRange": "（第二十八条の二―第三十一条）"
+          }
+        ],
+        "TOCSupplProvision": {
+          "SupplProvisionLabel": "附則"
+        }
+      },
+      "MainProvision": {
+        "Chapter": [
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "1",
+            "ChapterTitle": "第一章　総則",
+            "Article": [
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "1",
+                "ArticleCaption": "（趣旨）",
+                "ArticleTitle": "第一条",
+                "Paragraph": {
+                  "@Hide": "false",
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "海洋汚染等及び海上災害の防止に関する法律（昭和四十五年法律第百三十六号。以下「法」という。）第十九条の四十九第一項において準用する船舶安全法（昭和八年法律第十一号）第六条ノ二又は第六条ノ三の規定による事業場の認定及び同条の規定による整備規程の認可に関しては、法並びに法第十九条の四十九第一項及び第二項において準用する船舶安全法に定めるもののほか、この省令の定めるところによる。"
+                    }
+                  }
+                }
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "2",
+                "ArticleCaption": "（用語）",
+                "ArticleTitle": "第二条",
+                "Paragraph": {
+                  "@Hide": "false",
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "この省令において使用する用語は、法において使用する用語の例による。"
+                    }
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "2",
+            "ChapterTitle": "第二章　製造工事又は改造修理工事に係る事業場の認定",
+            "Article": [
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "3",
+                "ArticleCaption": "（認定）",
+                "ArticleTitle": "第三条",
+                "Paragraph": [
+                  {
+                    "@Hide": "false",
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "法第十九条の四十九第一項において準用する船舶安全法第六条ノ二の規定による認定（以下この章において「認定」という。）は、次の各号に掲げる物件の製造工事又は改造修理工事の能力について行う。"
+                      }
+                    },
+                    "Item": [
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "1",
+                        "ItemTitle": "一",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "油水分離器"
+                          }
+                        }
+                      },
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "2",
+                        "ItemTitle": "二",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "ビルジ用濃度監視装置"
+                          }
+                        }
+                      },
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "3",
+                        "ItemTitle": "三",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "油分濃度計"
+                          }
+                        }
+                      },
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "4",
+                        "ItemTitle": "四",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "バラスト用濃度監視装置の監視記録装置"
+                          }
+                        }
+                      },
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "5",
+                        "ItemTitle": "五",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "流量計"
+                          }
+                        }
+                      },
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "6",
+                        "ItemTitle": "六",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "船速計"
+                          }
+                        }
+                      },
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "7",
+                        "ItemTitle": "七",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "バラスト用油排出監視制御装置の監視記録装置"
+                          }
+                        }
+                      },
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "8",
+                        "ItemTitle": "八",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "油水境界面検出器"
+                          }
+                        }
+                      },
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "9",
+                        "ItemTitle": "九",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "洗浄機"
+                          }
+                        }
+                      },
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "10",
+                        "ItemTitle": "十",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "ふん尿等浄化装置"
+                          }
+                        }
+                      },
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "11",
+                        "ItemTitle": "十一",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "ふん尿等処理装置"
+                          }
+                        }
+                      },
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "12",
+                        "ItemTitle": "十二",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "液面計測装置"
+                          }
+                        }
+                      },
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "13",
+                        "ItemTitle": "十三",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "圧力計測装置"
+                          }
+                        }
+                      },
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "14",
+                        "ItemTitle": "十四",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "高位液面警報装置"
+                          }
+                        }
+                      },
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "15",
+                        "ItemTitle": "十五",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "通気装置"
+                          }
+                        }
+                      },
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "16",
+                        "ItemTitle": "十六",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "船舶発生油等焼却設備"
+                          }
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Hide": "false",
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "認定は、改造又は修理の工事の別、物件の範囲その他の事項について必要な限定をして行うことができる。"
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "4",
+                "ArticleCaption": "（認定の申請）",
+                "ArticleTitle": "第四条",
+                "Paragraph": [
+                  {
+                    "@Hide": "false",
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "認定を受けようとする者は、事業場認定申請書（第一号様式）を国土交通大臣に提出しなければならない。"
+                      }
+                    }
+                  },
+                  {
+                    "@Hide": "false",
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "前項の事業場認定申請書には、次に掲げる書類を添付しなければならない。"
+                      }
+                    },
+                    "Item": [
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "1",
+                        "ItemTitle": "一",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "次条第一項各号に掲げる基準に適合することを説明する書類"
+                          }
+                        }
+                      },
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "2",
+                        "ItemTitle": "二",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "法第十九条の四十九第一項において準用する船舶安全法第六条ノ二又は第六条ノ四第二項の規定による確認（以下この章において「確認」という。）の方法を記載した書類"
+                          }
+                        }
+                      },
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "3",
+                        "ItemTitle": "三",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "当該事業場の組織及び業務分担の概要を説明する書類"
+                          }
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Hide": "false",
+                    "@Num": "3",
+                    "ParagraphNum": "３",
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "国土交通大臣は、前項に規定するもののほか認定のため必要な書類の提出を求め、又は同項に規定する書類の一部についてその提出を免除することができる。"
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "5",
+                "ArticleCaption": "（認定の基準）",
+                "ArticleTitle": "第五条",
+                "Paragraph": [
+                  {
+                    "@Hide": "false",
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "認定の基準は、次のとおりとする。"
+                      }
+                    },
+                    "Item": [
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "1",
+                        "ItemTitle": "一",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "次に掲げる施設及び設備を有すること。"
+                          }
+                        },
+                        "Subitem1": [
+                          {
+                            "@Delete": "false",
+                            "@Hide": "false",
+                            "@Num": "1",
+                            "Subitem1Title": "イ",
+                            "Subitem1Sentence": {
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "認定に係る物件の製造工事又は改造修理工事に必要な設備"
+                              }
+                            }
+                          },
+                          {
+                            "@Delete": "false",
+                            "@Hide": "false",
+                            "@Num": "2",
+                            "Subitem1Title": "ロ",
+                            "Subitem1Sentence": {
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "認定に係る物件の製造工事又は改造修理工事について確認のため行う検査その他の当該物件の品質の維持を図るため行う検査（以下「自主検査」という。）に必要な設備"
+                              }
+                            }
+                          },
+                          {
+                            "@Delete": "false",
+                            "@Hide": "false",
+                            "@Num": "3",
+                            "Subitem1Title": "ハ",
+                            "Subitem1Sentence": {
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "認定に係る物件の製造工事又は改造修理工事及び自主検査に必要な面積並びに温度及び湿度の調整設備、照明設備、運搬設備等の設備を有する作業場"
+                              }
+                            }
+                          },
+                          {
+                            "@Delete": "false",
+                            "@Hide": "false",
+                            "@Num": "4",
+                            "Subitem1Title": "ニ",
+                            "Subitem1Sentence": {
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "認定に係る物件の製造工事又は改造修理工事に必要な材料、部品等を保管するために適切な施設"
+                              }
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "2",
+                        "ItemTitle": "二",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "次に掲げる人員を有すること。"
+                          }
+                        },
+                        "Subitem1": [
+                          {
+                            "@Delete": "false",
+                            "@Hide": "false",
+                            "@Num": "1",
+                            "Subitem1Title": "イ",
+                            "Subitem1Sentence": {
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "認定に係る物件の製造工事又は改造修理工事及び自主検査を適正に行うことができる人員"
+                              }
+                            }
+                          },
+                          {
+                            "@Delete": "false",
+                            "@Hide": "false",
+                            "@Num": "2",
+                            "Subitem1Title": "ロ",
+                            "Subitem1Sentence": {
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "学校教育法（昭和二十二年法律第二十六号）若しくは旧大学令（大正七年勅令第三百八十八号）による大学、学校教育法による高等専門学校、旧専門学校令（明治三十六年勅令第六十一号）による専門学校若しくは国土交通大臣がこれらと同等以上と認めて告示で指定した学校において、機械又は電気に関する学科における所定の課程を修めて卒業し（当該学科における所定の課程を修めて同法による専門職大学の前期課程を修了した場合を含む。）、かつ、当該事業場における認定に係る物件の製造工事若しくは改造修理工事又は自主検査について、学校教育法又は旧大学令による大学の卒業者（学校教育法による短期大学の卒業者を除く。）にあつては三年以上、その他の者にあつては五年以上の経験を有する者又はこれらと同等以上の能力を有すると認められる者であつて、当該認定に係る製造工事若しくは改造修理工事又は自主検査を行う人員を直接監督するもの"
+                              }
+                            }
+                          },
+                          {
+                            "@Delete": "false",
+                            "@Hide": "false",
+                            "@Num": "3",
+                            "Subitem1Title": "ハ",
+                            "Subitem1Sentence": {
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "三年以上ロに掲げる者としての経験を有する者又はこれと同等以上の能力を有すると認められる者のうちから認定を受ける者が確認を行わせるために選任したもの（以下「検査主任者」という。）"
+                              }
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "3",
+                        "ItemTitle": "三",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "次に掲げる基準に適合する自主検査に関する制度を有すること。"
+                          }
+                        },
+                        "Subitem1": [
+                          {
+                            "@Delete": "false",
+                            "@Hide": "false",
+                            "@Num": "1",
+                            "Subitem1Title": "イ",
+                            "Subitem1Sentence": {
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "製造工事又は改造修理工事の実施組織から独立していること。"
+                              }
+                            }
+                          },
+                          {
+                            "@Delete": "false",
+                            "@Hide": "false",
+                            "@Num": "2",
+                            "Subitem1Title": "ロ",
+                            "Subitem1Sentence": {
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "検査主任者が自主検査に責任を有すること。"
+                              }
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "4",
+                        "ItemTitle": "四",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "認定に係る物件の製造工事又は改造修理工事に関し、次に掲げる事項が適切なものであること。"
+                          }
+                        },
+                        "Subitem1": [
+                          {
+                            "@Delete": "false",
+                            "@Hide": "false",
+                            "@Num": "1",
+                            "Subitem1Title": "イ",
+                            "Subitem1Sentence": {
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "工程に関する管理"
+                              }
+                            }
+                          },
+                          {
+                            "@Delete": "false",
+                            "@Hide": "false",
+                            "@Num": "2",
+                            "Subitem1Title": "ロ",
+                            "Subitem1Sentence": {
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "作業に関する管理"
+                              }
+                            }
+                          },
+                          {
+                            "@Delete": "false",
+                            "@Hide": "false",
+                            "@Num": "3",
+                            "Subitem1Title": "ハ",
+                            "Subitem1Sentence": {
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "工作に関する基準"
+                              }
+                            }
+                          },
+                          {
+                            "@Delete": "false",
+                            "@Hide": "false",
+                            "@Num": "4",
+                            "Subitem1Title": "ニ",
+                            "Subitem1Sentence": {
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "材料及び部品に関する管理"
+                              }
+                            }
+                          },
+                          {
+                            "@Delete": "false",
+                            "@Hide": "false",
+                            "@Num": "5",
+                            "Subitem1Title": "ホ",
+                            "Subitem1Sentence": {
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "外注に関する管理"
+                              }
+                            }
+                          },
+                          {
+                            "@Delete": "false",
+                            "@Hide": "false",
+                            "@Num": "6",
+                            "Subitem1Title": "ヘ",
+                            "Subitem1Sentence": {
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "自主検査に関する基準"
+                              }
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "5",
+                        "ItemTitle": "五",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "Ruby": {
+                              "Rt": "こう",
+                              "#text": "較"
+                            },
+                            "#text": "第一号イ及びロに掲げる設備の正に関する制度を有すること。"
+                          }
+                        }
+                      },
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "6",
+                        "ItemTitle": "六",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "次に掲げる書類を適切に管理する制度を有すること。"
+                          }
+                        },
+                        "Subitem1": [
+                          {
+                            "@Delete": "false",
+                            "@Hide": "false",
+                            "@Num": "1",
+                            "Subitem1Title": "イ",
+                            "Subitem1Sentence": {
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "認定に係る物件の製造工事又は改造修理工事及び自主検査に必要な図面、規格に関する書類その他の資料"
+                              }
+                            }
+                          },
+                          {
+                            "@Delete": "false",
+                            "@Hide": "false",
+                            "@Num": "2",
+                            "Subitem1Title": "ロ",
+                            "Subitem1Sentence": {
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "認定に係る物件の製造工事又は改造修理工事及び自主検査に関する記録"
+                              }
+                            }
+                          },
+                          {
+                            "@Delete": "false",
+                            "@Hide": "false",
+                            "@Num": "3",
+                            "Subitem1Title": "ハ",
+                            "Subitem1Sentence": {
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "前号の較正に関する記録"
+                              }
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "7",
+                        "ItemTitle": "七",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "当該事業場における認定に係る物件の製造工事又は改造修理工事の実績が十分であること。"
+                          }
+                        }
+                      },
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "8",
+                        "ItemTitle": "八",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "事業の基礎が強固であり、かつ、健全な経営を行つていること。"
+                          }
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Hide": "false",
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "第十一条第二項の規定により認定を取り消され、その取消しの日から二年を経過しない者は、当該取消しに係る事業場について認定を受けることができない。"
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "6",
+                "ArticleCaption": "（認定書の交付）",
+                "ArticleTitle": "第六条",
+                "Paragraph": {
+                  "@Hide": "false",
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "国土交通大臣は、製造工事に係る認定をしたときは製造事業場認定書（第二号様式）を、改造修理工事に係る認定をしたときは改造修理事業場認定書（第三号様式）を交付する。"
+                    }
+                  }
+                }
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "7",
+                "ArticleCaption": "（認定の有効期間）",
+                "ArticleTitle": "第七条",
+                "Paragraph": {
+                  "@Hide": "false",
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "認定の有効期間は、五年以内とする。"
+                    }
+                  }
+                }
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "8",
+                "ArticleCaption": "（確認の方法等）",
+                "ArticleTitle": "第八条",
+                "Paragraph": [
+                  {
+                    "@Hide": "false",
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "確認は、第四条第二項第二号に掲げる書類に記載された方法に従つて検査主任者に行わせなければならない。"
+                      }
+                    }
+                  },
+                  {
+                    "@Hide": "false",
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "検査主任者は、確認を行つたときは、確認日誌にその内容を記載して記名押印するとともに、当該物件に、法第十九条の四十九第一項において準用する船舶安全法第六条ノ二の規定による確認にあつては確認したことを証する認印（製造工事に係る物件にあつては第四号様式、改造修理工事に係る物件にあつては第五号様式）を、法第十九条の四十九第一項において準用する船舶安全法第六条ノ四第二項の規定による確認にあつては次項に規定する標示を付さなければならない。"
+                      }
+                    }
+                  },
+                  {
+                    "@Hide": "false",
+                    "@Num": "3",
+                    "ParagraphNum": "３",
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "法第十九条の四十九第一項において準用する船舶安全法第九条第五項の国土交通省令で定める標示は、第六号様式とする。"
+                      }
+                    }
+                  },
+                  {
+                    "@Hide": "false",
+                    "@Num": "4",
+                    "ParagraphNum": "４",
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "第二項に規定する確認日誌は、その記載の日から一年間保存しなければならない。"
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "9",
+                "ArticleTitle": "第九条",
+                "Paragraph": {
+                  "@Hide": "false",
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "削除"
+                    }
+                  }
+                }
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "10",
+                "ArticleTitle": "第十条",
+                "Paragraph": {
+                  "@Hide": "false",
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "削除"
+                    }
+                  }
+                }
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "11",
+                "ArticleCaption": "（認定の失効及び取消し）",
+                "ArticleTitle": "第十一条",
+                "Paragraph": [
+                  {
+                    "@Hide": "false",
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "認定を受けた者が次の各号の一に該当するときは、認定は、その効力を失う。"
+                      }
+                    },
+                    "Item": [
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "1",
+                        "ItemTitle": "一",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "死亡し、又は解散したとき。"
+                          }
+                        }
+                      },
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "2",
+                        "ItemTitle": "二",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "認定に係る事業を廃止したとき。"
+                          }
+                        }
+                      },
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "3",
+                        "ItemTitle": "三",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "認定を辞退したとき。"
+                          }
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Hide": "false",
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "国土交通大臣は、認定を受けた者が次の各号の一に該当するときは、その認定を取り消し、又は期間を定めてその認定の効力を停止することができる。"
+                      }
+                    },
+                    "Item": [
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "1",
+                        "ItemTitle": "一",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "第五条第一項に規定する基準に適合しなくなつたとき。"
+                          }
+                        }
+                      },
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "2",
+                        "ItemTitle": "二",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "第八条、第二十八条の二（同条第一項の表第一号及び第二号に係る部分に限る。）又は第二十八条の三（同条の表第一号から第四号までに係る部分に限る。）の規定に違反したとき。"
+                          }
+                        }
+                      },
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "3",
+                        "ItemTitle": "三",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "認定に係る物件以外の物件に、第八条第二項に規定する認印又は同条第三項に規定する標示を付したとき。"
+                          }
+                        }
+                      },
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "4",
+                        "ItemTitle": "四",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "国土交通大臣又は関東運輸局長が、必要があると認めて、その職員に、本邦外にある認定に係る事業場に臨検をさせようとした場合において、その臨検が拒まれ、妨げられ、若しくは忌避され、又はその質問に対し陳述がされず、若しくは虚偽の陳述がされたとき。"
+                          }
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "12",
+                "ArticleCaption": "（公示）",
+                "ArticleTitle": "第十二条",
+                "Paragraph": {
+                  "@Hide": "false",
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "国土交通大臣は、次に掲げる場合は、その旨（第一号に掲げる場合において第三条第二項の規定による限定をして認定をした場合は、その旨）を官報に公示するものとする。"
+                    }
+                  },
+                  "Item": [
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "1",
+                      "ItemTitle": "一",
+                      "ItemSentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "認定をしたとき。"
+                        }
+                      }
+                    },
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "2",
+                      "ItemTitle": "二",
+                      "ItemSentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "第二十八条の二（同条第一項の表第一号に係る部分に限る。）の規定による承認をしたとき。"
+                        }
+                      }
+                    },
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "3",
+                      "ItemTitle": "三",
+                      "ItemSentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "前条第一項の規定により認定がその効力を失つたとき。"
+                        }
+                      }
+                    },
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "4",
+                      "ItemTitle": "四",
+                      "ItemSentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "前条第二項の規定により認定を取り消し、又はその効力を停止したとき。"
+                        }
+                      }
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "3",
+            "ChapterTitle": "第三章　整備規程の認可及び整備に係る事業場の認定",
+            "Article": [
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "13",
+                "ArticleCaption": "（整備規程の認可）",
+                "ArticleTitle": "第十三条",
+                "Paragraph": [
+                  {
+                    "@Hide": "false",
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "法第十九条の四十九第一項において準用する船舶安全法第六条ノ三の規定による整備規程の認可は、次の各号に掲げる物件について、その整備の方法がおおむね同一であると認められる類型ごとに行う。"
+                      }
+                    },
+                    "Item": [
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "1",
+                        "ItemTitle": "一",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "油水分離器"
+                          }
+                        }
+                      },
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "2",
+                        "ItemTitle": "二",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "ビルジ用濃度監視装置"
+                          }
+                        }
+                      },
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "3",
+                        "ItemTitle": "三",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "油分濃度計"
+                          }
+                        }
+                      },
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "4",
+                        "ItemTitle": "四",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "バラスト用濃度監視装置の監視記録装置"
+                          }
+                        }
+                      },
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "5",
+                        "ItemTitle": "五",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "流量計"
+                          }
+                        }
+                      },
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "6",
+                        "ItemTitle": "六",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "船速計"
+                          }
+                        }
+                      },
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "7",
+                        "ItemTitle": "七",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "バラスト用油排出監視制御装置の監視記録装置"
+                          }
+                        }
+                      },
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "8",
+                        "ItemTitle": "八",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "油水境界面検出器"
+                          }
+                        }
+                      },
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "9",
+                        "ItemTitle": "九",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "洗浄機"
+                          }
+                        }
+                      },
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "10",
+                        "ItemTitle": "十",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "ふん尿等浄化装置"
+                          }
+                        }
+                      },
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "11",
+                        "ItemTitle": "十一",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "ふん尿等処理装置"
+                          }
+                        }
+                      },
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "12",
+                        "ItemTitle": "十二",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "液面計測装置"
+                          }
+                        }
+                      },
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "13",
+                        "ItemTitle": "十三",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "圧力計測装置"
+                          }
+                        }
+                      },
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "14",
+                        "ItemTitle": "十四",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "高位液面警報装置"
+                          }
+                        }
+                      },
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "15",
+                        "ItemTitle": "十五",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "通気装置"
+                          }
+                        }
+                      },
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "16",
+                        "ItemTitle": "十六",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "船舶発生油等焼却設備"
+                          }
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Hide": "false",
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "整備規程には、物件の要目、寸法及び性能を記載し、かつ、その主要部の構造を図示した上、次に掲げる事項を定めなければならない。"
+                      }
+                    },
+                    "Item": [
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "1",
+                        "ItemTitle": "一",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "分解及び組立ての方法並びに使用治工具"
+                          }
+                        }
+                      },
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "2",
+                        "ItemTitle": "二",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "部品又は部材ごとの点検及び整備の方法"
+                          }
+                        }
+                      },
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "3",
+                        "ItemTitle": "三",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "部品又は部材ごとの使用時間、損傷の程度等による使用限度の判定基準"
+                          }
+                        }
+                      },
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "4",
+                        "ItemTitle": "四",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "組立て後の調整の方法"
+                          }
+                        }
+                      },
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "5",
+                        "ItemTitle": "五",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "臨時検査を受けなければならないこととなる修理の範囲"
+                          }
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Hide": "false",
+                    "@Num": "3",
+                    "ParagraphNum": "３",
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "整備規程の認可を受けようとする者は、整備規程認可申請書（第七号様式）を国土交通大臣に提出しなければならない。"
+                      }
+                    }
+                  },
+                  {
+                    "@Hide": "false",
+                    "@Num": "4",
+                    "ParagraphNum": "４",
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "整備規程認可申請書には、整備規程三部及び次に掲げる書類を添付しなければならない。"
+                      }
+                    },
+                    "Item": [
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "1",
+                        "ItemTitle": "一",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "整備規程に係る物件の耐久試験及び使用実績に関する資料その他整備規程の内容が妥当なものであることを説明する書類"
+                          }
+                        }
+                      },
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "2",
+                        "ItemTitle": "二",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "整備規程に係る物件の製造の実績を記載した書類"
+                          }
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "14",
+                "ArticleCaption": "（整備規程の変更の認可）",
+                "ArticleTitle": "第十四条",
+                "Paragraph": [
+                  {
+                    "@Hide": "false",
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "整備規程の認可を受けた者は、整備規程を変更しようとするときは、整備規程変更認可申請書（第八号様式）を国土交通大臣に提出し、その認可を受けなければならない。"
+                      }
+                    }
+                  },
+                  {
+                    "@Hide": "false",
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "整備規程変更認可申請書には、整備規程の変更部分の抜粋三部及び前条第四項各号に掲げる書類のうち当該変更に係るものを添付しなければならない。"
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "15",
+                "ArticleCaption": "（変更命令）",
+                "ArticleTitle": "第十五条",
+                "Paragraph": {
+                  "@Hide": "false",
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "国土交通大臣は、認可をした整備規程に係る物件に関する法第五条第四項、第九条の三第二項、第十条の二第二項、第十九条の二十四第二項又は第十九条の三十五の四第二項の技術上の基準の改正その他の事由により当該整備規程が整備の適正かつ確実な実施上不適当となつたと認めるときは、その整備規程の変更を命ずることができる。"
+                    }
+                  }
+                }
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "16",
+                "ArticleTitle": "第十六条",
+                "Paragraph": {
+                  "@Hide": "false",
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "削除"
+                    }
+                  }
+                }
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "17",
+                "ArticleCaption": "（整備規程の認可の失効及び取消し）",
+                "ArticleTitle": "第十七条",
+                "Paragraph": [
+                  {
+                    "@Hide": "false",
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "整備規程の認可を受けた者が、死亡し、若しくは解散したとき又は整備規程の認可に係る事業を廃止したときは、整備規程の認可は、その効力を失う。"
+                      }
+                    }
+                  },
+                  {
+                    "@Hide": "false",
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "国土交通大臣は、整備規程の認可を受けた者が次の各号の一に該当するときは、整備規程の認可を取り消すことができる。"
+                      }
+                    },
+                    "Item": [
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "1",
+                        "ItemTitle": "一",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "第十四条第一項の規定による変更の認可を受けないで、第二十八条第一項の規定により法第十九条の四十九第一項において準用する船舶安全法第六条ノ三の認定（以下この章において「認定」という。）を受けた者に供与した整備規程を改定したとき。"
+                          }
+                        }
+                      },
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "2",
+                        "ItemTitle": "二",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "第十五条の規定による命令に従わなかつたとき。"
+                          }
+                        }
+                      },
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "3",
+                        "ItemTitle": "三",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "第二十八条第一項又は第二項の規定に違反したとき。"
+                          }
+                        }
+                      },
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "4",
+                        "ItemTitle": "四",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "認可を受けていない整備規程に認可を受けた旨を記載して、認定を受けた者に供与したとき。"
+                          }
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "18",
+                "ArticleCaption": "（公示）",
+                "ArticleTitle": "第十八条",
+                "Paragraph": {
+                  "@Hide": "false",
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "国土交通大臣は、次に掲げる場合は、その旨を官報に公示するものとする。"
+                    }
+                  },
+                  "Item": [
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "1",
+                      "ItemTitle": "一",
+                      "ItemSentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "第十三条第一項の規定による整備規程の認可をしたとき。"
+                        }
+                      }
+                    },
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "2",
+                      "ItemTitle": "二",
+                      "ItemSentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "第十四条第一項の規定による整備規程の変更の認可をしたとき。"
+                        }
+                      }
+                    },
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "3",
+                      "ItemTitle": "三",
+                      "ItemSentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "前条第一項の規定により整備規程の認可がその効力を失つたとき。"
+                        }
+                      }
+                    },
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "4",
+                      "ItemTitle": "四",
+                      "ItemSentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "前条第二項の規定により整備規程の認可を取り消したとき。"
+                        }
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "19",
+                "ArticleCaption": "（認定）",
+                "ArticleTitle": "第十九条",
+                "Paragraph": [
+                  {
+                    "@Hide": "false",
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "認定は、認可を受けた整備規程に係る物件の類型ごとに、その整備の能力について行う。"
+                      }
+                    }
+                  },
+                  {
+                    "@Hide": "false",
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "認定は、物件の範囲について必要な限定をして行うことができる。"
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "20",
+                "ArticleCaption": "（認定の申請）",
+                "ArticleTitle": "第二十条",
+                "Paragraph": [
+                  {
+                    "@Hide": "false",
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "認定を受けようとする者は、事業場認定申請書（第一号様式）を地方運輸局長（運輸監理部長を含む。以下同じ。）（認定に係る事業場が本邦にある場合にあつては当該事業場の所在地を管轄する地方運輸局長、認定に係る事業場が本邦外にある場合にあつては関東運輸局長。以下この章において同じ。）に提出しなければならない。"
+                      }
+                    }
+                  },
+                  {
+                    "@Hide": "false",
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "前項の事業場認定申請書には、次に掲げる書類を添付しなければならない。"
+                      }
+                    },
+                    "Item": [
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "1",
+                        "ItemTitle": "一",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "認定に係る整備規程を当該整備規程の認可を受けた者が認定を受けようとする者に供与することを承諾したことを証する書類"
+                          }
+                        }
+                      },
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "2",
+                        "ItemTitle": "二",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "次条第一項第二号から第九号までに掲げる基準に適合することを説明する書類"
+                          }
+                        }
+                      },
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "3",
+                        "ItemTitle": "三",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "法第十九条の四十九第一項において準用する船舶安全法第六条ノ三の規定による確認（以下この章において「確認」という。）の方法を記載した書類"
+                          }
+                        }
+                      },
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "4",
+                        "ItemTitle": "四",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "当該事業場の組織及び業務分担の概要を説明する書類"
+                          }
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Hide": "false",
+                    "@Num": "3",
+                    "ParagraphNum": "３",
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "地方運輸局長は、前項に規定するもののほか認定のため必要な書類の提出を求め、又は同項に規定する書類の一部についてその提出を免除することができる。"
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "21",
+                "ArticleCaption": "（認定の基準）",
+                "ArticleTitle": "第二十一条",
+                "Paragraph": [
+                  {
+                    "@Hide": "false",
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "認定の基準は、次のとおりとする。"
+                      }
+                    },
+                    "Item": [
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "1",
+                        "ItemTitle": "一",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "認定に係る整備規程の認可を受けた者から当該整備規程の供与を受けていること。"
+                          }
+                        }
+                      },
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "2",
+                        "ItemTitle": "二",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "次に掲げる施設及び設備を有すること。"
+                          }
+                        },
+                        "Subitem1": [
+                          {
+                            "@Delete": "false",
+                            "@Hide": "false",
+                            "@Num": "1",
+                            "Subitem1Title": "イ",
+                            "Subitem1Sentence": {
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "認定に係る物件の整備に必要な設備"
+                              }
+                            }
+                          },
+                          {
+                            "@Delete": "false",
+                            "@Hide": "false",
+                            "@Num": "2",
+                            "Subitem1Title": "ロ",
+                            "Subitem1Sentence": {
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "認定に係る物件の整備について確認のため行う検査に必要な設備"
+                              }
+                            }
+                          },
+                          {
+                            "@Delete": "false",
+                            "@Hide": "false",
+                            "@Num": "3",
+                            "Subitem1Title": "ハ",
+                            "Subitem1Sentence": {
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "認定に係る物件の整備及びその確認のため行う検査に必要な面積並びに温度及び湿度の調整設備、照明設備、運搬設備等の設備を有する作業場"
+                              }
+                            }
+                          },
+                          {
+                            "@Delete": "false",
+                            "@Hide": "false",
+                            "@Num": "4",
+                            "Subitem1Title": "ニ",
+                            "Subitem1Sentence": {
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "認定に係る物件の整備に必要な材料、部品等を保管するために適切な施設"
+                              }
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "3",
+                        "ItemTitle": "三",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "次に掲げる人員を有すること。"
+                          }
+                        },
+                        "Subitem1": [
+                          {
+                            "@Delete": "false",
+                            "@Hide": "false",
+                            "@Num": "1",
+                            "Subitem1Title": "イ",
+                            "Subitem1Sentence": {
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "認定に係る物件の整備及びその確認のため行う検査を適正に行うことができる人員"
+                              }
+                            }
+                          },
+                          {
+                            "@Delete": "false",
+                            "@Hide": "false",
+                            "@Num": "2",
+                            "Subitem1Title": "ロ",
+                            "Subitem1Sentence": {
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "認定に係る物件の整備及びその確認のため行う検査に関し必要な知識、経験及び技りようを有すると認められる者であつて、当該認定に係る物件の整備及びその確認のため行う検査を行う人員を直接監督するもの"
+                              }
+                            }
+                          },
+                          {
+                            "@Delete": "false",
+                            "@Hide": "false",
+                            "@Num": "3",
+                            "Subitem1Title": "ハ",
+                            "Subitem1Sentence": {
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "二年以上ロに掲げる者としての経験を有する者又はこれと同等以上の能力を有すると認められる者のうちから認定を受ける者が確認を行わせるために選任したもの（以下「整備主任者」という。）"
+                              }
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "4",
+                        "ItemTitle": "四",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "整備主任者が整備及びその確認のため行う検査に関し責任を有する制度を有すること。"
+                          }
+                        }
+                      },
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "5",
+                        "ItemTitle": "五",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "認定に係る物件の整備に関し、次に掲げる事項が適切なものであること。"
+                          }
+                        },
+                        "Subitem1": [
+                          {
+                            "@Delete": "false",
+                            "@Hide": "false",
+                            "@Num": "1",
+                            "Subitem1Title": "イ",
+                            "Subitem1Sentence": {
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "作業に関する管理"
+                              }
+                            }
+                          },
+                          {
+                            "@Delete": "false",
+                            "@Hide": "false",
+                            "@Num": "2",
+                            "Subitem1Title": "ロ",
+                            "Subitem1Sentence": {
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "材料及び部品に関する管理"
+                              }
+                            }
+                          },
+                          {
+                            "@Delete": "false",
+                            "@Hide": "false",
+                            "@Num": "3",
+                            "Subitem1Title": "ハ",
+                            "Subitem1Sentence": {
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "確認のため行う検査に関する基準"
+                              }
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "6",
+                        "ItemTitle": "六",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "第二号イ及びロに掲げる設備の較正に関する制度を有すること。"
+                          }
+                        }
+                      },
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "7",
+                        "ItemTitle": "七",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "次に掲げる書類を適切に管理する制度を有すること。"
+                          }
+                        },
+                        "Subitem1": [
+                          {
+                            "@Delete": "false",
+                            "@Hide": "false",
+                            "@Num": "1",
+                            "Subitem1Title": "イ",
+                            "Subitem1Sentence": {
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "整備規程"
+                              }
+                            }
+                          },
+                          {
+                            "@Delete": "false",
+                            "@Hide": "false",
+                            "@Num": "2",
+                            "Subitem1Title": "ロ",
+                            "Subitem1Sentence": {
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "認定に係る物件の整備に必要な図面その他の資料"
+                              }
+                            }
+                          },
+                          {
+                            "@Delete": "false",
+                            "@Hide": "false",
+                            "@Num": "3",
+                            "Subitem1Title": "ハ",
+                            "Subitem1Sentence": {
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "認定に係る物件の整備及びその確認のため行う検査に関する記録"
+                              }
+                            }
+                          },
+                          {
+                            "@Delete": "false",
+                            "@Hide": "false",
+                            "@Num": "4",
+                            "Subitem1Title": "ニ",
+                            "Subitem1Sentence": {
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "前号に規定する較正に関する記録"
+                              }
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "8",
+                        "ItemTitle": "八",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "当該事業場における認定に係る物件又はこれらに類するものの整備の実績が十分であること。"
+                          }
+                        }
+                      },
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "9",
+                        "ItemTitle": "九",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "事業の基礎が強固であり、かつ、健全な経営を行つていること。"
+                          }
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Hide": "false",
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "第二十七条第二項の規定により認定を取り消され、その取消しの日から二年を経過しない者は、当該取消しに係る事業場について認定を受けることができない。"
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "22",
+                "ArticleCaption": "（認定書の交付）",
+                "ArticleTitle": "第二十二条",
+                "Paragraph": {
+                  "@Hide": "false",
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "地方運輸局長は、認定をしたときは、整備事業場認定書（第九号様式）を交付する。"
+                    }
+                  }
+                }
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "23",
+                "ArticleCaption": "（認定の有効期間）",
+                "ArticleTitle": "第二十三条",
+                "Paragraph": {
+                  "@Hide": "false",
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "認定の有効期間は、五年以内とする。"
+                    }
+                  }
+                }
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "24",
+                "ArticleCaption": "（確認の方法等）",
+                "ArticleTitle": "第二十四条",
+                "Paragraph": [
+                  {
+                    "@Hide": "false",
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "確認は、第二十条第二項第三号に掲げる書類に記載された方法に従つて整備主任者に行わせなければならない。"
+                      }
+                    }
+                  },
+                  {
+                    "@Hide": "false",
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "整備主任者は、確認を行つたときは、確認日誌にその内容を記載して記名押印するとともに、当該物件に確認したことを証する認印（第十号様式）を付し、整備済証明書（第十一号様式）を整備を依頼した者に交付しなければならない。"
+                      }
+                    }
+                  },
+                  {
+                    "@Hide": "false",
+                    "@Num": "3",
+                    "ParagraphNum": "３",
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "前項に規定する確認日誌は、その記載の日から一年間保存しなければならない。"
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "25",
+                "ArticleTitle": "第二十五条",
+                "Paragraph": {
+                  "@Hide": "false",
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "削除"
+                    }
+                  }
+                }
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "26",
+                "ArticleTitle": "第二十六条",
+                "Paragraph": {
+                  "@Hide": "false",
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "削除"
+                    }
+                  }
+                }
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "27",
+                "ArticleCaption": "（認定の失効及び取消し）",
+                "ArticleTitle": "第二十七条",
+                "Paragraph": [
+                  {
+                    "@Hide": "false",
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "認定を受けた者が次の各号の一に該当するときは、認定はその効力を失う。"
+                      }
+                    },
+                    "Item": [
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "1",
+                        "ItemTitle": "一",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "死亡し、又は解散したとき。"
+                          }
+                        }
+                      },
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "2",
+                        "ItemTitle": "二",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "認定に係る事業を廃止したとき。"
+                          }
+                        }
+                      },
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "3",
+                        "ItemTitle": "三",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "認定を辞退したとき。"
+                          }
+                        }
+                      },
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "4",
+                        "ItemTitle": "四",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "認定に係る整備規程の認可が効力を失い、又は取り消されたとき。"
+                          }
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Hide": "false",
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "地方運輸局長は、認定を受けた者が次の各号の一に該当するときは、その認定を取り消し、又は期間を定めてその認定の効力を停止することができる。"
+                      }
+                    },
+                    "Item": [
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "1",
+                        "ItemTitle": "一",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "第二十一条第一項に規定する基準に適合しなくなつたとき。"
+                          }
+                        }
+                      },
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "2",
+                        "ItemTitle": "二",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "第二十四条、次条第三項、第二十八条の二（同条第一項の表第三号及び第四号に係る部分に限る。）又は第二十八条の三（同条の表第七号から第十号までに係る部分に限る。）の規定に違反したとき。"
+                          }
+                        }
+                      },
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "3",
+                        "ItemTitle": "三",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "認定に係る物件以外の物件に第二十四条第二項に規定する認印を付し、又は認定に係る物件以外の物件について同項に規定する整備済証明書を交付したとき。"
+                          }
+                        }
+                      },
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "4",
+                        "ItemTitle": "四",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "国土交通大臣又は関東運輸局長が、必要があると認めて、その職員に、本邦外にある認定に係る事業場に臨検をさせようとした場合において、その臨検が拒まれ、妨げられ、若しくは忌避され、又はその質問に対して陳述がされず、若しくは虚偽の陳述がされたとき。"
+                          }
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "28",
+                "ArticleCaption": "（整備規程の供与等）",
+                "ArticleTitle": "第二十八条",
+                "Paragraph": [
+                  {
+                    "@Hide": "false",
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "整備規程の認可を受けた者は、当該整備規程に係る認定を受けた者に対し、認可を受けた整備規程である旨を記載し、かつ、記名押印した整備規程を供与しなければならない。"
+                      }
+                    }
+                  },
+                  {
+                    "@Hide": "false",
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "整備規程の認可を受けた者は、第十四条第一項の規定による変更の認可又は第十五条の規定による命令を受けたときは、直ちに、前項の規定により供与した整備規程を改定しなければならない。"
+                      }
+                    }
+                  },
+                  {
+                    "@Hide": "false",
+                    "@Num": "3",
+                    "ParagraphNum": "３",
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "第一項の規定により整備規程の供与を受けた者は、当該整備規程を認定に係る事業場に備え置くとともに、供与を受けた後一年ごとに、当該整備規程が、認可を受けた整備規程（第十四条第一項の規定による変更の認可又は第十五条の規定による命令を受けて当該整備規程が変更された場合にあつては、当該変更後の整備規程）と相違ないことについて当該整備規程の認可を受けた者の検認を受けなければならない。"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "4",
+            "ChapterTitle": "第四章　雑則",
+            "Article": [
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "28_2",
+                "ArticleCaption": "（承認）",
+                "ArticleTitle": "第二十八条の二",
+                "Paragraph": [
+                  {
+                    "@Hide": "false",
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "次の表の上欄に掲げる者は、同表の中欄に掲げる場合には、同表の下欄に掲げる者の承認を受けなければならない。"
+                      }
+                    },
+                    "TableStruct": {
+                      "Table": {
+                        "@WritingMode": "vertical",
+                        "TableRow": [
+                          {
+                            "TableColumn": [
+                              {
+                                "@BorderBottom": "solid",
+                                "@BorderLeft": "solid",
+                                "@BorderRight": "solid",
+                                "@BorderTop": "solid",
+                                "Sentence": {
+                                  "@WritingMode": "vertical",
+                                  "#text": "一　法第十九条の四十九第一項において準用する船舶安全法第六条ノ二の規定による認定を受けた者"
+                                }
+                              },
+                              {
+                                "@BorderBottom": "solid",
+                                "@BorderLeft": "solid",
+                                "@BorderRight": "solid",
+                                "@BorderTop": "solid",
+                                "Sentence": {
+                                  "@WritingMode": "vertical",
+                                  "#text": "第三条第二項の規定により限定をされた事項を変更しようとするとき。"
+                                }
+                              },
+                              {
+                                "@BorderBottom": "solid",
+                                "@BorderLeft": "solid",
+                                "@BorderRight": "solid",
+                                "@BorderTop": "solid",
+                                "Sentence": {
+                                  "@WritingMode": "vertical",
+                                  "#text": "国土交通大臣"
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "TableColumn": [
+                              {
+                                "@BorderBottom": "solid",
+                                "@BorderLeft": "solid",
+                                "@BorderRight": "solid",
+                                "@BorderTop": "solid",
+                                "Sentence": {
+                                  "@WritingMode": "vertical",
+                                  "#text": "二　法第十九条の四十九第一項において準用する船舶安全法第六条ノ二の規定による認定を受けた者"
+                                }
+                              },
+                              {
+                                "@BorderBottom": "solid",
+                                "@BorderLeft": "solid",
+                                "@BorderRight": "solid",
+                                "@BorderTop": "solid",
+                                "Sentence": {
+                                  "@WritingMode": "vertical",
+                                  "#text": "当該物件について法第十九条の四十九第一項において準用する船舶安全法第六条ノ四第一項の規定による型式承認を受けたこと等により、確認の方法を新たに定め、又はこれを変更しようとするとき。"
+                                }
+                              },
+                              {
+                                "@BorderBottom": "solid",
+                                "@BorderLeft": "solid",
+                                "@BorderRight": "solid",
+                                "@BorderTop": "solid",
+                                "Sentence": {
+                                  "@WritingMode": "vertical",
+                                  "#text": "国土交通大臣"
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "TableColumn": [
+                              {
+                                "@BorderBottom": "solid",
+                                "@BorderLeft": "solid",
+                                "@BorderRight": "solid",
+                                "@BorderTop": "solid",
+                                "Sentence": {
+                                  "@WritingMode": "vertical",
+                                  "#text": "三　法第十九条の四十九第一項において準用する船舶安全法第六条ノ三の規定による認定を受けた者"
+                                }
+                              },
+                              {
+                                "@BorderBottom": "solid",
+                                "@BorderLeft": "solid",
+                                "@BorderRight": "solid",
+                                "@BorderTop": "solid",
+                                "Sentence": {
+                                  "@WritingMode": "vertical",
+                                  "#text": "当該認定に係る物件の範囲を変更しようとするとき。"
+                                }
+                              },
+                              {
+                                "@BorderBottom": "solid",
+                                "@BorderLeft": "solid",
+                                "@BorderRight": "solid",
+                                "@BorderTop": "solid",
+                                "Sentence": {
+                                  "@WritingMode": "vertical",
+                                  "#text": "地方運輸局長"
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "TableColumn": [
+                              {
+                                "@BorderBottom": "solid",
+                                "@BorderLeft": "solid",
+                                "@BorderRight": "solid",
+                                "@BorderTop": "solid",
+                                "Sentence": {
+                                  "@WritingMode": "vertical",
+                                  "#text": "四　法第十九条の四十九第一項において準用する船舶安全法第六条ノ三の規定による認定を受けた者"
+                                }
+                              },
+                              {
+                                "@BorderBottom": "solid",
+                                "@BorderLeft": "solid",
+                                "@BorderRight": "solid",
+                                "@BorderTop": "solid",
+                                "Sentence": {
+                                  "@WritingMode": "vertical",
+                                  "#text": "当該認定に係る確認の方法を変更しようとするとき。"
+                                }
+                              },
+                              {
+                                "@BorderBottom": "solid",
+                                "@BorderLeft": "solid",
+                                "@BorderRight": "solid",
+                                "@BorderTop": "solid",
+                                "Sentence": {
+                                  "@WritingMode": "vertical",
+                                  "#text": "地方運輸局長"
+                                }
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    }
+                  },
+                  {
+                    "@Hide": "false",
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "前項の表第一号又は第三号の規定に係る承認を受けようとするときは、変更承認申請書（第十二号様式）を提出しなければならない。"
+                      }
+                    }
+                  },
+                  {
+                    "@Hide": "false",
+                    "@Num": "3",
+                    "ParagraphNum": "３",
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "前項の変更承認申請書には、同項の表第一号の規定に係る承認にあつては第四条第二項各号に掲げる書類のうち当該変更に係るものを、同表第三号の規定に係る承認にあつては第二十条第二項各号に掲げる書類のうち当該変更に係るものを添付しなければならない。"
+                      }
+                    }
+                  },
+                  {
+                    "@Hide": "false",
+                    "@Num": "4",
+                    "ParagraphNum": "４",
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "第四条第三項の規定は、第一項の表第一号及び第二号の規定に係る承認について準用する。"
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "28_3",
+                "ArticleCaption": "（届出）",
+                "ArticleTitle": "第二十八条の三",
+                "Paragraph": {
+                  "@Hide": "false",
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "次の表の上欄に掲げる者は、同表の中欄に掲げる場合には、速やかに（第一号又は第七号の場合にあつては、あらかじめ）、その旨を（第一号、第二号、第七号又は第八号の場合にあつては、変更しようとする事項及びその理由を書面により）同表の下欄に掲げる者に届け出なければならない。"
+                    }
+                  },
+                  "TableStruct": {
+                    "Table": {
+                      "@WritingMode": "vertical",
+                      "TableRow": [
+                        {
+                          "TableColumn": [
+                            {
+                              "@BorderBottom": "solid",
+                              "@BorderLeft": "solid",
+                              "@BorderRight": "solid",
+                              "@BorderTop": "solid",
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "一　法第十九条の四十九第一項において準用する船舶安全法第六条ノ二の規定による認定を受けた者"
+                              }
+                            },
+                            {
+                              "@BorderBottom": "solid",
+                              "@BorderLeft": "solid",
+                              "@BorderRight": "solid",
+                              "@BorderTop": "solid",
+                              "Sentence": [
+                                {
+                                  "@WritingMode": "vertical",
+                                  "#text": "次に掲げる事項について変更しようとする場合（（１）、（４）又は（５）に掲げる事項についての軽微な変更であつて、当該事業場の製造工事又は改造修理工事の能力に影響を及ぼすおそれのないものに係る場合を除く。）"
+                                },
+                                {
+                                  "@WritingMode": "vertical",
+                                  "#text": "（１）　第五条第一項第一号に規定する施設及び設備"
+                                },
+                                {
+                                  "@WritingMode": "vertical",
+                                  "#text": "（２）　第五条第一項第二号ロに掲げる者及び検査主任者"
+                                },
+                                {
+                                  "@WritingMode": "vertical",
+                                  "#text": "（３）　第五条第一項第三号に規定する制度"
+                                },
+                                {
+                                  "@WritingMode": "vertical",
+                                  "#text": "（４）　第五条第一項第四号イからヘまでに掲げる事項"
+                                },
+                                {
+                                  "@WritingMode": "vertical",
+                                  "#text": "（５）　第五条第一項第五号又は第六号に規定する制度"
+                                }
+                              ]
+                            },
+                            {
+                              "@BorderBottom": "solid",
+                              "@BorderLeft": "solid",
+                              "@BorderRight": "solid",
+                              "@BorderTop": "solid",
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "国土交通大臣"
+                              }
+                            }
+                          ]
+                        },
+                        {
+                          "TableColumn": [
+                            {
+                              "@BorderBottom": "solid",
+                              "@BorderLeft": "solid",
+                              "@BorderRight": "solid",
+                              "@BorderTop": "solid",
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "二　法第十九条の四十九第一項において準用する船舶安全法第六条ノ二の規定による認定を受けた者"
+                              }
+                            },
+                            {
+                              "@BorderBottom": "solid",
+                              "@BorderLeft": "solid",
+                              "@BorderRight": "solid",
+                              "@BorderTop": "solid",
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "天災その他の事由により前号中欄に掲げる事項について変更が生じた場合（（１）、（４）又は（５）に掲げる事項についての軽微な変更であつて、当該事業場の製造工事又は改造修理工事の能力に影響を及ぼすおそれのないものに係る場合を除く。）"
+                              }
+                            },
+                            {
+                              "@BorderBottom": "solid",
+                              "@BorderLeft": "solid",
+                              "@BorderRight": "solid",
+                              "@BorderTop": "solid",
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "国土交通大臣"
+                              }
+                            }
+                          ]
+                        },
+                        {
+                          "TableColumn": [
+                            {
+                              "@BorderBottom": "solid",
+                              "@BorderLeft": "solid",
+                              "@BorderRight": "solid",
+                              "@BorderTop": "solid",
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "三　法第十九条の四十九第一項において準用する船舶安全法第六条ノ二の規定による認定を受けた者"
+                              }
+                            },
+                            {
+                              "@BorderBottom": "solid",
+                              "@BorderLeft": "solid",
+                              "@BorderRight": "solid",
+                              "@BorderTop": "solid",
+                              "Sentence": [
+                                {
+                                  "@WritingMode": "vertical",
+                                  "#text": "次に掲げる場合"
+                                },
+                                {
+                                  "@WritingMode": "vertical",
+                                  "#text": "（１）　当該認定を受けた者の氏名又は名称に変更があつたとき。"
+                                },
+                                {
+                                  "@WritingMode": "vertical",
+                                  "#text": "（２）　当該認定に係る事業場の名称又は所在地の住居表示に変更があつたとき。"
+                                },
+                                {
+                                  "@WritingMode": "vertical",
+                                  "#text": "（３）　当該認定に係る事業を廃止したとき。"
+                                }
+                              ]
+                            },
+                            {
+                              "@BorderBottom": "solid",
+                              "@BorderLeft": "solid",
+                              "@BorderRight": "solid",
+                              "@BorderTop": "solid",
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "国土交通大臣"
+                              }
+                            }
+                          ]
+                        },
+                        {
+                          "TableColumn": [
+                            {
+                              "@BorderBottom": "solid",
+                              "@BorderLeft": "solid",
+                              "@BorderRight": "solid",
+                              "@BorderTop": "solid",
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "四　法第十九条の四十九第一項において準用する船舶安全法第六条ノ二の規定による認定を受けた者の相続人又は清算人"
+                              }
+                            },
+                            {
+                              "@BorderBottom": "solid",
+                              "@BorderLeft": "solid",
+                              "@BorderRight": "solid",
+                              "@BorderTop": "solid",
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "当該認定を受けた者が死亡し、又は解散したとき。"
+                              }
+                            },
+                            {
+                              "@BorderBottom": "solid",
+                              "@BorderLeft": "solid",
+                              "@BorderRight": "solid",
+                              "@BorderTop": "solid",
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "国土交通大臣"
+                              }
+                            }
+                          ]
+                        },
+                        {
+                          "TableColumn": [
+                            {
+                              "@BorderBottom": "solid",
+                              "@BorderLeft": "solid",
+                              "@BorderRight": "solid",
+                              "@BorderTop": "solid",
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "五　法第十九条の四十九第一項において準用する船舶安全法第六条ノ三の規定による認可を受けた者"
+                              }
+                            },
+                            {
+                              "@BorderBottom": "solid",
+                              "@BorderLeft": "solid",
+                              "@BorderRight": "solid",
+                              "@BorderTop": "solid",
+                              "Sentence": [
+                                {
+                                  "@WritingMode": "vertical",
+                                  "#text": "次に掲げる場合"
+                                },
+                                {
+                                  "@WritingMode": "vertical",
+                                  "#text": "（１）　当該認可を受けた者の氏名若しくは名称又は住所に変更があつたとき。"
+                                },
+                                {
+                                  "@WritingMode": "vertical",
+                                  "#text": "（２）　当該認可に係る事業を廃止したとき。"
+                                }
+                              ]
+                            },
+                            {
+                              "@BorderBottom": "solid",
+                              "@BorderLeft": "solid",
+                              "@BorderRight": "solid",
+                              "@BorderTop": "solid",
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "国土交通大臣"
+                              }
+                            }
+                          ]
+                        },
+                        {
+                          "TableColumn": [
+                            {
+                              "@BorderBottom": "solid",
+                              "@BorderLeft": "solid",
+                              "@BorderRight": "solid",
+                              "@BorderTop": "solid",
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "六　法第十九条の四十九第一項において準用する船舶安全法第六条ノ三の規定による認可を受けた者の相続人又は清算人"
+                              }
+                            },
+                            {
+                              "@BorderBottom": "solid",
+                              "@BorderLeft": "solid",
+                              "@BorderRight": "solid",
+                              "@BorderTop": "solid",
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "当該認可を受けた者が死亡し、又は解散したとき。"
+                              }
+                            },
+                            {
+                              "@BorderBottom": "solid",
+                              "@BorderLeft": "solid",
+                              "@BorderRight": "solid",
+                              "@BorderTop": "solid",
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "国土交通大臣"
+                              }
+                            }
+                          ]
+                        },
+                        {
+                          "TableColumn": [
+                            {
+                              "@BorderBottom": "solid",
+                              "@BorderLeft": "solid",
+                              "@BorderRight": "solid",
+                              "@BorderTop": "solid",
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "七　法第十九条の四十九第一項において準用する船舶安全法第六条ノ三の規定による認定を受けた者"
+                              }
+                            },
+                            {
+                              "@BorderBottom": "solid",
+                              "@BorderLeft": "solid",
+                              "@BorderRight": "solid",
+                              "@BorderTop": "solid",
+                              "Sentence": [
+                                {
+                                  "@WritingMode": "vertical",
+                                  "#text": "次に掲げる事項について変更しようとする場合（（１）、（４）又は（５）に掲げる事項についての軽微な変更であつて、当該事業場の整備の能力に影響を及ぼすおそれのないものに係る場合を除く。）"
+                                },
+                                {
+                                  "@WritingMode": "vertical",
+                                  "#text": "（１）　第二十一条第一項第二号に規定する施設及び設備"
+                                },
+                                {
+                                  "@WritingMode": "vertical",
+                                  "#text": "（２）　整備主任者"
+                                },
+                                {
+                                  "@WritingMode": "vertical",
+                                  "#text": "（３）　第二十一条第一項第四号に規定する制度"
+                                },
+                                {
+                                  "@WritingMode": "vertical",
+                                  "#text": "（４）　第二十一条第一項第五号イからハまでに掲げる事項"
+                                },
+                                {
+                                  "@WritingMode": "vertical",
+                                  "#text": "（５）　第二十一条第一項第六号又は第七号に規定する制度"
+                                }
+                              ]
+                            },
+                            {
+                              "@BorderBottom": "solid",
+                              "@BorderLeft": "solid",
+                              "@BorderRight": "solid",
+                              "@BorderTop": "solid",
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "地方運輸局長"
+                              }
+                            }
+                          ]
+                        },
+                        {
+                          "TableColumn": [
+                            {
+                              "@BorderBottom": "solid",
+                              "@BorderLeft": "solid",
+                              "@BorderRight": "solid",
+                              "@BorderTop": "solid",
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "八　法第十九条の四十九第一項において準用する船舶安全法第六条ノ三の規定による認定を受けた者"
+                              }
+                            },
+                            {
+                              "@BorderBottom": "solid",
+                              "@BorderLeft": "solid",
+                              "@BorderRight": "solid",
+                              "@BorderTop": "solid",
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "天災その他の事由により前号中欄に掲げる事項に変更が生じた場合（（１）、（４）又は（５）に掲げる事項についての軽微な変更であつて、当該事業場の整備の能力に影響を及ぼすおそれのないものに係る場合を除く。）"
+                              }
+                            },
+                            {
+                              "@BorderBottom": "solid",
+                              "@BorderLeft": "solid",
+                              "@BorderRight": "solid",
+                              "@BorderTop": "solid",
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "地方運輸局長"
+                              }
+                            }
+                          ]
+                        },
+                        {
+                          "TableColumn": [
+                            {
+                              "@BorderBottom": "solid",
+                              "@BorderLeft": "solid",
+                              "@BorderRight": "solid",
+                              "@BorderTop": "solid",
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "九　法第十九条の四十九第一項において準用する船舶安全法第六条ノ三の規定による認定を受けた者"
+                              }
+                            },
+                            {
+                              "@BorderBottom": "solid",
+                              "@BorderLeft": "solid",
+                              "@BorderRight": "solid",
+                              "@BorderTop": "solid",
+                              "Sentence": [
+                                {
+                                  "@WritingMode": "vertical",
+                                  "#text": "次に掲げる場合"
+                                },
+                                {
+                                  "@WritingMode": "vertical",
+                                  "#text": "（１）　当該認定を受けた者の氏名又は名称に変更があつたとき。"
+                                },
+                                {
+                                  "@WritingMode": "vertical",
+                                  "#text": "（２）　当該認定に係る事業場の名称又は所在地の住居表示に変更があつたとき。"
+                                },
+                                {
+                                  "@WritingMode": "vertical",
+                                  "#text": "（３）　当該認定に係る事業を廃止したとき。"
+                                }
+                              ]
+                            },
+                            {
+                              "@BorderBottom": "solid",
+                              "@BorderLeft": "solid",
+                              "@BorderRight": "solid",
+                              "@BorderTop": "solid",
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "地方運輸局長"
+                              }
+                            }
+                          ]
+                        },
+                        {
+                          "TableColumn": [
+                            {
+                              "@BorderBottom": "solid",
+                              "@BorderLeft": "solid",
+                              "@BorderRight": "solid",
+                              "@BorderTop": "solid",
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "十　法第十九条の四十九第一項において準用する船舶安全法第六条ノ三の規定による認定を受けた者の相続人又は清算人"
+                              }
+                            },
+                            {
+                              "@BorderBottom": "solid",
+                              "@BorderLeft": "solid",
+                              "@BorderRight": "solid",
+                              "@BorderTop": "solid",
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "当該認定を受けた者が死亡し、又は解散したとき。"
+                              }
+                            },
+                            {
+                              "@BorderBottom": "solid",
+                              "@BorderLeft": "solid",
+                              "@BorderRight": "solid",
+                              "@BorderTop": "solid",
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "地方運輸局長"
+                              }
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                }
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "29",
+                "ArticleCaption": "（権限の委任）",
+                "ArticleTitle": "第二十九条",
+                "Paragraph": {
+                  "@Hide": "false",
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "法第十九条の四十九第一項において準用する船舶安全法第六条ノ三に規定する認定に係る国土交通大臣の権限は、当該認定に係る事業場の所在地を管轄する地方運輸局長（その所在地が本邦外にある場合にあつては、関東運輸局長。次条第一項において同じ。）が行う。"
+                    }
+                  }
+                }
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "30",
+                "ArticleCaption": "（経由機関）",
+                "ArticleTitle": "第三十条",
+                "Paragraph": [
+                  {
+                    "@Hide": "false",
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "第四条、第二十八条の二（同条第一項の表第一号及び第二号に係る部分に限る。）及び第二十八条の三（同条の表第一号から第四号までに係る部分に限る。）の規定による国土交通大臣に対する書類の提出は、当該書類に係る物件の製造又は改造若しくは修理を行う事業場の所在地を管轄する地方運輸局長を経由して行うものとする。"
+                      }
+                    }
+                  },
+                  {
+                    "@Hide": "false",
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "第十三条第三項、第十四条第一項及び第二十八条の三（同条の表第五号及び第六号に係る部分に限る。）の規定による国土交通大臣に対する書類の提出は、当該書類を提出する者の住所を管轄する地方運輸局長（その住所が本邦外にある場合にあつては、関東運輸局長）を経由して行うものとする。"
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "31",
+                "ArticleCaption": "（手数料）",
+                "ArticleTitle": "第三十一条",
+                "Paragraph": [
+                  {
+                    "@Hide": "false",
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "次の表の上欄に掲げる者は、それぞれ同表の下欄に掲げる額の手数料を納付しなければならない。"
+                      }
+                    },
+                    "TableStruct": {
+                      "Table": {
+                        "@WritingMode": "vertical",
+                        "TableRow": [
+                          {
+                            "TableColumn": [
+                              {
+                                "@BorderBottom": "solid",
+                                "@BorderLeft": "solid",
+                                "@BorderRight": "solid",
+                                "@BorderTop": "solid",
+                                "Sentence": {
+                                  "@WritingMode": "vertical",
+                                  "#text": "手数料を納付すべき者"
+                                }
+                              },
+                              {
+                                "@BorderBottom": "solid",
+                                "@BorderLeft": "solid",
+                                "@BorderRight": "solid",
+                                "@BorderTop": "solid",
+                                "Sentence": {
+                                  "@WritingMode": "vertical",
+                                  "#text": "金額"
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "TableColumn": [
+                              {
+                                "@BorderBottom": "solid",
+                                "@BorderLeft": "solid",
+                                "@BorderRight": "solid",
+                                "@BorderTop": "solid",
+                                "Sentence": {
+                                  "@WritingMode": "vertical",
+                                  "#text": "一　製造工事に係る法第十九条の四十九第一項において準用する船舶安全法第六条ノ二の規定による認定を受けようとする者"
+                                }
+                              },
+                              {
+                                "@BorderBottom": "solid",
+                                "@BorderLeft": "solid",
+                                "@BorderRight": "solid",
+                                "@BorderTop": "solid",
+                                "Sentence": [
+                                  {
+                                    "@WritingMode": "vertical",
+                                    "#text": "イ　ロに掲げる場合以外の場合は、一件につき五十二万百円（行政手続等における情報通信の技術の利用に関する法律（平成十四年法律第百五十一号）第三条第一項の規定により同項に規定する電子情報処理組織を使用して（以下この条において「電子情報処理組織により」という。）認定の申請をする場合にあつては、五十一万九千九百円）。ただし、同時に別表の同一区分に属する二以上の物件について認定の申請をする場合における当該二以上の物件のうちその個数より一を減じた個数の物件については、一件につき十一万千円（電子情報処理組織により認定の申請をする場合にあつては、十一万八百円）"
+                                  },
+                                  {
+                                    "@WritingMode": "vertical",
+                                    "#text": "ロ　認定の申請に係る物件と別表の区分が同一である他の物件について認定を受けている場合は、一件につき十一万千円（電子情報処理組織により認定の申請をする場合にあつては、十一万八百円）"
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "TableColumn": [
+                              {
+                                "@BorderBottom": "solid",
+                                "@BorderLeft": "solid",
+                                "@BorderRight": "solid",
+                                "@BorderTop": "solid",
+                                "Sentence": {
+                                  "@WritingMode": "vertical",
+                                  "#text": "二　改造修理工事に係る法第十九条の四十九第一項において準用する船舶安全法第六条ノ二の規定による認定を受けようとする者"
+                                }
+                              },
+                              {
+                                "@BorderBottom": "solid",
+                                "@BorderLeft": "solid",
+                                "@BorderRight": "solid",
+                                "@BorderTop": "solid",
+                                "Sentence": [
+                                  {
+                                    "@WritingMode": "vertical",
+                                    "#text": "イ　ロに掲げる場合以外の場合は、一件につき四十万七千四百円（電子情報処理組織により認定の申請をする場合にあつては、四十万七千二百円）。ただし、同時に別表の同一区分に属する二以上の物件について認定の申請をする場合における当該二以上の物件のうちその個数より一を減じた個数の物件については、一件につき十一万千円（電子情報処理組織により認定の申請をする場合にあつては、十一万八百円）"
+                                  },
+                                  {
+                                    "@WritingMode": "vertical",
+                                    "#text": "ロ　認定の申請に係る物件と別表の区分が同一である他の物件について認定を受けている場合は、一件につき十一万千円（電子情報処理組織により認定の申請をする場合にあつては、十一万八百円）"
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "TableColumn": [
+                              {
+                                "@BorderBottom": "solid",
+                                "@BorderLeft": "solid",
+                                "@BorderRight": "solid",
+                                "@BorderTop": "solid",
+                                "Sentence": {
+                                  "@WritingMode": "vertical",
+                                  "#text": "三　第二十八条の二（同条第一項の表第一号及び第二号に係る部分に限る。）の規定による承認を受けようとする者"
+                                }
+                              },
+                              {
+                                "@BorderBottom": "solid",
+                                "@BorderLeft": "solid",
+                                "@BorderRight": "solid",
+                                "@BorderTop": "solid",
+                                "Sentence": {
+                                  "@WritingMode": "vertical",
+                                  "#text": "一件につき十一万千円（電子情報処理組織により承認の申請をする場合にあつては、十一万八百円）"
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "TableColumn": [
+                              {
+                                "@BorderBottom": "solid",
+                                "@BorderLeft": "solid",
+                                "@BorderRight": "solid",
+                                "@BorderTop": "solid",
+                                "Sentence": {
+                                  "@WritingMode": "vertical",
+                                  "#text": "四　法第十九条の四十九第一項において準用する船舶安全法第六条ノ三の規定による整備規程の認可を受けようとする者"
+                                }
+                              },
+                              {
+                                "@BorderBottom": "solid",
+                                "@BorderLeft": "solid",
+                                "@BorderRight": "solid",
+                                "@BorderTop": "solid",
+                                "Sentence": {
+                                  "@WritingMode": "vertical",
+                                  "#text": "一件につき三十七万九千七百円（電子情報処理組織により認可の申請をする場合にあつては、三十七万九千五百円）"
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "TableColumn": [
+                              {
+                                "@BorderBottom": "solid",
+                                "@BorderLeft": "solid",
+                                "@BorderRight": "solid",
+                                "@BorderTop": "solid",
+                                "Sentence": {
+                                  "@WritingMode": "vertical",
+                                  "#text": "五　第十四条の規定による変更の認可を受けようとする者"
+                                }
+                              },
+                              {
+                                "@BorderBottom": "solid",
+                                "@BorderLeft": "solid",
+                                "@BorderRight": "solid",
+                                "@BorderTop": "solid",
+                                "Sentence": {
+                                  "@WritingMode": "vertical",
+                                  "#text": "一件につき九万四百円（電子情報処理組織により変更の認可の申請をする場合にあつては、九万二百円）"
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "TableColumn": [
+                              {
+                                "@BorderBottom": "solid",
+                                "@BorderLeft": "solid",
+                                "@BorderRight": "solid",
+                                "@BorderTop": "solid",
+                                "Sentence": {
+                                  "@WritingMode": "vertical",
+                                  "#text": "六　法第十九条の四十九第一項において準用する船舶安全法第六条ノ三の規定による認定を受けようとする者"
+                                }
+                              },
+                              {
+                                "@BorderBottom": "solid",
+                                "@BorderLeft": "solid",
+                                "@BorderRight": "solid",
+                                "@BorderTop": "solid",
+                                "Sentence": [
+                                  {
+                                    "@WritingMode": "vertical",
+                                    "#text": "イ　ロに掲げる場合以外の場合は、一件につき十三万七千二百円（電子情報処理組織により認定の申請をする場合にあつては、十三万七千円）。ただし、同時に別表の同一区分に属する物件の二以上の類型について認定の申請をする場合における当該二以上の類型のうちその個数より一を減じた個数の類型については、一件につき三万七千八百円（電子情報処理組織により認定の申請をする場合にあつては、三万七千六百円）"
+                                  },
+                                  {
+                                    "@WritingMode": "vertical",
+                                    "#text": "ロ　認定の申請に係る物件と別表の区分が同一である物件の類型について認定を受けている場合は、一件につき三万七千八百円（電子情報処理組織により認定の申請をする場合にあつては、三万七千六百円）"
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "TableColumn": [
+                              {
+                                "@BorderBottom": "solid",
+                                "@BorderLeft": "solid",
+                                "@BorderRight": "solid",
+                                "@BorderTop": "solid",
+                                "Sentence": {
+                                  "@WritingMode": "vertical",
+                                  "#text": "七　第二十八条の二（同条第一項の表第三号及び第四号に係る部分に限る。）の規定による承認を受けようとする者"
+                                }
+                              },
+                              {
+                                "@BorderBottom": "solid",
+                                "@BorderLeft": "solid",
+                                "@BorderRight": "solid",
+                                "@BorderTop": "solid",
+                                "Sentence": {
+                                  "@WritingMode": "vertical",
+                                  "#text": "一件につき三万六千九百円（電子情報処理組織により承認の申請をする場合にあつては、三万六千七百円）"
+                                }
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    }
+                  },
+                  {
+                    "@Hide": "false",
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "外国において法第十九条の四十九第一項において準用する船舶安全法第六条ノ二及び第六条ノ三の規定による認定を受ける場合における手数料の額は、前項の規定にかかわらず、同項の規定による手数料の額に十一万三千七百円を加算した額とする。"
+                      }
+                    }
+                  },
+                  {
+                    "@Hide": "false",
+                    "@Num": "3",
+                    "ParagraphNum": "３",
+                    "ParagraphSentence": {
+                      "Sentence": [
+                        {
+                          "@Function": "main",
+                          "@Num": "1",
+                          "@WritingMode": "vertical",
+                          "#text": "前二項の手数料は、手数料の額に相当する収入印紙を手数料納付書（第十三号様式）にはつて納付しなければならない。"
+                        },
+                        {
+                          "@Function": "proviso",
+                          "@Num": "2",
+                          "@WritingMode": "vertical",
+                          "#text": "ただし、電子情報処理組織により第一項の表各号の認定、承認若しくは認可又は前項の認定の申請をする場合において、当該申請を行つたことにより得られた納付情報により納付するときは、現金をもつてすることができる。"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "SupplProvision": [
+        {
+          "@Extract": "false",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この省令は、海洋汚染及び海上災害の防止に関する法律の一部を改正する法律（昭和五十八年法律第五十八号）附則第一条第一号に定める日（昭和五十八年八月二十五日）から施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "昭和五九年三月一九日運輸省令第四号",
+          "@Extract": "false",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": [
+            {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphCaption": "（施行期日）",
+              "ParagraphNum": "１",
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "この省令は、昭和五十九年四月一日から施行する。"
+                }
+              }
+            },
+            {
+              "@Hide": "false",
+              "@Num": "2",
+              "ParagraphCaption": "（経過措置）",
+              "ParagraphNum": "２",
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "この省令の施行前にした申請に係る手数料に関しては、なお従前の例による。"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@AmendLawNum": "昭和五九年六月二二日運輸省令第一八号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Article": [
+            {
+              "@Delete": "false",
+              "@Hide": "false",
+              "@Num": "1",
+              "ArticleCaption": "（施行期日）",
+              "ArticleTitle": "第一条",
+              "Paragraph": {
+                "@Hide": "false",
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "この省令は、昭和五十九年七月一日から施行する。"
+                  }
+                }
+              }
+            },
+            {
+              "@Delete": "false",
+              "@Hide": "false",
+              "@Num": "2",
+              "ArticleCaption": "（経過措置）",
+              "ArticleTitle": "第二条",
+              "Paragraph": {
+                "@Hide": "false",
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "この省令の施行前に次の表の上欄に掲げる行政庁が法律若しくはこれに基づく命令の規定によりした許可、認可その他の処分又は契約その他の行為（以下「処分等」という。）は、同表の下欄に掲げるそれぞれの行政庁がした処分等とみなし、この省令の施行前に同表の上欄に掲げる行政庁に対してした申請、届出その他の行為（以下「申請等」という。）は、同表の下欄に掲げるそれぞれの行政庁に対してした申請等とみなす。"
+                  }
+                },
+                "TableStruct": {
+                  "Table": {
+                    "@WritingMode": "vertical",
+                    "TableRow": [
+                      {
+                        "TableColumn": [
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "北海海運局長"
+                            }
+                          },
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "北海道運輸局長"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "TableColumn": [
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "東北海運局長（山形県又は秋田県の区域に係る処分等又は申請等に係る場合を除く。）"
+                            }
+                          },
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "東北運輸局長"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "TableColumn": [
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "東北海運局長（山形県又は秋田県の区域に係る処分等又は申請等に係る場合に限る。）及び新潟海運監理部長"
+                            }
+                          },
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "新潟運輸局長"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "TableColumn": [
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "関東海運局長"
+                            }
+                          },
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "関東運輸局長"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "TableColumn": [
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "東海海運局長"
+                            }
+                          },
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "中部運輸局長"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "TableColumn": [
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "近畿海運局長"
+                            }
+                          },
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "近畿運輸局長"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "TableColumn": [
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "中国海運局長"
+                            }
+                          },
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "中国運輸局長"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "TableColumn": [
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "四国海運局長"
+                            }
+                          },
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "四国運輸局長"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "TableColumn": [
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "九州海運局長"
+                            }
+                          },
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "九州運輸局長"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "TableColumn": [
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "神戸海運局長"
+                            }
+                          },
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "神戸海運監理部長"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "TableColumn": [
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "札幌陸運局長"
+                            }
+                          },
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "北海道運輸局長"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "TableColumn": [
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "仙台陸運局長"
+                            }
+                          },
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "東北運輸局長"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "TableColumn": [
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "新潟陸運局長"
+                            }
+                          },
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "新潟運輸局長"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "TableColumn": [
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "東京陸運局長"
+                            }
+                          },
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "関東運輸局長"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "TableColumn": [
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "名古屋陸運局長"
+                            }
+                          },
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "中部運輸局長"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "TableColumn": [
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "大阪陸運局長"
+                            }
+                          },
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "近畿運輸局長"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "TableColumn": [
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "広島陸運局長"
+                            }
+                          },
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "中国運輸局長"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "TableColumn": [
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "高松陸運局長"
+                            }
+                          },
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "四国運輸局長"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "TableColumn": [
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "福岡陸運局長"
+                            }
+                          },
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "九州運輸局長"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                }
+              }
+            },
+            {
+              "@Delete": "false",
+              "@Hide": "false",
+              "@Num": "3",
+              "ArticleTitle": "第三条",
+              "Paragraph": {
+                "@Hide": "false",
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "この省令の施行前に海運局支局長が法律又はこれに基づく命令の規定によりした処分等は、相当の地方運輸局又は海運監理部の海運支局長がした処分等とみなし、この省令の施行前に海運局支局長に対してした申請等は、相当の地方運輸局又は海運監理部の海運支局長に対してした申請等とみなす。"
+                  }
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@AmendLawNum": "昭和六一年一一月二九日運輸省令第四〇号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Article": {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "1",
+            "ArticleCaption": "（施行期日）",
+            "ArticleTitle": "第一条",
+            "Paragraph": {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": [
+                  {
+                    "@Function": "main",
+                    "@Num": "1",
+                    "@WritingMode": "vertical",
+                    "#text": "この省令は、海洋汚染及び海上災害の防止に関する法律の一部を改正する法律（昭和五十八年法律第五十八号。以下「改正法」という。）附則第一条第四号に定める日（昭和六十二年四月六日。以下「施行日」という。）から施行する。"
+                  },
+                  {
+                    "@Function": "proviso",
+                    "@Num": "2",
+                    "@WritingMode": "vertical",
+                    "#text": "ただし、第二条中海洋汚染防止設備等検査規則別表第一の改正規定、第三条から第五条までの規定及び第十三条中船舶設備規程等の一部を改正する省令附則第七条の改正規定（同条第四項から第六項までに係る部分に限る。）並びに附則第七条の規定は、改正法附則第一条第三号に定める日（昭和六十一年十二月一日）から施行する。"
+                  }
+                ]
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "昭和六二年三月二五日運輸省令第二五号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": [
+            {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphCaption": "（施行期日）",
+              "ParagraphNum": "１",
+              "ParagraphSentence": {
+                "Sentence": [
+                  {
+                    "@Function": "main",
+                    "@Num": "1",
+                    "@WritingMode": "vertical",
+                    "#text": "この省令は、昭和六十二年四月一日から施行する。"
+                  },
+                  {
+                    "@Function": "proviso",
+                    "@Num": "2",
+                    "@WritingMode": "vertical",
+                    "#text": "ただし、第十五条の規定（「一万五千円」を「一万七千円」に改める部分を除く。）及び第二十二条中海洋汚染防止設備等検査規則別表第一の改正規定（有害液体物質の排出防止に関する設備等に係る部分に限る。）は、海洋汚染及び海上災害の防止に関する法律の一部を改正する法律（昭和五十八年法律第五十八号）附則第一条第四号に定める日（昭和六十二年四月六日）から施行する。"
+                  }
+                ]
+              }
+            },
+            {
+              "@Hide": "false",
+              "@Num": "2",
+              "ParagraphCaption": "（経過措置）",
+              "ParagraphNum": "２",
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "この省令の施行前にした申請に係る手数料に関しては、なお従前の例による。"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@AmendLawNum": "平成元年三月三一日運輸省令第一二号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": [
+            {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphCaption": "（施行期日）",
+              "ParagraphNum": "１",
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "この省令は、平成元年四月一日から施行する。"
+                }
+              }
+            },
+            {
+              "@Hide": "false",
+              "@Num": "3",
+              "ParagraphCaption": "（経過措置）",
+              "ParagraphNum": "３",
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "この省令の施行前にした申請に係る手数料に関しては、なお従前の例による。"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@AmendLawNum": "平成元年七月二〇日運輸省令第二四号",
+          "@Extract": "false",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この省令は、公布の日から施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成三年三月二二日運輸省令第二号",
+          "@Extract": "false",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": [
+            {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphCaption": "（施行期日）",
+              "ParagraphNum": "１",
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "この省令は、平成三年四月一日から施行する。"
+                }
+              }
+            },
+            {
+              "@Hide": "false",
+              "@Num": "2",
+              "ParagraphCaption": "（経過措置）",
+              "ParagraphNum": "２",
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "この省令の施行前にした申請に係る手数料に関しては、なお従前の例による。"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@AmendLawNum": "平成五年四月二八日運輸省令第一五号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Article": {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "1",
+            "ArticleCaption": "（施行期日）",
+            "ArticleTitle": "第一条",
+            "Paragraph": {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": [
+                  {
+                    "@Function": "main",
+                    "@Num": "1",
+                    "@WritingMode": "vertical",
+                    "#text": "この省令は、平成五年七月六日から施行する。"
+                  },
+                  {
+                    "@Function": "proviso",
+                    "@Num": "2",
+                    "@WritingMode": "vertical",
+                    "#text": "ただし、第一条中海洋汚染及び海上災害の防止に関する法律施行規則第五条の改正規定中「第十三条第一項」を「第十三条第一項第一号」に改める部分並びに同令第十二条の三の四第二項、第三十七条の三の二第四項、第四十二条第一項及び第一号の三様式（三）の表注Ⅰの改正規定、第三条中海洋汚染防止設備等及び油濁防止緊急措置手引書検査規則第二十六条第二項の改正規定及び別表第一に備考を加える改正規定、第四条の規定（海洋汚染及び海上災害の防止に関する法律の規定に基づく事業場の認定に関する規則第三条第一項第四号、第十三条第一項第四号及び別表の改正規定を除く。）並びに第五条の規定（別表第一及び別表第二の改正規定中「ビルジ用油排出監視制御装置又は」を削る部分を除く。）は、公布の日から施行する。"
+                  }
+                ]
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成六年三月二九日運輸省令第九号",
+          "@Extract": "false",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": [
+            {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphCaption": "（施行期日）",
+              "ParagraphNum": "１",
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "この省令は、平成六年四月一日から施行する。"
+                }
+              }
+            },
+            {
+              "@Hide": "false",
+              "@Num": "2",
+              "ParagraphCaption": "（経過措置）",
+              "ParagraphNum": "２",
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "この省令の施行前にした申請に係る手数料に関しては、なお従前の例による。"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@AmendLawNum": "平成六年三月三〇日運輸省令第一二号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphNum": "１",
+            "ParagraphSentence": {
+              "Sentence": [
+                {
+                  "@Function": "main",
+                  "@Num": "1",
+                  "@WritingMode": "vertical",
+                  "#text": "この省令は、公布の日から施行する。"
+                },
+                {
+                  "@Function": "proviso",
+                  "@Num": "2",
+                  "@WritingMode": "vertical",
+                  "#text": "ただし、次の各号に掲げる規定は、それぞれ当該各号に定める日から施行する。"
+                }
+              ]
+            },
+            "Item": [
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "1",
+                "ItemTitle": "一",
+                "ItemSentence": {
+                  "Column": [
+                    {
+                      "@LineBreak": "false",
+                      "@Num": "1",
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "第三十二条の規定"
+                      }
+                    },
+                    {
+                      "@LineBreak": "false",
+                      "@Num": "2",
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "平成六年四月一日"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "2",
+                "ItemTitle": "二",
+                "ItemSentence": {
+                  "Column": [
+                    {
+                      "@LineBreak": "false",
+                      "@Num": "1",
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "第三十条の規定"
+                      }
+                    },
+                    {
+                      "@LineBreak": "false",
+                      "@Num": "2",
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "平成六年七月一日"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "3",
+                "ItemTitle": "三",
+                "ItemSentence": {
+                  "Column": [
+                    {
+                      "@LineBreak": "false",
+                      "@Num": "1",
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "第十九条の規定"
+                      }
+                    },
+                    {
+                      "@LineBreak": "false",
+                      "@Num": "2",
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "平成六年九月一日"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "4",
+                "ItemTitle": "四",
+                "ItemSentence": {
+                  "Column": [
+                    {
+                      "@LineBreak": "false",
+                      "@Num": "1",
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "第三条、第十八条、第四十四条及び第四十五条の規定"
+                      }
+                    },
+                    {
+                      "@LineBreak": "false",
+                      "@Num": "2",
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "平成六年十月一日"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "5",
+                "ItemTitle": "五",
+                "ItemSentence": {
+                  "Column": [
+                    {
+                      "@LineBreak": "false",
+                      "@Num": "1",
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "第十二条の規定"
+                      }
+                    },
+                    {
+                      "@LineBreak": "false",
+                      "@Num": "2",
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "平成六年十二月一日"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "6",
+                "ItemTitle": "六",
+                "ItemSentence": {
+                  "Column": [
+                    {
+                      "@LineBreak": "false",
+                      "@Num": "1",
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "第三十三条の規定"
+                      }
+                    },
+                    {
+                      "@LineBreak": "false",
+                      "@Num": "2",
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "平成七年四月一日"
+                      }
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        },
+        {
+          "@AmendLawNum": "平成六年三月三〇日運輸省令第一四号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Article": {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "1",
+            "ArticleCaption": "（施行期日）",
+            "ArticleTitle": "第一条",
+            "Paragraph": {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "この省令は、平成六年四月一日から施行する。"
+                }
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成九年三月二一日運輸省令第一五号",
+          "@Extract": "false",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": [
+            {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphCaption": "（施行期日）",
+              "ParagraphNum": "１",
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "この省令は、平成九年四月一日から施行する。"
+                }
+              }
+            },
+            {
+              "@Hide": "false",
+              "@Num": "2",
+              "ParagraphCaption": "（経過措置）",
+              "ParagraphNum": "２",
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "この省令の施行前にした申請に係る手数料に関しては、なお従前の例による。"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@AmendLawNum": "平成九年一二月一五日運輸省令第八三号",
+          "@Extract": "false",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この省令は、平成十年一月一日から施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成一二年三月二二日運輸省令第九号",
+          "@Extract": "false",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": [
+            {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphCaption": "（施行期日）",
+              "ParagraphNum": "１",
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "この省令は、平成十二年四月一日から施行する。"
+                }
+              }
+            },
+            {
+              "@Hide": "false",
+              "@Num": "2",
+              "ParagraphCaption": "（経過措置）",
+              "ParagraphNum": "２",
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "この省令の施行前にした申請に係る手数料に関しては、なお従前の例による。"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@AmendLawNum": "平成一二年一一月二九日運輸省令第三九号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Article": {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "1",
+            "ArticleCaption": "（施行期日）",
+            "ArticleTitle": "第一条",
+            "Paragraph": {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "この省令は、平成十三年一月六日から施行する。"
+                }
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成一四年六月二八日国土交通省令第七九号",
+          "@Extract": "false",
+          "SupplProvisionLabel": "附　則",
+          "Article": [
+            {
+              "@Delete": "false",
+              "@Hide": "false",
+              "@Num": "1",
+              "ArticleCaption": "（施行期日）",
+              "ArticleTitle": "第一条",
+              "Paragraph": {
+                "@Hide": "false",
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "この省令は、平成十四年七月一日から施行する。"
+                  }
+                }
+              }
+            },
+            {
+              "@Delete": "false",
+              "@Hide": "false",
+              "@Num": "2",
+              "ArticleCaption": "（経過措置）",
+              "ArticleTitle": "第二条",
+              "Paragraph": {
+                "@Hide": "false",
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "この省令の施行の際現にあるこの省令による改正前の様式又は書式による申請書、証明書その他の文書は、この省令による改正後のそれぞれの様式又は書式にかかわらず、当分の間、なおこれを使用することができる。"
+                  }
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@AmendLawNum": "平成一五年九月一九日国土交通省令第九三号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Article": {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "1",
+            "ArticleCaption": "（施行期日）",
+            "ArticleTitle": "第一条",
+            "Paragraph": {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "この省令は、平成十五年九月二十七日から施行する。"
+                }
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成一六年三月三一日国土交通省令第三四号",
+          "@Extract": "false",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この省令は、公布の日から施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成一六年一〇月二八日国土交通省令第九三号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Article": [
+            {
+              "@Delete": "false",
+              "@Hide": "false",
+              "@Num": "1",
+              "ArticleCaption": "（施行期日）",
+              "ArticleTitle": "第一条",
+              "Paragraph": {
+                "@Hide": "false",
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": [
+                    {
+                      "@Function": "main",
+                      "@Num": "1",
+                      "@WritingMode": "vertical",
+                      "#text": "この省令は、海洋汚染及び海上災害の防止に関する法律等の一部を改正する法律（以下「改正法」という。）の施行の日から施行する。"
+                    },
+                    {
+                      "@Function": "proviso",
+                      "@Num": "2",
+                      "@WritingMode": "vertical",
+                      "#text": "ただし、附則第二条から第二十三条まで、附則第二十六条から第二十八条まで、附則第三十条、附則第四十七条中国土交通省組織規則（平成十三年国土交通省令第一号）附則第十条の次に次の一条を加える改正規定及び附則第四十八条中地方運輸局組織規則（平成十四年国土交通省令第七十三号）附則第二条から第五条までを削り、同令附則第六条を同令附則第十九条とし、同令附則第七条を同令附則第二十条とし、同令附則第一条の次に次の十七条を加える改正規定は、改正法附則第一条第二号の政令で定める日（平成十六年十一月一日）から施行する。"
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "@Delete": "false",
+              "@Hide": "false",
+              "@Num": "29",
+              "ArticleCaption": "（様式等に係る経過措置）",
+              "ArticleTitle": "第二十九条",
+              "Paragraph": {
+                "@Hide": "false",
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "この省令の施行の際現にある省令による改正前の様式又は書式による申請書、証明書その他の文書は、この省令による改正後のそれぞれの様式又は書式にかかわらず、当分の間、なおこれを使用することができる。"
+                  }
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@AmendLawNum": "平成一七年三月二八日国土交通省令第一九号",
+          "@Extract": "false",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": [
+            {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphCaption": "（施行期日）",
+              "ParagraphNum": "１",
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "この省令は、平成十七年四月一日から施行する。"
+                }
+              }
+            },
+            {
+              "@Hide": "false",
+              "@Num": "2",
+              "ParagraphCaption": "（経過措置）",
+              "ParagraphNum": "２",
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "この省令の施行前にした申請に係る手数料に関しては、なお従前の例による。"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@AmendLawNum": "平成二二年六月二八日国土交通省令第三七号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Article": {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "1",
+            "ArticleCaption": "（施行期日）",
+            "ArticleTitle": "第一条",
+            "Paragraph": {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "この省令は、平成二十二年七月一日から施行する。"
+                }
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成二四年一二月二八日国土交通省令第九一号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Article": {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "1",
+            "ArticleCaption": "（施行期日）",
+            "ArticleTitle": "第一条",
+            "Paragraph": {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "この省令は、平成二十五年一月一日から施行する。"
+                }
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成二九年九月二九日国土交通省令第五六号",
+          "@Type": "Amend",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この省令は、学校教育法の一部を改正する法律の施行の日（平成三十一年四月一日）から施行する。"
+              }
+            }
+          }
+        }
+      ],
+      "AppdxTable": {
+        "AppdxTableTitle": {
+          "@WritingMode": "vertical",
+          "#text": "別表"
+        },
+        "RelatedArticleNum": "（第三十一条関係）",
+        "TableStruct": {
+          "Table": {
+            "@WritingMode": "vertical",
+            "TableRow": [
+              {
+                "TableColumn": {
+                  "@BorderBottom": "solid",
+                  "@BorderLeft": "solid",
+                  "@BorderRight": "solid",
+                  "@BorderTop": "solid",
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "区分"
+                  }
+                }
+              },
+              {
+                "TableColumn": {
+                  "@BorderBottom": "solid",
+                  "@BorderLeft": "solid",
+                  "@BorderRight": "solid",
+                  "@BorderTop": "solid",
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "油水分離器"
+                  }
+                }
+              },
+              {
+                "TableColumn": {
+                  "@BorderBottom": "solid",
+                  "@BorderLeft": "solid",
+                  "@BorderRight": "solid",
+                  "@BorderTop": "solid",
+                  "Sentence": [
+                    {
+                      "@WritingMode": "vertical",
+                      "#text": "ビルジ用濃度監視装置"
+                    },
+                    {
+                      "@WritingMode": "vertical",
+                      "#text": "油分濃度計"
+                    }
+                  ]
+                }
+              },
+              {
+                "TableColumn": {
+                  "@BorderBottom": "solid",
+                  "@BorderLeft": "solid",
+                  "@BorderRight": "solid",
+                  "@BorderTop": "solid",
+                  "Sentence": [
+                    {
+                      "@WritingMode": "vertical",
+                      "#text": "バラスト用濃度監視装置の監視記録装置"
+                    },
+                    {
+                      "@WritingMode": "vertical",
+                      "#text": "バラスト用油排出監視制御装置の監視記録装置"
+                    }
+                  ]
+                }
+              },
+              {
+                "TableColumn": {
+                  "@BorderBottom": "solid",
+                  "@BorderLeft": "solid",
+                  "@BorderRight": "solid",
+                  "@BorderTop": "solid",
+                  "Sentence": [
+                    {
+                      "@WritingMode": "vertical",
+                      "#text": "流量計"
+                    },
+                    {
+                      "@WritingMode": "vertical",
+                      "#text": "船速計"
+                    }
+                  ]
+                }
+              },
+              {
+                "TableColumn": {
+                  "@BorderBottom": "solid",
+                  "@BorderLeft": "solid",
+                  "@BorderRight": "solid",
+                  "@BorderTop": "solid",
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "油水境界面検出器"
+                  }
+                }
+              },
+              {
+                "TableColumn": {
+                  "@BorderBottom": "solid",
+                  "@BorderLeft": "solid",
+                  "@BorderRight": "solid",
+                  "@BorderTop": "solid",
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "洗浄機"
+                  }
+                }
+              },
+              {
+                "TableColumn": {
+                  "@BorderBottom": "solid",
+                  "@BorderLeft": "solid",
+                  "@BorderRight": "solid",
+                  "@BorderTop": "solid",
+                  "Sentence": [
+                    {
+                      "@WritingMode": "vertical",
+                      "#text": "ふん尿等浄化装置"
+                    },
+                    {
+                      "@WritingMode": "vertical",
+                      "#text": "ふん尿等処理装置"
+                    }
+                  ]
+                }
+              },
+              {
+                "TableColumn": {
+                  "@BorderBottom": "solid",
+                  "@BorderLeft": "solid",
+                  "@BorderRight": "solid",
+                  "@BorderTop": "solid",
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "液面計測装置"
+                  }
+                }
+              },
+              {
+                "TableColumn": {
+                  "@BorderBottom": "solid",
+                  "@BorderLeft": "solid",
+                  "@BorderRight": "solid",
+                  "@BorderTop": "solid",
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "圧力計測装置"
+                  }
+                }
+              },
+              {
+                "TableColumn": {
+                  "@BorderBottom": "solid",
+                  "@BorderLeft": "solid",
+                  "@BorderRight": "solid",
+                  "@BorderTop": "solid",
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "高位液面警報装置"
+                  }
+                }
+              },
+              {
+                "TableColumn": {
+                  "@BorderBottom": "solid",
+                  "@BorderLeft": "solid",
+                  "@BorderRight": "solid",
+                  "@BorderTop": "solid",
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "通気装置"
+                  }
+                }
+              },
+              {
+                "TableColumn": {
+                  "@BorderBottom": "solid",
+                  "@BorderLeft": "solid",
+                  "@BorderRight": "solid",
+                  "@BorderTop": "solid",
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "船舶発生油等焼却設備"
+                  }
+                }
+              }
+            ]
+          }
+        }
+      },
+      "AppdxStyle": [
+        {
+          "AppdxStyleTitle": {
+            "@WritingMode": "vertical",
+            "#text": "第一号様式"
+          },
+          "RelatedArticleNum": "（第四条、第二十条関係）",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/S58F03901000040-001.pdf"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": {
+            "@WritingMode": "vertical",
+            "#text": "第二号様式"
+          },
+          "RelatedArticleNum": "（第六条関係）",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/S58F03901000040-002.pdf"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": {
+            "@WritingMode": "vertical",
+            "#text": "第三号様式"
+          },
+          "RelatedArticleNum": "（第六条関係）",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/S58F03901000040-003.pdf"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": {
+            "@WritingMode": "vertical",
+            "#text": "第四号様式"
+          },
+          "RelatedArticleNum": "（第八条関係）",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/S58F03901000040-004.pdf"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": {
+            "@WritingMode": "vertical",
+            "#text": "第五号様式"
+          },
+          "RelatedArticleNum": "（第八条関係）",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/S58F03901000040-005.pdf"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": {
+            "@WritingMode": "vertical",
+            "#text": "第六号様式"
+          },
+          "RelatedArticleNum": "（第八条関係）",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/S58F03901000040-006.pdf"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": {
+            "@WritingMode": "vertical",
+            "#text": "第七号様式"
+          },
+          "RelatedArticleNum": "（第十三条関係）",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/S58F03901000040-007.pdf"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": {
+            "@WritingMode": "vertical",
+            "#text": "第八号様式"
+          },
+          "RelatedArticleNum": "（第十四条関係）",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/S58F03901000040-008.pdf"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": {
+            "@WritingMode": "vertical",
+            "#text": "第九号様式"
+          },
+          "RelatedArticleNum": "（第二十二条関係）",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/S58F03901000040-009.pdf"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": {
+            "@WritingMode": "vertical",
+            "#text": "第十号様式"
+          },
+          "RelatedArticleNum": "（第二十四条関係）",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/S58F03901000040-010.pdf"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": {
+            "@WritingMode": "vertical",
+            "#text": "第十一号様式"
+          },
+          "RelatedArticleNum": "（第二十四条関係）",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/S58F03901000040-011.pdf"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": {
+            "@WritingMode": "vertical",
+            "#text": "第十二号様式"
+          },
+          "RelatedArticleNum": "（第二十八条の二関係）",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/S58F03901000040-012.pdf"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": {
+            "@WritingMode": "vertical",
+            "#text": "第十三号様式"
+          },
+          "RelatedArticleNum": "（第三十一条関係）",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/S58F03901000040-013.pdf"
+              }
+            }
+          }
+        }
+      ]
+    }
+  }
+}

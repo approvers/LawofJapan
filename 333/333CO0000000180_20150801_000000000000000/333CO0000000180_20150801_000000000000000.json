@@ -1,0 +1,352 @@
+{
+  "Law": {
+    "@Era": "Showa",
+    "@Lang": "ja",
+    "@LawType": "CabinetOrder",
+    "@Num": "180",
+    "@Year": "33",
+    "LawNum": "昭和三十三年政令第百八十号",
+    "LawBody": {
+      "LawTitle": "電話加入権質に関する臨時特例法施行令",
+      "EnactStatement": "内閣は、電話加入権質に関する臨時特例法（昭和三十三年法律第百三十八号）第二条、第五条第二項及び第十三条の規定に基き、この政令を制定する。",
+      "MainProvision": {
+        "Article": [
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "1",
+            "ArticleCaption": "（質権者の範囲）",
+            "ArticleTitle": "第一条",
+            "Paragraph": {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "電話加入権質に関する臨時特例法（以下「法」という。）第二条の政令で定める金融機関は、銀行（日本銀行を除く。）及び労働金庫とする。"
+                }
+              }
+            }
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "2",
+            "ArticleCaption": "（電話加入権質原簿）",
+            "ArticleTitle": "第二条",
+            "Paragraph": [
+              {
+                "@Hide": "false",
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "電話加入権に係る契約に関する事務を取り扱う電話取扱局に、法第五条第一項の原簿として電話加入権質原簿を備える。"
+                  }
+                }
+              },
+              {
+                "@Hide": "false",
+                "@Num": "2",
+                "ParagraphNum": "２",
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "電話加入権質原簿は、登録の請求書をつづつて調製し、つづつた請求書を登録用紙とする。"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "3",
+            "ArticleCaption": "（質権の登録）",
+            "ArticleTitle": "第三条",
+            "Paragraph": {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "電話加入権質原簿への登録は、電話加入権を目的とする質権の設定、変更、移転又は消滅について行う。"
+                }
+              }
+            }
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "4",
+            "ArticleCaption": "（管轄電話取扱局）",
+            "ArticleTitle": "第四条",
+            "Paragraph": {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "電話加入権質原簿への登録に関する事務は、当該電話加入権に係る契約に関する事務を取り扱う電話取扱局が取り扱う。"
+                }
+              }
+            }
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "5",
+            "ArticleCaption": "（登録請求書の記載事項）",
+            "ArticleTitle": "第五条",
+            "Paragraph": [
+              {
+                "@Hide": "false",
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "登録の請求書には、次の各号に掲げる事項を記載しなければならない。"
+                  }
+                },
+                "Item": [
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "1",
+                    "ItemTitle": "一",
+                    "ItemSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "当該電話加入権に係る電話の電話番号"
+                      }
+                    }
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "2",
+                    "ItemTitle": "二",
+                    "ItemSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "請求者の氏名又は名称及び住所"
+                      }
+                    }
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "3",
+                    "ItemTitle": "三",
+                    "ItemSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "登録の原因及びその日附"
+                      }
+                    }
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "4",
+                    "ItemTitle": "四",
+                    "ItemSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "登録の目的"
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "@Hide": "false",
+                "@Num": "2",
+                "ParagraphNum": "２",
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "前項の請求書が質権の設定の登録に係るものであるときは、同項に掲げる事項のほか、次の各号に掲げる事項を記載しなければならない。"
+                  }
+                },
+                "Item": [
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "1",
+                    "ItemTitle": "一",
+                    "ItemSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "債権の額（質権が一定の金額を目的としない債権を担保するものであるときは、その限度額）"
+                      }
+                    }
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "2",
+                    "ItemTitle": "二",
+                    "ItemSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "登録の原因に弁済期、利息、違約金又は賠償額その他の定があるときは、その定"
+                      }
+                    }
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "3",
+                    "ItemTitle": "三",
+                    "ItemSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "質権設定者が債務者でないときは、その債務者の氏名又は名称及び住所"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "6",
+            "ArticleCaption": "（登録の方法）",
+            "ArticleTitle": "第六条",
+            "Paragraph": {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "登録は、電話加入権質原簿に登録請求書をつづり、これに登録を証する印を押してするものとする。"
+                }
+              }
+            }
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "7",
+            "ArticleCaption": "（電話加入権質原簿の閲覧）",
+            "ArticleTitle": "第七条",
+            "Paragraph": {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "利害関係人は、電話加入権質原簿の利害関係のある部分の閲覧を請求することができる。"
+                }
+              }
+            }
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "8",
+            "ArticleCaption": "（総務省令への委任）",
+            "ArticleTitle": "第八条",
+            "Paragraph": {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "法及びこの政令で定めるもののほか、電話加入権質原簿及びその登録に関して必要な事項は、総務省令で定める。"
+                }
+              }
+            }
+          }
+        ]
+      },
+      "SupplProvision": [
+        {
+          "@Extract": "false",
+          "@Type": "New",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この政令は、法の施行の日から施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "昭和五八年三月二九日政令第三八号",
+          "@Extract": "false",
+          "@Type": "Amend",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この政令は、公布の日から施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "昭和六〇年三月一五日政令第三一号",
+          "@Extract": "true",
+          "@Type": "Amend",
+          "SupplProvisionLabel": "附　則",
+          "Article": {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "1",
+            "ArticleCaption": "（施行期日）",
+            "ArticleTitle": "第一条",
+            "Paragraph": {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "この政令は、昭和六十年四月一日から施行する。"
+                }
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成一二年六月七日政令第三〇四号",
+          "@Extract": "true",
+          "@Type": "Amend",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphNum": "１",
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この政令は、内閣法の一部を改正する法律（平成十一年法律第八十八号）の施行の日（平成十三年一月六日）から施行する。"
+              }
+            }
+          }
+        }
+      ]
+    }
+  }
+}

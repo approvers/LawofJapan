@@ -1,0 +1,91 @@
+{
+  "Law": {
+    "@Era": "Showa",
+    "@Lang": "ja",
+    "@LawType": "MinisterialOrdinance",
+    "@Num": "19",
+    "@Year": "39",
+    "LawNum": "昭和三十九年厚生省令第十九号",
+    "LawBody": {
+      "LawTitle": "国立ハンセン病療養所名誉所長の称号の授与に関する省令",
+      "EnactStatement": "国立病院名誉院長及び国立療養所名誉所長の称号の授与に関する省令を次のように定める。",
+      "MainProvision": {
+        "Paragraph": {
+          "@Num": "1",
+          "ParagraphNum": null,
+          "ParagraphSentence": {
+            "Sentence": "厚生労働大臣は、国立ハンセン病療養所に所長として多年勤務した者であって、国立ハンセン病療養所の運営について功績のあったものに対し、別に定めるところにより、名誉所長の称号を授与することができる。"
+          }
+        }
+      },
+      "SupplProvision": [
+        {
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この省令は、公布の日から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成一三年二月二六日厚生労働省令第一六号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この省令は、平成十三年二月二十八日から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成一六年三月三一日厚生労働省令第七七号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Article": {
+            "@Num": "1",
+            "ArticleCaption": "（施行期日）",
+            "ArticleTitle": "第一条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": [
+                  {
+                    "@Function": "main",
+                    "@Num": "1",
+                    "#text": "この省令は、公布の日から施行する。"
+                  },
+                  {
+                    "@Function": "proviso",
+                    "@Num": "2",
+                    "#text": "ただし、附則第八条から第十八条までの規定は、平成十六年四月一日から施行する。"
+                  }
+                ]
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成二二年三月三一日厚生労働省令第三八号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Article": {
+            "@Num": "1",
+            "ArticleCaption": "（施行期日）",
+            "ArticleTitle": "第一条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "この省令は、平成二十二年四月一日から施行する。"
+              }
+            }
+          }
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,714 @@
+{
+  "Law": {
+    "@Era": "Showa",
+    "@Lang": "ja",
+    "@LawType": "MinisterialOrdinance",
+    "@Num": "13",
+    "@Year": "62",
+    "LawNum": "昭和六十二年運輸省令第十三号",
+    "LawBody": {
+      "LawTitle": "鉄道係員職制",
+      "EnactStatement": "鉄道営業法（明治三十三年法律第六十五号）第十九条の規定に基づき、地方鉄道係員職制（大正八年閣令第十三号）の全部を改正する省令を次のように定める。",
+      "TOC": {
+        "TOCLabel": "目次",
+        "TOCChapter": [
+          {
+            "@Num": "1",
+            "ChapterTitle": "第一章　総則",
+            "ArticleRange": "（第一条）"
+          },
+          {
+            "@Num": "2",
+            "ChapterTitle": "第二章　運輸係員",
+            "ArticleRange": "（第二条―第十二条）"
+          },
+          {
+            "@Num": "3",
+            "ChapterTitle": "第三章　工務係員",
+            "ArticleRange": "（第十三条―第十八条）"
+          },
+          {
+            "@Num": "4",
+            "ChapterTitle": "第四章　電気係員",
+            "ArticleRange": "（第十九条―第二十九条）"
+          },
+          {
+            "@Num": "5",
+            "ChapterTitle": "第五章　車両係員",
+            "ArticleRange": "（第三十条―第三十五条）"
+          }
+        ],
+        "TOCSupplProvision": {
+          "SupplProvisionLabel": "附則"
+        }
+      },
+      "MainProvision": {
+        "Chapter": [
+          {
+            "@Num": "1",
+            "ChapterTitle": "第一章　総則",
+            "Article": {
+              "@Num": "1",
+              "ArticleCaption": "（趣旨）",
+              "ArticleTitle": "第一条",
+              "Paragraph": {
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": [
+                    {
+                      "@Function": "main",
+                      "@Num": "1",
+                      "#text": "鉄道営業法第十九条の規定による鉄道係員の職制については、この省令の定めるところによる。"
+                    },
+                    {
+                      "@Function": "proviso",
+                      "@Num": "2",
+                      "#text": "ただし、鉄道の状況に応じ必要がある場合には、別にその職制を定めることができる。"
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          {
+            "@Num": "2",
+            "ChapterTitle": "第二章　運輸係員",
+            "Article": [
+              {
+                "@Num": "2",
+                "ArticleCaption": "（運輸係員の職制）",
+                "ArticleTitle": "第二条",
+                "Paragraph": [
+                  {
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": "鉄道に、次の運輸に関する業務を行う係員又はこれに相当する係員（以下「運輸係員」という。）を置く。"
+                    },
+                    "List": [
+                      {
+                        "ListSentence": {
+                          "Sentence": "運輸長"
+                        }
+                      },
+                      {
+                        "ListSentence": {
+                          "Sentence": "駅長"
+                        }
+                      },
+                      {
+                        "ListSentence": {
+                          "Sentence": "営業係"
+                        }
+                      },
+                      {
+                        "ListSentence": {
+                          "Sentence": "構内係"
+                        }
+                      },
+                      {
+                        "ListSentence": {
+                          "Sentence": "踏切保安係"
+                        }
+                      },
+                      {
+                        "ListSentence": {
+                          "Sentence": "運転区長"
+                        }
+                      },
+                      {
+                        "ListSentence": {
+                          "Sentence": "運転士"
+                        }
+                      },
+                      {
+                        "ListSentence": {
+                          "Sentence": "車掌区長"
+                        }
+                      },
+                      {
+                        "ListSentence": {
+                          "Sentence": "車掌"
+                        }
+                      },
+                      {
+                        "ListSentence": {
+                          "Sentence": "運転指令"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": "前項に規定する係員は、その職務の状況により、二以上の運輸係員の職務を兼ねることができる。"
+                    }
+                  }
+                ]
+              },
+              {
+                "@Num": "3",
+                "ArticleCaption": "（運輸長の職務）",
+                "ArticleTitle": "第三条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "運輸長は、運輸に関する業務を掌理し、他の運輸係員を監督する。"
+                  }
+                }
+              },
+              {
+                "@Num": "4",
+                "ArticleCaption": "（駅長の職務）",
+                "ArticleTitle": "第四条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "駅長は、運輸長の命を受け、駅務を統括し、構内の秩序を保持し、その所属係員を監督する。"
+                  }
+                }
+              },
+              {
+                "@Num": "5",
+                "ArticleCaption": "（営業係の職務）",
+                "ArticleTitle": "第五条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "営業係は、駅長の命を受け、乗車券の発売、検査及び取集、旅客の誘導及び案内並びに荷物の取扱いの業務に従事する。"
+                  }
+                }
+              },
+              {
+                "@Num": "6",
+                "ArticleCaption": "（構内係の職務）",
+                "ArticleTitle": "第六条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "構内係は、駅長の命を受け、信号機及び転てつ器の取扱い並びに車両の入換えの業務に従事する。"
+                  }
+                }
+              },
+              {
+                "@Num": "7",
+                "ArticleCaption": "（踏切保安係の職務）",
+                "ArticleTitle": "第七条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "踏切保安係は、駅長の命を受け、踏切の監視の業務に従事する。"
+                  }
+                }
+              },
+              {
+                "@Num": "8",
+                "ArticleCaption": "（運転区長の職務）",
+                "ArticleTitle": "第八条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "運転区長は、運輸長の命を受け、列車の運転の業務を統括し、その所属係員を監督する。"
+                  }
+                }
+              },
+              {
+                "@Num": "9",
+                "ArticleCaption": "（運転士の職務）",
+                "ArticleTitle": "第九条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "運転士は、運転区長の命を受け、列車の運転の業務に従事する。"
+                  }
+                }
+              },
+              {
+                "@Num": "10",
+                "ArticleCaption": "（車掌区長の職務）",
+                "ArticleTitle": "第十条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "車掌区長は、運輸長の命を受け、列車の運転取扱い、旅客及び荷物の輸送並びに車内の秩序保持の業務を統括し、その所属係員を監督する。"
+                  }
+                }
+              },
+              {
+                "@Num": "11",
+                "ArticleCaption": "（車掌の職務）",
+                "ArticleTitle": "第十一条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "車掌は、車掌区長の命を受け、列車の運転取扱い、旅客及び荷物の輸送並びに車内の秩序保持の業務に従事する。"
+                  }
+                }
+              },
+              {
+                "@Num": "12",
+                "ArticleCaption": "（運転指令の職務）",
+                "ArticleTitle": "第十二条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "運転指令は、運輸長の命を受け、列車の運転の整理に関する業務を行う。"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "@Num": "3",
+            "ChapterTitle": "第三章　工務係員",
+            "Article": [
+              {
+                "@Num": "13",
+                "ArticleCaption": "（工務係員の職制）",
+                "ArticleTitle": "第十三条",
+                "Paragraph": [
+                  {
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": "鉄道に、次の工務に関する業務を行う係員又はこれに相当する係員（以下「工務係員」という。）を置く。"
+                    },
+                    "List": [
+                      {
+                        "ListSentence": {
+                          "Sentence": "工務長"
+                        }
+                      },
+                      {
+                        "ListSentence": {
+                          "Sentence": "保線区長"
+                        }
+                      },
+                      {
+                        "ListSentence": {
+                          "Sentence": "保線係"
+                        }
+                      },
+                      {
+                        "ListSentence": {
+                          "Sentence": "営繕区長"
+                        }
+                      },
+                      {
+                        "ListSentence": {
+                          "Sentence": "営繕係"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": "第二条第二項の規定は、工務係員について準用する。"
+                    }
+                  }
+                ]
+              },
+              {
+                "@Num": "14",
+                "ArticleCaption": "（工務長の職務）",
+                "ArticleTitle": "第十四条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "工務長は、工務に関する業務を掌理し、他の工務係員を監督する。"
+                  }
+                }
+              },
+              {
+                "@Num": "15",
+                "ArticleCaption": "（保線区長の職務）",
+                "ArticleTitle": "第十五条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "保線区長は、工務長の命を受け、線路の保守の業務を統括し、その所属係員を監督する。"
+                  }
+                }
+              },
+              {
+                "@Num": "16",
+                "ArticleCaption": "（保線係の職務）",
+                "ArticleTitle": "第十六条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "保線係は、保線区長の命を受け、線路の保守の業務に従事する。"
+                  }
+                }
+              },
+              {
+                "@Num": "17",
+                "ArticleCaption": "（営繕区長の職務）",
+                "ArticleTitle": "第十七条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "営繕区長は、工務長の命を受け、線路及び電気施設以外の鉄道事業の用に供する施設の保守の業務を統括し、その所属係員を監督する。"
+                  }
+                }
+              },
+              {
+                "@Num": "18",
+                "ArticleCaption": "（営繕係の職務）",
+                "ArticleTitle": "第十八条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "営繕係は、営繕区長の命を受け、線路及び電気施設以外の鉄道事業の用に供する施設の保守の業務に従事する。"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "@Num": "4",
+            "ChapterTitle": "第四章　電気係員",
+            "Article": [
+              {
+                "@Num": "19",
+                "ArticleCaption": "（電気係員の職制）",
+                "ArticleTitle": "第十九条",
+                "Paragraph": [
+                  {
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": "鉄道に、次の電気に関する業務を行う係員又はこれに相当する係員（以下「電気係員」という。）を置く。"
+                    },
+                    "List": [
+                      {
+                        "ListSentence": {
+                          "Sentence": "電気長"
+                        }
+                      },
+                      {
+                        "ListSentence": {
+                          "Sentence": "変電区長"
+                        }
+                      },
+                      {
+                        "ListSentence": {
+                          "Sentence": "変電係"
+                        }
+                      },
+                      {
+                        "ListSentence": {
+                          "Sentence": "電路区長"
+                        }
+                      },
+                      {
+                        "ListSentence": {
+                          "Sentence": "電路係"
+                        }
+                      },
+                      {
+                        "ListSentence": {
+                          "Sentence": "信号区長"
+                        }
+                      },
+                      {
+                        "ListSentence": {
+                          "Sentence": "信号係"
+                        }
+                      },
+                      {
+                        "ListSentence": {
+                          "Sentence": "通信区長"
+                        }
+                      },
+                      {
+                        "ListSentence": {
+                          "Sentence": "通信係"
+                        }
+                      },
+                      {
+                        "ListSentence": {
+                          "Sentence": "電力指令"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": "第二条第二項の規定は、電気係員について準用する。"
+                    }
+                  }
+                ]
+              },
+              {
+                "@Num": "20",
+                "ArticleCaption": "（電気長の職務）",
+                "ArticleTitle": "第二十条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "電気長は、電気に関する業務を掌理し、他の電気係員を監督する。"
+                  }
+                }
+              },
+              {
+                "@Num": "21",
+                "ArticleCaption": "（変電区長の職務）",
+                "ArticleTitle": "第二十一条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "変電区長は、電気長の命を受け、変電所等設備の保守の業務を統括し、その所属係員を監督する。"
+                  }
+                }
+              },
+              {
+                "@Num": "22",
+                "ArticleCaption": "（変電係の職務）",
+                "ArticleTitle": "第二十二条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "変電係は、変電区長の命を受け、変電所等設備の保守の業務に従事する。"
+                  }
+                }
+              },
+              {
+                "@Num": "23",
+                "ArticleCaption": "（電路区長の職務）",
+                "ArticleTitle": "第二十三条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "電路区長は、電気長の命を受け、電路設備の保守の業務を統括し、その所属係員を監督する。"
+                  }
+                }
+              },
+              {
+                "@Num": "24",
+                "ArticleCaption": "（電路係の職務）",
+                "ArticleTitle": "第二十四条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "電路係は、電路区長の命を受け、電路設備の保守の業務に従事する。"
+                  }
+                }
+              },
+              {
+                "@Num": "25",
+                "ArticleCaption": "（信号区長の職務）",
+                "ArticleTitle": "第二十五条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "信号区長は、電気長の命を受け、信号保安設備の保守の業務を統括し、その所属係員を監督する。"
+                  }
+                }
+              },
+              {
+                "@Num": "26",
+                "ArticleCaption": "（信号係の職務）",
+                "ArticleTitle": "第二十六条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "信号係は、信号区長の命を受け、信号保安設備の保守の業務に従事する。"
+                  }
+                }
+              },
+              {
+                "@Num": "27",
+                "ArticleCaption": "（通信区長の職務）",
+                "ArticleTitle": "第二十七条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "通信区長は、電気長の命を受け、保安通信設備の保守の業務を統括し、その所属係員を監督する。"
+                  }
+                }
+              },
+              {
+                "@Num": "28",
+                "ArticleCaption": "（通信係の職務）",
+                "ArticleTitle": "第二十八条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "通信係は、通信区長の命を受け、保安通信設備の保守の業務に従事する。"
+                  }
+                }
+              },
+              {
+                "@Num": "29",
+                "ArticleCaption": "（電力指令の職務）",
+                "ArticleTitle": "第二十九条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "電力指令は、電気長の命を受け、鉄道事業の運営に要する電力の供給に関する業務を行う。"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "@Num": "5",
+            "ChapterTitle": "第五章　車両係員",
+            "Article": [
+              {
+                "@Num": "30",
+                "ArticleCaption": "（車両係員の職制）",
+                "ArticleTitle": "第三十条",
+                "Paragraph": [
+                  {
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": "鉄道に、次の車両に関する業務を行う係員又はこれに相当する係員（以下「車両係員」という。）を置く。"
+                    },
+                    "List": [
+                      {
+                        "ListSentence": {
+                          "Sentence": "車両長"
+                        }
+                      },
+                      {
+                        "ListSentence": {
+                          "Sentence": "検車区長"
+                        }
+                      },
+                      {
+                        "ListSentence": {
+                          "Sentence": "検車係"
+                        }
+                      },
+                      {
+                        "ListSentence": {
+                          "Sentence": "工場長"
+                        }
+                      },
+                      {
+                        "ListSentence": {
+                          "Sentence": "修車係"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": "第二条第二項の規定は、車両係員について準用する。"
+                    }
+                  }
+                ]
+              },
+              {
+                "@Num": "31",
+                "ArticleCaption": "（車両長の職務）",
+                "ArticleTitle": "第三十一条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "車両長は、車両に関する業務を掌理し、他の車両係員を監督する。"
+                  }
+                }
+              },
+              {
+                "@Num": "32",
+                "ArticleCaption": "（検車区長の職務）",
+                "ArticleTitle": "第三十二条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "検車区長は、車両長の命を受け、車両の点検の業務を統括し、その所属係員を監督する。"
+                  }
+                }
+              },
+              {
+                "@Num": "33",
+                "ArticleCaption": "（検車係の職務）",
+                "ArticleTitle": "第三十三条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "検車係は、検車区長の命を受け、車両の点検の業務に従事する。"
+                  }
+                }
+              },
+              {
+                "@Num": "34",
+                "ArticleCaption": "（工場長の職務）",
+                "ArticleTitle": "第三十四条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "工場長は、車両長の命を受け、車両の検修の業務を統括し、その所属係員を監督する。"
+                  }
+                }
+              },
+              {
+                "@Num": "35",
+                "ArticleCaption": "（修車係の職務）",
+                "ArticleTitle": "第三十五条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "修車係は、工場長の命を受け、車両の検修の業務に従事する。"
+                  }
+                }
+              }
+            ]
+          }
+        ]
+      },
+      "SupplProvision": {
+        "SupplProvisionLabel": "附　則",
+        "Paragraph": {
+          "@Num": "1",
+          "ParagraphNum": null,
+          "ParagraphSentence": {
+            "Sentence": "この省令は、昭和六十二年四月一日から施行する。"
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,531 @@
+{
+  "Law": {
+    "@Era": "Showa",
+    "@Lang": "ja",
+    "@LawType": "MinisterialOrdinance",
+    "@Num": "001",
+    "@Year": "52",
+    "LawNum": "昭和五十二年総理府・大蔵省・文部省・厚生省・農林省・通商産業省・運輸省・郵政省・建設省令第一号",
+    "LawBody": {
+      "LawTitle": "中小企業の事業活動の機会の確保のための大企業者の事業活動の調整に関する法律施行規則",
+      "EnactStatement": "中小企業の事業活動の機会の確保のための大企業者の事業活動の調整に関する法律（昭和五十二年法律第七十四号）第二条第二項第二号、第五条第一項、第六条第一項及び第八条（第十一条第三項において準用する場合を含む。）の規定に基づき、中小企業の事業活動の機会の確保のための大企業者の事業活動の調整に関する法律施行規則を次のように制定する。",
+      "MainProvision": {
+        "Article": [
+          {
+            "@Num": "1",
+            "ArticleCaption": "（用語）",
+            "ArticleTitle": "第一条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "この命令において使用する用語は、中小企業の事業活動の機会の確保のための大企業者の事業活動の調整に関する法律（以下「法」という。）において使用する用語の例による。"
+              }
+            }
+          },
+          {
+            "@Num": "2",
+            "ArticleCaption": "（実質的支配が可能な関係）",
+            "ArticleTitle": "第二条",
+            "Paragraph": [
+              {
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": "法第二条第二項第二号の主務省令で定める関係は、同項第一号に掲げる者がその会社に対し単独で持つ場合にあつては、次の各号に掲げるものとする。"
+                },
+                "Item": [
+                  {
+                    "@Num": "1",
+                    "ItemTitle": "一",
+                    "ItemSentence": {
+                      "Sentence": "役員の総数の二分の一以上をその者の役員又は職員が兼ねる関係"
+                    }
+                  },
+                  {
+                    "@Num": "2",
+                    "ItemTitle": "二",
+                    "ItemSentence": {
+                      "Sentence": "総株主又は総社員の議決権の四分の一以上二分の一未満に相当する議決権を有し、かつ、次のイ又はロに該当することによりその事業活動を実質的に支配することが可能なものとして主務大臣が審査して認める関係"
+                    },
+                    "Subitem1": [
+                      {
+                        "@Num": "1",
+                        "Subitem1Title": "イ",
+                        "Subitem1Sentence": {
+                          "Sentence": "その者が有するその会社の議決権がその者以外のいずれの一の者が有するその会社の議決権をも下回つていないこと。"
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "Subitem1Title": "ロ",
+                        "Subitem1Sentence": {
+                          "Sentence": [
+                            {
+                              "@Num": "1",
+                              "#text": "その者の役員若しくは職員であつた者又は役員若しくは職員である者が役員の総数の四分の一以上を占めていること。"
+                            },
+                            {
+                              "@Num": "2",
+                              "#text": "（前号に掲げる場合を除く。）"
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Num": "3",
+                    "ItemTitle": "三",
+                    "ItemSentence": {
+                      "Sentence": "次のイ又はロに掲げる会社に対する関係"
+                    },
+                    "Subitem1": [
+                      {
+                        "@Num": "1",
+                        "Subitem1Title": "イ",
+                        "Subitem1Sentence": {
+                          "Sentence": "その者が単独で、その総株主又は総社員の議決権の二分の一以上に相当する議決権を有する関係又は第一号若しくは前号に掲げる関係（以下この号において「直接支配関係」という。）を持つている会社が単独又は共同で直接支配関係を持つている会社"
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "Subitem1Title": "ロ",
+                        "Subitem1Sentence": {
+                          "Sentence": "その者及びその者が単独で直接支配関係を持つている会社が共同で直接支配関係を持つている会社"
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "@Num": "2",
+                "ParagraphNum": "２",
+                "ParagraphSentence": {
+                  "Sentence": "法第二条第二項第二号の主務省令で定める関係は、同項第一号に掲げる者がその会社に対し共同で持つ場合にあつては、次の各号の一に該当することによりその事業活動を実質的に支配することが可能なものとして主務大臣が審査して認める関係とする。"
+                },
+                "Item": [
+                  {
+                    "@Num": "1",
+                    "ItemTitle": "一",
+                    "ItemSentence": {
+                      "Sentence": "総株主又は総社員の議決権の二分の一以上に相当する議決権を有していること。"
+                    }
+                  },
+                  {
+                    "@Num": "2",
+                    "ItemTitle": "二",
+                    "ItemSentence": {
+                      "Sentence": "役員の総数の二分の一以上をそれらの者の役員又は職員が兼ねていること。"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "@Num": "3",
+            "ArticleCaption": "（調査の申出）",
+            "ArticleTitle": "第三条",
+            "Paragraph": [
+              {
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": "法第五条第一項の規定による申出をしようとする中小企業団体（以下「団体」という。）は、次の表の上欄に掲げる区分に従つて、同表の中欄に掲げる行政庁を経由し、様式第一による申出書一通及び同表の下欄に掲げる部数のその写しを主務大臣に提出しなければならない。"
+                },
+                "TableStruct": {
+                  "Table": {
+                    "TableRow": [
+                      {
+                        "TableColumn": [
+                          {
+                            "@colspan": "2",
+                            "Sentence": "団体の区分"
+                          },
+                          {
+                            "Sentence": "経由行政庁"
+                          },
+                          {
+                            "Sentence": "提出部数"
+                          }
+                        ]
+                      },
+                      {
+                        "TableColumn": [
+                          {
+                            "Sentence": "一"
+                          },
+                          {
+                            "Sentence": "その地区が都道府県の区域を超えない団体"
+                          },
+                          {
+                            "Sentence": "主たる事務所の所在地を管轄する都道府県知事"
+                          },
+                          {
+                            "Sentence": "写し四通（主務大臣が厚生労働大臣であるときは三通）"
+                          }
+                        ]
+                      },
+                      {
+                        "TableColumn": [
+                          {
+                            "Sentence": "二"
+                          },
+                          {
+                            "Sentence": "その地区が都道府県の区域を超え、主務官庁の地方支分部局の管轄区域を超えない団体（主務大臣が厚生労働大臣であるものを除く。）"
+                          },
+                          {
+                            "Sentence": "主たる事務所の所在地を管轄する主務官庁の地方支分部局の長"
+                          },
+                          {
+                            "Sentence": "写し三通"
+                          }
+                        ]
+                      },
+                      {
+                        "TableColumn": [
+                          {
+                            "Sentence": "三"
+                          },
+                          {
+                            "Sentence": "前二号に掲げる団体以外の団体"
+                          },
+                          {
+                            "Sentence": "主務大臣が定めた場合にあつてはその行政庁"
+                          },
+                          {
+                            "Sentence": "写し二通（主務大臣がこれと異なる部数を定めたときはその部数）"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                }
+              },
+              {
+                "@Num": "2",
+                "ParagraphNum": "２",
+                "ParagraphSentence": {
+                  "Sentence": "前項の申出書及びその写しには、次の書類を添付しなければならない。"
+                },
+                "Item": [
+                  {
+                    "@Num": "1",
+                    "ItemTitle": "一",
+                    "ItemSentence": {
+                      "Sentence": "団体の定款、団体の構成員の名簿その他の書類であつて、法第五条第一項に規定する中小企業団体の要件に該当することを証するもの"
+                    }
+                  },
+                  {
+                    "@Num": "2",
+                    "ItemTitle": "二",
+                    "ItemSentence": {
+                      "Sentence": "法第五条第一項に規定する事業の開始又は拡大の計画を有していると認める理由を記載した書面"
+                    }
+                  },
+                  {
+                    "@Num": "3",
+                    "ItemTitle": "三",
+                    "ItemSentence": {
+                      "Sentence": "法第五条第一項の規定による申出が団体の正式決定を経て行われたものであることを証する書面"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "@Num": "4",
+            "ArticleCaption": "（調査事項）",
+            "ArticleTitle": "第四条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "法第五条第一項の主務省令で定める事項は、次のとおりとする。"
+              },
+              "Item": [
+                {
+                  "@Num": "1",
+                  "ItemTitle": "一",
+                  "ItemSentence": {
+                    "Sentence": "法第五条第一項に規定する計画（以下この条において「計画」という。）に係る事業の開始又は拡大の時期"
+                  }
+                },
+                {
+                  "@Num": "2",
+                  "ItemTitle": "二",
+                  "ItemSentence": {
+                    "Sentence": "計画に係る事業の規模"
+                  }
+                },
+                {
+                  "@Num": "3",
+                  "ItemTitle": "三",
+                  "ItemSentence": {
+                    "Sentence": "計画に係る事業の目的物たる物品の種類又は目的たる役務の内容"
+                  }
+                },
+                {
+                  "@Num": "4",
+                  "ItemTitle": "四",
+                  "ItemSentence": {
+                    "Sentence": "計画に係る事業所の所在地及び事業の目的物たる物品又は目的たる役務の主たる供給地域"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "@Num": "5",
+            "ArticleCaption": "（調整の申出）",
+            "ArticleTitle": "第五条",
+            "Paragraph": [
+              {
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": "法第六条第一項の規定による申出をしようとする団体は、次の表の上欄に掲げる区分に従つて、同表の中欄に掲げる行政庁を経由し、様式第二による申出書一通及び同表の下欄に掲げる部数のその写しを主務大臣に提出しなければならない。"
+                },
+                "TableStruct": {
+                  "Table": {
+                    "TableRow": [
+                      {
+                        "TableColumn": [
+                          {
+                            "@colspan": "2",
+                            "Sentence": "団体の区分"
+                          },
+                          {
+                            "Sentence": "経由行政庁"
+                          },
+                          {
+                            "Sentence": "提出部数"
+                          }
+                        ]
+                      },
+                      {
+                        "TableColumn": [
+                          {
+                            "Sentence": "一"
+                          },
+                          {
+                            "Sentence": "その地区が都道府県の区域を超えない団体"
+                          },
+                          {
+                            "Sentence": "主たる事務所の所在地を管轄する都道府県知事"
+                          },
+                          {
+                            "Sentence": "写し四通（主務大臣が厚生労働大臣であるときは三通）"
+                          }
+                        ]
+                      },
+                      {
+                        "TableColumn": [
+                          {
+                            "Sentence": "二"
+                          },
+                          {
+                            "Sentence": "その地区が都道府県の区域を超え、主務官庁の地方支分部局の管轄区域を超えない団体（主務大臣が厚生労働大臣であるものを除く。）"
+                          },
+                          {
+                            "Sentence": "主たる事務所の所在地を管轄する主務官庁の地方支分部局の長"
+                          },
+                          {
+                            "Sentence": "写し三通"
+                          }
+                        ]
+                      },
+                      {
+                        "TableColumn": [
+                          {
+                            "Sentence": "三"
+                          },
+                          {
+                            "Sentence": "前二号に掲げる団体以外の団体"
+                          },
+                          {
+                            "Sentence": "主務大臣が定めた場合にあつてはその行政庁"
+                          },
+                          {
+                            "Sentence": "写し二通（主務大臣がこれと異なる部数を定めたときはその部数）"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                }
+              },
+              {
+                "@Num": "2",
+                "ParagraphNum": "２",
+                "ParagraphSentence": {
+                  "Sentence": "前項の申出書及びその写しには、次の書類を添付しなければならない。"
+                },
+                "Item": [
+                  {
+                    "@Num": "1",
+                    "ItemTitle": "一",
+                    "ItemSentence": {
+                      "Sentence": "団体の定款、団体の構成員の名簿その他の書類であつて、法第五条第一項に規定する中小企業団体の要件に該当することを証するもの"
+                    }
+                  },
+                  {
+                    "@Num": "2",
+                    "ItemTitle": "二",
+                    "ItemSentence": {
+                      "Sentence": "法第六条第一項に規定する事態が生ずるおそれがあると認める理由及び調整の必要性を記載した書面"
+                    }
+                  },
+                  {
+                    "@Num": "3",
+                    "ItemTitle": "三",
+                    "ItemSentence": {
+                      "Sentence": "法第六条第一項の規定による申出が団体の正式決定を経て行われたものであることを証する書面"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "@Num": "6",
+            "ArticleCaption": "（利害関係者の選定）",
+            "ArticleTitle": "第六条",
+            "Paragraph": [
+              {
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": "法第八条（第十一条第三項において準用する場合を含む。）の規定により意見を聴くべき利害関係者の選定は、意見を述べることについて正当な理由を有する者のうちから中小企業政策審議会の会長が同審議会の議を経て指名することにより行うものとする。"
+                }
+              },
+              {
+                "@Num": "2",
+                "ParagraphNum": "２",
+                "ParagraphSentence": {
+                  "Sentence": "中小企業政策審議会の会長は、前項の指名に際しては、円滑な調整を妨げない範囲内でできる限り多くの分野の利害関係者の意見を聴くこととするよう努めなければならない。"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      "SupplProvision": [
+        {
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この命令は、法の施行の日（昭和五十二年九月二十四日）から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "昭和五六年九月一〇日総理府・大蔵省・文部省・厚生省・農林水産省・通商産業省・運輸省・郵政省・建設省令第一号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この命令は、中小企業の事業活動の機会の確保のための大企業者の事業活動の調整に関する法律の一部を改正する法律（昭和五十六年法律第八十三号）の施行の日から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "昭和五七年一月二九日総理府・大蔵省・文部省・厚生省・農林水産省・通商産業省・運輸省・郵政省・建設省令第一号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この命令は、昭和五十七年二月一日から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成元年九月一六日総理府・大蔵省・文部省・厚生省・農林水産省・通商産業省・運輸省・郵政省・建設省令第一号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この命令は、公布の日から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成八年二月一三日総理府・大蔵省・文部省・厚生省・農林水産省・通商産業省・運輸省・郵政省・建設省令第一号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この命令は、公布の日から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成一一年三月一九日総理府・大蔵省・文部省・厚生省・農林水産省・通商産業省・運輸省・郵政省・建設省令第一号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この命令は、公布の日から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成一二年一一月二九日総理府・大蔵省・文部省・厚生省・農林水産省・通商産業省・運輸省・郵政省・建設省令第一号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この命令は、平成十三年一月六日から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成一四年三月二八日内閣府・総務省・財務省・文部科学省・厚生労働省・農林水産省・経済産業省・国土交通省令第二号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この命令は、平成十四年四月一日から施行する。"
+            }
+          }
+        }
+      ],
+      "AppdxStyle": [
+        {
+          "AppdxStyleTitle": "様式第一",
+          "RelatedArticleNum": "（第３条関係）",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/S52F03109001001-001.pdf"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": "様式第二",
+          "RelatedArticleNum": "（第５条関係）",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/S52F03109001001-002.pdf"
+              }
+            }
+          }
+        }
+      ]
+    }
+  }
+}

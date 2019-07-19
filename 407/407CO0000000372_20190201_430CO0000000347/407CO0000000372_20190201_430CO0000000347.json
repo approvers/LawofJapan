@@ -1,0 +1,1211 @@
+{
+  "Law": {
+    "@DataInfo": "190121e01k01m01",
+    "@Era": "Heisei",
+    "@Lang": "ja",
+    "@LawType": "CabinetOrder",
+    "@Num": "372",
+    "@Year": "07",
+    "LawNum": "平成七年政令第三百七十二号",
+    "LawBody": {
+      "LawTitle": "地方公共団体の物品等又は特定役務の調達手続の特例を定める政令",
+      "EnactStatement": "内閣は、地方自治法（昭和二十二年法律第六十七号）第二百三十四条第二項、第三項及び第六項の規定に基づき、この政令を制定する。",
+      "MainProvision": {
+        "Article": [
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "1",
+            "ArticleCaption": "（趣旨）",
+            "ArticleTitle": "第一条",
+            "Paragraph": {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "この政令は、千九百九十四年四月十五日マラケシュで作成された政府調達に関する協定（以下この条において「協定」という。）、二千十二年三月三十日ジュネーブで作成された政府調達に関する協定を改正する議定書によって改正された協定（次条第四号イ及びロにおいて「改正協定」という。）、経済上の連携に関する日本国と欧州連合との間の協定（同条及び第五条第二項において「日欧協定」という。）その他の国際約束を実施するため、地方公共団体の締結する契約のうち国際約束の適用を受けるものの取扱いに関し、地方自治法施行令（昭和二十二年政令第十六号）及び地方公営企業法施行令（昭和二十七年政令第四百三号）の特例を設けるとともに必要な事項を定めるものとする。"
+                }
+              }
+            }
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "2",
+            "ArticleCaption": "（定義）",
+            "ArticleTitle": "第二条",
+            "Paragraph": {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "この政令において、次の各号に掲げる用語の意義は、それぞれ当該各号に定めるところによる。"
+                }
+              },
+              "Item": [
+                {
+                  "@Delete": "false",
+                  "@Hide": "false",
+                  "@Num": "1",
+                  "ItemTitle": "一",
+                  "ItemSentence": {
+                    "Column": [
+                      {
+                        "@LineBreak": "false",
+                        "@Num": "1",
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "特定地方公共団体"
+                        }
+                      },
+                      {
+                        "@LineBreak": "false",
+                        "@Num": "2",
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "都道府県及び地方自治法第二百五十二条の十九第一項の指定都市をいう。"
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "@Num": "2",
+                  "ItemTitle": "二",
+                  "ItemSentence": {
+                    "Column": [
+                      {
+                        "@Num": "1",
+                        "Sentence": "欧州連合の供給者"
+                      },
+                      {
+                        "@Num": "2",
+                        "Sentence": "物品等又は特定役務を提供し、又は提供しようとする次に掲げる者をいう。"
+                      }
+                    ]
+                  },
+                  "Subitem1": [
+                    {
+                      "@Num": "3",
+                      "Subitem1Title": "イ",
+                      "Subitem1Sentence": {
+                        "Sentence": "日欧協定第一・二条（ｑ）に規定する欧州連合構成国の国民"
+                      }
+                    },
+                    {
+                      "@Num": "4",
+                      "Subitem1Title": "ロ",
+                      "Subitem1Sentence": {
+                        "Sentence": "日欧協定第八・二条（ｎ）（ｉ）に規定する法人"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "@Delete": "false",
+                  "@Hide": "false",
+                  "@Num": "3",
+                  "ItemTitle": "三",
+                  "ItemSentence": {
+                    "Column": [
+                      {
+                        "@LineBreak": "false",
+                        "@Num": "1",
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "物品等"
+                        }
+                      },
+                      {
+                        "@LineBreak": "false",
+                        "@Num": "2",
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "動産（現金及び有価証券を除く。）及び著作権法（昭和四十五年法律第四十八号）第二条第一項第十号の二に規定するプログラムをいう。"
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "@Num": "4",
+                  "ItemTitle": "四",
+                  "ItemSentence": {
+                    "Column": [
+                      {
+                        "@Num": "1",
+                        "Sentence": "特定役務"
+                      },
+                      {
+                        "@Num": "2",
+                        "Sentence": "次のイ又はロに掲げる地方公共団体の区分に応じ、それぞれイ又はロに定める役務をいう。"
+                      }
+                    ]
+                  },
+                  "Subitem1": [
+                    {
+                      "@Num": "1",
+                      "Subitem1Title": "イ",
+                      "Subitem1Sentence": {
+                        "Column": [
+                          {
+                            "@Num": "1",
+                            "Sentence": "特定地方公共団体"
+                          },
+                          {
+                            "@Num": "2",
+                            "Sentence": "改正協定の附属書Ｉ日本国の付表５に掲げるサービス若しくは同附属書Ｉ日本国の付表６に掲げる建設サービス（次号及び第十一条第一項において「建設工事」という。）又は日欧協定の附属書十第二編第Ｂ節５（ｂ）に掲げるサービスに係る役務"
+                          }
+                        ]
+                      }
+                    },
+                    {
+                      "@Num": "2",
+                      "Subitem1Title": "ロ",
+                      "Subitem1Sentence": {
+                        "Column": [
+                          {
+                            "@Num": "1",
+                            "Sentence": "地方自治法第二百五十二条の二十二第一項の中核市（以下「中核市」という。）"
+                          },
+                          {
+                            "@Num": "2",
+                            "Sentence": "改正協定の附属書Ｉ日本国の付表５に掲げるサービスに係る役務"
+                          }
+                        ]
+                      }
+                    }
+                  ]
+                },
+                {
+                  "@Delete": "false",
+                  "@Hide": "false",
+                  "@Num": "5",
+                  "ItemTitle": "五",
+                  "ItemSentence": {
+                    "Column": [
+                      {
+                        "@LineBreak": "false",
+                        "@Num": "1",
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "調達契約"
+                        }
+                      },
+                      {
+                        "@LineBreak": "false",
+                        "@Num": "2",
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "物品等又は特定役務の調達のため締結される契約（当該物品等又は当該特定役務以外の物品等又は役務の調達が付随するものを含み、民間資金等の活用による公共施設等の整備等の促進に関する法律（平成十一年法律第百十七号）第二条第二項に規定する特定事業（建設工事を除く。）にあっては、民間資金等の活用による公共施設等の整備等の促進に関する法律の一部を改正する法律（平成二十三年法律第五十七号）による改正前の同項に規定する特定事業を実施するため締結される契約に限る。）をいう。"
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "@Delete": "false",
+                  "@Hide": "false",
+                  "@Num": "6",
+                  "ItemTitle": "六",
+                  "ItemSentence": {
+                    "Column": [
+                      {
+                        "@LineBreak": "false",
+                        "@Num": "1",
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "一連の調達契約"
+                        }
+                      },
+                      {
+                        "@LineBreak": "false",
+                        "@Num": "2",
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "特定の需要に係る一の物品等若しくは特定役務又は同一の種類の二以上の物品等若しくは特定役務の調達のため締結される二以上の調達契約をいう。"
+                        }
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "3",
+            "ArticleCaption": "（適用範囲）",
+            "ArticleTitle": "第三条",
+            "Paragraph": [
+              {
+                "@Hide": "false",
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": [
+                    {
+                      "@Function": "main",
+                      "@Num": "1",
+                      "@WritingMode": "vertical",
+                      "#text": "この政令は、特定地方公共団体又は中核市の締結する調達契約であって、当該調達契約に係る予定価格（物品等の借入れに係る調達契約又は一定期間継続して提供を受ける特定役務の調達契約にあっては、借入期間又は提供を受ける期間の定めが十二月以下の場合は当該期間における予定賃借料の総額又は特定役務の予定価格の総額とし、その他の場合は総務大臣の定めるところにより算定した額とする。）が総務大臣の定める区分に応じ総務大臣の定める額以上の額であるものについて適用する。"
+                    },
+                    {
+                      "@Function": "proviso",
+                      "@Num": "2",
+                      "@WritingMode": "vertical",
+                      "#text": "ただし、次に掲げる調達契約については、この限りでない。"
+                    }
+                  ]
+                },
+                "Item": [
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "1",
+                    "ItemTitle": "一",
+                    "ItemSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "有償で譲渡（加工又は修理を加えた上でする譲渡を含む。）をする目的で取得する物品等若しくは当該物品等の譲渡（加工又は修理を加えた上でする譲渡を含む。）をするために直接に必要な特定役務（当該物品等の加工又は修理をするために直接に必要な特定役務を含む。）又は有償で譲渡をする製品の原材料として使用する目的で取得する物品等若しくは当該製品の生産をするために直接に必要な特定役務の調達契約"
+                      }
+                    }
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "2",
+                    "ItemTitle": "二",
+                    "ItemSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "事業協同組合、事業協同小組合若しくは協同組合連合会又は商工組合若しくは商工組合連合会を相手方とする調達契約"
+                      }
+                    }
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "3",
+                    "ItemTitle": "三",
+                    "ItemSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "特定地方公共団体又は中核市の経営する鉄道事業又は軌道事業における運行上の安全に関連する調達契約"
+                      }
+                    }
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "4",
+                    "ItemTitle": "四",
+                    "ItemSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "中核市の経営する電気事業に係る調達契約"
+                      }
+                    }
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "5",
+                    "ItemTitle": "五",
+                    "ItemSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "公共の安全と秩序の維持に密接に関連する調達契約であって、当該調達契約に係る特定地方公共団体又は中核市の行為を秘密にする必要があるもの"
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "@Hide": "false",
+                "@Num": "2",
+                "ParagraphNum": "２",
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "前項の予定価格は、一連の調達契約が締結される場合には、当該一連の調達契約により調達をすべき物品等又は特定役務の予定価格の合計額とする。"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "4",
+            "ArticleCaption": "（競争入札の参加者の資格に関する公示）",
+            "ArticleTitle": "第四条",
+            "Paragraph": {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "特定地方公共団体の長は、この政令の規定が適用される調達契約（以下「特定調達契約」という。）の締結が見込まれるときは、地方自治法施行令第百六十七条の五第二項（同令第百六十七条の十一第三項において準用する場合を含む。）の規定による公示については、当該特定調達契約の締結が見込まれる年度ごとに、しなければならない。"
+                }
+              }
+            }
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "5",
+            "ArticleCaption": "（一般競争入札の参加者の資格に関する要件の制限等）",
+            "ArticleTitle": "第五条",
+            "Paragraph": [
+              {
+                "@Hide": "false",
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "特定地方公共団体の長は、地方自治法施行令第百六十七条の五の二の規定にかかわらず、特定調達契約に係る一般競争入札に参加する者につき、当該入札に参加する者の事業所の所在地に関する必要な資格を定めることができない。"
+                  }
+                }
+              },
+              {
+                "@Num": "2",
+                "ParagraphNum": "２",
+                "ParagraphSentence": {
+                  "Sentence": "中核市の長は、地方自治法施行令第百六十七条の五の二の規定により特定調達契約に係る一般競争入札に参加する者の事業所の所在地に関する必要な資格を定めた場合には、次の各号のいずれにも該当する場合を除き、欧州連合の供給者が当該資格を有する者であるかどうかにかかわらず、欧州連合の供給者を当該資格を有する者として取り扱わなければならない。"
+                },
+                "Item": [
+                  {
+                    "@Num": "1",
+                    "ItemTitle": "一",
+                    "ItemSentence": {
+                      "Sentence": "地方自治法施行令第百六十七条の五第一項の規定により当該入札に参加する者の経営の規模に関する必要な資格を定めた場合には、日欧協定の附属書十第二編第Ｂ節２の規定に関する注釈（ｆ）の中小企業が当該資格を有する者に含まれる場合として総務大臣が定める場合に該当する場合"
+                    }
+                  },
+                  {
+                    "@Num": "2",
+                    "ItemTitle": "二",
+                    "ItemSentence": {
+                      "Sentence": "前号に掲げるもののほか、地方自治法施行令第百六十七条の四、第百六十七条の五第一項及び第百六十七条の五の二の規定により当該入札に参加する者に必要な資格を定めた理由及び当該資格の内容が、日欧協定の附属書十第二編第Ｂ節２の規定に関する注釈（ｆ）の規定の適用のための要件として総務大臣が定める要件に適合する場合"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "6",
+            "ArticleCaption": "（一般競争入札について公告をする事項）",
+            "ArticleTitle": "第六条",
+            "Paragraph": {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "特定地方公共団体の長は、特定調達契約について地方自治法施行令第百六十七条の六第一項の規定により公告をするときは、同項の規定により公告をしなければならない事項及び同条第二項の規定により明らかにしておかなければならない事項のほか、次に掲げる事項についても、公告をしなければならない。"
+                }
+              },
+              "Item": [
+                {
+                  "@Delete": "false",
+                  "@Hide": "false",
+                  "@Num": "1",
+                  "ItemTitle": "一",
+                  "ItemSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "競争入札に付する事項"
+                    }
+                  }
+                },
+                {
+                  "@Delete": "false",
+                  "@Hide": "false",
+                  "@Num": "2",
+                  "ItemTitle": "二",
+                  "ItemSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "契約条項を示す場所"
+                    }
+                  }
+                },
+                {
+                  "@Delete": "false",
+                  "@Hide": "false",
+                  "@Num": "3",
+                  "ItemTitle": "三",
+                  "ItemSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "入札保証金に関する事項"
+                    }
+                  }
+                },
+                {
+                  "@Delete": "false",
+                  "@Hide": "false",
+                  "@Num": "4",
+                  "ItemTitle": "四",
+                  "ItemSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "一連の調達契約にあっては、当該一連の調達契約のうちの一の契約による調達後において調達が予定される物品等又は特定役務の名称、数量及びその入札の公告の予定時期並びに当該一連の調達契約のうちの最初の契約に係る入札の公告の日付"
+                    }
+                  }
+                },
+                {
+                  "@Delete": "false",
+                  "@Hide": "false",
+                  "@Num": "5",
+                  "ItemTitle": "五",
+                  "ItemSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "競争入札に参加する者に必要な資格を有するかどうかの審査を申請する時期及び場所"
+                    }
+                  }
+                },
+                {
+                  "@Delete": "false",
+                  "@Hide": "false",
+                  "@Num": "6",
+                  "ItemTitle": "六",
+                  "ItemSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "第八条に規定する文書の交付に関する事項"
+                    }
+                  }
+                },
+                {
+                  "@Delete": "false",
+                  "@Hide": "false",
+                  "@Num": "7",
+                  "ItemTitle": "七",
+                  "ItemSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "落札者の決定の方法"
+                    }
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "7",
+            "ArticleCaption": "（指名競争入札の公示等）",
+            "ArticleTitle": "第七条",
+            "Paragraph": [
+              {
+                "@Hide": "false",
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "特定地方公共団体の長は、特定調達契約につき指名競争入札により契約を締結しようとするときは、前条の規定により一般競争入札について公告をするものとされている事項について、公示をしなければならない。"
+                  }
+                }
+              },
+              {
+                "@Hide": "false",
+                "@Num": "2",
+                "ParagraphNum": "２",
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "特定地方公共団体の長は、特定調達契約について地方自治法施行令第百六十七条の十二第二項の規定により通知するときは、同項の規定により通知しなければならない事項及び同条第三項において準用する同令第百六十七条の六第二項の規定により明らかにしなければならない事項のほか、次に掲げる事項を通知しなければならない。"
+                  }
+                },
+                "Item": [
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "1",
+                    "ItemTitle": "一",
+                    "ItemSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "前条第一号から第三号までに掲げる事項"
+                      }
+                    }
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "2",
+                    "ItemTitle": "二",
+                    "ItemSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "一連の調達契約にあっては、前条第四号に掲げる事項"
+                      }
+                    }
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "3",
+                    "ItemTitle": "三",
+                    "ItemSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "契約の手続において使用する言語"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "8",
+            "ArticleCaption": "（入札説明書の交付）",
+            "ArticleTitle": "第八条",
+            "Paragraph": {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "特定地方公共団体の長は、特定調達契約につき一般競争入札又は指名競争入札により契約を締結しようとするときは、これらの競争入札に参加しようとする者に対し、その者の申請により、入札を行うため必要な事項として当該特定地方公共団体の規則で定める事項について説明する文書を交付するものとする。"
+                }
+              }
+            }
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "9",
+            "ArticleCaption": "（落札者の決定方法の制限）",
+            "ArticleTitle": "第九条",
+            "Paragraph": {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "地方自治法施行令第百六十七条の十第二項（同令第百六十七条の十三において準用する場合を含む。）の規定は、特定地方公共団体の締結する特定調達契約については、適用しない。"
+                }
+              }
+            }
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "10",
+            "ArticleCaption": "（複数落札入札制度による物品等又は特定役務の調達）",
+            "ArticleTitle": "第十条",
+            "Paragraph": [
+              {
+                "@Hide": "false",
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "特定地方公共団体の長は、特定調達契約につき一般競争入札又は指名競争入札により契約を締結しようとする場合において、その需要数量が多いときは、その需要数量の範囲内でこれらの競争入札に参加する者の落札を希望する数量及びその単価を入札させ、予定価格を超えない単価の入札者のうち、低価の入札者から順次需要数量に達するまでの入札者をもって落札者とすることができる。"
+                  }
+                }
+              },
+              {
+                "@Hide": "false",
+                "@Num": "2",
+                "ParagraphNum": "２",
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@Num": "1",
+                    "@WritingMode": "vertical",
+                    "#text": "前項の場合において、最後の順位の落札者の入札数量が他の落札者の数量と合算して需要数量を超えるときは、その超える数量については、落札がなかったものとする。"
+                  }
+                }
+              },
+              {
+                "@Hide": "false",
+                "@Num": "3",
+                "ParagraphNum": "３",
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@Num": "1",
+                    "@WritingMode": "vertical",
+                    "#text": "第一項の規定による一般競争入札又は指名競争入札により落札者を定めた場合において、落札者のうち契約を結ばない者があるときは、その者の落札していた数量の範囲内で、まず前項に規定する最後の順位の落札者について同項の規定により落札がなかったものとされた数量の落札があったものとし、次に第九項の規定により落札者とならなかった者についてその者の入札数量の落札があったものとすることができる。"
+                  }
+                }
+              },
+              {
+                "@Hide": "false",
+                "@Num": "4",
+                "ParagraphNum": "４",
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@Num": "1",
+                    "@WritingMode": "vertical",
+                    "#text": "前項の場合において、第九項の規定により落札者とならなかった者が二人以上あるときは、同項の規定の例によりその順位を決定し、また、最後の順位に当たる者の入札数量について第二項に規定する場合に準ずべき場合があるときは、同項の規定の例による。"
+                  }
+                }
+              },
+              {
+                "@Hide": "false",
+                "@Num": "5",
+                "ParagraphNum": "５",
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@Num": "1",
+                    "@WritingMode": "vertical",
+                    "#text": "特定地方公共団体の長は、特定調達契約につき第一項の規定による一般競争入札により契約を締結しようとする場合において、当該特定調達契約について地方自治法施行令第百六十七条の六第一項の規定により公告をするときは、第六条の規定により公告をしなければならない事項のほか、次に掲げる事項についても、公告をしなければならない。"
+                  }
+                },
+                "Item": [
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "1",
+                    "ItemTitle": "一",
+                    "ItemSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "第一項の規定による一般競争入札の方法による旨"
+                      }
+                    }
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "2",
+                    "ItemTitle": "二",
+                    "ItemSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "第二項の規定により入札数量の一部について落札がなかったものとすることがある旨"
+                      }
+                    }
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "3",
+                    "ItemTitle": "三",
+                    "ItemSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "第十一項の規定により当該一般競争入札を取り消すことがある旨"
+                      }
+                    }
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "4",
+                    "ItemTitle": "四",
+                    "ItemSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "端数の入札を制限する場合にはその旨"
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "@Hide": "false",
+                "@Num": "6",
+                "ParagraphNum": "６",
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "特定地方公共団体の長は、特定調達契約につき第一項の規定による指名競争入札により契約を締結しようとする場合において、当該特定調達契約について第七条第一項の規定により公示をするときは、同項の規定により公示をしなければならない事項のほか、次に掲げる事項についても、公示をしなければならない。"
+                  }
+                },
+                "Item": [
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "1",
+                    "ItemTitle": "一",
+                    "ItemSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "第一項の規定による指名競争入札の方法による旨"
+                      }
+                    }
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "2",
+                    "ItemTitle": "二",
+                    "ItemSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "第二項の規定により入札数量の一部について落札がなかったものとすることがある旨"
+                      }
+                    }
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "3",
+                    "ItemTitle": "三",
+                    "ItemSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "第十一項の規定により当該指名競争入札を取り消すことがある旨"
+                      }
+                    }
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "4",
+                    "ItemTitle": "四",
+                    "ItemSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "端数の入札を制限する場合にはその旨"
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "@Hide": "false",
+                "@Num": "7",
+                "ParagraphNum": "７",
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@Num": "1",
+                    "@WritingMode": "vertical",
+                    "#text": "特定地方公共団体の長は、前項の場合において、その特定調達契約について地方自治法施行令第百六十七条の十二第二項の規定により通知するときは、第七条第二項の規定により通知しなければならない事項のほか、前項各号に掲げる事項を通知しなければならない。"
+                  }
+                }
+              },
+              {
+                "@Hide": "false",
+                "@Num": "8",
+                "ParagraphNum": "８",
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@Num": "1",
+                    "@WritingMode": "vertical",
+                    "#text": "第一項の規定による一般競争入札又は指名競争入札が二種類以上の物品等又は特定役務について行われるものである場合には、その入札は、物品等又は特定役務の種類の異なるごとにその単価及び数量について行わなければならない。"
+                  }
+                }
+              },
+              {
+                "@Hide": "false",
+                "@Num": "9",
+                "ParagraphNum": "９",
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@Num": "1",
+                    "@WritingMode": "vertical",
+                    "#text": "第一項の規定による一般競争入札又は指名競争入札に付した場合において、同価の入札をした者が二人以上あるときの落札者の決定については、入札数量の多い者を先順位の落札者とするものとし、入札数量が同一であるときは、地方自治法施行令第百六十七条の九の規定の例によりくじで先順位の落札者を定めるものとする。"
+                  }
+                }
+              },
+              {
+                "@Hide": "false",
+                "@Num": "10",
+                "ParagraphNum": "１０",
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@Num": "1",
+                    "@WritingMode": "vertical",
+                    "#text": "第一項の規定による一般競争入札又は指名競争入札に付した場合において、落札数量が需要数量に達しないとき、又は落札者のうち契約を結ばない者があるときは、需要数量に達するまで、最低落札単価の制限内で、地方自治法施行令第百六十七条の二第一項（第九号に係る部分に限る。）、第三項及び第四項並びに地方公営企業法施行令第二十一条の十四第一項（第九号に係る部分に限る。）、第三項及び第四項の規定の例により、随意契約によることができる。"
+                  }
+                }
+              },
+              {
+                "@Hide": "false",
+                "@Num": "11",
+                "ParagraphNum": "１１",
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@Num": "1",
+                    "@WritingMode": "vertical",
+                    "#text": "第一項の規定による一般競争入札又は指名競争入札に付する場合において、これらの競争入札に加わった者が五人に満たないときは、これらの競争入札を取り消すことができる。"
+                  }
+                }
+              },
+              {
+                "@Hide": "false",
+                "@Num": "12",
+                "ParagraphNum": "１２",
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@Num": "1",
+                    "@WritingMode": "vertical",
+                    "#text": "前項の規定により一般競争入札又は指名競争入札を取り消した場合には、入札書は、そのままこれを入札者に送付しなければならない。"
+                  }
+                }
+              },
+              {
+                "@Hide": "false",
+                "@Num": "13",
+                "ParagraphNum": "１３",
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@Num": "1",
+                    "@WritingMode": "vertical",
+                    "#text": "第十一項の規定により一般競争入札又は指名競争入札を取り消した場合には、地方自治法施行令第百六十七条の二第一項（第八号に係る部分に限る。）及び第二項並びに地方公営企業法施行令第二十一条の十四第一項（第八号に係る部分に限る。）及び第二項の規定は、適用しない。"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "11",
+            "ArticleCaption": "（随意契約）",
+            "ArticleTitle": "第十一条",
+            "Paragraph": [
+              {
+                "@Hide": "false",
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "特定地方公共団体の締結する特定調達契約については、地方自治法施行令第百六十七条の二第一項（第五号、第八号及び第九号に係る部分に限る。）若しくは地方公営企業法施行令第二十一条の十四第一項（第五号、第八号及び第九号に係る部分に限る。）又は前条第十項の規定によるほか、次に掲げる場合に該当するときに限り、地方自治法第二百三十四条第二項の規定により随意契約によることができる。"
+                  }
+                },
+                "Item": [
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "1",
+                    "ItemTitle": "一",
+                    "ItemSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "他の物品等若しくは特定役務をもって代替させることができない芸術品その他これに類するもの又は特許権等の排他的権利若しくは特殊な技術に係る物品等若しくは特定役務の調達をする場合において、当該調達の相手方が特定されているとき。"
+                      }
+                    }
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "2",
+                    "ItemTitle": "二",
+                    "ItemSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "既に調達をした物品等（以下この号において「既調達物品等」という。）又は既に契約を締結した特定役務（以下この号において「既契約特定役務」という。）につき、交換部品その他既調達物品等に連接して使用する物品等の調達をする場合又は既契約特定役務に連接して提供を受ける同種の特定役務の調達をする場合であって、既調達物品等又は既契約特定役務の調達の相手方以外の者から調達をしたならば既調達物品等の使用又は既契約特定役務の便益を享受することに著しい支障が生ずるおそれがあるとき。"
+                      }
+                    }
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "3",
+                    "ItemTitle": "三",
+                    "ItemSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "特定地方公共団体の委託に基づく試験研究の結果製造又は開発された試作品等（特定役務を含む。）の調達をする場合"
+                      }
+                    }
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "4",
+                    "ItemTitle": "四",
+                    "ItemSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "既に契約を締結した建設工事（以下この号において「既契約工事」という。）についてその施工上予見し難い事由が生じたことにより既契約工事を完成するために施工しなければならなくなった追加の建設工事（以下この号において「追加工事」という。）で当該追加工事の契約に係る予定価格に相当する金額（この号に掲げる場合に該当し、かつ、随意契約の方法により契約を締結した既契約工事に係る追加工事がある場合には、当該追加工事の契約金額（当該追加工事が二以上ある場合には、それぞれの契約金額を合算した金額）を加えた額とする。）が既契約工事の契約金額の百分の五十以下であるものの調達をする場合であって、既契約工事の調達の相手方以外の者から調達をしたならば既契約工事の完成を確保する上で著しい支障が生ずるおそれがあるとき。"
+                      }
+                    }
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "5",
+                    "ItemTitle": "五",
+                    "ItemSentence": {
+                      "Sentence": [
+                        {
+                          "@Function": "main",
+                          "@Num": "1",
+                          "@WritingMode": "vertical",
+                          "#text": "計画的に実施される施設の整備のために契約された建設工事（以下この号において「既契約工事」という。）に連接して当該施設の整備のために施工される同種の建設工事（以下この号において「同種工事」という。）の調達をする場合、又はこの号に掲げる場合に該当し、かつ、随意契約の方法により契約が締結された同種工事に連接して新たな同種工事の調達をする場合であって、既契約工事の調達の相手方以外の者から調達をすることが既契約工事の調達の相手方から調達をする場合に比して著しく不利と認められるとき。"
+                        },
+                        {
+                          "@Function": "proviso",
+                          "@Num": "2",
+                          "@WritingMode": "vertical",
+                          "#text": "ただし、既契約工事の調達契約が第四条から第九条までの規定により締結されたものであり、かつ、既契約工事の入札に係る第六条の公告又は第七条第一項の公示においてこの号の規定により同種工事の調達をする場合があることが明らかにされている場合に限る。"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "6",
+                    "ItemTitle": "六",
+                    "ItemSentence": {
+                      "Sentence": [
+                        {
+                          "@Function": "main",
+                          "@Num": "1",
+                          "@WritingMode": "vertical",
+                          "#text": "建築物の設計を目的とする契約をする場合であって、当該契約の相手方が、総務大臣の定める要件を満たす審査手続により、当該建築物の設計に係る案の提出を行った者の中から最も優れた案を提出した者として特定されているとき。"
+                        },
+                        {
+                          "@Function": "proviso",
+                          "@Num": "2",
+                          "@WritingMode": "vertical",
+                          "#text": "ただし、当該契約が、地方自治法施行令第百六十七条の二第一項第二号又は地方公営企業法施行令第二十一条の十四第一項第二号に規定するその性質又は目的が競争入札に適しないものに該当する場合に限る。"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "@Hide": "false",
+                "@Num": "2",
+                "ParagraphNum": "２",
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "特定地方公共団体の締結する特定調達契約につき地方自治法施行令第百六十七条の二第一項（第八号及び第九号に係る部分に限る。）又は地方公営企業法施行令第二十一条の十四第一項（第八号及び第九号に係る部分に限る。）の規定により随意契約による場合には、地方自治法施行令第百六十七条の二第四項及び地方公営企業法施行令第二十一条の十四第四項の規定は、適用しない。"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "12",
+            "ArticleCaption": "（落札者等の公示）",
+            "ArticleTitle": "第十二条",
+            "Paragraph": {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "特定地方公共団体の長は、特定調達契約につき、一般競争入札若しくは指名競争入札により落札者を決定したとき、又は随意契約の相手方を決定したときは、当該特定地方公共団体の規則で定めるところにより公示をしなければならない。"
+                }
+              }
+            }
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "13",
+            "ArticleCaption": "（一部事務組合等に関する特例）",
+            "ArticleTitle": "第十三条",
+            "Paragraph": {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "一部事務組合又は広域連合で特定地方公共団体又は中核市の加入するものについては、この政令の規定は、準用しない。"
+                }
+              }
+            }
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "14",
+            "ArticleCaption": "（特定地方公共団体等の規則への委任）",
+            "ArticleTitle": "第十四条",
+            "Paragraph": {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "この政令に規定するものを除くほか、特定調達契約について必要な事項は、特定地方公共団体又は中核市の規則で定める。"
+                }
+              }
+            }
+          }
+        ]
+      },
+      "SupplProvision": [
+        {
+          "@Type": "New",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": [
+            {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphCaption": "（施行期日）",
+              "ParagraphNum": "１",
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "この政令は、協定が日本国について効力を生ずる日から施行する。"
+                }
+              }
+            },
+            {
+              "@Hide": "false",
+              "@Num": "2",
+              "ParagraphCaption": "（経過措置）",
+              "ParagraphNum": "２",
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "この政令は、この政令の施行の日前において行われた公告その他の契約の申込みの誘引に係る契約で同日以後に締結されるものについては、適用しない。"
+                }
+              }
+            },
+            {
+              "@Hide": "false",
+              "@Num": "3",
+              "ParagraphNum": "３",
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "この政令は、第十条第一項第六号に規定する契約であって、この政令の施行の日前に建築物の設計に係る案の提出の要請が行われたものであり、かつ、当該契約の相手方が当該案の提出を行った者の中から最も優れた案を提出した者として同日以後に特定されるものについては、適用しない。"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@AmendLawNum": "平成一二年六月七日政令第三〇四号",
+          "@Extract": "true",
+          "@Type": "Amend",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphNum": "１",
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この政令は、内閣法の一部を改正する法律（平成十一年法律第八十八号）の施行の日（平成十三年一月六日）から施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成一六年一一月八日政令第三四四号",
+          "@Extract": "true",
+          "@Type": "Amend",
+          "SupplProvisionLabel": "附　則",
+          "Article": {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "1",
+            "ArticleCaption": "（施行期日）",
+            "ArticleTitle": "第一条",
+            "Paragraph": {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "この政令は、地方自治法の一部を改正する法律の施行の日（平成十六年十一月十日）から施行する。"
+                }
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成二六年三月一二日政令第五八号",
+          "@Type": "Amend",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": [
+            {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphCaption": "（施行期日）",
+              "ParagraphNum": "１",
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "この政令は、二千十二年三月三十日ジュネーブで作成された政府調達に関する協定を改正する議定書が日本国について効力を生ずる日から施行する。"
+                }
+              }
+            },
+            {
+              "@Hide": "false",
+              "@Num": "2",
+              "ParagraphCaption": "（経過措置）",
+              "ParagraphNum": "２",
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "改正後の地方公共団体の物品等又は特定役務の調達手続の特例を定める政令の規定は、この政令の施行の日前において行われた公告その他の契約の申込みの誘因に係る契約で同日以後に締結されるものについては、適用しない。"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@AmendLawNum": "平成二八年三月三〇日政令第八八号",
+          "@Type": "Amend",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この政令は、平成二十八年五月一日から施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成三〇年一二月二一日政令第三四七号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": [
+            {
+              "@Num": "1",
+              "ParagraphCaption": "（施行期日）",
+              "ParagraphNum": "１",
+              "ParagraphSentence": {
+                "Sentence": "この政令は、経済上の連携に関する日本国と欧州連合との間の協定の効力発生の日から施行する。"
+              }
+            },
+            {
+              "@Num": "2",
+              "ParagraphCaption": "（経過措置）",
+              "ParagraphNum": "２",
+              "ParagraphSentence": {
+                "Sentence": "この政令による改正後の地方公共団体の物品等又は特定役務の調達手続の特例を定める政令の規定は、この政令の施行の日前において行われた公告その他の契約の申込みの誘因に係る契約で同日以後に締結されるものについては、適用しない。"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

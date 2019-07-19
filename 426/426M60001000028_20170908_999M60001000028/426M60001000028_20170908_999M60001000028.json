@@ -1,0 +1,64 @@
+{
+  "Law": {
+    "@DataInfo": "190312e80k10m01",
+    "@Era": "Heisei",
+    "@Lang": "ja",
+    "@LawType": "MinisterialOrdinance",
+    "@Num": "28",
+    "@Year": "26",
+    "LawNum": "平成二十六年環境省令第二十八号",
+    "LawBody": {
+      "LawTitle": "海洋汚染等及び海上災害の防止に関する法律第十七条の二第四項等に規定する有害水バラストの処理方法を定める省令",
+      "EnactStatement": "海洋汚染等及び海上災害の防止に関する法律（昭和四十五年法律第百三十六号）第十七条の二第四項及び第十七条の七第三項並びに海洋汚染等及び海上災害の防止に関する法律の一部を改正する法律（平成二十六年法律第七十三号）附則第三条第二項の規定に基づき、有害水バラストの処理方法を定める省令を次のように定める。",
+      "MainProvision": {
+        "Paragraph": {
+          "@Num": "1",
+          "ParagraphNum": null,
+          "ParagraphSentence": {
+            "Sentence": "海洋汚染等及び海上災害の防止に関する法律（昭和四十五年法律第百三十六号）第十七条の二第四項及び第十七条の七第三項の環境省令で定める方法は、化学物質を製造する装置又は生物（ウイルスを含む。）を使用する方法とする。"
+          }
+        }
+      },
+      "SupplProvision": {
+        "SupplProvisionLabel": "附　則",
+        "Article": [
+          {
+            "@Num": "1",
+            "ArticleCaption": "（施行期日）",
+            "ArticleTitle": "第一条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": [
+                  {
+                    "@Function": "main",
+                    "@Num": "1",
+                    "#text": "この省令は、海洋汚染等及び海上災害の防止に関する法律の一部を改正する法律（平成二十六年法律第七十三号。以下「改正法」という。）の施行の日から施行する。"
+                  },
+                  {
+                    "@Function": "proviso",
+                    "@Num": "2",
+                    "#text": "ただし、次条の規定は、改正法附則第一条第二号の政令で定める日（平成二十七年一月一日）から施行する。"
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "@Num": "2",
+            "ArticleCaption": "（改正法附則第三条第二項の環境省令で定める方法）",
+            "ArticleTitle": "第二条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "改正法附則第三条第二項の環境省令で定める方法は、化学物質を製造する装置又は生物（ウイルスを含む。）を使用する方法とする。"
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

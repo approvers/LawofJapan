@@ -1,0 +1,143 @@
+{
+  "Law": {
+    "@Era": "Showa",
+    "@Lang": "ja",
+    "@LawType": "MinisterialOrdinance",
+    "@Num": "25",
+    "@Year": "53",
+    "LawNum": "昭和五十三年運輸省令第二十五号",
+    "LawBody": {
+      "LawTitle": "成田国際空港の安全確保に関する緊急措置法施行規則",
+      "EnactStatement": "新東京国際空港の安全確保に関する緊急措置法（昭和五十三年法律第四十二号）を実施するため、新東京国際空港の安全確保に関する緊急措置法施行規則を次のように定める。",
+      "MainProvision": {
+        "Article": [
+          {
+            "@Num": "1",
+            "ArticleCaption": "（公告）",
+            "ArticleTitle": "第一条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "成田国際空港の安全確保に関する緊急措置法（昭和五十三年法律第四十二号。以下「法」という。）第三条第二項の規定による公告は、官報又は新聞紙に掲載することにより行うものとする。"
+              }
+            }
+          },
+          {
+            "@Num": "2",
+            "ArticleCaption": "（証明書）",
+            "ArticleTitle": "第二条",
+            "Paragraph": [
+              {
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": "法第三条第四項の証明書の様式は、第一号様式のとおりとする。"
+                }
+              },
+              {
+                "@Num": "2",
+                "ParagraphNum": "２",
+                "ParagraphSentence": {
+                  "Sentence": "法第六条第二項の証明書の様式は、第二号様式のとおりとする。"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      "SupplProvision": [
+        {
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この省令は、公布の日から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成元年七月二〇日運輸省令第二四号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この省令は、公布の日から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成一二年一一月二九日運輸省令第三九号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Article": {
+            "@Num": "1",
+            "ArticleCaption": "（施行期日）",
+            "ArticleTitle": "第一条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "この省令は、平成十三年一月六日から施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成一六年三月二二日国土交通省令第一九号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Article": {
+            "@Num": "1",
+            "ArticleCaption": "（施行期日）",
+            "ArticleTitle": "第一条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": [
+                  {
+                    "@Function": "main",
+                    "@Num": "1",
+                    "#text": "この省令は、公布の日から施行する。"
+                  },
+                  {
+                    "@Function": "proviso",
+                    "@Num": "2",
+                    "#text": "ただし、次条から附則第十一条までの規定は、平成十六年四月一日から施行する。"
+                  }
+                ]
+              }
+            }
+          }
+        }
+      ],
+      "AppdxStyle": [
+        {
+          "AppdxStyleTitle": "第一号様式",
+          "RelatedArticleNum": "（第二条関係）",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/S53F03901000025-001.pdf"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": "第二号様式",
+          "RelatedArticleNum": "（第二条関係）",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/S53F03901000025-002.pdf"
+              }
+            }
+          }
+        }
+      ]
+    }
+  }
+}

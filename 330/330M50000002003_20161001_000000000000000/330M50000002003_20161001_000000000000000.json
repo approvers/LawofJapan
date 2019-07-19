@@ -1,0 +1,2353 @@
+{
+  "Law": {
+    "@Era": "Showa",
+    "@Lang": "ja",
+    "@LawType": "MinisterialOrdinance",
+    "@Num": "003",
+    "@Year": "30",
+    "LawNum": "昭和三十年総理府令第三号",
+    "LawBody": {
+      "LawTitle": "土じよう調査作業規程準則",
+      "EnactStatement": "国土調査法第三条第二項の規定に基き、土じよう調査作業規程準則を次のように定める。",
+      "TOC": {
+        "TOCLabel": "目次",
+        "TOCChapter": [
+          {
+            "@Num": "1",
+            "ChapterTitle": "第一章　総則",
+            "ArticleRange": "（第一条―第十一条）"
+          },
+          {
+            "@Num": "2",
+            "ChapterTitle": "第二章　現地作業",
+            "TOCSection": [
+              {
+                "@Num": "1",
+                "SectionTitle": "第一節　概査",
+                "ArticleRange": "（第十二条）"
+              },
+              {
+                "@Num": "2",
+                "SectionTitle": "第二節　精査",
+                "ArticleRange": "（第十三条―第二十条）"
+              }
+            ]
+          },
+          {
+            "@Num": "3",
+            "ChapterTitle": "第三章　分析作業",
+            "ArticleRange": "（第二十一条―第二十四条）"
+          },
+          {
+            "@Num": "4",
+            "ChapterTitle": "第四章　整理作業",
+            "ArticleRange": "（第二十五条・第二十六条）"
+          }
+        ],
+        "TOCSupplProvision": {
+          "SupplProvisionLabel": "附則"
+        }
+      },
+      "MainProvision": {
+        "Chapter": [
+          {
+            "@Num": "1",
+            "ChapterTitle": "第一章　総則",
+            "Article": [
+              {
+                "@Num": "1",
+                "ArticleCaption": "（目的）",
+                "ArticleTitle": "第一条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "国土調査法（昭和二十六年法律第百八十号）第二条第二項の規定による土地分類調査の基準の設定のための調査（土地分類基本調査）のうち、土じようについての調査（以下「土じよう調査」という。）に関する作業規程の準則は、この省令の定めるところによる。"
+                  }
+                }
+              },
+              {
+                "@Num": "2",
+                "ArticleCaption": "（土じよう調査の内容）",
+                "ArticleTitle": "第二条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "土じよう調査においては、主として国土の開発、保全及び利用の高度化に資するため、土じようをその成因、形態及び性状に基いて区分し、その分布を明らかにするための調査を行い、その結果を地図及び簿冊に作成するものとする。"
+                  }
+                }
+              },
+              {
+                "@Num": "3",
+                "ArticleCaption": "（土じようの区分）",
+                "ArticleTitle": "第三条",
+                "Paragraph": [
+                  {
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": "前条の土じようの区分は、統及び類とする。"
+                    }
+                  },
+                  {
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "Ruby": {
+                          "Rt": "たい",
+                          "#text": "堆"
+                        },
+                        "#text": "統とは、層の特徴及び配列が類似し、かつ、岩種及び積様式の類似した母材から生成した土じようの一群をいう。"
+                      }
+                    }
+                  },
+                  {
+                    "@Num": "3",
+                    "ParagraphNum": "３",
+                    "ParagraphSentence": {
+                      "Sentence": "類とは、層の特徴及び配列がほぼ類似し、かつ、重要な生成因子を同じくする一以上の統をいう。"
+                    }
+                  },
+                  {
+                    "@Num": "4",
+                    "ParagraphNum": "４",
+                    "ParagraphSentence": {
+                      "Sentence": "統及び類の名称には地名を冠する。"
+                    }
+                  }
+                ]
+              },
+              {
+                "@Num": "4",
+                "ArticleCaption": "（土じよう調査の作業）",
+                "ArticleTitle": "第四条",
+                "Paragraph": [
+                  {
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": "土じよう調査の作業は、現地作業、分析作業及び整理作業とする。"
+                    }
+                  },
+                  {
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": [
+                        {
+                          "@Function": "main",
+                          "@Num": "1",
+                          "#text": "前項の作業は、測量法（昭和二十四年法律第百八十八号）第二十七条第二項の規定により国土交通大臣の刊行した五万分の一地形図（以下「地形図」という。）の図郭の区域ごとに行うものとする。"
+                        },
+                        {
+                          "@Function": "proviso",
+                          "@Num": "2",
+                          "#text": "ただし、作業を行おうとする区域が図郭の区域の一部である場合その他特別の理由がある場合には、図郭の区域の一部について行うことができる。"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "@Num": "5",
+                "ArticleCaption": "（既存資料のしゆう集整理）",
+                "ArticleTitle": "第五条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "土じよう調査の作業を実施する場合には、あらかじめ、既存の各種資料をしゆう集整理して、調査の正確を期するようにしなければならない。"
+                  }
+                }
+              },
+              {
+                "@Num": "6",
+                "ArticleCaption": "（現地作業）",
+                "ArticleTitle": "第六条",
+                "Paragraph": [
+                  {
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": "現地作業を分けて、概査及び精査とする。"
+                    }
+                  },
+                  {
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": "概査とは、土じよう分布の概況をは握するため、調査区域について踏査を行い、かつ、精査の日程を立案する作業をいう。"
+                    }
+                  },
+                  {
+                    "@Num": "3",
+                    "ParagraphNum": "３",
+                    "ParagraphSentence": {
+                      "Sentence": "精査とは、試坑を行う地点（以下「試坑点」という。）について、土じようの断面調査（以下「断面調査」という。）を行い、あわせて当該地点について付帯調査及びきき取り調査（以下「聴取調査」という。）を行い、その結果を第三条第一項の規定による土じようの区分に従つて区分し、土じようの分布状態を地形図に表示する作業をいう。"
+                    }
+                  }
+                ]
+              },
+              {
+                "@Num": "7",
+                "ArticleCaption": "（分析作業）",
+                "ArticleTitle": "第七条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "分析作業とは、前条第三項の土じようの区分を明確にするため、現地において採取した試料について、理化学的分析を行う作業をいう。"
+                  }
+                }
+              },
+              {
+                "@Num": "8",
+                "ArticleCaption": "（整理作業）",
+                "ArticleTitle": "第八条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "整理作業とは、現地作業及び分析作業の結果を基礎として、土じよう図及び土じよう説明書を作成する作業をいう。"
+                  }
+                }
+              },
+              {
+                "@Num": "9",
+                "ArticleCaption": "（地図の接合）",
+                "ArticleTitle": "第九条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "地図は、隣接する地図と接合するように調製するものとする。"
+                  }
+                }
+              },
+              {
+                "@Num": "10",
+                "ArticleCaption": "（地図における表示の方法）",
+                "ArticleTitle": "第十条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": [
+                      {
+                        "@Function": "main",
+                        "@Num": "1",
+                        "#text": "現地作業における地形図の表示の様式及び整理作業における土じよう図の表示の様式は、別表五に定めるところによるものとする。"
+                      },
+                      {
+                        "@Function": "proviso",
+                        "@Num": "2",
+                        "#text": "ただし、同表に定めのないものについてはその旨を注記して、適宜の表現様式によることができる。"
+                      }
+                    ]
+                  }
+                }
+              },
+              {
+                "@Num": "11",
+                "ArticleCaption": "（記録）",
+                "ArticleTitle": "第十一条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "現地作業及び分析作業に当つては、その作業についての記録を作成しておくものとする。"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "@Num": "2",
+            "ChapterTitle": "第二章　現地作業",
+            "Section": [
+              {
+                "@Num": "1",
+                "SectionTitle": "第一節　概査",
+                "Article": {
+                  "@Num": "12",
+                  "ArticleCaption": "（調査区域の区分）",
+                  "ArticleTitle": "第十二条",
+                  "Paragraph": [
+                    {
+                      "@Num": "1",
+                      "ParagraphNum": null,
+                      "ParagraphSentence": {
+                        "Sentence": "概査に当つては、あらかじめ、地形調査の成果である地形分類図及び空中写真等に基き、地形、植生、気候等を考慮して、作業を行う区域を適当な調査地域に区分し、当該調査地域における土じようの分布概況をは握できるよう互に交さする二本以上の踏査経路を選定するものとする。"
+                      }
+                    },
+                    {
+                      "@Num": "2",
+                      "ParagraphNum": "２",
+                      "ParagraphSentence": {
+                        "Sentence": "前項の踏査経路の選定に当つては、隣接する調査地域との連けいをあわせ考慮するものとする。"
+                      }
+                    },
+                    {
+                      "@Num": "3",
+                      "ParagraphNum": "３",
+                      "ParagraphSentence": {
+                        "Sentence": "踏査に当つては、地形、植生等現地の状況に応じ、必要な箇所において土じよう断面の観察を行うものとする。"
+                      }
+                    },
+                    {
+                      "@Num": "4",
+                      "ParagraphNum": "４",
+                      "ParagraphSentence": {
+                        "Sentence": "踏査は、作業を行う地区の調査に従事する者全員で行うものとする。"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "@Num": "2",
+                "SectionTitle": "第二節　精査",
+                "Article": [
+                  {
+                    "@Num": "13",
+                    "ArticleCaption": "（断面調査）",
+                    "ArticleTitle": "第十三条",
+                    "Paragraph": [
+                      {
+                        "@Num": "1",
+                        "ParagraphNum": null,
+                        "ParagraphSentence": {
+                          "Sentence": "断面調査においては、試坑点について、試坑を行い、土じようの色、土性等の状態により土じようの断面を幾つかの層に分け、そのおのおのの層について、次条第一項に掲げる事項を調査するものとする。"
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "ParagraphNum": "２",
+                        "ParagraphSentence": {
+                          "Sentence": "農地、草地及び林地における試坑点の数は、原則として、農地及び草地においては〇・二五平方キロメートルにつき一点、林地においては一平方キロメートルにつき一点とする。"
+                        }
+                      },
+                      {
+                        "@Num": "3",
+                        "ParagraphNum": "３",
+                        "ParagraphSentence": {
+                          "Sentence": "試坑点の位置は、次に掲げる方法により選定するものとする。"
+                        },
+                        "Item": [
+                          {
+                            "@Num": "1",
+                            "ItemTitle": "一",
+                            "ItemSentence": {
+                              "Sentence": [
+                                {
+                                  "@Function": "main",
+                                  "@Num": "1",
+                                  "#text": "農地においては、原則として、地形図を〇・二五平方キロメートルの方眼に区画しその交点によるものとする。"
+                                },
+                                {
+                                  "@Function": "proviso",
+                                  "@Num": "2",
+                                  "#text": "ただし、調査地域において土じようの母材、地形、排水及び植生等の条件を勘案して、その地域の土じようの特性を最もよく表わす地点を選定できる場合には、その地点によるものとする。"
+                                }
+                              ]
+                            }
+                          },
+                          {
+                            "@Num": "2",
+                            "ItemTitle": "二",
+                            "ItemSentence": {
+                              "Sentence": "林地及び草地においては、土じようの母材、地形、排水及び植生等の条件を勘案して、その地域の土じようの特性を最もよく表わす地点によるものとする。"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "@Num": "4",
+                        "ParagraphNum": "４",
+                        "ParagraphSentence": {
+                          "Sentence": "試坑の深さは、一メートルを基準とする。"
+                        }
+                      },
+                      {
+                        "@Num": "5",
+                        "ParagraphNum": "５",
+                        "ParagraphSentence": {
+                          "Sentence": "試坑点の位置は、一連番号を付して、地形図の上に表示するものとする。"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Num": "14",
+                    "ArticleCaption": "（断面調査における調査事項）",
+                    "ArticleTitle": "第十四条",
+                    "Paragraph": [
+                      {
+                        "@Num": "1",
+                        "ParagraphNum": null,
+                        "ParagraphSentence": {
+                          "Sentence": "断面調査は、次に掲げる事項につき、別表一の調査内容の調査を行うものとする。"
+                        },
+                        "Item": [
+                          {
+                            "@Num": "1",
+                            "ItemTitle": "一",
+                            "ItemSentence": {
+                              "Sentence": "層"
+                            }
+                          },
+                          {
+                            "@Num": "2",
+                            "ItemTitle": "二",
+                            "ItemSentence": {
+                              "Sentence": "層界"
+                            }
+                          },
+                          {
+                            "@Num": "3",
+                            "ItemTitle": "三",
+                            "ItemSentence": {
+                              "Sentence": "土性"
+                            }
+                          },
+                          {
+                            "@Num": "4",
+                            "ItemTitle": "四",
+                            "ItemSentence": {
+                              "Sentence": {
+                                "Ruby": {
+                                  "Rt": "れき",
+                                  "#text": "礫"
+                                }
+                              }
+                            }
+                          },
+                          {
+                            "@Num": "5",
+                            "ItemTitle": "五",
+                            "ItemSentence": {
+                              "Sentence": "色"
+                            }
+                          },
+                          {
+                            "@Num": "6",
+                            "ItemTitle": "六",
+                            "ItemSentence": {
+                              "Sentence": "腐植の含量"
+                            }
+                          },
+                          {
+                            "@Num": "7",
+                            "ItemTitle": "七",
+                            "ItemSentence": {
+                              "Sentence": {
+                                "Ruby": {
+                                  "Rt": "でい",
+                                  "#text": "泥"
+                                },
+                                "#text": "炭及び黒泥"
+                              }
+                            }
+                          },
+                          {
+                            "@Num": "8",
+                            "ItemTitle": "八",
+                            "ItemSentence": {
+                              "Sentence": "構造"
+                            }
+                          },
+                          {
+                            "@Num": "9",
+                            "ItemTitle": "九",
+                            "ItemSentence": {
+                              "Sentence": "孔げき"
+                            }
+                          },
+                          {
+                            "@Num": "10",
+                            "ItemTitle": "十",
+                            "ItemSentence": {
+                              "Sentence": "かたさ"
+                            }
+                          },
+                          {
+                            "@Num": "11",
+                            "ItemTitle": "十一",
+                            "ItemSentence": {
+                              "Sentence": "粗密度"
+                            }
+                          },
+                          {
+                            "@Num": "12",
+                            "ItemTitle": "十二",
+                            "ItemSentence": {
+                              "Sentence": "ねばり"
+                            }
+                          },
+                          {
+                            "@Num": "13",
+                            "ItemTitle": "十三",
+                            "ItemSentence": {
+                              "Sentence": {
+                                "Ruby": {
+                                  "Rt": "はん",
+                                  "#text": "斑"
+                                },
+                                "#text": "紋、結核及び盤層"
+                              }
+                            }
+                          },
+                          {
+                            "@Num": "14",
+                            "ItemTitle": "十四",
+                            "ItemSentence": {
+                              "Sentence": {
+                                "Ruby": {
+                                  "Rt": "ゆう",
+                                  "#text": "湧"
+                                },
+                                "#text": "湿り及び水面"
+                              }
+                            }
+                          },
+                          {
+                            "@Num": "15",
+                            "ItemTitle": "十五",
+                            "ItemSentence": {
+                              "Sentence": "根"
+                            }
+                          },
+                          {
+                            "@Num": "16",
+                            "ItemTitle": "十六",
+                            "ItemSentence": {
+                              "Sentence": "菌根及び菌糸"
+                            }
+                          },
+                          {
+                            "@Num": "17",
+                            "ItemTitle": "十七",
+                            "ItemSentence": {
+                              "Sentence": "その他土じようを区分するために必要な事項"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "@Num": "2",
+                        "ParagraphNum": "２",
+                        "ParagraphSentence": {
+                          "Sentence": "断面調査に当つては、土じよう断面を写生し、特に必要と認める場合には、土じよう断面その他断面調査に必要な植生等の写真を撮影するものとする。"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Num": "15",
+                    "ArticleCaption": "（付帯調査）",
+                    "ArticleTitle": "第十五条",
+                    "Paragraph": {
+                      "@Num": "1",
+                      "ParagraphNum": null,
+                      "ParagraphSentence": {
+                        "Sentence": "付帯調査は、次に掲げる事項につき、別表二の調査内容の調査を行うものとする。"
+                      },
+                      "Item": [
+                        {
+                          "@Num": "1",
+                          "ItemTitle": "一",
+                          "ItemSentence": {
+                            "Sentence": "土地利用の状況"
+                          }
+                        },
+                        {
+                          "@Num": "2",
+                          "ItemTitle": "二",
+                          "ItemSentence": {
+                            "Sentence": "植生"
+                          }
+                        },
+                        {
+                          "@Num": "3",
+                          "ItemTitle": "三",
+                          "ItemSentence": {
+                            "Sentence": "地形"
+                          }
+                        },
+                        {
+                          "@Num": "4",
+                          "ItemTitle": "四",
+                          "ItemSentence": {
+                            "Sentence": "地質"
+                          }
+                        },
+                        {
+                          "@Num": "5",
+                          "ItemTitle": "五",
+                          "ItemSentence": {
+                            "Sentence": "傾斜の角度及び方向"
+                          }
+                        },
+                        {
+                          "@Num": "6",
+                          "ItemTitle": "六",
+                          "ItemSentence": {
+                            "Sentence": "付近見取図"
+                          }
+                        },
+                        {
+                          "@Num": "7",
+                          "ItemTitle": "七",
+                          "ItemSentence": {
+                            "Sentence": "その他土じようを区分するために必要な事項"
+                          }
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "@Num": "16",
+                    "ArticleCaption": "（聴取調査）",
+                    "ArticleTitle": "第十六条",
+                    "Paragraph": {
+                      "@Num": "1",
+                      "ParagraphNum": null,
+                      "ParagraphSentence": {
+                        "Sentence": "聴取調査は、地下水位、自然条件及び生産物に関する事項等につき、別表三の調査内容の調査を行うものとする。"
+                      }
+                    }
+                  },
+                  {
+                    "@Num": "17",
+                    "ArticleCaption": "（土じようの区分及び分布調査）",
+                    "ArticleTitle": "第十七条",
+                    "Paragraph": [
+                      {
+                        "@Num": "1",
+                        "ParagraphNum": null,
+                        "ParagraphSentence": {
+                          "Sentence": "現地における調査に当つては、試坑点におけるそれぞれの土じよう断面について、第三条第一項の規定による区分により比較検討を行い、同一の統及び類に属すると認められるものを取りまとめるものとする。"
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "ParagraphNum": "２",
+                        "ParagraphSentence": {
+                          "Sentence": {
+                            "Ruby": {
+                              "Rt": "せん",
+                              "#text": "穿"
+                            },
+                            "#text": "前項の規定により取りまとめた統及び類において、相異なる統及び類に属する土じようのある地点間にあつては、土じようの母材、地形、排水の状態及び植生等を勘案して、簡易試坑又は試を行う地点を選定して土じよう断面の異同を識別し、その結果により界線を定めるものとする。"
+                          }
+                        }
+                      },
+                      {
+                        "@Num": "3",
+                        "ParagraphNum": "３",
+                        "ParagraphSentence": {
+                          "Sentence": "統及び類の名称並びに前項の方法によつて定めた統及び類の分布の界線は、地形図の上に表示するものとする。"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Num": "18",
+                    "ArticleCaption": "（簡易試坑又は試穿の調査）",
+                    "ArticleTitle": "第十八条",
+                    "Paragraph": [
+                      {
+                        "@Num": "1",
+                        "ParagraphNum": null,
+                        "ParagraphSentence": {
+                          "Sentence": "前条第二項の規定による土じよう断面の異同の識別に当つては、第十四条及び第十五条に規定する事項のうち必要な調査を行うものとする。"
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "ParagraphNum": "２",
+                        "ParagraphSentence": {
+                          "Sentence": "簡易試坑の深さは、六十センチメートルを基準とする。"
+                        }
+                      },
+                      {
+                        "@Num": "3",
+                        "ParagraphNum": "３",
+                        "ParagraphSentence": {
+                          "Sentence": "試穿の深さは、一メートルを基準とする。"
+                        }
+                      },
+                      {
+                        "@Num": "4",
+                        "ParagraphNum": "４",
+                        "ParagraphSentence": {
+                          "Sentence": "簡易試坑及び重要な試穿を行つた位置は、一連番号を付して地形図の上に表示するものとする。"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Num": "19",
+                    "ArticleCaption": "（既存の試坑点等の資料の利用）",
+                    "ArticleTitle": "第十九条",
+                    "Paragraph": [
+                      {
+                        "@Num": "1",
+                        "ParagraphNum": null,
+                        "ParagraphSentence": {
+                          "Sentence": "精査に当つては、既存の試坑点の資料で第十四条から第十六条までに規定するものと同等以上の精度を有すると認められるものがある場合には、当該既存の資料を用いることができる。"
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "ParagraphNum": "２",
+                        "ParagraphSentence": {
+                          "Sentence": "前項の規定は、既存の簡易試坑又は重要な試穿の資料の場合に準用する。"
+                        }
+                      },
+                      {
+                        "@Num": "3",
+                        "ParagraphNum": "３",
+                        "ParagraphSentence": {
+                          "Sentence": "前二項の場合における既存の試坑、簡易試坑及び重要な試穿の位置は、地形図の上に表示するものとする。"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Num": "20",
+                    "ArticleCaption": "（分析試料及び柱状標本の採取）",
+                    "ArticleTitle": "第二十条",
+                    "Paragraph": [
+                      {
+                        "@Num": "1",
+                        "ParagraphNum": null,
+                        "ParagraphSentence": {
+                          "Sentence": "試坑を行つた地点については、原則として、土じようの各層につき、おおむね二キログラムの分析試料を採取し、特に必要と認める層については円筒採取をあわせ行うものとする。"
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "ParagraphNum": "２",
+                        "ParagraphSentence": {
+                          "Sentence": "前項の場合において、必要があるときは柱状標本を採取するものとする。"
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "@Num": "3",
+            "ChapterTitle": "第三章　分析作業",
+            "Article": [
+              {
+                "@Num": "21",
+                "ArticleCaption": "（分析の方法）",
+                "ArticleTitle": "第二十一条",
+                "Paragraph": [
+                  {
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": "分析作業に当つては、前条第一項の規定により採取した試料について、次に掲げる項目のうち必要なものにつき分析を行うものとする。"
+                    },
+                    "Item": [
+                      {
+                        "@Num": "1",
+                        "ItemTitle": "一",
+                        "ItemSentence": {
+                          "Sentence": "粒径組成"
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "ItemTitle": "二",
+                        "ItemSentence": {
+                          "Sentence": "容積重及び容水量"
+                        }
+                      },
+                      {
+                        "@Num": "3",
+                        "ItemTitle": "三",
+                        "ItemSentence": {
+                          "Sentence": "全炭素"
+                        }
+                      },
+                      {
+                        "@Num": "4",
+                        "ItemTitle": "四",
+                        "ItemSentence": {
+                          "Sentence": "全窒素"
+                        }
+                      },
+                      {
+                        "@Num": "5",
+                        "ItemTitle": "五",
+                        "ItemSentence": {
+                          "Sentence": "水素イオン濃度"
+                        }
+                      },
+                      {
+                        "@Num": "6",
+                        "ItemTitle": "六",
+                        "ItemSentence": {
+                          "Sentence": "置換酸度"
+                        }
+                      },
+                      {
+                        "@Num": "7",
+                        "ItemTitle": "七",
+                        "ItemSentence": {
+                          "Sentence": "置換容量"
+                        }
+                      },
+                      {
+                        "@Num": "8",
+                        "ItemTitle": "八",
+                        "ItemSentence": {
+                          "Sentence": "置換性石灰"
+                        }
+                      },
+                      {
+                        "@Num": "9",
+                        "ItemTitle": "九",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "Ruby": {
+                              "Rt": "けい",
+                              "#text": "珪"
+                            },
+                            "#text": "ばん比"
+                          }
+                        }
+                      },
+                      {
+                        "@Num": "10",
+                        "ItemTitle": "十",
+                        "ItemSentence": {
+                          "Sentence": "燐酸吸収係数"
+                        }
+                      },
+                      {
+                        "@Num": "11",
+                        "ItemTitle": "十一",
+                        "ItemSentence": {
+                          "Sentence": "その他土じようの特性を明らかにするため必要な事項"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": "前項の分析は、土じようの母材、地形、排水の状態及び植生等を勘案して、おおむね一平方キロメートルにつき一点の割合で、最も代表的な地点の試料について行うものとする。"
+                    }
+                  },
+                  {
+                    "@Num": "3",
+                    "ParagraphNum": "３",
+                    "ParagraphSentence": {
+                      "Sentence": "第一項の分析の方法は、別表四の定めるところによる。"
+                    }
+                  }
+                ]
+              },
+              {
+                "@Num": "22",
+                "ArticleCaption": "（既存の分析結果の利用）",
+                "ArticleTitle": "第二十二条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "既存の試坑点についての分析結果で、前条の規定による分析結果と同等以上の精度を有すると認められるものがある場合には、当該既存の分析結果を用いることができる。"
+                  }
+                }
+              },
+              {
+                "@Num": "23",
+                "ArticleCaption": "（分析結果による補正）",
+                "ArticleTitle": "第二十三条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "前二条の規定による分析結果により必要があると認めたときは、第十七条第三項の規定による地形図の表示を補正するものとする。"
+                  }
+                }
+              },
+              {
+                "@Num": "24",
+                "ArticleCaption": "（試料の保管）",
+                "ArticleTitle": "第二十四条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "第二十一条第一項の規定により分析を行つたとき、その分析に使用しなかつた分析試料及び柱状標本は、保管しておくものとする。"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "@Num": "4",
+            "ChapterTitle": "第四章　整理作業",
+            "Article": [
+              {
+                "@Num": "25",
+                "ArticleCaption": "（土じよう図の作成）",
+                "ArticleTitle": "第二十五条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "土じよう図は、地形図に第十三条第五項、第十七条第三項、第十八条第四項、第十九条第三項及び第二十三条の規定により地形図に表示した事項を転記して作成するものとする。"
+                  }
+                }
+              },
+              {
+                "@Num": "26",
+                "ArticleCaption": "（土じよう説明書）",
+                "ArticleTitle": "第二十六条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "土じよう説明書は、土じようの区分及び分布並びにこれと土地利用との関係について別表六に定めるところにより記入し、土じようの特性を示す付表を添付するものとする。"
+                  }
+                }
+              }
+            ]
+          }
+        ]
+      },
+      "SupplProvision": [
+        {
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この府令は、公布の日から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "昭和三〇年七月二〇日総理府令第二七号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この府令は、公布の日から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "昭和四九年六月二六日総理府令第三九号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この府令は、公布の日から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成一二年八月一四日総理府令第一〇三号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この府令は、内閣法の一部を改正する法律（平成十一年法律第八十八号）の施行の日（平成十三年一月六日）から施行する。"
+            }
+          }
+        }
+      ],
+      "AppdxTable": [
+        {
+          "AppdxTableTitle": "別表第一　断面調査の調査内容",
+          "TableStruct": {
+            "Table": {
+              "TableRow": [
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "調査事項"
+                    },
+                    {
+                      "Sentence": "調査内容"
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "一　層"
+                    },
+                    {
+                      "Sentence": [
+                        "次のとおり区分し、厚さを記載する。",
+                        "各層の土じようの色、土性等によつて上部より第一層、第二層、第三層……等と区分し、農地にあつては、別に作土を区分する。ただし、層名による区分を適当と認めるときは、これによることとし、この場合においては、草地及び林地について、Ａ０層を更にＬ層、Ｆ層及びＨ層に区分する。"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "二　層界"
+                    },
+                    {
+                      "Sentence": [
+                        "次のとおり区分する。",
+                        {
+                          "Ruby": {
+                            "Rt": "りよう",
+                            "#text": "瞭"
+                          },
+                          "#text": "明（層界の厚さが、一センチメートル以上三センチメートル未満のもの。）"
+                        },
+                        "判然（層界の厚さが、三センチメートル以上五センチメートル未満のもの。）",
+                        "漸変（層界の厚さが、五センチメートル以上のもの。）",
+                        "層界の形は、直線、波状、不規則及び切れているに区分する。"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "三　土性"
+                    },
+                    {
+                      "Sentence": "日本農学会法による。必要な場合には、土性名の上に軽又は粘性の文字を冠する。"
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "四　礫"
+                    },
+                    {
+                      "Sentence": [
+                        "形（円、半角及び角の別）、腐朽の程度（新、朽の別）、大きさ、含量及び礫の母岩の種類",
+                        "１　大きさは、次のとおり区分する。",
+                        "細礫（長径二ミリメートル以上一センチメートル未満のもの。）",
+                        "小礫（長径一センチメートル以上五センチメートル未満のもの。）",
+                        "中礫（長径五センチメートル以上十センチメートル未満のもの。）",
+                        "大礫（長径十センチメートル以上二十センチメートル未満のもの。）",
+                        "巨礫（長径二十センチメートル以上のもの。）",
+                        "２　含量は、五パーセント以上のものについては、日本農学会法により、五パーセント未満のものについては、あり及びなしに区分する。"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "五　色"
+                    },
+                    {
+                      "Sentence": "湿土及び乾土の色"
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "六　腐植の含量"
+                    },
+                    {
+                      "Sentence": "二パーセント以上のものについては、日本農学会法により、二パーセント未満のものについては、なしと記載する。"
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "七　泥炭及び黒泥"
+                    },
+                    {
+                      "Sentence": [
+                        "（一）　泥炭の量及び質",
+                        "１　量は、次のとおり区分する。",
+                        "泥炭層（泥炭が大部分を占める層）",
+                        "泥炭質（泥炭を半ば近く含む層）",
+                        "泥炭を含む（泥炭が三分の一未満の層）",
+                        "２　質は、次のとおり区分する。ただし、原植物の種類が判定できる場合には、その名称をあわせて記載する。",
+                        {
+                          "Ruby": {
+                            "Rt": "せん",
+                            "#text": "蘚"
+                          },
+                          "#text": "高位泥炭（原植物が主として水類からなるもの。）"
+                        },
+                        "中間泥炭（原植物が主としてわたすげ、ぬまかや等からなるもの。）",
+                        "低位泥炭（原植物が主としてあし類からなるもの。）",
+                        "（二）　黒泥の量",
+                        "泥炭の量に準じて区分する。"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "八　構造"
+                    },
+                    {
+                      "Sentence": [
+                        "（一）　次のとおり区分し、厚さ及び大きさを記載する。",
+                        "１　板状（水平の厚さに対し横が大きいもの。）",
+                        "２　柱状（柱の垂直の長さが柱の辺又は径の二倍以上のもの。）",
+                        "３　方形状（縦、横及び高さがほぼ等しいもの。）",
+                        {
+                          "Ruby": {
+                            "Rt": "りよう",
+                            "#text": "稜"
+                          },
+                          "#text": "角塊状（角に丸味がなく、二センチメートル以上の大きさのもの。）"
+                        },
+                        "塊状（稜角に丸味があり、二センチメートル以上の大きさのもの。）",
+                        "堅果状（稜角に丸味がなく、二ミリメートル以上二センチメートル未満の大きさのもの。）",
+                        "粗粒状（稜角に丸味があり、二ミリメートル以上二センチメートル未満の大きさのもの。）",
+                        "微粒状（二ミリメートル未満の大きさのもの。）",
+                        "軟粒状（微粒状と同形であるが、膨軟な組成をもつたもの。）",
+                        "４　無構造（構造のないもの。）",
+                        "壁状（土粒が接着しているもの。）",
+                        "単粒（土粒が接着していないもの。）",
+                        "（二）　地表に形成された膜があれば、そのかたさ、厚さ及び大きさ",
+                        "（三）　割れ目",
+                        "地表面及び自然断面について、すき間及び割れ目がある場合には、方向、形状、大きさ及び深さ"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "九　孔げき"
+                    },
+                    {
+                      "Sentence": [
+                        "土塊を割つた面について、孔の大きさ及び含量を次のとおり区分する。",
+                        "１　大きさ",
+                        "細（〇・五ミリメートル未満のもの。）",
+                        "小（〇・五ミリメートル以上二ミリメートル未満のもの。）",
+                        "中（二ミリメートル以上一センチメートル未満のもの。）",
+                        "大（一センチメートル以上のもの。）",
+                        {
+                          "Ruby": {
+                            "Rt": "ほう",
+                            "#text": "泡"
+                          },
+                          "#text": "２　含量（必要がある場合には、孔げきの状態により、海綿状、管状、細胞状及び気状等と記載する。）"
+                        },
+                        "富む（三十パーセント以上のもの。）",
+                        "含む（十パーセント以上三十パーセント未満のもの。）",
+                        "あり（十パーセント未満のもの。）"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "十　かたさ"
+                    },
+                    {
+                      "Sentence": [
+                        "（一）　風乾した土塊を、母指と示指との間で圧砕するに要した力の大小により、次のとおり区分する。",
+                        "零（全く塊とならない。）",
+                        "小（ほとんど力を加えないで砕かれる。）",
+                        "中（普通の力で圧して砕かれる。）",
+                        "大（強く圧して始めて砕かれる。）",
+                        "極大（力いつぱい圧して砕かれないか又はやつと砕かれる。）",
+                        "（二）　土じよう硬度計を用いた場合には、指針の目盛（単位は、ミリメートルとする。）を併記する。"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "十一　粗密度"
+                    },
+                    {
+                      "Sentence": [
+                        "（一）　断面を母指でおしつけて、その抵抗により次のとおり区分する。ただし、土じよう硬度計を用いた場合には、指針の目盛（単位は、ミリメートルとする。）による。",
+                        "すこぶる粗（砂土のように土粒が単独に分離して、ほとんど団状を形成していないもの。「土じよう硬度計の目盛が十以下のもの。」）",
+                        "粗（土粒が軽く結合して、土塊が容易にくずれ、かつ、指頭で層断面を圧すると容易に貫入するもの。「土じよう硬度計の目盛が十一から十八までのもの。」）",
+                        "中（土粒が比較的密に結合しているが、層断面を指で強く圧すると指こんのでるもの。「土じよう硬度計の目盛が十九から二十五までのもの。」）",
+                        "密（土粒が密に結合していて層断面を指で強く圧しても指こんの生じないもの。「土じよう硬度計の目盛が二十六から二十八までのもの。」）",
+                        "すこぶる密（土粒が密に結合していて移植ごてを入れ得るもの。「土じよう硬度計の目盛が二十九以上のもの。」）"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "十二　ねばり"
+                    },
+                    {
+                      "Sentence": [
+                        "土じように適当な水分をもたせて、母指と示指との間でのばした場合の展性の強弱によつて、次のとおり区分する。",
+                        "零（全く棒状にならないもの。）",
+                        "弱（かろうじて棒状になるがすぐ切れてしまうもの。）",
+                        "中（直径二ミリメートル内外の棒状にまでのばせるもの。）",
+                        "強（直径一ミリメートル内外の棒状にまでのばせるもの。）",
+                        "極強（長さ二センチメートル以上の細い糸状にまでのばせるもの。）"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "十三　斑紋、結核及び盤層"
+                    },
+                    {
+                      "Sentence": [
+                        "（一）　斑紋",
+                        "色、形状及び量（斑紋が二種類以上あるときは、そのおのおのについて区分する。）",
+                        "１　形状は、膜状、糸状、糸根状、点状、雲状、管状、盤状及び結核状等に区分する。",
+                        "２　量は、次のとおり区分する。",
+                        "すこぶる富む（三十パーセント以上のもの。）",
+                        "富む（十パーセント以上三十パーセント未満のもの。）",
+                        "含む（十パーセント未満のもの。）",
+                        "あり（認められる程度のもの。）",
+                        "（二）　結核",
+                        "大きさ、形状（無定形、球状及び管状等に区分する。）、色（外側及び内側）及び量（礫の含量に準じて区分する。）",
+                        "（三）　盤層",
+                        "厚さ、色及びかたさ。ただし、かたさは土じよう硬度計の目盛（単位は、ミリメートルとする。）を記載する。"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "十四　湿り及び湧水面"
+                    },
+                    {
+                      "Sentence": [
+                        "（一）　湿り",
+                        "土塊を手で握つた場合の湿りの程度により、次のとおり区分する。",
+                        "乾（手で握つても湿気を感じないもの。）",
+                        "半乾（手で握ると湿気を感じるもの。）",
+                        "湿（手で握るとてのひらがぬれるが水滴が落ちないもの。）",
+                        "多湿（手で握ると水滴が落ちるもの。）",
+                        "（二）　湧水面",
+                        "湧水部位及び湧水の上昇停止部位"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "十五　根"
+                    },
+                    {
+                      "Sentence": [
+                        "（一）　根を木本と草本とに分け、そのおのおのについて太さと量を次のとおり区分する。",
+                        "１　太さ",
+                        "大（径二センチメートル以上のもの。）",
+                        "中（径二ミリメートル以上二センチメートル未満のもの。）",
+                        "小（径二ミリメートル未満のもの。）",
+                        "２　量",
+                        "すこぶる富む（二十パーセント以上のもの。）",
+                        "富む（十パーセント以上二十パーセント未満のもの。）",
+                        "含む（五パーセント以上十パーセント未満のもの。）",
+                        "あり（五パーセント未満のもの。）",
+                        "（二）　必要がある場合には、色を調査する。"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "十六　菌根及び菌糸"
+                    },
+                    {
+                      "Sentence": "菌根については、あり及びなしに、菌糸については、層状、斑状、散見及びなしに区分する。"
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": {
+                    "@colspan": "2",
+                    "Sentence": "備考　調査内容のうち、色についての調査は、国土交通大臣の定める色名帳による。"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "AppdxTableTitle": "別表第二　付帯調査の調査内容",
+          "TableStruct": {
+            "Table": {
+              "TableRow": [
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "調査事項"
+                    },
+                    {
+                      "@colspan": "3",
+                      "Sentence": "調査内容"
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "一　土地利用の状況"
+                    },
+                    {
+                      "@colspan": "3",
+                      "Sentence": [
+                        "（一）　田",
+                        "作数区分（一毛作、二毛作又は多毛作）を、次の内容の下に括弧で記入する。",
+                        "乾田",
+                        "半湿田",
+                        "湿田",
+                        "（二）　畑",
+                        "普通畑（作数区分「一年一作、一年二作、一年三作又は二年三作」を括弧で記入する。）",
+                        "牧草畑",
+                        "果樹園",
+                        "茶園",
+                        "桑園",
+                        "竹林畑",
+                        "兼用畑",
+                        "周囲作畑",
+                        "（三）　草地",
+                        "人工草地及び自然草地に区分し、次の内容を括弧で記入する。",
+                        "放牧地",
+                        "採草地",
+                        "放牧採草兼用地",
+                        "未利用草地",
+                        "（四）　林地",
+                        "天然林地及び人工林地の区分を、次の内容の下に括弧で記入する。",
+                        "針葉樹林地",
+                        "広葉樹林地",
+                        "竹林畑",
+                        "混交林地",
+                        "林業苗畑",
+                        "切替畑",
+                        "未立木地"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "@rowspan": "8",
+                      "Sentence": "二　植生"
+                    },
+                    {
+                      "@colspan": "3",
+                      "Sentence": [
+                        {
+                          "Ruby": {
+                            "Rt": "かん",
+                            "#text": "灌"
+                          },
+                          "#text": "（一）　草地及び林地においては、断面調査箇所を中心として、十メートル四方の正方形を区画して、そのうちの高木階、従高木階、木階、草本階（高径層及び低径層）、地表階（つる性植物及び着生植物等）に分け、種別に優占度を記載し、その他高木及び従高木にあつては、樹高及び直径を測定する。"
+                        },
+                        "（二）　優占度は、次の階級とし、出現の仕方に特徴がある場合には、群状、団状及び単位状等と付記する。"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "優占度"
+                    },
+                    {
+                      "Sentence": "植物体が測定面積をおおう割合"
+                    },
+                    {
+                      "Sentence": "個体数"
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "５"
+                    },
+                    {
+                      "Sentence": "３／４以上"
+                    },
+                    {
+                      "Sentence": "任意"
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "４"
+                    },
+                    {
+                      "Sentence": "１／２以上３／４未満"
+                    },
+                    {
+                      "Sentence": "任意"
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "３"
+                    },
+                    {
+                      "Sentence": "１／４以上１／２未満"
+                    },
+                    {
+                      "Sentence": "任意"
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "２"
+                    },
+                    {
+                      "Sentence": [
+                        "イ１／２０以上１／４未満",
+                        "ロ１／２０未満任意"
+                      ]
+                    },
+                    {
+                      "Sentence": [
+                        "任意",
+                        "非常に多数"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "１"
+                    },
+                    {
+                      "Sentence": [
+                        "イ１／２０未満で比較的大",
+                        "ロ１／２０未満で比較的小"
+                      ]
+                    },
+                    {
+                      "Sentence": [
+                        "比較的小数",
+                        "比較的多数"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "＋"
+                    },
+                    {
+                      "Sentence": "非常に小"
+                    },
+                    {
+                      "Sentence": "非常に小"
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "三　地形"
+                    },
+                    {
+                      "@colspan": "3",
+                      "Sentence": [
+                        "（一）　分類",
+                        "１　山地丘陵地",
+                        "山頂緩斜面",
+                        "山腹緩斜面",
+                        {
+                          "Ruby": {
+                            "Rt": "ろく",
+                            "#text": "麓"
+                          },
+                          "#text": "山緩斜面"
+                        },
+                        "急斜面",
+                        {
+                          "Ruby": {
+                            "Rt": "さい",
+                            "#text": "砕"
+                          },
+                          "#text": "山地丘陵地にあつては、原地形が火山噴出により生じ、かつ、火山噴出岩又は火山屑物により特徴づけられている場合には、山地丘陵地の分類名の上に火山性の文字を冠する。"
+                        },
+                        "２　台地",
+                        "岩石台地",
+                        "砂礫台地",
+                        "石灰岩台地",
+                        "火山灰砂台地",
+                        "溶岩台地",
+                        "３　低地",
+                        "谷底平野",
+                        "扇状地",
+                        "三角州",
+                        {
+                          "Ruby": {
+                            "Rt": "ひがた",
+                            "#text": "干潟"
+                          }
+                        },
+                        "（二）　各地形に付随する細地形は、必要があれば次のとおり更に区分する。",
+                        "地すべり地形",
+                        "崩壊地形",
+                        {
+                          "Ruby": {
+                            "Rt": "がいすい",
+                            "#text": "崖錐"
+                          },
+                          "#text": "麓屑面及び"
+                        },
+                        "泥流地形",
+                        "土石流地形",
+                        "砂礫地",
+                        "砂丘",
+                        "湿地"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "四　地質"
+                    },
+                    {
+                      "@colspan": "3",
+                      "Sentence": [
+                        "（一）　分類",
+                        "固結堆積物",
+                        "礫岩、砂岩、泥岩及び珪岩質岩石（角石、チヤート及び珪岩）",
+                        "凝灰岩質岩石（輝緑凝灰岩、凝灰岩及び凝灰分に富む岩石）",
+                        "石灰岩",
+                        "石灰岩",
+                        "火山性岩石",
+                        "流紋岩質岩石（流紋岩及び強ハリ質岩石）",
+                        "安山岩質岩石（石英安山岩、安山岩、玄武岩及び〔ひん〕（ひん）岩で、強ハリ質岩石を除く。）",
+                        "集塊岩",
+                        "深成岩",
+                        {
+                          "Ruby": [
+                            {
+                              "Rt": "こう",
+                              "#text": "崗"
+                            },
+                            {
+                              "Rt": "せん",
+                              "#text": "閃"
+                            }
+                          ],
+                          "#text": "花岩質岩石（花崗岩、花崗緑岩、巨晶花崗岩、半花崗岩、花崗斑岩、石英閃緑岩及び閃緑岩で比較的優白色のもの又は片麻岩で片理構造の弱いもの。）"
+                        },
+                        "石英斑岩",
+                        "斑励岩質岩石（斑励岩、輝緑岩及び角閃岩のうち、片状構造の明瞭でないもの並びに閃緑岩で比較的優黒色のもの。）",
+                        {
+                          "Ruby": [
+                            {
+                              "Rt": "じや",
+                              "#text": "蛇"
+                            },
+                            {
+                              "Rt": "かんらん",
+                              "#text": "橄欖"
+                            }
+                          ],
+                          "#text": "紋岩質岩石（蛇紋岩、岩及びその他蛇紋岩化作用の著しく進んだもの。）"
+                        },
+                        "変成岩",
+                        {
+                          "Ruby": {
+                            "Rt": "れん",
+                            "#text": "簾"
+                          },
+                          "#text": "緑色片岩（緑泥片岩、緑片岩及び角閃岩で片状構造の明瞭のもの。）"
+                        },
+                        "その他の変成岩（緑色片岩以外の片状構造の明瞭な変成岩、片麻岩中で片状構造の明瞭のもの及び圧砕岩質岩石（圧砕岩化作用の進んだもの。））",
+                        {
+                          "Ruby": [
+                            {
+                              "Rt": "こう",
+                              "#text": "洪"
+                            },
+                            {
+                              "Rt": "ちゆう",
+                              "#text": "冲"
+                            }
+                          ],
+                          "#text": "（二）　堆積岩については、必要があれば古生代、中生代、古第三紀、新第三紀、積世及び積世に区分する。"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "五　傾斜の角度及び方位"
+                    },
+                    {
+                      "@colspan": "3",
+                      "Sentence": [
+                        "（一）　最大傾斜の向き、角度及び同じ傾斜角をなす斜面の長さ",
+                        "（二）　階段耕作の場合には、右のほか、法面の高さ、法面の状態（石垣、粘土又は草生等）及び耕地面の最大の幅並びに傾斜角度"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "六　付近見取図"
+                    },
+                    {
+                      "@colspan": "3",
+                      "Sentence": "調査地点を中心として周辺との高さの関係、傾斜の相違、近接する道路、水流及びかんがい水路との関係その他参考となるもの。"
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "七　その他必要な事項"
+                    },
+                    {
+                      "@colspan": "3",
+                      "Sentence": "天気については、調査当日又はそれまでの天気（たとえば、一週間晴天続き、三日前豪雨等）で土じように影響を及ぼしたと思われる天気の概況"
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        },
+        {
+          "AppdxTableTitle": "別表第三　聴取調査の調査内容",
+          "TableStruct": {
+            "Table": {
+              "TableRow": [
+                {
+                  "TableColumn": {
+                    "@colspan": "6",
+                    "Sentence": "次の表のうち田、畑、草地及び林地について、〇印を付したものをその調査地点の調査内容とする。ただし、田について裏作のある場合には、裏作の平年反当を調査項目に加える。"
+                  }
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "@colspan": "2",
+                      "@rowspan": "2",
+                      "Sentence": "調査地点"
+                    },
+                    {
+                      "@colspan": "4",
+                      "Sentence": "調査内容"
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "田"
+                    },
+                    {
+                      "Sentence": "畑"
+                    },
+                    {
+                      "Sentence": "草地"
+                    },
+                    {
+                      "Sentence": "林地"
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "@rowspan": "25",
+                      "Sentence": "調査項目"
+                    },
+                    {
+                      "Sentence": "調査地点の市、区、町、村、字、地番"
+                    },
+                    {
+                      "Sentence": "〇"
+                    },
+                    {
+                      "Sentence": "〇"
+                    },
+                    {
+                      "Sentence": "〇"
+                    },
+                    {
+                      "Sentence": "〇"
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "耕作者住所氏名"
+                    },
+                    {
+                      "Sentence": "〇"
+                    },
+                    {
+                      "Sentence": "〇"
+                    },
+                    {
+                      "Sentence": "〇"
+                    },
+                    {
+                      "Sentence": "〇"
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "開田、開畑又は開園の年"
+                    },
+                    {
+                      "Sentence": "〇"
+                    },
+                    {
+                      "Sentence": "〇"
+                    },
+                    {
+                      "Sentence": null
+                    },
+                    {
+                      "Sentence": null
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "日照の良否"
+                    },
+                    {
+                      "Sentence": "〇"
+                    },
+                    {
+                      "Sentence": "〇"
+                    },
+                    {
+                      "Sentence": null
+                    },
+                    {
+                      "Sentence": null
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "地下水位"
+                    },
+                    {
+                      "Sentence": "〇"
+                    },
+                    {
+                      "Sentence": "〇"
+                    },
+                    {
+                      "Sentence": "〇"
+                    },
+                    {
+                      "Sentence": "〇"
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "かんがい用水の水源"
+                    },
+                    {
+                      "Sentence": "〇"
+                    },
+                    {
+                      "Sentence": null
+                    },
+                    {
+                      "Sentence": null
+                    },
+                    {
+                      "Sentence": null
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "水量"
+                    },
+                    {
+                      "Sentence": "〇"
+                    },
+                    {
+                      "Sentence": null
+                    },
+                    {
+                      "Sentence": null
+                    },
+                    {
+                      "Sentence": null
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "水温"
+                    },
+                    {
+                      "Sentence": "〇"
+                    },
+                    {
+                      "Sentence": null
+                    },
+                    {
+                      "Sentence": null
+                    },
+                    {
+                      "Sentence": null
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "水質"
+                    },
+                    {
+                      "Sentence": "〇"
+                    },
+                    {
+                      "Sentence": null
+                    },
+                    {
+                      "Sentence": null
+                    },
+                    {
+                      "Sentence": null
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "減水深"
+                    },
+                    {
+                      "Sentence": "〇"
+                    },
+                    {
+                      "Sentence": null
+                    },
+                    {
+                      "Sentence": null
+                    },
+                    {
+                      "Sentence": null
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "土地改良の種類"
+                    },
+                    {
+                      "Sentence": "〇"
+                    },
+                    {
+                      "Sentence": null
+                    },
+                    {
+                      "Sentence": null
+                    },
+                    {
+                      "Sentence": null
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "土地改良の実施年月及び効果"
+                    },
+                    {
+                      "Sentence": "〇"
+                    },
+                    {
+                      "Sentence": null
+                    },
+                    {
+                      "Sentence": null
+                    },
+                    {
+                      "Sentence": null
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "栽培作物及び樹性"
+                    },
+                    {
+                      "Sentence": "〇"
+                    },
+                    {
+                      "Sentence": "〇"
+                    },
+                    {
+                      "Sentence": null
+                    },
+                    {
+                      "Sentence": null
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "常習被害"
+                    },
+                    {
+                      "Sentence": "〇"
+                    },
+                    {
+                      "Sentence": "〇"
+                    },
+                    {
+                      "Sentence": null
+                    },
+                    {
+                      "Sentence": null
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "平年反収"
+                    },
+                    {
+                      "Sentence": "〇"
+                    },
+                    {
+                      "Sentence": "〇"
+                    },
+                    {
+                      "Sentence": null
+                    },
+                    {
+                      "Sentence": null
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "作付順序"
+                    },
+                    {
+                      "Sentence": "〇"
+                    },
+                    {
+                      "Sentence": null
+                    },
+                    {
+                      "Sentence": null
+                    },
+                    {
+                      "Sentence": null
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "間作"
+                    },
+                    {
+                      "Sentence": null
+                    },
+                    {
+                      "Sentence": "〇"
+                    },
+                    {
+                      "Sentence": null
+                    },
+                    {
+                      "Sentence": null
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "樹の生育状況"
+                    },
+                    {
+                      "Sentence": null
+                    },
+                    {
+                      "Sentence": "〇"
+                    },
+                    {
+                      "Sentence": null
+                    },
+                    {
+                      "Sentence": "〇"
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "植付年代及び樹令"
+                    },
+                    {
+                      "Sentence": null
+                    },
+                    {
+                      "Sentence": "〇"
+                    },
+                    {
+                      "Sentence": null
+                    },
+                    {
+                      "Sentence": "〇"
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "植栽密度"
+                    },
+                    {
+                      "Sentence": null
+                    },
+                    {
+                      "Sentence": "〇"
+                    },
+                    {
+                      "Sentence": null
+                    },
+                    {
+                      "Sentence": null
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "火入れの有無"
+                    },
+                    {
+                      "Sentence": null
+                    },
+                    {
+                      "Sentence": null
+                    },
+                    {
+                      "Sentence": null
+                    },
+                    {
+                      "Sentence": "〇"
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "落枝、落葉及び採草の時期並びに回数及び収量"
+                    },
+                    {
+                      "Sentence": null
+                    },
+                    {
+                      "Sentence": null
+                    },
+                    {
+                      "Sentence": "〇"
+                    },
+                    {
+                      "Sentence": "〇"
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "植栽前の状況"
+                    },
+                    {
+                      "Sentence": null
+                    },
+                    {
+                      "Sentence": null
+                    },
+                    {
+                      "Sentence": null
+                    },
+                    {
+                      "Sentence": "〇"
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "放牧家畜の種類及び頭数"
+                    },
+                    {
+                      "Sentence": null
+                    },
+                    {
+                      "Sentence": null
+                    },
+                    {
+                      "Sentence": "〇"
+                    },
+                    {
+                      "Sentence": null
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "放牧の時期"
+                    },
+                    {
+                      "Sentence": null
+                    },
+                    {
+                      "Sentence": null
+                    },
+                    {
+                      "Sentence": "〇"
+                    },
+                    {
+                      "Sentence": null
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        },
+        {
+          "AppdxTableTitle": "別表第四　分析の方法",
+          "TableStruct": {
+            "Table": {
+              "TableRow": [
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "項目"
+                    },
+                    {
+                      "Sentence": "方法"
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "粒径組成"
+                    },
+                    {
+                      "Sentence": "日本農学会法及び国際土じよう学会Ａ法による。"
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "容積重及び容水量"
+                    },
+                    {
+                      "Sentence": "単位は、小数位以下一けたまでを表わすように分析する。"
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "全炭素"
+                    },
+                    {
+                      "Sentence": "単位は、小数位以下二けたまでを表わすように分析する。"
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "全窒素"
+                    },
+                    {
+                      "Sentence": "単位は、小数位以下二けたまでを表わすように分析する。"
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "水素イオン濃度"
+                    },
+                    {
+                      "Sentence": "単位は、小数位以下一けたまでを表わすように分析する。"
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "置換酸度"
+                    },
+                    {
+                      "Sentence": "Ｙ１を、単位は、小数位以下一けたまでを表わすように分析する。"
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "置換容量"
+                    },
+                    {
+                      "Sentence": "ミリグラム当量とし、単位は、小数位以下一けたまでを表わすように分析する。"
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "置換性石灰"
+                    },
+                    {
+                      "Sentence": "ミリグラム当量とし、単位は、小数位以下一けたまでを表わすように分析する。"
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "珪ばん比"
+                    },
+                    {
+                      "Sentence": "単位は、小数位以下二けたまでを表わすように分析する。"
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "燐酸吸収係数"
+                    },
+                    {
+                      "Sentence": "単位は、整数位までとし、有効数字は二けたまでを表わすように分析する。"
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        },
+        {
+          "AppdxTableTitle": "別表第五　地形図並びに土じよう図に表示する図式",
+          "Item": [
+            {
+              "@Num": "1",
+              "ItemTitle": "第１部",
+              "ItemSentence": {
+                "Sentence": "記号"
+              },
+              "FigStruct": {
+                "Fig": {
+                  "@src": "./pict/S30F03101000003-001.jpg"
+                }
+              }
+            },
+            {
+              "@Num": "2",
+              "ItemTitle": "第２部",
+              "ItemSentence": {
+                "Sentence": "整飾"
+              },
+              "FigStruct": {
+                "Fig": {
+                  "@src": "./pict/S30F03101000003-002.jpg"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "AppdxTableTitle": "別表第六",
+          "TableStruct": {
+            "Table": {
+              "TableRow": {
+                "TableColumn": {
+                  "Sentence": [
+                    "土じよう説明書に記載すべき事項は、次のとおりとする。",
+                    "一　調査地域の概要",
+                    "二　土じよう調査の方法",
+                    "三　土じようの類及び統の説明",
+                    "四　土じようの類及び統と地形及び地質との関係",
+                    "五　土じようと土地利用との関係",
+                    "六　土じようと土地改良及び土じよう保全との関係",
+                    "七　参考とした資料",
+                    "八　分析の結果"
+                  ]
+                }
+              }
+            }
+          }
+        }
+      ]
+    }
+  }
+}

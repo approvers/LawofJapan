@@ -1,0 +1,2238 @@
+{
+  "Law": {
+    "@Era": "Showa",
+    "@Lang": "ja",
+    "@LawType": "Act",
+    "@Num": "99",
+    "@Year": "24",
+    "LawNum": "昭和二十四年法律第九十九号",
+    "LawBody": {
+      "LawTitle": "航路標識法",
+      "TOC": {
+        "TOCLabel": "目次",
+        "TOCChapter": [
+          {
+            "@Delete": "false",
+            "@Num": "1",
+            "ChapterTitle": "第一章　総則",
+            "ArticleRange": "（第一条）"
+          },
+          {
+            "@Delete": "false",
+            "@Num": "2",
+            "ChapterTitle": "第二章　航路標識の設置及び管理",
+            "TOCSection": [
+              {
+                "@Delete": "false",
+                "@Num": "1",
+                "SectionTitle": "第一節　海上保安庁の行う航路標識の設置及び管理",
+                "ArticleRange": "（第二条）"
+              },
+              {
+                "@Delete": "false",
+                "@Num": "2",
+                "SectionTitle": "第二節　海上保安庁以外の者の行う航路標識の設置及び管理",
+                "ArticleRange": "（第三条―第十四条）"
+              },
+              {
+                "@Delete": "false",
+                "@Num": "3",
+                "SectionTitle": "第三節　雑則",
+                "ArticleRange": "（第十五条・第十六条）"
+              }
+            ]
+          },
+          {
+            "@Delete": "false",
+            "@Num": "3",
+            "ChapterTitle": "第三章　航路標識に係る行為の制限",
+            "ArticleRange": "（第十七条―第二十一条）"
+          },
+          {
+            "@Delete": "false",
+            "@Num": "4",
+            "ChapterTitle": "第四章　雑則",
+            "ArticleRange": "（第二十二条―第二十六条）"
+          },
+          {
+            "@Delete": "false",
+            "@Num": "5",
+            "ChapterTitle": "第五章　罰則",
+            "ArticleRange": "（第二十七条―第三十一条）"
+          }
+        ],
+        "TOCSupplProvision": {
+          "SupplProvisionLabel": "附則"
+        }
+      },
+      "MainProvision": {
+        "Chapter": [
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "1",
+            "ChapterTitle": "第一章　総則",
+            "Article": {
+              "@Delete": "false",
+              "@Hide": "false",
+              "@Num": "1",
+              "ArticleCaption": "（この法律の目的及び用語の定義）",
+              "ArticleTitle": "第一条",
+              "Paragraph": [
+                {
+                  "@Hide": "false",
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "この法律は、航路標識を整備し、その合理的かつ能率的な運営を図ることによつて船舶交通の安全を確保し、あわせて船舶の運航能率の増進を図ることを目的とする。"
+                    }
+                  }
+                },
+                {
+                  "@Hide": "false",
+                  "@Num": "2",
+                  "ParagraphNum": "２",
+                  "ParagraphSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "この法律において「航路標識」とは、灯光、形象、彩色、音響、電波等の手段により港、湾、海峡その他の日本国の沿岸水域を航行する船舶の指標とするための灯台、灯標、立標、浮標、霧信号所、無線方位信号所その他の国土交通省令で定める施設をいう。"
+                    }
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "2",
+            "ChapterTitle": "第二章　航路標識の設置及び管理",
+            "Section": [
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "1",
+                "SectionTitle": "第一節　海上保安庁の行う航路標識の設置及び管理",
+                "Article": {
+                  "@Delete": "false",
+                  "@Hide": "false",
+                  "@Num": "2",
+                  "ArticleTitle": "第二条",
+                  "Paragraph": {
+                    "@Hide": "false",
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "航路標識の設置及び管理は、海上保安庁が行う。"
+                      }
+                    }
+                  }
+                }
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "2",
+                "SectionTitle": "第二節　海上保安庁以外の者の行う航路標識の設置及び管理",
+                "Article": [
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "3",
+                    "ArticleCaption": "（海上保安庁以外の者の行う航路標識の設置の許可）",
+                    "ArticleTitle": "第三条",
+                    "Paragraph": [
+                      {
+                        "@Hide": "false",
+                        "@Num": "1",
+                        "ParagraphNum": null,
+                        "ParagraphSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "海上保安庁以外の者が航路標識（第十三条第一項に規定するものを除く。）を設置しようとするときは、海上保安庁長官の許可を受けなければならない。"
+                          }
+                        }
+                      },
+                      {
+                        "@Hide": "false",
+                        "@Num": "2",
+                        "ParagraphNum": "２",
+                        "ParagraphSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "前項の許可を受けようとする者は、国土交通省令で定めるところにより、次に掲げる事項を記載した申請書を海上保安庁長官に提出しなければならない。"
+                          }
+                        },
+                        "Item": [
+                          {
+                            "@Delete": "false",
+                            "@Hide": "false",
+                            "@Num": "1",
+                            "ItemTitle": "一",
+                            "ItemSentence": {
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "氏名又は名称及び住所並びに法人にあつては、その代表者の氏名"
+                              }
+                            }
+                          },
+                          {
+                            "@Delete": "false",
+                            "@Hide": "false",
+                            "@Num": "2",
+                            "ItemTitle": "二",
+                            "ItemSentence": {
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "航路標識の種類"
+                              }
+                            }
+                          },
+                          {
+                            "@Delete": "false",
+                            "@Hide": "false",
+                            "@Num": "3",
+                            "ItemTitle": "三",
+                            "ItemSentence": {
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "航路標識の位置、構造及び設備"
+                              }
+                            }
+                          },
+                          {
+                            "@Delete": "false",
+                            "@Hide": "false",
+                            "@Num": "4",
+                            "ItemTitle": "四",
+                            "ItemSentence": {
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "航路標識の管理の方法"
+                              }
+                            }
+                          },
+                          {
+                            "@Delete": "false",
+                            "@Hide": "false",
+                            "@Num": "5",
+                            "ItemTitle": "五",
+                            "ItemSentence": {
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "その他国土交通省令で定める事項"
+                              }
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "4",
+                    "ArticleCaption": "（許可の基準等）",
+                    "ArticleTitle": "第四条",
+                    "Paragraph": [
+                      {
+                        "@Hide": "false",
+                        "@Num": "1",
+                        "ParagraphNum": null,
+                        "ParagraphSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "海上保安庁長官は、前条第一項の許可の申請があつたときは、その申請が次の各号のいずれにも適合しているかどうかを審査しなければならない。"
+                          }
+                        },
+                        "Item": [
+                          {
+                            "@Delete": "false",
+                            "@Hide": "false",
+                            "@Num": "1",
+                            "ItemTitle": "一",
+                            "ItemSentence": {
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "当該航路標識の位置、構造及び設備が航路標識としての機能を確保するために必要なものとして国土交通省令で定める基準に適合するものであること。"
+                              }
+                            }
+                          },
+                          {
+                            "@Delete": "false",
+                            "@Hide": "false",
+                            "@Num": "2",
+                            "ItemTitle": "二",
+                            "ItemSentence": {
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "当該航路標識の設置によつて、他人の利益を著しく害することとならないものであること。"
+                              }
+                            }
+                          },
+                          {
+                            "@Delete": "false",
+                            "@Hide": "false",
+                            "@Num": "3",
+                            "ItemTitle": "三",
+                            "ItemSentence": {
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "当該航路標識の管理の方法が航路標識としての機能に支障が生じないようにするために必要なものとして国土交通省令で定める基準に適合するものであること。"
+                              }
+                            }
+                          },
+                          {
+                            "@Delete": "false",
+                            "@Hide": "false",
+                            "@Num": "4",
+                            "ItemTitle": "四",
+                            "ItemSentence": {
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "申請者が当該航路標識を設置し、及びこれを管理するに足りる能力を有すること。"
+                              }
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "@Hide": "false",
+                        "@Num": "2",
+                        "ParagraphNum": "２",
+                        "ParagraphSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "前条第一項の許可には、条件を付し、及びこれを変更することができる。"
+                          }
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "5",
+                    "ArticleCaption": "（変更の許可等）",
+                    "ArticleTitle": "第五条",
+                    "Paragraph": [
+                      {
+                        "@Hide": "false",
+                        "@Num": "1",
+                        "ParagraphNum": null,
+                        "ParagraphSentence": {
+                          "Sentence": [
+                            {
+                              "@Function": "main",
+                              "@Num": "1",
+                              "@WritingMode": "vertical",
+                              "#text": "第三条第一項の許可を受けた者は、同条第二項第三号又は第四号に掲げる事項の変更をしようとするときは、国土交通省令で定めるところにより、海上保安庁長官の許可を受けなければならない。"
+                            },
+                            {
+                              "@Function": "proviso",
+                              "@Num": "2",
+                              "@WritingMode": "vertical",
+                              "#text": "ただし、国土交通省令で定める軽微な変更については、この限りでない。"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "@Hide": "false",
+                        "@Num": "2",
+                        "ParagraphNum": "２",
+                        "ParagraphSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "前条の規定は、前項の許可について準用する。"
+                          }
+                        }
+                      },
+                      {
+                        "@Hide": "false",
+                        "@Num": "3",
+                        "ParagraphNum": "３",
+                        "ParagraphSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "第三条第一項の許可を受けた者は、第一項ただし書の国土交通省令で定める軽微な変更をしたとき、又は同条第二項第一号に掲げる事項その他国土交通省令で定める事項に変更があつたときは、遅滞なく、その旨を海上保安庁長官に届け出なければならない。"
+                          }
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "6",
+                    "ArticleCaption": "（供用の休廃止等の届出）",
+                    "ArticleTitle": "第六条",
+                    "Paragraph": {
+                      "@Hide": "false",
+                      "@Num": "1",
+                      "ParagraphNum": null,
+                      "ParagraphSentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "第三条第一項の許可を受けた者は、当該許可に係る航路標識の供用を休止し、若しくは廃止し、又は供用を休止した当該航路標識の供用を再開しようとするときは、国土交通省令で定めるところにより、あらかじめ、海上保安庁長官にその旨を届け出なければならない。"
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "7",
+                    "ArticleCaption": "（航路標識に事故が発生した場合の報告義務）",
+                    "ArticleTitle": "第七条",
+                    "Paragraph": {
+                      "@Hide": "false",
+                      "@Num": "1",
+                      "ParagraphNum": null,
+                      "ParagraphSentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "第三条第一項の許可を受けた者は、当該許可に係る航路標識について破損その他の事故が発生し、当該航路標識の現状に変更があつたときは、国土交通省令で定めるところにより、直ちに、その旨を海上保安庁長官に報告しなければならない。"
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "8",
+                    "ArticleCaption": "（航路標識の管理）",
+                    "ArticleTitle": "第八条",
+                    "Paragraph": [
+                      {
+                        "@Hide": "false",
+                        "@Num": "1",
+                        "ParagraphNum": null,
+                        "ParagraphSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "第三条第一項の許可を受けた者は、その位置、構造及び設備が第四条第一項第一号の国土交通省令で定める基準に適合するように当該許可に係る航路標識を維持しなければならない。"
+                          }
+                        }
+                      },
+                      {
+                        "@Hide": "false",
+                        "@Num": "2",
+                        "ParagraphNum": "２",
+                        "ParagraphSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "第三条第一項の許可を受けた者は、その管理の方法が第四条第一項第三号の国土交通省令で定める基準に適合するように当該許可に係る航路標識を管理しなければならない。"
+                          }
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "9",
+                    "ArticleCaption": "（措置命令等）",
+                    "ArticleTitle": "第九条",
+                    "Paragraph": {
+                      "@Hide": "false",
+                      "@Num": "1",
+                      "ParagraphNum": null,
+                      "ParagraphSentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "海上保安庁長官は、次の各号のいずれかに該当するときは、第三条第一項の許可を受けた者に対し、期限を定めて当該航路標識につき必要な改善を命じ、又は期間を定めて当該航路標識の供用の停止を命ずることができる。"
+                        }
+                      },
+                      "Item": [
+                        {
+                          "@Delete": "false",
+                          "@Hide": "false",
+                          "@Num": "1",
+                          "ItemTitle": "一",
+                          "ItemSentence": {
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "第三条第一項の許可を受けた者が第四条第二項（第五条第二項において準用する場合を含む。）の規定により当該許可に付された条件に違反したとき。"
+                            }
+                          }
+                        },
+                        {
+                          "@Delete": "false",
+                          "@Hide": "false",
+                          "@Num": "2",
+                          "ItemTitle": "二",
+                          "ItemSentence": {
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "第三条第一項の許可を受けた者が第五条第一項本文の規定により許可を受けなければならない事項を同項の許可を受けないで変更したとき。"
+                            }
+                          }
+                        },
+                        {
+                          "@Delete": "false",
+                          "@Hide": "false",
+                          "@Num": "3",
+                          "ItemTitle": "三",
+                          "ItemSentence": {
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "第三条第一項の許可を受けた者が第七条の規定による報告をせず、又は虚偽の報告をしたとき。"
+                            }
+                          }
+                        },
+                        {
+                          "@Delete": "false",
+                          "@Hide": "false",
+                          "@Num": "4",
+                          "ItemTitle": "四",
+                          "ItemSentence": {
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "第三条第一項の許可を受けた者が前条の規定に違反していると認めるとき。"
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "10",
+                    "ArticleTitle": "第十条",
+                    "Paragraph": [
+                      {
+                        "@Hide": "false",
+                        "@Num": "1",
+                        "ParagraphNum": null,
+                        "ParagraphSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "前条に規定する場合のほか、船舶交通の安全を図るため必要があると認めるときは、海上保安庁長官は、第三条第一項の許可を受けた者に対し、当該許可に係る航路標識の改善、移転、撤去その他必要な措置をすべきことを命ずることができる。"
+                          }
+                        }
+                      },
+                      {
+                        "@Hide": "false",
+                        "@Num": "2",
+                        "ParagraphNum": "２",
+                        "ParagraphSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "船舶交通の安全を図るために特に必要があると認めるときは、海上保安庁長官は、国土交通省令で定めるところにより、第三条第一項の許可に係る航路標識を直接に管理し、又は収用することができる。"
+                          }
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "11",
+                    "ArticleCaption": "（許可の取消し）",
+                    "ArticleTitle": "第十一条",
+                    "Paragraph": {
+                      "@Hide": "false",
+                      "@Num": "1",
+                      "ParagraphNum": null,
+                      "ParagraphSentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "海上保安庁長官は、次の各号のいずれかに該当するときは、第三条第一項の許可を取り消すことができる。"
+                        }
+                      },
+                      "Item": [
+                        {
+                          "@Delete": "false",
+                          "@Hide": "false",
+                          "@Num": "1",
+                          "ItemTitle": "一",
+                          "ItemSentence": {
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "第三条第一項の許可を受けた者が第四条第二項（第五条第二項において準用する場合を含む。）の規定により当該許可に付された条件に違反したとき。"
+                            }
+                          }
+                        },
+                        {
+                          "@Delete": "false",
+                          "@Hide": "false",
+                          "@Num": "2",
+                          "ItemTitle": "二",
+                          "ItemSentence": {
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "第三条第一項の許可を受けた者が第五条第一項本文の規定により許可を受けなければならない事項を同項の許可を受けないで変更したとき。"
+                            }
+                          }
+                        },
+                        {
+                          "@Delete": "false",
+                          "@Hide": "false",
+                          "@Num": "3",
+                          "ItemTitle": "三",
+                          "ItemSentence": {
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "第三条第一項の許可を受けた者が第七条の規定による報告をせず、又は虚偽の報告をしたとき。"
+                            }
+                          }
+                        },
+                        {
+                          "@Delete": "false",
+                          "@Hide": "false",
+                          "@Num": "4",
+                          "ItemTitle": "四",
+                          "ItemSentence": {
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "第三条第一項の許可を受けた者が第九条又は前条第一項の規定による命令に違反したとき。"
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "12",
+                    "ArticleCaption": "（地位の承継）",
+                    "ArticleTitle": "第十二条",
+                    "Paragraph": [
+                      {
+                        "@Hide": "false",
+                        "@Num": "1",
+                        "ParagraphNum": null,
+                        "ParagraphSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "第三条第一項の許可を受けた者の地位は、次項に規定する場合を除き、これを承継しようとする者が海上保安庁長官の認可を受けなければ、承継しない。"
+                          }
+                        }
+                      },
+                      {
+                        "@Hide": "false",
+                        "@Num": "2",
+                        "ParagraphNum": "２",
+                        "ParagraphSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "第三条第一項の許可を受けた者が死亡した場合においては、その相続人（相続人が二人以上ある場合においては、その協議により定めた当該許可を受けた者の地位を承継すべき一人の相続人）は、当該許可を受けた者の地位を承継する。"
+                          }
+                        }
+                      },
+                      {
+                        "@Hide": "false",
+                        "@Num": "3",
+                        "ParagraphNum": "３",
+                        "ParagraphSentence": {
+                          "Sentence": [
+                            {
+                              "@Num": "1",
+                              "@WritingMode": "vertical",
+                              "#text": "前項の相続人は、第三条第一項の許可を受けた者の死亡後六十日以内にその相続について海上保安庁長官の認可を申請しなければ、その期間の経過後は、同項の許可は、その効力を失う。"
+                            },
+                            {
+                              "@Num": "2",
+                              "@WritingMode": "vertical",
+                              "#text": "認可の申請に対し、認可しない旨の処分があつた場合において、その日以後についても、同様とする。"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "@Hide": "false",
+                        "@Num": "4",
+                        "ParagraphNum": "４",
+                        "ParagraphSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "第四条第一項第四号の規定は、第一項又は前項の認可について準用する。"
+                          }
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "13",
+                    "ArticleCaption": "（海上保安庁以外の者の行う航路標識の設置の届出）",
+                    "ArticleTitle": "第十三条",
+                    "Paragraph": [
+                      {
+                        "@Hide": "false",
+                        "@Num": "1",
+                        "ParagraphNum": null,
+                        "ParagraphSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "海上保安庁以外の者が灯光、音響又は電波以外の手段により日本国の沿岸水域を航行する船舶の指標とするための航路標識を設置しようとするときは、国土交通省令で定めるところにより、あらかじめ、次に掲げる事項を海上保安庁長官に届け出なければならない。"
+                          }
+                        },
+                        "Item": [
+                          {
+                            "@Delete": "false",
+                            "@Hide": "false",
+                            "@Num": "1",
+                            "ItemTitle": "一",
+                            "ItemSentence": {
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "氏名又は名称及び住所並びに法人にあつては、その代表者の氏名"
+                              }
+                            }
+                          },
+                          {
+                            "@Delete": "false",
+                            "@Hide": "false",
+                            "@Num": "2",
+                            "ItemTitle": "二",
+                            "ItemSentence": {
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "航路標識の種類"
+                              }
+                            }
+                          },
+                          {
+                            "@Delete": "false",
+                            "@Hide": "false",
+                            "@Num": "3",
+                            "ItemTitle": "三",
+                            "ItemSentence": {
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "航路標識の位置、構造及び設備"
+                              }
+                            }
+                          },
+                          {
+                            "@Delete": "false",
+                            "@Hide": "false",
+                            "@Num": "4",
+                            "ItemTitle": "四",
+                            "ItemSentence": {
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "航路標識の管理の方法"
+                              }
+                            }
+                          },
+                          {
+                            "@Delete": "false",
+                            "@Hide": "false",
+                            "@Num": "5",
+                            "ItemTitle": "五",
+                            "ItemSentence": {
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "その他国土交通省令で定める事項"
+                              }
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "@Hide": "false",
+                        "@Num": "2",
+                        "ParagraphNum": "２",
+                        "ParagraphSentence": {
+                          "Sentence": [
+                            {
+                              "@Function": "main",
+                              "@Num": "1",
+                              "@WritingMode": "vertical",
+                              "#text": "前項の規定による届出をした者は、同項第三号又は第四号に掲げる事項の変更をしようとするときは、国土交通省令で定めるところにより、あらかじめ、その旨を海上保安庁長官に届け出なければならない。"
+                            },
+                            {
+                              "@Function": "proviso",
+                              "@Num": "2",
+                              "@WritingMode": "vertical",
+                              "#text": "ただし、国土交通省令で定める軽微な変更については、この限りでない。"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "@Hide": "false",
+                        "@Num": "3",
+                        "ParagraphNum": "３",
+                        "ParagraphSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "第一項の規定による届出をした者は、その位置、構造及び設備が航路標識としての機能を確保するために必要なものとして国土交通省令で定める基準に適合するように当該届出に係る航路標識を維持しなければならない。"
+                          }
+                        }
+                      },
+                      {
+                        "@Hide": "false",
+                        "@Num": "4",
+                        "ParagraphNum": "４",
+                        "ParagraphSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "第一項の規定による届出をした者は、その管理の方法が航路標識としての機能に支障が生じないようにするために必要なものとして国土交通省令で定める基準に適合するように当該届出に係る航路標識を管理しなければならない。"
+                          }
+                        }
+                      },
+                      {
+                        "@Hide": "false",
+                        "@Num": "5",
+                        "ParagraphNum": "５",
+                        "ParagraphSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "海上保安庁長官は、次の各号のいずれかに該当するときは、第一項の規定による届出をした者に対し、期限を定めて当該航路標識につき必要な改善を命じ、又は期間を定めて当該航路標識の供用の停止を命ずることができる。"
+                          }
+                        },
+                        "Item": [
+                          {
+                            "@Delete": "false",
+                            "@Hide": "false",
+                            "@Num": "1",
+                            "ItemTitle": "一",
+                            "ItemSentence": {
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "第一項の規定による届出をした者が前二項の規定に違反していると認めるとき。"
+                              }
+                            }
+                          },
+                          {
+                            "@Delete": "false",
+                            "@Hide": "false",
+                            "@Num": "2",
+                            "ItemTitle": "二",
+                            "ItemSentence": {
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "第一項の規定による届出をした者が第十項において準用する第七条の規定による報告をせず、又は虚偽の報告をしたとき。"
+                              }
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "@Hide": "false",
+                        "@Num": "6",
+                        "ParagraphNum": "６",
+                        "ParagraphSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "前項に規定する場合のほか、船舶交通の安全を図るため必要があると認めるときは、海上保安庁長官は、第一項の規定による届出をした者に対し、当該届出に係る航路標識の改善、移転、撤去その他必要な措置をすべきことを命ずることができる。"
+                          }
+                        }
+                      },
+                      {
+                        "@Hide": "false",
+                        "@Num": "7",
+                        "ParagraphNum": "７",
+                        "ParagraphSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "船舶交通の安全を図るために特に必要があると認めるときは、海上保安庁長官は、国土交通省令で定めるところにより、第一項の規定による届出に係る航路標識を直接に管理し、又は収用することができる。"
+                          }
+                        }
+                      },
+                      {
+                        "@Hide": "false",
+                        "@Num": "8",
+                        "ParagraphNum": "８",
+                        "ParagraphSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "第一項の規定により設置された航路標識の譲渡又は同項の規定による届出をした者について相続、合併若しくは分割（当該航路標識を承継させるものに限る。）があつたときは、当該航路標識を譲り受けた者又は相続人（相続人が二人以上ある場合においては、その協議により定めた当該届出をした者の地位を承継すべき一人の相続人）、合併後存続する法人若しくは合併により設立された法人若しくは分割により当該航路標識を承継した法人は、当該届出をした者の地位を承継する。"
+                          }
+                        }
+                      },
+                      {
+                        "@Hide": "false",
+                        "@Num": "9",
+                        "ParagraphNum": "９",
+                        "ParagraphSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "前項の規定により第一項の規定による届出をした者の地位を承継した者は、その承継があつた日から三十日以内に、国土交通省令で定めるところにより、その旨を海上保安庁長官に届け出なければならない。"
+                          }
+                        }
+                      },
+                      {
+                        "@Hide": "false",
+                        "@Num": "10",
+                        "ParagraphNum": "１０",
+                        "ParagraphSentence": {
+                          "Sentence": [
+                            {
+                              "@Num": "1",
+                              "@WritingMode": "vertical",
+                              "#text": "第五条第三項、第六条及び第七条の規定は、第一項の規定による届出をした者について準用する。"
+                            },
+                            {
+                              "@Num": "2",
+                              "@WritingMode": "vertical",
+                              "#text": "この場合において、第五条第三項中「第一項ただし書」とあるのは「第十三条第二項ただし書」と、「同条第二項第一号」とあるのは「同条第一項第一号」と読み替えるものとする。"
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "14",
+                    "ArticleCaption": "（報告徴収及び立入検査）",
+                    "ArticleTitle": "第十四条",
+                    "Paragraph": [
+                      {
+                        "@Hide": "false",
+                        "@Num": "1",
+                        "ParagraphNum": null,
+                        "ParagraphSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "海上保安庁長官は、この節の規定の施行に必要な限度において、第三条第一項の許可を受けた者又は前条第一項の規定による届出をした者に対し、航路標識の工事又は管理に関し報告を求めることができる。"
+                          }
+                        }
+                      },
+                      {
+                        "@Hide": "false",
+                        "@Num": "2",
+                        "ParagraphNum": "２",
+                        "ParagraphSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "海上保安庁長官は、この節の規定の施行に必要な限度において、その職員に、第三条第一項の許可を受けた者若しくは前条第一項の規定による届出をした者の事務所その他の事業場、航路標識が設置されている場所又は航路標識の工事の場所に立ち入つて、航路標識、書類その他の物件を検査させ、又は関係者に質問させることができる。"
+                          }
+                        }
+                      },
+                      {
+                        "@Hide": "false",
+                        "@Num": "3",
+                        "ParagraphNum": "３",
+                        "ParagraphSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "前項の場合には、当該職員は、その身分を示す証票を携帯し、かつ、関係者の請求があるときは、これを提示しなければならない。"
+                          }
+                        }
+                      },
+                      {
+                        "@Hide": "false",
+                        "@Num": "4",
+                        "ParagraphNum": "４",
+                        "ParagraphSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "第二項の権限は、犯罪捜査のために認められたものと解釈してはならない。"
+                          }
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "3",
+                "SectionTitle": "第三節　雑則",
+                "Article": [
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "15",
+                    "ArticleCaption": "（航路標識の告示）",
+                    "ArticleTitle": "第十五条",
+                    "Paragraph": {
+                      "@Hide": "false",
+                      "@Num": "1",
+                      "ParagraphNum": null,
+                      "ParagraphSentence": {
+                        "Sentence": [
+                          {
+                            "@Function": "main",
+                            "@Num": "1",
+                            "@WritingMode": "vertical",
+                            "#text": "海上保安庁長官は、航路標識が新たに設置されたとき、又は航路標識の位置の変更、供用の休止、再開若しくは廃止その他その現状に変更があつたときは、直ちに、その旨を告示しなければならない。"
+                          },
+                          {
+                            "@Function": "proviso",
+                            "@Num": "2",
+                            "@WritingMode": "vertical",
+                            "#text": "ただし、緊急の必要がある場合において告示するいとまがないときは、他の適当な方法によることができる。"
+                          }
+                        ]
+                      }
+                    }
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "16",
+                    "ArticleCaption": "（事故発見者の報告義務）",
+                    "ArticleTitle": "第十六条",
+                    "Paragraph": {
+                      "@Hide": "false",
+                      "@Num": "1",
+                      "ParagraphNum": null,
+                      "ParagraphSentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "航路標識に事故のあることを発見した者は、直ちに、その旨を海上保安庁又は最寄りの管区海上保安本部若しくはその事務所に通報しなければならない。"
+                        }
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "3",
+            "ChapterTitle": "第三章　航路標識に係る行為の制限",
+            "Article": [
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "17",
+                "ArticleCaption": "（灯火等の制限）",
+                "ArticleTitle": "第十七条",
+                "Paragraph": [
+                  {
+                    "@Hide": "false",
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "何人も、みだりに航路標識と誤認されるおそれがある灯火を使用し、又は音響を発してはならない。"
+                      }
+                    }
+                  },
+                  {
+                    "@Hide": "false",
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "海上保安官は、前項に規定する行為をし、又はしようとしている者に対し、当該灯火又は音響の消滅その他航路標識と誤認されないようにするため必要な措置をすべきことを命ずることができる。"
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "18",
+                "ArticleCaption": "（工事等の制限）",
+                "ArticleTitle": "第十八条",
+                "Paragraph": [
+                  {
+                    "@Hide": "false",
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "航路標識の機能の障害となるおそれのある建築物の建設、沈没物の引揚げその他の工事又は作業をする者は、その障害を防ぐため必要な措置をしなければならない。"
+                      }
+                    }
+                  },
+                  {
+                    "@Hide": "false",
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "海上保安庁長官は、前項に規定する工事又は作業についてその権原を有する者に対し、航路標識の機能の障害を防ぐため必要な措置をすべきことを命ずることができる。"
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "19",
+                "ArticleCaption": "（植物についての制限）",
+                "ArticleTitle": "第十九条",
+                "Paragraph": [
+                  {
+                    "@Hide": "false",
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "何人も、航路標識の付近に、当該航路標識の視認を妨げるおそれのある植物を植えてはならない。"
+                      }
+                    }
+                  },
+                  {
+                    "@Hide": "false",
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": [
+                        {
+                          "@Num": "1",
+                          "@WritingMode": "vertical",
+                          "#text": "海上保安庁長官は、前項の規定に違反して植えられた植物についてその権原を有する者に対し、当該植物の航路標識の障害となる部分の除去、移植その他必要な措置をすべきことを命ずることができる。"
+                        },
+                        {
+                          "@Num": "2",
+                          "@WritingMode": "vertical",
+                          "#text": "植物が成長して航路標識の視認を妨げるに至つたときも、同様とする。"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "@Hide": "false",
+                    "@Num": "3",
+                    "ParagraphNum": "３",
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "航路標識を設置したときに現にあつた植物が当該航路標識の視認を妨げ、又は妨げるようになつたときは、海上保安庁長官は、その権原を有する者に対し、障害となる部分の除去、移植その他必要な措置をすべきことを命ずることができる。"
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "20",
+                "ArticleCaption": "（船舶についての制限）",
+                "ArticleTitle": "第二十条",
+                "Paragraph": [
+                  {
+                    "@Hide": "false",
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "船舶（はしけ、いかだその他の船舶に類似する工作物を含む。以下この条において同じ。）は、みだりに航路標識に損傷を及ぼすおそれのあるほどこれに接近して航行させてはならない。"
+                      }
+                    }
+                  },
+                  {
+                    "@Hide": "false",
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "船舶は、航路標識に係留させてはならない。"
+                      }
+                    }
+                  },
+                  {
+                    "@Hide": "false",
+                    "@Num": "3",
+                    "ParagraphNum": "３",
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "船舶は、航路標識の視認を妨げ、又は航路標識に接触するおそれのある場所に停泊又は停留させてはならない。"
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "21",
+                "ArticleCaption": "（汚損行為の禁止）",
+                "ArticleTitle": "第二十一条",
+                "Paragraph": {
+                  "@Hide": "false",
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "何人も、航路標識を汚し、又は損傷を及ぼすおそれのある行為をしてはならない。"
+                    }
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "4",
+            "ChapterTitle": "第四章　雑則",
+            "Article": [
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "22",
+                "ArticleCaption": "（非常災害時における緊急措置）",
+                "ArticleTitle": "第二十二条",
+                "Paragraph": [
+                  {
+                    "@Hide": "false",
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "海上保安庁長官は、海上交通安全法（昭和四十七年法律第百十五号）第三十三条第一項に規定する非常災害発生周知措置（以下この項において「非常災害発生周知措置」という。）をとつたときは、同条第二項に規定する非常災害解除周知措置をとるまでの間、当該非常災害発生周知措置に係る指定海域（同法第二条第四項に規定する指定海域をいう。以下この項において同じ。）又は当該指定海域に隣接する指定港（港則法（昭和二十三年法律第百七十四号）第三条第三項に規定する指定港をいう。）内における船舶交通の危険を防止するため航路標識を設置する緊急の必要があると認める場合に限り、当該航路標識を設置する現場付近にある船舶に対し当該航路標識の設置に関する業務に従事すべきことを命じ、又はその現場において、船舶、船舶用品その他の物件を使用し、収用し、若しくは処分することができる。"
+                      }
+                    }
+                  },
+                  {
+                    "@Hide": "false",
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "前項の規定による処分については、行政手続法（平成五年法律第八十八号）第三章の規定は、適用しない。"
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "23",
+                "ArticleCaption": "（損失補償）",
+                "ArticleTitle": "第二十三条",
+                "Paragraph": [
+                  {
+                    "@Hide": "false",
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "第十条、第十三条第六項若しくは第七項、第十九条第三項又は前条第一項の規定によつて生じた損失に対しては、次に定めるところにより補償をするものとする。"
+                      }
+                    },
+                    "Item": [
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "1",
+                        "ItemTitle": "一",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "補償の額は、第十条第一項又は第十三条第六項の場合にあつては当該航路標識の改善、移転、撤去その他の措置をするのに通常要すべき費用、第十条第二項又は第十三条第七項の規定により航路標識を収用する場合にあつては当該航路標識を建設するとすれば通常要すべき費用から当該航路標識の減価部分に相当する額を控除した額、第十九条第三項の場合にあつては植物の障害となる部分の除去、移植その他の措置をするのに通常要すべき費用及び時価によつて算定した当該植物についての損失額、前条第一項の場合にあつては同項の規定による行為により損失を受けた者についての損失額に相当する金額とする。"
+                          }
+                        }
+                      },
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "2",
+                        "ItemTitle": "二",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "補償を受けようとする者は、海上保安庁長官に、補償を受けようとする見積額を記載した申請書を提出しなければならない。"
+                          }
+                        }
+                      },
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "3",
+                        "ItemTitle": "三",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "海上保安庁長官は、前号の申請があつたときは、遅滞なく、補償すべき金額を決定し、当該申請人に通知しなければならない。"
+                          }
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Hide": "false",
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "前項第三号の決定に不服がある者は、その決定を知つた日から六月以内に、訴えをもつて補償の額の増額を請求することができる。"
+                      }
+                    }
+                  },
+                  {
+                    "@Hide": "false",
+                    "@Num": "3",
+                    "ParagraphNum": "３",
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "前項の訴えにおいては、国を被告とする。"
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "24",
+                "ArticleCaption": "（聴聞の特例）",
+                "ArticleTitle": "第二十四条",
+                "Paragraph": [
+                  {
+                    "@Hide": "false",
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "海上保安庁長官又は海上保安官は、第十七条第二項、第十八条第二項又は第十九条第二項若しくは第三項の規定による命令をしようとするときは、行政手続法第十三条第一項の規定による意見陳述のための手続の区分にかかわらず、聴聞を行わなければならない。"
+                      }
+                    }
+                  },
+                  {
+                    "@Hide": "false",
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "前項の聴聞の主宰者は、行政手続法第十七条第一項の規定により当該命令に係る関係人が当該聴聞に関する手続に参加することを求めたときは、これを許可しなければならない。"
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "25",
+                "ArticleCaption": "（権限の委任）",
+                "ArticleTitle": "第二十五条",
+                "Paragraph": [
+                  {
+                    "@Hide": "false",
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "この法律の規定により海上保安庁長官の権限に属する事項は、国土交通省令で定めるところにより、管区海上保安本部長に行わせることができる。"
+                      }
+                    }
+                  },
+                  {
+                    "@Hide": "false",
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "管区海上保安本部長は、国土交通省令で定めるところにより、前項の規定によりその権限に属させられた事項の一部を管区海上保安本部の事務所の長に行わせることができる。"
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "26",
+                "ArticleCaption": "（経過措置）",
+                "ArticleTitle": "第二十六条",
+                "Paragraph": {
+                  "@Hide": "false",
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "この法律の規定に基づき国土交通省令を制定し、又は改廃する場合においては、国土交通省令で、その制定又は改廃に伴い合理的に必要と判断される範囲内において、所要の経過措置（罰則に関する経過措置を含む。）を定めることができる。"
+                    }
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "5",
+            "ChapterTitle": "第五章　罰則",
+            "Article": [
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "27",
+                "ArticleTitle": "第二十七条",
+                "Paragraph": {
+                  "@Hide": "false",
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "次の各号のいずれかに該当する者は、一年以下の懲役又は五十万円以下の罰金に処する。"
+                    }
+                  },
+                  "Item": [
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "1",
+                      "ItemTitle": "一",
+                      "ItemSentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "第三条第一項の規定に違反して、許可を受けないで航路標識を設置した者"
+                        }
+                      }
+                    },
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "2",
+                      "ItemTitle": "二",
+                      "ItemSentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "第五条第一項本文の規定に違反して、許可を受けないで第三条第二項第三号又は第四号に掲げる事項を変更した者"
+                        }
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "28",
+                "ArticleTitle": "第二十八条",
+                "Paragraph": {
+                  "@Hide": "false",
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "第九条、第十条第一項又は第十三条第五項若しくは第六項の規定による命令に違反した者は、五十万円以下の罰金に処する。"
+                    }
+                  }
+                }
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "29",
+                "ArticleTitle": "第二十九条",
+                "Paragraph": {
+                  "@Hide": "false",
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "次の各号のいずれかに該当する者は、三十万円以下の罰金に処する。"
+                    }
+                  },
+                  "Item": [
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "1",
+                      "ItemTitle": "一",
+                      "ItemSentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "第六条（第十三条第十項において準用する場合を含む。）の規定に違反して、届出をしないで、又は虚偽の届出をして航路標識の供用を休止し、若しくは廃止し、又は供用を休止した航路標識の供用を再開した者"
+                        }
+                      }
+                    },
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "2",
+                      "ItemTitle": "二",
+                      "ItemSentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "第十三条第一項の規定に違反して、届出をしないで、又は虚偽の届出をして航路標識を設置した者"
+                        }
+                      }
+                    },
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "3",
+                      "ItemTitle": "三",
+                      "ItemSentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "第十三条第二項本文の規定に違反して、届出をしないで、又は虚偽の届出をして同条第一項第三号又は第四号に掲げる事項を変更した者"
+                        }
+                      }
+                    },
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "4",
+                      "ItemTitle": "四",
+                      "ItemSentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "第十四条第一項の規定による報告をせず、又は虚偽の報告をした者"
+                        }
+                      }
+                    },
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "5",
+                      "ItemTitle": "五",
+                      "ItemSentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "第十四条第二項の規定による検査を拒み、妨げ、若しくは忌避し、又は質問に対し虚偽の陳述をした者"
+                        }
+                      }
+                    },
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "6",
+                      "ItemTitle": "六",
+                      "ItemSentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "第十七条第二項、第十八条第二項又は第十九条第二項若しくは第三項の規定による命令に違反した者"
+                        }
+                      }
+                    },
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "7",
+                      "ItemTitle": "七",
+                      "ItemSentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "第二十条の規定に違反した者"
+                        }
+                      }
+                    },
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "8",
+                      "ItemTitle": "八",
+                      "ItemSentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "第二十一条の規定に違反した者"
+                        }
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "30",
+                "ArticleTitle": "第三十条",
+                "Paragraph": {
+                  "@Hide": "false",
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "法人の代表者又は法人若しくは人の代理人、使用人その他の従業者が、その法人又は人の業務に関し、前三条（前条第七号を除く。）の違反行為をしたときは、行為者を罰するほか、その法人又は人に対して、各本条の罰金刑を科する。"
+                    }
+                  }
+                }
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "31",
+                "ArticleTitle": "第三十一条",
+                "Paragraph": {
+                  "@Hide": "false",
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "第五条第三項（第十三条第十項において準用する場合を含む。）又は第十三条第九項の規定による届出をせず、又は虚偽の届出をした者は、十万円以下の過料に処する。"
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        ]
+      },
+      "SupplProvision": [
+        {
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": [
+            {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": "１",
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "この法律は、昭和二十四年六月一日から施行する。"
+                }
+              }
+            },
+            {
+              "@Hide": "false",
+              "@Num": "2",
+              "ParagraphNum": "２",
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "航路標識条例（明治二十一年勅令第六十七号）は、廃止する。"
+                }
+              }
+            },
+            {
+              "@Hide": "false",
+              "@Num": "3",
+              "ParagraphNum": "３",
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "航路標識条例第一条又は第二条第一項の規定により設置された航路標識であつて、この法律施行の際、現に海上保安庁以外の者が管理するものは、第二条の規定により海上保安庁長官の許可を受けて設置し、及び管理するものとみなす。"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@AmendLawNum": "昭和二五年五月二三日法律第一九八号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphNum": "１",
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この法律は、昭和二十五年六月一日から施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "昭和三七年五月一六日法律第一四〇号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": [
+            {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": "１",
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "この法律は、昭和三十七年十月一日から施行する。"
+                }
+              }
+            },
+            {
+              "@Hide": "false",
+              "@Num": "2",
+              "ParagraphNum": "２",
+              "ParagraphSentence": {
+                "Sentence": [
+                  {
+                    "@Function": "main",
+                    "@Num": "1",
+                    "@WritingMode": "vertical",
+                    "#text": "この法律による改正後の規定は、この附則に特別の定めがある場合を除き、この法律の施行前に生じた事項にも適用する。"
+                  },
+                  {
+                    "@Function": "proviso",
+                    "@Num": "2",
+                    "@WritingMode": "vertical",
+                    "#text": "ただし、この法律による改正前の規定によつて生じた効力を妨げない。"
+                  }
+                ]
+              }
+            },
+            {
+              "@Hide": "false",
+              "@Num": "3",
+              "ParagraphNum": "３",
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "この法律の施行の際現に係属している訴訟については、当該訴訟を提起することができない旨を定めるこの法律による改正後の規定にかかわらず、なお従前の例による。"
+                }
+              }
+            },
+            {
+              "@Hide": "false",
+              "@Num": "4",
+              "ParagraphNum": "４",
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "この法律の施行の際現に係属している訴訟の管轄については、当該管轄を専属管轄とする旨のこの法律による改正後の規定にかかわらず、なお従前の例による。"
+                }
+              }
+            },
+            {
+              "@Hide": "false",
+              "@Num": "5",
+              "ParagraphNum": "５",
+              "ParagraphSentence": {
+                "Sentence": [
+                  {
+                    "@Function": "main",
+                    "@Num": "1",
+                    "@WritingMode": "vertical",
+                    "#text": "この法律の施行の際現にこの法律による改正前の規定による出訴期間が進行している処分又は裁決に関する訴訟の出訴期間については、なお従前の例による。"
+                  },
+                  {
+                    "@Function": "proviso",
+                    "@Num": "2",
+                    "@WritingMode": "vertical",
+                    "#text": "ただし、この法律による改正後の規定による出訴期間がこの法律による改正前の規定による出訴期間より短い場合に限る。"
+                  }
+                ]
+              }
+            },
+            {
+              "@Hide": "false",
+              "@Num": "6",
+              "ParagraphNum": "６",
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "この法律の施行前にされた処分又は裁決に関する当事者訴訟で、この法律による改正により出訴期間が定められることとなつたものについての出訴期間は、この法律の施行の日から起算する。"
+                }
+              }
+            },
+            {
+              "@Hide": "false",
+              "@Num": "7",
+              "ParagraphNum": "７",
+              "ParagraphSentence": {
+                "Sentence": [
+                  {
+                    "@Function": "main",
+                    "@Num": "1",
+                    "@WritingMode": "vertical",
+                    "#text": "この法律の施行の際現に係属している処分又は裁決の取消しの訴えについては、当該法律関係の当事者の一方を被告とする旨のこの法律による改正後の規定にかかわらず、なお従前の例による。"
+                  },
+                  {
+                    "@Function": "proviso",
+                    "@Num": "2",
+                    "@WritingMode": "vertical",
+                    "#text": "ただし、裁判所は、原告の申立てにより、決定をもつて、当該訴訟を当事者訴訟に変更することを許すことができる。"
+                  }
+                ]
+              }
+            },
+            {
+              "@Hide": "false",
+              "@Num": "8",
+              "ParagraphNum": "８",
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "前項ただし書の場合には、行政事件訴訟法第十八条後段及び第二十一条第二項から第五項までの規定を準用する。"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@AmendLawNum": "昭和三七年九月一五日法律第一六一号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": [
+            {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": "１",
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "この法律は、昭和三十七年十月一日から施行する。"
+                }
+              }
+            },
+            {
+              "@Hide": "false",
+              "@Num": "2",
+              "ParagraphNum": "２",
+              "ParagraphSentence": {
+                "Sentence": [
+                  {
+                    "@Function": "main",
+                    "@Num": "1",
+                    "@WritingMode": "vertical",
+                    "#text": "この法律による改正後の規定は、この附則に特別の定めがある場合を除き、この法律の施行前にされた行政庁の処分、この法律の施行前にされた申請に係る行政庁の不作為その他この法律の施行前に生じた事項についても適用する。"
+                  },
+                  {
+                    "@Function": "proviso",
+                    "@Num": "2",
+                    "@WritingMode": "vertical",
+                    "#text": "ただし、この法律による改正前の規定によつて生じた効力を妨げない。"
+                  }
+                ]
+              }
+            },
+            {
+              "@Hide": "false",
+              "@Num": "3",
+              "ParagraphNum": "３",
+              "ParagraphSentence": {
+                "Sentence": [
+                  {
+                    "@Num": "1",
+                    "@WritingMode": "vertical",
+                    "#text": "この法律の施行前に提起された訴願、審査の請求、異議の申立てその他の不服申立て（以下「訴願等」という。）については、この法律の施行後も、なお従前の例による。"
+                  },
+                  {
+                    "@Num": "2",
+                    "@WritingMode": "vertical",
+                    "#text": "この法律の施行前にされた訴願等の裁決、決定その他の処分（以下「裁決等」という。）又はこの法律の施行前に提起された訴願等につきこの法律の施行後にされる裁決等にさらに不服がある場合の訴願等についても、同様とする。"
+                  }
+                ]
+              }
+            },
+            {
+              "@Hide": "false",
+              "@Num": "4",
+              "ParagraphNum": "４",
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "前項に規定する訴願等で、この法律の施行後は行政不服審査法による不服申立てをすることができることとなる処分に係るものは、同法以外の法律の適用については、行政不服審査法による不服申立てとみなす。"
+                }
+              }
+            },
+            {
+              "@Hide": "false",
+              "@Num": "5",
+              "ParagraphNum": "５",
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "第三項の規定によりこの法律の施行後にされる審査の請求、異議の申立てその他の不服申立ての裁決等については、行政不服審査法による不服申立てをすることができない。"
+                }
+              }
+            },
+            {
+              "@Hide": "false",
+              "@Num": "6",
+              "ParagraphNum": "６",
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "この法律の施行前にされた行政庁の処分で、この法律による改正前の規定により訴願等をすることができるものとされ、かつ、その提起期間が定められていなかつたものについて、行政不服審査法による不服申立てをすることができる期間は、この法律の施行の日から起算する。"
+                }
+              }
+            },
+            {
+              "@Hide": "false",
+              "@Num": "8",
+              "ParagraphNum": "８",
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "この法律の施行前にした行為に対する罰則の適用については、なお従前の例による。"
+                }
+              }
+            },
+            {
+              "@Hide": "false",
+              "@Num": "9",
+              "ParagraphNum": "９",
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "前八項に定めるもののほか、この法律の施行に関して必要な経過措置は、政令で定める。"
+                }
+              }
+            },
+            {
+              "@Hide": "false",
+              "@Num": "10",
+              "ParagraphNum": "１０",
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "この法律及び行政事件訴訟法の施行に伴う関係法律の整理等に関する法律（昭和三十七年法律第百四十号）に同一の法律についての改正規定がある場合においては、当該法律は、この法律によつてまず改正され、次いで行政事件訴訟法の施行に伴う関係法律の整理等に関する法律によつて改正されるものとする。"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@AmendLawNum": "平成五年一一月一二日法律第八九号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Article": [
+            {
+              "@Delete": "false",
+              "@Hide": "false",
+              "@Num": "1",
+              "ArticleCaption": "（施行期日）",
+              "ArticleTitle": "第一条",
+              "Paragraph": {
+                "@Hide": "false",
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "この法律は、行政手続法（平成五年法律第八十八号）の施行の日から施行する。"
+                  }
+                }
+              }
+            },
+            {
+              "@Delete": "false",
+              "@Hide": "false",
+              "@Num": "2",
+              "ArticleCaption": "（諮問等がされた不利益処分に関する経過措置）",
+              "ArticleTitle": "第二条",
+              "Paragraph": {
+                "@Hide": "false",
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "この法律の施行前に法令に基づき審議会その他の合議制の機関に対し行政手続法第十三条に規定する聴聞又は弁明の機会の付与の手続その他の意見陳述のための手続に相当する手続を執るべきことの諮問その他の求めがされた場合においては、当該諮問その他の求めに係る不利益処分の手続に関しては、この法律による改正後の関係法律の規定にかかわらず、なお従前の例による。"
+                  }
+                }
+              }
+            },
+            {
+              "@Delete": "false",
+              "@Hide": "false",
+              "@Num": "13",
+              "ArticleCaption": "（罰則に関する経過措置）",
+              "ArticleTitle": "第十三条",
+              "Paragraph": {
+                "@Hide": "false",
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "この法律の施行前にした行為に対する罰則の適用については、なお従前の例による。"
+                  }
+                }
+              }
+            },
+            {
+              "@Delete": "false",
+              "@Hide": "false",
+              "@Num": "14",
+              "ArticleCaption": "（聴聞に関する規定の整理に伴う経過措置）",
+              "ArticleTitle": "第十四条",
+              "Paragraph": {
+                "@Hide": "false",
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "この法律の施行前に法律の規定により行われた聴聞、聴問若しくは聴聞会（不利益処分に係るものを除く。）又はこれらのための手続は、この法律による改正後の関係法律の相当規定により行われたものとみなす。"
+                  }
+                }
+              }
+            },
+            {
+              "@Delete": "false",
+              "@Hide": "false",
+              "@Num": "15",
+              "ArticleCaption": "（政令への委任）",
+              "ArticleTitle": "第十五条",
+              "Paragraph": {
+                "@Hide": "false",
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "附則第二条から前条までに定めるもののほか、この法律の施行に関して必要な経過措置は、政令で定める。"
+                  }
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@AmendLawNum": "平成一一年一二月二二日法律第一六〇号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Article": {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "1",
+            "ArticleCaption": "（施行期日）",
+            "ArticleTitle": "第一条",
+            "Paragraph": {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": [
+                  {
+                    "@Function": "main",
+                    "@Num": "1",
+                    "@WritingMode": "vertical",
+                    "#text": "この法律（第二条及び第三条を除く。）は、平成十三年一月六日から施行する。"
+                  },
+                  {
+                    "@Function": "proviso",
+                    "@Num": "2",
+                    "@WritingMode": "vertical",
+                    "#text": "ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。"
+                  }
+                ]
+              },
+              "Item": {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "1",
+                "ItemTitle": "一",
+                "ItemSentence": {
+                  "Column": [
+                    {
+                      "@LineBreak": "false",
+                      "@Num": "1",
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "第九百九十五条（核原料物質、核燃料物質及び原子炉の規制に関する法律の一部を改正する法律附則の改正規定に係る部分に限る。）、第千三百五条、第千三百六条、第千三百二十四条第二項、第千三百二十六条第二項及び第千三百四十四条の規定"
+                      }
+                    },
+                    {
+                      "@LineBreak": "false",
+                      "@Num": "2",
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "公布の日"
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成一六年六月九日法律第八四号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Article": {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "1",
+            "ArticleCaption": "（施行期日）",
+            "ArticleTitle": "第一条",
+            "Paragraph": {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "この法律は、公布の日から起算して一年を超えない範囲内において政令で定める日から施行する。"
+                }
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成二八年五月一八日法律第四二号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Article": [
+            {
+              "@Delete": "false",
+              "@Hide": "false",
+              "@Num": "1",
+              "ArticleCaption": "（施行期日）",
+              "ArticleTitle": "第一条",
+              "Paragraph": {
+                "@Hide": "false",
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": [
+                    {
+                      "@Function": "main",
+                      "@Num": "1",
+                      "@WritingMode": "vertical",
+                      "#text": "この法律は、公布の日から起算して二年を超えない範囲内において政令で定める日から施行する。"
+                    },
+                    {
+                      "@Function": "proviso",
+                      "@Num": "2",
+                      "@WritingMode": "vertical",
+                      "#text": "ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。"
+                    }
+                  ]
+                },
+                "Item": [
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "1",
+                    "ItemTitle": "一",
+                    "ItemSentence": {
+                      "Column": [
+                        {
+                          "@LineBreak": "false",
+                          "@Num": "1",
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "附則第四条の規定"
+                          }
+                        },
+                        {
+                          "@LineBreak": "false",
+                          "@Num": "2",
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "公布の日"
+                          }
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "2",
+                    "ItemTitle": "二",
+                    "ItemSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "略"
+                      }
+                    }
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "3",
+                    "ItemTitle": "三",
+                    "ItemSentence": {
+                      "Column": [
+                        {
+                          "@LineBreak": "false",
+                          "@Num": "1",
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "第三条及び次条の規定"
+                          }
+                        },
+                        {
+                          "@LineBreak": "false",
+                          "@Num": "2",
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "平成二十九年四月一日"
+                          }
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "@Delete": "false",
+              "@Hide": "false",
+              "@Num": "2",
+              "ArticleCaption": "（航路標識法の一部改正に伴う経過措置）",
+              "ArticleTitle": "第二条",
+              "Paragraph": {
+                "@Hide": "false",
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "前条第三号に掲げる規定の施行の際現に第三条の規定による改正前の航路標識法（以下この条において「旧航路標識法」という。）第二条ただし書の許可を受けて航路標識（第三条の規定による改正後の航路標識法（以下この条において「新航路標識法」という。）第三条第一項に規定する航路標識に該当するものに限る。）を管理している者は、同号に掲げる規定の施行の日（以下この条において「第三号施行日」という。）に新航路標識法第三条第一項の許可を受けたものとみなし、前条第三号に掲げる規定の施行の際現に旧航路標識法第二条ただし書の許可を受けて航路標識（新航路標識法第十三条第一項に規定する航路標識に該当するものに限る。）を管理している者は、第三号施行日に新航路標識法第十三条第一項の規定による届出をしたものとみなす。"
+                  }
+                }
+              }
+            },
+            {
+              "@Delete": "false",
+              "@Hide": "false",
+              "@Num": "4",
+              "ArticleCaption": "（政令への委任）",
+              "ArticleTitle": "第四条",
+              "Paragraph": {
+                "@Hide": "false",
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "前二条に定めるもののほか、この法律の施行に関し必要な経過措置は、政令で定める。"
+                  }
+                }
+              }
+            },
+            {
+              "@Delete": "false",
+              "@Hide": "false",
+              "@Num": "5",
+              "ArticleCaption": "（検討）",
+              "ArticleTitle": "第五条",
+              "Paragraph": {
+                "@Hide": "false",
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "政府は、第三条又は第四条の規定の施行後五年を経過した場合において、第三条又は第四条の規定による改正後の規定の施行状況について検討を加え、必要があると認めるときには、その結果に基づいて所要の措置を講ずるものとする。"
+                  }
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

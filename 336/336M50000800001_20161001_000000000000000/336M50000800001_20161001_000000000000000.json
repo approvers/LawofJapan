@@ -1,0 +1,1630 @@
+{
+  "Law": {
+    "@Era": "Showa",
+    "@Lang": "ja",
+    "@LawType": "MinisterialOrdinance",
+    "@Num": "001",
+    "@Year": "36",
+    "LawNum": "昭和三十六年運輸省令第一号",
+    "LawBody": {
+      "LawTitle": "火薬類運送規則",
+      "EnactStatement": "火薬類取締法（昭和二十五年法律第百四十九号）第二十条第二項の規定に基づき、火薬類運送規則（昭和二十五年運輸省令第八十六号）の全部を改正する省令を次のように定める。",
+      "MainProvision": {
+        "Chapter": [
+          {
+            "@Num": "1",
+            "ChapterTitle": "第一章　総則",
+            "Article": [
+              {
+                "@Num": "1",
+                "ArticleCaption": "（通則）",
+                "ArticleTitle": "第一条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "鉄道、索道、軌道及び無軌条電車による火薬類の運送に関しては、この省令の定めるところによる。"
+                  }
+                }
+              },
+              {
+                "@Num": "2",
+                "ArticleCaption": "（特殊の火薬類の運送方法）",
+                "ArticleTitle": "第二条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "国土交通大臣が告示で定める火薬類の運送は、この省令に規定する技術上の基準に従うほか、当該火薬類の性質、数量等に応じて国土交通大臣が特に指示する技術上の基準に従つてしなければならない。"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "@Num": "2",
+            "ChapterTitle": "第二章　鉄道による運送",
+            "Article": [
+              {
+                "@Num": "3",
+                "ArticleCaption": "（火薬類の授受等）",
+                "ArticleTitle": "第三条",
+                "Paragraph": [
+                  {
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": "火薬類の授受をする場合は、駅長又は運送人の指定する者を立ち会わせなければならない。"
+                    }
+                  },
+                  {
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": "火薬類の搬入の日時、場所及び方法並びに火薬類の積込みに関しては、前項の者に、あらかじめ荷送人と打合せをさせなければならない。"
+                    }
+                  },
+                  {
+                    "@Num": "3",
+                    "ParagraphNum": "３",
+                    "ParagraphSentence": {
+                      "Sentence": "別表に定める数量を超える数量の火薬類の運送の委託があつたときは、授受の際、第一項の者に火薬類運搬証明書を確認させなければならない。"
+                    }
+                  }
+                ]
+              },
+              {
+                "@Num": "4",
+                "ArticleCaption": "（包装）",
+                "ArticleTitle": "第四条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "火薬類は、国土交通大臣が告示で定める基準に従つて、包装しなければならない。"
+                  }
+                }
+              },
+              {
+                "@Num": "5",
+                "ArticleCaption": "（表示）",
+                "ArticleTitle": "第五条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": [
+                      {
+                        "@Function": "main",
+                        "@Num": "1",
+                        "#text": "火薬類は、その包装の外部の見やすい箇所に、火薬、爆薬若しくは火工品と赤書し、又は赤書した標札を付し、かつ、当該火薬類の種類（別表の種類をいう。）、数量（雷管、捕鯨用信管、捕鯨用火管、実包、空包、爆発せん孔器及びコンクリート破砕器にあつては個数、導爆線及び制御発破用コードにあつては長さ、その他の火薬類にあつては薬量をいう。）及び包装を含む重量並びに転倒してはならないものにあつてはその旨を明りように表示して運送しなければならない。"
+                      },
+                      {
+                        "@Function": "proviso",
+                        "@Num": "2",
+                        "#text": "ただし、一車又は一コンテナ（運送途中において運送する物自体の積替えを要せずに運送するために作られた運送器具であつて、反復使用に耐える構造及び強度を有し、かつ、機械による積込み及び取卸しのための装置並びに車両に固定するための装置を有するものをいう。以下同じ。）を専用して積載し、又は収納する火薬類の包装には、火薬、爆薬若しくは火工品と赤書し、又は赤書した標札を付さないことができる。"
+                      }
+                    ]
+                  }
+                }
+              },
+              {
+                "@Num": "6",
+                "ArticleCaption": "（乗車禁止）",
+                "ArticleTitle": "第六条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": [
+                      {
+                        "@Function": "main",
+                        "@Num": "1",
+                        "#text": "火薬類を積載した貨車には、人を乗車させてはならない。"
+                      },
+                      {
+                        "@Function": "proviso",
+                        "@Num": "2",
+                        "#text": "ただし、業務上当該火薬類とともに移動する必要がある者が付添人として乗車する場合は、この限りでない。"
+                      }
+                    ]
+                  }
+                }
+              },
+              {
+                "@Num": "7",
+                "ArticleCaption": "（積載貨車等）",
+                "ArticleTitle": "第七条",
+                "Paragraph": [
+                  {
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": [
+                        {
+                          "@Function": "main",
+                          "@Num": "1",
+                          "Ruby": {
+                            "Rt": "がい",
+                            "#text": "蓋"
+                          },
+                          "#text": "火薬類は、鋼製有貨車又は非開放型の構造の鋼製コンテナに収納してコンテナ車に積載しなければならない。"
+                        },
+                        {
+                          "@Function": "proviso",
+                          "@Num": "2",
+                          "Ruby": [
+                            {
+                              "Rt": "がい",
+                              "#text": "蓋"
+                            },
+                            {
+                              "Rt": "がい",
+                              "#text": "蓋"
+                            }
+                          ],
+                          "#text": "ただし、大型の砲弾、爆弾、水雷、ロケツト等でその長さ、重量等から有貨車に積載することが著しく困難なものを無貨車に覆布で覆つて積載する場合は、この限りでない。"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": "火薬類を積載する貨車及び収納するコンテナは、危険防止のため厳重に点検しなければならない。"
+                    }
+                  },
+                  {
+                    "@Num": "3",
+                    "ParagraphNum": "３",
+                    "ParagraphSentence": {
+                      "Sentence": "貨車又はコンテナの内部の火薬類を積載する位置及びその付近の鉄類は、木板、革、布又はむしろ類をもつて覆わなければならない。"
+                    }
+                  }
+                ]
+              },
+              {
+                "@Num": "8",
+                "ArticleCaption": "（積載方法）",
+                "ArticleTitle": "第八条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "火薬類は、摩擦し、動揺し、衝突し、転落し、又は転倒しないように積載しなければならない。"
+                  }
+                }
+              },
+              {
+                "@Num": "9",
+                "ArticleTitle": "第九条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "削除"
+                  }
+                }
+              },
+              {
+                "@Num": "10",
+                "ArticleCaption": "（混載制限）",
+                "ArticleTitle": "第十条",
+                "Paragraph": [
+                  {
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": [
+                        {
+                          "@Function": "main",
+                          "@Num": "1",
+                          "#text": "火薬類（コンテナに収納するものを除く。）は、火薬類以外の貨物と同一貨車に混載してはならない。"
+                        },
+                        {
+                          "@Function": "proviso",
+                          "@Num": "2",
+                          "#text": "ただし、別表に定める数量の二分の一に相当する数量以下の火薬類と次の各号に該当する火薬類以外の貨物とを混載する場合は、この限りでない。"
+                        }
+                      ]
+                    },
+                    "Item": [
+                      {
+                        "@Num": "1",
+                        "ItemTitle": "一",
+                        "ItemSentence": {
+                          "Sentence": "容易に燃焼し、自然発火し、腐食し、又は爆発の誘因となるおそれのないもの"
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "ItemTitle": "二",
+                        "ItemSentence": {
+                          "Sentence": "包装が完全であつて、かつ、包装の外部に鉄の露出のないもの"
+                        }
+                      },
+                      {
+                        "@Num": "3",
+                        "ItemTitle": "三",
+                        "ItemSentence": {
+                          "Sentence": "有毒物又は放射性物質でないもの"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": [
+                        {
+                          "@Function": "main",
+                          "@Num": "1",
+                          "#text": "火薬類は、火薬類以外の貨物と同一コンテナに収納してはならない。"
+                        },
+                        {
+                          "@Function": "proviso",
+                          "@Num": "2",
+                          "#text": "ただし、別表に定める数量の二分の一に相当する数量以下の火薬類と前項各号に該当する火薬類以外の貨物とを収納する場合は、この限りでない。"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "@Num": "3",
+                    "ParagraphNum": "３",
+                    "ParagraphSentence": {
+                      "Sentence": [
+                        {
+                          "@Function": "main",
+                          "@Num": "1",
+                          "#text": "火薬類を収納したコンテナは、火薬類以外の貨物を収納したコンテナ（前項ただし書の規定により火薬類と火薬類以外の貨物とを収納するものを除く。）と同一貨車に混載してはならない。"
+                        },
+                        {
+                          "@Function": "proviso",
+                          "@Num": "2",
+                          "#text": "ただし、転動により火薬類を収納したコンテナに衝撃を与えるおそれのある貨物以外の不燃質貨物を収納した開放型の構造のコンテナ又は発火のおそれのない貨物を収納した非開放型の構造のコンテナと混載する場合は、この限りでない。"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "@Num": "4",
+                    "ParagraphNum": "４",
+                    "ParagraphSentence": {
+                      "Sentence": "第八条の規定は、第一項ただし書及び第二項ただし書の規定により火薬類と混載する貨物について準用する。"
+                    }
+                  }
+                ]
+              },
+              {
+                "@Num": "11",
+                "ArticleCaption": "（取扱方法）",
+                "ArticleTitle": "第十一条",
+                "Paragraph": [
+                  {
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": "火薬類を取り扱うときは、これを投げ、落し、ころがす等不注意な取扱いをし、又は手かぎ類を用いてはならない。"
+                    }
+                  },
+                  {
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": "包装に転倒してはならない旨の標示のある火薬類は、転倒してはならない。"
+                    }
+                  },
+                  {
+                    "@Num": "3",
+                    "ParagraphNum": "３",
+                    "ParagraphSentence": {
+                      "Sentence": "火薬類を取り扱う場所においては電燈以外の燈火を、火薬類を積載した貨車内においては携帯電燈以外の燈火を使用してはならず、又はこれらの場所においてマツチその他の発火しやすい物品を所持し、若しくは喫煙してはならない。"
+                    }
+                  },
+                  {
+                    "@Num": "4",
+                    "ParagraphNum": "４",
+                    "ParagraphSentence": {
+                      "Sentence": "火薬類を取り扱うときは、鉄びよう等の付いたくつ類をはいてはならない。"
+                    }
+                  },
+                  {
+                    "@Num": "5",
+                    "ParagraphNum": "５",
+                    "ParagraphSentence": {
+                      "Sentence": "火薬類を取り扱うときは、作業の前後に、その場所及び車内を清掃しなければならない。"
+                    }
+                  },
+                  {
+                    "@Num": "6",
+                    "ParagraphNum": "６",
+                    "ParagraphSentence": {
+                      "Sentence": "火薬類を収納したコンテナを取り扱うときは、これを打ち当て、落とす等不注意な取扱いをしてはならない。"
+                    }
+                  }
+                ]
+              },
+              {
+                "@Num": "12",
+                "ArticleTitle": "第十二条",
+                "Paragraph": [
+                  {
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": [
+                        {
+                          "@Function": "main",
+                          "@Num": "1",
+                          "#text": "旅客乗降場においては、その付近に旅客又は旅客の乗車中の客車がない場合を除き、火薬類を取り扱つてはならない。"
+                        },
+                        {
+                          "@Function": "proviso",
+                          "@Num": "2",
+                          "#text": "ただし、一車又は一コンテナに積載し、又は収納する数量が別表に定める数量の二分の一に相当する数量以下の火薬類については、この限りでない。"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": "発送停車場に搬入され、又は到着停車場において取り卸された火薬類は、できるだけ他の物品から引き離す等危険防止の措置をしなければならない。"
+                    }
+                  }
+                ]
+              },
+              {
+                "@Num": "13",
+                "ArticleTitle": "第十三条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "火薬類の取扱いは、できるだけ昼間にしなければならない。"
+                  }
+                }
+              },
+              {
+                "@Num": "14",
+                "ArticleCaption": "（標識）",
+                "ArticleTitle": "第十四条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "火薬類を積載した貨車（コンテナ車を除く。）及び収納したコンテナの両側の見やすい箇所に、白地に相当の大きさの文字で火薬と赤書した標識を付さなければならない。"
+                  }
+                }
+              },
+              {
+                "@Num": "15",
+                "ArticleCaption": "（連結制限）",
+                "ArticleTitle": "第十五条",
+                "Paragraph": [
+                  {
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": [
+                        {
+                          "@Function": "main",
+                          "@Num": "1",
+                          "#text": "火薬類を積載した貨車は、旅客列車又は混合列車に連結してはならない。"
+                        },
+                        {
+                          "@Function": "proviso",
+                          "@Num": "2",
+                          "#text": "ただし、別表に定める数量の二分の一に相当する数量以下の火薬類を積載した貨車（以下「特定貨車」という。）は、この限りでない。"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": "貨物列車を運転しない区間においては、前項の規定にかかわらず、火薬類を積載した貨車（特定貨車を除く。）は、一両に限つて、これを旅客列車又は混合列車に連結することができる。"
+                    }
+                  },
+                  {
+                    "@Num": "3",
+                    "ParagraphNum": "３",
+                    "ParagraphSentence": {
+                      "Sentence": "前二項の規定にかかわらず、火薬類を積載した貨車は、業務上当該火薬類とともに移動する必要がある者のみが乗車する列車に連結することができる。"
+                    }
+                  }
+                ]
+              },
+              {
+                "@Num": "16",
+                "ArticleTitle": "第十六条",
+                "Paragraph": [
+                  {
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "Ruby": [
+                          {
+                            "Rt": "がい",
+                            "#text": "蓋"
+                          },
+                          {
+                            "Rt": "がい",
+                            "#text": "蓋"
+                          }
+                        ],
+                        "#text": "火薬類を積載した貨車（特定貨車を除く。）を列車に連結するときは、次の各号に掲げる車両に対してそれぞれに掲げる数以上の空車、転動により火薬類を積載した貨車に衝撃を与えるおそれのある貨物以外の不燃質貨物を積載した無貨車、発火のおそれのない貨物を積載した有貨車その他これらに類する貨車（以下「空車等」という。）を介在させなければならない。"
+                      }
+                    },
+                    "Item": [
+                      {
+                        "@Num": "1",
+                        "ItemTitle": "一",
+                        "ItemSentence": {
+                          "Column": [
+                            {
+                              "@Num": "1",
+                              "Sentence": "客車"
+                            },
+                            {
+                              "@Num": "2",
+                              "Sentence": "三両"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "ItemTitle": "二",
+                        "ItemSentence": {
+                          "Column": [
+                            {
+                              "@Num": "1",
+                              "Sentence": "機関車"
+                            },
+                            {
+                              "@Num": "2",
+                              "Sentence": "三両"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "@Num": "3",
+                        "ItemTitle": "三",
+                        "ItemSentence": {
+                          "Column": [
+                            {
+                              "@Num": "1",
+                              "Sentence": "火薬類以外の発火又は爆発のおそれのある貨物を積載した貨車"
+                            },
+                            {
+                              "@Num": "2",
+                              "Sentence": "三両"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "@Num": "4",
+                        "ItemTitle": "四",
+                        "ItemSentence": {
+                          "Column": [
+                            {
+                              "@Num": "1",
+                              "Sentence": "前各号に掲げる車両以外の車両（火薬類を積載した貨車を除く。）"
+                            },
+                            {
+                              "@Num": "2",
+                              "Sentence": "一両"
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": "特定貨車を列車に連結するときは、次の各号に掲げる車両に対してそれぞれに掲げる数以上の空車等を介在させなければならない。"
+                    },
+                    "Item": [
+                      {
+                        "@Num": "1",
+                        "ItemTitle": "一",
+                        "ItemSentence": {
+                          "Column": [
+                            {
+                              "@Num": "1",
+                              "Sentence": "客車"
+                            },
+                            {
+                              "@Num": "2",
+                              "Sentence": "三両"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "ItemTitle": "二",
+                        "ItemSentence": {
+                          "Column": [
+                            {
+                              "@Num": "1",
+                              "Sentence": "客車以外の車両（火薬類を積載した貨車を除く。）"
+                            },
+                            {
+                              "@Num": "2",
+                              "Sentence": "一両"
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Num": "3",
+                    "ParagraphNum": "３",
+                    "ParagraphSentence": {
+                      "Sentence": "火薬類を積載した貨車（特定貨車を除く。）は、列車の後から三両目以前に連結しなければならない。"
+                    }
+                  },
+                  {
+                    "@Num": "4",
+                    "ParagraphNum": "４",
+                    "ParagraphSentence": {
+                      "Sentence": "前三項の規定の適用については、ボギー車一両は二両とみなす。"
+                    }
+                  }
+                ]
+              },
+              {
+                "@Num": "17",
+                "ArticleTitle": "第十七条",
+                "Paragraph": [
+                  {
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": "火薬類を積載した貨車（特定貨車を除く。）は、十両以下に限り一列車に連結することができる。"
+                    }
+                  },
+                  {
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": "前項の規定の適用については、ボギー車一両は二両とみなす。"
+                    }
+                  }
+                ]
+              },
+              {
+                "@Num": "18",
+                "ArticleCaption": "（運送方法）",
+                "ArticleTitle": "第十八条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "火薬類は、できるだけ到着停車場まで直通する列車で運送しなければならない。"
+                  }
+                }
+              },
+              {
+                "@Num": "19",
+                "ArticleCaption": "（危険防止）",
+                "ArticleTitle": "第十九条",
+                "Paragraph": [
+                  {
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": "火薬類を積載した貨車を連結している列車が停車中、その車両に、車軸の発熱その他の危険があると認めるときは、直ちに当該車両を解放し、できるだけ隔離した線路に移す等危険防止の措置をしなければならない。"
+                    }
+                  },
+                  {
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": "前項の列車が運転中に同項の危険があると認めるときは、直ちに、その進行を止め、発熱部を冷却する等の措置をした上徐行し、次の停車場において同項の措置をしなければならない。"
+                    }
+                  },
+                  {
+                    "@Num": "3",
+                    "ParagraphNum": "３",
+                    "ParagraphSentence": {
+                      "Sentence": "火薬類を積載した貨車を停留又は停車させる場合において、周囲の状況が火薬類に危険を及ぼすおそれがあると認めるときは、当該貨車をできるだけ隔離した線路に移し、危険防止の措置をしなければならない。"
+                    }
+                  }
+                ]
+              },
+              {
+                "@Num": "20",
+                "ArticleTitle": "第二十条",
+                "Paragraph": [
+                  {
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": "火薬類が到着したときは、すみやかに停車場外に搬出されるように措置しなければならない。"
+                    }
+                  },
+                  {
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": "到着停車場に到着した火薬類を積載した貨車は、できるだけ隔離した線路に移し、見張人を付ける等危険防止の措置をしなければならない。"
+                    }
+                  }
+                ]
+              },
+              {
+                "@Num": "21",
+                "ArticleTitle": "第二十一条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "削除"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "@Num": "3",
+            "ChapterTitle": "第三章　索道による運送",
+            "Article": [
+              {
+                "@Num": "22",
+                "ArticleCaption": "（積卸しの方法）",
+                "ArticleTitle": "第二十二条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "火薬類の積卸しは、搬器の静止状態においてしなければならない。"
+                  }
+                }
+              },
+              {
+                "@Num": "23",
+                "ArticleCaption": "（積載方法）",
+                "ArticleTitle": "第二十三条",
+                "Paragraph": [
+                  {
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": "火薬類は、木板、むしろ等を用い、搬器の金属部と直接接触しないように積載しなければならない。"
+                    }
+                  },
+                  {
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": "火薬類は、閉さ式搬器以外の搬器に積載する場合は、その上縁を著しくこえないようにし、かつ、上部を被覆しなければならない。"
+                    }
+                  }
+                ]
+              },
+              {
+                "@Num": "24",
+                "ArticleTitle": "第二十四条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "削除"
+                  }
+                }
+              },
+              {
+                "@Num": "25",
+                "ArticleCaption": "（運行の制限）",
+                "ArticleTitle": "第二十五条",
+                "Paragraph": [
+                  {
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": "火薬類を積載した搬器は、他の搬器と三十メートル以上離して運行させなければならない。"
+                    }
+                  },
+                  {
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": "火薬類を積載した搬器と人の乗り込んだ搬器とを同時に運行させてはならない。"
+                    }
+                  }
+                ]
+              },
+              {
+                "@Num": "26",
+                "ArticleCaption": "（標識）",
+                "ArticleTitle": "第二十六条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "火薬類を積載した搬器には、見やすい箇所に赤色の旗その他の標識を附さなければならない。"
+                  }
+                }
+              },
+              {
+                "@Num": "27",
+                "ArticleCaption": "（見張人）",
+                "ArticleTitle": "第二十七条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "索道により火薬類を運送する場合は、必要な箇所に見張人を配置しなければならない。"
+                  }
+                }
+              },
+              {
+                "@Num": "28",
+                "ArticleCaption": "（準用規定）",
+                "ArticleTitle": "第二十八条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "第三条から第六条まで、第八条、第十条から第十三条まで及び第二十条の規定は索道による火薬類の運送について準用する。"
+                  }
+                }
+              },
+              {
+                "@Num": "29",
+                "ArticleCaption": "（特別の技術基準）",
+                "ArticleTitle": "第二十九条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "索道直下の地点から百メートル以内に集団家屋、学校、官公署、病院、工場、危険物貯蔵所、鉄道、軌道、国道、都道府県道、公園又は高圧電線がある場合における索道による火薬類の運送は、この省令に規定する技術上の基準に従うほか、当該索道の起点の所在地を管轄する地方運輸局長が特に指示する技術上の基準に従つてしなければならない。"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "@Num": "4",
+            "ChapterTitle": "第四章　軌道又は無軌条電車による運送",
+            "Article": [
+              {
+                "@Num": "30",
+                "ArticleCaption": "（積載数量の制限）",
+                "ArticleTitle": "第三十条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "火薬類の積載数量は、別表に定める数量の二分の一に相当する数量を超えてはならない。"
+                  }
+                }
+              },
+              {
+                "@Num": "31",
+                "ArticleCaption": "（乗車の制限）",
+                "ArticleTitle": "第三十一条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "火薬類を積載した車両及びこれをけん引する車両には、乗務員以外の人を乗車させてはならない。"
+                  }
+                }
+              },
+              {
+                "@Num": "32",
+                "ArticleCaption": "（連結制限）",
+                "ArticleTitle": "第三十二条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "火薬類を積載した車両は、これをけん引する車両以外の車両と連結してはならない。"
+                  }
+                }
+              },
+              {
+                "@Num": "33",
+                "ArticleCaption": "（夜間における取扱い等の禁止）",
+                "ArticleTitle": "第三十三条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "火薬類の取扱い及び火薬類を積載した車両の運転は、昼間にしなければならない。"
+                  }
+                }
+              },
+              {
+                "@Num": "34",
+                "ArticleCaption": "（標識）",
+                "ArticleTitle": "第三十四条",
+                "Paragraph": [
+                  {
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": "火薬類を積載した車両の両側及び前後部の見やすい箇所には、白地に相当の大きさの文字で火薬と赤書した標識を附さなければならない。"
+                    }
+                  },
+                  {
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": [
+                        {
+                          "@Num": "1",
+                          "#text": "火薬類を積載した車両をけん引する車両の前部の見やすい箇所には、前項の標識を附さなければならない。"
+                        },
+                        {
+                          "@Num": "2",
+                          "#text": "この場合においては、火薬類を積載した車両の前部の標識を省略することができる。"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "@Num": "35",
+                "ArticleCaption": "（危険防止）",
+                "ArticleTitle": "第三十五条",
+                "Paragraph": [
+                  {
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": "火薬類を積載した車両の運転中に車両の故障、周囲の状況等により積載している火薬類に危険を及ぼすおそれがあると認めるときは、直ちに当該車両を停止させ、当該車両又は火薬類を安全な場所に移す等危険防止の措置をしなければならない。"
+                    }
+                  },
+                  {
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": "火薬類を積載した車両は、周囲の状況上安全な場所に停留させなければならない。"
+                    }
+                  }
+                ]
+              },
+              {
+                "@Num": "36",
+                "ArticleCaption": "（準用規定）",
+                "ArticleTitle": "第三十六条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "第三条から第五条まで、第七条第二項及び第三項、第八条、第十条第一項本文並びに第十一条の規定は、軌道又は無軌条電車による火薬類の運送について準用する。"
+                  }
+                }
+              },
+              {
+                "@Num": "37",
+                "ArticleCaption": "（新設軌道による火薬類の運送）",
+                "ArticleTitle": "第三十七条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": [
+                      {
+                        "@Function": "main",
+                        "@Num": "1",
+                        "#text": "新設軌道による火薬類の運送については、第三十条から前条までの規定を適用せず、第二章の規定を準用する。"
+                      },
+                      {
+                        "@Function": "proviso",
+                        "@Num": "2",
+                        "#text": "ただし、併用軌道にまたがつて火薬類を運送する場合は、この限りでない。"
+                      }
+                    ]
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "@Num": "5",
+            "ChapterTitle": "第五章　雑則",
+            "Article": {
+              "@Num": "38",
+              "ArticleCaption": "（危険のおそれのない場合の特則）",
+              "ArticleTitle": "第三十八条",
+              "Paragraph": {
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": "第四条及び第十条（これらの規定を第二十八条、第三十六条及び第三十七条において準用する場合を含む。）並びに第十五条から第十七条まで（第三十七条において準用する場合を含む。）の規定に定める技術上の基準については、国土交通大臣が積載方法、運送の通路、積載する火薬類の種類、性状又は数量その他の条件により危険のおそれがないと認めた場合に限り、当該規定にかかわらず、その程度に応じて認めたものをもつて基準とする。"
+                }
+              }
+            }
+          }
+        ]
+      },
+      "SupplProvision": [
+        {
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": [
+            {
+              "@Num": "1",
+              "ParagraphCaption": "（施行期日）",
+              "ParagraphNum": "１",
+              "ParagraphSentence": {
+                "Sentence": "この省令は、火薬類取締法の一部を改正する法律（昭和三十五年法律第百四十号）の施行の日（昭和三十六年二月一日）から施行する。"
+              }
+            },
+            {
+              "@Num": "2",
+              "ParagraphCaption": "（経過措置）",
+              "ParagraphNum": "２",
+              "ParagraphSentence": {
+                "Sentence": "この省令の施行の際現に鉄道又は索道により行なわれている火薬類の運送については、当該火薬類の運送が終了するまでの間は、なお従前の例による。"
+              }
+            },
+            {
+              "@Num": "3",
+              "ParagraphNum": "３",
+              "ParagraphSentence": {
+                "Sentence": "改正前の第二条に規定する火薬類については、改正後の第四条又は第五条の規定の適用に関しては、この省令の施行の日から六月間は、なお従前の例によることができる。"
+              }
+            },
+            {
+              "@Num": "4",
+              "ParagraphNum": "４",
+              "ParagraphSentence": {
+                "Sentence": "法第二十条第二項の規定の適用を受ける火薬類（前項の火薬類を除く。）については、改正後の第四条又は第五条の規定は、この省令の施行の日から六月間は、適用しない。"
+              }
+            }
+          ]
+        },
+        {
+          "@AmendLawNum": "昭和四五年一月三一日運輸省令第五号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この省令は、昭和四十五年二月一日から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "昭和五九年一月一二日運輸省令第一号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この省令は、公布の日から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "昭和五九年六月二二日運輸省令第一八号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Article": [
+            {
+              "@Num": "1",
+              "ArticleCaption": "（施行期日）",
+              "ArticleTitle": "第一条",
+              "Paragraph": {
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": "この省令は、昭和五十九年七月一日から施行する。"
+                }
+              }
+            },
+            {
+              "@Num": "2",
+              "ArticleCaption": "（経過措置）",
+              "ArticleTitle": "第二条",
+              "Paragraph": {
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": "この省令の施行前に次の表の上欄に掲げる行政庁が法律若しくはこれに基づく命令の規定によりした許可、認可その他の処分又は契約その他の行為（以下「処分等」という。）は、同表の下欄に掲げるそれぞれの行政庁がした処分等とみなし、この省令の施行前に同表の上欄に掲げる行政庁に対してした申請、届出その他の行為（以下「申請等」という。）は、同表の下欄に掲げるそれぞれの行政庁に対してした申請等とみなす。"
+                },
+                "TableStruct": {
+                  "Table": {
+                    "TableRow": [
+                      {
+                        "TableColumn": [
+                          {
+                            "Sentence": "北海海運局長"
+                          },
+                          {
+                            "Sentence": "北海道運輸局長"
+                          }
+                        ]
+                      },
+                      {
+                        "TableColumn": [
+                          {
+                            "Sentence": "東北海運局長（山形県又は秋田県の区域に係る処分等又は申請等に係る場合を除く。）"
+                          },
+                          {
+                            "Sentence": "東北運輸局長"
+                          }
+                        ]
+                      },
+                      {
+                        "TableColumn": [
+                          {
+                            "Sentence": "東北海運局長（山形県又は秋田県の区域に係る処分等又は申請等に係る場合に限る。）及び新潟海運監理部長"
+                          },
+                          {
+                            "Sentence": "新潟運輸局長"
+                          }
+                        ]
+                      },
+                      {
+                        "TableColumn": [
+                          {
+                            "Sentence": "関東海運局長"
+                          },
+                          {
+                            "Sentence": "関東運輸局長"
+                          }
+                        ]
+                      },
+                      {
+                        "TableColumn": [
+                          {
+                            "Sentence": "東海海運局長"
+                          },
+                          {
+                            "Sentence": "中部運輸局長"
+                          }
+                        ]
+                      },
+                      {
+                        "TableColumn": [
+                          {
+                            "Sentence": "近畿海運局長"
+                          },
+                          {
+                            "Sentence": "近畿運輸局長"
+                          }
+                        ]
+                      },
+                      {
+                        "TableColumn": [
+                          {
+                            "Sentence": "中国海運局長"
+                          },
+                          {
+                            "Sentence": "中国運輸局長"
+                          }
+                        ]
+                      },
+                      {
+                        "TableColumn": [
+                          {
+                            "Sentence": "四国海運局長"
+                          },
+                          {
+                            "Sentence": "四国運輸局長"
+                          }
+                        ]
+                      },
+                      {
+                        "TableColumn": [
+                          {
+                            "Sentence": "九州海運局長"
+                          },
+                          {
+                            "Sentence": "九州運輸局長"
+                          }
+                        ]
+                      },
+                      {
+                        "TableColumn": [
+                          {
+                            "Sentence": "神戸海運局長"
+                          },
+                          {
+                            "Sentence": "神戸海運監理部長"
+                          }
+                        ]
+                      },
+                      {
+                        "TableColumn": [
+                          {
+                            "Sentence": "札幌陸運局長"
+                          },
+                          {
+                            "Sentence": "北海道運輸局長"
+                          }
+                        ]
+                      },
+                      {
+                        "TableColumn": [
+                          {
+                            "Sentence": "仙台陸運局長"
+                          },
+                          {
+                            "Sentence": "東北運輸局長"
+                          }
+                        ]
+                      },
+                      {
+                        "TableColumn": [
+                          {
+                            "Sentence": "新潟陸運局長"
+                          },
+                          {
+                            "Sentence": "新潟運輸局長"
+                          }
+                        ]
+                      },
+                      {
+                        "TableColumn": [
+                          {
+                            "Sentence": "東京陸運局長"
+                          },
+                          {
+                            "Sentence": "関東運輸局長"
+                          }
+                        ]
+                      },
+                      {
+                        "TableColumn": [
+                          {
+                            "Sentence": "名古屋陸運局長"
+                          },
+                          {
+                            "Sentence": "中部運輸局長"
+                          }
+                        ]
+                      },
+                      {
+                        "TableColumn": [
+                          {
+                            "Sentence": "大阪陸運局長"
+                          },
+                          {
+                            "Sentence": "近畿運輸局長"
+                          }
+                        ]
+                      },
+                      {
+                        "TableColumn": [
+                          {
+                            "Sentence": "広島陸運局長"
+                          },
+                          {
+                            "Sentence": "中国運輸局長"
+                          }
+                        ]
+                      },
+                      {
+                        "TableColumn": [
+                          {
+                            "Sentence": "高松陸運局長"
+                          },
+                          {
+                            "Sentence": "四国運輸局長"
+                          }
+                        ]
+                      },
+                      {
+                        "TableColumn": [
+                          {
+                            "Sentence": "福岡陸運局長"
+                          },
+                          {
+                            "Sentence": "九州運輸局長"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@AmendLawNum": "平成五年一一月一日運輸省令第三六号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この省令は、公布の日から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成一〇年三月二七日運輸省令第一三号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この省令は、平成十年四月一日から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成一二年一一月二九日運輸省令第三九号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Article": {
+            "@Num": "1",
+            "ArticleCaption": "（施行期日）",
+            "ArticleTitle": "第一条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "この省令は、平成十三年一月六日から施行する。"
+              }
+            }
+          }
+        }
+      ],
+      "AppdxTable": {
+        "AppdxTableTitle": "別表",
+        "RelatedArticleNum": "（第三条、第五条、第十条、第十二条、第十五条、第三十条関係）",
+        "TableStruct": {
+          "Table": {
+            "TableRow": [
+              {
+                "TableColumn": [
+                  {
+                    "@colspan": "3",
+                    "Sentence": "区分"
+                  },
+                  {
+                    "Sentence": "種類"
+                  },
+                  {
+                    "Sentence": "数量"
+                  }
+                ]
+              },
+              {
+                "TableColumn": [
+                  {
+                    "@colspan": "3",
+                    "Sentence": "火薬"
+                  },
+                  {
+                    "Sentence": "火薬"
+                  },
+                  {
+                    "Sentence": "薬量　二〇〇キログラム"
+                  }
+                ]
+              },
+              {
+                "TableColumn": [
+                  {
+                    "@colspan": "3",
+                    "Sentence": "爆薬"
+                  },
+                  {
+                    "Sentence": "爆薬"
+                  },
+                  {
+                    "Sentence": "薬量　一〇〇キログラム"
+                  }
+                ]
+              },
+              {
+                "TableColumn": [
+                  {
+                    "@rowspan": "20",
+                    "Sentence": "火工品"
+                  },
+                  {
+                    "@colspan": "2",
+                    "Sentence": "工業雷管"
+                  },
+                  {
+                    "Sentence": "工業雷管"
+                  },
+                  {
+                    "@rowspan": "2",
+                    "Sentence": "四万個"
+                  }
+                ]
+              },
+              {
+                "TableColumn": [
+                  {
+                    "@colspan": "2",
+                    "Sentence": "電気雷管"
+                  },
+                  {
+                    "Sentence": "電気雷管"
+                  }
+                ]
+              },
+              {
+                "TableColumn": [
+                  {
+                    "@colspan": "2",
+                    "Sentence": "導火管付き雷管"
+                  },
+                  {
+                    "Sentence": "導火管付き雷管"
+                  },
+                  {
+                    "Sentence": "一万個"
+                  }
+                ]
+              },
+              {
+                "TableColumn": [
+                  {
+                    "@colspan": "2",
+                    "Sentence": "信号雷管"
+                  },
+                  {
+                    "Sentence": "信号雷管"
+                  },
+                  {
+                    "Sentence": "四万個"
+                  }
+                ]
+              },
+              {
+                "TableColumn": [
+                  {
+                    "@colspan": "2",
+                    "Sentence": "銃用雷管"
+                  },
+                  {
+                    "Sentence": "銃用雷管"
+                  },
+                  {
+                    "Sentence": "四〇万個"
+                  }
+                ]
+              },
+              {
+                "TableColumn": [
+                  {
+                    "@colspan": "2",
+                    "Sentence": "捕鯨用信管"
+                  },
+                  {
+                    "Sentence": "捕鯨用信管"
+                  },
+                  {
+                    "@rowspan": "2",
+                    "Sentence": "一二万個"
+                  }
+                ]
+              },
+              {
+                "TableColumn": [
+                  {
+                    "@colspan": "2",
+                    "Sentence": "捕鯨用火管"
+                  },
+                  {
+                    "Sentence": "捕鯨用火管"
+                  }
+                ]
+              },
+              {
+                "TableColumn": [
+                  {
+                    "@rowspan": "2",
+                    "Sentence": "実包"
+                  },
+                  {
+                    "Sentence": "一個当たりの装薬量〇・五グラム以下のもの"
+                  },
+                  {
+                    "Sentence": "軽実包"
+                  },
+                  {
+                    "Sentence": "四〇万個"
+                  }
+                ]
+              },
+              {
+                "TableColumn": [
+                  {
+                    "Sentence": "一個当たりの装薬量〇・五グラムを超えるもの"
+                  },
+                  {
+                    "Sentence": "重実包"
+                  },
+                  {
+                    "Sentence": "二〇万個"
+                  }
+                ]
+              },
+              {
+                "TableColumn": [
+                  {
+                    "@rowspan": "2",
+                    "Sentence": "空包"
+                  },
+                  {
+                    "Sentence": "一個当たりの装薬量〇・五グラム以下のもの"
+                  },
+                  {
+                    "Sentence": "軽空包"
+                  },
+                  {
+                    "Sentence": "四〇万個"
+                  }
+                ]
+              },
+              {
+                "TableColumn": [
+                  {
+                    "Sentence": "一個当たりの装薬量〇・五グラムを超えるもの"
+                  },
+                  {
+                    "Sentence": "重空包"
+                  },
+                  {
+                    "Sentence": "二〇万個"
+                  }
+                ]
+              },
+              {
+                "TableColumn": [
+                  {
+                    "@colspan": "2",
+                    "Sentence": "導爆線"
+                  },
+                  {
+                    "Sentence": "導爆線"
+                  },
+                  {
+                    "Sentence": "六、〇〇〇メートル"
+                  }
+                ]
+              },
+              {
+                "TableColumn": [
+                  {
+                    "@colspan": "2",
+                    "Sentence": "制御発破用コード"
+                  },
+                  {
+                    "Sentence": "制御発破用コード"
+                  },
+                  {
+                    "Sentence": "一、二〇〇メートル"
+                  }
+                ]
+              },
+              {
+                "TableColumn": [
+                  {
+                    "@colspan": "2",
+                    "Sentence": "爆発せん孔器"
+                  },
+                  {
+                    "Sentence": "爆発せん孔器"
+                  },
+                  {
+                    "Sentence": "二、〇〇〇個"
+                  }
+                ]
+              },
+              {
+                "TableColumn": [
+                  {
+                    "@colspan": "2",
+                    "Sentence": "コンクリート破砕器"
+                  },
+                  {
+                    "Sentence": "コンクリート破砕器"
+                  },
+                  {
+                    "Sentence": "二万個"
+                  }
+                ]
+              },
+              {
+                "TableColumn": [
+                  {
+                    "@rowspan": "4",
+                    "Sentence": "煙火"
+                  },
+                  {
+                    "Sentence": "がん具煙火（クラツカーボールを除く。）"
+                  },
+                  {
+                    "Sentence": "一般がん具煙火"
+                  },
+                  {
+                    "Sentence": "薬量　二、〇〇〇キログラム"
+                  }
+                ]
+              },
+              {
+                "TableColumn": [
+                  {
+                    "Sentence": "クラツカーボール"
+                  },
+                  {
+                    "Sentence": "クラツカーボール"
+                  },
+                  {
+                    "Sentence": "薬量　二〇〇キログラム"
+                  }
+                ]
+              },
+              {
+                "TableColumn": [
+                  {
+                    "Sentence": "引き玉"
+                  },
+                  {
+                    "Sentence": "引き玉"
+                  },
+                  {
+                    "Sentence": "薬量　二〇〇キログラム"
+                  }
+                ]
+              },
+              {
+                "TableColumn": [
+                  {
+                    "Sentence": "前記以外の煙火"
+                  },
+                  {
+                    "Sentence": "一般煙火"
+                  },
+                  {
+                    "Sentence": "薬量　六〇〇キログラム"
+                  }
+                ]
+              },
+              {
+                "TableColumn": [
+                  {
+                    "@colspan": "2",
+                    "Sentence": "前記以外の火工品"
+                  },
+                  {
+                    "Sentence": "一般火工品"
+                  },
+                  {
+                    "Sentence": "薬量　一〇〇キログラム"
+                  }
+                ]
+              }
+            ]
+          },
+          "Remarks": {
+            "RemarksLabel": {
+              "@LineBreak": "true",
+              "#text": "備考"
+            },
+            "Sentence": "この表で定める区分の異なる火薬類を同時に運送する場合の数量は、各区分ごとの火薬類の運送しようとする数量をそれぞれ当該区分に定める数量で除し、これらの商を加えた和が一となる数量とする。"
+          }
+        }
+      }
+    }
+  }
+}

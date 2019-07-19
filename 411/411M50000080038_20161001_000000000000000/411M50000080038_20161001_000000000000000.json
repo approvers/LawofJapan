@@ -1,0 +1,87 @@
+{
+  "Law": {
+    "@Era": "Heisei",
+    "@Lang": "ja",
+    "@LawType": "MinisterialOrdinance",
+    "@Num": "38",
+    "@Year": "11",
+    "LawNum": "平成十一年文部省令第三十八号",
+    "LawBody": {
+      "LawTitle": "学校教育法第八十九条の規定を適用しない者を定める省令",
+      "EnactStatement": "学校教育法等の一部を改正する法律（平成十一年法律第五十五号）附則第二項の規定に基づき、学校教育法等の一部を改正する法律附則第二項の規定に基づき同法による改正後の学校教育法第五十五条の三の規定を適用しない者を定める省令を次のように定める。",
+      "MainProvision": {
+        "Paragraph": {
+          "@Num": "1",
+          "ParagraphNum": null,
+          "ParagraphSentence": {
+            "Sentence": "学校教育法等の一部を改正する法律（平成十一年法律第五十五号）附則第二項の規定に基づき、同法の施行の日（以下「施行日」という。）前に大学に在学し、施行日以後に再び大学に在学することとなった者のうち、学校教育法第八十九条の規定を適用しない者として文部科学大臣の定める者は、次の各号の一に該当するものとする。"
+          },
+          "Item": [
+            {
+              "@Num": "1",
+              "ItemTitle": "一",
+              "ItemSentence": {
+                "Sentence": "大学を退学した後に再び当該大学に入学し、当該退学までの在学期間が修業年限に通算された者であって、当該在学期間に施行日前の期間が含まれるもの"
+              }
+            },
+            {
+              "@Num": "2",
+              "ItemTitle": "二",
+              "ItemSentence": {
+                "Sentence": "大学を卒業した後に再び当該大学に入学し、当該卒業までの在学期間が修業年限に通算された者であって、当該在学期間に施行日前の期間が含まれるもの"
+              }
+            },
+            {
+              "@Num": "3",
+              "ItemTitle": "三",
+              "ItemSentence": {
+                "Sentence": "学校教育法施行規則第百四十九条各号に規定する者であって、転学、退学又は卒業した大学に入学した時期が施行日前であるもの"
+              }
+            }
+          ]
+        }
+      },
+      "SupplProvision": [
+        {
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この省令は、学校教育法等の一部を改正する法律（平成十一年法律第五十五号）の施行の日（平成十二年四月一日）から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成一二年一〇月三一日文部省令第五三号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Article": {
+            "@Num": "1",
+            "ArticleCaption": "（施行期日）",
+            "ArticleTitle": "第一条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "この省令は、内閣法の一部を改正する法律（平成十一年法律第八十八号）の施行の日（平成十三年一月六日）から施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成一九年一二月二五日文部科学省令第四〇号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この省令は、学校教育法等の一部を改正する法律の施行の日（平成十九年十二月二十六日）から施行する。"
+            }
+          }
+        }
+      ]
+    }
+  }
+}

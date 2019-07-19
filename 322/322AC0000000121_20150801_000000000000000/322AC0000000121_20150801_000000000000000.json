@@ -1,0 +1,116 @@
+{
+  "Law": {
+    "@Era": "Showa",
+    "@Lang": "ja",
+    "@LawType": "Act",
+    "@Num": "121",
+    "@Year": "22",
+    "LawNum": "昭和二十二年法律第百二十一号",
+    "LawBody": {
+      "LawTitle": "昭和二十二年法律第百二十一号（国家公務員法の規定が適用せられるまでの官吏の任免等に関する法律）",
+      "MainProvision": {
+        "Paragraph": [
+          {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphNum": "○１",
+            "ParagraphSentence": {
+              "Sentence": [
+                {
+                  "@Function": "main",
+                  "@Num": "1",
+                  "@WritingMode": "vertical",
+                  "#text": "官吏その他政府職員の任免、叙級、休職、復職、懲戒その他身分上の事項、俸給、手当その他給与に関する事項及び服務に関する事項については、その官職について国家公務員法の規定が適用せられるまでの間、従前の例による。"
+                },
+                {
+                  "@Function": "proviso",
+                  "@Num": "2",
+                  "@WritingMode": "vertical",
+                  "#text": "但し、法律又は人事院規則（人事院の所掌する事項以外の事項については、政令）を以て別段の定をなしたときは、その定による。"
+                }
+              ]
+            }
+          },
+          {
+            "@Hide": "false",
+            "@Num": "2",
+            "ParagraphNum": "○２",
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "前項但書の規定による定は、国家公務員法の精神に沿うものでなければならない。"
+              }
+            }
+          }
+        ]
+      },
+      "SupplProvision": [
+        {
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": [
+            {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": "○１",
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "この法律は、昭和二十三年一月一日から、これを施行する。"
+                }
+              }
+            },
+            {
+              "@Hide": "false",
+              "@Num": "2",
+              "ParagraphNum": "○２",
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "第一項中「国家公務員法第十六条の人事委員会規則」とあるのは、昭和二十三年六月三十日までは「政令」と読み替えるものとし、その政令は、臨時人事委員会の助言に基いて定められなければならない。"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@AmendLawNum": "昭和二二年一二月二〇日法律第二一五号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この法律は、昭和二十三年一月一日から、これを施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "昭和四〇年五月一八日法律第六九号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Article": {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "1",
+            "ArticleCaption": "（施行期日）",
+            "ArticleTitle": "第一条",
+            "Paragraph": {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "この法律は、公布の日から起算して九十日をこえない範囲内で政令で定める日から施行する。"
+                }
+              }
+            }
+          }
+        }
+      ]
+    }
+  }
+}

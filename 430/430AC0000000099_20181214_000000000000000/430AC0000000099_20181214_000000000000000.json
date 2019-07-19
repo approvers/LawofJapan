@@ -1,0 +1,111 @@
+{
+  "Law": {
+    "@Era": "Heisei",
+    "@Lang": "ja",
+    "@LawType": "Act",
+    "@Num": "099",
+    "@Year": "30",
+    "LawNum": "平成三十年法律第九十九号",
+    "LawBody": {
+      "LawTitle": "天皇の即位の日及び即位礼正殿の儀の行われる日を休日とする法律",
+      "MainProvision": {
+        "Paragraph": {
+          "@Hide": "false",
+          "@Num": "1",
+          "ParagraphNum": null,
+          "ParagraphSentence": {
+            "Sentence": {
+              "@WritingMode": "vertical",
+              "#text": "天皇の即位の日及び即位礼正殿の儀の行われる日は、休日とする。"
+            }
+          }
+        }
+      },
+      "SupplProvision": {
+        "SupplProvisionLabel": "附　則",
+        "Article": [
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "1",
+            "ArticleCaption": "（施行期日等）",
+            "ArticleTitle": "第一条",
+            "Paragraph": {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "この法律は、公布の日から施行し、天皇の退位等に関する皇室典範特例法（平成二十九年法律第六十三号）第二条の規定による天皇の即位に関して適用する。"
+                }
+              }
+            }
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "2",
+            "ArticleCaption": "（他の法令の適用）",
+            "ArticleTitle": "第二条",
+            "Paragraph": [
+              {
+                "@Hide": "false",
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "本則の規定により休日となる日は、国民の祝日に関する法律（昭和二十三年法律第百七十八号）に規定する国民の祝日として、同法第三条第二項及び第三項の規定の適用があるものとする。"
+                  }
+                }
+              },
+              {
+                "@Hide": "false",
+                "@Num": "2",
+                "ParagraphNum": "２",
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "本則及び前項の規定により休日となる日は、他の法令（国民の祝日に関する法律を除く。）の規定の適用については、同法に規定する休日とする。"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "3",
+            "ArticleCaption": "（この法律の失効）",
+            "ArticleTitle": "第三条",
+            "Paragraph": [
+              {
+                "@Hide": "false",
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "この法律（次項を除く。）は、天皇の退位等に関する皇室典範特例法が同法附則第二条の規定により効力を失ったときは、その効力を失う。"
+                  }
+                }
+              },
+              {
+                "@Hide": "false",
+                "@Num": "2",
+                "ParagraphNum": "２",
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "前項の場合において必要な経過措置は、政令で定める。"
+                  }
+                }
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

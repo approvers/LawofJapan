@@ -1,0 +1,2145 @@
+{
+  "Law": {
+    "@Era": "Showa",
+    "@Lang": "ja",
+    "@LawType": "MinisterialOrdinance",
+    "@Num": "047",
+    "@Year": "34",
+    "LawNum": "昭和三十四年運輸省令第四十七号",
+    "LawBody": {
+      "LawTitle": "自動車ターミナル法施行規則",
+      "EnactStatement": "自動車ターミナル法（昭和三十四年法律第百三十六号）の規定に基き、及び同法を実施するため、自動車ターミナル法施行規則を次のように定める。",
+      "TOC": {
+        "TOCLabel": "目次",
+        "TOCChapter": [
+          {
+            "@Num": "1",
+            "ChapterTitle": "第一章　自動車ターミナル事業",
+            "ArticleRange": "（第一条―第九条）"
+          },
+          {
+            "@Num": "2",
+            "ChapterTitle": "第二章　専用バスターミナル",
+            "ArticleRange": "（第十条）"
+          },
+          {
+            "@Num": "3",
+            "ChapterTitle": "第三章　管理基準",
+            "ArticleRange": "（第十一条―第十七条）"
+          },
+          {
+            "@Num": "4",
+            "ChapterTitle": "第四章　雑則",
+            "ArticleRange": "（第十八条―第二十二条）"
+          }
+        ],
+        "TOCSupplProvision": {
+          "SupplProvisionLabel": "附則"
+        }
+      },
+      "MainProvision": {
+        "Chapter": [
+          {
+            "@Num": "1",
+            "ChapterTitle": "第一章　自動車ターミナル事業",
+            "Article": [
+              {
+                "@Num": "1",
+                "ArticleCaption": "（許可の申請）",
+                "ArticleTitle": "第一条",
+                "Paragraph": [
+                  {
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": "自動車ターミナル法（以下「法」という。）第四条第二項の国土交通省令で定める書類は、次のとおりとする。"
+                    },
+                    "Item": [
+                      {
+                        "@Num": "1",
+                        "ItemTitle": "一",
+                        "ItemSentence": {
+                          "Sentence": "一般自動車ターミナルの位置を示した縮尺一万分の一以上の地図"
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "ItemTitle": "二",
+                        "ItemSentence": {
+                          "Sentence": "次の事項を記載した一般自動車ターミナルの構造及び設備に関する書類（平面図及び断面図の縮尺は、二百分の一以上とする。）"
+                        },
+                        "Subitem1": [
+                          {
+                            "@Num": "1",
+                            "Subitem1Title": "イ",
+                            "Subitem1Sentence": {
+                              "Sentence": "自動車用場所に関する構造耐力計算及び構造耐力上主要な部分の設計"
+                            }
+                          },
+                          {
+                            "@Num": "2",
+                            "Subitem1Title": "ロ",
+                            "Subitem1Sentence": {
+                              "Sentence": "自動車の出口及び入口"
+                            },
+                            "Subitem2": [
+                              {
+                                "@Num": "1",
+                                "Subitem2Title": "（一）",
+                                "Subitem2Sentence": {
+                                  "Sentence": "自動車の出口及び入口の位置（平面図をもつて示すこと。）"
+                                }
+                              },
+                              {
+                                "@Num": "2",
+                                "Subitem2Title": "（二）",
+                                "Subitem2Sentence": {
+                                  "Sentence": "道路（道路交通法（昭和三十五年法律第百五号）第二条第一項第一号に規定する道路をいう。以下同じ。）の路面に接する自動車の出口又は入口から五十メートル以内にある同法第四十四条各号のいずれかに該当する場所及び橋であつて自動車の出口又は入口に接する道路内にあるもの（平面図をもつて示すこと。）"
+                                }
+                              },
+                              {
+                                "@Num": "3",
+                                "Subitem2Title": "（三）",
+                                "Subitem2Sentence": {
+                                  "Sentence": {
+                                    "Ruby": {
+                                      "Rt": "こう",
+                                      "#text": "勾"
+                                    },
+                                    "#text": "自動車の出口又は入口に接する道路の幅員及び縦断配"
+                                  }
+                                }
+                              },
+                              {
+                                "@Num": "4",
+                                "Subitem2Title": "（四）",
+                                "Subitem2Sentence": {
+                                  "Sentence": "すみ切りの構造（平面図をもつて示すこと。）"
+                                }
+                              },
+                              {
+                                "@Num": "5",
+                                "Subitem2Title": "（五）",
+                                "Subitem2Sentence": {
+                                  "Sentence": "道路の路面に接する自動車の出口の付近の構造（平面図をもつて示すこと。）"
+                                }
+                              },
+                              {
+                                "@Num": "6",
+                                "Subitem2Title": "（六）",
+                                "Subitem2Sentence": {
+                                  "Sentence": "道路の路面に接する自動車の出口の付近に設ける信号機、反射鏡その他の保安設備の機能"
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "@Num": "3",
+                            "Subitem1Title": "ハ",
+                            "Subitem1Sentence": {
+                              "Sentence": "誘導車路"
+                            },
+                            "Subitem2": [
+                              {
+                                "@Num": "1",
+                                "Subitem2Title": "（一）",
+                                "Subitem2Sentence": {
+                                  "Sentence": "幅員（平面図をもつて示すこと。）"
+                                }
+                              },
+                              {
+                                "@Num": "2",
+                                "Subitem2Title": "（二）",
+                                "Subitem2Sentence": {
+                                  "Sentence": "上方にはりその他の障害物がある部分の路面上の有効高（断面図をもつて示すこと。）"
+                                }
+                              },
+                              {
+                                "@Num": "3",
+                                "Subitem2Title": "（三）",
+                                "Subitem2Sentence": {
+                                  "Sentence": "屈曲部の構造（平面図をもつて示すこと。）"
+                                }
+                              },
+                              {
+                                "@Num": "4",
+                                "Subitem2Title": "（四）",
+                                "Subitem2Sentence": {
+                                  "Sentence": {
+                                    "Ruby": {
+                                      "Rt": "こう",
+                                      "#text": "勾"
+                                    },
+                                    "#text": "傾斜部の配（断面図をもつて示すこと。）"
+                                  }
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "@Num": "4",
+                            "Subitem1Title": "ニ",
+                            "Subitem1Sentence": {
+                              "Sentence": "操車場所"
+                            },
+                            "Subitem2": [
+                              {
+                                "@Num": "1",
+                                "Subitem2Title": "（一）",
+                                "Subitem2Sentence": {
+                                  "Sentence": "形状及び広さ（平面図をもつて示すこと。）"
+                                }
+                              },
+                              {
+                                "@Num": "2",
+                                "Subitem2Title": "（二）",
+                                "Subitem2Sentence": {
+                                  "Sentence": "上方にはりその他の障害物がある部分の面上の有効高（断面図をもつて示すこと。）"
+                                }
+                              },
+                              {
+                                "@Num": "3",
+                                "Subitem2Title": "（三）",
+                                "Subitem2Sentence": {
+                                  "Sentence": {
+                                    "Ruby": {
+                                      "Rt": "こう",
+                                      "#text": "勾"
+                                    },
+                                    "#text": "傾斜部の配（断面図をもつて示すこと。）"
+                                  }
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "@Num": "5",
+                            "Subitem1Title": "ホ",
+                            "Subitem1Sentence": {
+                              "Sentence": "停留場所"
+                            },
+                            "Subitem2": [
+                              {
+                                "@Num": "1",
+                                "Subitem2Title": "（一）",
+                                "Subitem2Sentence": {
+                                  "Sentence": "長さ及び幅"
+                                }
+                              },
+                              {
+                                "@Num": "2",
+                                "Subitem2Title": "（二）",
+                                "Subitem2Sentence": {
+                                  "Sentence": "上方にはりその他の障害物がある部分の面上の有効高（断面図をもつて示すこと。）"
+                                }
+                              },
+                              {
+                                "@Num": "3",
+                                "Subitem2Title": "（三）",
+                                "Subitem2Sentence": {
+                                  "Sentence": {
+                                    "Ruby": {
+                                      "Rt": "こう",
+                                      "#text": "勾"
+                                    },
+                                    "#text": "配（断面図をもつて示すこと。）"
+                                  }
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "@Num": "6",
+                            "Subitem1Title": "ヘ",
+                            "Subitem1Sentence": {
+                              "Sentence": "乗降場"
+                            },
+                            "Subitem2": [
+                              {
+                                "@Num": "1",
+                                "Subitem2Title": "（一）",
+                                "Subitem2Sentence": {
+                                  "Sentence": "形状及び広さ（平面図をもつて示すこと。）"
+                                }
+                              },
+                              {
+                                "@Num": "2",
+                                "Subitem2Title": "（二）",
+                                "Subitem2Sentence": {
+                                  "Sentence": "高さ（断面図をもつて示すこと。）"
+                                }
+                              },
+                              {
+                                "@Num": "3",
+                                "Subitem2Title": "（三）",
+                                "Subitem2Sentence": {
+                                  "Sentence": "さくその他の遮断設備の構造（設計図をもつて示すこと。）"
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "@Num": "7",
+                            "Subitem1Title": "ト",
+                            "Subitem1Sentence": {
+                              "Sentence": "旅客通路、待合所及び荷扱場の形状及び広さ（平面図をもつて示すこと。）"
+                            }
+                          },
+                          {
+                            "@Num": "8",
+                            "Subitem1Title": "チ",
+                            "Subitem1Sentence": {
+                              "Sentence": "自動車用場所と共用する旅客通路内及びその付近に設ける警報設備の機能"
+                            }
+                          },
+                          {
+                            "@Num": "9",
+                            "Subitem1Title": "リ",
+                            "Subitem1Sentence": {
+                              "Sentence": "排水設備（建築物である部分に設けるものを除く。）、避難設備及び換気設備の構造（設計図をもつて示すこと。）"
+                            }
+                          },
+                          {
+                            "@Num": "10",
+                            "Subitem1Title": "ヌ",
+                            "Subitem1Sentence": {
+                              "Sentence": "ロ（六）及びハからリまでの設備の配置（平面図及び断面図をもつて示すこと。）"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "@Num": "3",
+                        "ItemTitle": "三",
+                        "ItemSentence": {
+                          "Sentence": "次の事項を記載した事業計画書"
+                        },
+                        "Subitem1": [
+                          {
+                            "@Num": "1",
+                            "Subitem1Title": "イ",
+                            "Subitem1Sentence": {
+                              "Sentence": "主たる事務所及び営業所の名称及び位置"
+                            }
+                          },
+                          {
+                            "@Num": "2",
+                            "Subitem1Title": "ロ",
+                            "Subitem1Sentence": {
+                              "Sentence": "事業の開始に要する資金の総額及びその内訳並びにその資金、土地及び建物の調達方法"
+                            }
+                          },
+                          {
+                            "@Num": "3",
+                            "Subitem1Title": "ハ",
+                            "Subitem1Sentence": {
+                              "Sentence": "供用開始予定時期"
+                            }
+                          },
+                          {
+                            "@Num": "4",
+                            "Subitem1Title": "ニ",
+                            "Subitem1Sentence": {
+                              "Sentence": "事業の収支の見積り"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "@Num": "4",
+                        "ItemTitle": "四",
+                        "ItemSentence": {
+                          "Sentence": "地方公共団体以外の法人にあつては、次の書類"
+                        },
+                        "Subitem1": [
+                          {
+                            "@Num": "1",
+                            "Subitem1Title": "イ",
+                            "Subitem1Sentence": {
+                              "Sentence": "定款又は寄附行為及び登記事項証明書"
+                            }
+                          },
+                          {
+                            "@Num": "2",
+                            "Subitem1Title": "ロ",
+                            "Subitem1Sentence": {
+                              "Sentence": "最近の事業年度の貸借対照表"
+                            }
+                          },
+                          {
+                            "@Num": "3",
+                            "Subitem1Title": "ハ",
+                            "Subitem1Sentence": {
+                              "Sentence": "役員又は社員の名簿及び履歴書"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "@Num": "5",
+                        "ItemTitle": "五",
+                        "ItemSentence": {
+                          "Sentence": "法人を設立しようとするものにあつては、次の書類"
+                        },
+                        "Subitem1": [
+                          {
+                            "@Num": "1",
+                            "Subitem1Title": "イ",
+                            "Subitem1Sentence": {
+                              "Sentence": "定款（会社法（平成十七年法律第八十六号）第三十条第一項又はその準用規定により認証を必要とする場合は、認証のある定款）又は寄附行為の謄本"
+                            }
+                          },
+                          {
+                            "@Num": "2",
+                            "Subitem1Title": "ロ",
+                            "Subitem1Sentence": {
+                              "Sentence": "発起人、社員又は設立者の名簿及び履歴書"
+                            }
+                          },
+                          {
+                            "@Num": "3",
+                            "Subitem1Title": "ハ",
+                            "Subitem1Sentence": {
+                              "Sentence": "設立しようとする法人が株式会社である場合は、株式の引受けの状況及び見込みを記載した書類"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "@Num": "6",
+                        "ItemTitle": "六",
+                        "ItemSentence": {
+                          "Sentence": "個人にあつては、次の書類"
+                        },
+                        "Subitem1": [
+                          {
+                            "@Num": "1",
+                            "Subitem1Title": "イ",
+                            "Subitem1Sentence": {
+                              "Sentence": "資産目録"
+                            }
+                          },
+                          {
+                            "@Num": "2",
+                            "Subitem1Title": "ロ",
+                            "Subitem1Sentence": {
+                              "Sentence": "戸籍抄本"
+                            }
+                          },
+                          {
+                            "@Num": "3",
+                            "Subitem1Title": "ハ",
+                            "Subitem1Sentence": {
+                              "Sentence": "履歴書"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "@Num": "7",
+                        "ItemTitle": "七",
+                        "ItemSentence": {
+                          "Sentence": "申請者（申請者が法人である場合は、その役員又は社員）が法第五条第一号から第三号までのいずれにも該当しない者である旨の宣誓書"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": "法第四条の規定により自動車ターミナル事業の許可を受けようとする者が許可を受けようとする自動車ターミナル事業と同一種類の自動車ターミナル事業を経営している場合には、前項第四号、第六号及び第七号に掲げる書類の添付を省略することができる。"
+                    }
+                  }
+                ]
+              },
+              {
+                "@Num": "2",
+                "ArticleCaption": "（使用料金の届出）",
+                "ArticleTitle": "第二条",
+                "Paragraph": [
+                  {
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": "法第七条第一項の規定により使用料金の設定又は変更の届出をしようとする者は、当該使用料金の実施予定日の三十日前までに、次の事項を記載した届出書を提出しなければならない。"
+                    },
+                    "Item": [
+                      {
+                        "@Num": "1",
+                        "ItemTitle": "一",
+                        "ItemSentence": {
+                          "Sentence": "氏名又は名称及び住所並びに法人にあつては、その代表者の氏名"
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "ItemTitle": "二",
+                        "ItemSentence": {
+                          "Sentence": "一般自動車ターミナルの名称及び位置"
+                        }
+                      },
+                      {
+                        "@Num": "3",
+                        "ItemTitle": "三",
+                        "ItemSentence": {
+                          "Sentence": "設定し、又は変更しようとする使用料金の額（変更の届出の場合は、新旧の対照を明示すること。）"
+                        }
+                      },
+                      {
+                        "@Num": "4",
+                        "ItemTitle": "四",
+                        "ItemSentence": {
+                          "Sentence": "実施予定日"
+                        }
+                      },
+                      {
+                        "@Num": "5",
+                        "ItemTitle": "五",
+                        "ItemSentence": {
+                          "Sentence": "変更の届出の場合は、変更を必要とする理由"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": "前項の届出書には、使用料金の算出基礎を記載した書類を添付しなければならない。"
+                    }
+                  }
+                ]
+              },
+              {
+                "@Num": "3",
+                "ArticleCaption": "（氏名等の変更の届出）",
+                "ArticleTitle": "第三条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "法第十条の規定により法第四条第一項第一号の事項又は一般自動車ターミナルの名称の変更の届出をしようとする者は、次の事項を記載した届出書を提出しなければならない。"
+                  },
+                  "Item": [
+                    {
+                      "@Num": "1",
+                      "ItemTitle": "一",
+                      "ItemSentence": {
+                        "Sentence": "氏名又は名称及び住所並びに法人にあつては、その代表者の氏名"
+                      }
+                    },
+                    {
+                      "@Num": "2",
+                      "ItemTitle": "二",
+                      "ItemSentence": {
+                        "Sentence": "一般自動車ターミナルの名称及び位置"
+                      }
+                    },
+                    {
+                      "@Num": "3",
+                      "ItemTitle": "三",
+                      "ItemSentence": {
+                        "Sentence": "変更の内容（新旧の対照を明示すること。）"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "@Num": "4",
+                "ArticleCaption": "（位置、規模、構造又は設備の変更許可の申請）",
+                "ArticleTitle": "第四条",
+                "Paragraph": [
+                  {
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": "法第十一条第一項の規定により一般自動車ターミナルの位置、規模、構造又は設備の変更の許可を申請しようとする者は、次の事項を記載した申請書を提出しなければならない。"
+                    },
+                    "Item": [
+                      {
+                        "@Num": "1",
+                        "ItemTitle": "一",
+                        "ItemSentence": {
+                          "Sentence": "氏名又は名称及び住所並びに法人にあつては、その代表者の氏名"
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "ItemTitle": "二",
+                        "ItemSentence": {
+                          "Sentence": "一般自動車ターミナルの名称及び位置"
+                        }
+                      },
+                      {
+                        "@Num": "3",
+                        "ItemTitle": "三",
+                        "ItemSentence": {
+                          "Sentence": "変更の内容"
+                        }
+                      },
+                      {
+                        "@Num": "4",
+                        "ItemTitle": "四",
+                        "ItemSentence": {
+                          "Sentence": "変更を必要とする理由"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": "前項の申請書には、次の書類（位置又は規模の変更に伴わない構造又は設備の変更の場合は、第二号の書類）を添付しなければならない。"
+                    },
+                    "Item": [
+                      {
+                        "@Num": "1",
+                        "ItemTitle": "一",
+                        "ItemSentence": {
+                          "Sentence": "位置の変更の場合は、新旧の位置を示した縮尺一万分の一以上の地図"
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "ItemTitle": "二",
+                        "ItemSentence": {
+                          "Sentence": "第一条第一項第二号の書類（変更に係る部分に限る。）"
+                        }
+                      },
+                      {
+                        "@Num": "3",
+                        "ItemTitle": "三",
+                        "ItemSentence": {
+                          "Sentence": "次の事項を記載した書類"
+                        },
+                        "Subitem1": [
+                          {
+                            "@Num": "1",
+                            "Subitem1Title": "イ",
+                            "Subitem1Sentence": {
+                              "Sentence": "工事に要する資金の総額及びその内訳並びにその資金、土地及び建物の調達方法"
+                            }
+                          },
+                          {
+                            "@Num": "2",
+                            "Subitem1Title": "ロ",
+                            "Subitem1Sentence": {
+                              "Sentence": "変更後の設備の供用開始予定時期"
+                            }
+                          },
+                          {
+                            "@Num": "3",
+                            "Subitem1Title": "ハ",
+                            "Subitem1Sentence": {
+                              "Sentence": "工事に伴い当該一般自動車ターミナルの全部又は一部の供用を停止する必要がある場合は、その期間"
+                            }
+                          },
+                          {
+                            "@Num": "4",
+                            "Subitem1Title": "ニ",
+                            "Subitem1Sentence": {
+                              "Sentence": "規模の変更の場合は、変更後の事業の収支の見積り"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "@Num": "5",
+                "ArticleCaption": "（構造又は設備の軽微な変更）",
+                "ArticleTitle": "第五条",
+                "Paragraph": [
+                  {
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": "法第十一条第一項ただし書及び法第十五条の国土交通省令で定める軽微な変更は、次のとおりとする。"
+                    },
+                    "Item": [
+                      {
+                        "@Num": "1",
+                        "ItemTitle": "一",
+                        "ItemSentence": {
+                          "Sentence": "自動車の出口及び入口のすみ切りの切取線の長さの伸長"
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "ItemTitle": "二",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "Ruby": {
+                              "Rt": "こう",
+                              "#text": "勾"
+                            },
+                            "#text": "誘導車路の幅員の拡張並びに路面上の有効高及び傾斜部の配の変更"
+                          }
+                        }
+                      },
+                      {
+                        "@Num": "3",
+                        "ItemTitle": "三",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "Ruby": {
+                              "Rt": "こう",
+                              "#text": "勾"
+                            },
+                            "#text": "操車場所の広さの増加並びに面上の有効高及び傾斜部の配の変更"
+                          }
+                        }
+                      },
+                      {
+                        "@Num": "4",
+                        "ItemTitle": "四",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "Ruby": {
+                              "Rt": "こう",
+                              "#text": "勾"
+                            },
+                            "#text": "停留場所の面上の有効高及び面の配の変更"
+                          }
+                        }
+                      },
+                      {
+                        "@Num": "5",
+                        "ItemTitle": "五",
+                        "ItemSentence": {
+                          "Sentence": "乗降場の広さの増加及び高さの変更"
+                        }
+                      },
+                      {
+                        "@Num": "6",
+                        "ItemTitle": "六",
+                        "ItemSentence": {
+                          "Sentence": "旅客通路（自動車用場所と共用する部分を除く。）、待合所及び荷扱場の広さの増加"
+                        }
+                      },
+                      {
+                        "@Num": "7",
+                        "ItemTitle": "七",
+                        "ItemSentence": {
+                          "Sentence": "排水設備、避難設備及び換気設備の構造の変更"
+                        }
+                      },
+                      {
+                        "@Num": "8",
+                        "ItemTitle": "八",
+                        "ItemSentence": {
+                          "Sentence": "排水設備の配置の変更"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": "法第十一条第三項の規定により構造又は設備の変更の届出をしようとする者は、次の事項を記載した届出書に変更した事項の新旧を対照した書類を添付して、これを提出しなければならない。"
+                    },
+                    "Item": [
+                      {
+                        "@Num": "1",
+                        "ItemTitle": "一",
+                        "ItemSentence": {
+                          "Sentence": "氏名又は名称及び住所並びに法人にあつては、その代表者の氏名"
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "ItemTitle": "二",
+                        "ItemSentence": {
+                          "Sentence": "一般自動車ターミナルの名称及び位置"
+                        }
+                      },
+                      {
+                        "@Num": "3",
+                        "ItemTitle": "三",
+                        "ItemSentence": {
+                          "Sentence": "変更の内容"
+                        }
+                      },
+                      {
+                        "@Num": "4",
+                        "ItemTitle": "四",
+                        "ItemSentence": {
+                          "Sentence": "変更した日"
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "@Num": "6",
+                "ArticleCaption": "（事業譲渡譲受認可の申請）",
+                "ArticleTitle": "第六条",
+                "Paragraph": [
+                  {
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": "法第十二条第一項の規定による事業の譲渡及び譲受けの認可を申請しようとする者は、次の事項を記載した申請書に当事者が連署して、これを提出しなければならない。"
+                    },
+                    "Item": [
+                      {
+                        "@Num": "1",
+                        "ItemTitle": "一",
+                        "ItemSentence": {
+                          "Sentence": "譲渡人及び譲受人の氏名又は名称及び住所並びに法人にあつては、その代表者の氏名"
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "ItemTitle": "二",
+                        "ItemSentence": {
+                          "Sentence": "譲渡譲受をしようとする事業に係る一般自動車ターミナルの名称及び位置"
+                        }
+                      },
+                      {
+                        "@Num": "3",
+                        "ItemTitle": "三",
+                        "ItemSentence": {
+                          "Sentence": "譲渡価格"
+                        }
+                      },
+                      {
+                        "@Num": "4",
+                        "ItemTitle": "四",
+                        "ItemSentence": {
+                          "Sentence": "譲渡譲受予定期日"
+                        }
+                      },
+                      {
+                        "@Num": "5",
+                        "ItemTitle": "五",
+                        "ItemSentence": {
+                          "Sentence": "譲渡譲受を必要とする理由"
+                        }
+                      },
+                      {
+                        "@Num": "6",
+                        "ItemTitle": "六",
+                        "ItemSentence": {
+                          "Sentence": "譲受人が法第六条第三号の基準に適合する旨の説明"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": "前項の申請書には、次の書類を添付しなければならない。"
+                    },
+                    "Item": [
+                      {
+                        "@Num": "1",
+                        "ItemTitle": "一",
+                        "ItemSentence": {
+                          "Sentence": "譲渡譲受契約書の写し"
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "ItemTitle": "二",
+                        "ItemSentence": {
+                          "Sentence": "譲渡価格の明細書"
+                        }
+                      },
+                      {
+                        "@Num": "3",
+                        "ItemTitle": "三",
+                        "ItemSentence": {
+                          "Sentence": "現に自動車ターミナル事業を経営する者でない譲受人にあつては、第一条第一項第四号、第五号又は第六号及び第七号に規定する書類"
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "@Num": "7",
+                "ArticleCaption": "（法人の合併又は分割の認可の申請）",
+                "ArticleTitle": "第七条",
+                "Paragraph": [
+                  {
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": "法第十二条第二項の規定による法人の合併又は分割の認可を申請しようとする者は、次の事項を記載した申請書に当事者が連署（新設分割の場合にあつては、署名）して、これを提出しなければならない。"
+                    },
+                    "Item": [
+                      {
+                        "@Num": "1",
+                        "ItemTitle": "一",
+                        "ItemSentence": {
+                          "Sentence": "当事者の名称、住所及び代表者の氏名並びに当事者に係る一般自動車ターミナルの名称及び位置"
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "ItemTitle": "二",
+                        "ItemSentence": {
+                          "Sentence": "合併後存続する法人若しくは合併により設立する法人又は分割により自動車ターミナル事業を承継する法人の名称、住所及び代表者の氏名"
+                        }
+                      },
+                      {
+                        "@Num": "3",
+                        "ItemTitle": "三",
+                        "ItemSentence": {
+                          "Sentence": "合併又は分割の方法及び条件"
+                        }
+                      },
+                      {
+                        "@Num": "4",
+                        "ItemTitle": "四",
+                        "ItemSentence": {
+                          "Sentence": "合併又は分割の予定期日"
+                        }
+                      },
+                      {
+                        "@Num": "5",
+                        "ItemTitle": "五",
+                        "ItemSentence": {
+                          "Sentence": "合併又は分割を必要とする理由"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": "前項の申請書には、次の書類を添付しなければならない。"
+                    },
+                    "Item": [
+                      {
+                        "@Num": "1",
+                        "ItemTitle": "一",
+                        "ItemSentence": {
+                          "Sentence": "合併契約書又は分割契約書（新設分割の場合にあつては、分割計画書）の写し"
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "ItemTitle": "二",
+                        "ItemSentence": {
+                          "Sentence": "合併又は分割の方法及び条件の説明書"
+                        }
+                      },
+                      {
+                        "@Num": "3",
+                        "ItemTitle": "三",
+                        "ItemSentence": {
+                          "Sentence": "合併後存続する法人若しくは合併により設立する法人又は分割により自動車ターミナル事業を承継する法人が現に自動車ターミナル事業を経営していないときは、第一条第一項第四号又は第五号に規定する書類"
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "@Num": "8",
+                "ArticleCaption": "（相続による承継の届出）",
+                "ArticleTitle": "第八条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "法第十二条第五項の規定により自動車ターミナル事業者の地位の承継の届出をしようとする者は、次の事項を記載した届出書に法第五条第一号から第三号までのいずれにも該当しない者である旨の宣誓書を添付して、これを提出しなければならない。"
+                  },
+                  "Item": [
+                    {
+                      "@Num": "1",
+                      "ItemTitle": "一",
+                      "ItemSentence": {
+                        "Sentence": "氏名及び住所並びに被相続人との続柄"
+                      }
+                    },
+                    {
+                      "@Num": "2",
+                      "ItemTitle": "二",
+                      "ItemSentence": {
+                        "Sentence": "被相続人の氏名及び住所"
+                      }
+                    },
+                    {
+                      "@Num": "3",
+                      "ItemTitle": "三",
+                      "ItemSentence": {
+                        "Sentence": "相続した事業に係る一般自動車ターミナルの名称及び位置"
+                      }
+                    },
+                    {
+                      "@Num": "4",
+                      "ItemTitle": "四",
+                      "ItemSentence": {
+                        "Sentence": "相続した日"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "@Num": "9",
+                "ArticleCaption": "（事業休廃止の届出）",
+                "ArticleTitle": "第九条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "法第十三条の規定により事業の休止又は廃止の届出をしようとする者は、次の事項を記載した届出書を提出しなければならない。"
+                  },
+                  "Item": [
+                    {
+                      "@Num": "1",
+                      "ItemTitle": "一",
+                      "ItemSentence": {
+                        "Sentence": "氏名又は名称及び住所並びに法人にあつては、その代表者の氏名"
+                      }
+                    },
+                    {
+                      "@Num": "2",
+                      "ItemTitle": "二",
+                      "ItemSentence": {
+                        "Sentence": "休止し、又は廃止しようとする事業に係る一般自動車ターミナルの名称及び位置"
+                      }
+                    },
+                    {
+                      "@Num": "3",
+                      "ItemTitle": "三",
+                      "ItemSentence": {
+                        "Sentence": "休止又は廃止の予定期日"
+                      }
+                    },
+                    {
+                      "@Num": "4",
+                      "ItemTitle": "四",
+                      "ItemSentence": {
+                        "Sentence": "休止の届出の場合は、休止予定期間"
+                      }
+                    },
+                    {
+                      "@Num": "5",
+                      "ItemTitle": "五",
+                      "ItemSentence": {
+                        "Sentence": "休止又は廃止を必要とする理由"
+                      }
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "@Num": "2",
+            "ChapterTitle": "第二章　専用バスターミナル",
+            "Article": {
+              "@Num": "10",
+              "ArticleCaption": "（確認の申請）",
+              "ArticleTitle": "第十条",
+              "Paragraph": [
+                {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "法第十五条の規定による確認の申請をしようとする者は、次の事項を記載した申請書を提出しなければならない。"
+                  },
+                  "Item": [
+                    {
+                      "@Num": "1",
+                      "ItemTitle": "一",
+                      "ItemSentence": {
+                        "Sentence": "氏名又は名称及び住所並びに法人にあつては、その代表者の氏名"
+                      }
+                    },
+                    {
+                      "@Num": "2",
+                      "ItemTitle": "二",
+                      "ItemSentence": {
+                        "Sentence": "専用バスターミナルの名称及び位置"
+                      }
+                    },
+                    {
+                      "@Num": "3",
+                      "ItemTitle": "三",
+                      "ItemSentence": {
+                        "Sentence": "専用バスターミナルの設置の場合は、構造及び設備の概要"
+                      }
+                    },
+                    {
+                      "@Num": "4",
+                      "ItemTitle": "四",
+                      "ItemSentence": {
+                        "Sentence": "構造又は設備の変更の場合は、変更の内容及び変更した理由"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "@Num": "2",
+                  "ParagraphNum": "２",
+                  "ParagraphSentence": {
+                    "Sentence": "前項の申請書には、第一条第一項第二号の書類（構造又は設備の変更の場合は、変更に係る部分に限る。）を添付しなければならない。"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "@Num": "3",
+            "ChapterTitle": "第三章　管理基準",
+            "Article": [
+              {
+                "@Num": "11",
+                "ArticleCaption": "（機能の保持等）",
+                "ArticleTitle": "第十一条",
+                "Paragraph": [
+                  {
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": "管理者（自動車ターミナル事業者及び専用バスターミナルを設置した一般乗合旅客自動車運送事業者をいう。以下同じ。）は、清掃、点検及び修理により、自動車ターミナルの機能を完全な状態に保持するようにしなければならない。"
+                    }
+                  },
+                  {
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": "管理者は、換気設備その他の設備を適切に操作することにより、危険の防止及び事業用自動車の円滑な運行を確保しなければならない。"
+                    }
+                  }
+                ]
+              },
+              {
+                "@Num": "12",
+                "ArticleCaption": "（運行管理）",
+                "ArticleTitle": "第十二条",
+                "Paragraph": [
+                  {
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": "管理者は、危険の防止及び事業用自動車の円滑な運行を図るため、あらかじめ適切な運行方法を定め、当該自動車ターミナルを使用する自動車の運転者にこれを遵守させるようにしなければならない。"
+                    }
+                  },
+                  {
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": "管理者は、前項の運行方法を前項の運転者に遵守させるため必要がある場合には、運行管理員を配置して自動車の誘導に当たらせる等適切な措置を講じなければならない。"
+                    }
+                  },
+                  {
+                    "@Num": "3",
+                    "ParagraphNum": "３",
+                    "ParagraphSentence": {
+                      "Sentence": "管理者は、事業用自動車の安全かつ円滑な運行を阻害するおそれがある場合には、事業用自動車以外の自動車に自動車ターミナルを使用させてはならない。"
+                    }
+                  }
+                ]
+              },
+              {
+                "@Num": "13",
+                "ArticleCaption": "（停留方法等）",
+                "ArticleTitle": "第十三条",
+                "Paragraph": [
+                  {
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": "管理者は、事業用自動車を停留場所以外の場所に旅客の乗降若しくは貨物の積卸しのため停留させてはならない。"
+                    }
+                  },
+                  {
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": [
+                        {
+                          "@Function": "main",
+                          "@Num": "1",
+                          "#text": "管理者は、自動車を誘導車路又は操車場所に駐車させてはならない。"
+                        },
+                        {
+                          "@Function": "proviso",
+                          "@Num": "2",
+                          "#text": "ただし、危険又は混雑を生ずるおそれがなく、かつ、事業用自動車の円滑な運行に支障がない場所については、この限りでない。"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "@Num": "14",
+                "ArticleCaption": "（旅客の混雑の防止等）",
+                "ArticleTitle": "第十四条",
+                "Paragraph": [
+                  {
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": "バスターミナルの管理者は、旅客その他バスターミナルを利用する公衆の混雑を防止するため必要がある場合には、放送、掲示等による案内、整理員の配置、乗降場又は旅客通路を乗車用と降車用とに区別すること等適切な措置を講じなければならない。"
+                    }
+                  },
+                  {
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": "バスターミナルの管理者は、旅客その他バスターミナルを利用する公衆をみだりに自動車用場所に立ち入らせないように適切な措置を講じなければならない。"
+                    }
+                  }
+                ]
+              },
+              {
+                "@Num": "15",
+                "ArticleCaption": "（工事中の措置）",
+                "ArticleTitle": "第十五条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "管理者は、工事を行う場合には、危険及び混雑を防止するため標識の設置その他の適切な措置を講じなければならない。"
+                  }
+                }
+              },
+              {
+                "@Num": "16",
+                "ArticleCaption": "（事故発生時の措置）",
+                "ArticleTitle": "第十六条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "管理者は、火災、衝突その他の事故が発生した場合には、直ちに旅客の誘導、事故自動車の撤去その他の適切な措置を講じなければならない。"
+                  }
+                }
+              },
+              {
+                "@Num": "17",
+                "ArticleCaption": "（危険の防止）",
+                "ArticleTitle": "第十七条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "管理者は、災害その他の原因により自動車の運行及び旅客の安全を阻害するおそれが生じた場合には、直ちにその供用を一時停止する等適切な措置を講じなければならない。"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "@Num": "4",
+            "ChapterTitle": "第四章　雑則",
+            "Article": [
+              {
+                "@Num": "18",
+                "ArticleCaption": "（職権の委任）",
+                "ArticleTitle": "第十八条",
+                "Paragraph": [
+                  {
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": "法に規定する国土交通大臣の職権で次のものは、当該自動車ターミナルの位置をその管轄区域内に含む地方運輸局長（以下「所轄地方運輸局長」という。）が行う。"
+                    },
+                    "Item": [
+                      {
+                        "@Num": "1",
+                        "ItemTitle": "一",
+                        "ItemSentence": {
+                          "Sentence": "法第八条第三項及び法第九条第二項の規定による命令"
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "ItemTitle": "二",
+                        "ItemSentence": {
+                          "Sentence": "法第十条、法第十一条第三項、法第十二条第五項及び法第十三条の規定による届出の受理"
+                        }
+                      },
+                      {
+                        "@Num": "3",
+                        "ItemTitle": "三",
+                        "ItemSentence": {
+                          "Sentence": "法第三章に規定する職権"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": "法第二十二条第二項に規定する国土交通大臣の職権は、所轄地方運輸局長も行うことができる。"
+                    }
+                  }
+                ]
+              },
+              {
+                "@Num": "19",
+                "ArticleCaption": "（報告書の提出）",
+                "ArticleTitle": "第十九条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "自動車ターミナル事業者は、毎事業年度終了後三月以内に、その事業年度のバスターミナル事業概要報告書（第一号様式）又はトラックターミナル事業概要報告書（第二号様式）を提出しなければならない。"
+                  }
+                }
+              },
+              {
+                "@Num": "20",
+                "ArticleTitle": "第二十条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "自動車ターミナル事業者は、次の各号のいずれかに該当する場合には、当該事実の発生後二週間以内（第三号の場合（代表権を有しない役員又は社員に変更があつた場合に限る。）は、前年七月一日から六月三十日までの期間に係る変更について毎年七月三十一日まで）に、その旨を記載した報告書（同号の場合は、その旨を記載した報告書及び新たに役員又は社員になつた者が法第五条第一号から第三号までのいずれにも該当しない者である旨の宣誓書）を提出しなければならない。"
+                  },
+                  "Item": [
+                    {
+                      "@Num": "1",
+                      "ItemTitle": "一",
+                      "ItemSentence": {
+                        "Sentence": "一般自動車ターミナルの供用を開始した場合"
+                      }
+                    },
+                    {
+                      "@Num": "2",
+                      "ItemTitle": "二",
+                      "ItemSentence": {
+                        "Sentence": "主たる事務所又は営業所の名称又は位置を変更した場合"
+                      }
+                    },
+                    {
+                      "@Num": "3",
+                      "ItemTitle": "三",
+                      "ItemSentence": {
+                        "Sentence": "役員又は社員に変更があつた場合"
+                      }
+                    },
+                    {
+                      "@Num": "4",
+                      "ItemTitle": "四",
+                      "ItemSentence": {
+                        "Sentence": "一般自動車ターミナルにおける火災、衝突その他の事故が発生した場合"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "@Num": "21",
+                "ArticleCaption": "（書類の提出）",
+                "ArticleTitle": "第二十一条",
+                "Paragraph": [
+                  {
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": "法第四条第一項の申請書又はこの省令の規定による申請書、届出書若しくは報告書は、第十八条第一項各号の職権に係るものを除き、所轄地方運輸局長を経由して提出しなければならない。"
+                    }
+                  },
+                  {
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": "前項の規定にかかわらず、次の申請書又は報告書は、申請者（法人の合併の場合は合併後存続する法人又は合併により設立される法人、法人の分割の場合は分割により自動車ターミナル事業を承継する法人）又は報告者の主たる事務所（合併又は分割により設立される法人にあつては、予定する主たる事務所）の所在地を管轄する地方運輸局長を経由して提出しなければならない。"
+                    },
+                    "Item": [
+                      {
+                        "@Num": "1",
+                        "ItemTitle": "一",
+                        "ItemSentence": {
+                          "Sentence": "第七条第一項の申請書"
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "ItemTitle": "二",
+                        "ItemSentence": {
+                          "Sentence": "第十九条の報告書"
+                        }
+                      },
+                      {
+                        "@Num": "3",
+                        "ItemTitle": "三",
+                        "ItemSentence": {
+                          "Sentence": "前条第二号又は第三号の報告書"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Num": "3",
+                    "ParagraphNum": "３",
+                    "ParagraphSentence": {
+                      "Sentence": "第一項の規定により地方運輸局長を経由して提出する法第四条第一項の申請書又は第四条第一項の申請書には、副本一通を添え、当該副本には、法第四条第二項又は第四条第二項の規定により当該申請書に添付すべき書類を添付しなければならない。"
+                    }
+                  }
+                ]
+              },
+              {
+                "@Num": "22",
+                "ArticleCaption": "（検査員証）",
+                "ArticleTitle": "第二十二条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "法第二十二条第三項の証明書は、第三号様式による。"
+                  }
+                }
+              }
+            ]
+          }
+        ]
+      },
+      "SupplProvision": [
+        {
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Article": [
+            {
+              "@Num": "1",
+              "ArticleCaption": "（施行期日）",
+              "ArticleTitle": "第一条",
+              "Paragraph": {
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": "この省令は、昭和三十四年十月十日から施行する。"
+                }
+              }
+            },
+            {
+              "@Num": "2",
+              "ArticleCaption": "（経過規定）",
+              "ArticleTitle": "第二条",
+              "Paragraph": [
+                {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "法附則第二条第二項の規定による届出をしようとする者は、次の事項を記載した届出書を提出しなければならない。"
+                  },
+                  "Item": [
+                    {
+                      "@Num": "1",
+                      "ItemTitle": "一",
+                      "ItemSentence": {
+                        "Sentence": "氏名又は名称及び住所"
+                      }
+                    },
+                    {
+                      "@Num": "2",
+                      "ItemTitle": "二",
+                      "ItemSentence": {
+                        "Sentence": "経営する自動車ターミナル事業の種類"
+                      }
+                    },
+                    {
+                      "@Num": "3",
+                      "ItemTitle": "三",
+                      "ItemSentence": {
+                        "Sentence": "一般自動車ターミナルの名称及び位置"
+                      }
+                    },
+                    {
+                      "@Num": "4",
+                      "ItemTitle": "四",
+                      "ItemSentence": {
+                        "Sentence": "一般自動車ターミナルの規模（停留場所の数）"
+                      }
+                    },
+                    {
+                      "@Num": "5",
+                      "ItemTitle": "五",
+                      "ItemSentence": {
+                        "Sentence": "一般自動車ターミナルの構造及び設備の概要（第二条第一項第四号イからカまでの事項の概要）"
+                      }
+                    },
+                    {
+                      "@Num": "6",
+                      "ItemTitle": "六",
+                      "ItemSentence": {
+                        "Sentence": "当該一般自動車ターミナルを使用する自動車の一日当り発着回数並びにその自動車運送事業者別及び運行系統別の内訳"
+                      }
+                    },
+                    {
+                      "@Num": "7",
+                      "ItemTitle": "七",
+                      "ItemSentence": {
+                        "Sentence": "附帯事業を経営する場合は、その種類"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "@Num": "2",
+                  "ParagraphNum": "２",
+                  "ParagraphSentence": {
+                    "Sentence": "前項の届出書には、次の書類及び図面を添附しなければならない。"
+                  },
+                  "Item": [
+                    {
+                      "@Num": "1",
+                      "ItemTitle": "一",
+                      "ItemSentence": {
+                        "Sentence": "一般自動車ターミナルの位置を示した縮尺一万分の一以上の地図"
+                      }
+                    },
+                    {
+                      "@Num": "2",
+                      "ItemTitle": "二",
+                      "ItemSentence": {
+                        "Sentence": {
+                          "Ruby": {
+                            "Rt": "こう",
+                            "#text": "勾"
+                          },
+                          "#text": "前面道路の幅員及び縦断配を記載した書類"
+                        }
+                      }
+                    },
+                    {
+                      "@Num": "3",
+                      "ItemTitle": "三",
+                      "ItemSentence": {
+                        "Sentence": "次の事項を示した縮尺五百分の一以上の平面図"
+                      },
+                      "Subitem1": [
+                        {
+                          "@Num": "1",
+                          "Subitem1Title": "イ",
+                          "Subitem1Sentence": {
+                            "Sentence": "一般自動車ターミナルの境域"
+                          }
+                        },
+                        {
+                          "@Num": "2",
+                          "Subitem1Title": "ロ",
+                          "Subitem1Sentence": {
+                            "Sentence": "道路の路面に接する自動車の出口又は入口から五十メートル以内にある道路交通取締法施行令第三十条第一号から第五号までの場所で前面道路内にあるものを示す平面図"
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "@Num": "4",
+                      "ItemTitle": "四",
+                      "ItemSentence": {
+                        "Sentence": "附帯事業を経営する場合は、その概要を記載した書類"
+                      }
+                    },
+                    {
+                      "@Num": "5",
+                      "ItemTitle": "五",
+                      "ItemSentence": {
+                        "Sentence": "地方公共団体以外の法人にあつては、次の書類"
+                      },
+                      "Subitem1": [
+                        {
+                          "@Num": "1",
+                          "Subitem1Title": "イ",
+                          "Subitem1Sentence": {
+                            "Sentence": "定款又は寄附行為及び登記簿の謄本"
+                          }
+                        },
+                        {
+                          "@Num": "2",
+                          "Subitem1Title": "ロ",
+                          "Subitem1Sentence": {
+                            "Sentence": "最近の事業年度における財産目録及び貸借対照表"
+                          }
+                        },
+                        {
+                          "@Num": "3",
+                          "Subitem1Title": "ハ",
+                          "Subitem1Sentence": {
+                            "Sentence": "役員の名簿及び履歴書"
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "@Num": "6",
+                      "ItemTitle": "六",
+                      "ItemSentence": {
+                        "Sentence": "個人にあつては、次の書類"
+                      },
+                      "Subitem1": [
+                        {
+                          "@Num": "1",
+                          "Subitem1Title": "イ",
+                          "Subitem1Sentence": {
+                            "Sentence": "資産目録"
+                          }
+                        },
+                        {
+                          "@Num": "2",
+                          "Subitem1Title": "ロ",
+                          "Subitem1Sentence": {
+                            "Sentence": "戸籍抄本"
+                          }
+                        },
+                        {
+                          "@Num": "3",
+                          "Subitem1Title": "ハ",
+                          "Subitem1Sentence": {
+                            "Sentence": "履歴書"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "@Num": "3",
+              "ArticleTitle": "第三条",
+              "Paragraph": {
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": "第二十条（第一項第六号を除く。）の規定は、法附則第三条第一項の規定による届出について準用する。"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@AmendLawNum": "昭和三五年一二月一九日運輸省令第四一号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この省令は、道路交通法の施行の日（昭和三十五年十二月二十日）から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "昭和四六年一月一一日運輸省令第二号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphCaption": "（施行期日）",
+            "ParagraphNum": "１",
+            "ParagraphSentence": {
+              "Sentence": "この省令は、公布の日から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "昭和四六年六月一日運輸省令第三〇号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この省令は、公布の日から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "昭和五〇年三月二八日運輸省令第八号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": [
+            {
+              "@Num": "1",
+              "ParagraphNum": "１",
+              "ParagraphSentence": {
+                "Sentence": "この省令は、公布の日から施行する。"
+              }
+            },
+            {
+              "@Num": "2",
+              "ParagraphNum": "２",
+              "ParagraphSentence": {
+                "Sentence": "昭和四十九年十月一日以前に開始した事業年度に係る報告については、なお従前の例による。"
+              }
+            }
+          ]
+        },
+        {
+          "@AmendLawNum": "昭和五三年六月二三日運輸省令第三二号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Article": {
+            "@Num": "1",
+            "ArticleCaption": "（施行期日）",
+            "ArticleTitle": "第一条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "この省令は、公布の日から施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "昭和五九年六月二二日運輸省令第一八号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Article": [
+            {
+              "@Num": "1",
+              "ArticleCaption": "（施行期日）",
+              "ArticleTitle": "第一条",
+              "Paragraph": {
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": "この省令は、昭和五十九年七月一日から施行する。"
+                }
+              }
+            },
+            {
+              "@Num": "2",
+              "ArticleCaption": "（経過措置）",
+              "ArticleTitle": "第二条",
+              "Paragraph": {
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": "この省令の施行前に次の表の上欄に掲げる行政庁が法律若しくはこれに基づく命令の規定によりした許可、認可その他の処分又は契約その他の行為（以下「処分等」という。）は、同表の下欄に掲げるそれぞれの行政庁がした処分等とみなし、この省令の施行前に同表の上欄に掲げる行政庁に対してした申請、届出その他の行為（以下「申請等」という。）は、同表の下欄に掲げるそれぞれの行政庁に対してした申請等とみなす。"
+                },
+                "TableStruct": {
+                  "Table": {
+                    "TableRow": [
+                      {
+                        "TableColumn": [
+                          {
+                            "Sentence": "北海海運局長"
+                          },
+                          {
+                            "Sentence": "北海道運輸局長"
+                          }
+                        ]
+                      },
+                      {
+                        "TableColumn": [
+                          {
+                            "Sentence": "東北海運局長（山形県又は秋田県の区域に係る処分等又は申請等に係る場合を除く。）"
+                          },
+                          {
+                            "Sentence": "東北運輸局長"
+                          }
+                        ]
+                      },
+                      {
+                        "TableColumn": [
+                          {
+                            "Sentence": "東北海運局長（山形県又は秋田県の区域に係る処分等又は申請等に係る場合に限る。）及び新潟海運監理部長"
+                          },
+                          {
+                            "Sentence": "新潟運輸局長"
+                          }
+                        ]
+                      },
+                      {
+                        "TableColumn": [
+                          {
+                            "Sentence": "関東海運局長"
+                          },
+                          {
+                            "Sentence": "関東運輸局長"
+                          }
+                        ]
+                      },
+                      {
+                        "TableColumn": [
+                          {
+                            "Sentence": "東海海運局長"
+                          },
+                          {
+                            "Sentence": "中部運輸局長"
+                          }
+                        ]
+                      },
+                      {
+                        "TableColumn": [
+                          {
+                            "Sentence": "近畿海運局長"
+                          },
+                          {
+                            "Sentence": "近畿運輸局長"
+                          }
+                        ]
+                      },
+                      {
+                        "TableColumn": [
+                          {
+                            "Sentence": "中国海運局長"
+                          },
+                          {
+                            "Sentence": "中国運輸局長"
+                          }
+                        ]
+                      },
+                      {
+                        "TableColumn": [
+                          {
+                            "Sentence": "四国海運局長"
+                          },
+                          {
+                            "Sentence": "四国運輸局長"
+                          }
+                        ]
+                      },
+                      {
+                        "TableColumn": [
+                          {
+                            "Sentence": "九州海運局長"
+                          },
+                          {
+                            "Sentence": "九州運輸局長"
+                          }
+                        ]
+                      },
+                      {
+                        "TableColumn": [
+                          {
+                            "Sentence": "神戸海運局長"
+                          },
+                          {
+                            "Sentence": "神戸海運監理部長"
+                          }
+                        ]
+                      },
+                      {
+                        "TableColumn": [
+                          {
+                            "Sentence": "札幌陸運局長"
+                          },
+                          {
+                            "Sentence": "北海道運輸局長"
+                          }
+                        ]
+                      },
+                      {
+                        "TableColumn": [
+                          {
+                            "Sentence": "仙台陸運局長"
+                          },
+                          {
+                            "Sentence": "東北運輸局長"
+                          }
+                        ]
+                      },
+                      {
+                        "TableColumn": [
+                          {
+                            "Sentence": "新潟陸運局長"
+                          },
+                          {
+                            "Sentence": "新潟運輸局長"
+                          }
+                        ]
+                      },
+                      {
+                        "TableColumn": [
+                          {
+                            "Sentence": "東京陸運局長"
+                          },
+                          {
+                            "Sentence": "関東運輸局長"
+                          }
+                        ]
+                      },
+                      {
+                        "TableColumn": [
+                          {
+                            "Sentence": "名古屋陸運局長"
+                          },
+                          {
+                            "Sentence": "中部運輸局長"
+                          }
+                        ]
+                      },
+                      {
+                        "TableColumn": [
+                          {
+                            "Sentence": "大阪陸運局長"
+                          },
+                          {
+                            "Sentence": "近畿運輸局長"
+                          }
+                        ]
+                      },
+                      {
+                        "TableColumn": [
+                          {
+                            "Sentence": "広島陸運局長"
+                          },
+                          {
+                            "Sentence": "中国運輸局長"
+                          }
+                        ]
+                      },
+                      {
+                        "TableColumn": [
+                          {
+                            "Sentence": "高松陸運局長"
+                          },
+                          {
+                            "Sentence": "四国運輸局長"
+                          }
+                        ]
+                      },
+                      {
+                        "TableColumn": [
+                          {
+                            "Sentence": "福岡陸運局長"
+                          },
+                          {
+                            "Sentence": "九州運輸局長"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@AmendLawNum": "昭和六〇年六月一五日運輸省令第二二号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphCaption": "（施行期日）",
+            "ParagraphNum": "１",
+            "ParagraphSentence": {
+              "Sentence": "この省令は、公布の日から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成六年三月二九日運輸省令第一一号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この省令は、平成六年四月一日から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成六年三月三〇日運輸省令第一二号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": "１",
+            "ParagraphSentence": {
+              "Sentence": "この省令は、公布の日から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成六年九月三〇日運輸省令第四六号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Article": [
+            {
+              "@Num": "1",
+              "ArticleCaption": "（施行期日）",
+              "ArticleTitle": "第一条",
+              "Paragraph": {
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": "この省令は、行政手続法の施行の日（平成六年十月一日）から施行する。"
+                }
+              }
+            },
+            {
+              "@Num": "3",
+              "ArticleCaption": "（聴聞に関する規定の整備に伴う経過措置）",
+              "ArticleTitle": "第三条",
+              "Paragraph": {
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": "この省令の施行前に運輸省令の規定により行われた聴聞、聴問若しくは聴聞会（不利益処分に係るものを除く。）又はこれらのための手続は、この省令による改正後の関係省令の相当規定により行われたものとみなす。"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@AmendLawNum": "平成八年一一月二五日運輸省令第六二号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この省令は、自動車ターミナル法の一部を改正する法律の施行の日（平成八年十一月二十八日）から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成九年一二月一五日運輸省令第八一号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphCaption": "（施行期日）",
+            "ParagraphNum": "１",
+            "ParagraphSentence": {
+              "Sentence": "この省令は、平成十年一月一日から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成一〇年三月一三日運輸省令第八号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この省令は、平成十年四月一日から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成一二年一一月二九日運輸省令第三九号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Article": {
+            "@Num": "1",
+            "ArticleCaption": "（施行期日）",
+            "ArticleTitle": "第一条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "この省令は、平成十三年一月六日から施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成一三年三月一五日国土交通省令第三七号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この省令は、平成十三年四月一日から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成一七年三月七日国土交通省令第一二号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Article": {
+            "@Num": "1",
+            "ArticleCaption": "（施行期日）",
+            "ArticleTitle": "第一条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "この省令は、公布の日から施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成一八年四月二八日国土交通省令第五八号",
+          "SupplProvisionLabel": "附　則",
+          "Article": [
+            {
+              "@Num": "1",
+              "ArticleCaption": "（施行期日）",
+              "ArticleTitle": "第一条",
+              "Paragraph": {
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": "この省令は、会社法の施行の日（平成十八年五月一日）から施行する。"
+                }
+              }
+            },
+            {
+              "@Num": "2",
+              "ArticleCaption": "（経過措置）",
+              "ArticleTitle": "第二条",
+              "Paragraph": {
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": "この省令の施行の際現にあるこの省令による改正前の様式又は書式による申請書その他の文書は、この省令による改正後のそれぞれの様式又は書式にかかわらず、当分の間、なおこれを使用することができる。"
+                }
+              }
+            },
+            {
+              "@Num": "3",
+              "ArticleTitle": "第三条",
+              "Paragraph": {
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": "この省令の施行前にしたこの省令による改正前の省令の規定による処分、手続、その他の行為は、この省令による改正後の省令（以下「新令」という。）の規定の適用については、新令の相当規定によってしたものとみなす。"
+                }
+              }
+            }
+          ]
+        }
+      ],
+      "AppdxStyle": [
+        {
+          "AppdxStyleTitle": "第１号様式　（用紙の大きさは、日本工業規格Ａ列４番とする。）［第１９条］",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/S34F03901000047-001.pdf"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": "第２号様式　（用紙の大きさは、日本工業規格Ａ列４番とする。）［第１９条］",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/S34F03901000047-002.pdf"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": "第３号様式　〔第２２条〕",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/S34F03901000047-003.pdf"
+              }
+            }
+          }
+        }
+      ]
+    }
+  }
+}

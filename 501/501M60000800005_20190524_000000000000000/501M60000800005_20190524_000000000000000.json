@@ -1,0 +1,59 @@
+{
+  "Law": {
+    "@Era": "Reiwa",
+    "@Lang": "ja",
+    "@LawType": "MinisterialOrdinance",
+    "@Num": "005",
+    "@Year": "01",
+    "LawNum": "令和元年国土交通省令第五号",
+    "LawBody": {
+      "LawTitle": "アイヌの人々の誇りが尊重される社会を実現するための施策の推進に関する法律第四十二条第一項の規定による権限の委任に関する省令",
+      "EnactStatement": "アイヌの人々の誇りが尊重される社会を実現するための施策の推進に関する法律（平成三十一年法律第十六号）第四十二条第一項の規定に基づき、アイヌの人々の誇りが尊重される社会を実現するための施策の推進に関する法律第四十二条第一項の規定による権限の委任に関する省令を次のように定める。",
+      "MainProvision": {
+        "Paragraph": {
+          "@Hide": "false",
+          "@Num": "1",
+          "ParagraphNum": null,
+          "ParagraphSentence": {
+            "Sentence": [
+              {
+                "@Function": "main",
+                "@Num": "1",
+                "@WritingMode": "vertical",
+                "#text": "アイヌの人々の誇りが尊重される社会を実現するための施策の推進に関する法律（附則第一条において「法」という。）第二十八条第一項の規定による国土交通大臣の権限は、北海道開発局長に委任する。"
+              },
+              {
+                "@Function": "proviso",
+                "@Num": "2",
+                "@WritingMode": "vertical",
+                "#text": "ただし、国土交通大臣が自らその権限を行うことを妨げない。"
+              }
+            ]
+          }
+        }
+      },
+      "SupplProvision": {
+        "@Extract": "true",
+        "SupplProvisionLabel": "附　則",
+        "Article": {
+          "@Delete": "false",
+          "@Hide": "false",
+          "@Num": "1",
+          "ArticleCaption": "（施行期日）",
+          "ArticleTitle": "第一条",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この省令は、法の施行の日（令和元年五月二十四日）から施行する。"
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,1750 @@
+{
+  "Law": {
+    "@Era": "Heisei",
+    "@Lang": "ja",
+    "@LawType": "MinisterialOrdinance",
+    "@Num": "032",
+    "@Year": "25",
+    "LawNum": "平成二十五年国土交通省令第三十二号",
+    "LawBody": {
+      "LawTitle": "船員の労働条件等の検査等に関する規則",
+      "EnactStatement": "船員法（昭和二十二年法律第百号）第十一章の二及び船員法関係手数料令（昭和三十七年政令第三百六十二号）の規定に基づき、並びに同法を実施するため、船員の労働条件等の検査等に関する規則を次のように定める。",
+      "TOC": {
+        "TOCLabel": "目次",
+        "TOCChapter": [
+          {
+            "@Delete": "false",
+            "@Num": "1",
+            "ChapterTitle": "第一章　総則",
+            "ArticleRange": "（第一条）"
+          },
+          {
+            "@Delete": "false",
+            "@Num": "2",
+            "ChapterTitle": "第二章　検査",
+            "TOCSection": [
+              {
+                "@Delete": "false",
+                "@Num": "1",
+                "SectionTitle": "第一節　通則",
+                "ArticleRange": "（第二条・第三条）"
+              },
+              {
+                "@Delete": "false",
+                "@Num": "2",
+                "SectionTitle": "第二節　検査の申請手続",
+                "ArticleRange": "（第四条・第五条）"
+              },
+              {
+                "@Delete": "false",
+                "@Num": "3",
+                "SectionTitle": "第三節　検査の準備",
+                "ArticleRange": "（第六条）"
+              },
+              {
+                "@Delete": "false",
+                "@Num": "4",
+                "SectionTitle": "第四節　検査の執行",
+                "ArticleRange": "（第七条―第十条）"
+              }
+            ]
+          },
+          {
+            "@Delete": "false",
+            "@Num": "3",
+            "ChapterTitle": "第三章　海上労働証書等",
+            "ArticleRange": "（第十一条―第二十一条）"
+          },
+          {
+            "@Delete": "false",
+            "@Num": "4",
+            "ChapterTitle": "第四章　雑則",
+            "ArticleRange": "（第二十二条―第二十六条）"
+          }
+        ],
+        "TOCSupplProvision": {
+          "SupplProvisionLabel": "附則"
+        }
+      },
+      "MainProvision": {
+        "Chapter": [
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "1",
+            "ChapterTitle": "第一章　総則",
+            "Article": {
+              "@Delete": "false",
+              "@Hide": "false",
+              "@Num": "1",
+              "ArticleCaption": "（用語）",
+              "ArticleTitle": "第一条",
+              "Paragraph": {
+                "@Hide": "false",
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "この省令において使用する用語は、船員法（以下「法」という。）において使用する用語の例による。"
+                  }
+                }
+              }
+            }
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "2",
+            "ChapterTitle": "第二章　検査",
+            "Section": [
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "1",
+                "SectionTitle": "第一節　通則",
+                "Article": [
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "2",
+                    "ArticleCaption": "（特別の用途に供される船舶）",
+                    "ArticleTitle": "第二条",
+                    "Paragraph": {
+                      "@Hide": "false",
+                      "@Num": "1",
+                      "ParagraphNum": null,
+                      "ParagraphSentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "法第百条の二第一項の国土交通省令で定める特別の用途に供される船舶は、次に掲げる者が所有し又は運航する船舶であって非商業的目的のみに使用されるものとする。"
+                        }
+                      },
+                      "Item": [
+                        {
+                          "@Delete": "false",
+                          "@Hide": "false",
+                          "@Num": "1",
+                          "ItemTitle": "一",
+                          "ItemSentence": {
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "国の機関"
+                            }
+                          }
+                        },
+                        {
+                          "@Delete": "false",
+                          "@Hide": "false",
+                          "@Num": "2",
+                          "ItemTitle": "二",
+                          "ItemSentence": {
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "地方公共団体"
+                            }
+                          }
+                        },
+                        {
+                          "@Delete": "false",
+                          "@Hide": "false",
+                          "@Num": "3",
+                          "ItemTitle": "三",
+                          "ItemSentence": {
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "独立行政法人（独立行政法人通則法（平成十一年法律第百三号）第二条第一項に規定する独立行政法人をいう。）"
+                            }
+                          }
+                        },
+                        {
+                          "@Delete": "false",
+                          "@Hide": "false",
+                          "@Num": "4",
+                          "ItemTitle": "四",
+                          "ItemSentence": {
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "地方独立行政法人（地方独立行政法人法（平成十五年法律第百十八号）第二条第一項に規定する地方独立行政法人をいう。）"
+                            }
+                          }
+                        },
+                        {
+                          "@Delete": "false",
+                          "@Hide": "false",
+                          "@Num": "5",
+                          "ItemTitle": "五",
+                          "ItemSentence": {
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "国立大学法人（国立大学法人法（平成十五年法律第百十二号）第二条第一項に規定する国立大学法人をいう。）"
+                            }
+                          }
+                        },
+                        {
+                          "@Delete": "false",
+                          "@Hide": "false",
+                          "@Num": "6",
+                          "ItemTitle": "六",
+                          "ItemSentence": {
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "大学共同利用機関法人（国立大学法人法第二条第三項に規定する大学共同利用機関法人をいう。）"
+                            }
+                          }
+                        },
+                        {
+                          "@Delete": "false",
+                          "@Hide": "false",
+                          "@Num": "7",
+                          "ItemTitle": "七",
+                          "ItemSentence": {
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "特殊法人（法律により直接に設立された法人又は特別の法律により特別の設立行為をもって設立された法人であって、総務省設置法（平成十一年法律第九十一号）第四条第一項第九号の規定の適用を受けるものをいう。）"
+                            }
+                          }
+                        },
+                        {
+                          "@Delete": "false",
+                          "@Hide": "false",
+                          "@Num": "8",
+                          "ItemTitle": "八",
+                          "ItemSentence": {
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "前各号に掲げる者のほか、国土交通大臣が適当と認める者"
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "3",
+                    "ArticleCaption": "（検査の引継ぎ）",
+                    "ArticleTitle": "第三条",
+                    "Paragraph": {
+                      "@Hide": "false",
+                      "@Num": "1",
+                      "ParagraphNum": null,
+                      "ParagraphSentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "法定検査を申請した者は、当該申請に係る船舶が、当該船舶の所在地を管轄する地方運輸局長（運輸監理部長を含む。第二十六条において同じ。）又は運輸支局（地方運輸局組織規則（平成十四年国土交通省令第七十三号）別表第二第一号に掲げる運輸支局（福岡運輸支局を除く。）を除く。）、海事事務所若しくは内閣府設置法（平成十一年法律第八十九号）第四十七条第一項の規定により沖縄総合事務局に置かれる事務所で地方運輸局において所掌することとされている事務のうち国土交通省組織令（平成十二年政令第二百五十五号）第二百十二条第二項に規定する事務を分掌するもの（第二十六条において「運輸支局等」という。）の長（同条において「運輸支局長等」という。）（当該船舶が本邦外にある場合にあっては関東運輸局長。以下「船舶所在地官庁」という。）の管轄する区域外に移転した場合は、当該申請をした船舶所在地官庁に検査引継申請書（第一号様式）を提出して、新たな船舶所在地官庁への検査の引継ぎを受けることができる。"
+                        }
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "2",
+                "SectionTitle": "第二節　検査の申請手続",
+                "Article": [
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "4",
+                    "ArticleCaption": "（検査の申請）",
+                    "ArticleTitle": "第四条",
+                    "Paragraph": [
+                      {
+                        "@Hide": "false",
+                        "@Num": "1",
+                        "ParagraphNum": null,
+                        "ParagraphSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "定期検査又は中間検査を受けようとする者は、海上労働検査申請書（第二号様式）を船舶所在地官庁に提出しなければならない。"
+                          }
+                        }
+                      },
+                      {
+                        "@Hide": "false",
+                        "@Num": "2",
+                        "ParagraphNum": "２",
+                        "ParagraphSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "法第百条の六第一項の検査（以下「臨時航行検査」という。）を受けようとする者は、海上労働臨時航行検査申請書（第三号様式）を船舶所在地官庁に提出しなければならない。"
+                          }
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "5",
+                    "ArticleCaption": "（添付書類）",
+                    "ArticleTitle": "第五条",
+                    "Paragraph": [
+                      {
+                        "@Hide": "false",
+                        "@Num": "1",
+                        "ParagraphNum": null,
+                        "ParagraphSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "海上労働検査申請書には、次に掲げる書類を添付しなければならない。"
+                          }
+                        },
+                        "Item": [
+                          {
+                            "@Delete": "false",
+                            "@Hide": "false",
+                            "@Num": "1",
+                            "ItemTitle": "一",
+                            "ItemSentence": {
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "定期検査を初めて受ける場合は、次の書類"
+                              }
+                            },
+                            "Subitem1": [
+                              {
+                                "@Delete": "false",
+                                "@Hide": "false",
+                                "@Num": "1",
+                                "Subitem1Title": "イ",
+                                "Subitem1Sentence": {
+                                  "Sentence": {
+                                    "@WritingMode": "vertical",
+                                    "#text": "臨時海上労働証書の写し（臨時海上労働証書の交付を受けている船舶に限る。）"
+                                  }
+                                }
+                              },
+                              {
+                                "@Delete": "false",
+                                "@Hide": "false",
+                                "@Num": "2",
+                                "Subitem1Title": "ロ",
+                                "Subitem1Sentence": {
+                                  "Sentence": {
+                                    "@WritingMode": "vertical",
+                                    "#text": "報酬支払簿の写し"
+                                  }
+                                }
+                              },
+                              {
+                                "@Delete": "false",
+                                "@Hide": "false",
+                                "@Num": "3",
+                                "Subitem1Title": "ハ",
+                                "Subitem1Sentence": {
+                                  "Sentence": {
+                                    "@WritingMode": "vertical",
+                                    "#text": "休日付与簿の写し"
+                                  }
+                                }
+                              },
+                              {
+                                "@Delete": "false",
+                                "@Hide": "false",
+                                "@Num": "4",
+                                "Subitem1Title": "ニ",
+                                "Subitem1Sentence": {
+                                  "Sentence": {
+                                    "@WritingMode": "vertical",
+                                    "#text": "当該船舶が法第百条の三第一項第一号から第三十三号までに掲げる要件に適合するために船舶所有者が実施すべき事項並びにその管理の体制及び方法（以下「海上労働遵守措置」という。）を記載した書類"
+                                  }
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "@Delete": "false",
+                            "@Hide": "false",
+                            "@Num": "2",
+                            "ItemTitle": "二",
+                            "ItemSentence": {
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "前号の場合を除き、定期検査又は中間検査を受ける場合は、次の書類"
+                              }
+                            },
+                            "Subitem1": [
+                              {
+                                "@Delete": "false",
+                                "@Hide": "false",
+                                "@Num": "1",
+                                "Subitem1Title": "イ",
+                                "Subitem1Sentence": {
+                                  "Sentence": {
+                                    "@WritingMode": "vertical",
+                                    "#text": "海上労働証書の写し"
+                                  }
+                                }
+                              },
+                              {
+                                "@Delete": "false",
+                                "@Hide": "false",
+                                "@Num": "2",
+                                "Subitem1Title": "ロ",
+                                "Subitem1Sentence": {
+                                  "Sentence": {
+                                    "@WritingMode": "vertical",
+                                    "#text": "前号ロからニまでに掲げる書類"
+                                  }
+                                }
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "@Hide": "false",
+                        "@Num": "2",
+                        "ParagraphNum": "２",
+                        "ParagraphSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "海上労働臨時航行検査申請書には、海上労働遵守措置を記載した書類を添付しなければならない。"
+                          }
+                        }
+                      },
+                      {
+                        "@Hide": "false",
+                        "@Num": "3",
+                        "ParagraphNum": "３",
+                        "ParagraphSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "船舶所在地官庁は、検査のため必要があると認める場合において前二項に規定する書類のほか必要な書類の添付を求め、又は前二項に規定する書類の一部についてその添付の省略を認めることができる。"
+                          }
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "3",
+                "SectionTitle": "第三節　検査の準備",
+                "Article": {
+                  "@Delete": "false",
+                  "@Hide": "false",
+                  "@Num": "6",
+                  "ArticleCaption": "（法定検査の準備）",
+                  "ArticleTitle": "第六条",
+                  "Paragraph": [
+                    {
+                      "@Hide": "false",
+                      "@Num": "1",
+                      "ParagraphNum": null,
+                      "ParagraphSentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "法定検査を受けようとする者は、次に掲げる書類を速やかに提示できるように準備をするものとする。"
+                        }
+                      },
+                      "Item": [
+                        {
+                          "@Delete": "false",
+                          "@Hide": "false",
+                          "@Num": "1",
+                          "ItemTitle": "一",
+                          "ItemSentence": {
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "法第三十六条第一項又は第二項に規定する書面の写し"
+                            }
+                          }
+                        },
+                        {
+                          "@Delete": "false",
+                          "@Hide": "false",
+                          "@Num": "2",
+                          "ItemTitle": "二",
+                          "ItemSentence": {
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "船員手帳"
+                            }
+                          }
+                        },
+                        {
+                          "@Delete": "false",
+                          "@Hide": "false",
+                          "@Num": "3",
+                          "ItemTitle": "三",
+                          "ItemSentence": {
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "通常配置表"
+                            }
+                          }
+                        },
+                        {
+                          "@Delete": "false",
+                          "@Hide": "false",
+                          "@Num": "4",
+                          "ItemTitle": "四",
+                          "ItemSentence": {
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "法第六十七条第一項の帳簿"
+                            }
+                          }
+                        },
+                        {
+                          "@Delete": "false",
+                          "@Hide": "false",
+                          "@Num": "5",
+                          "ItemTitle": "五",
+                          "ItemSentence": {
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "海員名簿"
+                            }
+                          }
+                        },
+                        {
+                          "@Delete": "false",
+                          "@Hide": "false",
+                          "@Num": "6",
+                          "ItemTitle": "六",
+                          "ItemSentence": {
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "船員労働安全衛生規則（昭和三十九年運輸省令第五十三号）第十三条の記録"
+                            }
+                          }
+                        },
+                        {
+                          "@Delete": "false",
+                          "@Hide": "false",
+                          "@Num": "7",
+                          "ItemTitle": "七",
+                          "ItemSentence": {
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "法第百十三条第一項に規定する書類"
+                            }
+                          }
+                        },
+                        {
+                          "@Delete": "false",
+                          "@Hide": "false",
+                          "@Num": "8",
+                          "ItemTitle": "八",
+                          "ItemSentence": {
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "船舶検査証書又は臨時航行許可証"
+                            }
+                          }
+                        },
+                        {
+                          "@Delete": "false",
+                          "@Hide": "false",
+                          "@Num": "9",
+                          "ItemTitle": "九",
+                          "ItemSentence": {
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "前各号に掲げるもののほか、船員の労働条件等に関する書類"
+                            }
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "@Hide": "false",
+                      "@Num": "2",
+                      "ParagraphNum": "２",
+                      "ParagraphSentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "船舶所在地官庁は、前項の規定にかかわらず、同項各号に掲げる書類の一部についてその準備を免除することができる。"
+                        }
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "4",
+                "SectionTitle": "第四節　検査の執行",
+                "Article": [
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "7",
+                    "ArticleCaption": "（定期検査）",
+                    "ArticleTitle": "第七条",
+                    "Paragraph": {
+                      "@Hide": "false",
+                      "@Num": "1",
+                      "ParagraphNum": null,
+                      "ParagraphSentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "定期検査は、海上労働証書の有効期間の満了前に受けることができる。"
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "8",
+                    "ArticleCaption": "（中間検査）",
+                    "ArticleTitle": "第八条",
+                    "Paragraph": [
+                      {
+                        "@Hide": "false",
+                        "@Num": "1",
+                        "ParagraphNum": null,
+                        "ParagraphSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "中間検査の時期は、海上労働証書の有効期間の起算日の後の二回目の検査基準日（海上労働証書の有効期間が満了する日に相当する毎年の日をいう。以下この項において同じ。）から三回目の検査基準日までの間とする。"
+                          }
+                        }
+                      },
+                      {
+                        "@Hide": "false",
+                        "@Num": "2",
+                        "ParagraphNum": "２",
+                        "ParagraphSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "中間検査は、その時期を繰り上げて受けることができる。"
+                          }
+                        }
+                      },
+                      {
+                        "@Hide": "false",
+                        "@Num": "3",
+                        "ParagraphNum": "３",
+                        "ParagraphSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "前項の規定によりその時期を繰り上げて受けた中間検査に合格した船舶の次回以降の中間検査の時期についての第一項の適用については、「海上労働証書の有効期間の起算日」とあるのは「中間検査に合格した日」と、「海上労働証書の有効期間が満了する日」とあるのは「中間検査に合格した日の前日」とする。"
+                          }
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "9",
+                    "ArticleCaption": "（臨時航行検査）",
+                    "ArticleTitle": "第九条",
+                    "Paragraph": {
+                      "@Hide": "false",
+                      "@Num": "1",
+                      "ParagraphNum": null,
+                      "ParagraphSentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "法第百条の六第一項の国土交通省令で定める事由は、次に掲げるものとする。"
+                        }
+                      },
+                      "Item": [
+                        {
+                          "@Delete": "false",
+                          "@Hide": "false",
+                          "@Num": "1",
+                          "ItemTitle": "一",
+                          "ItemSentence": {
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "船舶所有者の変更があったこと。"
+                            }
+                          }
+                        },
+                        {
+                          "@Delete": "false",
+                          "@Hide": "false",
+                          "@Num": "2",
+                          "ItemTitle": "二",
+                          "ItemSentence": {
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "日本船舶以外の船舶が日本船舶になったこと。"
+                            }
+                          }
+                        },
+                        {
+                          "@Delete": "false",
+                          "@Hide": "false",
+                          "@Num": "3",
+                          "ItemTitle": "三",
+                          "ItemSentence": {
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "新たに建造された船舶その他海上労働証書を受有しないものを臨時に国際航海に従事させようとすること。"
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "10",
+                    "ArticleCaption": "（検査の基準）",
+                    "ArticleTitle": "第十条",
+                    "Paragraph": [
+                      {
+                        "@Hide": "false",
+                        "@Num": "1",
+                        "ParagraphNum": null,
+                        "ParagraphSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "法第百条の三第一項第三十四号及び法第百条の六第三項第三号の国土交通省令で定める基準は、海上労働遵守措置が当該船舶における船員の適正な労働条件等を継続的に確保する見地からみて適切に定められていることとする。"
+                          }
+                        }
+                      },
+                      {
+                        "@Hide": "false",
+                        "@Num": "2",
+                        "ParagraphNum": "２",
+                        "ParagraphSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "法第百条の六第三項第二号の国土交通省令で定める事項は、次に掲げるものとする。"
+                          }
+                        },
+                        "Item": [
+                          {
+                            "@Delete": "false",
+                            "@Hide": "false",
+                            "@Num": "1",
+                            "ItemTitle": "一",
+                            "ItemSentence": {
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "船員労働安全衛生規則第四十四条及び第四十五条の規定による検知器具及び保護具の備付け"
+                              }
+                            }
+                          },
+                          {
+                            "@Delete": "false",
+                            "@Hide": "false",
+                            "@Num": "2",
+                            "ItemTitle": "二",
+                            "ItemSentence": {
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "船員労働安全衛生規則第三十五条の規定による手を洗う設備の設置"
+                              }
+                            }
+                          },
+                          {
+                            "@Delete": "false",
+                            "@Hide": "false",
+                            "@Num": "3",
+                            "ItemTitle": "三",
+                            "ItemSentence": {
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "船員法施行規則（昭和二十二年運輸省令第二十三号）第五十三条及び第五十四条の規定による医薬品等及び医療書の備付け"
+                              }
+                            }
+                          },
+                          {
+                            "@Delete": "false",
+                            "@Hide": "false",
+                            "@Num": "4",
+                            "ItemTitle": "四",
+                            "ItemSentence": {
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "船員労働安全衛生規則第二条に規定する安全担当者及び同令第七条に規定する衛生担当者の選任"
+                              }
+                            }
+                          },
+                          {
+                            "@Delete": "false",
+                            "@Hide": "false",
+                            "@Num": "5",
+                            "ItemTitle": "五",
+                            "ItemSentence": {
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "その他国土交通大臣の定める事項"
+                              }
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "3",
+            "ChapterTitle": "第三章　海上労働証書等",
+            "Article": [
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "11",
+                "ArticleCaption": "（海上労働証書）",
+                "ArticleTitle": "第十一条",
+                "Paragraph": {
+                  "@Hide": "false",
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "法第百条の三第一項の規定により交付する海上労働証書は、第四号様式によるものとする。"
+                    }
+                  }
+                }
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "12",
+                "ArticleCaption": "（海上労働証書の交付申請）",
+                "ArticleTitle": "第十二条",
+                "Paragraph": [
+                  {
+                    "@Hide": "false",
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "登録検査機関が検査を行った船舶に係る海上労働証書の交付を受けようとする者は、海上労働証書交付申請書（第五号様式）を船舶所在地官庁に提出しなければならない。"
+                      }
+                    }
+                  },
+                  {
+                    "@Hide": "false",
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "海上労働証書交付申請書には、次に掲げる書類（初めて海上労働証書の交付を受ける場合にあっては、第二号に掲げる書類を除く。）を添付しなければならない。"
+                      }
+                    },
+                    "Item": [
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "1",
+                        "ItemTitle": "一",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "海上労働遵守措置を記載した書類"
+                          }
+                        }
+                      },
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "2",
+                        "ItemTitle": "二",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "海上労働証書の写し"
+                          }
+                        }
+                      },
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "3",
+                        "ItemTitle": "三",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "臨時海上労働証書の交付を受けている場合にあっては、当該臨時海上労働証書の写し"
+                          }
+                        }
+                      },
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "4",
+                        "ItemTitle": "四",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "その他国土交通大臣の定める定期検査に関する事項を記録した書類"
+                          }
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "@Num": "12_2",
+                "ArticleCaption": "（海上労働証書の有効期間の延長）",
+                "ArticleTitle": "第十二条の二",
+                "Paragraph": [
+                  {
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": "法第百条の三第三項の国土交通省令で定める事由は、特定船舶が、定期検査を外国において受けた場合その他地理的条件、交通事情その他の事情により、当該定期検査に合格した後速やかに、当該定期検査に係る海上労働証書の交付を受けることが困難であることとする。"
+                    }
+                  },
+                  {
+                    "@Hide": "false",
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "法第百条の三第三項の規定の適用を受けようとする者は、その旨を記載した書面及び次に掲げる書類を船舶所在地官庁に提出し、特定船舶に前項に規定する事由がある旨の確認を受けなければならない。"
+                      }
+                    },
+                    "Item": [
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "1",
+                        "ItemTitle": "一",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "海上労働証書（登録検査機関が定期検査を行った特定船舶（以下この条において「登録特定船舶」という。）にあっては、海上労働証書の写し）"
+                          }
+                        }
+                      },
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "2",
+                        "ItemTitle": "二",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "登録検査機関の定期検査を受けている旨の証明書（登録特定船舶に限る。）"
+                          }
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Hide": "false",
+                    "@Num": "3",
+                    "ParagraphNum": "３",
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "船舶所在地官庁は、登録特定船舶以外の特定船舶に係る前項の確認を行ったときは、同項第一号の規定により提出された海上労働証書に当該特定船舶が法第百条の三第三項の規定を受けている旨を記載して、定期検査を申請した者に返付するものとする。"
+                      }
+                    }
+                  },
+                  {
+                    "@Hide": "false",
+                    "@Num": "4",
+                    "ParagraphNum": "４",
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "登録検査機関は、第二項の確認を受けた者からの申請により、海上労働証書に当該特定船舶が法第百条の三第三項の規定の適用を受けている旨を記載するものとする。"
+                      }
+                    }
+                  },
+                  {
+                    "@Hide": "false",
+                    "@Num": "5",
+                    "ParagraphNum": "５",
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "第三項の規定により海上労働証書の返付を受けた者は、当該海上労働証書の有効期間の満了前に受けた定期検査に係る海上労働証書の交付を受けようとするときは、従前の海上労働証書を船舶所在地官庁に提出しなければならない。"
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "13",
+                "ArticleCaption": "（海上労働証書の有効期間の満了）",
+                "ArticleTitle": "第十三条",
+                "Paragraph": {
+                  "@Hide": "false",
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "従前の海上労働証書の有効期間の満了前に、定期検査を受け、当該定期検査に係る海上労働証書の交付を受けた場合は、従前の海上労働証書の有効期間は、満了したものとみなす。"
+                    }
+                  }
+                }
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "14",
+                "ArticleCaption": "（臨時海上労働証書）",
+                "ArticleTitle": "第十四条",
+                "Paragraph": {
+                  "@Hide": "false",
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "法第百条の六第三項の規定により交付する臨時海上労働証書は、第六号様式によるものとする。"
+                    }
+                  }
+                }
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "15",
+                "ArticleCaption": "（臨時海上労働証書の交付申請）",
+                "ArticleTitle": "第十五条",
+                "Paragraph": [
+                  {
+                    "@Hide": "false",
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "登録検査機関が検査を行った船舶に係る臨時海上労働証書の交付を受けようとする者は、臨時海上労働証書交付申請書（第七号様式）を船舶所在地官庁に提出しなければならない。"
+                      }
+                    }
+                  },
+                  {
+                    "@Hide": "false",
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "臨時海上労働証書交付申請書には、次に掲げる書類を添付しなければならない。"
+                      }
+                    },
+                    "Item": [
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "1",
+                        "ItemTitle": "一",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "海上労働遵守措置を記載した書類"
+                          }
+                        }
+                      },
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "2",
+                        "ItemTitle": "二",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "その他国土交通大臣の定める臨時航行検査に関する事項を記録した書類"
+                          }
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "16",
+                "ArticleCaption": "（海上労働遵守措置認定書）",
+                "ArticleTitle": "第十六条",
+                "Paragraph": [
+                  {
+                    "@Hide": "false",
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "船舶所在地官庁は、法第百条の三第一項又は法第百条の六第三項の規定により海上労働証書又は臨時海上労働証書（以下「海上労働証書等」という。）を交付するときは、当該海上労働証書等と併せて海上労働遵守措置認定書（海上労働遵守措置が第十条第一項に定めるところにより定められていることを証する書類をいう。以下同じ。）を交付するものとする。"
+                      }
+                    }
+                  },
+                  {
+                    "@Hide": "false",
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "海上労働遵守措置認定書は、第八号様式によるものとする。"
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "17",
+                "ArticleCaption": "（海上労働証書等と併せて備え置くべき書類）",
+                "ArticleTitle": "第十七条",
+                "Paragraph": {
+                  "@Hide": "false",
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "海上労働証書等の交付を受けた特定船舶の船舶所有者は、法第百条の八の規定により当該海上労働証書等を船内に備え置く場合において、次の書類を併せて備え置かなければならない。"
+                    }
+                  },
+                  "Item": [
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "1",
+                      "ItemTitle": "一",
+                      "ItemSentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "海上労働遵守措置認定書"
+                        }
+                      }
+                    },
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "2",
+                      "ItemTitle": "二",
+                      "ItemSentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "その他国土交通大臣の定める法定検査に関する事項を記録した書類"
+                        }
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "18",
+                "ArticleCaption": "（海上労働証書等の再交付）",
+                "ArticleTitle": "第十八条",
+                "Paragraph": [
+                  {
+                    "@Hide": "false",
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "船舶所有者は、海上労働証書等を滅失し、又は毀損した場合は、当該海上労働証書等（毀損した場合に限る。）を添付して、海上労働証書等再交付申請書（第九号様式）を船舶所在地官庁に提出し、その再交付を受けることができる。"
+                      }
+                    }
+                  },
+                  {
+                    "@Hide": "false",
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "海上労働証書等を滅失したことにより再交付を受けた場合は、滅失した海上労働証書等は、その効力を失うものとする。"
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "19",
+                "ArticleCaption": "（海上労働証書等の書換え）",
+                "ArticleTitle": "第十九条",
+                "Paragraph": {
+                  "@Hide": "false",
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "船舶所有者は、海上労働証書等の記載事項を変更しようとする場合又はその記載事項に変更を生じた場合は、速やかに、当該海上労働証書等を添付して海上労働証書等書換申請書（第十号様式）を船舶所在地官庁に提出し、その書換えを受けなければならない。"
+                    }
+                  }
+                }
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "20",
+                "ArticleCaption": "（海上労働証書等の返納）",
+                "ArticleTitle": "第二十条",
+                "Paragraph": {
+                  "@Hide": "false",
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "船舶所有者は、次の各号に掲げる場合には、遅滞なく、その受有する海上労働証書等（第四号の場合にあっては、発見した海上労働証書等）を船舶所在地官庁に返納しなければならない。"
+                    }
+                  },
+                  "Item": [
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "1",
+                      "ItemTitle": "一",
+                      "ItemSentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "船舶が滅失し、沈没し、又は解撤されたとき。"
+                        }
+                      }
+                    },
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "2",
+                      "ItemTitle": "二",
+                      "ItemSentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "船舶が日本船舶でなくなったとき。"
+                        }
+                      }
+                    },
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "3",
+                      "ItemTitle": "三",
+                      "ItemSentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "海上労働証書等の有効期間が満了したとき。"
+                        }
+                      }
+                    },
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "4",
+                      "ItemTitle": "四",
+                      "ItemSentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "海上労働証書等を滅失したことにより海上労働証書等の再交付を受けた後、その滅失した海上労働証書等を発見したとき。"
+                        }
+                      }
+                    },
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "5",
+                      "ItemTitle": "五",
+                      "ItemSentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "前各号に掲げる場合のほか、船舶が海上労働証書等を受有することを要しなくなったとき。"
+                        }
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "21",
+                "ArticleCaption": "（海上労働証書の裏書）",
+                "ArticleTitle": "第二十一条",
+                "Paragraph": {
+                  "@Hide": "false",
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "船舶所在地官庁又は登録検査機関は、中間検査の結果、法第百条の三第一項各号に掲げる要件の全てに適合すると認める場合は、当該海上労働証書の裏面に当該検査に合格した旨を記載するものとする。"
+                    }
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "4",
+            "ChapterTitle": "第四章　雑則",
+            "Article": [
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "22",
+                "ArticleCaption": "（再検査）",
+                "ArticleTitle": "第二十二条",
+                "Paragraph": {
+                  "@Hide": "false",
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "法第百条の九の規定による再検査を申請しようとする者は、検査に対する不服の事項及びその理由を記載した再検査申請書を当該検査を行った船舶所在地官庁を経由して国土交通大臣に提出しなければならない。"
+                    }
+                  }
+                }
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "23",
+                "ArticleCaption": "（報告）",
+                "ArticleTitle": "第二十三条",
+                "Paragraph": {
+                  "@Hide": "false",
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "船舶所有者は、海上労働遵守措置認定書の記載事項に変更を生じた場合は、速やかに、当該変更の内容を船舶所在地官庁に報告しなければならない。"
+                    }
+                  }
+                }
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "24",
+                "ArticleCaption": "（在勤官署の所在地）",
+                "ArticleTitle": "第二十四条",
+                "Paragraph": {
+                  "@Hide": "false",
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "船員法関係手数料令第九号イ（２）の旅費の額に相当する額（次条において「旅費相当額」という。）を計算する場合において、当該検査のため、その地に出張する職員の国家公務員等の旅費に関する法律（昭和二十五年法律第百十四号。次条において「旅費法」という。）第二条第一項第六号の在勤官署の所在地は、東京都千代田区霞が関二丁目一番三号とする。"
+                    }
+                  }
+                }
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "25",
+                "ArticleCaption": "（旅費の額の計算に係る細目）",
+                "ArticleTitle": "第二十五条",
+                "Paragraph": [
+                  {
+                    "@Hide": "false",
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "旅費法第六条第一項の支度料は、旅費相当額に算入しない。"
+                      }
+                    }
+                  },
+                  {
+                    "@Hide": "false",
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "検査を実施する日数は、当該検査に係る船舶ごとに三日として旅費相当額を計算する。"
+                      }
+                    }
+                  },
+                  {
+                    "@Hide": "false",
+                    "@Num": "3",
+                    "ParagraphNum": "３",
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "旅費法第六条第一項の旅行雑費は、一万円として旅費相当額を計算する。"
+                      }
+                    }
+                  },
+                  {
+                    "@Hide": "false",
+                    "@Num": "4",
+                    "ParagraphNum": "４",
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "国土交通大臣が、旅費法第四十六条第一項の規定により、実費を超えることとなる部分又は必要としない部分の旅費を支給しないときは、当該部分に相当する額は、旅費相当額に算入しない。"
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "26",
+                "ArticleCaption": "（権限の委任）",
+                "ArticleTitle": "第二十六条",
+                "Paragraph": [
+                  {
+                    "@Hide": "false",
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "法第百条の二第一項、第百条の三第一項、第百条の四並びに第百条の六第一項及び第三項に規定する国土交通大臣の権限は、船舶の所在地を管轄する地方運輸局長（当該船舶が本邦外にある場合にあっては関東運輸局長。以下この条において同じ。）が行う。"
+                      }
+                    }
+                  },
+                  {
+                    "@Hide": "false",
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "法第百条の五及び第百条の十に規定する国土交通大臣の権限は、船舶の所在地を管轄する地方運輸局長も行うことができる。"
+                      }
+                    }
+                  },
+                  {
+                    "@Hide": "false",
+                    "@Num": "3",
+                    "ParagraphNum": "３",
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "第一項の規定により船舶の所在地を管轄する地方運輸局長が行うこととされた権限は、当該船舶の所在地が運輸支局等の管轄区域に存する場合は、当該所在地を管轄する運輸支局長等が行う。"
+                      }
+                    }
+                  },
+                  {
+                    "@Hide": "false",
+                    "@Num": "4",
+                    "ParagraphNum": "４",
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "第二項の規定により船舶の所在地を管轄する地方運輸局長が行うことができるとされた権限は、当該船舶の所在地が運輸支局等の管轄区域内に存する場合は、当該所在地を管轄する運輸支局長等も行うことができる。"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "SupplProvision": [
+        {
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この省令は、二千六年の海上の労働に関する条約が日本国について効力を生ずる日から施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成二八年三月三一日国土交通省令第三八号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この省令は、平成二十八年四月一日から施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成二九年九月二九日国土交通省令第五五号",
+          "@Extract": "true",
+          "@Type": "Amend",
+          "SupplProvisionLabel": "附　則",
+          "Article": [
+            {
+              "@Delete": "false",
+              "@Hide": "false",
+              "@Num": "1",
+              "ArticleCaption": "（施行期日）",
+              "ArticleTitle": "第一条",
+              "Paragraph": {
+                "@Hide": "false",
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": [
+                    {
+                      "@Function": "main",
+                      "@Num": "1",
+                      "@WritingMode": "vertical",
+                      "#text": "この省令は、海上運送法及び船員法の一部を改正する法律（以下「改正法」という。）の施行の日（平成二十九年十月一日）から施行する。"
+                    },
+                    {
+                      "@Function": "proviso",
+                      "@Num": "2",
+                      "@WritingMode": "vertical",
+                      "#text": "ただし、第七条の改正規定は、改正法附則第一条第二号に掲げる規定の施行の日から施行する。"
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "@Delete": "false",
+              "@Hide": "false",
+              "@Num": "5",
+              "ArticleTitle": "第五条",
+              "Paragraph": {
+                "@Hide": "false",
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "第七条の規定による改正前の船員の労働条件等の検査等に関する規則第八号様式による海上労働遵守措置認定書は、その有効期間内に限り、同条の改正規定の施行後も、なおその効力を有するものとする。"
+                  }
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@AmendLawNum": "平成三〇年六月一五日国土交通省令第四九号",
+          "@Extract": "true",
+          "@Type": "Amend",
+          "SupplProvisionLabel": "附　則",
+          "Article": [
+            {
+              "@Delete": "false",
+              "@Hide": "false",
+              "@Num": "1",
+              "ArticleCaption": "（施行期日）",
+              "ArticleTitle": "第一条",
+              "Paragraph": {
+                "@Hide": "false",
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": [
+                    {
+                      "@Function": "main",
+                      "@Num": "1",
+                      "@WritingMode": "vertical",
+                      "#text": "この省令は、海上運送法及び船員法の一部を改正する法律（以下「改正法」という。）附則第一条第三号に掲げる規定の施行の日（以下「施行日」という。）から施行する。"
+                    },
+                    {
+                      "@Function": "proviso",
+                      "@Num": "2",
+                      "@WritingMode": "vertical",
+                      "#text": "ただし、第三条の改正規定は、改正法附則第一条第四号に掲げる規定の施行の日から施行する。"
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "@Delete": "false",
+              "@Hide": "false",
+              "@Num": "4",
+              "ArticleCaption": "（海上労働証書に関する経過措置）",
+              "ArticleTitle": "第四条",
+              "Paragraph": {
+                "@Hide": "false",
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "第三条の規定による改正前の船員の労働条件等の検査等に関する規則第四号様式による海上労働証書は、その有効期間内に限り、同条の改正規定の施行後も、なおその効力を有するものとする。"
+                  }
+                }
+              }
+            }
+          ]
+        }
+      ],
+      "AppdxStyle": [
+        {
+          "AppdxStyleTitle": {
+            "@WritingMode": "vertical",
+            "#text": "第一号様式"
+          },
+          "RelatedArticleNum": "（第三条関係）",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/H25F16001000032_1903281903_001.pdf"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": {
+            "@WritingMode": "vertical",
+            "#text": "第二号様式"
+          },
+          "RelatedArticleNum": "（第四条関係）",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/H25F16001000032_1903281903_002.pdf"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": {
+            "@WritingMode": "vertical",
+            "#text": "第三号様式"
+          },
+          "RelatedArticleNum": "（第四条関係）",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/H25F16001000032_1903281903_003.pdf"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": {
+            "@WritingMode": "vertical",
+            "#text": "第四号様式"
+          },
+          "RelatedArticleNum": "（第十一条関係）",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/H25F16001000032_1903281903_004.pdf"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": {
+            "@WritingMode": "vertical",
+            "#text": "第五号様式"
+          },
+          "RelatedArticleNum": "（第十二条関係）",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/H25F16001000032_1903281903_005.pdf"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": {
+            "@WritingMode": "vertical",
+            "#text": "第六号様式"
+          },
+          "RelatedArticleNum": "（第十四条関係）",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/H25F16001000032_1903281903_006.pdf"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": {
+            "@WritingMode": "vertical",
+            "#text": "第七号様式"
+          },
+          "RelatedArticleNum": "（第十五条関係）",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/H25F16001000032_1903281903_007.pdf"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": {
+            "@WritingMode": "vertical",
+            "#text": "第八号様式"
+          },
+          "RelatedArticleNum": "（第十六条関係）",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/H25F16001000032_1903281903_008.pdf"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": {
+            "@WritingMode": "vertical",
+            "#text": "第九号様式"
+          },
+          "RelatedArticleNum": "（第十八条関係）",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/H25F16001000032_1903281903_009.pdf"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": {
+            "@WritingMode": "vertical",
+            "#text": "第十号様式"
+          },
+          "RelatedArticleNum": "（第十九条関係）",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/H25F16001000032_1903281903_010.pdf"
+              }
+            }
+          }
+        }
+      ]
+    }
+  }
+}

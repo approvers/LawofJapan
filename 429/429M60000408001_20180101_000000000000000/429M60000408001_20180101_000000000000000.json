@@ -1,0 +1,661 @@
+{
+  "Law": {
+    "@Era": "Heisei",
+    "@Lang": "ja",
+    "@LawType": "MinisterialOrdinance",
+    "@Num": "001",
+    "@Year": "29",
+    "LawNum": "平成二十九年総務省・経済産業省令第一号",
+    "LawBody": {
+      "LawTitle": "電子委任状の普及の促進に関する法律施行規則",
+      "EnactStatement": "電子委任状の普及の促進に関する法律（平成二十九年法律第六十四号）の規定に基づき、及び同法を実施するため、電子委任状の普及の促進に関する法律施行規則を次のように定める。",
+      "MainProvision": {
+        "Article": [
+          {
+            "@Num": "1",
+            "ArticleCaption": "（用語）",
+            "ArticleTitle": "第一条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "この規則において使用する用語は、電子委任状の普及の促進に関する法律（以下「法」という。）において使用する用語の例による。"
+              }
+            }
+          },
+          {
+            "@Num": "2",
+            "ArticleCaption": "（特定電子委任状の要件となる措置）",
+            "ArticleTitle": "第二条",
+            "Paragraph": [
+              {
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": "法第二条第四項第一号イの主務省令で定めるものは、次の各号に掲げるものとする。"
+                },
+                "Item": [
+                  {
+                    "@Num": "1",
+                    "ItemTitle": "一",
+                    "ItemSentence": {
+                      "Sentence": "商業登記法（昭和三十八年法律第百二十五号）第十二条の二第一項及び第三項の規定により証明されるもの"
+                    }
+                  },
+                  {
+                    "@Num": "2",
+                    "ItemTitle": "二",
+                    "ItemSentence": {
+                      "Sentence": "電子署名等に係る地方公共団体情報システム機構の認証業務に関する法律（平成十四年法律第百五十三号）第三条第六項の規定に基づき地方公共団体情報システム機構が発行した署名用電子証明書により証明されるもの"
+                    }
+                  }
+                ]
+              },
+              {
+                "@Num": "2",
+                "ParagraphNum": "２",
+                "ParagraphSentence": {
+                  "Sentence": "法第二条第四項第一号ロの主務省令で定める措置は、次の各号のいずれかの措置をいう。"
+                },
+                "Item": [
+                  {
+                    "@Num": "1",
+                    "ItemTitle": "一",
+                    "ItemSentence": {
+                      "Sentence": "電子委任状取扱業務を営む者（以下「電子委任状取扱事業者」という。）が、委任者の委託を受けて、電子委任状の内容を受任者の電子証明書（受任者が電子署名を行ったものであることを確認するために用いられる事項が当該受任者に係るものであることを証明するために作成する電磁的記録をいう。次号において同じ。）に記録する場合において、当該電子証明書に行う電子署名及び認証業務に関する法律施行規則（平成十三年総務省・法務省・経済産業省令第二号）第二条に定める基準に該当する電子署名その他これに準ずる措置"
+                    }
+                  },
+                  {
+                    "@Num": "2",
+                    "ItemTitle": "二",
+                    "ItemSentence": {
+                      "Sentence": "電子委任状取扱事業者が、委任者の委託を受けて、電子委任状の内容を受任者の電子証明書とは別の電磁的記録に記録する場合において、当該電磁的記録に行う電子署名その他これに準ずる措置"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "@Num": "3",
+            "ArticleCaption": "（認定の申請等）",
+            "ArticleTitle": "第三条",
+            "Paragraph": [
+              {
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": "法第五条第二項の申請書は、様式第一の認定申請書によるものとする。"
+                }
+              },
+              {
+                "@Num": "2",
+                "ParagraphNum": "２",
+                "ParagraphSentence": {
+                  "Sentence": "法第五条第二項の主務省令で定める書類は、次に掲げる書類とする。"
+                },
+                "Item": [
+                  {
+                    "@Num": "1",
+                    "ItemTitle": "一",
+                    "ItemSentence": {
+                      "Sentence": "定款及び登記事項証明書又はこれらに準ずるもの"
+                    }
+                  },
+                  {
+                    "@Num": "2",
+                    "ItemTitle": "二",
+                    "ItemSentence": {
+                      "Sentence": "法第五条第二項第三号イからニまでに掲げる場合に該当する場合において、別表の上欄に掲げる場合に応じて、それぞれ同表の下欄に掲げる書類（前号の書類を除く。）"
+                    }
+                  },
+                  {
+                    "@Num": "3",
+                    "ItemTitle": "三",
+                    "ItemSentence": {
+                      "Sentence": "法第五条第三項各号の規定に該当していることを説明した書類"
+                    }
+                  },
+                  {
+                    "@Num": "4",
+                    "ItemTitle": "四",
+                    "ItemSentence": {
+                      "Sentence": "申請者が法第五条第四項各号の規定に該当しないことを説明した書類"
+                    }
+                  }
+                ]
+              },
+              {
+                "@Num": "3",
+                "ParagraphNum": "３",
+                "ParagraphSentence": {
+                  "Sentence": "主務大臣は、法第五条第一項の認定をしたときは、認定年月日及び認定番号を申請者に通知するものとする。"
+                }
+              }
+            ]
+          },
+          {
+            "@Num": "4",
+            "ArticleCaption": "（認定の更新の申請）",
+            "ArticleTitle": "第四条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": [
+                  {
+                    "@Function": "main",
+                    "@Num": "1",
+                    "#text": "認定電子委任状取扱事業者は、法第六条第一項の認定の更新を受けようとするときは、現に受けている認定の有効期間が満了する日の三十日前までに、様式第一の更新申請書に前条第二項各号に掲げる書類を添付して、主務大臣に提出しなければならない。"
+                  },
+                  {
+                    "@Function": "proviso",
+                    "@Num": "2",
+                    "#text": "ただし、既に主務大臣に提出されているその書類の内容に変更がないときは、当該書類の添付を省略することができる。"
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "@Num": "5",
+            "ArticleCaption": "（電子委任状取扱業務の承継）",
+            "ArticleTitle": "第五条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "法第七条第二項の規定により認定電子委任状取扱事業者の地位の承継の届出をしようとする者は、様式第二の承継届出書に次に掲げる書類を添付して、これを主務大臣に提出しなければならない。"
+              },
+              "Item": [
+                {
+                  "@Num": "1",
+                  "ItemTitle": "一",
+                  "ItemSentence": {
+                    "Sentence": "法第七条第一項の規定により認定に係る電子委任状取扱業務を行う事業の全部を譲り受けて認定電子委任状取扱事業者の地位を承継した者にあっては、様式第三の譲渡証明書及び事業の全部の譲渡しがあったことを証する書面"
+                  }
+                },
+                {
+                  "@Num": "2",
+                  "ItemTitle": "二",
+                  "ItemSentence": {
+                    "Sentence": "法第七条第一項の規定により認定電子委任状取扱事業者の地位を承継した相続人であって、二以上の相続人の全員の同意により選定された者にあっては、様式第四の相続同意証明書及び戸籍謄本"
+                  }
+                },
+                {
+                  "@Num": "3",
+                  "ItemTitle": "三",
+                  "ItemSentence": {
+                    "Sentence": "法第七条第一項の規定により認定電子委任状取扱事業者の地位を承継した相続人であって、前号の相続人以外の者にあっては、様式第五の相続証明書及び戸籍謄本"
+                  }
+                },
+                {
+                  "@Num": "4",
+                  "ItemTitle": "四",
+                  "ItemSentence": {
+                    "Sentence": "法第七条第一項の規定により合併によって認定電子委任状取扱事業者の地位を承継した法人にあっては、その法人の登記事項証明書"
+                  }
+                },
+                {
+                  "@Num": "5",
+                  "ItemTitle": "五",
+                  "ItemSentence": {
+                    "Sentence": "法第七条第一項の規定により分割によって認定電子委任状取扱事業者の地位を承継した法人にあっては、様式第六の分割証明書及び事業の全部の承継があったことを証する書面及びその法人の登記事項証明書"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "@Num": "6",
+            "ArticleCaption": "（軽微な変更）",
+            "ArticleTitle": "第六条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "法第八条第一項ただし書の主務省令で定める軽微な変更は、次に掲げる変更以外の変更とする。"
+              },
+              "Item": [
+                {
+                  "@Num": "1",
+                  "ItemTitle": "一",
+                  "ItemSentence": {
+                    "Sentence": "法第二条第四項第一号イ及びロに定める措置の変更"
+                  }
+                },
+                {
+                  "@Num": "2",
+                  "ItemTitle": "二",
+                  "ItemSentence": {
+                    "Sentence": "事業者が法人である場合において、電子委任状に記録された情報が当該電子委任状に委任者として記録された者の作成に係るものであることを確認する方法の変更（電子委任状に委任者として記録された者が法人の代表者である場合にあっては、当該者が当該法人の代表権を有していることを確認する方法を含む。）"
+                  }
+                },
+                {
+                  "@Num": "3",
+                  "ItemTitle": "三",
+                  "ItemSentence": {
+                    "Sentence": "電子委任状取扱業務を適正に行うために必要な情報セキュリティ対策措置の変更"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "@Num": "7",
+            "ArticleCaption": "（変更の認定の申請）",
+            "ArticleTitle": "第七条",
+            "Paragraph": [
+              {
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": "法第八条第二項において読み替えて準用する法第五条第二項の申請書は、様式第七の変更認定申請書によるものとする。"
+                }
+              },
+              {
+                "@Num": "2",
+                "ParagraphNum": "２",
+                "ParagraphSentence": {
+                  "Sentence": "法第八条第二項において読み替えて準用する法第五条第二項の主務省令で定める書類は、次に掲げる書類とする。"
+                },
+                "Item": [
+                  {
+                    "@Num": "1",
+                    "ItemTitle": "一",
+                    "ItemSentence": {
+                      "Sentence": "法第五条第二項第三号イ、ロ及びニに掲げる場合に該当する場合において、別表の上欄に掲げる場合に応じて、それぞれ同表の下欄に掲げる書類"
+                    }
+                  },
+                  {
+                    "@Num": "2",
+                    "ItemTitle": "二",
+                    "ItemSentence": {
+                      "Sentence": "法第五条第三項各号の規定に該当していることを説明した書類"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "@Num": "8",
+            "ArticleCaption": "（変更の届出）",
+            "ArticleTitle": "第八条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "認定電子委任状取扱事業者は、法第八条第三項に規定する届出をするときは、様式第八の変更届出書その他必要な事項を記載した書類を主務大臣に提出しなければならない。"
+              }
+            }
+          },
+          {
+            "@Num": "9",
+            "ArticleCaption": "（廃止の届出）",
+            "ArticleTitle": "第九条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "認定電子委任状取扱事業者は、法第九条第一項に規定する届出をするときは、様式第九の廃止届出書を主務大臣に提出しなければならない。"
+              }
+            }
+          },
+          {
+            "@Num": "10",
+            "ArticleCaption": "（表示を付することができる特定電磁的記録等）",
+            "ArticleTitle": "第十条",
+            "Paragraph": [
+              {
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": "法第十一条第一項の主務省令で定めるものは、次のとおりとする。"
+                },
+                "Item": [
+                  {
+                    "@Num": "1",
+                    "ItemTitle": "一",
+                    "ItemSentence": {
+                      "Sentence": "代表権の確認に関する電磁的記録"
+                    }
+                  },
+                  {
+                    "@Num": "2",
+                    "ItemTitle": "二",
+                    "ItemSentence": {
+                      "Sentence": "電子委任状"
+                    }
+                  },
+                  {
+                    "@Num": "3",
+                    "ItemTitle": "三",
+                    "ItemSentence": {
+                      "Sentence": "電子委任状を閲覧させるためのウェブサイト"
+                    }
+                  },
+                  {
+                    "@Num": "4",
+                    "ItemTitle": "四",
+                    "ItemSentence": {
+                      "Sentence": "電子委任状を送信するための電子メールその他の電磁的記録"
+                    }
+                  },
+                  {
+                    "@Num": "5",
+                    "ItemTitle": "五",
+                    "ItemSentence": {
+                      "Sentence": "電子委任状取扱業務を利用する者（以下「利用者」という。）との契約に係る書類又は電磁的記録"
+                    }
+                  },
+                  {
+                    "@Num": "6",
+                    "ItemTitle": "六",
+                    "ItemSentence": {
+                      "Sentence": "電子委任状取扱業務に関する広告及び宣伝用物品"
+                    }
+                  },
+                  {
+                    "@Num": "7",
+                    "ItemTitle": "七",
+                    "ItemSentence": {
+                      "Sentence": "利用者が電子委任状を扱うために必要な物件その他の利用者に交付する物件"
+                    }
+                  },
+                  {
+                    "@Num": "8",
+                    "ItemTitle": "八",
+                    "ItemSentence": {
+                      "Sentence": "認定電子委任状取扱事業者の営業所、事務所その他の事業場"
+                    }
+                  }
+                ]
+              },
+              {
+                "@Num": "2",
+                "ParagraphNum": "２",
+                "ParagraphSentence": {
+                  "Sentence": "法第十一条第一項の規定による表示は、様式第十又は認定番号により行うものとする。"
+                }
+              }
+            ]
+          },
+          {
+            "@Num": "11",
+            "ArticleCaption": "（公示の方法）",
+            "ArticleTitle": "第十一条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "法第三条第四項、法第五条第五項、法第七条第三項、法第八条第四項、法第九条第二項及び法第十二条第二項の規定による公表及び公示は、インターネットの利用その他の適切な方法により行うものとする。"
+              }
+            }
+          },
+          {
+            "@Num": "12",
+            "ArticleCaption": "（身分証明書）",
+            "ArticleTitle": "第十二条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "法第十三条第二項の証明書は、様式第十一の立入検査証によるものとする。"
+              }
+            }
+          },
+          {
+            "@Num": "13",
+            "ArticleCaption": "（申請書等の提出の方法）",
+            "ArticleTitle": "第十三条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "法又はこの省令の規定による主務大臣に対する申請書等の提出は、総務大臣又は経済産業大臣のいずれかに、正本一通及び副本一通（第三条第二項第二号及び第七条第二項第一号に掲げる書類にあっては、正本一通）を提出することにより行うことができる。"
+              }
+            }
+          }
+        ]
+      },
+      "SupplProvision": {
+        "SupplProvisionLabel": "附　則",
+        "Paragraph": {
+          "@Num": "1",
+          "ParagraphNum": null,
+          "ParagraphSentence": {
+            "Sentence": "この省令は、法の施行の日（平成三十年一月一日）から施行する。"
+          }
+        }
+      },
+      "AppdxTable": {
+        "AppdxTableTitle": "別表",
+        "TableStruct": {
+          "Table": {
+            "TableRow": [
+              {
+                "TableColumn": [
+                  {
+                    "@Align": "center",
+                    "@Valign": "middle",
+                    "Sentence": "場合"
+                  },
+                  {
+                    "@Align": "center",
+                    "@Valign": "middle",
+                    "Sentence": "書類"
+                  }
+                ]
+              },
+              {
+                "TableColumn": [
+                  {
+                    "@Valign": "top",
+                    "Sentence": "法第五条第二項第三号イの場合"
+                  },
+                  {
+                    "@Valign": "top",
+                    "Sentence": "電気通信事業法施行規則（昭和六十年郵政省令第二十五号。以下「施行規則」という。）様式第一の申請書、施行規則様式第二による誓約書及び施行規則第四条第三項各号に掲げる書類"
+                  }
+                ]
+              },
+              {
+                "TableColumn": [
+                  {
+                    "@Valign": "top",
+                    "@rowspan": "2",
+                    "Sentence": "法第五条第二項第三号ロの場合であって、電気通信事業法（昭和五十九年法律第八十六号。以下「事業法」という。）第十三条第一項の変更登録を受けなければならないとき"
+                  },
+                  {
+                    "@Valign": "top",
+                    "Sentence": "施行規則様式第五の申請書及び施行規則様式第三によるネットワーク構成図（記載事項に変更がある場合に限る。以下同じ。）その他必要な事項を記載した書類"
+                  }
+                ]
+              },
+              {
+                "TableColumn": {
+                  "@Valign": "top",
+                  "Sentence": "事業法第百十七条第一項の認定を受けた者（以下「認定電気通信事業者」という。）については、右欄に掲げる書類にかかわらず、施行規則第五条第二項各号に掲げる場合に応じて当該各号に定める書類及び施行規則様式第三によるネットワーク構成図その他必要な事項を記載した書類"
+                }
+              },
+              {
+                "TableColumn": [
+                  {
+                    "@Valign": "top",
+                    "@rowspan": "2",
+                    "Sentence": "法第五条第二項第三号ロの場合であって、事業法第十三条第四項の届出をしなければならないとき"
+                  },
+                  {
+                    "@Valign": "top",
+                    "Sentence": "施行規則様式第七の届出書及び施行規則様式第三によるネットワーク構成図"
+                  }
+                ]
+              },
+              {
+                "TableColumn": {
+                  "@Valign": "top",
+                  "Sentence": "認定電気通信事業者については、右欄に掲げる書類にかかわらず、施行規則第八条第二項各号に掲げる場合に応じて当該各号に定める書類及び施行規則様式第三によるネットワーク構成図"
+                }
+              },
+              {
+                "TableColumn": [
+                  {
+                    "@Valign": "top",
+                    "Sentence": "法第五条第二項第三号ハの場合"
+                  },
+                  {
+                    "@Valign": "top",
+                    "Sentence": "施行規則様式第八の届出書及び施行規則第九条第一項各号に掲げる書類"
+                  }
+                ]
+              },
+              {
+                "TableColumn": [
+                  {
+                    "@Valign": "top",
+                    "@rowspan": "2",
+                    "Sentence": "法第五条第二項第三号ニの場合"
+                  },
+                  {
+                    "@Valign": "top",
+                    "Sentence": "施行規則様式第九の届出書、施行規則様式第三によるネットワーク構成図及び事業法第九条第二号に掲げる場合に該当する旨を確認できる書類（同号に掲げる場合に該当する場合に限る。以下同じ。）"
+                  }
+                ]
+              },
+              {
+                "TableColumn": {
+                  "@Valign": "top",
+                  "Sentence": "認定電気通信事業者については、右欄に掲げる書類にかかわらず、施行規則第九条第四項各号に掲げる場合に応じて当該各号に定める書類、施行規則様式第三によるネットワーク構成図及び事業法第九条第二号に掲げる場合に該当する旨を確認できる書類"
+                }
+              }
+            ]
+          }
+        }
+      },
+      "AppdxStyle": [
+        {
+          "AppdxStyleTitle": "様式第１",
+          "RelatedArticleNum": "（第３条第１項及び第４条関係）",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/H29F110150001_001.pdf"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": "様式第２",
+          "RelatedArticleNum": "（第５条関係）",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/H29F110150001_002.pdf"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": "様式第３",
+          "RelatedArticleNum": "（第５条第１号関係）",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/H29F110150001_003.pdf"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": "様式第４",
+          "RelatedArticleNum": "（第５条第２号関係）",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/H29F110150001_004.pdf"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": "様式第５",
+          "RelatedArticleNum": "（第５条第３号関係）",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/H29F110150001_005.pdf"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": "様式第６",
+          "RelatedArticleNum": "（第５条第５号関係）",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/H29F110150001_006.pdf"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": "様式第７",
+          "RelatedArticleNum": "（第７条第１項関係）",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/H29F110150001_007.pdf"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": "様式第８",
+          "RelatedArticleNum": "（第８条関係）",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/H29F110150001_008.pdf"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": "様式第９",
+          "RelatedArticleNum": "（第９条関係）",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/H29F110150001_009.pdf"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": "様式第１０",
+          "RelatedArticleNum": "（第１０条第２項関係）",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/H29F110150001_010.pdf"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": "様式第１１",
+          "RelatedArticleNum": "（第１２条関係）",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/H29F110150001_011.pdf"
+              }
+            }
+          }
+        }
+      ]
+    }
+  }
+}

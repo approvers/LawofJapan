@@ -1,0 +1,871 @@
+{
+  "Law": {
+    "@Era": "Showa",
+    "@Lang": "ja",
+    "@LawType": "MinisterialOrdinance",
+    "@Num": "5",
+    "@Year": "27",
+    "LawNum": "昭和二十七年文部省令第五号",
+    "LawBody": {
+      "LawTitle": "学校保健統計調査規則",
+      "EnactStatement": "統計法（昭和二十二年法律第十八号）第三条第二項の規定に基き、学校衛生統計調査規則を次のように定める。",
+      "MainProvision": {
+        "Article": [
+          {
+            "@Num": "1",
+            "ArticleCaption": "（趣旨）",
+            "ArticleTitle": "第一条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "統計法（平成十九年法律第五十三号）第二条第四項に規定する基幹統計である学校保健統計を作成するための調査（以下「学校保健統計調査」という。）の実施に関しては、統計法施行令（平成二十年政令第三百三十四号。以下「令」という。）第四条第一項に定めるもののほか、この省令の定めるところによる。"
+              }
+            }
+          },
+          {
+            "@Num": "2",
+            "ArticleCaption": "（調査の目的）",
+            "ArticleTitle": "第二条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "学校保健統計調査は、学校における幼児、児童、生徒、学生及び職員の発育及び健康の状態並びに健康診断の実施状況及び保健設備の状況を明らかにすることを目的とする。"
+              }
+            }
+          },
+          {
+            "@Num": "3",
+            "ArticleCaption": "（定義）",
+            "ArticleTitle": "第三条",
+            "Paragraph": [
+              {
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": "この省令で「学校」とは、学校教育法（昭和二十二年法律第二十六号）第一条に定める学校及び就学前の子どもに関する教育、保育等の総合的な提供の推進に関する法律（平成十八年法律第七十七号）第二条第七項に定める幼保連携型認定こども園をいう。"
+                }
+              },
+              {
+                "@Num": "2",
+                "ParagraphNum": "２",
+                "ParagraphSentence": {
+                  "Sentence": "この省令で「職員」とは、学校保健安全法（昭和三十三年法律第五十六号）第十五条に定める学校の職員（ただし、事務職員及び技術職員等のうち、非常勤の者を除く。）をいう。"
+                }
+              }
+            ]
+          },
+          {
+            "@Num": "4",
+            "ArticleCaption": "（調査の範囲）",
+            "ArticleTitle": "第四条",
+            "Paragraph": [
+              {
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": "学校保健統計調査は、次の各号に掲げる学校の幼児、児童、生徒、学生及び職員の全部又は一部について、それぞれ、当該各号に定める年に行う。"
+                },
+                "Item": [
+                  {
+                    "@Num": "1",
+                    "ItemTitle": "一",
+                    "ItemSentence": {
+                      "Column": [
+                        {
+                          "@Num": "1",
+                          "Sentence": "幼稚園、小学校、中学校、義務教育学校、高等学校、中等教育学校及び幼保連携型認定こども園"
+                        },
+                        {
+                          "@Num": "2",
+                          "Sentence": "毎年"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "@Num": "2",
+                    "ItemTitle": "二",
+                    "ItemSentence": {
+                      "Column": [
+                        {
+                          "@Num": "1",
+                          "Sentence": "特別支援学校、大学及び高等専門学校"
+                        },
+                        {
+                          "@Num": "2",
+                          "Sentence": "文部科学大臣が指定する年"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "@Num": "2",
+                "ParagraphNum": "２",
+                "ParagraphSentence": {
+                  "Sentence": "前項の規定により、幼児、児童、生徒、学生及び職員の一部について調査を実施するときは、文部科学大臣は、あらかじめ当該調査につき、実施校を指定する。"
+                }
+              },
+              {
+                "@Num": "3",
+                "ParagraphNum": "３",
+                "ParagraphSentence": {
+                  "Sentence": "令別表第五の第三欄第一号の文部科学省令で定める都道府県知事が選定すべき報告義務者は、大学及び高等専門学校以外の学校に係る者とする。"
+                }
+              },
+              {
+                "@Num": "4",
+                "ParagraphNum": "４",
+                "ParagraphSentence": {
+                  "Sentence": "都道府県知事は、報告義務者を選定した場合には、第二項の指定に関して必要な学校名簿その他の資料を文部科学大臣が別に定めるところにより作成し、文部科学大臣が別に定める期日までに文部科学大臣に提出するものとする。"
+                }
+              }
+            ]
+          },
+          {
+            "@Num": "5",
+            "ArticleCaption": "（調査方法及び調査事項）",
+            "ArticleTitle": "第五条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "学校保健統計調査は、次に掲げる事項の全部又は一部について行う。"
+              },
+              "Item": [
+                {
+                  "@Num": "1",
+                  "ItemTitle": "一",
+                  "ItemSentence": {
+                    "Sentence": "幼児、児童、生徒及び学生"
+                  },
+                  "Subitem1": [
+                    {
+                      "@Num": "1",
+                      "Subitem1Title": "１",
+                      "Subitem1Sentence": {
+                        "Sentence": "身長、体重、胸囲及び座高"
+                      }
+                    },
+                    {
+                      "@Num": "2",
+                      "Subitem1Title": "２",
+                      "Subitem1Sentence": {
+                        "Sentence": "栄養状態"
+                      }
+                    },
+                    {
+                      "@Num": "3",
+                      "Subitem1Title": "３",
+                      "Subitem1Sentence": {
+                        "Sentence": "脊柱及び胸郭の疾病及び異常の有無並びに四肢の状態"
+                      }
+                    },
+                    {
+                      "@Num": "4",
+                      "Subitem1Title": "４",
+                      "Subitem1Sentence": {
+                        "Sentence": "視力、色覚及び聴力"
+                      }
+                    },
+                    {
+                      "@Num": "5",
+                      "Subitem1Title": "５",
+                      "Subitem1Sentence": {
+                        "Sentence": "眼の疾病及び異常の有無"
+                      }
+                    },
+                    {
+                      "@Num": "6",
+                      "Subitem1Title": "６",
+                      "Subitem1Sentence": {
+                        "Sentence": {
+                          "Ruby": {
+                            "Rt": "いん",
+                            "#text": "咽"
+                          },
+                          "#text": "耳鼻頭疾患及び皮膚疾患の有無"
+                        }
+                      }
+                    },
+                    {
+                      "@Num": "7",
+                      "Subitem1Title": "７",
+                      "Subitem1Sentence": {
+                        "Sentence": {
+                          "Ruby": {
+                            "Rt": "くう",
+                            "#text": "腔"
+                          },
+                          "#text": "歯及び口の疾病及び異常の有無"
+                        }
+                      }
+                    },
+                    {
+                      "@Num": "8",
+                      "Subitem1Title": "８",
+                      "Subitem1Sentence": {
+                        "Sentence": "結核の有無"
+                      }
+                    },
+                    {
+                      "@Num": "9",
+                      "Subitem1Title": "９",
+                      "Subitem1Sentence": {
+                        "Sentence": "心臓の疾病及び異常の有無"
+                      }
+                    },
+                    {
+                      "@Num": "10",
+                      "Subitem1Title": "１０",
+                      "Subitem1Sentence": {
+                        "Sentence": "尿"
+                      }
+                    },
+                    {
+                      "@Num": "11",
+                      "Subitem1Title": "１１",
+                      "Subitem1Sentence": {
+                        "Sentence": "寄生虫卵の有無"
+                      }
+                    },
+                    {
+                      "@Num": "12",
+                      "Subitem1Title": "１２",
+                      "Subitem1Sentence": {
+                        "Sentence": "その他の疾病及び異常の有無"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "@Num": "2",
+                  "ItemTitle": "二",
+                  "ItemSentence": {
+                    "Sentence": "職員"
+                  },
+                  "Subitem1": [
+                    {
+                      "@Num": "1",
+                      "Subitem1Title": "１",
+                      "Subitem1Sentence": {
+                        "Sentence": "身長及び体重"
+                      }
+                    },
+                    {
+                      "@Num": "2",
+                      "Subitem1Title": "２",
+                      "Subitem1Sentence": {
+                        "Sentence": "視力、色覚及び聴力"
+                      }
+                    },
+                    {
+                      "@Num": "3",
+                      "Subitem1Title": "３",
+                      "Subitem1Sentence": {
+                        "Sentence": "結核の有無"
+                      }
+                    },
+                    {
+                      "@Num": "4",
+                      "Subitem1Title": "４",
+                      "Subitem1Sentence": {
+                        "Sentence": "血圧"
+                      }
+                    },
+                    {
+                      "@Num": "5",
+                      "Subitem1Title": "５",
+                      "Subitem1Sentence": {
+                        "Sentence": "尿"
+                      }
+                    },
+                    {
+                      "@Num": "6",
+                      "Subitem1Title": "６",
+                      "Subitem1Sentence": {
+                        "Sentence": "胃の疾病及び異常の有無"
+                      }
+                    },
+                    {
+                      "@Num": "7",
+                      "Subitem1Title": "７",
+                      "Subitem1Sentence": {
+                        "Sentence": "その他の疾病及び異常の有無"
+                      }
+                    },
+                    {
+                      "@Num": "8",
+                      "Subitem1Title": "８",
+                      "Subitem1Sentence": {
+                        "Sentence": "疾病又は心身の異常による休職又は長期欠勤の者の数"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "@Num": "3",
+                  "ItemTitle": "三",
+                  "ItemSentence": {
+                    "Sentence": "健康診断の実施状況及び保健設備"
+                  },
+                  "Subitem1": [
+                    {
+                      "@Num": "1",
+                      "Subitem1Title": "１",
+                      "Subitem1Sentence": {
+                        "Sentence": "受検者数"
+                      }
+                    },
+                    {
+                      "@Num": "2",
+                      "Subitem1Title": "２",
+                      "Subitem1Sentence": {
+                        "Sentence": {
+                          "Ruby": {
+                            "Rt": "いん",
+                            "#text": "咽"
+                          },
+                          "#text": "歯牙、眼及び耳鼻頭検査についての専門医の実施状況"
+                        }
+                      }
+                    },
+                    {
+                      "@Num": "3",
+                      "Subitem1Title": "３",
+                      "Subitem1Sentence": {
+                        "Sentence": "Ｘ線検査、ツベルクリン皮内反応検査、ＢＣＧ接種及び寄生虫卵保有検査の実施状況"
+                      }
+                    },
+                    {
+                      "@Num": "4",
+                      "Subitem1Title": "４",
+                      "Subitem1Sentence": {
+                        "Sentence": "計測器具その他の保健設備の種類及び個数"
+                      }
+                    },
+                    {
+                      "@Num": "5",
+                      "Subitem1Title": "２",
+                      "Subitem1Sentence": {
+                        "Sentence": "前項第一号及び同項第二号１から７までの調査は、学校保健安全法による健康診断の結果に基づいて行う。"
+                      }
+                    },
+                    {
+                      "@Num": "6",
+                      "Subitem1Title": "３",
+                      "Subitem1Sentence": {
+                        "Sentence": "第一項の調査事項の細目は、文部科学大臣が別に定める調査票に記載するところによる。"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          },
+          {
+            "@Num": "6",
+            "ArticleCaption": "（報告の義務及び方法等）",
+            "ArticleTitle": "第六条",
+            "Paragraph": [
+              {
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": "学校の長は、前条第一項各号に掲げる調査事項について次の各号の区分により、文部科学大臣が直接又は都道府県知事を通じて配布する調査票によつて報告しなければならない。"
+                },
+                "Item": [
+                  {
+                    "@Num": "1",
+                    "ItemTitle": "一",
+                    "ItemSentence": {
+                      "Sentence": "大学及び高等専門学校の長は、前条第一項各号の事項"
+                    }
+                  },
+                  {
+                    "@Num": "2",
+                    "ItemTitle": "二",
+                    "ItemSentence": {
+                      "Sentence": "公立の学校（大学及び高等専門学校を除く。）の長は前条第一項第一号及び第三号の事項、国立大学法人法（平成十五年法律第百十二号）第二十三条の規定により国立大学に附属して設置される学校並びに地方独立行政法人法（平成十五年法律第百十八号）第七十七条の二第一項の規定により公立大学法人（同法第六十八条第一項に規定する公立大学法人をいう。次条において同じ。）が設置する大学に附属して設置される学校並びに私立の大学及び高等専門学校以外の私立の学校の長は同項各号の事項"
+                    }
+                  }
+                ]
+              },
+              {
+                "@Num": "2",
+                "ParagraphNum": "２",
+                "ParagraphSentence": {
+                  "Sentence": "前項の報告は、調査票に所定の事項を記入し、記名の上、次の各号の区分によりこれを提出することによつて行うものとする。"
+                },
+                "Item": [
+                  {
+                    "@Num": "1",
+                    "ItemTitle": "一",
+                    "ItemSentence": {
+                      "Sentence": "大学及び高等専門学校の長は、文部科学大臣が別に定める期日までに文部科学大臣に提出する。"
+                    }
+                  },
+                  {
+                    "@Num": "2",
+                    "ItemTitle": "二",
+                    "ItemSentence": {
+                      "Sentence": "大学及び高等専門学校以外の学校の長は、都道府県知事の定める期日までに都道府県知事に提出する。"
+                    }
+                  }
+                ]
+              },
+              {
+                "@Num": "3",
+                "ParagraphNum": "３",
+                "ParagraphSentence": {
+                  "Sentence": "行政手続等における情報通信の技術の利用に関する法律（平成十四年法律第百五十一号）第三条第一項の規定により同項に規定する電子情報処理組織を使用して第一項の報告をする場合は、文部科学省関係の行政手続等における情報通信の技術の利用に関する省令（平成十五年文部科学省令第九号）第三条第三項及び第五条第一項の規定中電子証明書に関する規定は、適用しない。"
+                }
+              }
+            ]
+          },
+          {
+            "@Num": "7",
+            "ArticleCaption": "（調査票の作成）",
+            "ArticleTitle": "第七条",
+            "Paragraph": [
+              {
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": "令別表第五の第四欄第一号の文部科学省令で定める都道府県の教育委員会が作成すべき調査票は、当該都道府県の設置する大学、高等専門学校及び幼保連携型認定こども園以外の学校（当該都道府県が単独で又は他の地方公共団体と共同して設立する公立大学法人の設置する学校を含む。）について第五条第一項第二号の事項に関するものとする。"
+                }
+              },
+              {
+                "@Num": "2",
+                "ParagraphNum": "２",
+                "ParagraphSentence": {
+                  "Sentence": "令別表第五の第五欄第一号の文部科学省令で定める市町村の教育委員会が作成すべき調査票は、当該市町村の設置する大学、高等専門学校及び幼保連携型認定こども園以外の学校（当該市町村が単独で又は他の市町村と共同して設立する公立大学法人の設置する学校を含む。）について第五条第一項第二号の事項に関するものとする。"
+                }
+              }
+            ]
+          },
+          {
+            "@Num": "8",
+            "ArticleCaption": "（調査票の配布等）",
+            "ArticleTitle": "第八条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "令別表第五の第三欄第二号の文部科学省令で定める都道府県知事が調査すべき学校は、大学及び高等専門学校以外の学校とする。"
+              }
+            }
+          },
+          {
+            "@Num": "9",
+            "ArticleCaption": "（調査票の提出）",
+            "ArticleTitle": "第九条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "令別表第五の第三欄第九号に規定する文部科学大臣に対する調査票その他関係書類の提出は、文部科学大臣が別に定める期日までに行うものとする。"
+              }
+            }
+          },
+          {
+            "@Num": "10",
+            "ArticleCaption": "（調査結果の公表）",
+            "ArticleTitle": "第十条",
+            "Paragraph": [
+              {
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": "文部科学大臣は、調査票の審査及び集計を行い、その結果を速やかに公表するものとする。"
+                }
+              },
+              {
+                "@Num": "2",
+                "ParagraphNum": "２",
+                "ParagraphSentence": {
+                  "Sentence": [
+                    {
+                      "@Function": "main",
+                      "@Num": "1",
+                      "#text": "都道府県知事は、当該都道府県についての学校保健統計調査の結果を文部科学大臣の公表以前に公表することができる。"
+                    },
+                    {
+                      "@Function": "proviso",
+                      "@Num": "2",
+                      "#text": "ただし、この場合においては、文部科学大臣の公表が確定数であることを付記するものとする。"
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "@Num": "11",
+            "ArticleCaption": "（調査票等の保存）",
+            "ArticleTitle": "第十一条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "文部科学大臣は、調査票にあつては文部科学大臣の公表の日から一年間、調査票の内容を記録した電磁的記録（電子的方式、磁気的方式その他人の知覚によつては認識することができない方式で作られた記録をいう。）にあつては永年保存するものとする。"
+              }
+            }
+          }
+        ]
+      },
+      "SupplProvision": [
+        {
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": [
+            {
+              "@Num": "1",
+              "ParagraphNum": "１",
+              "ParagraphSentence": {
+                "Sentence": "この省令は、昭和二十七年四月一日から施行する。"
+              }
+            },
+            {
+              "@Num": "2",
+              "ParagraphNum": "２",
+              "ParagraphSentence": {
+                "Sentence": "学校衛生統計調査規則（昭和二十三年文部省令第八号）は、廃止する。"
+              }
+            },
+            {
+              "@Num": "3",
+              "ParagraphNum": "３",
+              "ParagraphSentence": {
+                "Sentence": "第四条第一項の規定にかかわらず、当分の間、学校の校長及び教員以外の職員は、調査の範囲に加えないものとする。"
+              }
+            }
+          ]
+        },
+        {
+          "@AmendLawNum": "昭和二八年三月二五日文部省令第七号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": "１",
+            "ParagraphSentence": {
+              "Sentence": "この省令は、昭和二十八年四月一日から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "昭和二九年三月三〇日文部省令第五号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この省令は、昭和二十九年四月一日から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "昭和三〇年四月四日文部省令第九号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この省令は、公布の日から施行し、昭和三十年四月一日から適用する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "昭和三四年二月一七日文部省令第二号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この省令は、昭和三十四年四月一日から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "昭和三五年一月二〇日文部省令第二号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この省令は、昭和三十五年四月一日から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "昭和三七年二月三日文部省令第四号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この省令は、公布の日から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "昭和四〇年二月五日文部省令第三号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この省令は、昭和四十年四月一日から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "昭和四五年二月二六日文部省令第二号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この省令は、公布の日から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "昭和四六年二月八日文部省令第三号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この省令は、公布の日から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "昭和四九年二月一八日文部省令第四号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この省令は、公布の日から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "昭和五二年三月一七日文部省令第二号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この省令は、公布の日から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "昭和五八年一月二二日文部省令第一号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この省令は、昭和五十八年一月二十三日から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "昭和五九年五月一七日文部省令第三三号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この省令は、公布の日から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成八年三月二五日文部省令第三号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この省令は、公布の日から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成一〇年一一月一七日文部省令第三八号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": "１",
+            "ParagraphSentence": {
+              "Sentence": "この省令は、平成十一年四月一日から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成一二年三月二七日文部省令第二二号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この省令は、平成十二年四月一日から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成一二年一〇月三一日文部省令第五三号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Article": {
+            "@Num": "1",
+            "ArticleCaption": "（施行期日）",
+            "ArticleTitle": "第一条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "この省令は、内閣法の一部を改正する法律（平成十一年法律第八十八号）の施行の日（平成十三年一月六日）から施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成一六年一月九日文部科学省令第二号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この省令は、平成十六年四月一日から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成一六年九月三〇日文部科学省令第四一号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この省令は、公布の日から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成一九年三月三〇日文部科学省令第五号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Article": {
+            "@Num": "1",
+            "ArticleCaption": "（施行期日）",
+            "ArticleTitle": "第一条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "この省令は、学校教育法等の一部を改正する法律（以下「改正法」という。）の施行の日（平成十九年四月一日）から施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成一九年一二月二五日文部科学省令第四〇号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この省令は、学校教育法等の一部を改正する法律の施行の日（平成十九年十二月二十六日）から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成二一年三月三一日文部科学省令第一〇号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この省令は、平成二十一年四月一日から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成二一年三月三一日文部科学省令第一七号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Article": [
+            {
+              "@Num": "1",
+              "ArticleCaption": "（施行期日）",
+              "ArticleTitle": "第一条",
+              "Paragraph": {
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": "この省令は、統計法の施行の日（平成二十一年四月一日）から施行する。"
+                }
+              }
+            },
+            {
+              "@Num": "3",
+              "ArticleCaption": "（学校保健統計調査規則の一部改正に伴う経過措置）",
+              "ArticleTitle": "第三条",
+              "Paragraph": {
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": "第二条の規定による改正前の学校保健統計調査規則第十一条の規定により作成された電磁的記録の保存については、なお従前の例による。"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@AmendLawNum": "平成二八年一月二五日文部科学省令第一号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": [
+                {
+                  "@Function": "main",
+                  "@Num": "1",
+                  "#text": "この省令は、公布の日から施行する。"
+                },
+                {
+                  "@Function": "proviso",
+                  "@Num": "2",
+                  "#text": "ただし、第五条第一項第一号３の改正規定は、学校保健安全法施行規則の一部を改正する省令（平成二十六年文部科学省令第二十一号）の施行の日（平成二十八年四月一日）から施行する。"
+                }
+              ]
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成二九年三月三一日文部科学省令第一二号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この省令は、地域の自主性及び自立性を高めるための改革の推進を図るための関係法律の整備に関する法律の施行の日（平成二十九年四月一日）から施行する。"
+            }
+          }
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "Law": {
+    "@Era": "Heisei",
+    "@Lang": "ja",
+    "@LawType": "MinisterialOrdinance",
+    "@Num": "003",
+    "@Year": "18",
+    "LawNum": "平成十八年経済産業省・国土交通省・環境省令第三号",
+    "LawBody": {
+      "LawTitle": "特定解体工事元請業者が特定解体工事発注者に交付する書面に記載する事項を定める省令",
+      "EnactStatement": "特定製品に係るフロン類の回収及び破壊の実施の確保等に関する法律（平成十三年法律第六十四号）第十九条の二第一項の規定に基づき、特定解体工事元請業者が特定解体工事発注者に交付する書面に記載する事項を定める省令を次のように定める。",
+      "MainProvision": {
+        "Article": [
+          {
+            "@Num": "1",
+            "ArticleCaption": "（用語）",
+            "ArticleTitle": "第一条",
+            "Paragraph": [
+              {
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": "この省令において使用する用語は、フロン類の使用の合理化及び管理の適正化に関する法律（平成十三年法律第六十四号。以下「法」という。）において使用する用語の例による。"
+                }
+              },
+              {
+                "@Num": "2",
+                "ParagraphNum": "２",
+                "ParagraphSentence": {
+                  "Sentence": "この省令において「特定解体工事」とは、建築物その他の工作物（当該建築物その他の工作物に第一種特定製品が設置されていないことが明らかなものを除く。）の全部又は一部を解体する建設工事（他の者から請け負ったものを除く。）をいう。"
+                }
+              }
+            ]
+          },
+          {
+            "@Num": "2",
+            "ArticleCaption": "（特定解体工事元請業者が特定解体工事発注者に交付する書面に記載する事項）",
+            "ArticleTitle": "第二条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "法第四十二条第一項の主務省令で定める事項は、次のとおりとする。"
+              },
+              "Item": [
+                {
+                  "@Num": "1",
+                  "ItemTitle": "一",
+                  "ItemSentence": {
+                    "Sentence": "書面の交付年月日"
+                  }
+                },
+                {
+                  "@Num": "2",
+                  "ItemTitle": "二",
+                  "ItemSentence": {
+                    "Sentence": "特定解体工事元請業者の氏名又は名称及び住所"
+                  }
+                },
+                {
+                  "@Num": "3",
+                  "ItemTitle": "三",
+                  "ItemSentence": {
+                    "Sentence": "特定解体工事発注者の氏名又は名称及び住所"
+                  }
+                },
+                {
+                  "@Num": "4",
+                  "ItemTitle": "四",
+                  "ItemSentence": {
+                    "Sentence": "特定解体工事の名称及び場所"
+                  }
+                },
+                {
+                  "@Num": "5",
+                  "ItemTitle": "五",
+                  "ItemSentence": {
+                    "Sentence": "建築物その他の工作物における第一種特定製品の設置の有無の確認結果"
+                  }
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "SupplProvision": [
+        {
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この省令は、平成十九年十月一日から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成二七年一月八日経済産業省・国土交通省・環境省令第一号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この省令は、特定製品に係るフロン類の回収及び破壊の実施の確保等に関する法律の一部を改正する法律の施行の日から施行する。"
+            }
+          }
+        }
+      ]
+    }
+  }
+}

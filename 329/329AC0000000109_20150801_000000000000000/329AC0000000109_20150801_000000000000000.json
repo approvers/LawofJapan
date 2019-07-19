@@ -1,0 +1,125 @@
+{
+  "Law": {
+    "@Era": "Showa",
+    "@Lang": "ja",
+    "@LawType": "Act",
+    "@Num": "109",
+    "@Year": "29",
+    "LawNum": "昭和二十九年法律第百九号",
+    "LawBody": {
+      "LawTitle": "国の所有に属する自動車等の交換に関する法律",
+      "MainProvision": {
+        "Paragraph": [
+          {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphNum": "１",
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "各省各庁の長（財政法（昭和二十二年法律第三十四号）第二十条第二項に規定する各省各庁の長をいう。）は、必要があると認めるときは、政令で定めるところにより、下取り（物品を買い入れる際、当該物品と同一の用途に供されていた買受人の所有に属する物品を、対価の一部として、当該買入れに係る物品と引換えに売渡人に譲渡することをいう。）の商慣習がある自動車、医療用又は試験用の機械器具その他の政令で定める物品であつて国の所有に属するものを、国以外の者が所有するこれと同種の物品と交換することができる。"
+              }
+            }
+          },
+          {
+            "@Hide": "false",
+            "@Num": "2",
+            "ParagraphNum": "２",
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "前項の規定により交換する場合において、その価額が等しくないときは、その差額を金銭で補足し、又は補足させなければならない。"
+              }
+            }
+          }
+        ]
+      },
+      "SupplProvision": [
+        {
+          "@Extract": "false",
+          "@Type": "New",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この法律は、公布の日から施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "昭和四六年六月一日法律第九六号",
+          "@Extract": "true",
+          "@Type": "Amend",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphCaption": "（施行期日等）",
+            "ParagraphNum": "１",
+            "ParagraphSentence": {
+              "Sentence": [
+                {
+                  "@Function": "main",
+                  "@Num": "1",
+                  "@WritingMode": "vertical",
+                  "#text": "この法律は、公布の日から施行する。"
+                },
+                {
+                  "@Function": "proviso",
+                  "@Num": "2",
+                  "@WritingMode": "vertical",
+                  "#text": "ただし、次の各号に掲げる規定は、当該各号に掲げる日から施行する。"
+                }
+              ]
+            },
+            "Item": [
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "1",
+                "ItemTitle": "一",
+                "ItemSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "略"
+                  }
+                }
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "2",
+                "ItemTitle": "二",
+                "ItemSentence": {
+                  "Column": [
+                    {
+                      "@LineBreak": "false",
+                      "@Num": "1",
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "第五条から第十一条まで並びに附則第四項及び第二十三項"
+                      }
+                    },
+                    {
+                      "@LineBreak": "false",
+                      "@Num": "2",
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "公布の日から起算して六月をこえない範囲内において政令で定める日"
+                      }
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        }
+      ]
+    }
+  }
+}

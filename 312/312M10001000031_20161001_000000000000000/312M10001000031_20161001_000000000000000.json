@@ -1,0 +1,602 @@
+{
+  "Law": {
+    "@Era": "Showa",
+    "@Lang": "ja",
+    "@LawType": "MinisterialOrdinance",
+    "@Num": "031",
+    "@Year": "12",
+    "LawNum": "昭和十二年逓信省令第三十一号",
+    "LawBody": {
+      "LawTitle": "船用品試験機試験規程",
+      "EnactStatement": "船用品試験機試験規程左ノ通定ム",
+      "TOC": {
+        "TOCLabel": "目次",
+        "TOCChapter": [
+          {
+            "@Num": "1",
+            "ChapterTitle": "第一章　総則"
+          },
+          {
+            "@Num": "2",
+            "ChapterTitle": "第二章　引張試験機及圧縮試験機"
+          },
+          {
+            "@Num": "3",
+            "ChapterTitle": "第三章　硬試験機"
+          },
+          {
+            "@Num": "4",
+            "ChapterTitle": "第四章　衝撃試験機"
+          }
+        ],
+        "TOCSupplProvision": {
+          "SupplProvisionLabel": "附則"
+        }
+      },
+      "MainProvision": {
+        "Chapter": [
+          {
+            "@Num": "1",
+            "ChapterTitle": "第一章　総則",
+            "Article": [
+              {
+                "@Num": "1",
+                "ArticleTitle": "第一条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "船用品試験機（以下試験機ト称ス）ヲ分チテ左ノ四種トス"
+                  },
+                  "Item": [
+                    {
+                      "@Num": "1",
+                      "ItemTitle": "一",
+                      "ItemSentence": {
+                        "Sentence": "引張試験機"
+                      }
+                    },
+                    {
+                      "@Num": "2",
+                      "ItemTitle": "二",
+                      "ItemSentence": {
+                        "Sentence": "圧縮試験機"
+                      }
+                    },
+                    {
+                      "@Num": "3",
+                      "ItemTitle": "三",
+                      "ItemSentence": {
+                        "Sentence": "硬試験機"
+                      }
+                    },
+                    {
+                      "@Num": "4",
+                      "ItemTitle": "四",
+                      "ItemSentence": {
+                        "Sentence": "衝撃試験機"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "@Num": "2",
+                "ArticleTitle": "第二条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "試験機ハ左ニ掲グル事項ヲ具備スルモノナルコトヲ要ス"
+                  },
+                  "Item": [
+                    {
+                      "@Num": "1",
+                      "ItemTitle": "一",
+                      "ItemSentence": {
+                        "Sentence": "据附正確ナルコト"
+                      }
+                    },
+                    {
+                      "@Num": "2",
+                      "ItemTitle": "二",
+                      "ItemSentence": {
+                        "Sentence": "構造堅牢ナルコト"
+                      }
+                    },
+                    {
+                      "@Num": "3",
+                      "ItemTitle": "三",
+                      "ItemSentence": {
+                        "Sentence": "動作円滑ナルコト"
+                      }
+                    },
+                    {
+                      "@Num": "4",
+                      "ItemTitle": "四",
+                      "ItemSentence": {
+                        "Sentence": "精度十分ナルコト"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "@Num": "3",
+                "ArticleTitle": "第三条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "試験機ノ刃、刃承、軸、軸承、槓桿、荷重標示、荷重装置其ノ他各部ハ秤量ニ等シキ指示荷重ヲ以テ全荷重試験ヲ行ヒ異状ヲ呈セザルモノナルコトヲ要ス"
+                  }
+                }
+              },
+              {
+                "@Num": "4",
+                "ArticleTitle": "第四条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "試験機ノ精度ノ試験ハ前条ノ試験ヲ行ヒタル後之ヲ行フモノトス"
+                  }
+                }
+              },
+              {
+                "@Num": "5",
+                "ArticleTitle": "第五条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "精度ノ試験ニ用フル検定器、重錘、槓桿装置、標準試験片其ノ他ノ計測器具ハ当該官吏ノ適当ト認ムルモノナルコトヲ要ス"
+                  }
+                }
+              },
+              {
+                "@Num": "6",
+                "ArticleTitle": "第六条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "特殊ノ構造ヲ有スル試験機ノ試験方法ハ運輸大臣ノ適当ト認ムル所ニ依ル"
+                  }
+                }
+              },
+              {
+                "@Num": "7",
+                "ArticleTitle": "第七条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "試験機ニハ明瞭且耐久的ノ文字ヲ以テ左ノ各号ノ標示ヲ為スベシ"
+                  },
+                  "Item": [
+                    {
+                      "@Num": "1",
+                      "ItemTitle": "一",
+                      "ItemSentence": {
+                        "Sentence": "種類及型式"
+                      }
+                    },
+                    {
+                      "@Num": "2",
+                      "ItemTitle": "二",
+                      "ItemSentence": {
+                        "Sentence": "製造番号"
+                      }
+                    },
+                    {
+                      "@Num": "3",
+                      "ItemTitle": "三",
+                      "ItemSentence": {
+                        "Sentence": "秤量"
+                      }
+                    },
+                    {
+                      "@Num": "4",
+                      "ItemTitle": "四",
+                      "ItemSentence": {
+                        "Sentence": "製造年月"
+                      }
+                    },
+                    {
+                      "@Num": "5",
+                      "ItemTitle": "五",
+                      "ItemSentence": {
+                        "Sentence": "製造者ノ氏名又ハ名称"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "@Num": "8",
+                "ArticleTitle": "第八条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "本令ノ規定ニ該当セザル試験機ハ当該官吏ニ於テ本令ノ規定ニ該当スルモノト同一ノ効力ヲ有スト認ムルモノニ限リ之ヲ本令ニ適合スルモノト看做ス"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "@Num": "2",
+            "ChapterTitle": "第二章　引張試験機及圧縮試験機",
+            "Article": [
+              {
+                "@Num": "9",
+                "ArticleTitle": "第九条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "引張試験機及圧縮試験機ハ指示荷重ヲ秤量ニ達セシメタル後放置シ六〇秒時経過スルモ其ノ減少ガ秤量ノ二〇％ヲ超エザルモノナルコトヲ要ス"
+                  }
+                }
+              },
+              {
+                "@Num": "10",
+                "ArticleTitle": "第十条",
+                "Paragraph": [
+                  {
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": "引張試験機及圧縮試験機ノ精度ノ試験ハ秤量ニ応ジ適当ニ定メタル五以上ノ試験荷重（指示荷重ニ依ル以下同ジ）ニ付之ヲ行フモノトス但シ同一試験機ニシテ秤量ヲ変更シ得ルモノニ在リテハ最大秤量ニ対スル試験ノ場合ヲ除クノ外各秤量ニ対スル試験荷重ハ之ヲ五未満ト為スコトヲ得"
+                    }
+                  },
+                  {
+                    "@Num": "2",
+                    "ParagraphNum": "○２",
+                    "ParagraphSentence": {
+                      "Sentence": "前項ノ試験荷重中最大ノ荷重ハ秤量ノ八〇％以上ナルコトヲ要ス但シ秤量三〇〇瓲以上ノ試験機ニ在リテハ当該官吏ノ見込ニ依リ八〇％未満ト為スコトヲ得"
+                    }
+                  }
+                ]
+              },
+              {
+                "@Num": "11",
+                "ArticleTitle": "第十一条",
+                "Paragraph": [
+                  {
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": "前条ノ試験ハ無荷重状態ヨリ順次荷重ヲ増加シ最大試験荷重ニ達セシメ更ニ順次荷重ヲ減少シテ其ノ都度各試験荷重ニ付之ヲ行フモノトス"
+                    }
+                  },
+                  {
+                    "@Num": "2",
+                    "ParagraphNum": "○２",
+                    "ParagraphSentence": {
+                      "Sentence": "前項ノ試験ハ五回之ヲ反覆スルモノトス"
+                    }
+                  }
+                ]
+              },
+              {
+                "@Num": "12",
+                "ArticleTitle": "第十二条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "本令ニ合格シタル引張試験機及圧縮試験機ノ第二回以後ノ試験ニ於テハ当該官吏ノ見込ニ依リ精度ノ試験ニ於ケル最大試験荷重、試験荷重ノ数及試験反覆回数ヲ減ズルコトヲ得"
+                  }
+                }
+              },
+              {
+                "@Num": "13",
+                "ArticleTitle": "第十三条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "機差ハ荷重ヲ順次増加スル場合及順次減少スル場合夫々各試験荷重ニ付之ニ対スル作用荷重ヲ測定シ其ノ平均ヲ求メ左ノ算式ニ依リ算定スルモノトス"
+                  },
+                  "FigStruct": {
+                    "Fig": {
+                      "@src": "./pict/S12F01401000031-001.jpg"
+                    }
+                  }
+                }
+              },
+              {
+                "@Num": "14",
+                "ArticleTitle": "第十四条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "引張試験機及圧縮試験機ノ精度ハ機差ガ正負一％ヲ超エズ且同一試験荷重ニ対スル作用荷重ガ著シク不同ナラザルモノナルコトヲ要ス"
+                  }
+                }
+              },
+              {
+                "@Num": "15",
+                "ArticleTitle": "第十五条",
+                "Paragraph": [
+                  {
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": "引張試験機及圧縮試験機ノ感量ハ無荷重状態ニ於テ荷重指示装置ノ平衡位置ヲ明瞭ニ変化セシムル為当該試験機ニ加フベキ荷重ヲ以テ之ヲ定ムルモノトス但シ同一試験機ニシテ秤量ヲ変更シ得ルモノニ在リテハ最大秤量ニ対シ之ヲ定ムルニ止ムルコトヲ得"
+                    }
+                  },
+                  {
+                    "@Num": "2",
+                    "ParagraphNum": "○２",
+                    "ParagraphSentence": {
+                      "Sentence": "前項ノ平衡位置ノ変化明瞭ナリト認ムベキ程度ハ試験機ノ種類ニ応ジ当該官吏之ヲ定ム"
+                    }
+                  }
+                ]
+              },
+              {
+                "@Num": "16",
+                "ArticleTitle": "第十六条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "引張試験機及圧縮試験機ノ感量ハ最小目盛ノ表ハス荷重ヲ超エザルコトヲ要ス但シ当該官吏ニ於テ差支ナシト認ムルトキハ此ノ限ニ在ラズ"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "@Num": "3",
+            "ChapterTitle": "第三章　硬試験機",
+            "Article": [
+              {
+                "@Num": "17",
+                "ArticleTitle": "第十七条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "硬試験機ヲ分チテ左ノ二種トス"
+                  },
+                  "Item": [
+                    {
+                      "@Num": "1",
+                      "ItemTitle": "一",
+                      "ItemSentence": {
+                        "Sentence": "押痕式硬試験機"
+                      }
+                    },
+                    {
+                      "@Num": "2",
+                      "ItemTitle": "二",
+                      "ItemSentence": {
+                        "Sentence": "反撥式硬試験機"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "@Num": "18",
+                "ArticleTitle": "第十八条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "押痕式硬試験機ニシテ油圧ニ依リ荷重ヲ加フルモノハ指示荷重ヲ秤量ニ達セシメタル後放置シ三〇秒時経過スルモ其ノ減少ヲ来サザルモノナルコトヲ要ス"
+                  }
+                }
+              },
+              {
+                "@Num": "19",
+                "ArticleTitle": "第十九条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "押痕式硬試験機ノ圧子及反撥式硬試験機ノ鎚ハ構造堅牢ニシテ形状正確ナルモノナルコトヲ要ス"
+                  }
+                }
+              },
+              {
+                "@Num": "20",
+                "ArticleTitle": "第二十条",
+                "Paragraph": [
+                  {
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": "押痕式硬試験機ノ精度ノ試験ハ秤量ニ応ジ適当ニ定メタル五以上ノ試験荷重（指示荷重ニ依ル以下同ジ）ニ付之ヲ行ヒ反撥式硬試験機ノ精度ノ試験ハ秤量ニ応ジ適当ニ定メタル五以上ノ試験硬度数ニ付之ヲ行フモノトス"
+                    }
+                  },
+                  {
+                    "@Num": "2",
+                    "ParagraphNum": "○２",
+                    "ParagraphSentence": {
+                      "Sentence": "前項ノ試験ハ五回之ヲ反覆スルモノトス"
+                    }
+                  }
+                ]
+              },
+              {
+                "@Num": "21",
+                "ArticleTitle": "第二十一条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "押痕式硬試験機ノ荷重装置ノ機差ノ算定ハ第十三条ノ規定ニ依ル"
+                  }
+                }
+              },
+              {
+                "@Num": "22",
+                "ArticleTitle": "第二十二条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "押痕式硬試験機ノ荷重装置ノ各試験荷重ニ対スル機差ハ正負一％ヲ超エズ且同一試験荷重ニ対スル作用荷重ガ著シク不同ナラザルモノナルコトヲ要ス"
+                  }
+                }
+              },
+              {
+                "@Num": "23",
+                "ArticleTitle": "第二十三条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "硬試験機ノ精度ハ試験機ノ種類ニ応ジ其ノ全機差ガ左表ニ掲グルモノヲ超エザルコトヲ要ス"
+                  },
+                  "TableStruct": {
+                    "Table": {
+                      "TableRow": [
+                        {
+                          "TableColumn": [
+                            {
+                              "@colspan": "2",
+                              "Sentence": "種類"
+                            },
+                            {
+                              "Sentence": "全機差"
+                            }
+                          ]
+                        },
+                        {
+                          "TableColumn": [
+                            {
+                              "@rowspan": "2",
+                              "Sentence": "押痕式硬試験機"
+                            },
+                            {
+                              "Sentence": "荷重ノミニ依ルモノ"
+                            },
+                            {
+                              "Sentence": "正負一％"
+                            }
+                          ]
+                        },
+                        {
+                          "TableColumn": [
+                            {
+                              "Sentence": "其ノ他ノモノ"
+                            },
+                            {
+                              "Sentence": "正負三％"
+                            }
+                          ]
+                        },
+                        {
+                          "TableColumn": [
+                            {
+                              "@colspan": "2",
+                              "Sentence": "反撥式硬試験機"
+                            },
+                            {
+                              "Sentence": "正負二硬度数"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "@Num": "4",
+            "ChapterTitle": "第四章　衝撃試験機",
+            "Article": [
+              {
+                "@Num": "24",
+                "ArticleTitle": "第二十四条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "衝撃試験機ノ振子系ノ吊心及重心並ニ衝撃刃縁ノ中点ハ一直線上ニ在ルコトヲ要ス"
+                  }
+                }
+              },
+              {
+                "@Num": "25",
+                "ArticleTitle": "第二十五条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "衝撃試験機ノ衝撃刃縁ノ中点ト撃心トハ能フ限リ一致セシムルコトヲ要シ其ノ距離ハ一〇ミリメートルヲ超エザルヲ標準トス"
+                  }
+                }
+              },
+              {
+                "@Num": "26",
+                "ArticleTitle": "第二十六条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "衝撃試験機ノ鎚ノ最大振上リ角度ハ持上ゲ角度ヨリ小ニシテ其ノ差ハ一度ヲ超ユルコトヲ得ズ"
+                  }
+                }
+              }
+            ]
+          }
+        ]
+      },
+      "SupplProvision": [
+        {
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": [
+            {
+              "@Num": "1",
+              "ParagraphNum": "○１",
+              "ParagraphSentence": {
+                "Sentence": "本令ハ公布ノ日ヨリ之ヲ施行ス"
+              }
+            },
+            {
+              "@Num": "2",
+              "ParagraphNum": "○２",
+              "ParagraphSentence": {
+                "Sentence": "昭和二年七月逓信省令第二十四号船用品試験機試験規程ハ之ヲ廃止ス"
+              }
+            }
+          ]
+        },
+        {
+          "@AmendLawNum": "昭和一八年一一月一日運輸通信省令第六号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": "○１",
+            "ParagraphSentence": {
+              "Sentence": "本令ハ公布ノ日ヨリ之ヲ施行ス"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "昭和二〇年五月一九日運輸省令第一号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "本令ハ公布ノ日ヨリ之ヲ施行ス"
+            }
+          }
+        }
+      ]
+    }
+  }
+}

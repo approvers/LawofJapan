@@ -1,0 +1,1806 @@
+{
+  "Law": {
+    "@Era": "Showa",
+    "@Lang": "ja",
+    "@LawType": "MinisterialOrdinance",
+    "@Num": "018",
+    "@Year": "41",
+    "LawNum": "昭和四十一年厚生省令第十八号",
+    "LawBody": {
+      "LawTitle": "救護施設、更生施設、授産施設及び宿所提供施設の設備及び運営に関する基準",
+      "EnactStatement": "生活保護法（昭和二十五年法律第百四十四号）第三十九条の規定に基づき、救護施設、更生施設、授産施設及び宿所提供施設の設備及び運営に関する最低基準を次のとおり定める。",
+      "TOC": {
+        "TOCLabel": "目次",
+        "TOCChapter": [
+          {
+            "@Num": "1",
+            "ChapterTitle": "第一章　総則",
+            "ArticleRange": "（第一条―第八条）"
+          },
+          {
+            "@Num": "2",
+            "ChapterTitle": "第二章　救護施設",
+            "ArticleRange": "（第九条―第十六条の二）"
+          },
+          {
+            "@Num": "3",
+            "ChapterTitle": "第三章　更生施設",
+            "ArticleRange": "（第十七条―第二十二条）"
+          },
+          {
+            "@Num": "4",
+            "ChapterTitle": "第四章　授産施設",
+            "ArticleRange": "（第二十三条―第二十七条の二）"
+          },
+          {
+            "@Num": "5",
+            "ChapterTitle": "第五章　宿所提供施設",
+            "ArticleRange": "（第二十八条―第三十三条）"
+          }
+        ],
+        "TOCSupplProvision": {
+          "SupplProvisionLabel": "附則"
+        }
+      },
+      "MainProvision": {
+        "Chapter": [
+          {
+            "@Num": "1",
+            "ChapterTitle": "第一章　総則",
+            "Article": [
+              {
+                "@Num": "1",
+                "ArticleCaption": "（趣旨）",
+                "ArticleTitle": "第一条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "生活保護法（昭和二十五年法律第百四十四号。以下「法」という。）第三十九条第二項の厚生労働省令で定める基準は、次の各号に掲げる基準に応じ、それぞれ当該各号に定める規定による基準とする。"
+                  },
+                  "Item": [
+                    {
+                      "@Num": "1",
+                      "ItemTitle": "一",
+                      "ItemSentence": {
+                        "Column": [
+                          {
+                            "@Num": "1",
+                            "Sentence": "法第三十九条第一項の規定により、同条第二項第一号に掲げる事項について都道府県（地方自治法（昭和二十二年法律第六十七号）第二百五十二条の十九第一項の指定都市（以下「指定都市」という。）及び同法第二百五十二条の二十二第一項の中核市（以下「中核市」という。）にあつては、指定都市又は中核市。以下この条において同じ。）が条例を定めるに当たつて従うべき基準"
+                          },
+                          {
+                            "@Num": "2",
+                            "Sentence": "第五条、第六条、第十一条、第十九条、第二十五条及び第三十条の規定による基準"
+                          }
+                        ]
+                      }
+                    },
+                    {
+                      "@Num": "2",
+                      "ItemTitle": "二",
+                      "ItemSentence": {
+                        "Column": [
+                          {
+                            "@Num": "1",
+                            "Sentence": "法第三十九条第一項の規定により、同条第二項第二号に掲げる事項について都道府県が条例を定めるに当たつて従うべき基準"
+                          },
+                          {
+                            "@Num": "2",
+                            "Sentence": "第十条第三項第一号及び第五項第一号ロ（第十条の二において準ずる場合並びに第十八条第三項及び第二十九条第三項において準用する場合を含む。）、第十八条第一項第一号、第二十九条第一項第一号並びに附則第二項（第十条第五項第一号ロに係る部分に限る。）の規定による基準"
+                          }
+                        ]
+                      }
+                    },
+                    {
+                      "@Num": "3",
+                      "ItemTitle": "三",
+                      "ItemSentence": {
+                        "Column": [
+                          {
+                            "@Num": "1",
+                            "Sentence": "法第三十九条第一項の規定により、同条第二項第三号に掲げる事項について都道府県が条例を定めるに当たつて従うべき基準"
+                          },
+                          {
+                            "@Num": "2",
+                            "Sentence": "第二十六条の規定による基準"
+                          }
+                        ]
+                      }
+                    },
+                    {
+                      "@Num": "4",
+                      "ItemTitle": "四",
+                      "ItemSentence": {
+                        "Column": [
+                          {
+                            "@Num": "1",
+                            "Sentence": "法第三十九条第一項の規定により、同条第二項第四号に掲げる事項について都道府県が条例を定めるに当たつて標準とすべき基準"
+                          },
+                          {
+                            "@Num": "2",
+                            "Sentence": "第九条第一項及び第二項、第十七条第一項、第二十三条第一項、第二十八条第一項並びに附則第二項（第九条第一項及び第二項、第十七条第一項、第二十三条第一項並びに第二十八条第一項に係る部分に限る。）の規定による基準"
+                          }
+                        ]
+                      }
+                    },
+                    {
+                      "@Num": "5",
+                      "ItemTitle": "五",
+                      "ItemSentence": {
+                        "Column": [
+                          {
+                            "@Num": "1",
+                            "Sentence": "法第三十九条第一項の規定により、同条第二項各号に掲げる事項以外の事項について都道府県が条例を定めるに当たつて参酌すべき基準"
+                          },
+                          {
+                            "@Num": "2",
+                            "Sentence": "この省令に定める基準のうち、前各号に定める規定による基準以外のもの"
+                          }
+                        ]
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "@Num": "2",
+                "ArticleCaption": "（基本方針）",
+                "ArticleTitle": "第二条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "救護施設、更生施設、授産施設及び宿所提供施設（以下「救護施設等」という。）は、利用者に対し、健全な環境のもとで、社会福祉事業に関する熱意及び能力を有する職員による適切な処遇を行なうよう努めなければならない。"
+                  }
+                }
+              },
+              {
+                "@Num": "3",
+                "ArticleCaption": "（構造設備の一般原則）",
+                "ArticleTitle": "第三条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "救護施設等の配置、構造及び設備は、日照、採光、換気等利用者の保健衛生に関する事項及び防災について十分考慮されたものでなければならない。"
+                  }
+                }
+              },
+              {
+                "@Num": "4",
+                "ArticleCaption": "（設備の専用）",
+                "ArticleTitle": "第四条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": [
+                      {
+                        "@Function": "main",
+                        "@Num": "1",
+                        "#text": "救護施設等の設備は、もつぱら当該施設の用に供するものでなければならない。"
+                      },
+                      {
+                        "@Function": "proviso",
+                        "@Num": "2",
+                        "#text": "ただし、利用者の処遇に支障がない場合には、この限りでない。"
+                      }
+                    ]
+                  }
+                }
+              },
+              {
+                "@Num": "5",
+                "ArticleCaption": "（職員の資格要件）",
+                "ArticleTitle": "第五条",
+                "Paragraph": [
+                  {
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": "救護施設等の長（以下「施設長」という。）は、社会福祉法（昭和二十六年法律第四十五号）第十九条第一項各号のいずれかに該当する者若しくは社会福祉事業に二年以上従事した者又はこれらと同等以上の能力を有すると認められる者でなければならない。"
+                    }
+                  },
+                  {
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": "生活指導員は、社会福祉法第十九条第一項各号のいずれかに該当する者又はこれと同等以上の能力を有すると認められる者でなければならない。"
+                    }
+                  }
+                ]
+              },
+              {
+                "@Num": "6",
+                "ArticleCaption": "（職員の専従）",
+                "ArticleTitle": "第六条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": [
+                      {
+                        "@Function": "main",
+                        "@Num": "1",
+                        "#text": "救護施設等の職員は、もつぱら当該施設の職務に従事することができる者をもつて充てなければならない。"
+                      },
+                      {
+                        "@Function": "proviso",
+                        "@Num": "2",
+                        "#text": "ただし、利用者の処遇に支障がない場合には、この限りでない。"
+                      }
+                    ]
+                  }
+                }
+              },
+              {
+                "@Num": "6_2",
+                "ArticleCaption": "（苦情への対応）",
+                "ArticleTitle": "第六条の二",
+                "Paragraph": [
+                  {
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": "救護施設等は、その行つた処遇に関する入所者からの苦情に迅速かつ適切に対応するために、苦情を受け付けるための窓口を設置する等の必要な措置を講じなければならない。"
+                    }
+                  },
+                  {
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": "救護施設等は、その行つた処遇に関し、生活保護法第十九条第四項に規定する保護の実施機関から指導又は助言を受けた場合は、当該指導又は助言に従つて必要な改善を行わなければならない。"
+                    }
+                  },
+                  {
+                    "@Num": "3",
+                    "ParagraphNum": "３",
+                    "ParagraphSentence": {
+                      "Sentence": "救護施設等は、社会福祉法第八十三条に規定する運営適正化委員会が行う同法第八十五条第一項の規定による調査にできる限り協力しなければならない。"
+                    }
+                  }
+                ]
+              },
+              {
+                "@Num": "7",
+                "ArticleCaption": "（非常災害対策）",
+                "ArticleTitle": "第七条",
+                "Paragraph": [
+                  {
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": "救護施設等は、消火設備その他の非常災害に際して必要な設備を設けるとともに、非常災害に対する具体的計画を立てておかなければならない。"
+                    }
+                  },
+                  {
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": "救護施設等は、非常災害に備えるため、定期的に避難、救出その他必要な訓練を行なわなければならない。"
+                    }
+                  }
+                ]
+              },
+              {
+                "@Num": "8",
+                "ArticleCaption": "（帳簿の整備）",
+                "ArticleTitle": "第八条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "救護施設等は、設備、職員、会計及び利用者の処遇の状況に関する帳簿を整備しておかなければならない。"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "@Num": "2",
+            "ChapterTitle": "第二章　救護施設",
+            "Article": [
+              {
+                "@Num": "9",
+                "ArticleCaption": "（規模）",
+                "ArticleTitle": "第九条",
+                "Paragraph": [
+                  {
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": "救護施設は、三十人以上の人員を入所させることができる規模を有しなければならない。"
+                    }
+                  },
+                  {
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": "救護施設は、当該施設と一体的に管理運営を行う、日常生活を営むことが困難な要保護者を入所させて生活扶助を行うことを目的とする施設であつて入所者が二十人以下のもの（以下この章において「サテライト型施設」という。）を設置する場合は、五人以上の人員を入所させることができる規模を有するものとしなければならない。"
+                    }
+                  },
+                  {
+                    "@Num": "3",
+                    "ParagraphNum": "３",
+                    "ParagraphSentence": {
+                      "Sentence": "救護施設は、被保護者の数が当該施設における入所者の総数のうちに占める割合がおおむね八十パーセント以上としなければならない。"
+                    }
+                  }
+                ]
+              },
+              {
+                "@Num": "10",
+                "ArticleCaption": "（設備の基準）",
+                "ArticleTitle": "第十条",
+                "Paragraph": [
+                  {
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": "救護施設の建物（入所者の日常生活のために使用しない附属の建物を除く。）は、耐火建築物（建築基準法（昭和二十五年法律第二百一号）第二条第九号の二に規定する耐火建築物をいう。次項（第十八条第三項において準用する場合を含む。）において同じ。）又は準耐火建築物（同法第二条第九号の三に規定する準耐火建築物をいう。次項（第十八条第三項において準用する場合を含む。）において同じ。）でなければならない。"
+                    }
+                  },
+                  {
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": "前項の規定にかかわらず、都道府県知事（指定都市及び中核市にあつては、指定都市又は中核市の市長。第十八条第三項において準用する場合において同じ。）が、火災予防、消火活動等に関し専門的知識を有する者の意見を聴いて、次の各号のいずれかの要件を満たす木造かつ平屋建ての救護施設の建物であって、火災に係る入所者の安全性が確保されていると認めたときは、耐火建築物又は準耐火建築物とすることを要しない。"
+                    },
+                    "Item": [
+                      {
+                        "@Num": "1",
+                        "ItemTitle": "一",
+                        "ItemSentence": {
+                          "Sentence": "スプリンクラー設備の設置、天井等の内装材等への難燃性の材料の使用、調理室等火災が発生するおそれがある箇所における防火区画の設置等により、初期消火及び延焼の抑制に配慮した構造であること。"
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "ItemTitle": "二",
+                        "ItemSentence": {
+                          "Sentence": "非常警報設備の設置等による火災の早期発見及び通報の体制が整備されており、円滑な消火活動が可能なものであること。"
+                        }
+                      },
+                      {
+                        "@Num": "3",
+                        "ItemTitle": "三",
+                        "ItemSentence": {
+                          "Sentence": "避難口の増設、搬送を容易に行うために十分な幅員を有する避難路の確保等により、円滑な避難が可能な構造であり、かつ、避難訓練を頻繁に実施すること、配置人員を増員すること等により、火災の際の円滑な避難が可能なものであること。"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Num": "3",
+                    "ParagraphNum": "３",
+                    "ParagraphSentence": {
+                      "Sentence": [
+                        {
+                          "@Function": "main",
+                          "@Num": "1",
+                          "#text": "救護施設には、次の各号に掲げる設備を設けなければならない。"
+                        },
+                        {
+                          "@Function": "proviso",
+                          "@Num": "2",
+                          "#text": "ただし、他の社会福祉施設等の設備を利用することにより施設の効果的な運営を期待することができる場合であつて、入所者の処遇に支障がないときは、設備の一部を設けないことができる。"
+                        }
+                      ]
+                    },
+                    "Item": [
+                      {
+                        "@Num": "1",
+                        "ItemTitle": "一",
+                        "ItemSentence": {
+                          "Sentence": "居室"
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "ItemTitle": "二",
+                        "ItemSentence": {
+                          "Sentence": "静養室"
+                        }
+                      },
+                      {
+                        "@Num": "3",
+                        "ItemTitle": "三",
+                        "ItemSentence": {
+                          "Sentence": "食堂"
+                        }
+                      },
+                      {
+                        "@Num": "4",
+                        "ItemTitle": "四",
+                        "ItemSentence": {
+                          "Sentence": "集会室"
+                        }
+                      },
+                      {
+                        "@Num": "5",
+                        "ItemTitle": "五",
+                        "ItemSentence": {
+                          "Sentence": "浴室"
+                        }
+                      },
+                      {
+                        "@Num": "6",
+                        "ItemTitle": "六",
+                        "ItemSentence": {
+                          "Sentence": "洗面所"
+                        }
+                      },
+                      {
+                        "@Num": "7",
+                        "ItemTitle": "七",
+                        "ItemSentence": {
+                          "Sentence": "便所"
+                        }
+                      },
+                      {
+                        "@Num": "8",
+                        "ItemTitle": "八",
+                        "ItemSentence": {
+                          "Sentence": "医務室"
+                        }
+                      },
+                      {
+                        "@Num": "9",
+                        "ItemTitle": "九",
+                        "ItemSentence": {
+                          "Sentence": "調理室"
+                        }
+                      },
+                      {
+                        "@Num": "10",
+                        "ItemTitle": "十",
+                        "ItemSentence": {
+                          "Sentence": "事務室"
+                        }
+                      },
+                      {
+                        "@Num": "11",
+                        "ItemTitle": "十一",
+                        "ItemSentence": {
+                          "Sentence": "宿直室"
+                        }
+                      },
+                      {
+                        "@Num": "12",
+                        "ItemTitle": "十二",
+                        "ItemSentence": {
+                          "Sentence": "介護職員室"
+                        }
+                      },
+                      {
+                        "@Num": "13",
+                        "ItemTitle": "十三",
+                        "ItemSentence": {
+                          "Sentence": "面接室"
+                        }
+                      },
+                      {
+                        "@Num": "14",
+                        "ItemTitle": "十四",
+                        "ItemSentence": {
+                          "Sentence": "洗濯室又は洗濯場"
+                        }
+                      },
+                      {
+                        "@Num": "15",
+                        "ItemTitle": "十五",
+                        "ItemSentence": {
+                          "Sentence": "汚物処理室"
+                        }
+                      },
+                      {
+                        "@Num": "16",
+                        "ItemTitle": "十六",
+                        "ItemSentence": {
+                          "Sentence": "霊安室"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Num": "4",
+                    "ParagraphNum": "４",
+                    "ParagraphSentence": {
+                      "Sentence": "前項第一号に掲げる居室については、一般居室のほか、必要に応じ、常時の介護を必要とする者を入所させる居室（以下「特別居室」という。）を設けるものとする。"
+                    }
+                  },
+                  {
+                    "@Num": "5",
+                    "ParagraphNum": "５",
+                    "ParagraphSentence": {
+                      "Sentence": "第三項各号に掲げる設備の基準は、次のとおりとする。"
+                    },
+                    "Item": [
+                      {
+                        "@Num": "1",
+                        "ItemTitle": "一",
+                        "ItemSentence": {
+                          "Sentence": "居室"
+                        },
+                        "Subitem1": [
+                          {
+                            "@Num": "1",
+                            "Subitem1Title": "イ",
+                            "Subitem1Sentence": {
+                              "Sentence": "地階に設けてはならないこと。"
+                            }
+                          },
+                          {
+                            "@Num": "2",
+                            "Subitem1Title": "ロ",
+                            "Subitem1Sentence": {
+                              "Sentence": "入所者一人当たりの床面積は、収納設備等を除き、三・三平方メートル以上とすること。"
+                            }
+                          },
+                          {
+                            "@Num": "3",
+                            "Subitem1Title": "ハ",
+                            "Subitem1Sentence": {
+                              "Sentence": "一以上の出入口は、避難上有効な空地、廊下又は広間に直接面して設けること。"
+                            }
+                          },
+                          {
+                            "@Num": "4",
+                            "Subitem1Title": "ニ",
+                            "Subitem1Sentence": {
+                              "Sentence": "入所者の寝具及び身の回り品を各人別に収納することができる収納設備を設けること。"
+                            }
+                          },
+                          {
+                            "@Num": "5",
+                            "Subitem1Title": "ホ",
+                            "Subitem1Sentence": {
+                              "Sentence": "特別居室は、原則として一階に設け、寝台又はこれに代わる設備を備えること。"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "@Num": "2",
+                        "ItemTitle": "二",
+                        "ItemSentence": {
+                          "Sentence": "静養室"
+                        },
+                        "Subitem1": [
+                          {
+                            "@Num": "1",
+                            "Subitem1Title": "イ",
+                            "Subitem1Sentence": {
+                              "Sentence": "医務室又は介護職員室に近接して設けること。"
+                            }
+                          },
+                          {
+                            "@Num": "2",
+                            "Subitem1Title": "ロ",
+                            "Subitem1Sentence": {
+                              "Sentence": "イに定めるもののほか、前号イ及びハからホまでに定めるところによること。"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "@Num": "3",
+                        "ItemTitle": "三",
+                        "ItemSentence": {
+                          "Column": [
+                            {
+                              "@LineBreak": "true",
+                              "@Num": "1",
+                              "Sentence": "洗面所"
+                            },
+                            {
+                              "@Num": "2",
+                              "Sentence": "居室のある階ごとに設けること。"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "@Num": "4",
+                        "ItemTitle": "四",
+                        "ItemSentence": {
+                          "Column": [
+                            {
+                              "@LineBreak": "true",
+                              "@Num": "1",
+                              "Sentence": "便所"
+                            },
+                            {
+                              "@Num": "2",
+                              "Sentence": "居室のある階ごとに男子用と女子用を別に設けること。"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "@Num": "5",
+                        "ItemTitle": "五",
+                        "ItemSentence": {
+                          "Column": [
+                            {
+                              "@LineBreak": "true",
+                              "@Num": "1",
+                              "Sentence": "医務室"
+                            },
+                            {
+                              "@Num": "2",
+                              "Sentence": "入所者を診療するために必要な医薬品、衛生材料及び医療機械器具を備えるほか、必要に応じて臨床検査設備を設けること。"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "@Num": "6",
+                        "ItemTitle": "六",
+                        "ItemSentence": {
+                          "Column": [
+                            {
+                              "@LineBreak": "true",
+                              "@Num": "1",
+                              "Sentence": "調理室"
+                            },
+                            {
+                              "@Num": "2",
+                              "Sentence": "火気を使用する部分は、不燃材料を用いること。"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "@Num": "7",
+                        "ItemTitle": "七",
+                        "ItemSentence": {
+                          "Column": [
+                            {
+                              "@LineBreak": "true",
+                              "@Num": "1",
+                              "Sentence": "介護職員室"
+                            },
+                            {
+                              "@Num": "2",
+                              "Sentence": "居室のある階ごとに居室に近接して設けること。"
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Num": "6",
+                    "ParagraphNum": "６",
+                    "ParagraphSentence": {
+                      "Sentence": "前各項に規定するもののほか、救護施設の設備の基準は、次に定めるところによる。"
+                    },
+                    "Item": [
+                      {
+                        "@Num": "1",
+                        "ItemTitle": "一",
+                        "ItemSentence": {
+                          "Sentence": [
+                            {
+                              "@Function": "main",
+                              "@Num": "1",
+                              "#text": "廊下の幅は、一・三五メートル以上とすること。"
+                            },
+                            {
+                              "@Function": "proviso",
+                              "@Num": "2",
+                              "#text": "ただし、中廊下の幅は、一・八メートル以上とすること。"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "ItemTitle": "二",
+                        "ItemSentence": {
+                          "Sentence": "廊下、便所その他必要な場所に常夜灯を設けること。"
+                        }
+                      },
+                      {
+                        "@Num": "3",
+                        "ItemTitle": "三",
+                        "ItemSentence": {
+                          "Sentence": "階段の傾斜は、ゆるやかにすること。"
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "@Num": "10_2",
+                "ArticleCaption": "（サテライト型施設の設備の基準）",
+                "ArticleTitle": "第十条の二",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "サテライト型施設の設備の基準は、前条に規定する基準に準ずる。"
+                  }
+                }
+              },
+              {
+                "@Num": "11",
+                "ArticleCaption": "（職員の配置の基準）",
+                "ArticleTitle": "第十一条",
+                "Paragraph": [
+                  {
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": [
+                        {
+                          "@Function": "main",
+                          "@Num": "1",
+                          "#text": "救護施設には、次の各号に掲げる職員を置かなければならない。"
+                        },
+                        {
+                          "@Function": "proviso",
+                          "@Num": "2",
+                          "#text": "ただし、調理業務の全部を委託する救護施設にあつては、第七号に掲げる職員を置かないことができる。"
+                        }
+                      ]
+                    },
+                    "Item": [
+                      {
+                        "@Num": "1",
+                        "ItemTitle": "一",
+                        "ItemSentence": {
+                          "Sentence": "施設長"
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "ItemTitle": "二",
+                        "ItemSentence": {
+                          "Sentence": "医師"
+                        }
+                      },
+                      {
+                        "@Num": "3",
+                        "ItemTitle": "三",
+                        "ItemSentence": {
+                          "Sentence": "生活指導員"
+                        }
+                      },
+                      {
+                        "@Num": "4",
+                        "ItemTitle": "四",
+                        "ItemSentence": {
+                          "Sentence": "介護職員"
+                        }
+                      },
+                      {
+                        "@Num": "5",
+                        "ItemTitle": "五",
+                        "ItemSentence": {
+                          "Sentence": "看護師又は准看護師"
+                        }
+                      },
+                      {
+                        "@Num": "6",
+                        "ItemTitle": "六",
+                        "ItemSentence": {
+                          "Sentence": "栄養士"
+                        }
+                      },
+                      {
+                        "@Num": "7",
+                        "ItemTitle": "七",
+                        "ItemSentence": {
+                          "Sentence": "調理員"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": "生活指導員、介護職員及び看護師又は准看護師の総数は、通じておおむね入所者の数を五・四で除して得た数以上とする。"
+                    }
+                  }
+                ]
+              },
+              {
+                "@Num": "12",
+                "ArticleCaption": "（居室の入所人員）",
+                "ArticleTitle": "第十二条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "一の居室に入所させる人員は、原則として四人以下とする。"
+                  }
+                }
+              },
+              {
+                "@Num": "13",
+                "ArticleCaption": "（給食）",
+                "ArticleTitle": "第十三条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "給食は、あらかじめ作成された献立に従つて行うこととし、その献立は栄養並びに入所者の身体的状況及び嗜好を考慮したものでなければならない。"
+                  }
+                }
+              },
+              {
+                "@Num": "14",
+                "ArticleCaption": "（健康管理）",
+                "ArticleTitle": "第十四条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "入所者については、その入所時及び毎年定期に二回以上健康診断を行なわなければならない。"
+                  }
+                }
+              },
+              {
+                "@Num": "15",
+                "ArticleCaption": "（衛生管理等）",
+                "ArticleTitle": "第十五条",
+                "Paragraph": [
+                  {
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": "救護施設は、入所者の使用する設備、食器等又は飲用に供する水については、衛生的な管理に努め、又は衛生上必要な措置を講ずるとともに、医薬品、衛生材料及び医療機械器具の管理を適正に行わなければならない。"
+                    }
+                  },
+                  {
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": "救護施設は、当該救護施設において感染症が発生し、又はまん延しないように必要な措置を講ずるよう努めなければならない。"
+                    }
+                  }
+                ]
+              },
+              {
+                "@Num": "16",
+                "ArticleCaption": "（生活指導等）",
+                "ArticleTitle": "第十六条",
+                "Paragraph": [
+                  {
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": "救護施設は、入所者に対し、生活の向上及び更生のための指導を受ける機会を与えなければならない。"
+                    }
+                  },
+                  {
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": "救護施設は、入所者に対し、その精神的及び身体的条件に応じ、機能を回復し又は機能の減退を防止するための訓練又は作業に参加する機会を与えなければならない。"
+                    }
+                  },
+                  {
+                    "@Num": "3",
+                    "ParagraphNum": "３",
+                    "ParagraphSentence": {
+                      "Sentence": "入所者の日常生活に充てられる場所は、必要に応じ、採暖のための措置を講じなければならない。"
+                    }
+                  },
+                  {
+                    "@Num": "4",
+                    "ParagraphNum": "４",
+                    "ParagraphSentence": {
+                      "Sentence": "一週間に二回以上、入所者を入浴させ、又は清拭しなければならない。"
+                    }
+                  },
+                  {
+                    "@Num": "5",
+                    "ParagraphNum": "５",
+                    "ParagraphSentence": {
+                      "Sentence": "教養娯楽設備等を備えるほか、適宜レクリエーシヨン行事を行なわなければならない。"
+                    }
+                  }
+                ]
+              },
+              {
+                "@Num": "16_2",
+                "ArticleCaption": "（給付金として支払を受けた金銭の管理）",
+                "ArticleTitle": "第十六条の二",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "救護施設は、当該救護施設の設置者が入所者に係る厚生労働大臣が定める給付金（以下この条において「給付金」という。）の支給を受けたときは、給付金として支払を受けた金銭を次に掲げるところにより管理しなければならない。"
+                  },
+                  "Item": [
+                    {
+                      "@Num": "1",
+                      "ItemTitle": "一",
+                      "ItemSentence": {
+                        "Sentence": "当該入所者に係る当該金銭及びこれに準ずるもの（これらの運用により生じた収益を含む。以下この条において「入所者に係る金銭」という。）をその他の財産と区分すること。"
+                      }
+                    },
+                    {
+                      "@Num": "2",
+                      "ItemTitle": "二",
+                      "ItemSentence": {
+                        "Sentence": "入所者に係る金銭を給付金の支給の趣旨に従つて用いること。"
+                      }
+                    },
+                    {
+                      "@Num": "3",
+                      "ItemTitle": "三",
+                      "ItemSentence": {
+                        "Sentence": "入所者に係る金銭の収支の状況を明らかにする帳簿を整備すること。"
+                      }
+                    },
+                    {
+                      "@Num": "4",
+                      "ItemTitle": "四",
+                      "ItemSentence": {
+                        "Sentence": "当該入所者が退所した場合には、速やかに、入所者に係る金銭を当該入所者に取得させること。"
+                      }
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "@Num": "3",
+            "ChapterTitle": "第三章　更生施設",
+            "Article": [
+              {
+                "@Num": "17",
+                "ArticleCaption": "（規模）",
+                "ArticleTitle": "第十七条",
+                "Paragraph": [
+                  {
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": "更生施設は、三十人以上の人員を入所させることができる規模を有しなければならない。"
+                    }
+                  },
+                  {
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": "更生施設は、被保護者の数が当該施設における入所者の総数のうちに占める割合がおおむね八十パーセント以上としなければならない。"
+                    }
+                  }
+                ]
+              },
+              {
+                "@Num": "18",
+                "ArticleCaption": "（設備の基準）",
+                "ArticleTitle": "第十八条",
+                "Paragraph": [
+                  {
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": [
+                        {
+                          "@Function": "main",
+                          "@Num": "1",
+                          "#text": "更生施設には、次の各号に掲げる設備を設けなければならない。"
+                        },
+                        {
+                          "@Function": "proviso",
+                          "@Num": "2",
+                          "#text": "ただし、他の社会福祉施設等の設備を利用することにより施設の効果的な運営を期待することができる場合であつて、入所者の処遇に支障がないときは、設備の一部を設けないことができる。"
+                        }
+                      ]
+                    },
+                    "Item": [
+                      {
+                        "@Num": "1",
+                        "ItemTitle": "一",
+                        "ItemSentence": {
+                          "Sentence": "居室"
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "ItemTitle": "二",
+                        "ItemSentence": {
+                          "Sentence": "静養室"
+                        }
+                      },
+                      {
+                        "@Num": "3",
+                        "ItemTitle": "三",
+                        "ItemSentence": {
+                          "Sentence": "集会室"
+                        }
+                      },
+                      {
+                        "@Num": "4",
+                        "ItemTitle": "四",
+                        "ItemSentence": {
+                          "Sentence": "食堂"
+                        }
+                      },
+                      {
+                        "@Num": "5",
+                        "ItemTitle": "五",
+                        "ItemSentence": {
+                          "Sentence": "浴室"
+                        }
+                      },
+                      {
+                        "@Num": "6",
+                        "ItemTitle": "六",
+                        "ItemSentence": {
+                          "Sentence": "洗面所"
+                        }
+                      },
+                      {
+                        "@Num": "7",
+                        "ItemTitle": "七",
+                        "ItemSentence": {
+                          "Sentence": "便所"
+                        }
+                      },
+                      {
+                        "@Num": "8",
+                        "ItemTitle": "八",
+                        "ItemSentence": {
+                          "Sentence": "医務室"
+                        }
+                      },
+                      {
+                        "@Num": "9",
+                        "ItemTitle": "九",
+                        "ItemSentence": {
+                          "Sentence": "作業室又は作業場"
+                        }
+                      },
+                      {
+                        "@Num": "10",
+                        "ItemTitle": "十",
+                        "ItemSentence": {
+                          "Sentence": "調理室"
+                        }
+                      },
+                      {
+                        "@Num": "11",
+                        "ItemTitle": "十一",
+                        "ItemSentence": {
+                          "Sentence": "事務室"
+                        }
+                      },
+                      {
+                        "@Num": "12",
+                        "ItemTitle": "十二",
+                        "ItemSentence": {
+                          "Sentence": "宿直室"
+                        }
+                      },
+                      {
+                        "@Num": "13",
+                        "ItemTitle": "十三",
+                        "ItemSentence": {
+                          "Sentence": "面接室"
+                        }
+                      },
+                      {
+                        "@Num": "14",
+                        "ItemTitle": "十四",
+                        "ItemSentence": {
+                          "Sentence": "洗濯室又は洗濯場"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": "前項第九号に掲げる作業室又は作業場には、作業に従事する者の安全を確保するための設備を設けなければならない。"
+                    }
+                  },
+                  {
+                    "@Num": "3",
+                    "ParagraphNum": "３",
+                    "ParagraphSentence": {
+                      "Sentence": "前二項に規定するもののほか、更生施設の設備の基準については、第十条第一項、第二項、第五項第一号（ホを除く。）及び第二号から第六号まで並びに第六項の規定を準用する。"
+                    }
+                  }
+                ]
+              },
+              {
+                "@Num": "19",
+                "ArticleCaption": "（職員の配置の基準）",
+                "ArticleTitle": "第十九条",
+                "Paragraph": [
+                  {
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": [
+                        {
+                          "@Function": "main",
+                          "@Num": "1",
+                          "#text": "更生施設には、次の各号に掲げる職員を置かなければならない。"
+                        },
+                        {
+                          "@Function": "proviso",
+                          "@Num": "2",
+                          "#text": "ただし、調理業務の全部を委託する更生施設にあつては、第七号に掲げる職員を置かないことができる。"
+                        }
+                      ]
+                    },
+                    "Item": [
+                      {
+                        "@Num": "1",
+                        "ItemTitle": "一",
+                        "ItemSentence": {
+                          "Sentence": "施設長"
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "ItemTitle": "二",
+                        "ItemSentence": {
+                          "Sentence": "医師"
+                        }
+                      },
+                      {
+                        "@Num": "3",
+                        "ItemTitle": "三",
+                        "ItemSentence": {
+                          "Sentence": "生活指導員"
+                        }
+                      },
+                      {
+                        "@Num": "4",
+                        "ItemTitle": "四",
+                        "ItemSentence": {
+                          "Sentence": "作業指導員"
+                        }
+                      },
+                      {
+                        "@Num": "5",
+                        "ItemTitle": "五",
+                        "ItemSentence": {
+                          "Sentence": "看護師又は准看護師"
+                        }
+                      },
+                      {
+                        "@Num": "6",
+                        "ItemTitle": "六",
+                        "ItemSentence": {
+                          "Sentence": "栄養士"
+                        }
+                      },
+                      {
+                        "@Num": "7",
+                        "ItemTitle": "七",
+                        "ItemSentence": {
+                          "Sentence": "調理員"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": "生活指導員、作業指導員及び看護師又は准看護師の総数は、入所人員が百五十人以下の施設にあつては六人以上、入所人員が百五十人を超える施設にあつては六人に百五十人を超える部分四十人につき一人を加えた数以上とする。"
+                    }
+                  }
+                ]
+              },
+              {
+                "@Num": "20",
+                "ArticleCaption": "（生活指導等）",
+                "ArticleTitle": "第二十条",
+                "Paragraph": [
+                  {
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": "更生施設は、入所者の勤労意欲を助長するとともに、入所者が退所後健全な社会生活を営むことができるよう入所者各人の精神及び身体の条件に適合する更生計画を作成し、これに基づく指導をしなければならない。"
+                    }
+                  },
+                  {
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": "前項に定めるもののほか、生活指導等については、第十六条（第二項を除く。）の規定を準用する。"
+                    }
+                  }
+                ]
+              },
+              {
+                "@Num": "21",
+                "ArticleCaption": "（作業指導）",
+                "ArticleTitle": "第二十一条",
+                "Paragraph": [
+                  {
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": "更生施設は、入所者に対し、前条第一項の更生計画に従つて、入所者が退所後自立するのに必要な程度の技能を修得させなければならない。"
+                    }
+                  },
+                  {
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": "作業指導の種目を決定するに当たつては、地域の実情及び入所者の職歴を考慮しなければならない。"
+                    }
+                  }
+                ]
+              },
+              {
+                "@Num": "22",
+                "ArticleCaption": "（準用）",
+                "ArticleTitle": "第二十二条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "第十二条から第十五条まで及び第十六条の二の規定は、更生施設について準用する。"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "@Num": "4",
+            "ChapterTitle": "第四章　授産施設",
+            "Article": [
+              {
+                "@Num": "23",
+                "ArticleCaption": "（規模）",
+                "ArticleTitle": "第二十三条",
+                "Paragraph": [
+                  {
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": "授産施設は、二十人以上の人員を利用させることができる規模を有しなければならない。"
+                    }
+                  },
+                  {
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": "授産施設は、被保護者の数が当該施設における利用者の総数のうちに占める割合がおおむね五十パーセント以上としなければならない。"
+                    }
+                  }
+                ]
+              },
+              {
+                "@Num": "24",
+                "ArticleCaption": "（設備の基準）",
+                "ArticleTitle": "第二十四条",
+                "Paragraph": [
+                  {
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": [
+                        {
+                          "@Function": "main",
+                          "@Num": "1",
+                          "#text": "授産施設には、次の各号に掲げる設備を設けなければならない。"
+                        },
+                        {
+                          "@Function": "proviso",
+                          "@Num": "2",
+                          "#text": "ただし、他の社会福祉施設等の設備を利用することにより施設の効果的な運営を期待することができる場合であつて、利用者の処遇に支障がないときは、設備の一部を設けないことができる。"
+                        }
+                      ]
+                    },
+                    "Item": [
+                      {
+                        "@Num": "1",
+                        "ItemTitle": "一",
+                        "ItemSentence": {
+                          "Sentence": "作業室"
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "ItemTitle": "二",
+                        "ItemSentence": {
+                          "Sentence": "作業設備"
+                        }
+                      },
+                      {
+                        "@Num": "3",
+                        "ItemTitle": "三",
+                        "ItemSentence": {
+                          "Sentence": "食堂"
+                        }
+                      },
+                      {
+                        "@Num": "4",
+                        "ItemTitle": "四",
+                        "ItemSentence": {
+                          "Sentence": "洗面所"
+                        }
+                      },
+                      {
+                        "@Num": "5",
+                        "ItemTitle": "五",
+                        "ItemSentence": {
+                          "Sentence": "便所"
+                        }
+                      },
+                      {
+                        "@Num": "6",
+                        "ItemTitle": "六",
+                        "ItemSentence": {
+                          "Sentence": "事務室"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": "第一項各号に掲げる設備の基準は、次のとおりとする。"
+                    },
+                    "Item": [
+                      {
+                        "@Num": "1",
+                        "ItemTitle": "一",
+                        "ItemSentence": {
+                          "Sentence": "作業室"
+                        },
+                        "Subitem1": [
+                          {
+                            "@Num": "1",
+                            "Subitem1Title": "イ",
+                            "Subitem1Sentence": {
+                              "Sentence": "必要に応じて危害防止設備を設け、又は保護具を備えること。"
+                            }
+                          },
+                          {
+                            "@Num": "2",
+                            "Subitem1Title": "ロ",
+                            "Subitem1Sentence": {
+                              "Sentence": "一以上の出入口は、避難上有効な空地、廊下又は広間に直接面して設けること。"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "@Num": "2",
+                        "ItemTitle": "二",
+                        "ItemSentence": {
+                          "Column": [
+                            {
+                              "@LineBreak": "true",
+                              "@Num": "1",
+                              "Sentence": "便所"
+                            },
+                            {
+                              "@Num": "2",
+                              "Sentence": "男子用と女子用を別に設けること。"
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "@Num": "25",
+                "ArticleCaption": "（職員の配置の基準）",
+                "ArticleTitle": "第二十五条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "授産施設には、次の各号に掲げる職員を置かなければならない。"
+                  },
+                  "Item": [
+                    {
+                      "@Num": "1",
+                      "ItemTitle": "一",
+                      "ItemSentence": {
+                        "Sentence": "施設長"
+                      }
+                    },
+                    {
+                      "@Num": "2",
+                      "ItemTitle": "二",
+                      "ItemSentence": {
+                        "Sentence": "作業指導員"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "@Num": "26",
+                "ArticleCaption": "（工賃の支払）",
+                "ArticleTitle": "第二十六条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "授産施設の利用者には、事業収入の額から、事業に必要な経費の額を控除した額に相当する額の工賃を支払わなければならない。"
+                  }
+                }
+              },
+              {
+                "@Num": "27",
+                "ArticleCaption": "（自立指導）",
+                "ArticleTitle": "第二十七条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "授産施設は、利用者に対し、作業を通じて自立のために必要な指導を行なわなければならない。"
+                  }
+                }
+              },
+              {
+                "@Num": "27_2",
+                "ArticleTitle": "第二十七条の二",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "第十五条の規定（医薬品、衛生材料及び医療機械器具の管理に係る部分を除く。）は、授産施設について準用する。"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "@Num": "5",
+            "ChapterTitle": "第五章　宿所提供施設",
+            "Article": [
+              {
+                "@Num": "28",
+                "ArticleCaption": "（規模）",
+                "ArticleTitle": "第二十八条",
+                "Paragraph": [
+                  {
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": "宿所提供施設は、三十人以上の人員を利用させることができる規模を有しなければならない。"
+                    }
+                  },
+                  {
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": "宿所提供施設は、被保護者の数が当該施設における入所者の総数のうちに占める割合がおおむね五十パーセント以上としなければならない。"
+                    }
+                  }
+                ]
+              },
+              {
+                "@Num": "29",
+                "ArticleCaption": "（設備の基準）",
+                "ArticleTitle": "第二十九条",
+                "Paragraph": [
+                  {
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": [
+                        {
+                          "@Function": "main",
+                          "@Num": "1",
+                          "#text": "宿所提供施設には、次の各号に掲げる設備を設けなければならない。"
+                        },
+                        {
+                          "@Function": "proviso",
+                          "@Num": "2",
+                          "#text": "ただし、他の社会福祉施設等の設備を利用することにより施設の効果的な運営を期待することができる場合であつて、入所者の処遇に支障がないときは、設備の一部を設けないことができる。"
+                        }
+                      ]
+                    },
+                    "Item": [
+                      {
+                        "@Num": "1",
+                        "ItemTitle": "一",
+                        "ItemSentence": {
+                          "Sentence": "居室"
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "ItemTitle": "二",
+                        "ItemSentence": {
+                          "Sentence": "炊事設備"
+                        }
+                      },
+                      {
+                        "@Num": "3",
+                        "ItemTitle": "三",
+                        "ItemSentence": {
+                          "Sentence": "便所"
+                        }
+                      },
+                      {
+                        "@Num": "4",
+                        "ItemTitle": "四",
+                        "ItemSentence": {
+                          "Sentence": "面接室"
+                        }
+                      },
+                      {
+                        "@Num": "5",
+                        "ItemTitle": "五",
+                        "ItemSentence": {
+                          "Sentence": "事務室"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": "前項第二号に掲げる炊事設備の火器を使用する部分は、不燃材料を用いなければならない。"
+                    }
+                  },
+                  {
+                    "@Num": "3",
+                    "ParagraphNum": "３",
+                    "ParagraphSentence": {
+                      "Sentence": "前二項に規定するもののほか、宿所提供施設の設備の基準については、第十条第五項第一号（ホを除く。）並びに第六項第一号及び第二号の規定を準用する。"
+                    }
+                  }
+                ]
+              },
+              {
+                "@Num": "30",
+                "ArticleCaption": "（職員の配置の基準）",
+                "ArticleTitle": "第三十条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "宿所提供施設には、施設長を置かなければならない。"
+                  }
+                }
+              },
+              {
+                "@Num": "31",
+                "ArticleCaption": "（居室の利用世帯）",
+                "ArticleTitle": "第三十一条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "一の居室は、やむを得ない理由がある場合を除き、二以上の世帯に利用させてはならない。"
+                  }
+                }
+              },
+              {
+                "@Num": "32",
+                "ArticleCaption": "（生活相談）",
+                "ArticleTitle": "第三十二条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "宿所提供施設は、生活の相談に応ずる等利用者の生活の向上を図ることに努めなければならない。"
+                  }
+                }
+              },
+              {
+                "@Num": "33",
+                "ArticleTitle": "第三十三条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "第十五条の規定（医薬品、衛生材料及び医療機械器具の管理に係る部分を除く。）は、宿所提供施設について準用する。"
+                  }
+                }
+              }
+            ]
+          }
+        ]
+      },
+      "SupplProvision": [
+        {
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": [
+            {
+              "@Num": "1",
+              "ParagraphNum": "１",
+              "ParagraphSentence": {
+                "Sentence": "この省令は、昭和四十一年十月一日から施行する。"
+              }
+            },
+            {
+              "@Num": "2",
+              "ParagraphNum": "２",
+              "ParagraphSentence": {
+                "Sentence": "この省令の施行の際現に存する救護施設等については、第九条第一項及び第二項、第十条第一項（第十八条第三項において準用する場合を含む。）、第五項第一号ロ（第十八条第三項及び第二十九条第三項において準用する場合を含む。）及び第六項第一号（第十八条第三項及び第二十九条第三項において準用する場合を含む。）、第十七条第一項、第二十三条第一項並びに第二十八条第一項の規定は、当分の間適用しない。"
+              }
+            }
+          ]
+        },
+        {
+          "@AmendLawNum": "昭和五八年四月一日厚生省令第一六号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この省令は、公布の日から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "昭和六二年三月九日厚生省令第一二号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Article": [
+            {
+              "@Num": "1",
+              "ArticleCaption": "（施行期日）",
+              "ArticleTitle": "第一条",
+              "Paragraph": {
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": "この省令は、公布の日から施行する。"
+                }
+              }
+            },
+            {
+              "@Num": "3",
+              "ArticleCaption": "（救護施設、更生施設、授産施設及び宿所提供施設の設備及び運営に関する最低基準の一部改正に伴う経過措置）",
+              "ArticleTitle": "第三条",
+              "Paragraph": [
+                {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "この省令の施行の際現に存する救護施設については、この省令による改正後の救護施設、更生施設、授産施設及び宿所提供施設の設備及び運営に関する最低基準（以下「最低基準」という。）第十条第三項第十五号の規定は、当分の間適用しない。"
+                  }
+                },
+                {
+                  "@Num": "2",
+                  "ParagraphNum": "２",
+                  "ParagraphSentence": {
+                    "Sentence": "この省令の施行の際現に存する救護施設、更生施設及び宿所提供施設については、最低基準第十二条（第二十二条において準用する場合を含む。）及び第二十九条第三項において準用する第十条第四項第一号ロの規定にかかわらず、なお従前の例による。"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "@AmendLawNum": "平成三年四月一二日厚生省令第三〇号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この省令は、公布の日から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成六年四月八日厚生省令第三二号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この省令は、公布の日から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成一二年六月七日厚生省令第一〇〇号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphCaption": "（施行期日）",
+            "ParagraphNum": "１",
+            "ParagraphSentence": {
+              "Sentence": "この省令は、公布の日から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成一四年二月二二日厚生労働省令第一四号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": "１",
+            "ParagraphSentence": {
+              "Sentence": "この省令は、保健婦助産婦看護婦法の一部を改正する法律の施行の日（平成十四年三月一日）から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成一六年一月二〇日厚生労働省令第一号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この省令は、公布の日から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成一六年三月二九日厚生労働省令第四八号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この省令は、平成十六年四月一日から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成一八年三月三一日厚生労働省令第七六号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Article": {
+            "@Num": "1",
+            "ArticleCaption": "（施行期日）",
+            "ArticleTitle": "第一条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "この省令は、平成十八年四月一日から施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成二三年九月三〇日厚生労働省令第一二三号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この省令は、平成二十三年十月一日から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成二三年一二月二一日厚生労働省令第一五〇号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Article": {
+            "@Num": "1",
+            "ArticleCaption": "（施行期日）",
+            "ArticleTitle": "第一条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "この省令は、平成二十四年四月一日から施行する。"
+              }
+            }
+          }
+        }
+      ]
+    }
+  }
+}

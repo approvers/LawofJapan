@@ -1,0 +1,759 @@
+{
+  "Law": {
+    "@Era": "Heisei",
+    "@Lang": "ja",
+    "@LawType": "Rule",
+    "@Num": "10_15",
+    "@Year": "28",
+    "LawNum": "人事院規則一〇―一五",
+    "LawBody": {
+      "LawTitle": "人事院規則一〇―一五（妊娠、出産、育児又は介護に関するハラスメントの防止等）",
+      "EnactStatement": "人事院は、国家公務員法に基づき、妊娠、出産、育児又は介護に関するハラスメントの防止等に関し次の人事院規則を制定する。",
+      "MainProvision": {
+        "Article": [
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "1",
+            "ArticleCaption": "（趣旨）",
+            "ArticleTitle": "第一条",
+            "Paragraph": {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "この規則は、人事行政の公正の確保、職員の利益の保護及び職員の能率の発揮を目的として、妊娠、出産、育児又は介護に関するハラスメントの防止のための措置及び妊娠、出産、育児又は介護に関するハラスメントが生じた場合に適切に対応するための措置に関し、必要な事項を定めるものとする。"
+                }
+              }
+            }
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "2",
+            "ArticleCaption": "（定義）",
+            "ArticleTitle": "第二条",
+            "Paragraph": {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "この規則において、「妊娠、出産、育児又は介護に関するハラスメント」とは、職場における次に掲げるものをいう。"
+                }
+              },
+              "Item": [
+                {
+                  "@Delete": "false",
+                  "@Hide": "false",
+                  "@Num": "1",
+                  "ItemTitle": "一",
+                  "ItemSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "職員に対する次に掲げる事由に関する言動により当該職員の勤務環境が害されること。"
+                    }
+                  },
+                  "Subitem1": [
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "1",
+                      "Subitem1Title": "イ",
+                      "Subitem1Sentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "妊娠したこと。"
+                        }
+                      }
+                    },
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "2",
+                      "Subitem1Title": "ロ",
+                      "Subitem1Sentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "出産したこと。"
+                        }
+                      }
+                    },
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "3",
+                      "Subitem1Title": "ハ",
+                      "Subitem1Sentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "妊娠又は出産に起因する症状により勤務することができないこと若しくはできなかったこと又は能率が低下したこと。"
+                        }
+                      }
+                    }
+                  ]
+                },
+                {
+                  "@Delete": "false",
+                  "@Hide": "false",
+                  "@Num": "2",
+                  "ItemTitle": "二",
+                  "ItemSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "職員に対する次に掲げる妊娠又は出産に関する制度又は措置の利用に関する言動により当該職員の勤務環境が害されること。"
+                    }
+                  },
+                  "Subitem1": [
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "1",
+                      "Subitem1Title": "イ",
+                      "Subitem1Sentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "規則一〇―七（女子職員及び年少職員の健康、安全及び福祉）第三条第一項の規定により妊娠、出産、哺育等に有害な業務に就かせないこと。"
+                        }
+                      }
+                    },
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "2",
+                      "Subitem1Title": "ロ",
+                      "Subitem1Sentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "規則一〇―七第四条の規定により深夜勤務又は正規の勤務時間等以外の時間における勤務をさせないこと。"
+                        }
+                      }
+                    },
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "3",
+                      "Subitem1Title": "ハ",
+                      "Subitem1Sentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "規則一〇―七第五条の規定による保健指導又は健康診査を受けるため勤務しないこと。"
+                        }
+                      }
+                    },
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "4",
+                      "Subitem1Title": "ニ",
+                      "Subitem1Sentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "規則一〇―七第六条第一項の規定により業務を軽減し、又は他の軽易な業務に就かせること。"
+                        }
+                      }
+                    },
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "5",
+                      "Subitem1Title": "ホ",
+                      "Subitem1Sentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "規則一〇―七第六条第二項の規定による休息し、又は補食するため勤務しないこと。"
+                        }
+                      }
+                    },
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "6",
+                      "Subitem1Title": "ヘ",
+                      "Subitem1Sentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "規則一〇―七第七条の規定による正規の勤務時間等の始め又は終わりにおいて勤務しないこと。"
+                        }
+                      }
+                    },
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "7",
+                      "Subitem1Title": "ト",
+                      "Subitem1Sentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "規則一五―一四（職員の勤務時間、休日及び休暇）第二十二条第一項第六号又は規則一五―一五（非常勤職員の勤務時間及び休暇）第四条第二項第一号の規定による六週間（多胎妊娠の場合にあっては、十四週間）以内に出産する予定である場合の休暇"
+                        }
+                      }
+                    },
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "8",
+                      "Subitem1Title": "チ",
+                      "Subitem1Sentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "規則一五―一四第二十二条第一項第七号又は規則一五―一五第四条第二項第二号の規定による出産した場合の休暇"
+                        }
+                      }
+                    },
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "9",
+                      "Subitem1Title": "リ",
+                      "Subitem1Sentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "規則一五―一四第二十二条第一項第八号又は規則一五―一五第四条第二項第三号の規定による保育のために必要と認められる授乳等を行う場合の休暇"
+                        }
+                      }
+                    },
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "10",
+                      "Subitem1Title": "ヌ",
+                      "Subitem1Sentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "規則一五―一四第二十二条第一項第九号の規定による妻の出産に伴う休暇"
+                        }
+                      }
+                    },
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "11",
+                      "Subitem1Title": "ル",
+                      "Subitem1Sentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "規則一五―一五第四条第二項第九号の規定による保健指導又は健康診査に基づく指導事項を守るための休暇"
+                        }
+                      }
+                    },
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "12",
+                      "Subitem1Title": "ヲ",
+                      "Subitem1Sentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "イからルまでに掲げるもののほか、人事院の定める妊娠又は出産に関する制度又は措置"
+                        }
+                      }
+                    }
+                  ]
+                },
+                {
+                  "@Delete": "false",
+                  "@Hide": "false",
+                  "@Num": "3",
+                  "ItemTitle": "三",
+                  "ItemSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "職員に対する次に掲げる育児に関する制度又は措置の利用に関する言動により当該職員の勤務環境が害されること。"
+                    }
+                  },
+                  "Subitem1": [
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "1",
+                      "Subitem1Title": "イ",
+                      "Subitem1Sentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "育児休業法第三条第一項に規定する育児休業"
+                        }
+                      }
+                    },
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "2",
+                      "Subitem1Title": "ロ",
+                      "Subitem1Sentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "育児休業法第十二条第一項に規定する育児短時間勤務"
+                        }
+                      }
+                    },
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "3",
+                      "Subitem1Title": "ハ",
+                      "Subitem1Sentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "育児休業法第二十六条第一項に規定する育児時間"
+                        }
+                      }
+                    },
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "4",
+                      "Subitem1Title": "ニ",
+                      "Subitem1Sentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "勤務時間法第六条第四項の規定により週休日を設け、及び勤務時間を割り振ること。"
+                        }
+                      }
+                    },
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "5",
+                      "Subitem1Title": "ホ",
+                      "Subitem1Sentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "規則一〇―一一（育児又は介護を行う職員の早出遅出勤務並びに深夜勤務及び超過勤務の制限）第三条の規定により早出遅出勤務をさせること。"
+                        }
+                      }
+                    },
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "6",
+                      "Subitem1Title": "ヘ",
+                      "Subitem1Sentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "規則一〇―一一第六条の規定により深夜勤務をさせないこと。"
+                        }
+                      }
+                    },
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "7",
+                      "Subitem1Title": "ト",
+                      "Subitem1Sentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "規則一〇―一一第九条又は第十条の規定により超過勤務をさせないこと。"
+                        }
+                      }
+                    },
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "8",
+                      "Subitem1Title": "チ",
+                      "Subitem1Sentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "規則一五―一四第二十二条第一項第十号の規定による子の養育のための休暇"
+                        }
+                      }
+                    },
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "9",
+                      "Subitem1Title": "リ",
+                      "Subitem1Sentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "規則一五―一四第二十二条第一項第十一号又は規則一五―一五第四条第二項第四号の規定による子の看護のための休暇"
+                        }
+                      }
+                    },
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "10",
+                      "Subitem1Title": "ヌ",
+                      "Subitem1Sentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "イからリまでに掲げるもののほか、人事院の定める育児に関する制度又は措置"
+                        }
+                      }
+                    }
+                  ]
+                },
+                {
+                  "@Delete": "false",
+                  "@Hide": "false",
+                  "@Num": "4",
+                  "ItemTitle": "四",
+                  "ItemSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "職員に対する次に掲げる介護に関する制度又は措置の利用に関する言動により当該職員の勤務環境が害されること。"
+                    }
+                  },
+                  "Subitem1": [
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "1",
+                      "Subitem1Title": "イ",
+                      "Subitem1Sentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "勤務時間法第六条第四項の規定により週休日を設け、及び勤務時間を割り振ること。"
+                        }
+                      }
+                    },
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "2",
+                      "Subitem1Title": "ロ",
+                      "Subitem1Sentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "勤務時間法第二十条第一項に規定する介護休暇又は規則一五―一五第四条第二項第六号の規定による要介護者の介護をするための休暇"
+                        }
+                      }
+                    },
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "3",
+                      "Subitem1Title": "ハ",
+                      "Subitem1Sentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "勤務時間法第二十条の二第一項に規定する介護時間又は規則一五―一五第四条第二項第七号の規定による要介護者の介護をするための休暇"
+                        }
+                      }
+                    },
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "4",
+                      "Subitem1Title": "ニ",
+                      "Subitem1Sentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "規則一〇―一一第十三条の規定により読み替えられた同規則第三条の規定により早出遅出勤務をさせること。"
+                        }
+                      }
+                    },
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "5",
+                      "Subitem1Title": "ホ",
+                      "Subitem1Sentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "規則一〇―一一第十三条の規定により読み替えられた同規則第六条の規定により深夜勤務をさせないこと。"
+                        }
+                      }
+                    },
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "6",
+                      "Subitem1Title": "ヘ",
+                      "Subitem1Sentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "規則一〇―一一第十三条の規定により読み替えられた同規則第九条又は第十条の規定により超過勤務をさせないこと。"
+                        }
+                      }
+                    },
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "7",
+                      "Subitem1Title": "ト",
+                      "Subitem1Sentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "規則一五―一四第二十二条第一項第十二号又は規則一五―一五第四条第二項第五号の規定による要介護者の世話を行うための休暇"
+                        }
+                      }
+                    },
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "8",
+                      "Subitem1Title": "チ",
+                      "Subitem1Sentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "イからトまでに掲げるもののほか、人事院の定める介護に関する制度又は措置"
+                        }
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "3",
+            "ArticleCaption": "（人事院の責務）",
+            "ArticleTitle": "第三条",
+            "Paragraph": {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "人事院は、妊娠、出産、育児又は介護に関するハラスメントの防止及び妊娠、出産、育児又は介護に関するハラスメントが生じた場合の対応（以下「妊娠、出産、育児又は介護に関するハラスメントの防止等」という。）に関する施策についての企画立案を行うとともに、各省各庁の長が妊娠、出産、育児又は介護に関するハラスメントの防止等のために実施する措置に関する調整、指導及び助言に当たらなければならない。"
+                }
+              }
+            }
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "4",
+            "ArticleCaption": "（各省各庁の長の責務）",
+            "ArticleTitle": "第四条",
+            "Paragraph": {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": [
+                  {
+                    "@Num": "1",
+                    "@WritingMode": "vertical",
+                    "#text": "各省各庁の長は、職員がその能率を充分に発揮できるような勤務環境を確保するため、妊娠、出産、育児又は介護に関するハラスメントの防止に関し、必要な措置を講ずるとともに、妊娠、出産、育児又は介護に関するハラスメントが生じた場合においては、必要な措置を迅速かつ適切に講じなければならない。"
+                  },
+                  {
+                    "@Num": "2",
+                    "@WritingMode": "vertical",
+                    "#text": "この場合において、妊娠、出産、育児又は介護に関するハラスメントに対する苦情の申出、当該苦情等に係る調査への協力その他妊娠、出産、育児又は介護に関するハラスメントが生じた場合の職員の対応に起因して当該職員が職場において不利益を受けることがないようにしなければならない。"
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "5",
+            "ArticleCaption": "（職員の責務）",
+            "ArticleTitle": "第五条",
+            "Paragraph": [
+              {
+                "@Hide": "false",
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "職員は、次条第一項の指針の定めるところに従い、自らの言動により、妊娠、出産、育児又は介護に関するハラスメントを生じさせないように注意しなければならない。"
+                  }
+                }
+              },
+              {
+                "@Hide": "false",
+                "@Num": "2",
+                "ParagraphNum": "２",
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "職員を監督する地位にある者（以下「監督者」という。）は、良好な勤務環境を確保するため、日常の執務を通じた指導等により妊娠、出産、育児又は介護に関するハラスメントの防止に努めるとともに、妊娠、出産、育児又は介護に関するハラスメントが生じた場合には、迅速かつ適切に対応しなければならない。"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "6",
+            "ArticleCaption": "（職員に対する指針）",
+            "ArticleTitle": "第六条",
+            "Paragraph": [
+              {
+                "@Hide": "false",
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "人事院は、妊娠、出産、育児又は介護に関するハラスメントを生じさせないために職員が認識すべき事項及び妊娠、出産、育児又は介護に関するハラスメントが生じた場合において職員に望まれる事項について、指針を定めるものとする。"
+                  }
+                }
+              },
+              {
+                "@Hide": "false",
+                "@Num": "2",
+                "ParagraphNum": "２",
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "各省各庁の長は、職員に対し、前項の指針の周知徹底を図らなければならない。"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "7",
+            "ArticleCaption": "（研修等）",
+            "ArticleTitle": "第七条",
+            "Paragraph": [
+              {
+                "@Hide": "false",
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "各省各庁の長は、妊娠、出産、育児又は介護に関するハラスメントの防止等を図るため、職員に対し、必要な研修等を実施しなければならない。"
+                  }
+                }
+              },
+              {
+                "@Hide": "false",
+                "@Num": "2",
+                "ParagraphNum": "２",
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "各省各庁の長は、新たに職員となった者に対し、妊娠、出産、育児又は介護に関するハラスメントに関する基本的な事項について理解させるため、及び新たに監督者となった職員に対し、妊娠、出産、育児又は介護に関するハラスメントの防止等に関しその求められる役割について理解させるために、研修を実施するものとする。"
+                  }
+                }
+              },
+              {
+                "@Hide": "false",
+                "@Num": "3",
+                "ParagraphNum": "３",
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "人事院は、各省各庁の長が前二項の規定により実施する研修等の調整及び指導に当たるとともに、自ら実施することが適当と認められる妊娠、出産、育児又は介護に関するハラスメントの防止等のための研修について計画を立て、その実施に努めるものとする。"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "8",
+            "ArticleCaption": "（苦情相談への対応）",
+            "ArticleTitle": "第八条",
+            "Paragraph": [
+              {
+                "@Hide": "false",
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": [
+                    {
+                      "@Num": "1",
+                      "@WritingMode": "vertical",
+                      "#text": "各省各庁の長は、人事院の定めるところにより、妊娠、出産、育児又は介護に関するハラスメントに関する苦情の申出及び相談（以下「苦情相談」という。）が職員からなされた場合に対応するため、苦情相談を受ける職員（以下「相談員」という。）を配置し、相談員が苦情相談を受ける日時及び場所を指定する等必要な体制を整備しなければならない。"
+                    },
+                    {
+                      "@Num": "2",
+                      "@WritingMode": "vertical",
+                      "#text": "この場合において、各省各庁の長は、苦情相談を受ける体制を職員に対して明示するものとする。"
+                    }
+                  ]
+                }
+              },
+              {
+                "@Hide": "false",
+                "@Num": "2",
+                "ParagraphNum": "２",
+                "ParagraphSentence": {
+                  "Sentence": [
+                    {
+                      "@Num": "1",
+                      "@WritingMode": "vertical",
+                      "#text": "相談員は、苦情相談に係る問題の事実関係の確認及び当該苦情相談に係る当事者に対する助言等により、当該問題を迅速かつ適切に解決するよう努めるものとする。"
+                    },
+                    {
+                      "@Num": "2",
+                      "@WritingMode": "vertical",
+                      "#text": "この場合において、相談員は、人事院が苦情相談への対応について定める指針に十分留意しなければならない。"
+                    }
+                  ]
+                }
+              },
+              {
+                "@Hide": "false",
+                "@Num": "3",
+                "ParagraphNum": "３",
+                "ParagraphSentence": {
+                  "Sentence": [
+                    {
+                      "@Num": "1",
+                      "@WritingMode": "vertical",
+                      "#text": "職員は、相談員に対して苦情相談を行うほか、人事院に対しても苦情相談を行うことができる。"
+                    },
+                    {
+                      "@Num": "2",
+                      "@WritingMode": "vertical",
+                      "#text": "この場合において、人事院は、苦情相談を行った職員等から事情の聴取を行う等の必要な調査を行い、当該職員等に対して指導、助言及び必要なあっせん等を行うものとする。"
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      "SupplProvision": {
+        "SupplProvisionLabel": "附　則",
+        "Paragraph": [
+          {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphCaption": "（施行期日）",
+            "ParagraphNum": "１",
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この規則は、平成二十九年一月一日から施行する。"
+              }
+            }
+          },
+          {
+            "@Hide": "false",
+            "@Num": "2",
+            "ParagraphCaption": "（人事院規則二―三の一部改正）",
+            "ParagraphNum": "２",
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "人事院規則二―三（人事院事務総局等の組織）の一部を次のように改正する。"
+              }
+            },
+            "AmendProvision": {
+              "AmendProvisionSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "第二十条第一項第八号中「セクシュアル・ハラスメント」の下に「及び妊娠、出産、育児又は介護に関するハラスメント」を加える。"
+                }
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

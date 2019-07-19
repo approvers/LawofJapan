@@ -1,0 +1,108 @@
+{
+  "Law": {
+    "@Era": "Heisei",
+    "@Lang": "ja",
+    "@LawType": "CabinetOrder",
+    "@Num": "241",
+    "@Year": "16",
+    "LawNum": "平成十六年政令第二百四十一号",
+    "LawBody": {
+      "LawTitle": "金融機能強化審査会令",
+      "EnactStatement": "内閣は、金融機能の強化のための特別措置に関する法律（平成十六年法律第百二十八号）第五十三条の規定に基づき、この政令を制定する。",
+      "MainProvision": {
+        "Article": [
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "1",
+            "ArticleCaption": "（議事）",
+            "ArticleTitle": "第一条",
+            "Paragraph": [
+              {
+                "@Hide": "false",
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "金融機能強化審査会は、委員の過半数が出席しなければ、会議を開き、議決することができない。"
+                  }
+                }
+              },
+              {
+                "@Hide": "false",
+                "@Num": "2",
+                "ParagraphNum": "２",
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "金融機能強化審査会の議事は、委員で会議に出席したものの過半数で決し、可否同数のときは、会長の決するところによる。"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "2",
+            "ArticleCaption": "（庶務）",
+            "ArticleTitle": "第二条",
+            "Paragraph": {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "金融機能強化審査会の庶務は、金融庁監督局総務課において処理する。"
+                }
+              }
+            }
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "3",
+            "ArticleCaption": "（雑則）",
+            "ArticleTitle": "第三条",
+            "Paragraph": {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "この政令に定めるもののほか、議事の手続その他金融機能強化審査会の運営に関し必要な事項は、会長が金融機能強化審査会に諮って定める。"
+                }
+              }
+            }
+          }
+        ]
+      },
+      "SupplProvision": {
+        "@Extract": "true",
+        "@Type": "New",
+        "SupplProvisionLabel": "附　則",
+        "Article": {
+          "@Delete": "false",
+          "@Hide": "false",
+          "@Num": "1",
+          "ArticleCaption": "（施行期日）",
+          "ArticleTitle": "第一条",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この政令は、金融機能の強化のための特別措置に関する法律の施行の日（平成十六年八月一日）から施行する。"
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

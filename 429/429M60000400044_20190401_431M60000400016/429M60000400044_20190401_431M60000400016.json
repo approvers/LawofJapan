@@ -1,0 +1,156 @@
+{
+  "Law": {
+    "@Era": "Heisei",
+    "@Lang": "ja",
+    "@LawType": "MinisterialOrdinance",
+    "@Num": "044",
+    "@Year": "29",
+    "LawNum": "平成二十九年経済産業省令第四十四号",
+    "LawBody": {
+      "LawTitle": "経済産業省関係福島復興再生特別措置法施行規則",
+      "EnactStatement": "福島復興再生特別措置法（平成二十四年法律第二十五号）を実施するため、及び福島復興再生特別措置法施行令（平成二十四年政令第百十五号）第四十一条第四項の規定に基づき、経済産業省関係福島復興再生特別措置法施行規則を次のように定める。",
+      "MainProvision": {
+        "Article": [
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "1",
+            "ArticleCaption": "（国有試験研究施設の減額使用の申請）",
+            "ArticleTitle": "第一条",
+            "Paragraph": {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "福島復興再生特別措置法施行令（次条において「令」という。）第三十九条第二項の規定による認定を受けようとする者は、様式第一による申請書に次に掲げる書類を添えて、経済産業大臣に提出しなければならない。"
+                }
+              },
+              "Item": [
+                {
+                  "@Delete": "false",
+                  "@Hide": "false",
+                  "@Num": "1",
+                  "ItemTitle": "一",
+                  "ItemSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "認定を受けようとする試験研究の実施計画及び使用する必要がある国有の試験研究施設を記載した書類"
+                    }
+                  }
+                },
+                {
+                  "@Delete": "false",
+                  "@Hide": "false",
+                  "@Num": "2",
+                  "ItemTitle": "二",
+                  "ItemSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "認定を受けようとする者が当該認定を受けようとする試験研究を行うために必要な技術的能力を有することを説明した書類"
+                    }
+                  }
+                },
+                {
+                  "@Delete": "false",
+                  "@Hide": "false",
+                  "@Num": "3",
+                  "ItemTitle": "三",
+                  "ItemSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "認定を受けようとする試験研究が認定重点推進計画（福島復興再生特別措置法第八十三条に規定する認定重点推進計画をいう。）に基づいて行う同法第八十一条第三項に規定する事業に係る試験研究であることを証する書面"
+                    }
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "2",
+            "ArticleCaption": "（国有試験研究施設の減額使用の認定）",
+            "ArticleTitle": "第二条",
+            "Paragraph": {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "経済産業大臣は、前条の申請書を受理した場合であって、令第三十九条第二項の規定による認定をしたときは、その申請をした者に様式第二による認定書を交付するものとする。"
+                }
+              }
+            }
+          }
+        ]
+      },
+      "SupplProvision": [
+        {
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Article": {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "1",
+            "ArticleCaption": "（施行期日）",
+            "ArticleTitle": "第一条",
+            "Paragraph": {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "この省令は、福島復興再生特別措置法の一部を改正する法律（平成二十九年法律第三十二号）の施行の日から施行する。"
+                }
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成三一年二月二八日経済産業省令第一六号",
+          "@Type": "Amend",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この省令は、不正競争防止法等の一部を改正する法律附則第一条第四号に掲げる規定の施行の日（平成三十一年四月一日）から施行する。"
+              }
+            }
+          }
+        }
+      ],
+      "AppdxStyle": [
+        {
+          "AppdxStyleTitle": "様式第１",
+          "RelatedArticleNum": "（第１条関係）",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/H29F15001000044-001.pdf"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": "様式第２",
+          "RelatedArticleNum": "（第２条関係）",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/H29F15001000044-002.pdf"
+              }
+            }
+          }
+        }
+      ]
+    }
+  }
+}

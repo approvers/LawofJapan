@@ -1,0 +1,1958 @@
+{
+  "Law": {
+    "@Era": "Heisei",
+    "@Lang": "ja",
+    "@LawType": "MinisterialOrdinance",
+    "@Num": "086",
+    "@Year": "15",
+    "LawNum": "平成十五年厚生労働省令第八十六号",
+    "LawBody": {
+      "LawTitle": "健康増進法施行規則",
+      "EnactStatement": "健康増進法（平成十四年法律第百三号）第十一条第一項、第十二条第二項、第十五条、第二十条第一項、第二十一条、第二十六条第一項、同条第二項及び第五項（第二十九条第二項において準用する場合を含む。）並びに第三十一条第一項並びに第二項第二号及び第三号の規定に基づき、並びに同法を実施するため、健康増進法施行規則を次のように定める。",
+      "MainProvision": {
+        "Article": [
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "1",
+            "ArticleCaption": "（国民健康・栄養調査の調査事項）",
+            "ArticleTitle": "第一条",
+            "Paragraph": [
+              {
+                "@Hide": "false",
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "健康増進法（平成十四年法律第百三号。以下「法」という。）第十条第一項に規定する国民健康・栄養調査は、身体状況、栄養摂取状況及び生活習慣の調査とする。"
+                  }
+                }
+              },
+              {
+                "@Hide": "false",
+                "@Num": "2",
+                "ParagraphNum": "２",
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "前項に規定する身体状況の調査は、国民健康・栄養調査に関する事務に従事する公務員又は国民健康・栄養調査員（以下「調査従事者」という。）が、次に掲げる事項について測定し、若しくは診断し、その結果を厚生労働大臣の定める調査票に記入すること又は被調査者ごとに、当該調査票を配布し、次に掲げる事項が記入された調査票の提出を受けることによって行う。"
+                  }
+                },
+                "Item": [
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "1",
+                    "ItemTitle": "一",
+                    "ItemSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "身長"
+                      }
+                    }
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "2",
+                    "ItemTitle": "二",
+                    "ItemSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "体重"
+                      }
+                    }
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "3",
+                    "ItemTitle": "三",
+                    "ItemSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "血圧"
+                      }
+                    }
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "4",
+                    "ItemTitle": "四",
+                    "ItemSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "その他身体状況に関する事項"
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "@Hide": "false",
+                "@Num": "3",
+                "ParagraphNum": "３",
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "第一項に規定する栄養摂取状況の調査は、調査従事者が、調査世帯ごとに、厚生労働大臣の定める調査票を配布し、次に掲げる事項が記入された調査票の提出を受けることによって行う。"
+                  }
+                },
+                "Item": [
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "1",
+                    "ItemTitle": "一",
+                    "ItemSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "世帯及び世帯員の状況"
+                      }
+                    }
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "2",
+                    "ItemTitle": "二",
+                    "ItemSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "食事の状況"
+                      }
+                    }
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "3",
+                    "ItemTitle": "三",
+                    "ItemSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "食事の料理名並びに食品の名称及びその摂取量"
+                      }
+                    }
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "4",
+                    "ItemTitle": "四",
+                    "ItemSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "その他栄養摂取状況に関する事項"
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "@Hide": "false",
+                "@Num": "4",
+                "ParagraphNum": "４",
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "第一項に規定する生活習慣の調査は、調査従事者が、被調査者ごとに、厚生労働大臣の定める調査票を配布し、次に掲げる事項が記入された調査票の提出を受けることによって行う。"
+                  }
+                },
+                "Item": [
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "1",
+                    "ItemTitle": "一",
+                    "ItemSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "食習慣の状況"
+                      }
+                    }
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "2",
+                    "ItemTitle": "二",
+                    "ItemSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "運動習慣の状況"
+                      }
+                    }
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "3",
+                    "ItemTitle": "三",
+                    "ItemSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "休養習慣の状況"
+                      }
+                    }
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "4",
+                    "ItemTitle": "四",
+                    "ItemSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "喫煙習慣の状況"
+                      }
+                    }
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "5",
+                    "ItemTitle": "五",
+                    "ItemSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "飲酒習慣の状況"
+                      }
+                    }
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "6",
+                    "ItemTitle": "六",
+                    "ItemSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "歯の健康保持習慣の状況"
+                      }
+                    }
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "7",
+                    "ItemTitle": "七",
+                    "ItemSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "その他生活習慣の状況に関する事項"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "2",
+            "ArticleCaption": "（調査世帯の選定）",
+            "ArticleTitle": "第二条",
+            "Paragraph": [
+              {
+                "@Hide": "false",
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "法第十一条第一項の規定による対象の選定は、無作為抽出法によるものとする。"
+                  }
+                }
+              },
+              {
+                "@Hide": "false",
+                "@Num": "2",
+                "ParagraphNum": "２",
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "都道府県知事（保健所を設置する市又は特別区にあっては、市長又は区長。以下同じ。）は、法第十一条第一項の規定により調査世帯を指定したときは、その旨を当該世帯の世帯主に通知しなければならない。"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "3",
+            "ArticleCaption": "（国民健康・栄養調査員）",
+            "ArticleTitle": "第三条",
+            "Paragraph": [
+              {
+                "@Hide": "false",
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "国民健康・栄養調査員は、医師、管理栄養士、保健師その他の者のうちから、毎年、都道府県知事が任命する。"
+                  }
+                }
+              },
+              {
+                "@Hide": "false",
+                "@Num": "2",
+                "ParagraphNum": "２",
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "国民健康・栄養調査員は、非常勤とする。"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "4",
+            "ArticleCaption": "（国民健康・栄養調査員の身分を示す証票）",
+            "ArticleTitle": "第四条",
+            "Paragraph": [
+              {
+                "@Hide": "false",
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "国民健康・栄養調査員は、その職務を行う場合には、その身分を示す証票を携行し、かつ、関係者の請求があるときには、これを提示しなければならない。"
+                  }
+                }
+              },
+              {
+                "@Hide": "false",
+                "@Num": "2",
+                "ParagraphNum": "２",
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "前項に規定する国民健康・栄養調査員の身分を示す証票は、別記様式第一号による。"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "4_2",
+            "ArticleCaption": "（市町村による健康増進事業の実施）",
+            "ArticleTitle": "第四条の二",
+            "Paragraph": {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "法第十九条の二の厚生労働省令で定める事業は、次の各号に掲げるものとする。"
+                }
+              },
+              "Item": [
+                {
+                  "@Delete": "false",
+                  "@Hide": "false",
+                  "@Num": "1",
+                  "ItemTitle": "一",
+                  "ItemSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "歯周疾患検診"
+                    }
+                  }
+                },
+                {
+                  "@Delete": "false",
+                  "@Hide": "false",
+                  "@Num": "2",
+                  "ItemTitle": "二",
+                  "ItemSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "Ruby": {
+                        "Rt": "しよう",
+                        "#text": "鬆"
+                      },
+                      "#text": "骨粗症検診"
+                    }
+                  }
+                },
+                {
+                  "@Delete": "false",
+                  "@Hide": "false",
+                  "@Num": "3",
+                  "ItemTitle": "三",
+                  "ItemSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "肝炎ウイルス検診"
+                    }
+                  }
+                },
+                {
+                  "@Delete": "false",
+                  "@Hide": "false",
+                  "@Num": "4",
+                  "ItemTitle": "四",
+                  "ItemSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "四十歳以上七十四歳以下の者であって高齢者の医療の確保に関する法律（昭和五十七年法律第八十号）第二十条の特定健康診査の対象とならない者（特定健康診査及び特定保健指導の実施に関する基準第一条第一項の規定に基づき厚生労働大臣が定める者（平成二十年厚生労働省告示第三号）に規定する者を除く。次号において「特定健康診査非対象者」という。）及び七十五歳以上の者であって同法第五十一条第一号又は第二号に規定する者に対する健康診査"
+                    }
+                  }
+                },
+                {
+                  "@Delete": "false",
+                  "@Hide": "false",
+                  "@Num": "5",
+                  "ItemTitle": "五",
+                  "ItemSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "特定健康診査非対象者に対する保健指導"
+                    }
+                  }
+                },
+                {
+                  "@Delete": "false",
+                  "@Hide": "false",
+                  "@Num": "6",
+                  "ItemTitle": "六",
+                  "ItemSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "がん検診"
+                    }
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "5",
+            "ArticleCaption": "（特定給食施設）",
+            "ArticleTitle": "第五条",
+            "Paragraph": {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "法第二十条第一項の厚生労働省令で定める施設は、継続的に一回百食以上又は一日二百五十食以上の食事を供給する施設とする。"
+                }
+              }
+            }
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "6",
+            "ArticleCaption": "（特定給食施設の届出事項）",
+            "ArticleTitle": "第六条",
+            "Paragraph": {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "法第二十条第一項の厚生労働省令で定める事項は、次のとおりとする。"
+                }
+              },
+              "Item": [
+                {
+                  "@Delete": "false",
+                  "@Hide": "false",
+                  "@Num": "1",
+                  "ItemTitle": "一",
+                  "ItemSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "給食施設の名称及び所在地"
+                    }
+                  }
+                },
+                {
+                  "@Delete": "false",
+                  "@Hide": "false",
+                  "@Num": "2",
+                  "ItemTitle": "二",
+                  "ItemSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "給食施設の設置者の氏名及び住所（法人にあっては、給食施設の設置者の名称、主たる事務所の所在地及び代表者の氏名）"
+                    }
+                  }
+                },
+                {
+                  "@Delete": "false",
+                  "@Hide": "false",
+                  "@Num": "3",
+                  "ItemTitle": "三",
+                  "ItemSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "給食施設の種類"
+                    }
+                  }
+                },
+                {
+                  "@Delete": "false",
+                  "@Hide": "false",
+                  "@Num": "4",
+                  "ItemTitle": "四",
+                  "ItemSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "給食の開始日又は開始予定日"
+                    }
+                  }
+                },
+                {
+                  "@Delete": "false",
+                  "@Hide": "false",
+                  "@Num": "5",
+                  "ItemTitle": "五",
+                  "ItemSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "一日の予定給食数及び各食ごとの予定給食数"
+                    }
+                  }
+                },
+                {
+                  "@Delete": "false",
+                  "@Hide": "false",
+                  "@Num": "6",
+                  "ItemTitle": "六",
+                  "ItemSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "管理栄養士及び栄養士の員数"
+                    }
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "7",
+            "ArticleCaption": "（特別の栄養管理が必要な給食施設の指定）",
+            "ArticleTitle": "第七条",
+            "Paragraph": {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "法第二十一条第一項の規定により都道府県知事が指定する施設は、次のとおりとする。"
+                }
+              },
+              "Item": [
+                {
+                  "@Delete": "false",
+                  "@Hide": "false",
+                  "@Num": "1",
+                  "ItemTitle": "一",
+                  "ItemSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "医学的な管理を必要とする者に食事を供給する特定給食施設であって、継続的に一回三百食以上又は一日七百五十食以上の食事を供給するもの"
+                    }
+                  }
+                },
+                {
+                  "@Delete": "false",
+                  "@Hide": "false",
+                  "@Num": "2",
+                  "ItemTitle": "二",
+                  "ItemSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "前号に掲げる特定給食施設以外の管理栄養士による特別な栄養管理を必要とする特定給食施設であって、継続的に一回五百食以上又は一日千五百食以上の食事を供給するもの"
+                    }
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "8",
+            "ArticleCaption": "（特定給食施設における栄養士等）",
+            "ArticleTitle": "第八条",
+            "Paragraph": {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "法第二十一条第二項の規定により栄養士又は管理栄養士を置くように努めなければならない特定給食施設のうち、一回三百食又は一日七百五十食以上の食事を供給するものの設置者は、当該施設に置かれる栄養士のうち少なくとも一人は管理栄養士であるように努めなければならない。"
+                }
+              }
+            }
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "9",
+            "ArticleCaption": "（栄養管理の基準）",
+            "ArticleTitle": "第九条",
+            "Paragraph": {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "法第二十一条第三項の厚生労働省令で定める基準は、次のとおりとする。"
+                }
+              },
+              "Item": [
+                {
+                  "@Delete": "false",
+                  "@Hide": "false",
+                  "@Num": "1",
+                  "ItemTitle": "一",
+                  "ItemSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "当該特定給食施設を利用して食事の供給を受ける者（以下「利用者」という。）の身体の状況、栄養状態、生活習慣等（以下「身体の状況等」という。）を定期的に把握し、これらに基づき、適当な熱量及び栄養素の量を満たす食事の提供及びその品質管理を行うとともに、これらの評価を行うよう努めること。"
+                    }
+                  }
+                },
+                {
+                  "@Delete": "false",
+                  "@Hide": "false",
+                  "@Num": "2",
+                  "ItemTitle": "二",
+                  "ItemSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "食事の献立は、身体の状況等のほか、利用者の日常の食事の摂取量、嗜好等に配慮して作成するよう努めること。"
+                    }
+                  }
+                },
+                {
+                  "@Delete": "false",
+                  "@Hide": "false",
+                  "@Num": "3",
+                  "ItemTitle": "三",
+                  "ItemSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "献立表の掲示並びに熱量及びたんぱく質、脂質、食塩等の主な栄養成分の表示等により、利用者に対して、栄養に関する情報の提供を行うこと。"
+                    }
+                  }
+                },
+                {
+                  "@Delete": "false",
+                  "@Hide": "false",
+                  "@Num": "4",
+                  "ItemTitle": "四",
+                  "ItemSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "献立表その他必要な帳簿等を適正に作成し、当該施設に備え付けること。"
+                    }
+                  }
+                },
+                {
+                  "@Delete": "false",
+                  "@Hide": "false",
+                  "@Num": "5",
+                  "ItemTitle": "五",
+                  "ItemSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "衛生の管理については、食品衛生法（昭和二十二年法律第二百二十三号）その他関係法令の定めるところによること。"
+                    }
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "10",
+            "ArticleCaption": "（栄養指導員の身分を証す証票）",
+            "ArticleTitle": "第十条",
+            "Paragraph": {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "法第二十四条第二項に規定する栄養指導員の身分を示す証明書は、別記様式第二号による。"
+                }
+              }
+            }
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "11",
+            "ArticleCaption": "（法第十六条の二第二項第二号の厚生労働省令で定める栄養素）",
+            "ArticleTitle": "第十一条",
+            "Paragraph": [
+              {
+                "@Hide": "false",
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "法第十六条の二第二項第二号イの厚生労働省令で定める栄養素は、次のとおりとする。"
+                  }
+                },
+                "Item": [
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "1",
+                    "ItemTitle": "一",
+                    "ItemSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "たんぱく質"
+                      }
+                    }
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "2",
+                    "ItemTitle": "二",
+                    "ItemSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "ｎ―６系脂肪酸及びｎ―３系脂肪酸"
+                      }
+                    }
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "3",
+                    "ItemTitle": "三",
+                    "ItemSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "炭水化物及び食物繊維"
+                      }
+                    }
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "4",
+                    "ItemTitle": "四",
+                    "ItemSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "ビタミンＡ、ビタミンＤ、ビタミンＥ、ビタミンＫ、ビタミンＢ１、ビタミンＢ２、ナイアシン、ビタミンＢ６、ビタミンＢ１２、葉酸、パントテン酸、ビオチン及びビタミンＣ"
+                      }
+                    }
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "5",
+                    "ItemTitle": "五",
+                    "ItemSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "カリウム、カルシウム、マグネシウム、リン、鉄、亜鉛、銅、マンガン、ヨウ素、セレン、クロム及びモリブデン"
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "@Hide": "false",
+                "@Num": "2",
+                "ParagraphNum": "２",
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "法第十六条の二第二項第二号ロの厚生労働省令で定める栄養素は、次のとおりとする。"
+                  }
+                },
+                "Item": [
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "1",
+                    "ItemTitle": "一",
+                    "ItemSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "脂質、飽和脂肪酸及びコレステロール"
+                      }
+                    }
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "2",
+                    "ItemTitle": "二",
+                    "ItemSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "糖類（単糖類又は二糖類であって、糖アルコールでないものに限る。）"
+                      }
+                    }
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "3",
+                    "ItemTitle": "三",
+                    "ItemSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "ナトリウム"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "12",
+            "ArticleCaption": "（健康増進法施行令第三条第一号の厚生労働省令で定める専修学校及び各種学校）",
+            "ArticleTitle": "第十二条",
+            "Paragraph": [
+              {
+                "@Hide": "false",
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "健康増進法施行令（平成十四年政令第三百六十一号。以下「令」という。）第三条第一号の厚生労働省令で定める専修学校は、高等課程、専門課程又は一般課程（一般課程においては、二十歳未満の者が主として利用するものに限る。）を有するものとする。"
+                  }
+                }
+              },
+              {
+                "@Hide": "false",
+                "@Num": "2",
+                "ParagraphNum": "２",
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "令第三条第一号の厚生労働省令で定める各種学校は、高等学校等就学支援金の支給に関する法律施行規則（平成二十二年文部科学省令第十三号）第一条第一項第四号に掲げるものその他二十歳未満の者が主として利用するものとする。"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "13",
+            "ArticleCaption": "（令第三条第五号の厚生労働省令で定める独立行政法人海技教育機構の施設）",
+            "ArticleTitle": "第十三条",
+            "Paragraph": {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "令第三条第五号の厚生労働省令で定める独立行政法人海技教育機構の施設は、独立行政法人海技教育機構法（平成十一年法律第二百十四号）による独立行政法人海技教育機構海技士教育科海技課程の本科、専修科及び乗船実習科の施設とする。"
+                }
+              }
+            }
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "14",
+            "ArticleCaption": "（令第三条第九号の厚生労働省令で定める教育施設）",
+            "ArticleTitle": "第十四条",
+            "Paragraph": {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "令第三条第九号の厚生労働省令で定める教育施設は、次のとおりとする。"
+                }
+              },
+              "Item": [
+                {
+                  "@Delete": "false",
+                  "@Hide": "false",
+                  "@Num": "1",
+                  "ItemTitle": "一",
+                  "ItemSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "児童福祉法（昭和二十二年法律第百六十四号）第十三条第三項第一号に規定する児童福祉司又は児童福祉施設の職員を養成する施設及び同法第十八条の六第一号に規定する保育士を養成する施設"
+                    }
+                  }
+                },
+                {
+                  "@Delete": "false",
+                  "@Hide": "false",
+                  "@Num": "2",
+                  "ItemTitle": "二",
+                  "ItemSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "あん摩マツサージ指圧師、はり師、きゆう師等に関する法律（昭和二十二年法律第二百十七号）第二条第一項第一号及び第二号に規定する養成施設"
+                    }
+                  }
+                },
+                {
+                  "@Delete": "false",
+                  "@Hide": "false",
+                  "@Num": "3",
+                  "ItemTitle": "三",
+                  "ItemSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "理容師法（昭和二十二年法律第二百三十四号）第三条第三項に規定する理容師養成施設"
+                    }
+                  }
+                },
+                {
+                  "@Delete": "false",
+                  "@Hide": "false",
+                  "@Num": "4",
+                  "ItemTitle": "四",
+                  "ItemSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "栄養士法（昭和二十二年法律第二百四十五号）第二条第一項に規定する栄養士の養成施設"
+                    }
+                  }
+                },
+                {
+                  "@Delete": "false",
+                  "@Hide": "false",
+                  "@Num": "5",
+                  "ItemTitle": "五",
+                  "ItemSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "保健師助産師看護師法（昭和二十三年法律第二百三号）第十九条第二号に規定する保健師養成所、同法第二十条第二号に規定する助産師養成所、同法第二十一条第三号に規定する看護師養成所及び同法第二十二条第二号に規定する准看護師養成所"
+                    }
+                  }
+                },
+                {
+                  "@Delete": "false",
+                  "@Hide": "false",
+                  "@Num": "6",
+                  "ItemTitle": "六",
+                  "ItemSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "歯科衛生士法（昭和二十三年法律第二百四号）第十二条第二号に規定する歯科衛生士養成所"
+                    }
+                  }
+                },
+                {
+                  "@Delete": "false",
+                  "@Hide": "false",
+                  "@Num": "7",
+                  "ItemTitle": "七",
+                  "ItemSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "教育職員免許法（昭和二十四年法律第百四十七号）第五条第一項に規定する養護教諭養成機関、同法別表第一備考第二号の三及び第三号に規定する幼稚園、小学校、中学校又は特別支援学校の教員養成機関並びに同法別表第二の二備考第二号に規定する栄養教諭の教員養成機関"
+                    }
+                  }
+                },
+                {
+                  "@Delete": "false",
+                  "@Hide": "false",
+                  "@Num": "8",
+                  "ItemTitle": "八",
+                  "ItemSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "社会福祉法（昭和二十六年法律第四十五号）第十九条第一項第二号に規定する養成機関"
+                    }
+                  }
+                },
+                {
+                  "@Delete": "false",
+                  "@Hide": "false",
+                  "@Num": "9",
+                  "ItemTitle": "九",
+                  "ItemSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "道路運送車両法（昭和二十六年法律第百八十五号）第五十五条第三項に規定する自動車整備士の養成施設（二十歳未満の者が主として利用するものに限る。）"
+                    }
+                  }
+                },
+                {
+                  "@Delete": "false",
+                  "@Hide": "false",
+                  "@Num": "10",
+                  "ItemTitle": "十",
+                  "ItemSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "診療放射線技師法（昭和二十六年法律第二百二十六号）第二十条第一号に規定する診療放射線技師養成所"
+                    }
+                  }
+                },
+                {
+                  "@Delete": "false",
+                  "@Hide": "false",
+                  "@Num": "11",
+                  "ItemTitle": "十一",
+                  "ItemSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "歯科技工士法（昭和三十年法律第百六十八号）第十四条第二号に規定する歯科技工士養成所"
+                    }
+                  }
+                },
+                {
+                  "@Delete": "false",
+                  "@Hide": "false",
+                  "@Num": "12",
+                  "ItemTitle": "十二",
+                  "ItemSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "美容師法（昭和三十二年法律第百六十三号）第四条第三項に規定する美容師養成施設"
+                    }
+                  }
+                },
+                {
+                  "@Delete": "false",
+                  "@Hide": "false",
+                  "@Num": "13",
+                  "ItemTitle": "十三",
+                  "ItemSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "臨床検査技師等に関する法律（昭和三十三年法律第七十六号）第十五条第一号に規定する臨床検査技師養成所"
+                    }
+                  }
+                },
+                {
+                  "@Delete": "false",
+                  "@Hide": "false",
+                  "@Num": "14",
+                  "ItemTitle": "十四",
+                  "ItemSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "調理師法（昭和三十三年法律第百四十七号）第三条第一号に規定する調理師養成施設"
+                    }
+                  }
+                },
+                {
+                  "@Delete": "false",
+                  "@Hide": "false",
+                  "@Num": "15",
+                  "ItemTitle": "十五",
+                  "ItemSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "理学療法士及び作業療法士法（昭和四十年法律第百三十七号）第十一条第一号に規定する理学療法士養成施設及び同法第十二条第一号に規定する作業療法士養成施設"
+                    }
+                  }
+                },
+                {
+                  "@Delete": "false",
+                  "@Hide": "false",
+                  "@Num": "16",
+                  "ItemTitle": "十六",
+                  "ItemSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "製菓衛生師法（昭和四十一年法律第百十五号）第五条第一号に規定する製菓衛生師養成施設"
+                    }
+                  }
+                },
+                {
+                  "@Delete": "false",
+                  "@Hide": "false",
+                  "@Num": "17",
+                  "ItemTitle": "十七",
+                  "ItemSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "柔道整復師法（昭和四十五年法律第十九号）第十二条第一項に規定する柔道整復師養成施設"
+                    }
+                  }
+                },
+                {
+                  "@Delete": "false",
+                  "@Hide": "false",
+                  "@Num": "18",
+                  "ItemTitle": "十八",
+                  "ItemSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "視能訓練士法（昭和四十六年法律第六十四号）第十四条第一号に規定する視能訓練士養成所"
+                    }
+                  }
+                },
+                {
+                  "@Delete": "false",
+                  "@Hide": "false",
+                  "@Num": "19",
+                  "ItemTitle": "十九",
+                  "ItemSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "社会福祉士及び介護福祉士法（昭和六十二年法律第三十号）第四十条第二項第一号に規定する養成施設"
+                    }
+                  }
+                },
+                {
+                  "@Delete": "false",
+                  "@Hide": "false",
+                  "@Num": "20",
+                  "ItemTitle": "二十",
+                  "ItemSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "臨床工学技士法（昭和六十二年法律第六十号）第十四条第一号に規定する臨床工学技士養成所"
+                    }
+                  }
+                },
+                {
+                  "@Delete": "false",
+                  "@Hide": "false",
+                  "@Num": "21",
+                  "ItemTitle": "二十一",
+                  "ItemSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "義肢装具士法（昭和六十二年法律第六十一号）第十四条第一号に規定する義肢装具士養成所"
+                    }
+                  }
+                },
+                {
+                  "@Delete": "false",
+                  "@Hide": "false",
+                  "@Num": "22",
+                  "ItemTitle": "二十二",
+                  "ItemSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "救急救命士法（平成三年法律第三十六号）第三十四条第一号に規定する救急救命士養成所"
+                    }
+                  }
+                },
+                {
+                  "@Delete": "false",
+                  "@Hide": "false",
+                  "@Num": "23",
+                  "ItemTitle": "二十三",
+                  "ItemSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "言語聴覚士法（平成九年法律第百三十二号）第三十三条第一号に規定する言語聴覚士養成所"
+                    }
+                  }
+                },
+                {
+                  "@Delete": "false",
+                  "@Hide": "false",
+                  "@Num": "24",
+                  "ItemTitle": "二十四",
+                  "ItemSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "独立行政法人国立青少年教育振興機構法（平成十一年法律第百六十七号）第十一条第一項第一号に規定する施設"
+                    }
+                  }
+                },
+                {
+                  "@Delete": "false",
+                  "@Hide": "false",
+                  "@Num": "25",
+                  "ItemTitle": "二十五",
+                  "ItemSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "農業改良助長法施行令（昭和二十七年政令第百四十八号）第三条第一号に規定する教育機関（二十歳未満の者が主として利用するものに限る。）"
+                    }
+                  }
+                },
+                {
+                  "@Delete": "false",
+                  "@Hide": "false",
+                  "@Num": "26",
+                  "ItemTitle": "二十六",
+                  "ItemSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "学校教育法施行規則（昭和二十二年文部省令第十一号）第百五十五条第一項第四号及び第二項第七号、第百六十条第三号、第百六十一条第二項、第百六十二条並びに第百七十七条第七号に規定する文部科学大臣が別に指定する教育施設（二十歳未満の者が主として利用するものに限る。）"
+                    }
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "15",
+            "ArticleCaption": "（特定屋外喫煙場所における受動喫煙を防止するために必要な措置）",
+            "ArticleTitle": "第十五条",
+            "Paragraph": [
+              {
+                "@Hide": "false",
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "法第二十五条の四第五号の規定による掲示は、標識（法第二十五条の四第五号に規定する標識をいう。次項第一号において同じ。）に表示すべき事項を容易に識別できるようにするものとする。"
+                  }
+                }
+              },
+              {
+                "@Hide": "false",
+                "@Num": "2",
+                "ParagraphNum": "２",
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "法第二十五条の四第五号の厚生労働省令で定める措置は、次のとおりとする。"
+                  }
+                },
+                "Item": [
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "1",
+                    "ItemTitle": "一",
+                    "ItemSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "喫煙をすることができる場所である旨を記載した標識を掲示すること。"
+                      }
+                    }
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "2",
+                    "ItemTitle": "二",
+                    "ItemSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "特定施設を利用する者が通常立ち入らない場所に設置すること。"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "16",
+            "ArticleCaption": "（職員の身分を証す証票）",
+            "ArticleTitle": "第十六条",
+            "Paragraph": {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "法第二十五条の九第二項に規定する職員の身分を示す証明書は、別記様式第三号による。"
+                }
+              }
+            }
+          }
+        ]
+      },
+      "SupplProvision": [
+        {
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Article": [
+            {
+              "@Delete": "false",
+              "@Hide": "false",
+              "@Num": "1",
+              "ArticleCaption": "（施行期日）",
+              "ArticleTitle": "第一条",
+              "Paragraph": {
+                "@Hide": "false",
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "この省令は、健康増進法の施行の日（平成十五年五月一日）から施行する。"
+                  }
+                }
+              }
+            },
+            {
+              "@Delete": "false",
+              "@Hide": "false",
+              "@Num": "2",
+              "ArticleCaption": "（栄養改善法施行規則の廃止）",
+              "ArticleTitle": "第二条",
+              "Paragraph": {
+                "@Hide": "false",
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "栄養改善法施行規則（昭和二十七年厚生省令第三十七号）は、廃止する。"
+                  }
+                }
+              }
+            },
+            {
+              "@Delete": "false",
+              "@Hide": "false",
+              "@Num": "3",
+              "ArticleCaption": "（経過措置）",
+              "ArticleTitle": "第三条",
+              "Paragraph": [
+                {
+                  "@Hide": "false",
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "この省令の施行の際この省令による廃止前の栄養改善法施行規則の様式（以下「旧様式」という。）により使用されている書類は、この省令による様式によるものとみなす。"
+                    }
+                  }
+                },
+                {
+                  "@Hide": "false",
+                  "@Num": "2",
+                  "ParagraphNum": "２",
+                  "ParagraphSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "この省令の施行の際現にある旧様式による用紙については、当分の間、これを取り繕って使用することができる。"
+                    }
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "@AmendLawNum": "平成一五年七月三一日厚生労働省令第一二七号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Article": [
+            {
+              "@Delete": "false",
+              "@Hide": "false",
+              "@Num": "1",
+              "ArticleCaption": "（施行期日）",
+              "ArticleTitle": "第一条",
+              "Paragraph": {
+                "@Hide": "false",
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "この省令は、公布の日から施行する。"
+                  }
+                }
+              }
+            },
+            {
+              "@Delete": "false",
+              "@Hide": "false",
+              "@Num": "4",
+              "ArticleCaption": "（健康増進法施行規則の一部改正に伴う経過措置）",
+              "ArticleTitle": "第四条",
+              "Paragraph": {
+                "@Hide": "false",
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "この省令の施行の際現に健康増進法（平成十四年法律第百三号）第二十六条第一項の許可又は第二十九条第一項の承認を受けている者が行う当該許可又は承認に係る食品の表示については、平成十七年七月三十一日までの間は、第三条の規定による改正後の健康増進法施行規則第十四条の規定にかかわらず、なお従前の例によることができる。"
+                  }
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@AmendLawNum": "平成一五年八月二九日厚生労働省令第一三四号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Article": {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "1",
+            "ArticleCaption": "（施行期日）",
+            "ArticleTitle": "第一条",
+            "Paragraph": {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "この省令は、健康増進法の一部を改正する法律（平成十五年法律第五十六号）の一部の施行の日（平成十五年八月二十九日）から施行する。"
+                }
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成一六年二月六日厚生労働省令第一三号",
+          "SupplProvisionLabel": "附　則",
+          "Article": [
+            {
+              "@Delete": "false",
+              "@Hide": "false",
+              "@Num": "1",
+              "ArticleCaption": "（施行期日）",
+              "ArticleTitle": "第一条",
+              "Paragraph": {
+                "@Hide": "false",
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "この省令は、健康増進法の一部を改正する法律（平成十五年法律第五十六号）の施行の日（平成十六年二月二十七日）から施行する。"
+                  }
+                }
+              }
+            },
+            {
+              "@Delete": "false",
+              "@Hide": "false",
+              "@Num": "2",
+              "ArticleCaption": "（経過措置）",
+              "ArticleTitle": "第二条",
+              "Paragraph": [
+                {
+                  "@Hide": "false",
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "この省令の施行の際現にあるこの省令による改正前の様式（以下「旧様式」という。）により使用されている書類は、この省令による改正後の様式によるものとみなす。"
+                    }
+                  }
+                },
+                {
+                  "@Hide": "false",
+                  "@Num": "2",
+                  "ParagraphNum": "２",
+                  "ParagraphSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "この省令の施行の際現にある旧様式による用紙については、当分の間、これを取り繕って使用することができる。"
+                    }
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "@AmendLawNum": "平成一六年三月二五日厚生労働省令第三七号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": [
+            {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": "１",
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "この省令は、平成十六年四月一日から施行する。"
+                }
+              }
+            },
+            {
+              "@Hide": "false",
+              "@Num": "2",
+              "ParagraphNum": "２",
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "この省令の施行の際この省令による改正前の様式（以下「旧様式」という。）により使用されている書類は、この省令による改正後の様式によるものとみなす。"
+                }
+              }
+            },
+            {
+              "@Hide": "false",
+              "@Num": "3",
+              "ParagraphNum": "３",
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "この省令の施行の際現にある旧様式による用紙については、当分の間、これを取り繕って使用することができる。"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@AmendLawNum": "平成一七年一月三一日厚生労働省令第九号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": [
+            {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphCaption": "（施行期日）",
+              "ParagraphNum": "１",
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "この省令は、平成十七年二月一日から施行する。"
+                }
+              }
+            },
+            {
+              "@Hide": "false",
+              "@Num": "2",
+              "ParagraphCaption": "（経過措置）",
+              "ParagraphNum": "２",
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "この省令の施行の際現に健康増進法第二十六条第一項の許可又は同法第二十九条第一項の承認を受けている者が行う当該許可又は承認に係る食品の表示については、平成十八年三月三十一日までの間は、この省令による改正後の健康増進法施行規則第十四条第一項第六号及び第九号並びに同条第二項の規定にかかわらず、なお従前の例によることができる。"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@AmendLawNum": "平成一七年三月七日厚生労働省令第二五号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Article": {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "1",
+            "ArticleCaption": "（施行期日）",
+            "ArticleTitle": "第一条",
+            "Paragraph": {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "この省令は、不動産登記法の施行の日（平成十七年三月七日）から施行する。"
+                }
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成一七年七月一日厚生労働省令第一〇九号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": [
+            {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphCaption": "（施行期日）",
+              "ParagraphNum": "１",
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "この省令は、公布の日から施行する。"
+                }
+              }
+            },
+            {
+              "@Hide": "false",
+              "@Num": "2",
+              "ParagraphCaption": "（経過措置）",
+              "ParagraphNum": "２",
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "この省令の施行の際現に健康増進法第二十六条第一項の許可又は同法第二十九条第一項の承認を受けている者が行う当該許可又は承認に係る食品の表示については、平成十八年十二月三十一日までの間は、この省令による改正後の健康増進法施行規則第十四条第一項第十号の規定にかかわらず、なお従前の例によることができる。"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@AmendLawNum": "平成一七年九月一六日厚生労働省令第一四四号",
+          "SupplProvisionLabel": "附　則",
+          "Article": [
+            {
+              "@Delete": "false",
+              "@Hide": "false",
+              "@Num": "1",
+              "ArticleCaption": "（施行期日）",
+              "ArticleTitle": "第一条",
+              "Paragraph": {
+                "@Hide": "false",
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "この省令は、公布の日から施行する。"
+                  }
+                }
+              }
+            },
+            {
+              "@Delete": "false",
+              "@Hide": "false",
+              "@Num": "2",
+              "ArticleCaption": "（経過措置）",
+              "ArticleTitle": "第二条",
+              "Paragraph": [
+                {
+                  "@Hide": "false",
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "この省令の施行の際現にあるこの省令による改正前の様式（以下「旧様式」という。）により使用されている書類は、この省令による改正後の様式によるものとみなす。"
+                    }
+                  }
+                },
+                {
+                  "@Hide": "false",
+                  "@Num": "2",
+                  "ParagraphNum": "２",
+                  "ParagraphSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "この省令の施行の際現にある旧様式による用紙については、当分の間、これを取り繕って使用することができる。"
+                    }
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "@AmendLawNum": "平成一八年四月二八日厚生労働省令第一一六号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Article": {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "1",
+            "ArticleCaption": "（施行期日）",
+            "ArticleTitle": "第一条",
+            "Paragraph": {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "この省令は、平成十八年五月一日から施行する。"
+                }
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成一九年九月三日厚生労働省令第一〇九号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この省令は、公布の日から施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成二〇年三月三一日厚生労働省令第七七号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Article": {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "1",
+            "ArticleCaption": "（施行期日）",
+            "ArticleTitle": "第一条",
+            "Paragraph": {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "この省令は、平成二十年四月一日から施行する。"
+                }
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成二一年二月一二日厚生労働省令第一四号",
+          "SupplProvisionLabel": "附　則",
+          "Article": [
+            {
+              "@Delete": "false",
+              "@Hide": "false",
+              "@Num": "1",
+              "ArticleCaption": "（施行期日）",
+              "ArticleTitle": "第一条",
+              "Paragraph": {
+                "@Hide": "false",
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "この省令は、平成二十一年四月一日から施行する。"
+                  }
+                }
+              }
+            },
+            {
+              "@Delete": "false",
+              "@Hide": "false",
+              "@Num": "2",
+              "ArticleCaption": "（経過措置）",
+              "ArticleTitle": "第二条",
+              "Paragraph": {
+                "@Hide": "false",
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "この省令の施行の際現にこの省令による改正前の健康増進法施行規則第十一条第二号に掲げる特別の用途に適する旨の表示に係る健康増進法（平成十四年法律第百三号）第二十六条第一項の許可又は同法第二十九条第一項の承認を受けている者が行う当該許可又は承認に係る食品の表示については、平成二十二年三月三十一日までの間は、この省令による改正後の健康増進法施行規則第十一条第二号の規定にかかわらず、なお従前の例によることができる。"
+                  }
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@AmendLawNum": "平成二一年八月二八日厚生労働省令第一三八号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この省令は、消費者庁及び消費者委員会設置法の施行の日（平成二十一年九月一日）から施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成二七年三月三一日厚生労働省令第七〇号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この省令は、食品表示法の施行の日（平成二十七年四月一日）から施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成三一年二月二二日厚生労働省令第一七号",
+          "@Extract": "true",
+          "@Type": "Amend",
+          "SupplProvisionLabel": "附　則",
+          "Article": [
+            {
+              "@Delete": "false",
+              "@Hide": "false",
+              "@Num": "1",
+              "ArticleCaption": "（施行期日）",
+              "ArticleTitle": "第一条",
+              "Paragraph": {
+                "@Hide": "false",
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": [
+                    {
+                      "@Function": "main",
+                      "@Num": "1",
+                      "@WritingMode": "vertical",
+                      "#text": "この省令は、健康増進法の一部を改正する法律（平成三十年法律第七十八号。以下「改正法」という。）の施行の日（平成三十二年四月一日）から施行する。"
+                    },
+                    {
+                      "@Function": "proviso",
+                      "@Num": "2",
+                      "@WritingMode": "vertical",
+                      "#text": "ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。"
+                    }
+                  ]
+                },
+                "Item": [
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "1",
+                    "ItemTitle": "一",
+                    "ItemSentence": {
+                      "Column": [
+                        {
+                          "@LineBreak": "false",
+                          "@Num": "1",
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "附則第六条の規定"
+                          }
+                        },
+                        {
+                          "@LineBreak": "false",
+                          "@Num": "2",
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "公布の日"
+                          }
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "2",
+                    "ItemTitle": "二",
+                    "ItemSentence": {
+                      "Column": [
+                        {
+                          "@LineBreak": "false",
+                          "@Num": "1",
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "第一条の規定"
+                          }
+                        },
+                        {
+                          "@LineBreak": "false",
+                          "@Num": "2",
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "改正法附則第一条第三号に掲げる規定の施行の日（平成三十一年七月一日）"
+                          }
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "@Delete": "false",
+              "@Hide": "false",
+              "@Num": "6",
+              "ArticleCaption": "（準備行為）",
+              "ArticleTitle": "第六条",
+              "Paragraph": {
+                "@Hide": "false",
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "附則第二条第六項の届出は、この省令の施行前においても行うことができる。"
+                  }
+                }
+              }
+            }
+          ]
+        }
+      ],
+      "AppdxStyle": [
+        {
+          "AppdxStyleTitle": {
+            "@WritingMode": "vertical",
+            "#text": "様式第一号（第四条関係）"
+          },
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/H15F19001000086_1905101105_001.pdf"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": {
+            "@WritingMode": "vertical",
+            "#text": "様式第二号（第十条関係）"
+          },
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/H15F19001000086_1905101105_002.pdf"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": {
+            "@WritingMode": "vertical",
+            "#text": "様式第三号（第十六条関係）"
+          },
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/H15F19001000086_1905101105_003.pdf"
+              }
+            }
+          }
+        }
+      ]
+    }
+  }
+}

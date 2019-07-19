@@ -1,0 +1,122 @@
+{
+  "Law": {
+    "@Era": "Showa",
+    "@Lang": "ja",
+    "@LawType": "ImperialOrder",
+    "@Num": "363",
+    "@Year": "16",
+    "LawNum": "昭和十六年勅令第三百六十三号",
+    "LawBody": {
+      "LawTitle": "昭和十六年勅令第三百六十三号（無尽業法第二十一条ノ八ノ規定ニ依ル登記ニ関スル件）",
+      "MainProvision": {
+        "Paragraph": [
+          {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphNum": "○１",
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "無尽業法第二十一条ノ八ノ規定ニ依ル登記ハ二週間以内ニ之ヲ為スコトヲ要ス"
+              }
+            }
+          },
+          {
+            "@Hide": "false",
+            "@Num": "2",
+            "ParagraphNum": "○２",
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "申請書ニハ次ノ書類ヲ添付スルコトヲ要ス"
+              }
+            },
+            "Item": [
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "1",
+                "ItemTitle": "一",
+                "ItemSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "管理契約書"
+                  }
+                }
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "2",
+                "ItemTitle": "二",
+                "ItemSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "管理契約ニ関スル受託無尽会社ノ株主総会ノ議事録"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "@Hide": "false",
+            "@Num": "3",
+            "ParagraphNum": "○３",
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "商業登記法（昭和三十八年法律第百二十五号）第四十六条第三項ノ規定ハ前項第二号ノ場合ニ之ヲ準用ス"
+              }
+            }
+          }
+        ]
+      },
+      "SupplProvision": [
+        {
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "本令ハ公布ノ日ヨリ之ヲ施行ス"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成一五年三月二八日政令第一一七号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この政令は、商法等の一部を改正する法律の施行の日（平成十五年四月一日）から施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成一七年一二月一四日政令第三六六号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この政令は、会社法の施行の日から施行する。"
+              }
+            }
+          }
+        }
+      ]
+    }
+  }
+}

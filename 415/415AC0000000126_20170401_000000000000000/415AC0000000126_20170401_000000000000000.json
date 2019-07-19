@@ -1,0 +1,100 @@
+{
+  "Law": {
+    "@Era": "Heisei",
+    "@Lang": "ja",
+    "@LawType": "Act",
+    "@Num": "126",
+    "@Year": "15",
+    "LawNum": "平成十五年法律第百二十六号",
+    "LawBody": {
+      "LawTitle": "母子家庭の母の就業の支援に関する特別措置法　抄",
+      "MainProvision": {
+        "Article": {
+          "@Num": "3",
+          "ArticleCaption": "（国会に対する報告等）",
+          "ArticleTitle": "第三条",
+          "Paragraph": [
+            {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": null
+              }
+            },
+            {
+              "@Num": "2",
+              "ParagraphNum": "２",
+              "ParagraphSentence": {
+                "Sentence": "政府は、国会に対し、対象期間に係る各年度における母子家庭の母の就業の支援に関する施策の実施の状況を報告しなければならない。"
+              }
+            }
+          ]
+        }
+      },
+      "SupplProvision": [
+        {
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": [
+            {
+              "@Num": "1",
+              "ParagraphCaption": "（施行期日）",
+              "ParagraphNum": "１",
+              "ParagraphSentence": {
+                "Sentence": "この法律は、公布の日から起算して一月を超えない範囲内において政令で定める日から施行する。"
+              }
+            },
+            {
+              "@Num": "2",
+              "ParagraphCaption": "（この法律の失効）",
+              "ParagraphNum": "２",
+              "ParagraphSentence": {
+                "Sentence": [
+                  {
+                    "@Function": "main",
+                    "@Num": "1",
+                    "#text": "この法律は、平成二十年三月三十一日限り、その効力を失う。"
+                  },
+                  {
+                    "@Function": "proviso",
+                    "@Num": "2",
+                    "#text": "ただし、平成十九年度における母子家庭の母の就業の支援に関する施策の実施の状況に係る第三条第二項の規定による報告については、同項の規定は、この法律の失効後も、なおその効力を有する。"
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "@AmendLawNum": "平成一八年六月二日法律第五〇号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphCaption": "（施行期日）",
+            "ParagraphNum": "１",
+            "ParagraphSentence": {
+              "Sentence": "この法律は、一般社団・財団法人法の施行の日から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成二三年六月二四日法律第七四号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Article": {
+            "@Num": "1",
+            "ArticleCaption": "（施行期日）",
+            "ArticleTitle": "第一条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "この法律は、公布の日から起算して二十日を経過した日から施行する。"
+              }
+            }
+          }
+        }
+      ]
+    }
+  }
+}

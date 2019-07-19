@@ -1,0 +1,101 @@
+{
+  "Law": {
+    "@Era": "Heisei",
+    "@Lang": "ja",
+    "@LawType": "CabinetOrder",
+    "@Num": "344",
+    "@Year": "18",
+    "LawNum": "平成十八年政令第三百四十四号",
+    "LawBody": {
+      "LawTitle": "自殺総合対策会議令",
+      "EnactStatement": "内閣は、自殺対策基本法（平成十八年法律第八十五号）第二十一条第七項の規定に基づき、この政令を制定する。",
+      "MainProvision": {
+        "Article": [
+          {
+            "@Num": "1",
+            "ArticleCaption": "（会長）",
+            "ArticleTitle": "第一条",
+            "Paragraph": [
+              {
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": "会長は、会務を総理する。"
+                }
+              },
+              {
+                "@Num": "2",
+                "ParagraphNum": "２",
+                "ParagraphSentence": {
+                  "Sentence": "会長に事故があるときは、会長があらかじめ指名する委員が、その職務を代理する。"
+                }
+              }
+            ]
+          },
+          {
+            "@Num": "2",
+            "ArticleCaption": "（庶務）",
+            "ArticleTitle": "第二条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "自殺総合対策会議の庶務は、厚生労働省社会・援護局総務課において処理する。"
+              }
+            }
+          },
+          {
+            "@Num": "3",
+            "ArticleCaption": "（雑則）",
+            "ArticleTitle": "第三条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "前二条に定めるもののほか、議事の手続その他自殺総合対策会議の運営に関し必要な事項は、会長が自殺総合対策会議に諮って定める。"
+              }
+            }
+          }
+        ]
+      },
+      "SupplProvision": [
+        {
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphCaption": "（施行期日）",
+            "ParagraphNum": "１",
+            "ParagraphSentence": {
+              "Sentence": "この政令は、自殺対策基本法の施行の日（平成十八年十月二十八日）から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成二八年三月三一日政令第一〇三号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphCaption": "（施行期日）",
+            "ParagraphNum": "１",
+            "ParagraphSentence": {
+              "Sentence": "この政令は、平成二十八年四月一日から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成二九年三月三一日政令第七六号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この政令は、平成二十九年四月一日から施行する。"
+            }
+          }
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,443 @@
+{
+  "Law": {
+    "@DataInfo": "190405e04k03m01",
+    "@Era": "Showa",
+    "@Lang": "ja",
+    "@LawType": "CabinetOrder",
+    "@Num": "287",
+    "@Year": "53",
+    "LawNum": "昭和五十三年政令第二百八十七号",
+    "LawBody": {
+      "LawTitle": "森林組合財務処理基準令",
+      "EnactStatement": "内閣は、森林組合法（昭和五十三年法律第三十六号）第七十二条（同法第百条第二項及び第百九条第三項において準用する場合を含む。）の規定に基づき、この政令を制定する。",
+      "MainProvision": {
+        "Article": [
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "1",
+            "ArticleCaption": "（定義）",
+            "ArticleTitle": "第一条",
+            "Paragraph": [
+              {
+                "@Hide": "false",
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "この政令で「組合」とは、森林組合法（以下「法」という。）第九条第三項に規定する出資組合をいい、「連合会」とは、法第百一条第二項に規定する出資連合会をいう。"
+                  }
+                }
+              },
+              {
+                "@Hide": "false",
+                "@Num": "2",
+                "ParagraphNum": "２",
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "この政令で「自己資本」とは、払込済出資金、回転出資金及び準備金（準備金、積立金その他名称のいかんを問わず、剰余金のうちから積み立てられたものであつて資本勘定に属するものをいう。）の額の合計額（繰越損失金がある場合には、その額を控除した額）をいう。"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "2",
+            "ArticleCaption": "（自己資本の基準）",
+            "ArticleTitle": "第二条",
+            "Paragraph": [
+              {
+                "@Hide": "false",
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "組合、生産森林組合又は連合会の自己資本は、次の各号に掲げる額の合計額以上でなければならない。"
+                  }
+                },
+                "Item": [
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "1",
+                    "ItemTitle": "一",
+                    "ItemSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "その組合、生産森林組合又は連合会の有する有形固定資産及び無形固定資産の価額の合計額"
+                      }
+                    }
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "2",
+                    "ItemTitle": "二",
+                    "ItemSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "その組合、生産森林組合又は連合会の出資する組合、連合会、農林中央金庫及びその他の団体への払込済出資金（農林水産大臣の指定するものを除く。）の総額"
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "@Hide": "false",
+                "@Num": "2",
+                "ParagraphNum": "２",
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "前項第一号の有形固定資産及び無形固定資産の価額の算定に当たつては、その有形固定資産及び無形固定資産の取得又は拡充のためにした借入金（借入期間が一年を超えるものについては、数回にわたつて定期に返済する契約のあるものに限る。）の残額で返済期限の到来しないものを差し引くものとする。"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "3",
+            "ArticleCaption": "（貸付け等の基準）",
+            "ArticleTitle": "第三条",
+            "Paragraph": {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "法第九条第二項第一号の事業を行う組合がその組合員に対して行う貸付け又は法第百一条第一項第三号の事業を行う連合会がその会員に対して行う貸付け及び手形の割引の基準は、次のとおりとする。"
+                }
+              },
+              "Item": [
+                {
+                  "@Delete": "false",
+                  "@Hide": "false",
+                  "@Num": "1",
+                  "ItemTitle": "一",
+                  "ItemSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "一組合員に対する貸付金の額（農林水産大臣の指定する貸付金の額を除く。以下同じ。）又は一会員に対する貸付金の額と手形の割引金額（金融機関その他農林水産大臣の指定する者が支払の保証をし、又は引受人となつている手形の割引金額を除く。以下同じ。）との合計額が当該組合又は連合会の自己資本の百分の二十を超えないこと。"
+                    }
+                  }
+                },
+                {
+                  "@Delete": "false",
+                  "@Hide": "false",
+                  "@Num": "2",
+                  "ItemTitle": "二",
+                  "ItemSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "一組合員及び当該組合員の同一世帯に属する親族たる組合員に対する貸付金の額の合計額が当該組合の自己資本の百分の三十五を超えないこと。"
+                    }
+                  }
+                },
+                {
+                  "@Delete": "false",
+                  "@Hide": "false",
+                  "@Num": "3",
+                  "ItemTitle": "三",
+                  "ItemSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "一組合員に対する貸付金の額又は一会員に対する貸付金の額と手形の割引金額との合計額が当該組合員又は会員の当該組合又は連合会に対する払込済出資金の額の二十倍を超えないこと。"
+                    }
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "4",
+            "ArticleCaption": "（経理の区分）",
+            "ArticleTitle": "第四条",
+            "Paragraph": [
+              {
+                "@Hide": "false",
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "法第九条第七項又は第百一条第六項の事業（以下「林地処分事業」という。）を行う組合又は連合会は、第三項の規定に従い、林地処分事業と林地処分事業以外の事業とを区分して経理しなければならない。"
+                  }
+                }
+              },
+              {
+                "@Hide": "false",
+                "@Num": "2",
+                "ParagraphNum": "２",
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "法第二十六条第一項又は第百一条の二第一項に規定する森林経営事業（以下「森林経営事業」という。）を行う組合又は連合会は、次項の規定に従い、森林経営事業と森林経営事業以外の事業とを区分して経理しなければならない。"
+                  }
+                }
+              },
+              {
+                "@Hide": "false",
+                "@Num": "3",
+                "ParagraphNum": "３",
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "林地処分事業に係る経理には、林地処分事業に関する資産、負債、収入及び支出を属させ、森林経営事業に係る経理には、森林経営事業に関する資産、負債、収入及び支出を属させ、林地処分事業及び森林経営事業以外の事業に係る経理には、林地処分事業及び森林経営事業に係る経理に属しない資産、負債、収入及び支出を属させなければならない。"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "5",
+            "ArticleCaption": "（余裕金運用の基準）",
+            "ArticleTitle": "第五条",
+            "Paragraph": {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "組合、生産森林組合又は連合会は、余裕金を次の目的以外の目的に運用してはならない。"
+                }
+              },
+              "Item": [
+                {
+                  "@Delete": "false",
+                  "@Hide": "false",
+                  "@Num": "1",
+                  "ItemTitle": "一",
+                  "ItemSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "信用事業を行う協同組合又はその連合会、農林中央金庫、銀行その他農林水産大臣の指定する金融機関への預け金"
+                    }
+                  }
+                },
+                {
+                  "@Delete": "false",
+                  "@Hide": "false",
+                  "@Num": "2",
+                  "ItemTitle": "二",
+                  "ItemSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "国債証券、地方債証券、政府保証債券（その債券に係る債務を政府が保証している債券をいう。）又は農林中央金庫その他の金融機関の発行する債券の取得"
+                    }
+                  }
+                },
+                {
+                  "@Delete": "false",
+                  "@Hide": "false",
+                  "@Num": "3",
+                  "ItemTitle": "三",
+                  "ItemSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "特別の法律により設立された法人の発行する債券（前号に規定する債券に該当するものを除く。）の取得"
+                    }
+                  }
+                },
+                {
+                  "@Delete": "false",
+                  "@Hide": "false",
+                  "@Num": "4",
+                  "ItemTitle": "四",
+                  "ItemSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "信託会社又は信託業務を営む金融機関への金銭信託"
+                    }
+                  }
+                },
+                {
+                  "@Delete": "false",
+                  "@Hide": "false",
+                  "@Num": "5",
+                  "ItemTitle": "五",
+                  "ItemSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "貸付信託の受益証券の取得"
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "SupplProvision": [
+        {
+          "@Extract": "false",
+          "@Type": "New",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": [
+            {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": "１",
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "この政令は、法の施行の日（昭和五十三年十月二日）から施行する。"
+                }
+              }
+            },
+            {
+              "@Hide": "false",
+              "@Num": "2",
+              "ParagraphNum": "２",
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "森林組合財務処理基準令（昭和二十七年政令第百四十四号）は、廃止する。"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@AmendLawNum": "平成一六年一二月二八日政令第四二九号",
+          "@Extract": "true",
+          "@Type": "Amend",
+          "SupplProvisionLabel": "附　則",
+          "Article": {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "1",
+            "ArticleCaption": "（施行期日）",
+            "ArticleTitle": "第一条",
+            "Paragraph": {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "この政令は、法の施行の日（平成十六年十二月三十日）から施行する。"
+                }
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成一九年八月三日政令第二三五号",
+          "@Extract": "true",
+          "@Type": "Amend",
+          "SupplProvisionLabel": "附　則",
+          "Article": [
+            {
+              "@Delete": "false",
+              "@Hide": "false",
+              "@Num": "1",
+              "ArticleCaption": "（施行期日）",
+              "ArticleTitle": "第一条",
+              "Paragraph": {
+                "@Hide": "false",
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "この政令は、平成十九年十月一日から施行する。"
+                  }
+                }
+              }
+            },
+            {
+              "@Delete": "false",
+              "@Hide": "false",
+              "@Num": "2",
+              "ArticleCaption": "（輸出入取引法施行令等の一部改正に伴う経過措置）",
+              "ArticleTitle": "第二条",
+              "Paragraph": {
+                "@Hide": "false",
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "旧郵便貯金は、第三十条、第三十九条、第四十条、第四十六条、第五十六条、第七十二条及び第七十三条の規定による改正後の次に掲げる政令の規定の適用については、銀行への預金とみなす。"
+                  }
+                },
+                "Item": [
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "1:6",
+                    "ItemTitle": "一～六",
+                    "ItemSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "略"
+                      }
+                    }
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "7",
+                    "ItemTitle": "七",
+                    "ItemSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "森林組合財務処理基準令第五条第一号"
+                      }
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "@AmendLawNum": "平成一九年九月二〇日政令第二九二号",
+          "@Extract": "false",
+          "@Type": "Amend",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この政令は、公布の日から施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成二八年一二月二六日政令第三九六号",
+          "@Type": "Amend",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この政令は、平成二十九年四月一日から施行する。"
+              }
+            }
+          }
+        }
+      ]
+    }
+  }
+}

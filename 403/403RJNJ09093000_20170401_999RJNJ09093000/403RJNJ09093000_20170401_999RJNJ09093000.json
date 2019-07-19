@@ -1,0 +1,632 @@
+{
+  "Law": {
+    "@Era": "Heisei",
+    "@Lang": "ja",
+    "@LawType": "Rule",
+    "@Num": "",
+    "@Year": "03",
+    "LawNum": "平成三年人事院規則九―九三",
+    "LawBody": {
+      "LawTitle": "人事院規則九―九三（管理職員特別勤務手当）",
+      "EnactStatement": "人事院は、一般職の職員の給与等に関する法律（昭和二十五年法律第九十五号）に基づき、管理職員特別勤務手当に関し次の人事院規則を制定する。",
+      "MainProvision": {
+        "Article": [
+          {
+            "@Num": "1",
+            "ArticleCaption": "（趣旨）",
+            "ArticleTitle": "第一条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "管理職員特別勤務手当の支給については、別に定める場合を除き、この規則の定めるところによる。"
+              }
+            }
+          },
+          {
+            "@Num": "2",
+            "ArticleCaption": "（管理職員特別勤務手当の額等）",
+            "ArticleTitle": "第二条",
+            "Paragraph": [
+              {
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": "給与法第十九条の三第三項第一号の人事院規則で定める勤務は、次に掲げる勤務とする。"
+                },
+                "Item": [
+                  {
+                    "@Num": "1",
+                    "ItemTitle": "一",
+                    "ItemSentence": {
+                      "Sentence": "勤務に従事した時間が六時間を超える場合の勤務（次号に掲げる勤務を除く。）"
+                    }
+                  },
+                  {
+                    "@Num": "2",
+                    "ItemTitle": "二",
+                    "ItemSentence": {
+                      "Sentence": "次項第三号に掲げる職員のうち事務次官、内部部局（国家行政組織法（昭和二十三年法律第百二十号）第七条第一項の官房及び局をいう。）の長その他これらに準ずる官職として人事院が定める官職を占める職員の勤務"
+                    }
+                  }
+                ]
+              },
+              {
+                "@Num": "2",
+                "ParagraphNum": "２",
+                "ParagraphSentence": {
+                  "Sentence": "給与法第十九条の三第三項第一号イの人事院規則で定める額は、次の各号に掲げる職員の区分に応じ、当該各号に定める額とする。"
+                },
+                "Item": [
+                  {
+                    "@Num": "1",
+                    "ItemTitle": "一",
+                    "ItemSentence": {
+                      "Column": [
+                        {
+                          "@Num": "1",
+                          "Sentence": "管理監督職員（給与法第十条の二第二項に規定する管理監督職員をいう。以下同じ。）"
+                        },
+                        {
+                          "@Num": "2",
+                          "Sentence": "次に掲げる当該管理監督職員の占める官職に係る俸給の特別調整額の区分に応じ、それぞれ次に定める額"
+                        }
+                      ]
+                    },
+                    "Subitem1": [
+                      {
+                        "@Num": "1",
+                        "Subitem1Title": "イ",
+                        "Subitem1Sentence": {
+                          "Column": [
+                            {
+                              "@Num": "1",
+                              "Sentence": "一種"
+                            },
+                            {
+                              "@Num": "2",
+                              "Sentence": "一万二千円"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "Subitem1Title": "ロ",
+                        "Subitem1Sentence": {
+                          "Column": [
+                            {
+                              "@Num": "1",
+                              "Sentence": "二種"
+                            },
+                            {
+                              "@Num": "2",
+                              "Sentence": "一万円"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "@Num": "3",
+                        "Subitem1Title": "ハ",
+                        "Subitem1Sentence": {
+                          "Column": [
+                            {
+                              "@Num": "1",
+                              "Sentence": "三種"
+                            },
+                            {
+                              "@Num": "2",
+                              "Sentence": "八千五百円"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "@Num": "4",
+                        "Subitem1Title": "ニ",
+                        "Subitem1Sentence": {
+                          "Column": [
+                            {
+                              "@Num": "1",
+                              "Sentence": "四種"
+                            },
+                            {
+                              "@Num": "2",
+                              "Sentence": "七千円"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "@Num": "5",
+                        "Subitem1Title": "ホ",
+                        "Subitem1Sentence": {
+                          "Column": [
+                            {
+                              "@Num": "1",
+                              "Sentence": "五種"
+                            },
+                            {
+                              "@Num": "2",
+                              "Sentence": "六千円"
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Num": "2",
+                    "ItemTitle": "二",
+                    "ItemSentence": {
+                      "Column": [
+                        {
+                          "@Num": "1",
+                          "Sentence": "専門スタッフ職俸給表の適用を受ける職員でその職務の級が二級以上であるもの"
+                        },
+                        {
+                          "@Num": "2",
+                          "Sentence": "次に掲げる当該職員の属する職務の級に応じ、それぞれ次に定める額"
+                        }
+                      ]
+                    },
+                    "Subitem1": [
+                      {
+                        "@Num": "1",
+                        "Subitem1Title": "イ",
+                        "Subitem1Sentence": {
+                          "Column": [
+                            {
+                              "@Num": "1",
+                              "Sentence": "三級及び四級"
+                            },
+                            {
+                              "@Num": "2",
+                              "Sentence": "一万二千円"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "Subitem1Title": "ロ",
+                        "Subitem1Sentence": {
+                          "Column": [
+                            {
+                              "@Num": "1",
+                              "Sentence": "二級"
+                            },
+                            {
+                              "@Num": "2",
+                              "Sentence": "一万円"
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Num": "3",
+                    "ItemTitle": "三",
+                    "ItemSentence": {
+                      "Column": [
+                        {
+                          "@Num": "1",
+                          "Sentence": "任期付職員法第三条第一項の規定により任期を定めて採用された職員"
+                        },
+                        {
+                          "@Num": "2",
+                          "Sentence": "次に掲げる当該職員が受ける任期付職員法第七条第一項の俸給表の号俸又は俸給月額に応じ、それぞれ次に定める額"
+                        }
+                      ]
+                    },
+                    "Subitem1": [
+                      {
+                        "@Num": "1",
+                        "Subitem1Title": "イ",
+                        "Subitem1Sentence": {
+                          "Column": [
+                            {
+                              "@Num": "1",
+                              "Sentence": "六号俸及び七号俸並びに任期付職員法第七条第三項（育児休業法第十九条（育児休業法第二十二条において準用する場合を含む。）の規定により読み替えて適用する場合を含む。）の規定による俸給月額"
+                            },
+                            {
+                              "@Num": "2",
+                              "Sentence": "一万二千円"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "Subitem1Title": "ロ",
+                        "Subitem1Sentence": {
+                          "Column": [
+                            {
+                              "@Num": "1",
+                              "Sentence": "五号俸"
+                            },
+                            {
+                              "@Num": "2",
+                              "Sentence": "一万円"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "@Num": "3",
+                        "Subitem1Title": "ハ",
+                        "Subitem1Sentence": {
+                          "Column": [
+                            {
+                              "@Num": "1",
+                              "Sentence": "二号俸から四号俸まで"
+                            },
+                            {
+                              "@Num": "2",
+                              "Sentence": "八千五百円"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "@Num": "4",
+                        "Subitem1Title": "ニ",
+                        "Subitem1Sentence": {
+                          "Column": [
+                            {
+                              "@Num": "1",
+                              "Sentence": "一号俸"
+                            },
+                            {
+                              "@Num": "2",
+                              "Sentence": "七千円"
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Num": "4",
+                    "ItemTitle": "四",
+                    "ItemSentence": {
+                      "Column": [
+                        {
+                          "@Num": "1",
+                          "Sentence": "任期付研究員法第三条第一項第一号の規定により任期を定めて採用された職員"
+                        },
+                        {
+                          "@Num": "2",
+                          "Sentence": "次に掲げる当該職員が受ける任期付研究員法第六条第一項の俸給表の号俸又は俸給月額に応じ、それぞれ次に定める額"
+                        }
+                      ]
+                    },
+                    "Subitem1": [
+                      {
+                        "@Num": "1",
+                        "Subitem1Title": "イ",
+                        "Subitem1Sentence": {
+                          "Column": [
+                            {
+                              "@Num": "1",
+                              "Sentence": "六号俸及び任期付研究員法第六条第四項（育児休業法第十八条（育児休業法第二十二条において準用する場合を含む。）の規定により読み替えて適用する場合を含む。）の規定による俸給月額"
+                            },
+                            {
+                              "@Num": "2",
+                              "Sentence": "一万二千円"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "Subitem1Title": "ロ",
+                        "Subitem1Sentence": {
+                          "Column": [
+                            {
+                              "@Num": "1",
+                              "Sentence": "四号俸及び五号俸"
+                            },
+                            {
+                              "@Num": "2",
+                              "Sentence": "一万円"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "@Num": "3",
+                        "Subitem1Title": "ハ",
+                        "Subitem1Sentence": {
+                          "Column": [
+                            {
+                              "@Num": "1",
+                              "Sentence": "二号俸及び三号俸"
+                            },
+                            {
+                              "@Num": "2",
+                              "Sentence": "八千五百円"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "@Num": "4",
+                        "Subitem1Title": "ニ",
+                        "Subitem1Sentence": {
+                          "Column": [
+                            {
+                              "@Num": "1",
+                              "Sentence": "一号俸"
+                            },
+                            {
+                              "@Num": "2",
+                              "Sentence": "七千円"
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "@Num": "3",
+            "ArticleTitle": "第三条",
+            "Paragraph": [
+              {
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": "給与法第十九条の三第三項第二号の人事院規則で定める額は、次の各号に掲げる当該管理監督職員の占める官職に係る俸給の特別調整額の区分に応じ、当該各号に定める額とする。"
+                },
+                "Item": [
+                  {
+                    "@Num": "1",
+                    "ItemTitle": "一",
+                    "ItemSentence": {
+                      "Column": [
+                        {
+                          "@Num": "1",
+                          "Sentence": "一種"
+                        },
+                        {
+                          "@Num": "2",
+                          "Sentence": "六千円"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "@Num": "2",
+                    "ItemTitle": "二",
+                    "ItemSentence": {
+                      "Column": [
+                        {
+                          "@Num": "1",
+                          "Sentence": "二種"
+                        },
+                        {
+                          "@Num": "2",
+                          "Sentence": "五千円"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "@Num": "3",
+                    "ItemTitle": "三",
+                    "ItemSentence": {
+                      "Column": [
+                        {
+                          "@Num": "1",
+                          "Sentence": "三種"
+                        },
+                        {
+                          "@Num": "2",
+                          "Sentence": "四千三百円"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "@Num": "4",
+                    "ItemTitle": "四",
+                    "ItemSentence": {
+                      "Column": [
+                        {
+                          "@Num": "1",
+                          "Sentence": "四種"
+                        },
+                        {
+                          "@Num": "2",
+                          "Sentence": "三千五百円"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "@Num": "5",
+                    "ItemTitle": "五",
+                    "ItemSentence": {
+                      "Column": [
+                        {
+                          "@Num": "1",
+                          "Sentence": "五種"
+                        },
+                        {
+                          "@Num": "2",
+                          "Sentence": "三千円"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "@Num": "2",
+                "ParagraphNum": "２",
+                "ParagraphSentence": {
+                  "Sentence": "給与法第十九条の三第一項の勤務をした後、引き続いて同条第二項の勤務をした管理監督職員には、その引き続く勤務に係る同項の規定による管理職員特別勤務手当を支給しない。"
+                }
+              }
+            ]
+          },
+          {
+            "@Num": "4",
+            "ArticleCaption": "（勤務実績簿等）",
+            "ArticleTitle": "第四条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "各庁の長（その委任を受けた者を含む。）は、管理職員特別勤務実績簿及び管理職員特別勤務手当整理簿を作成し、これを保管しなければならない。"
+              }
+            }
+          },
+          {
+            "@Num": "5",
+            "ArticleCaption": "（雑則）",
+            "ArticleTitle": "第五条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "この規則の実施に関し必要な事項は、人事院が定める。"
+              }
+            }
+          }
+        ]
+      },
+      "SupplProvision": [
+        {
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphCaption": "（施行期日）",
+            "ParagraphNum": "１",
+            "ParagraphSentence": {
+              "Sentence": "この規則は、平成四年一月一日から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成九年六月四日人事院規則一―二二",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この規則は、公布の日から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成一二年一一月二七日人事院規則一―三一",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この規則は、公布の日から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成一八年一二月一五日人事院規則一―四六",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphCaption": "（施行期日）",
+            "ParagraphNum": "１",
+            "ParagraphSentence": {
+              "Sentence": "この規則は、平成十九年四月一日から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成一九年七月二〇日人事院規則一―四八",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphCaption": "（施行期日）",
+            "ParagraphNum": "１",
+            "ParagraphSentence": {
+              "Sentence": "この規則は、平成十九年八月一日から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成二〇年二月一日人事院規則一―五一",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この規則は、平成二十年四月一日から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成二一年二月二日人事院規則九―九三―一",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この規則は、平成二十一年四月一日から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成二六年五月二九日人事院規則一―六二",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Article": {
+            "@Num": "1",
+            "ArticleCaption": "（施行期日）",
+            "ArticleTitle": "第一条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "この規則は、国家公務員法等の一部を改正する法律（平成二十六年法律第二十二号）の施行の日から施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成二七年一月三〇日人事院規則九―九三―二",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphCaption": "（施行期日）",
+            "ParagraphNum": "１",
+            "ParagraphSentence": {
+              "Sentence": "この規則は、平成二十七年四月一日から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成二八年一一月二四日人事院規則九―九三―三",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この規則は、平成二十九年四月一日から施行する。"
+            }
+          }
+        }
+      ]
+    }
+  }
+}

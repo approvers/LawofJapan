@@ -1,0 +1,89 @@
+{
+  "Law": {
+    "@Era": "Heisei",
+    "@Lang": "ja",
+    "@LawType": "CabinetOrder",
+    "@Num": "321",
+    "@Year": "16",
+    "LawNum": "平成十六年政令第三百二十一号",
+    "LawBody": {
+      "LawTitle": "特定外来生物による生態系等に係る被害の防止に関する法律の施行に伴う経過措置に関する政令",
+      "EnactStatement": "内閣は、特定外来生物による生態系等に係る被害の防止に関する法律（平成十六年法律第七十八号）附則第三条の規定に基づき、この政令を制定する。",
+      "MainProvision": {
+        "Article": [
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "1",
+            "ArticleCaption": "（学識経験を有する者の意見の聴取の特例）",
+            "ArticleTitle": "第一条",
+            "Paragraph": {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "特定外来生物による生態系等に係る被害の防止に関する法律（以下「法」という。）第二条第一項の政令の制定の立案については、主務大臣は、法の施行の日（次条において「施行日」という。）前においても生物の性質に関し専門の学識経験を有する者の意見を聴くことができる。"
+                }
+              }
+            }
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "2",
+            "ArticleCaption": "（飼養等の許可に関する経過措置）",
+            "ArticleTitle": "第二条",
+            "Paragraph": [
+              {
+                "@Hide": "false",
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "法第五条第一項の許可を受けようとする者は、施行日前においても、同条の規定の例により、その許可の申請をすることができる。"
+                  }
+                }
+              },
+              {
+                "@Hide": "false",
+                "@Num": "2",
+                "ParagraphNum": "２",
+                "ParagraphSentence": {
+                  "Sentence": [
+                    {
+                      "@Num": "1",
+                      "@WritingMode": "vertical",
+                      "#text": "主務大臣は、前項の規定により許可の申請があった場合には、施行日前においても、法第五条の規定の例により、その許可をすることができる。"
+                    },
+                    {
+                      "@Num": "2",
+                      "@WritingMode": "vertical",
+                      "#text": "この場合において、同条の規定の例により許可を受けたときは、施行日において同条第一項の規定により許可を受けたものとみなす。"
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      "SupplProvision": {
+        "SupplProvisionLabel": "附　則",
+        "Paragraph": {
+          "@Hide": "false",
+          "@Num": "1",
+          "ParagraphNum": null,
+          "ParagraphSentence": {
+            "Sentence": {
+              "@WritingMode": "vertical",
+              "#text": "この政令は、公布の日から施行する。"
+            }
+          }
+        }
+      }
+    }
+  }
+}

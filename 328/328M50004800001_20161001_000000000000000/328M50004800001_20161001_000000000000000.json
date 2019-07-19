@@ -1,0 +1,3654 @@
+{
+  "Law": {
+    "@Era": "Showa",
+    "@Lang": "ja",
+    "@LawType": "MinisterialOrdinance",
+    "@Num": "001",
+    "@Year": "28",
+    "LawNum": "昭和二十八年運輸省・建設省令第一号",
+    "LawBody": {
+      "LawTitle": "一般自動車道構造設備規則",
+      "EnactStatement": "道路運送法第五十一条の規定に基き、一般自動車道構造設備規則を次のように定める。",
+      "MainProvision": {
+        "Chapter": [
+          {
+            "@Num": "1",
+            "ChapterTitle": "第一章　総則",
+            "Article": [
+              {
+                "@Num": "1",
+                "ArticleCaption": "（用語の定義）",
+                "ArticleTitle": "第一条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "この省令において左に掲げる用語の意義は、道路運送法（昭和二十六年法律第百八十三号。以下「法」という。）第二条に定めるものの外、それぞれ当該各号に定めるところによる。"
+                  },
+                  "Item": [
+                    {
+                      "@Num": "1",
+                      "ItemTitle": "一",
+                      "ItemSentence": {
+                        "Sentence": "「設計車両幅」とは、一般自動車道を設計する場合においてその基礎とした自動車の幅をいう。"
+                      }
+                    },
+                    {
+                      "@Num": "2",
+                      "ItemTitle": "二",
+                      "ItemSentence": {
+                        "Sentence": {
+                          "Ruby": [
+                            {
+                              "Rt": "ヽ",
+                              "#text": "け"
+                            },
+                            {
+                              "Rt": "ヽ",
+                              "#text": "ん"
+                            },
+                            {
+                              "Rt": "ヽ",
+                              "#text": "け"
+                            },
+                            {
+                              "Rt": "ヽ",
+                              "#text": "ん"
+                            },
+                            {
+                              "Rt": "ヽ",
+                              "#text": "け"
+                            },
+                            {
+                              "Rt": "ヽ",
+                              "#text": "ん"
+                            }
+                          ],
+                          "#text": "「設計車両長」とは、一般自動車道を設計する場合においてその基礎とした自動車の前端から後車軸までの長さ（被\n引車を\n引している自動車にあつては、前端から第一被\n引車の最後車軸までの長さ）をいう。"
+                        }
+                      }
+                    },
+                    {
+                      "@Num": "3",
+                      "ItemTitle": "三",
+                      "ItemSentence": {
+                        "Sentence": "「設計速度」とは、一般自動車道を設計する場合においてその基礎とした自動車の最高速度をいう。"
+                      }
+                    },
+                    {
+                      "@Num": "4",
+                      "ItemTitle": "四",
+                      "ItemSentence": {
+                        "Sentence": "「車道」とは、一般自動車道の自動車の走行に供する部分をいう。"
+                      }
+                    },
+                    {
+                      "@Num": "5",
+                      "ItemTitle": "五",
+                      "ItemSentence": {
+                        "Sentence": "「車道基本幅員」とは、設計車両幅を有する自動車が設計速度で往復走行することができ、且つ、隣接する二車線の車道の幅員をいう。"
+                      }
+                    },
+                    {
+                      "@Num": "6",
+                      "ItemTitle": "六",
+                      "ItemSentence": {
+                        "Sentence": "「中央分離帯」とは、車道を往復の方向別に分離するため、その中央部に設けられる地帯をいう。"
+                      }
+                    },
+                    {
+                      "@Num": "7",
+                      "ItemTitle": "七",
+                      "ItemSentence": {
+                        "Sentence": "「視距」とは、車道の中心線（中央分離帯がある場合はその中心線）上一・四メートルの高さにおいて見とおすことができる位置までを中心線に沿つて計つた長さをいう。"
+                      }
+                    },
+                    {
+                      "@Num": "8",
+                      "ItemTitle": "八",
+                      "ItemSentence": {
+                        "Sentence": "「停止視距」とは、設計速度で走行する自動車が、一般自動車道上にある障害物の直前で停止することができる視距をいう。"
+                      }
+                    },
+                    {
+                      "@Num": "9",
+                      "ItemTitle": "九",
+                      "ItemSentence": {
+                        "Sentence": "「曲線部外側線半径」とは、一般自動車道の曲線半径（曲線部中心線の半径をいう。以下同じ。）に、その直線部の車道の幅員と中央分離帯の幅員との和の二分の一を加えた長さをいう。"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "@Num": "2",
+                "ArticleCaption": "（特別の基準）",
+                "ArticleTitle": "第二条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "一般自動車道と他の道路とが連絡する部分並びに国土交通大臣が次条の規定による設計車両幅及び設計速度によることができない事由があると認める一般自動車道の構造及び設備については、次章の規定にかかわらず、国土交通大臣が認める基準によることができる。"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "@Num": "2",
+            "ChapterTitle": "第二章　構造及び設備",
+            "Article": [
+              {
+                "@Num": "3",
+                "ArticleCaption": "（構造の級別）",
+                "ArticleTitle": "第三条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "一般自動車道の構造及び設備の技術上の基準は、左表の区分による級別ごとに定めるものとする。"
+                  },
+                  "TableStruct": {
+                    "Table": {
+                      "TableRow": [
+                        {
+                          "TableColumn": [
+                            {
+                              "@rowspan": "2",
+                              "Sentence": "級別"
+                            },
+                            {
+                              "@colspan": "2",
+                              "Sentence": "乗用自動車"
+                            },
+                            {
+                              "@colspan": "2",
+                              "Sentence": "乗合型自動車貨物自動車"
+                            }
+                          ]
+                        },
+                        {
+                          "TableColumn": [
+                            {
+                              "Sentence": "設計車両幅（メートル）"
+                            },
+                            {
+                              "Sentence": "設計速度（キロメートル／時）"
+                            },
+                            {
+                              "Sentence": "設計車両幅（メートル）"
+                            },
+                            {
+                              "Sentence": "設計速度（キロメートル／時）"
+                            }
+                          ]
+                        },
+                        {
+                          "TableColumn": [
+                            {
+                              "Sentence": "１級"
+                            },
+                            {
+                              "Sentence": "２．０"
+                            },
+                            {
+                              "Sentence": "１００"
+                            },
+                            {
+                              "Sentence": "２．５"
+                            },
+                            {
+                              "Sentence": "７０"
+                            }
+                          ]
+                        },
+                        {
+                          "TableColumn": [
+                            {
+                              "Sentence": "２級"
+                            },
+                            {
+                              "Sentence": "２．０"
+                            },
+                            {
+                              "Sentence": "８０"
+                            },
+                            {
+                              "Sentence": "２．５"
+                            },
+                            {
+                              "Sentence": "６０"
+                            }
+                          ]
+                        },
+                        {
+                          "TableColumn": [
+                            {
+                              "Sentence": "３級"
+                            },
+                            {
+                              "Sentence": "２．０"
+                            },
+                            {
+                              "Sentence": "７０"
+                            },
+                            {
+                              "Sentence": "２．５"
+                            },
+                            {
+                              "Sentence": "５０"
+                            }
+                          ]
+                        },
+                        {
+                          "TableColumn": [
+                            {
+                              "Sentence": "４級"
+                            },
+                            {
+                              "Sentence": "２．０"
+                            },
+                            {
+                              "Sentence": "６０"
+                            },
+                            {
+                              "Sentence": "２．５"
+                            },
+                            {
+                              "Sentence": "４０"
+                            }
+                          ]
+                        },
+                        {
+                          "TableColumn": [
+                            {
+                              "Sentence": "５級"
+                            },
+                            {
+                              "Sentence": "２．０"
+                            },
+                            {
+                              "Sentence": "４０"
+                            },
+                            {
+                              "Sentence": "２．５"
+                            },
+                            {
+                              "Sentence": "２５"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                }
+              },
+              {
+                "@Num": "4",
+                "ArticleCaption": "（級別の併用）",
+                "ArticleTitle": "第四条",
+                "Paragraph": [
+                  {
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": [
+                        {
+                          "@Num": "1",
+                          "#text": "一般自動車道は、二種類又は三種類の級別を用いることができる。"
+                        },
+                        {
+                          "@Num": "2",
+                          "#text": "この場合において、各級の区間は、自動車の走行に支障を及ぼす虞れがない距離でなければならない。"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": "前項の場合においては、級別の異なる区間の間に、設計速度の相違を調整することができる長さを有する接続部分を設けなければならない。"
+                    }
+                  }
+                ]
+              },
+              {
+                "@Num": "5",
+                "ArticleCaption": "（車道幅員）",
+                "ArticleTitle": "第五条",
+                "Paragraph": [
+                  {
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": "車道基本幅員は、左表の通りとする。"
+                    },
+                    "TableStruct": {
+                      "Table": {
+                        "TableRow": [
+                          {
+                            "TableColumn": [
+                              {
+                                "Sentence": "級別"
+                              },
+                              {
+                                "Sentence": "１級"
+                              },
+                              {
+                                "Sentence": "２級"
+                              },
+                              {
+                                "Sentence": "３級"
+                              },
+                              {
+                                "Sentence": "４級"
+                              },
+                              {
+                                "Sentence": "５級"
+                              }
+                            ]
+                          },
+                          {
+                            "TableColumn": [
+                              {
+                                "Sentence": "車道基本幅員（メートル）"
+                              },
+                              {
+                                "Sentence": "７．５"
+                              },
+                              {
+                                "Sentence": "７．０"
+                              },
+                              {
+                                "Sentence": "６．５"
+                              },
+                              {
+                                "Sentence": "６．０"
+                              },
+                              {
+                                "Sentence": "５．５"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    }
+                  },
+                  {
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": "国土交通大臣が交通量が少いと認める五級の一般自動車道は、前項の規定にかかわらず、待避所を設けることにより、車道幅員を三メートルとすることができる。"
+                    }
+                  }
+                ]
+              },
+              {
+                "@Num": "6",
+                "ArticleCaption": "（車線の追加）",
+                "ArticleTitle": "第六条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": [
+                      {
+                        "@Function": "main",
+                        "@Num": "1",
+                        "#text": "一級から四級までの一般自動車道で推定される交通量が当該級別の車道基本幅員の交通容量をこえる場合にあつては、車線数は、往復の車線にそれぞれ一車線ずつ追加しなければならない。"
+                      },
+                      {
+                        "@Function": "proviso",
+                        "@Num": "2",
+                        "#text": "但し、国土交通大臣が往復の交通量が著しく異なると認める場合その他特別の事由があると認める場合には、三車線とすることができる。"
+                      }
+                    ]
+                  }
+                }
+              },
+              {
+                "@Num": "7",
+                "ArticleCaption": "（追加車線の幅員）",
+                "ArticleTitle": "第七条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "前条の規定により追加する車線の幅員は、左表の通りとする。"
+                  },
+                  "TableStruct": {
+                    "Table": {
+                      "TableRow": [
+                        {
+                          "TableColumn": [
+                            {
+                              "Sentence": "級別"
+                            },
+                            {
+                              "Sentence": "１級"
+                            },
+                            {
+                              "Sentence": "２級"
+                            },
+                            {
+                              "Sentence": "３級"
+                            },
+                            {
+                              "Sentence": "４級"
+                            }
+                          ]
+                        },
+                        {
+                          "TableColumn": [
+                            {
+                              "Sentence": "追加車線の幅員（メートル）"
+                            },
+                            {
+                              "Sentence": "３．５０"
+                            },
+                            {
+                              "Sentence": "３．２５"
+                            },
+                            {
+                              "Sentence": "３．００"
+                            },
+                            {
+                              "Sentence": "２．７５"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                }
+              },
+              {
+                "@Num": "8",
+                "ArticleCaption": "（車線境界線）",
+                "ArticleTitle": "第八条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": [
+                      {
+                        "@Function": "main",
+                        "@Num": "1",
+                        "#text": "一般自動車道は、車線の境界を明示するために車線境界線を設けたものでなければならない。"
+                      },
+                      {
+                        "@Function": "proviso",
+                        "@Num": "2",
+                        "#text": "但し、水締マカダム、土砂安定工法等による砂利道にあつては、この限りでない。"
+                      }
+                    ]
+                  }
+                }
+              },
+              {
+                "@Num": "9",
+                "ArticleCaption": "（中央分離帯）",
+                "ArticleTitle": "第九条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": [
+                      {
+                        "@Function": "main",
+                        "@Num": "1",
+                        "#text": "中央分離帯の幅員は、一メートル以上でなければならない。"
+                      },
+                      {
+                        "@Function": "proviso",
+                        "@Num": "2",
+                        "#text": "但し、都市内又は高架構造等の場合の中央分離帯であつてやむを得ない事由があると認められるものにあつては、〇・五メートル以上とすることができる。"
+                      }
+                    ]
+                  }
+                }
+              },
+              {
+                "@Num": "10",
+                "ArticleCaption": "（路肩）",
+                "ArticleTitle": "第十条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": [
+                      {
+                        "@Function": "main",
+                        "@Num": "1",
+                        "#text": "一般自動車道は、その両側に左表の区分による幅員以上の路肩を設けたものでなければならない。"
+                      },
+                      {
+                        "@Function": "proviso",
+                        "@Num": "2",
+                        "#text": "但し、橋、トンネル等にあつては、この限りでない。"
+                      }
+                    ]
+                  },
+                  "TableStruct": {
+                    "Table": {
+                      "TableRow": [
+                        {
+                          "TableColumn": [
+                            {
+                              "Sentence": "級別"
+                            },
+                            {
+                              "Sentence": "１級"
+                            },
+                            {
+                              "Sentence": "２級"
+                            },
+                            {
+                              "Sentence": "３級"
+                            },
+                            {
+                              "Sentence": "４級"
+                            },
+                            {
+                              "Sentence": "５級"
+                            }
+                          ]
+                        },
+                        {
+                          "TableColumn": [
+                            {
+                              "Sentence": "路面幅員（メートル）"
+                            },
+                            {
+                              "Sentence": "１．０"
+                            },
+                            {
+                              "Sentence": "１．０"
+                            },
+                            {
+                              "Sentence": "０．５"
+                            },
+                            {
+                              "Sentence": "０．５"
+                            },
+                            {
+                              "Sentence": "０．５"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                }
+              },
+              {
+                "@Num": "11",
+                "ArticleCaption": {
+                  "Ruby": {
+                    "Rt": "ヽ",
+                    "#text": "ほ"
+                  },
+                  "#text": "（車道の装）"
+                },
+                "ArticleTitle": "第十一条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": [
+                      {
+                        "@Function": "main",
+                        "@Num": "1",
+                        "Ruby": {
+                          "Rt": "ヽ",
+                          "#text": "ほ"
+                        },
+                        "#text": "車道は、平滑に装したものでなければならない。"
+                      },
+                      {
+                        "@Function": "proviso",
+                        "@Num": "2",
+                        "Ruby": {
+                          "Rt": "ヽ",
+                          "#text": "ほ"
+                        },
+                        "#text": "但し、四級及び五級の一般自動車道にあつては、瀝青塗装道若しくは水締マカダムによる砂利道又は土砂安定工法等による砂利道とすることにより装を省略することができる。"
+                      }
+                    ]
+                  }
+                }
+              },
+              {
+                "@Num": "12",
+                "ArticleCaption": "（工作物等の強度）",
+                "ArticleTitle": "第十二条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": {
+                      "Ruby": {
+                        "Rt": "ヽ",
+                        "#text": "ほ"
+                      },
+                      "#text": "一般自動車道の橋、トンネルその他の工作物並びに装、路盤、路床等の強度は、自動車が設計速度で安全に走行することができるものでなければならない。"
+                    }
+                  }
+                }
+              },
+              {
+                "@Num": "13",
+                "ArticleCaption": {
+                  "Ruby": [
+                    {
+                      "Rt": "ヽ",
+                      "#text": "こ"
+                    },
+                    {
+                      "Rt": "ヽ",
+                      "#text": "う"
+                    },
+                    {
+                      "Rt": "ヽ",
+                      "#text": "ば"
+                    },
+                    {
+                      "Rt": "ヽ",
+                      "#text": "い"
+                    }
+                  ],
+                  "#text": "（直線部の横断\n\n\n）"
+                },
+                "ArticleTitle": "第十三条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": {
+                      "Ruby": [
+                        {
+                          "Rt": "ヽ",
+                          "#text": "こ"
+                        },
+                        {
+                          "Rt": "ヽ",
+                          "#text": "う"
+                        },
+                        {
+                          "Rt": "ヽ",
+                          "#text": "ば"
+                        },
+                        {
+                          "Rt": "ヽ",
+                          "#text": "い"
+                        }
+                      ],
+                      "#text": "車道の直線部の路面は、左表の区分による横断\n\n\nを付けたものでなければならない。"
+                    }
+                  },
+                  "TableStruct": {
+                    "Table": {
+                      "TableRow": [
+                        {
+                          "TableColumn": [
+                            {
+                              "Sentence": "路面の種類"
+                            },
+                            {
+                              "Sentence": {
+                                "Ruby": [
+                                  {
+                                    "Rt": "ヽ",
+                                    "#text": "こ"
+                                  },
+                                  {
+                                    "Rt": "ヽ",
+                                    "#text": "う"
+                                  },
+                                  {
+                                    "Rt": "ヽ",
+                                    "#text": "ば"
+                                  },
+                                  {
+                                    "Rt": "ヽ",
+                                    "#text": "い"
+                                  }
+                                ],
+                                "#text": "横断\n\n\n（パーセント）"
+                              }
+                            }
+                          ]
+                        },
+                        {
+                          "TableColumn": [
+                            {
+                              "Sentence": "砂利道"
+                            },
+                            {
+                              "Sentence": "３～５"
+                            }
+                          ]
+                        },
+                        {
+                          "TableColumn": [
+                            {
+                              "Sentence": "瀝青塗装道"
+                            },
+                            {
+                              "Sentence": "２．５～４"
+                            }
+                          ]
+                        },
+                        {
+                          "TableColumn": [
+                            {
+                              "Sentence": "瀝青マカダム道"
+                            },
+                            {
+                              "Sentence": "２．５～４"
+                            }
+                          ]
+                        },
+                        {
+                          "TableColumn": [
+                            {
+                              "Sentence": "瀝青コンクリート道"
+                            },
+                            {
+                              "Sentence": "２～２．５"
+                            }
+                          ]
+                        },
+                        {
+                          "TableColumn": [
+                            {
+                              "Sentence": {
+                                "Ruby": {
+                                  "Rt": "ヽ",
+                                  "#text": "ほ"
+                                },
+                                "#text": "かい装道"
+                              }
+                            },
+                            {
+                              "Sentence": "２～２．５"
+                            }
+                          ]
+                        },
+                        {
+                          "TableColumn": [
+                            {
+                              "Sentence": {
+                                "Ruby": {
+                                  "Rt": "ヽ",
+                                  "#text": "ほ"
+                                },
+                                "#text": "コンクリート装道"
+                              }
+                            },
+                            {
+                              "Sentence": "１．５～２"
+                            }
+                          ]
+                        },
+                        {
+                          "TableColumn": [
+                            {
+                              "Sentence": "シートアスフアルト道"
+                            },
+                            {
+                              "Sentence": "１．５～２"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                }
+              },
+              {
+                "@Num": "14",
+                "ArticleCaption": {
+                  "Ruby": [
+                    {
+                      "Rt": "ヽ",
+                      "#text": "こ"
+                    },
+                    {
+                      "Rt": "ヽ",
+                      "#text": "う"
+                    },
+                    {
+                      "Rt": "ヽ",
+                      "#text": "ば"
+                    },
+                    {
+                      "Rt": "ヽ",
+                      "#text": "い"
+                    }
+                  ],
+                  "#text": "（縦断\n\n\n）"
+                },
+                "ArticleTitle": "第十四条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": [
+                      {
+                        "@Function": "main",
+                        "@Num": "1",
+                        "Ruby": [
+                          {
+                            "Rt": "ヽ",
+                            "#text": "こ"
+                          },
+                          {
+                            "Rt": "ヽ",
+                            "#text": "う"
+                          },
+                          {
+                            "Rt": "ヽ",
+                            "#text": "ば"
+                          },
+                          {
+                            "Rt": "ヽ",
+                            "#text": "い"
+                          },
+                          {
+                            "Rt": "ヽ",
+                            "#text": "こ"
+                          },
+                          {
+                            "Rt": "ヽ",
+                            "#text": "う"
+                          },
+                          {
+                            "Rt": "ヽ",
+                            "#text": "ば"
+                          },
+                          {
+                            "Rt": "ヽ",
+                            "#text": "い"
+                          },
+                          {
+                            "Rt": "ヽ",
+                            "#text": "こ"
+                          },
+                          {
+                            "Rt": "ヽ",
+                            "#text": "う"
+                          },
+                          {
+                            "Rt": "ヽ",
+                            "#text": "ば"
+                          },
+                          {
+                            "Rt": "ヽ",
+                            "#text": "い"
+                          }
+                        ],
+                        "#text": "車道の縦断\n\n\nは、左表の区分による\n\n\n又はこれよりゆるやかな\n\n\nでなければならない。"
+                      },
+                      {
+                        "@Function": "proviso",
+                        "@Num": "2",
+                        "Ruby": [
+                          {
+                            "Rt": "ヽ",
+                            "#text": "こ"
+                          },
+                          {
+                            "Rt": "ヽ",
+                            "#text": "う"
+                          },
+                          {
+                            "Rt": "ヽ",
+                            "#text": "ば"
+                          },
+                          {
+                            "Rt": "ヽ",
+                            "#text": "い"
+                          }
+                        ],
+                        "#text": "但し、地形上やむを得ない場合その他特別の事由があると認められる場合には、次位の級の縦断\n\n\nまでの範囲内のものとすることができる。"
+                      }
+                    ]
+                  },
+                  "TableStruct": {
+                    "Table": {
+                      "TableRow": [
+                        {
+                          "TableColumn": [
+                            {
+                              "Sentence": "級別"
+                            },
+                            {
+                              "Sentence": "１級"
+                            },
+                            {
+                              "Sentence": "２級"
+                            },
+                            {
+                              "Sentence": "３級"
+                            },
+                            {
+                              "Sentence": "４級"
+                            },
+                            {
+                              "Sentence": "５級"
+                            }
+                          ]
+                        },
+                        {
+                          "TableColumn": [
+                            {
+                              "Sentence": {
+                                "Ruby": [
+                                  {
+                                    "Rt": "ヽ",
+                                    "#text": "こ"
+                                  },
+                                  {
+                                    "Rt": "ヽ",
+                                    "#text": "う"
+                                  },
+                                  {
+                                    "Rt": "ヽ",
+                                    "#text": "ば"
+                                  },
+                                  {
+                                    "Rt": "ヽ",
+                                    "#text": "い"
+                                  }
+                                ],
+                                "#text": "縦断\n\n\n（パーセント）"
+                              }
+                            },
+                            {
+                              "Sentence": "２"
+                            },
+                            {
+                              "Sentence": "３"
+                            },
+                            {
+                              "Sentence": "４"
+                            },
+                            {
+                              "Sentence": "６"
+                            },
+                            {
+                              "Sentence": "１０"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                }
+              },
+              {
+                "@Num": "15",
+                "ArticleCaption": "（縦断曲線）",
+                "ArticleTitle": "第十五条",
+                "Paragraph": [
+                  {
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "Ruby": [
+                          {
+                            "Rt": "ヽ",
+                            "#text": "こ"
+                          },
+                          {
+                            "Rt": "ヽ",
+                            "#text": "う"
+                          },
+                          {
+                            "Rt": "ヽ",
+                            "#text": "ば"
+                          },
+                          {
+                            "Rt": "ヽ",
+                            "#text": "い"
+                          }
+                        ],
+                        "#text": "車道は、縦断\n\n\nが変化する箇所に、左表の区分による長さ以上の縦断曲線を設けたものでなければならない。"
+                      }
+                    },
+                    "TableStruct": {
+                      "Table": {
+                        "TableRow": [
+                          {
+                            "TableColumn": [
+                              {
+                                "@Align": "right",
+                                "@BorderBottom": "none",
+                                "Sentence": "級別"
+                              },
+                              {
+                                "@rowspan": "2",
+                                "Sentence": "１級"
+                              },
+                              {
+                                "@rowspan": "2",
+                                "Sentence": "２級"
+                              },
+                              {
+                                "@rowspan": "2",
+                                "Sentence": "３級"
+                              },
+                              {
+                                "@rowspan": "2",
+                                "Sentence": "４級"
+                              },
+                              {
+                                "@rowspan": "2",
+                                "Sentence": "５級"
+                              }
+                            ]
+                          },
+                          {
+                            "TableColumn": {
+                              "@BorderTop": "none",
+                              "Sentence": {
+                                "Ruby": [
+                                  {
+                                    "Rt": "ヽ",
+                                    "#text": "こ"
+                                  },
+                                  {
+                                    "Rt": "ヽ",
+                                    "#text": "う"
+                                  },
+                                  {
+                                    "Rt": "ヽ",
+                                    "#text": "ば"
+                                  },
+                                  {
+                                    "Rt": "ヽ",
+                                    "#text": "い"
+                                  }
+                                ],
+                                "#text": "の代数差（パーセント）"
+                              }
+                            }
+                          },
+                          {
+                            "TableColumn": [
+                              {
+                                "Sentence": "０．５～３"
+                              },
+                              {
+                                "Sentence": "７０"
+                              },
+                              {
+                                "Sentence": "５０"
+                              },
+                              {
+                                "Sentence": "３５"
+                              },
+                              {
+                                "Sentence": "２５"
+                              },
+                              {
+                                "Sentence": "１０"
+                              }
+                            ]
+                          },
+                          {
+                            "TableColumn": [
+                              {
+                                "Sentence": "３～４"
+                              },
+                              {
+                                "Sentence": "１００"
+                              },
+                              {
+                                "Sentence": "６０"
+                              },
+                              {
+                                "Sentence": "５０"
+                              },
+                              {
+                                "Sentence": "３５"
+                              },
+                              {
+                                "Sentence": "１５"
+                              }
+                            ]
+                          },
+                          {
+                            "TableColumn": [
+                              {
+                                "Sentence": "４～５"
+                              },
+                              {
+                                "Sentence": "１３０"
+                              },
+                              {
+                                "Sentence": "８０"
+                              },
+                              {
+                                "Sentence": "６５"
+                              },
+                              {
+                                "Sentence": "４５"
+                              },
+                              {
+                                "Sentence": "２０"
+                              }
+                            ]
+                          },
+                          {
+                            "TableColumn": [
+                              {
+                                "Sentence": "５～６"
+                              },
+                              {
+                                "Sentence": "１６０"
+                              },
+                              {
+                                "Sentence": "１００"
+                              },
+                              {
+                                "Sentence": "８０"
+                              },
+                              {
+                                "Sentence": "５５"
+                              },
+                              {
+                                "Sentence": "２５"
+                              }
+                            ]
+                          },
+                          {
+                            "TableColumn": [
+                              {
+                                "Sentence": "６～８"
+                              },
+                              {
+                                "Sentence": "―"
+                              },
+                              {
+                                "Sentence": "１３０"
+                              },
+                              {
+                                "Sentence": "１００"
+                              },
+                              {
+                                "Sentence": "７０"
+                              },
+                              {
+                                "Sentence": "３０"
+                              }
+                            ]
+                          },
+                          {
+                            "TableColumn": [
+                              {
+                                "Sentence": "８～１０"
+                              },
+                              {
+                                "Sentence": "―"
+                              },
+                              {
+                                "Sentence": "―"
+                              },
+                              {
+                                "Sentence": "１３０"
+                              },
+                              {
+                                "Sentence": "９０"
+                              },
+                              {
+                                "Sentence": "４０"
+                              }
+                            ]
+                          },
+                          {
+                            "TableColumn": [
+                              {
+                                "Sentence": "１０～１２"
+                              },
+                              {
+                                "Sentence": "―"
+                              },
+                              {
+                                "Sentence": "―"
+                              },
+                              {
+                                "Sentence": "１５０"
+                              },
+                              {
+                                "Sentence": "１１０"
+                              },
+                              {
+                                "Sentence": "５０"
+                              }
+                            ]
+                          },
+                          {
+                            "TableColumn": [
+                              {
+                                "Sentence": "１２～１５"
+                              },
+                              {
+                                "Sentence": "―"
+                              },
+                              {
+                                "Sentence": "―"
+                              },
+                              {
+                                "Sentence": "―"
+                              },
+                              {
+                                "Sentence": "１４０"
+                              },
+                              {
+                                "Sentence": "６０"
+                              }
+                            ]
+                          },
+                          {
+                            "TableColumn": [
+                              {
+                                "Sentence": "１５～２０"
+                              },
+                              {
+                                "Sentence": "―"
+                              },
+                              {
+                                "Sentence": "―"
+                              },
+                              {
+                                "Sentence": "―"
+                              },
+                              {
+                                "Sentence": "１８０"
+                              },
+                              {
+                                "Sentence": "８０"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      "Remarks": {
+                        "RemarksLabel": {
+                          "@LineBreak": "false",
+                          "#text": "備考"
+                        },
+                        "Sentence": "縦断曲線の長さの単位は、メートルとする。"
+                      }
+                    }
+                  },
+                  {
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": "車道は、前項の縦断曲線を設けることにより、第二十四条に規定する停止視距を有することができないこととなる場合は、前項の規定にかかわらず、その停止視距を有することとなる長さの縦断曲線を設けたものでなければならない。"
+                    }
+                  }
+                ]
+              },
+              {
+                "@Num": "16",
+                "ArticleCaption": "（土工）",
+                "ArticleTitle": "第十六条",
+                "Paragraph": [
+                  {
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "Ruby": [
+                          {
+                            "Rt": "ヽ",
+                            "#text": "こ"
+                          },
+                          {
+                            "Rt": "ヽ",
+                            "#text": "う"
+                          },
+                          {
+                            "Rt": "ヽ",
+                            "#text": "ば"
+                          },
+                          {
+                            "Rt": "ヽ",
+                            "#text": "い"
+                          }
+                        ],
+                        "#text": "盛土及び切土の法\n\n\nは、崩壊する虞がないものでなければならない。"
+                      }
+                    }
+                  },
+                  {
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "Ruby": [
+                          {
+                            "Rt": "のり",
+                            "#text": "法"
+                          },
+                          {
+                            "Rt": "じり",
+                            "#text": "尻"
+                          },
+                          {
+                            "Rt": "ヽ",
+                            "#text": "ゆ"
+                          },
+                          {
+                            "Rt": "ヽ",
+                            "#text": "う"
+                          }
+                        ],
+                        "#text": "は、水流により洗堀される虞がある箇所に適当な土留設備を設け、法面は、雨水、\n水又は凍結等により崩壊する虞あるが箇所に法面保護設備を設ける等予想される原因に対してこれらを保護するための設備を設けたものでなければならない。"
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "@Num": "17",
+                "ArticleCaption": "（待避所）",
+                "ArticleTitle": "第十七条",
+                "Paragraph": [
+                  {
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": "第五条第二項の規定による待避所の構造は、左の各号に掲げる基準に適合するものでなければならない。"
+                    },
+                    "Item": [
+                      {
+                        "@Num": "1",
+                        "ItemTitle": "一",
+                        "ItemSentence": {
+                          "Sentence": "待避所間の道路が原則として相互の待避所から見とおすことができること。"
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "ItemTitle": "二",
+                        "ItemSentence": {
+                          "Sentence": "設計車両幅及び設計車両長を有する自動車を二両以上収容することができるものであること。"
+                        }
+                      },
+                      {
+                        "@Num": "3",
+                        "ItemTitle": "三",
+                        "ItemSentence": {
+                          "Sentence": "待避所の路面は、原則として車道の路面と同じ種類のものであること。"
+                        }
+                      },
+                      {
+                        "@Num": "4",
+                        "ItemTitle": "四",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "Ruby": [
+                              {
+                                "Rt": "ヽ",
+                                "#text": "こ"
+                              },
+                              {
+                                "Rt": "ヽ",
+                                "#text": "う"
+                              },
+                              {
+                                "Rt": "ヽ",
+                                "#text": "ば"
+                              },
+                              {
+                                "Rt": "ヽ",
+                                "#text": "い"
+                              },
+                              {
+                                "Rt": "ヽ",
+                                "#text": "こ"
+                              },
+                              {
+                                "Rt": "ヽ",
+                                "#text": "う"
+                              },
+                              {
+                                "Rt": "ヽ",
+                                "#text": "ば"
+                              },
+                              {
+                                "Rt": "ヽ",
+                                "#text": "い"
+                              }
+                            ],
+                            "#text": "縦断\n\n\nは三パーセントより、車道と接する部分の\n\n\nは十パーセントよりゆるやかなものであること。"
+                          }
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": "待避所相互間の距離は、三百メートルをこえてはならない。"
+                    }
+                  }
+                ]
+              },
+              {
+                "@Num": "18",
+                "ArticleCaption": "（曲線半径）",
+                "ArticleTitle": "第十八条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": [
+                      {
+                        "@Function": "main",
+                        "@Num": "1",
+                        "#text": "曲線半径は、左表の区分によるもの又はこれより大きいものでなければならない。"
+                      },
+                      {
+                        "@Function": "proviso",
+                        "@Num": "2",
+                        "#text": "但し、地形上やむを得ない箇所その他特別の事由があると認められる箇所における曲線半径は、一級及び二級のものについてはそれぞれ三級及び四級の曲線半径まで、三級及び四級のものについては五十メートルの曲線半径まで、五級のものについては十五メートルの曲線半径まで小さくすることができる。"
+                      }
+                    ]
+                  },
+                  "TableStruct": {
+                    "Table": {
+                      "TableRow": [
+                        {
+                          "TableColumn": [
+                            {
+                              "Sentence": "級別"
+                            },
+                            {
+                              "Sentence": "１級"
+                            },
+                            {
+                              "Sentence": "２級"
+                            },
+                            {
+                              "Sentence": "３級"
+                            },
+                            {
+                              "Sentence": "４級"
+                            },
+                            {
+                              "Sentence": "５級"
+                            }
+                          ]
+                        },
+                        {
+                          "TableColumn": [
+                            {
+                              "Sentence": "曲線半径（メートル）"
+                            },
+                            {
+                              "Sentence": "４５０"
+                            },
+                            {
+                              "Sentence": "３００"
+                            },
+                            {
+                              "Sentence": "２００"
+                            },
+                            {
+                              "Sentence": "１５０"
+                            },
+                            {
+                              "Sentence": "７５"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                }
+              },
+              {
+                "@Num": "19",
+                "ArticleCaption": "（曲線長）",
+                "ArticleTitle": "第十九条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "一般自動車道の曲線部中心線の長さ（次条の緩和区間が緩和曲線によるものである場合は、円曲線の長さに緩和曲線の長さを加えたものをいい、その他の場合は、円曲線の長さをいう。）は、左表の区分によるもの又はこれより大きいものでなければならない。"
+                  },
+                  "TableStruct": {
+                    "Table": {
+                      "TableRow": [
+                        {
+                          "TableColumn": [
+                            {
+                              "@colspan": "2",
+                              "Sentence": "級別"
+                            },
+                            {
+                              "Sentence": "１級"
+                            },
+                            {
+                              "Sentence": "２級"
+                            },
+                            {
+                              "Sentence": "３級"
+                            },
+                            {
+                              "Sentence": "４級"
+                            },
+                            {
+                              "Sentence": "５級"
+                            }
+                          ]
+                        },
+                        {
+                          "TableColumn": [
+                            {
+                              "@rowspan": "2",
+                              "Sentence": [
+                                "曲線長",
+                                "（メートル）"
+                              ]
+                            },
+                            {
+                              "Sentence": "交角７度以上の場合"
+                            },
+                            {
+                              "Sentence": "１６０"
+                            },
+                            {
+                              "Sentence": "１３０"
+                            },
+                            {
+                              "Sentence": "１２０"
+                            },
+                            {
+                              "Sentence": "１００"
+                            },
+                            {
+                              "Sentence": "７０"
+                            }
+                          ]
+                        },
+                        {
+                          "TableColumn": [
+                            {
+                              "Sentence": "交角７度以下の場合"
+                            },
+                            {
+                              "Sentence": [
+                                "３３５―",
+                                "２５θ"
+                              ]
+                            },
+                            {
+                              "Sentence": [
+                                "３０５―",
+                                "２５θ"
+                              ]
+                            },
+                            {
+                              "Sentence": [
+                                "２９５―",
+                                "２５θ"
+                              ]
+                            },
+                            {
+                              "Sentence": [
+                                "２４０―",
+                                "２０θ"
+                              ]
+                            },
+                            {
+                              "Sentence": [
+                                "２１０―",
+                                "２０θ"
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    "Remarks": {
+                      "RemarksLabel": {
+                        "@LineBreak": "false",
+                        "#text": "備考"
+                      },
+                      "Sentence": "θは、交角を度であらわした場合の数値"
+                    }
+                  }
+                }
+              },
+              {
+                "@Num": "20",
+                "ArticleCaption": "（緩和区間）",
+                "ArticleTitle": "第二十条",
+                "Paragraph": [
+                  {
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": "一般自動車道は、円曲線部と直線部との間に左表の区分による長さ以上の緩和区間を設けたものでなければならない。"
+                    },
+                    "TableStruct": {
+                      "Table": {
+                        "TableRow": [
+                          {
+                            "TableColumn": [
+                              {
+                                "Sentence": "級別"
+                              },
+                              {
+                                "@colspan": "7",
+                                "Sentence": "曲線半径（メートル）"
+                              }
+                            ]
+                          },
+                          {
+                            "TableColumn": [
+                              {
+                                "Sentence": "１級"
+                              },
+                              {
+                                "Sentence": "４５０～４８０"
+                              },
+                              {
+                                "Sentence": "４８０～５５０"
+                              },
+                              {
+                                "Sentence": "５５０～７００"
+                              },
+                              {
+                                "Sentence": "―"
+                              },
+                              {
+                                "Sentence": "―"
+                              },
+                              {
+                                "Sentence": "―"
+                              },
+                              {
+                                "Sentence": "―"
+                              }
+                            ]
+                          },
+                          {
+                            "TableColumn": [
+                              {
+                                "Sentence": "２級"
+                              },
+                              {
+                                "Sentence": "―"
+                              },
+                              {
+                                "Sentence": "―"
+                              },
+                              {
+                                "Sentence": "３００～３５０"
+                              },
+                              {
+                                "Sentence": "３５０～４５０"
+                              },
+                              {
+                                "Sentence": "―"
+                              },
+                              {
+                                "Sentence": "―"
+                              },
+                              {
+                                "Sentence": "―"
+                              }
+                            ]
+                          },
+                          {
+                            "TableColumn": [
+                              {
+                                "Sentence": "３級"
+                              },
+                              {
+                                "Sentence": "―"
+                              },
+                              {
+                                "Sentence": "―"
+                              },
+                              {
+                                "Sentence": "２００～２３０"
+                              },
+                              {
+                                "Sentence": "２３０～２８０"
+                              },
+                              {
+                                "Sentence": "２８０～３５０"
+                              },
+                              {
+                                "Sentence": "―"
+                              },
+                              {
+                                "Sentence": "―"
+                              }
+                            ]
+                          },
+                          {
+                            "TableColumn": [
+                              {
+                                "Sentence": "４級"
+                              },
+                              {
+                                "Sentence": "―"
+                              },
+                              {
+                                "Sentence": "―"
+                              },
+                              {
+                                "Sentence": "―"
+                              },
+                              {
+                                "Sentence": "１５０～１８０"
+                              },
+                              {
+                                "Sentence": "１８０～２５０"
+                              },
+                              {
+                                "Sentence": "―"
+                              },
+                              {
+                                "Sentence": "―"
+                              }
+                            ]
+                          },
+                          {
+                            "TableColumn": [
+                              {
+                                "Sentence": "５級"
+                              },
+                              {
+                                "Sentence": "―"
+                              },
+                              {
+                                "Sentence": "―"
+                              },
+                              {
+                                "Sentence": "―"
+                              },
+                              {
+                                "Sentence": "―"
+                              },
+                              {
+                                "Sentence": "―"
+                              },
+                              {
+                                "Sentence": "７５～８５"
+                              },
+                              {
+                                "Sentence": "８５～１１０"
+                              }
+                            ]
+                          },
+                          {
+                            "TableColumn": [
+                              {
+                                "Sentence": [
+                                  "緩和区間の長さ",
+                                  "（メートル）"
+                                ]
+                              },
+                              {
+                                "Sentence": "８０"
+                              },
+                              {
+                                "Sentence": "７０"
+                              },
+                              {
+                                "Sentence": "６０"
+                              },
+                              {
+                                "Sentence": "５０"
+                              },
+                              {
+                                "Sentence": "４０"
+                              },
+                              {
+                                "Sentence": "３０"
+                              },
+                              {
+                                "Sentence": "２０"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    }
+                  },
+                  {
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": "第十八条但書の規定による曲線半径とした場合における緩和区間の長さは、前項の規定にかかわらず、一級及び二級のものにあつてはそれぞれ同項の三級及び四級のものの緩和区間の長さとし、三級、四級及び五級のものにあつては、左表の区分による長さとする。"
+                    },
+                    "TableStruct": {
+                      "Table": {
+                        "TableRow": [
+                          {
+                            "TableColumn": [
+                              {
+                                "Sentence": "曲線半径（メートル）"
+                              },
+                              {
+                                "Sentence": "２００～１５０"
+                              },
+                              {
+                                "Sentence": "１５０～１１０"
+                              },
+                              {
+                                "Sentence": "１１０～７５"
+                              },
+                              {
+                                "Sentence": "７５～４０"
+                              },
+                              {
+                                "Sentence": "４０～３０"
+                              },
+                              {
+                                "Sentence": "３０～２０"
+                              },
+                              {
+                                "Sentence": "２０～１５"
+                              }
+                            ]
+                          },
+                          {
+                            "TableColumn": [
+                              {
+                                "Sentence": "緩和区間の長さ（メートル）"
+                              },
+                              {
+                                "Sentence": "６０"
+                              },
+                              {
+                                "Sentence": "５０"
+                              },
+                              {
+                                "Sentence": "４０"
+                              },
+                              {
+                                "Sentence": "３０"
+                              },
+                              {
+                                "Sentence": "２５"
+                              },
+                              {
+                                "Sentence": "２０"
+                              },
+                              {
+                                "Sentence": "１５"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    }
+                  },
+                  {
+                    "@Num": "3",
+                    "ParagraphNum": "３",
+                    "ParagraphSentence": {
+                      "Sentence": "前二項の規定による緩和区間の長さが、第二十二条の規定によるすりつけ高に応じたすりつけの長さより小さいこととなるときは、前二項の規定にかかわらず当該緩和区間の長さは、そのすりつけの長さに一致させなければならない。"
+                    }
+                  }
+                ]
+              },
+              {
+                "@Num": "21",
+                "ArticleCaption": {
+                  "Ruby": [
+                    {
+                      "Rt": "ヽ",
+                      "#text": "こ"
+                    },
+                    {
+                      "Rt": "ヽ",
+                      "#text": "う"
+                    },
+                    {
+                      "Rt": "ヽ",
+                      "#text": "ば"
+                    },
+                    {
+                      "Rt": "ヽ",
+                      "#text": "い"
+                    }
+                  ],
+                  "#text": "（曲線部の横断\n\n\n）"
+                },
+                "ArticleTitle": "第二十一条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": [
+                      {
+                        "@Num": "1",
+                        "Ruby": [
+                          {
+                            "Rt": "ヽ",
+                            "#text": "こ"
+                          },
+                          {
+                            "Rt": "ヽ",
+                            "#text": "う"
+                          },
+                          {
+                            "Rt": "ヽ",
+                            "#text": "ば"
+                          },
+                          {
+                            "Rt": "ヽ",
+                            "#text": "い"
+                          }
+                        ],
+                        "#text": "一般自動車道の曲線部は、左表の区分による片\n\n\nをつけたものでなければならない。"
+                      },
+                      {
+                        "@Num": "2",
+                        "Ruby": [
+                          {
+                            "Rt": "ヽ",
+                            "#text": "こ"
+                          },
+                          {
+                            "Rt": "ヽ",
+                            "#text": "う"
+                          },
+                          {
+                            "Rt": "ヽ",
+                            "#text": "ば"
+                          },
+                          {
+                            "Rt": "ヽ",
+                            "#text": "い"
+                          },
+                          {
+                            "Rt": "ヽ",
+                            "#text": "こ"
+                          },
+                          {
+                            "Rt": "ヽ",
+                            "#text": "う"
+                          },
+                          {
+                            "Rt": "ヽ",
+                            "#text": "ば"
+                          },
+                          {
+                            "Rt": "ヽ",
+                            "#text": "い"
+                          }
+                        ],
+                        "#text": "この場合において、片\n\n\nの数値が、第十三条の規定による横断\n\n\nの数値より小さいこととなるときは、これと等しいものとしなければならない。"
+                      }
+                    ]
+                  },
+                  "TableStruct": {
+                    "Table": {
+                      "TableRow": [
+                        {
+                          "TableColumn": [
+                            {
+                              "Sentence": "級別"
+                            },
+                            {
+                              "@colspan": "7",
+                              "Sentence": "曲線半径（メートル）"
+                            }
+                          ]
+                        },
+                        {
+                          "TableColumn": [
+                            {
+                              "Sentence": "１級"
+                            },
+                            {
+                              "Sentence": [
+                                "４５０～",
+                                "５００"
+                              ]
+                            },
+                            {
+                              "Sentence": [
+                                "５００～",
+                                "６００"
+                              ]
+                            },
+                            {
+                              "Sentence": [
+                                "６００～",
+                                "７００"
+                              ]
+                            },
+                            {
+                              "Sentence": [
+                                "７００～",
+                                "９００"
+                              ]
+                            },
+                            {
+                              "Sentence": [
+                                "９００～",
+                                "１２００"
+                              ]
+                            },
+                            {
+                              "Sentence": [
+                                "１２００～",
+                                "１６００"
+                              ]
+                            },
+                            {
+                              "Sentence": "１６００以上"
+                            }
+                          ]
+                        },
+                        {
+                          "TableColumn": [
+                            {
+                              "Sentence": "２級"
+                            },
+                            {
+                              "Sentence": [
+                                "３００～",
+                                "３５０"
+                              ]
+                            },
+                            {
+                              "Sentence": [
+                                "３５０～",
+                                "４００"
+                              ]
+                            },
+                            {
+                              "Sentence": [
+                                "４００～",
+                                "４５０"
+                              ]
+                            },
+                            {
+                              "Sentence": [
+                                "４５０～",
+                                "５５０"
+                              ]
+                            },
+                            {
+                              "Sentence": [
+                                "５５０～",
+                                "７００"
+                              ]
+                            },
+                            {
+                              "Sentence": [
+                                "７００～",
+                                "１０００"
+                              ]
+                            },
+                            {
+                              "Sentence": "１０００以上"
+                            }
+                          ]
+                        },
+                        {
+                          "TableColumn": [
+                            {
+                              "Sentence": "３級"
+                            },
+                            {
+                              "Sentence": [
+                                "２００～",
+                                "２５０"
+                              ]
+                            },
+                            {
+                              "Sentence": [
+                                "２５０～",
+                                "３００"
+                              ]
+                            },
+                            {
+                              "Sentence": [
+                                "３００～",
+                                "３５０"
+                              ]
+                            },
+                            {
+                              "Sentence": [
+                                "３５０～",
+                                "４５０"
+                              ]
+                            },
+                            {
+                              "Sentence": [
+                                "４５０～",
+                                "５５０"
+                              ]
+                            },
+                            {
+                              "Sentence": [
+                                "５５０～",
+                                "８００"
+                              ]
+                            },
+                            {
+                              "Sentence": "８００以上"
+                            }
+                          ]
+                        },
+                        {
+                          "TableColumn": [
+                            {
+                              "Sentence": "４級"
+                            },
+                            {
+                              "Sentence": [
+                                "１５０～",
+                                "２００"
+                              ]
+                            },
+                            {
+                              "Sentence": [
+                                "２００～",
+                                "２２０"
+                              ]
+                            },
+                            {
+                              "Sentence": [
+                                "２２０～",
+                                "２５０"
+                              ]
+                            },
+                            {
+                              "Sentence": [
+                                "２５０～",
+                                "３００"
+                              ]
+                            },
+                            {
+                              "Sentence": [
+                                "３００～",
+                                "４００"
+                              ]
+                            },
+                            {
+                              "Sentence": [
+                                "４００～",
+                                "６００"
+                              ]
+                            },
+                            {
+                              "Sentence": "６００以上"
+                            }
+                          ]
+                        },
+                        {
+                          "TableColumn": [
+                            {
+                              "Sentence": "５級"
+                            },
+                            {
+                              "Sentence": [
+                                "１５～",
+                                "７０"
+                              ]
+                            },
+                            {
+                              "Sentence": [
+                                "７０～",
+                                "８０"
+                              ]
+                            },
+                            {
+                              "Sentence": [
+                                "８０～",
+                                "１００"
+                              ]
+                            },
+                            {
+                              "Sentence": [
+                                "１００～",
+                                "１３０"
+                              ]
+                            },
+                            {
+                              "Sentence": [
+                                "１３０～",
+                                "１７０"
+                              ]
+                            },
+                            {
+                              "Sentence": [
+                                "１７０～",
+                                "２５０"
+                              ]
+                            },
+                            {
+                              "Sentence": "２５０以上"
+                            }
+                          ]
+                        },
+                        {
+                          "TableColumn": [
+                            {
+                              "Sentence": {
+                                "Ruby": [
+                                  {
+                                    "Rt": "ヽ",
+                                    "#text": "こ"
+                                  },
+                                  {
+                                    "Rt": "ヽ",
+                                    "#text": "う"
+                                  },
+                                  {
+                                    "Rt": "ヽ",
+                                    "#text": "ば"
+                                  },
+                                  {
+                                    "Rt": "ヽ",
+                                    "#text": "い"
+                                  }
+                                ],
+                                "#text": "片\n\n\n（パーセント）"
+                              }
+                            },
+                            {
+                              "Sentence": "８"
+                            },
+                            {
+                              "Sentence": "７"
+                            },
+                            {
+                              "Sentence": "６"
+                            },
+                            {
+                              "Sentence": "５"
+                            },
+                            {
+                              "Sentence": "４"
+                            },
+                            {
+                              "Sentence": "３"
+                            },
+                            {
+                              "Sentence": "２"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                }
+              },
+              {
+                "@Num": "22",
+                "ArticleCaption": {
+                  "Ruby": [
+                    {
+                      "Rt": "ヽ",
+                      "#text": "こ"
+                    },
+                    {
+                      "Rt": "ヽ",
+                      "#text": "う"
+                    },
+                    {
+                      "Rt": "ヽ",
+                      "#text": "ば"
+                    },
+                    {
+                      "Rt": "ヽ",
+                      "#text": "い"
+                    }
+                  ],
+                  "#text": "（曲線部の横断\n\n\nのすりつけ）"
+                },
+                "ArticleTitle": "第二十二条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": {
+                      "Ruby": [
+                        {
+                          "Rt": "ヽ",
+                          "#text": "こ"
+                        },
+                        {
+                          "Rt": "ヽ",
+                          "#text": "う"
+                        },
+                        {
+                          "Rt": "ヽ",
+                          "#text": "ば"
+                        },
+                        {
+                          "Rt": "ヽ",
+                          "#text": "い"
+                        }
+                      ],
+                      "#text": "一般自動車道の円曲線部と直線部との横断\n\n\nのすりつけ高は、左表の区分によるもの又はこれより小さいものでなければならない。"
+                    }
+                  },
+                  "TableStruct": {
+                    "Table": {
+                      "TableRow": [
+                        {
+                          "TableColumn": [
+                            {
+                              "Sentence": "級別"
+                            },
+                            {
+                              "Sentence": "１級"
+                            },
+                            {
+                              "Sentence": "２級"
+                            },
+                            {
+                              "Sentence": "３級"
+                            },
+                            {
+                              "Sentence": "４級"
+                            },
+                            {
+                              "Sentence": "５級"
+                            }
+                          ]
+                        },
+                        {
+                          "TableColumn": [
+                            {
+                              "Sentence": "車道の外側線１０メートルに対するすりつけ高（センチメートル）"
+                            },
+                            {
+                              "Sentence": "５"
+                            },
+                            {
+                              "Sentence": "７"
+                            },
+                            {
+                              "Sentence": "８"
+                            },
+                            {
+                              "Sentence": "９"
+                            },
+                            {
+                              "Sentence": "１４"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                }
+              },
+              {
+                "@Num": "23",
+                "ArticleCaption": "（曲線部の車線の幅員）",
+                "ArticleTitle": "第二十三条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "一般自動車道の曲線部の車線の幅員は、直線部の車線の幅員に左表の区分による拡大幅員を加えたものでなければならない。"
+                  },
+                  "TableStruct": {
+                    "Table": {
+                      "TableRow": [
+                        {
+                          "TableColumn": [
+                            {
+                              "Sentence": [
+                                null,
+                                "設",
+                                "計",
+                                "車",
+                                "両",
+                                "長",
+                                "（",
+                                "メ",
+                                "ー",
+                                "ト",
+                                "ル",
+                                "）"
+                              ]
+                            },
+                            {
+                              "Sentence": "車線"
+                            },
+                            {
+                              "Sentence": [
+                                null,
+                                "曲",
+                                "線",
+                                "部",
+                                "外",
+                                "側",
+                                "線",
+                                "半",
+                                "径",
+                                "（",
+                                "メ",
+                                "ー",
+                                "トル",
+                                "）"
+                              ]
+                            },
+                            {
+                              "Sentence": "～２０"
+                            },
+                            {
+                              "Sentence": "２０～２５"
+                            },
+                            {
+                              "Sentence": "２５～３０"
+                            },
+                            {
+                              "Sentence": "３０～４０"
+                            },
+                            {
+                              "Sentence": "４０～６０"
+                            },
+                            {
+                              "Sentence": "６０～１００"
+                            },
+                            {
+                              "Sentence": "１００～２００"
+                            },
+                            {
+                              "Sentence": "２００～３００"
+                            },
+                            {
+                              "Sentence": "３００～５００"
+                            }
+                          ]
+                        },
+                        {
+                          "TableColumn": [
+                            {
+                              "@rowspan": "4",
+                              "Sentence": "１１以上"
+                            },
+                            {
+                              "@colspan": "2",
+                              "Sentence": "１"
+                            },
+                            {
+                              "Sentence": "１８０"
+                            },
+                            {
+                              "Sentence": "１４０"
+                            },
+                            {
+                              "Sentence": "１２０"
+                            },
+                            {
+                              "Sentence": "９５"
+                            },
+                            {
+                              "Sentence": "８５"
+                            },
+                            {
+                              "Sentence": "５５"
+                            },
+                            {
+                              "Sentence": "３０"
+                            },
+                            {
+                              "Sentence": "１５"
+                            },
+                            {
+                              "Sentence": "１０"
+                            }
+                          ]
+                        },
+                        {
+                          "TableColumn": [
+                            {
+                              "@colspan": "2",
+                              "Sentence": "２"
+                            },
+                            {
+                              "Sentence": "２２０"
+                            },
+                            {
+                              "Sentence": "１７０"
+                            },
+                            {
+                              "Sentence": "１３０"
+                            },
+                            {
+                              "Sentence": "１００"
+                            },
+                            {
+                              "Sentence": "９０"
+                            },
+                            {
+                              "Sentence": "５５"
+                            },
+                            {
+                              "Sentence": "３５"
+                            },
+                            {
+                              "Sentence": "１５"
+                            },
+                            {
+                              "Sentence": "１０"
+                            }
+                          ]
+                        },
+                        {
+                          "TableColumn": [
+                            {
+                              "@colspan": "2",
+                              "Sentence": "３"
+                            },
+                            {
+                              "Sentence": "ー"
+                            },
+                            {
+                              "Sentence": "ー"
+                            },
+                            {
+                              "Sentence": "ー"
+                            },
+                            {
+                              "Sentence": "ー"
+                            },
+                            {
+                              "Sentence": "１００"
+                            },
+                            {
+                              "Sentence": "６０"
+                            },
+                            {
+                              "Sentence": "３５"
+                            },
+                            {
+                              "Sentence": "１５"
+                            },
+                            {
+                              "Sentence": "１０"
+                            }
+                          ]
+                        },
+                        {
+                          "TableColumn": [
+                            {
+                              "@colspan": "2",
+                              "Sentence": "４"
+                            },
+                            {
+                              "Sentence": "ー"
+                            },
+                            {
+                              "Sentence": "ー"
+                            },
+                            {
+                              "Sentence": "ー"
+                            },
+                            {
+                              "Sentence": "ー"
+                            },
+                            {
+                              "Sentence": "１１０"
+                            },
+                            {
+                              "Sentence": "６５"
+                            },
+                            {
+                              "Sentence": "３５"
+                            },
+                            {
+                              "Sentence": "１５"
+                            },
+                            {
+                              "Sentence": "１０"
+                            }
+                          ]
+                        },
+                        {
+                          "TableColumn": [
+                            {
+                              "@rowspan": "4",
+                              "Sentence": "７以上"
+                            },
+                            {
+                              "@colspan": "2",
+                              "Sentence": "１"
+                            },
+                            {
+                              "Sentence": "１５０"
+                            },
+                            {
+                              "Sentence": "１２０"
+                            },
+                            {
+                              "Sentence": "９５"
+                            },
+                            {
+                              "Sentence": "８０"
+                            },
+                            {
+                              "Sentence": "６５"
+                            },
+                            {
+                              "Sentence": "４５"
+                            },
+                            {
+                              "Sentence": "２５"
+                            },
+                            {
+                              "Sentence": "１５"
+                            },
+                            {
+                              "Sentence": "１０"
+                            }
+                          ]
+                        },
+                        {
+                          "TableColumn": [
+                            {
+                              "@colspan": "2",
+                              "Sentence": "２"
+                            },
+                            {
+                              "Sentence": "１８０"
+                            },
+                            {
+                              "Sentence": "１３５"
+                            },
+                            {
+                              "Sentence": "１０５"
+                            },
+                            {
+                              "Sentence": "８５"
+                            },
+                            {
+                              "Sentence": "７５"
+                            },
+                            {
+                              "Sentence": "４５"
+                            },
+                            {
+                              "Sentence": "２５"
+                            },
+                            {
+                              "Sentence": "１５"
+                            },
+                            {
+                              "Sentence": "１０"
+                            }
+                          ]
+                        },
+                        {
+                          "TableColumn": [
+                            {
+                              "@colspan": "2",
+                              "Sentence": "３"
+                            },
+                            {
+                              "Sentence": "ー"
+                            },
+                            {
+                              "Sentence": "ー"
+                            },
+                            {
+                              "Sentence": "ー"
+                            },
+                            {
+                              "Sentence": "ー"
+                            },
+                            {
+                              "Sentence": "８０"
+                            },
+                            {
+                              "Sentence": "５０"
+                            },
+                            {
+                              "Sentence": "２５"
+                            },
+                            {
+                              "Sentence": "１５"
+                            },
+                            {
+                              "Sentence": "１０"
+                            }
+                          ]
+                        },
+                        {
+                          "TableColumn": [
+                            {
+                              "@colspan": "2",
+                              "Sentence": "４"
+                            },
+                            {
+                              "Sentence": "ー"
+                            },
+                            {
+                              "Sentence": "ー"
+                            },
+                            {
+                              "Sentence": "ー"
+                            },
+                            {
+                              "Sentence": "ー"
+                            },
+                            {
+                              "Sentence": "９０"
+                            },
+                            {
+                              "Sentence": "５０"
+                            },
+                            {
+                              "Sentence": "３０"
+                            },
+                            {
+                              "Sentence": "１５"
+                            },
+                            {
+                              "Sentence": "１０"
+                            }
+                          ]
+                        },
+                        {
+                          "TableColumn": [
+                            {
+                              "@rowspan": "4",
+                              "Sentence": "４．５以上"
+                            },
+                            {
+                              "@colspan": "2",
+                              "Sentence": "１"
+                            },
+                            {
+                              "Sentence": "６０"
+                            },
+                            {
+                              "Sentence": "４５"
+                            },
+                            {
+                              "Sentence": "４０"
+                            },
+                            {
+                              "Sentence": "３５"
+                            },
+                            {
+                              "Sentence": "３０"
+                            },
+                            {
+                              "Sentence": "２０"
+                            },
+                            {
+                              "Sentence": "１０"
+                            },
+                            {
+                              "Sentence": "ー"
+                            },
+                            {
+                              "Sentence": "ー"
+                            }
+                          ]
+                        },
+                        {
+                          "TableColumn": [
+                            {
+                              "@colspan": "2",
+                              "Sentence": "２"
+                            },
+                            {
+                              "Sentence": "７５"
+                            },
+                            {
+                              "Sentence": "５５"
+                            },
+                            {
+                              "Sentence": "４０"
+                            },
+                            {
+                              "Sentence": "３５"
+                            },
+                            {
+                              "Sentence": "３０"
+                            },
+                            {
+                              "Sentence": "２０"
+                            },
+                            {
+                              "Sentence": "１０"
+                            },
+                            {
+                              "Sentence": "ー"
+                            },
+                            {
+                              "Sentence": "ー"
+                            }
+                          ]
+                        },
+                        {
+                          "TableColumn": [
+                            {
+                              "@colspan": "2",
+                              "Sentence": "３"
+                            },
+                            {
+                              "Sentence": "ー"
+                            },
+                            {
+                              "Sentence": "ー"
+                            },
+                            {
+                              "Sentence": "ー"
+                            },
+                            {
+                              "Sentence": "ー"
+                            },
+                            {
+                              "Sentence": "３５"
+                            },
+                            {
+                              "Sentence": "２０"
+                            },
+                            {
+                              "Sentence": "１０"
+                            },
+                            {
+                              "Sentence": "ー"
+                            },
+                            {
+                              "Sentence": "ー"
+                            }
+                          ]
+                        },
+                        {
+                          "TableColumn": [
+                            {
+                              "@colspan": "2",
+                              "Sentence": "４"
+                            },
+                            {
+                              "Sentence": "ー"
+                            },
+                            {
+                              "Sentence": "ー"
+                            },
+                            {
+                              "Sentence": "ー"
+                            },
+                            {
+                              "Sentence": "ー"
+                            },
+                            {
+                              "Sentence": "３５"
+                            },
+                            {
+                              "Sentence": "２０"
+                            },
+                            {
+                              "Sentence": "１０"
+                            },
+                            {
+                              "Sentence": "ー"
+                            },
+                            {
+                              "Sentence": "ー"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    "Remarks": {
+                      "RemarksLabel": "備考",
+                      "Item": [
+                        {
+                          "@Num": "1",
+                          "ItemTitle": "１",
+                          "ItemSentence": {
+                            "Sentence": "第一車線とは、最外側車線をいい、以下内側に向い順次に第二車線、第三車線及び第四車線とする。"
+                          }
+                        },
+                        {
+                          "@Num": "2",
+                          "ItemTitle": "２",
+                          "ItemSentence": {
+                            "Sentence": "拡大幅員の単位は、センチメートルとする。"
+                          }
+                        },
+                        {
+                          "@Num": "2",
+                          "ItemTitle": "２",
+                          "ItemSentence": {
+                            "Sentence": "前項の拡大幅員は、曲線部の内側に加え、その直線部幅員とのすりつけは緩和区間全長を基準にして行うものとする。"
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              },
+              {
+                "@Num": "24",
+                "ArticleCaption": "（停止視距）",
+                "ArticleTitle": "第二十四条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": [
+                      {
+                        "@Function": "main",
+                        "@Num": "1",
+                        "#text": "一般自動車道は、左表の区分による停止視距を有しなければならない。"
+                      },
+                      {
+                        "@Function": "proviso",
+                        "@Num": "2",
+                        "#text": "但し、地形上やむを得ない箇所その他特別の事由があると認められる箇所における停止視距は、一級から四級までのものにあつてはそれぞれ次位の級のものの停止視距まで、五級のものにあつては砂利道の場合に限り四十五メートルの停止視距まで小さくすることができる。"
+                      }
+                    ]
+                  },
+                  "TableStruct": {
+                    "Table": {
+                      "TableRow": [
+                        {
+                          "TableColumn": [
+                            {
+                              "@colspan": "2",
+                              "Sentence": "級別"
+                            },
+                            {
+                              "Sentence": "１級"
+                            },
+                            {
+                              "Sentence": "２級"
+                            },
+                            {
+                              "Sentence": "３級"
+                            },
+                            {
+                              "Sentence": "４級"
+                            },
+                            {
+                              "Sentence": "５級"
+                            }
+                          ]
+                        },
+                        {
+                          "TableColumn": [
+                            {
+                              "Sentence": "停止視距（メートル）"
+                            },
+                            {
+                              "Sentence": {
+                                "Ruby": {
+                                  "Rt": "ヽ",
+                                  "#text": "ほ"
+                                },
+                                "#text": "装道及び瀝青塗装道の場合"
+                              }
+                            },
+                            {
+                              "Sentence": "２００"
+                            },
+                            {
+                              "Sentence": "１２０"
+                            },
+                            {
+                              "Sentence": "９０"
+                            },
+                            {
+                              "Sentence": "６０"
+                            },
+                            {
+                              "Sentence": "３０"
+                            }
+                          ]
+                        },
+                        {
+                          "TableColumn": [
+                            {
+                              "Sentence": null
+                            },
+                            {
+                              "Sentence": "砂利道の場合"
+                            },
+                            {
+                              "Sentence": "―"
+                            },
+                            {
+                              "Sentence": "―"
+                            },
+                            {
+                              "Sentence": "―"
+                            },
+                            {
+                              "Sentence": "１８０"
+                            },
+                            {
+                              "Sentence": "９０"
+                            }
+                          ]
+                        },
+                        {
+                          "TableColumn": [
+                            {
+                              "Sentence": null
+                            },
+                            {
+                              "Sentence": "一車線の場合"
+                            },
+                            {
+                              "Sentence": "―"
+                            },
+                            {
+                              "Sentence": "―"
+                            },
+                            {
+                              "Sentence": "―"
+                            },
+                            {
+                              "Sentence": "―"
+                            },
+                            {
+                              "Sentence": "６５"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                }
+              },
+              {
+                "@Num": "25",
+                "ArticleCaption": "（建築限界）",
+                "ArticleTitle": "第二十五条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": [
+                      {
+                        "@Function": "main",
+                        "@Num": "1",
+                        "#text": "一般自動車道の建築限界は、甲図に示すところによらなければならない。"
+                      },
+                      {
+                        "@Function": "proviso",
+                        "@Num": "2",
+                        "#text": "但し、地形上やむを得ない場合その他特別の事由があると認められる場合は、乙図に示すところによることができる。"
+                      }
+                    ]
+                  },
+                  "FigStruct": {
+                    "Fig": {
+                      "@src": "./pict/S28F03902005001-001.jpg"
+                    }
+                  }
+                }
+              },
+              {
+                "@Num": "26",
+                "ArticleCaption": "（路端の高さ）",
+                "ArticleTitle": "第二十六条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "一般自動車道の路端の高さは、一般自動車道に近接する水流及び水面の平水位に六十センチメートルを、最高水位に三十センチメートルを加えたもの又はこれより高いものでなければならない。"
+                  }
+                }
+              },
+              {
+                "@Num": "27",
+                "ArticleCaption": {
+                  "Ruby": {
+                    "Rt": "ヽ",
+                    "#text": "さ"
+                  },
+                  "#text": "（交点）"
+                },
+                "ArticleTitle": "第二十七条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": {
+                      "Ruby": {
+                        "Rt": "ヽ",
+                        "#text": "さ"
+                      },
+                      "#text": "第三十条に規定する設備を設けて他の道路と平面交をする場合の一般自動車道の構造は、左の各号に適合するものでなければならない。"
+                    }
+                  },
+                  "Item": [
+                    {
+                      "@Num": "1",
+                      "ItemTitle": "一",
+                      "ItemSentence": {
+                        "Sentence": "交角は、四十五度又はこれより大であること。"
+                      }
+                    },
+                    {
+                      "@Num": "2",
+                      "ItemTitle": "二",
+                      "ItemSentence": {
+                        "Sentence": {
+                          "Ruby": [
+                            {
+                              "Rt": "ヽ",
+                              "#text": "さ"
+                            },
+                            {
+                              "Rt": "ヽ",
+                              "#text": "こ"
+                            },
+                            {
+                              "Rt": "ヽ",
+                              "#text": "う"
+                            },
+                            {
+                              "Rt": "ヽ",
+                              "#text": "ば"
+                            },
+                            {
+                              "Rt": "ヽ",
+                              "#text": "い"
+                            }
+                          ],
+                          "#text": "一般自動車道の交点から三十メートルまでの区間は、直線であつて、且つ、その\n\n\nは、二・五パーセント又はこれよりゆるやかであること。"
+                        }
+                      }
+                    },
+                    {
+                      "@Num": "3",
+                      "ItemTitle": "三",
+                      "ItemSentence": {
+                        "Sentence": [
+                          {
+                            "@Function": "main",
+                            "@Num": "1",
+                            "Ruby": [
+                              {
+                                "Rt": "ヽ",
+                                "#text": "さ"
+                              },
+                              {
+                                "Rt": "ヽ",
+                                "#text": "さ"
+                              },
+                              {
+                                "Rt": "ヽ",
+                                "#text": "さ"
+                              }
+                            ],
+                            "#text": "交点における道路の縁端から七・五メートルの地点において、一般自動車道にあつては交点から百五十メートルまでの他の道路上が、他の道路にあつては交点から左表の区分による距離までの車道上がそれぞれ見とおせること。"
+                          },
+                          {
+                            "@Function": "proviso",
+                            "@Num": "2",
+                            "Ruby": [
+                              {
+                                "Rt": "ヽ",
+                                "#text": "さ"
+                              },
+                              {
+                                "Rt": "ヽ",
+                                "#text": "さ"
+                              },
+                              {
+                                "Rt": "ヽ",
+                                "#text": "さ"
+                              },
+                              {
+                                "Rt": "ヽ",
+                                "#text": "さ"
+                              }
+                            ],
+                            "#text": "但し、五級の一般自動車道と交する他の道路が町村道、林道等であつて交通量の少いときは、交点における道路の縁端から二・五メートルの地点において、一般自動車道にあつては交点から七十メートルまでの他の道路上が、他の道路にあつては交点から八十メートルまでの車道上がそれぞれ見とおせること。"
+                          }
+                        ]
+                      },
+                      "TableStruct": {
+                        "Table": {
+                          "TableRow": [
+                            {
+                              "TableColumn": [
+                                {
+                                  "Sentence": "級別"
+                                },
+                                {
+                                  "Sentence": "１級"
+                                },
+                                {
+                                  "Sentence": "２級"
+                                },
+                                {
+                                  "Sentence": "３級"
+                                },
+                                {
+                                  "Sentence": "４級"
+                                },
+                                {
+                                  "Sentence": "５級"
+                                }
+                              ]
+                            },
+                            {
+                              "TableColumn": [
+                                {
+                                  "Sentence": "見とおし距離（メートル）"
+                                },
+                                {
+                                  "Sentence": "２５０"
+                                },
+                                {
+                                  "Sentence": "２００"
+                                },
+                                {
+                                  "Sentence": "１８０"
+                                },
+                                {
+                                  "Sentence": "１５０"
+                                },
+                                {
+                                  "Sentence": "１００"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "@Num": "28",
+                "ArticleCaption": {
+                  "Ruby": {
+                    "Rt": "ヽ",
+                    "#text": "さ"
+                  },
+                  "#text": "（鉄道又は軌道との交）"
+                },
+                "ArticleTitle": "第二十八条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": {
+                      "Ruby": {
+                        "Rt": "ヽ",
+                        "#text": "さ"
+                      },
+                      "#text": "第三十条に規定する設備を設けて鉄道又は軌道と平面交をする場合の一般自動車道の構造は、左の各号に適合するものでなければならない。"
+                    }
+                  },
+                  "Item": [
+                    {
+                      "@Num": "1",
+                      "ItemTitle": "一",
+                      "ItemSentence": {
+                        "Sentence": "交角は、四十五度又はこれより大であること。"
+                      }
+                    },
+                    {
+                      "@Num": "2",
+                      "ItemTitle": "二",
+                      "ItemSentence": {
+                        "Sentence": {
+                          "Ruby": [
+                            {
+                              "Rt": "ヽ",
+                              "#text": "こ"
+                            },
+                            {
+                              "Rt": "ヽ",
+                              "#text": "う"
+                            },
+                            {
+                              "Rt": "ヽ",
+                              "#text": "ば"
+                            },
+                            {
+                              "Rt": "ヽ",
+                              "#text": "い"
+                            }
+                          ],
+                          "#text": "一般自動車道の踏切から三十メートルまでの区間は、直線であつて、且つ、その\n\n\nは、二・五パーセント又はこれよりゆるやかであること。"
+                        }
+                      }
+                    },
+                    {
+                      "@Num": "3",
+                      "ItemTitle": "三",
+                      "ItemSentence": {
+                        "Sentence": "一級から四級までのものにあつては、鉄道又は軌道の最縁端軌条から十五メートルの車道上において踏切の中心から左表の区分による距離までの線路上が見とおせること。"
+                      },
+                      "TableStruct": {
+                        "Table": {
+                          "TableRow": [
+                            {
+                              "TableColumn": [
+                                {
+                                  "Sentence": "鉄道又は軌道の車両の最高速度（キロメートル／時）"
+                                },
+                                {
+                                  "Sentence": "５０～７０"
+                                },
+                                {
+                                  "Sentence": "７０～８０"
+                                },
+                                {
+                                  "Sentence": "８０～９０"
+                                },
+                                {
+                                  "Sentence": "９０～１００"
+                                }
+                              ]
+                            },
+                            {
+                              "TableColumn": [
+                                {
+                                  "Sentence": "見とおし距離（メートル）"
+                                },
+                                {
+                                  "Sentence": "２１０"
+                                },
+                                {
+                                  "Sentence": "２７０"
+                                },
+                                {
+                                  "Sentence": "３２０"
+                                },
+                                {
+                                  "Sentence": "３６０"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      }
+                    },
+                    {
+                      "@Num": "4",
+                      "ItemTitle": "四",
+                      "ItemSentence": {
+                        "Sentence": "五級のものにあつては、鉄道又は軌道の最縁端軌条から四・五メートルの車道上において、踏切の中心から左表の区分による距離までの線路上が見とおせること。"
+                      },
+                      "TableStruct": {
+                        "Table": {
+                          "TableRow": [
+                            {
+                              "TableColumn": [
+                                {
+                                  "Sentence": "鉄道又は軌道の車両の最高速度（キロメートル／時）"
+                                },
+                                {
+                                  "Sentence": "５０～７０"
+                                },
+                                {
+                                  "Sentence": "７０～８０"
+                                },
+                                {
+                                  "Sentence": "８０～９０"
+                                },
+                                {
+                                  "Sentence": "９０～１００"
+                                }
+                              ]
+                            },
+                            {
+                              "TableColumn": [
+                                {
+                                  "Sentence": [
+                                    "見とおし距離",
+                                    "（メートル）"
+                                  ]
+                                },
+                                {
+                                  "Sentence": "１６０"
+                                },
+                                {
+                                  "Sentence": "２００"
+                                },
+                                {
+                                  "Sentence": "２３０"
+                                },
+                                {
+                                  "Sentence": "２６０"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      }
+                    },
+                    {
+                      "@Num": "5",
+                      "ItemTitle": "五",
+                      "ItemSentence": {
+                        "Sentence": {
+                          "Ruby": {
+                            "Rt": "ヽ",
+                            "#text": "ほ"
+                          },
+                          "#text": "踏切は、その路面が装したものであり、且つ、幅員その他の構造は、踏切に接する一般自動車道の構造と同じものであること。"
+                        }
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "@Num": "29",
+                "ArticleCaption": "（駐車場又は停留所）",
+                "ArticleTitle": "第二十九条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "駐車場又は停留所は、予想される駐車両数又は停留車両数の自動車を収容することができる面積を有し、且つ、自動車が円滑に出入することができるものでなければならない。"
+                  }
+                }
+              },
+              {
+                "@Num": "30",
+                "ArticleCaption": "（踏切設備）",
+                "ArticleTitle": "第三十条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": {
+                      "Ruby": [
+                        {
+                          "Rt": "ヽ",
+                          "#text": "さ"
+                        },
+                        {
+                          "Rt": "ヽ",
+                          "#text": "し"
+                        },
+                        {
+                          "Rt": "ヽ",
+                          "#text": "や"
+                        },
+                        {
+                          "Rt": "ヽ",
+                          "#text": "さ"
+                        }
+                      ],
+                      "#text": "法第五十一条第一項但書の省令で定める設備とは、鉄道又は軌道と交する場合にあつては踏切\n断機、踏切警報機又はこれに類する保安設備をいい、他の道路と交する場合にあつては信号機、信号灯又はこれに類する保安設備をいう。"
+                    }
+                  }
+                }
+              },
+              {
+                "@Num": "31",
+                "ArticleCaption": "（排水設備）",
+                "ArticleTitle": "第三十一条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": {
+                      "Ruby": [
+                        {
+                          "Rt": "ヽ",
+                          "#text": "し"
+                        },
+                        {
+                          "Rt": "ヽ",
+                          "#text": "ん"
+                        },
+                        {
+                          "Rt": "ヽ",
+                          "#text": "し"
+                        },
+                        {
+                          "Rt": "ヽ",
+                          "#text": "や"
+                        },
+                        {
+                          "Rt": "ヽ",
+                          "#text": "く"
+                        }
+                      ],
+                      "#text": "一般自動車道は、地形、気象状況等を\n\n\n\nして定めた構造の側溝横断排水管その他の排水設備を設けたものでなければならない。"
+                    }
+                  }
+                }
+              },
+              {
+                "@Num": "32",
+                "ArticleCaption": "（防護設備）",
+                "ArticleTitle": "第三十二条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": {
+                      "Ruby": [
+                        {
+                          "Rt": "ヽ",
+                          "#text": "が"
+                        },
+                        {
+                          "Rt": "ヽ",
+                          "#text": "い"
+                        },
+                        {
+                          "Rt": "ヽ",
+                          "#text": "さ"
+                        },
+                        {
+                          "Rt": "ヽ",
+                          "#text": "く"
+                        }
+                      ],
+                      "#text": "一般自動車道は、断\nその他自動車の走行上危険な箇所に、危険の防止に必要な構造の防護\nその他の防護設備を設けたものでなければならない。"
+                    }
+                  }
+                }
+              },
+              {
+                "@Num": "33",
+                "ArticleCaption": "（信号設備等）",
+                "ArticleTitle": "第三十三条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": {
+                      "Ruby": [
+                        {
+                          "Rt": "ヽ",
+                          "#text": "さ"
+                        },
+                        {
+                          "Rt": "ヽ",
+                          "#text": "さ"
+                        }
+                      ],
+                      "#text": "一般自動車道は、原則として第二十七条及び第二十八条の平面交をする場合における踏切及び交点並びに前条の防護設備を設ける箇所に、信号設備、照明設備等を設けたものでなければならない。"
+                    }
+                  }
+                }
+              },
+              {
+                "@Num": "34",
+                "ArticleCaption": "（通信設備）",
+                "ArticleTitle": "第三十四条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "一般自動車道の通信設備は、適当な距離ごとに設けられたものであり、且つ、事務所、駐車場その他必要な箇所と容易に通信ができるものでなければならない。"
+                  }
+                }
+              }
+            ]
+          }
+        ]
+      },
+      "SupplProvision": [
+        {
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": [
+            {
+              "@Num": "1",
+              "ParagraphNum": "１",
+              "ParagraphSentence": {
+                "Sentence": "この省令は、公布の日から施行する。"
+              }
+            },
+            {
+              "@Num": "2",
+              "ParagraphNum": "２",
+              "ParagraphSentence": {
+                "Sentence": "自動車道構造設備管理規程（昭和二十三年総理庁、運輸省令第三号）は、廃止する。"
+              }
+            },
+            {
+              "@Num": "4",
+              "ParagraphNum": "４",
+              "ParagraphSentence": {
+                "Sentence": "この省令施行の際現に存する一般自動車道であつて、その構造及び設備が旧自動車道構造設備管理規程の規定に適合するものについては、当分の間、この省令の規定による構造及び設備についての技術上の規準に適合するものとみなす。"
+              }
+            }
+          ]
+        },
+        {
+          "@AmendLawNum": "平成一二年一二月二八日運輸省・建設省令第一八号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この省令は、平成十三年一月六日から施行する。"
+            }
+          }
+        }
+      ]
+    }
+  }
+}

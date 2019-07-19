@@ -1,0 +1,2332 @@
+{
+  "Law": {
+    "@Era": "Heisei",
+    "@Lang": "ja",
+    "@LawType": "Act",
+    "@Num": "31",
+    "@Year": "13",
+    "LawNum": "平成十三年法律第三十一号",
+    "LawBody": {
+      "LawTitle": "配偶者からの暴力の防止及び被害者の保護等に関する法律",
+      "TOC": {
+        "TOCLabel": "目次",
+        "TOCPreambleLabel": "前文",
+        "TOCChapter": [
+          {
+            "@Delete": "false",
+            "@Num": "1",
+            "ChapterTitle": "第一章　総則",
+            "ArticleRange": "（第一条・第二条）"
+          },
+          {
+            "@Delete": "false",
+            "@Num": "1_2",
+            "ChapterTitle": "第一章の二　基本方針及び都道府県基本計画等",
+            "ArticleRange": "（第二条の二・第二条の三）"
+          },
+          {
+            "@Delete": "false",
+            "@Num": "2",
+            "ChapterTitle": "第二章　配偶者暴力相談支援センター等",
+            "ArticleRange": "（第三条―第五条）"
+          },
+          {
+            "@Delete": "false",
+            "@Num": "3",
+            "ChapterTitle": "第三章　被害者の保護",
+            "ArticleRange": "（第六条―第九条の二）"
+          },
+          {
+            "@Delete": "false",
+            "@Num": "4",
+            "ChapterTitle": "第四章　保護命令",
+            "ArticleRange": "（第十条―第二十二条）"
+          },
+          {
+            "@Delete": "false",
+            "@Num": "5",
+            "ChapterTitle": "第五章　雑則",
+            "ArticleRange": "（第二十三条―第二十八条）"
+          },
+          {
+            "@Delete": "false",
+            "@Num": "5_2",
+            "ChapterTitle": "第五章の二　補則",
+            "ArticleRange": "（第二十八条の二）"
+          },
+          {
+            "@Delete": "false",
+            "@Num": "6",
+            "ChapterTitle": "第六章　罰則",
+            "ArticleRange": "（第二十九条・第三十条）"
+          }
+        ],
+        "TOCSupplProvision": {
+          "SupplProvisionLabel": "附則"
+        }
+      },
+      "Preamble": {
+        "Paragraph": [
+          {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "我が国においては、日本国憲法に個人の尊重と法の下の平等がうたわれ、人権の擁護と男女平等の実現に向けた取組が行われている。"
+              }
+            }
+          },
+          {
+            "@Hide": "false",
+            "@Num": "2",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "ところが、配偶者からの暴力は、犯罪となる行為をも含む重大な人権侵害であるにもかかわらず、被害者の救済が必ずしも十分に行われてこなかった。また、配偶者からの暴力の被害者は、多くの場合女性であり、経済的自立が困難である女性に対して配偶者が暴力を加えることは、個人の尊厳を害し、男女平等の実現の妨げとなっている。"
+              }
+            }
+          },
+          {
+            "@Hide": "false",
+            "@Num": "3",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "このような状況を改善し、人権の擁護と男女平等の実現を図るためには、配偶者からの暴力を防止し、被害者を保護するための施策を講ずることが必要である。このことは、女性に対する暴力を根絶しようと努めている国際社会における取組にも沿うものである。"
+              }
+            }
+          },
+          {
+            "@Hide": "false",
+            "@Num": "4",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "ここに、配偶者からの暴力に係る通報、相談、保護、自立支援等の体制を整備することにより、配偶者からの暴力の防止及び被害者の保護を図るため、この法律を制定する。"
+              }
+            }
+          }
+        ]
+      },
+      "MainProvision": {
+        "Chapter": [
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "1",
+            "ChapterTitle": "第一章　総則",
+            "Article": [
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "1",
+                "ArticleCaption": "（定義）",
+                "ArticleTitle": "第一条",
+                "Paragraph": [
+                  {
+                    "@Hide": "false",
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "この法律において「配偶者からの暴力」とは、配偶者からの身体に対する暴力（身体に対する不法な攻撃であって生命又は身体に危害を及ぼすものをいう。以下同じ。）又はこれに準ずる心身に有害な影響を及ぼす言動（以下この項及び第二十八条の二において「身体に対する暴力等」と総称する。）をいい、配偶者からの身体に対する暴力等を受けた後に、その者が離婚をし、又はその婚姻が取り消された場合にあっては、当該配偶者であった者から引き続き受ける身体に対する暴力等を含むものとする。"
+                      }
+                    }
+                  },
+                  {
+                    "@Hide": "false",
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "この法律において「被害者」とは、配偶者からの暴力を受けた者をいう。"
+                      }
+                    }
+                  },
+                  {
+                    "@Hide": "false",
+                    "@Num": "3",
+                    "ParagraphNum": "３",
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "この法律にいう「配偶者」には、婚姻の届出をしていないが事実上婚姻関係と同様の事情にある者を含み、「離婚」には、婚姻の届出をしていないが事実上婚姻関係と同様の事情にあった者が、事実上離婚したと同様の事情に入ることを含むものとする。"
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "2",
+                "ArticleCaption": "（国及び地方公共団体の責務）",
+                "ArticleTitle": "第二条",
+                "Paragraph": {
+                  "@Hide": "false",
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "国及び地方公共団体は、配偶者からの暴力を防止するとともに、被害者の自立を支援することを含め、その適切な保護を図る責務を有する。"
+                    }
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "1_2",
+            "ChapterTitle": "第一章の二　基本方針及び都道府県基本計画等",
+            "Article": [
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "2_2",
+                "ArticleCaption": "（基本方針）",
+                "ArticleTitle": "第二条の二",
+                "Paragraph": [
+                  {
+                    "@Hide": "false",
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "内閣総理大臣、国家公安委員会、法務大臣及び厚生労働大臣（以下この条及び次条第五項において「主務大臣」という。）は、配偶者からの暴力の防止及び被害者の保護のための施策に関する基本的な方針（以下この条並びに次条第一項及び第三項において「基本方針」という。）を定めなければならない。"
+                      }
+                    }
+                  },
+                  {
+                    "@Hide": "false",
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "基本方針においては、次に掲げる事項につき、次条第一項の都道府県基本計画及び同条第三項の市町村基本計画の指針となるべきものを定めるものとする。"
+                      }
+                    },
+                    "Item": [
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "1",
+                        "ItemTitle": "一",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "配偶者からの暴力の防止及び被害者の保護に関する基本的な事項"
+                          }
+                        }
+                      },
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "2",
+                        "ItemTitle": "二",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "配偶者からの暴力の防止及び被害者の保護のための施策の内容に関する事項"
+                          }
+                        }
+                      },
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "3",
+                        "ItemTitle": "三",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "その他配偶者からの暴力の防止及び被害者の保護のための施策の実施に関する重要事項"
+                          }
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Hide": "false",
+                    "@Num": "3",
+                    "ParagraphNum": "３",
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "主務大臣は、基本方針を定め、又はこれを変更しようとするときは、あらかじめ、関係行政機関の長に協議しなければならない。"
+                      }
+                    }
+                  },
+                  {
+                    "@Hide": "false",
+                    "@Num": "4",
+                    "ParagraphNum": "４",
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "主務大臣は、基本方針を定め、又はこれを変更したときは、遅滞なく、これを公表しなければならない。"
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "2_3",
+                "ArticleCaption": "（都道府県基本計画等）",
+                "ArticleTitle": "第二条の三",
+                "Paragraph": [
+                  {
+                    "@Hide": "false",
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "都道府県は、基本方針に即して、当該都道府県における配偶者からの暴力の防止及び被害者の保護のための施策の実施に関する基本的な計画（以下この条において「都道府県基本計画」という。）を定めなければならない。"
+                      }
+                    }
+                  },
+                  {
+                    "@Hide": "false",
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "都道府県基本計画においては、次に掲げる事項を定めるものとする。"
+                      }
+                    },
+                    "Item": [
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "1",
+                        "ItemTitle": "一",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "配偶者からの暴力の防止及び被害者の保護に関する基本的な方針"
+                          }
+                        }
+                      },
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "2",
+                        "ItemTitle": "二",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "配偶者からの暴力の防止及び被害者の保護のための施策の実施内容に関する事項"
+                          }
+                        }
+                      },
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "3",
+                        "ItemTitle": "三",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "その他配偶者からの暴力の防止及び被害者の保護のための施策の実施に関する重要事項"
+                          }
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Hide": "false",
+                    "@Num": "3",
+                    "ParagraphNum": "３",
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "市町村（特別区を含む。以下同じ。）は、基本方針に即し、かつ、都道府県基本計画を勘案して、当該市町村における配偶者からの暴力の防止及び被害者の保護のための施策の実施に関する基本的な計画（以下この条において「市町村基本計画」という。）を定めるよう努めなければならない。"
+                      }
+                    }
+                  },
+                  {
+                    "@Hide": "false",
+                    "@Num": "4",
+                    "ParagraphNum": "４",
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "都道府県又は市町村は、都道府県基本計画又は市町村基本計画を定め、又は変更したときは、遅滞なく、これを公表しなければならない。"
+                      }
+                    }
+                  },
+                  {
+                    "@Hide": "false",
+                    "@Num": "5",
+                    "ParagraphNum": "５",
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "主務大臣は、都道府県又は市町村に対し、都道府県基本計画又は市町村基本計画の作成のために必要な助言その他の援助を行うよう努めなければならない。"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "2",
+            "ChapterTitle": "第二章　配偶者暴力相談支援センター等",
+            "Article": [
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "3",
+                "ArticleCaption": "（配偶者暴力相談支援センター）",
+                "ArticleTitle": "第三条",
+                "Paragraph": [
+                  {
+                    "@Hide": "false",
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "都道府県は、当該都道府県が設置する婦人相談所その他の適切な施設において、当該各施設が配偶者暴力相談支援センターとしての機能を果たすようにするものとする。"
+                      }
+                    }
+                  },
+                  {
+                    "@Hide": "false",
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "市町村は、当該市町村が設置する適切な施設において、当該各施設が配偶者暴力相談支援センターとしての機能を果たすようにするよう努めるものとする。"
+                      }
+                    }
+                  },
+                  {
+                    "@Hide": "false",
+                    "@Num": "3",
+                    "ParagraphNum": "３",
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "配偶者暴力相談支援センターは、配偶者からの暴力の防止及び被害者の保護のため、次に掲げる業務を行うものとする。"
+                      }
+                    },
+                    "Item": [
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "1",
+                        "ItemTitle": "一",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "被害者に関する各般の問題について、相談に応ずること又は婦人相談員若しくは相談を行う機関を紹介すること。"
+                          }
+                        }
+                      },
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "2",
+                        "ItemTitle": "二",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "被害者の心身の健康を回復させるため、医学的又は心理学的な指導その他の必要な指導を行うこと。"
+                          }
+                        }
+                      },
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "3",
+                        "ItemTitle": "三",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "被害者（被害者がその家族を同伴する場合にあっては、被害者及びその同伴する家族。次号、第六号、第五条及び第八条の三において同じ。）の緊急時における安全の確保及び一時保護を行うこと。"
+                          }
+                        }
+                      },
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "4",
+                        "ItemTitle": "四",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "被害者が自立して生活することを促進するため、就業の促進、住宅の確保、援護等に関する制度の利用等について、情報の提供、助言、関係機関との連絡調整その他の援助を行うこと。"
+                          }
+                        }
+                      },
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "5",
+                        "ItemTitle": "五",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "第四章に定める保護命令の制度の利用について、情報の提供、助言、関係機関への連絡その他の援助を行うこと。"
+                          }
+                        }
+                      },
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "6",
+                        "ItemTitle": "六",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "被害者を居住させ保護する施設の利用について、情報の提供、助言、関係機関との連絡調整その他の援助を行うこと。"
+                          }
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Hide": "false",
+                    "@Num": "4",
+                    "ParagraphNum": "４",
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "前項第三号の一時保護は、婦人相談所が、自ら行い、又は厚生労働大臣が定める基準を満たす者に委託して行うものとする。"
+                      }
+                    }
+                  },
+                  {
+                    "@Hide": "false",
+                    "@Num": "5",
+                    "ParagraphNum": "５",
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "配偶者暴力相談支援センターは、その業務を行うに当たっては、必要に応じ、配偶者からの暴力の防止及び被害者の保護を図るための活動を行う民間の団体との連携に努めるものとする。"
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "4",
+                "ArticleCaption": "（婦人相談員による相談等）",
+                "ArticleTitle": "第四条",
+                "Paragraph": {
+                  "@Hide": "false",
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "婦人相談員は、被害者の相談に応じ、必要な指導を行うことができる。"
+                    }
+                  }
+                }
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "5",
+                "ArticleCaption": "（婦人保護施設における保護）",
+                "ArticleTitle": "第五条",
+                "Paragraph": {
+                  "@Hide": "false",
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "都道府県は、婦人保護施設において被害者の保護を行うことができる。"
+                    }
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "3",
+            "ChapterTitle": "第三章　被害者の保護",
+            "Article": [
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "6",
+                "ArticleCaption": "（配偶者からの暴力の発見者による通報等）",
+                "ArticleTitle": "第六条",
+                "Paragraph": [
+                  {
+                    "@Hide": "false",
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "配偶者からの暴力（配偶者又は配偶者であった者からの身体に対する暴力に限る。以下この章において同じ。）を受けている者を発見した者は、その旨を配偶者暴力相談支援センター又は警察官に通報するよう努めなければならない。"
+                      }
+                    }
+                  },
+                  {
+                    "@Hide": "false",
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": [
+                        {
+                          "@Num": "1",
+                          "@WritingMode": "vertical",
+                          "#text": "医師その他の医療関係者は、その業務を行うに当たり、配偶者からの暴力によって負傷し又は疾病にかかったと認められる者を発見したときは、その旨を配偶者暴力相談支援センター又は警察官に通報することができる。"
+                        },
+                        {
+                          "@Num": "2",
+                          "@WritingMode": "vertical",
+                          "#text": "この場合において、その者の意思を尊重するよう努めるものとする。"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "@Hide": "false",
+                    "@Num": "3",
+                    "ParagraphNum": "３",
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "刑法（明治四十年法律第四十五号）の秘密漏示罪の規定その他の守秘義務に関する法律の規定は、前二項の規定により通報することを妨げるものと解釈してはならない。"
+                      }
+                    }
+                  },
+                  {
+                    "@Hide": "false",
+                    "@Num": "4",
+                    "ParagraphNum": "４",
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "医師その他の医療関係者は、その業務を行うに当たり、配偶者からの暴力によって負傷し又は疾病にかかったと認められる者を発見したときは、その者に対し、配偶者暴力相談支援センター等の利用について、その有する情報を提供するよう努めなければならない。"
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "7",
+                "ArticleCaption": "（配偶者暴力相談支援センターによる保護についての説明等）",
+                "ArticleTitle": "第七条",
+                "Paragraph": {
+                  "@Hide": "false",
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "配偶者暴力相談支援センターは、被害者に関する通報又は相談を受けた場合には、必要に応じ、被害者に対し、第三条第三項の規定により配偶者暴力相談支援センターが行う業務の内容について説明及び助言を行うとともに、必要な保護を受けることを勧奨するものとする。"
+                    }
+                  }
+                }
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "8",
+                "ArticleCaption": "（警察官による被害の防止）",
+                "ArticleTitle": "第八条",
+                "Paragraph": {
+                  "@Hide": "false",
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "警察官は、通報等により配偶者からの暴力が行われていると認めるときは、警察法（昭和二十九年法律第百六十二号）、警察官職務執行法（昭和二十三年法律第百三十六号）その他の法令の定めるところにより、暴力の制止、被害者の保護その他の配偶者からの暴力による被害の発生を防止するために必要な措置を講ずるよう努めなければならない。"
+                    }
+                  }
+                }
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "8_2",
+                "ArticleCaption": "（警察本部長等の援助）",
+                "ArticleTitle": "第八条の二",
+                "Paragraph": {
+                  "@Hide": "false",
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "警視総監若しくは道府県警察本部長（道警察本部の所在地を包括する方面を除く方面については、方面本部長。第十五条第三項において同じ。）又は警察署長は、配偶者からの暴力を受けている者から、配偶者からの暴力による被害を自ら防止するための援助を受けたい旨の申出があり、その申出を相当と認めるときは、当該配偶者からの暴力を受けている者に対し、国家公安委員会規則で定めるところにより、当該被害を自ら防止するための措置の教示その他配偶者からの暴力による被害の発生を防止するために必要な援助を行うものとする。"
+                    }
+                  }
+                }
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "8_3",
+                "ArticleCaption": "（福祉事務所による自立支援）",
+                "ArticleTitle": "第八条の三",
+                "Paragraph": {
+                  "@Hide": "false",
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "社会福祉法（昭和二十六年法律第四十五号）に定める福祉に関する事務所（次条において「福祉事務所」という。）は、生活保護法（昭和二十五年法律第百四十四号）、児童福祉法（昭和二十二年法律第百六十四号）、母子及び父子並びに寡婦福祉法（昭和三十九年法律第百二十九号）その他の法令の定めるところにより、被害者の自立を支援するために必要な措置を講ずるよう努めなければならない。"
+                    }
+                  }
+                }
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "9",
+                "ArticleCaption": "（被害者の保護のための関係機関の連携協力）",
+                "ArticleTitle": "第九条",
+                "Paragraph": {
+                  "@Hide": "false",
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "配偶者暴力相談支援センター、都道府県警察、福祉事務所等都道府県又は市町村の関係機関その他の関係機関は、被害者の保護を行うに当たっては、その適切な保護が行われるよう、相互に連携を図りながら協力するよう努めるものとする。"
+                    }
+                  }
+                }
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "9_2",
+                "ArticleCaption": "（苦情の適切かつ迅速な処理）",
+                "ArticleTitle": "第九条の二",
+                "Paragraph": {
+                  "@Hide": "false",
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "前条の関係機関は、被害者の保護に係る職員の職務の執行に関して被害者から苦情の申出を受けたときは、適切かつ迅速にこれを処理するよう努めるものとする。"
+                    }
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "4",
+            "ChapterTitle": "第四章　保護命令",
+            "Article": [
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "10",
+                "ArticleCaption": "（保護命令）",
+                "ArticleTitle": "第十条",
+                "Paragraph": [
+                  {
+                    "@Hide": "false",
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": [
+                        {
+                          "@Function": "main",
+                          "@Num": "1",
+                          "@WritingMode": "vertical",
+                          "#text": "被害者（配偶者からの身体に対する暴力又は生命等に対する脅迫（被害者の生命又は身体に対し害を加える旨を告知してする脅迫をいう。以下この章において同じ。）を受けた者に限る。以下この章において同じ。）が、配偶者からの身体に対する暴力を受けた者である場合にあっては配偶者からの更なる身体に対する暴力（配偶者からの身体に対する暴力を受けた後に、被害者が離婚をし、又はその婚姻が取り消された場合にあっては、当該配偶者であった者から引き続き受ける身体に対する暴力。第十二条第一項第二号において同じ。）により、配偶者からの生命等に対する脅迫を受けた者である場合にあっては配偶者から受ける身体に対する暴力（配偶者からの生命等に対する脅迫を受けた後に、被害者が離婚をし、又はその婚姻が取り消された場合にあっては、当該配偶者であった者から引き続き受ける身体に対する暴力。同号において同じ。）により、その生命又は身体に重大な危害を受けるおそれが大きいときは、裁判所は、被害者の申立てにより、その生命又は身体に危害が加えられることを防止するため、当該配偶者（配偶者からの身体に対する暴力又は生命等に対する脅迫を受けた後に、被害者が離婚をし、又はその婚姻が取り消された場合にあっては、当該配偶者であった者。以下この条、同項第三号及び第四号並びに第十八条第一項において同じ。）に対し、次の各号に掲げる事項を命ずるものとする。"
+                        },
+                        {
+                          "@Function": "proviso",
+                          "@Num": "2",
+                          "@WritingMode": "vertical",
+                          "#text": "ただし、第二号に掲げる事項については、申立ての時において被害者及び当該配偶者が生活の本拠を共にする場合に限る。"
+                        }
+                      ]
+                    },
+                    "Item": [
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "1",
+                        "ItemTitle": "一",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "命令の効力が生じた日から起算して六月間、被害者の住居（当該配偶者と共に生活の本拠としている住居を除く。以下この号において同じ。）その他の場所において被害者の身辺につきまとい、又は被害者の住居、勤務先その他その通常所在する場所の付近をはいかいしてはならないこと。"
+                          }
+                        }
+                      },
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "2",
+                        "ItemTitle": "二",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "命令の効力が生じた日から起算して二月間、被害者と共に生活の本拠としている住居から退去すること及び当該住居の付近をはいかいしてはならないこと。"
+                          }
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Hide": "false",
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "前項本文に規定する場合において、同項第一号の規定による命令を発する裁判所又は発した裁判所は、被害者の申立てにより、その生命又は身体に危害が加えられることを防止するため、当該配偶者に対し、命令の効力が生じた日以後、同号の規定による命令の効力が生じた日から起算して六月を経過する日までの間、被害者に対して次の各号に掲げるいずれの行為もしてはならないことを命ずるものとする。"
+                      }
+                    },
+                    "Item": [
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "1",
+                        "ItemTitle": "一",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "面会を要求すること。"
+                          }
+                        }
+                      },
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "2",
+                        "ItemTitle": "二",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "その行動を監視していると思わせるような事項を告げ、又はその知り得る状態に置くこと。"
+                          }
+                        }
+                      },
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "3",
+                        "ItemTitle": "三",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "著しく粗野又は乱暴な言動をすること。"
+                          }
+                        }
+                      },
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "4",
+                        "ItemTitle": "四",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "電話をかけて何も告げず、又は緊急やむを得ない場合を除き、連続して、電話をかけ、ファクシミリ装置を用いて送信し、若しくは電子メールを送信すること。"
+                          }
+                        }
+                      },
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "5",
+                        "ItemTitle": "五",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "緊急やむを得ない場合を除き、午後十時から午前六時までの間に、電話をかけ、ファクシミリ装置を用いて送信し、又は電子メールを送信すること。"
+                          }
+                        }
+                      },
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "6",
+                        "ItemTitle": "六",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "汚物、動物の死体その他の著しく不快又は嫌悪の情を催させるような物を送付し、又はその知り得る状態に置くこと。"
+                          }
+                        }
+                      },
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "7",
+                        "ItemTitle": "七",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "その名誉を害する事項を告げ、又はその知り得る状態に置くこと。"
+                          }
+                        }
+                      },
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "8",
+                        "ItemTitle": "八",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "Ruby": {
+                              "Rt": "しゆう",
+                              "#text": "羞"
+                            },
+                            "#text": "その性的恥心を害する事項を告げ、若しくはその知り得る状態に置き、又はその性的羞恥心を害する文書、図画その他の物を送付し、若しくはその知り得る状態に置くこと。"
+                          }
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Hide": "false",
+                    "@Num": "3",
+                    "ParagraphNum": "３",
+                    "ParagraphSentence": {
+                      "Sentence": [
+                        {
+                          "@Function": "main",
+                          "@Num": "1",
+                          "@WritingMode": "vertical",
+                          "#text": "第一項本文に規定する場合において、被害者がその成年に達しない子（以下この項及び次項並びに第十二条第一項第三号において単に「子」という。）と同居しているときであって、配偶者が幼年の子を連れ戻すと疑うに足りる言動を行っていることその他の事情があることから被害者がその同居している子に関して配偶者と面会することを余儀なくされることを防止するため必要があると認めるときは、第一項第一号の規定による命令を発する裁判所又は発した裁判所は、被害者の申立てにより、その生命又は身体に危害が加えられることを防止するため、当該配偶者に対し、命令の効力が生じた日以後、同号の規定による命令の効力が生じた日から起算して六月を経過する日までの間、当該子の住居（当該配偶者と共に生活の本拠としている住居を除く。以下この項において同じ。）、就学する学校その他の場所において当該子の身辺につきまとい、又は当該子の住居、就学する学校その他その通常所在する場所の付近をはいかいしてはならないことを命ずるものとする。"
+                        },
+                        {
+                          "@Function": "proviso",
+                          "@Num": "2",
+                          "@WritingMode": "vertical",
+                          "#text": "ただし、当該子が十五歳以上であるときは、その同意がある場合に限る。"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "@Hide": "false",
+                    "@Num": "4",
+                    "ParagraphNum": "４",
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "第一項本文に規定する場合において、配偶者が被害者の親族その他被害者と社会生活において密接な関係を有する者（被害者と同居している子及び配偶者と同居している者を除く。以下この項及び次項並びに第十二条第一項第四号において「親族等」という。）の住居に押し掛けて著しく粗野又は乱暴な言動を行っていることその他の事情があることから被害者がその親族等に関して配偶者と面会することを余儀なくされることを防止するため必要があると認めるときは、第一項第一号の規定による命令を発する裁判所又は発した裁判所は、被害者の申立てにより、その生命又は身体に危害が加えられることを防止するため、当該配偶者に対し、命令の効力が生じた日以後、同号の規定による命令の効力が生じた日から起算して六月を経過する日までの間、当該親族等の住居（当該配偶者と共に生活の本拠としている住居を除く。以下この項において同じ。）その他の場所において当該親族等の身辺につきまとい、又は当該親族等の住居、勤務先その他その通常所在する場所の付近をはいかいしてはならないことを命ずるものとする。"
+                      }
+                    }
+                  },
+                  {
+                    "@Hide": "false",
+                    "@Num": "5",
+                    "ParagraphNum": "５",
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "前項の申立ては、当該親族等（被害者の十五歳未満の子を除く。以下この項において同じ。）の同意（当該親族等が十五歳未満の者又は成年被後見人である場合にあっては、その法定代理人の同意）がある場合に限り、することができる。"
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "11",
+                "ArticleCaption": "（管轄裁判所）",
+                "ArticleTitle": "第十一条",
+                "Paragraph": [
+                  {
+                    "@Hide": "false",
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "前条第一項の規定による命令の申立てに係る事件は、相手方の住所（日本国内に住所がないとき又は住所が知れないときは居所）の所在地を管轄する地方裁判所の管轄に属する。"
+                      }
+                    }
+                  },
+                  {
+                    "@Hide": "false",
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "前条第一項の規定による命令の申立ては、次の各号に掲げる地を管轄する地方裁判所にもすることができる。"
+                      }
+                    },
+                    "Item": [
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "1",
+                        "ItemTitle": "一",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "申立人の住所又は居所の所在地"
+                          }
+                        }
+                      },
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "2",
+                        "ItemTitle": "二",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "当該申立てに係る配偶者からの身体に対する暴力又は生命等に対する脅迫が行われた地"
+                          }
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "12",
+                "ArticleCaption": "（保護命令の申立て）",
+                "ArticleTitle": "第十二条",
+                "Paragraph": [
+                  {
+                    "@Hide": "false",
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "第十条第一項から第四項までの規定による命令（以下「保護命令」という。）の申立ては、次に掲げる事項を記載した書面でしなければならない。"
+                      }
+                    },
+                    "Item": [
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "1",
+                        "ItemTitle": "一",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "配偶者からの身体に対する暴力又は生命等に対する脅迫を受けた状況"
+                          }
+                        }
+                      },
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "2",
+                        "ItemTitle": "二",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "配偶者からの更なる身体に対する暴力又は配偶者からの生命等に対する脅迫を受けた後の配偶者から受ける身体に対する暴力により、生命又は身体に重大な危害を受けるおそれが大きいと認めるに足りる申立ての時における事情"
+                          }
+                        }
+                      },
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "3",
+                        "ItemTitle": "三",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "第十条第三項の規定による命令の申立てをする場合にあっては、被害者が当該同居している子に関して配偶者と面会することを余儀なくされることを防止するため当該命令を発する必要があると認めるに足りる申立ての時における事情"
+                          }
+                        }
+                      },
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "4",
+                        "ItemTitle": "四",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "第十条第四項の規定による命令の申立てをする場合にあっては、被害者が当該親族等に関して配偶者と面会することを余儀なくされることを防止するため当該命令を発する必要があると認めるに足りる申立ての時における事情"
+                          }
+                        }
+                      },
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "5",
+                        "ItemTitle": "五",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "配偶者暴力相談支援センターの職員又は警察職員に対し、前各号に掲げる事項について相談し、又は援助若しくは保護を求めた事実の有無及びその事実があるときは、次に掲げる事項"
+                          }
+                        },
+                        "Subitem1": [
+                          {
+                            "@Delete": "false",
+                            "@Hide": "false",
+                            "@Num": "1",
+                            "Subitem1Title": "イ",
+                            "Subitem1Sentence": {
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "当該配偶者暴力相談支援センター又は当該警察職員の所属官署の名称"
+                              }
+                            }
+                          },
+                          {
+                            "@Delete": "false",
+                            "@Hide": "false",
+                            "@Num": "2",
+                            "Subitem1Title": "ロ",
+                            "Subitem1Sentence": {
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "相談し、又は援助若しくは保護を求めた日時及び場所"
+                              }
+                            }
+                          },
+                          {
+                            "@Delete": "false",
+                            "@Hide": "false",
+                            "@Num": "3",
+                            "Subitem1Title": "ハ",
+                            "Subitem1Sentence": {
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "相談又は求めた援助若しくは保護の内容"
+                              }
+                            }
+                          },
+                          {
+                            "@Delete": "false",
+                            "@Hide": "false",
+                            "@Num": "4",
+                            "Subitem1Title": "ニ",
+                            "Subitem1Sentence": {
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "相談又は申立人の求めに対して執られた措置の内容"
+                              }
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@Hide": "false",
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "前項の書面（以下「申立書」という。）に同項第五号イからニまでに掲げる事項の記載がない場合には、申立書には、同項第一号から第四号までに掲げる事項についての申立人の供述を記載した書面で公証人法（明治四十一年法律第五十三号）第五十八条ノ二第一項の認証を受けたものを添付しなければならない。"
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "13",
+                "ArticleCaption": "（迅速な裁判）",
+                "ArticleTitle": "第十三条",
+                "Paragraph": {
+                  "@Hide": "false",
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "裁判所は、保護命令の申立てに係る事件については、速やかに裁判をするものとする。"
+                    }
+                  }
+                }
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "14",
+                "ArticleCaption": "（保護命令事件の審理の方法）",
+                "ArticleTitle": "第十四条",
+                "Paragraph": [
+                  {
+                    "@Hide": "false",
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": [
+                        {
+                          "@Function": "main",
+                          "@Num": "1",
+                          "@WritingMode": "vertical",
+                          "#text": "保護命令は、口頭弁論又は相手方が立ち会うことができる審尋の期日を経なければ、これを発することができない。"
+                        },
+                        {
+                          "@Function": "proviso",
+                          "@Num": "2",
+                          "@WritingMode": "vertical",
+                          "#text": "ただし、その期日を経ることにより保護命令の申立ての目的を達することができない事情があるときは、この限りでない。"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "@Hide": "false",
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": [
+                        {
+                          "@Num": "1",
+                          "@WritingMode": "vertical",
+                          "#text": "申立書に第十二条第一項第五号イからニまでに掲げる事項の記載がある場合には、裁判所は、当該配偶者暴力相談支援センター又は当該所属官署の長に対し、申立人が相談し又は援助若しくは保護を求めた際の状況及びこれに対して執られた措置の内容を記載した書面の提出を求めるものとする。"
+                        },
+                        {
+                          "@Num": "2",
+                          "@WritingMode": "vertical",
+                          "#text": "この場合において、当該配偶者暴力相談支援センター又は当該所属官署の長は、これに速やかに応ずるものとする。"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "@Hide": "false",
+                    "@Num": "3",
+                    "ParagraphNum": "３",
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "裁判所は、必要があると認める場合には、前項の配偶者暴力相談支援センター若しくは所属官署の長又は申立人から相談を受け、若しくは援助若しくは保護を求められた職員に対し、同項の規定により書面の提出を求めた事項に関して更に説明を求めることができる。"
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "15",
+                "ArticleCaption": "（保護命令の申立てについての決定等）",
+                "ArticleTitle": "第十五条",
+                "Paragraph": [
+                  {
+                    "@Hide": "false",
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": [
+                        {
+                          "@Function": "main",
+                          "@Num": "1",
+                          "@WritingMode": "vertical",
+                          "#text": "保護命令の申立てについての決定には、理由を付さなければならない。"
+                        },
+                        {
+                          "@Function": "proviso",
+                          "@Num": "2",
+                          "@WritingMode": "vertical",
+                          "#text": "ただし、口頭弁論を経ないで決定をする場合には、理由の要旨を示せば足りる。"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "@Hide": "false",
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "保護命令は、相手方に対する決定書の送達又は相手方が出頭した口頭弁論若しくは審尋の期日における言渡しによって、その効力を生ずる。"
+                      }
+                    }
+                  },
+                  {
+                    "@Hide": "false",
+                    "@Num": "3",
+                    "ParagraphNum": "３",
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "保護命令を発したときは、裁判所書記官は、速やかにその旨及びその内容を申立人の住所又は居所を管轄する警視総監又は道府県警察本部長に通知するものとする。"
+                      }
+                    }
+                  },
+                  {
+                    "@Hide": "false",
+                    "@Num": "4",
+                    "ParagraphNum": "４",
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "保護命令を発した場合において、申立人が配偶者暴力相談支援センターの職員に対し相談し、又は援助若しくは保護を求めた事実があり、かつ、申立書に当該事実に係る第十二条第一項第五号イからニまでに掲げる事項の記載があるときは、裁判所書記官は、速やかに、保護命令を発した旨及びその内容を、当該申立書に名称が記載された配偶者暴力相談支援センター（当該申立書に名称が記載された配偶者暴力相談支援センターが二以上ある場合にあっては、申立人がその職員に対し相談し、又は援助若しくは保護を求めた日時が最も遅い配偶者暴力相談支援センター）の長に通知するものとする。"
+                      }
+                    }
+                  },
+                  {
+                    "@Hide": "false",
+                    "@Num": "5",
+                    "ParagraphNum": "５",
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "保護命令は、執行力を有しない。"
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "16",
+                "ArticleCaption": "（即時抗告）",
+                "ArticleTitle": "第十六条",
+                "Paragraph": [
+                  {
+                    "@Hide": "false",
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "保護命令の申立てについての裁判に対しては、即時抗告をすることができる。"
+                      }
+                    }
+                  },
+                  {
+                    "@Hide": "false",
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "前項の即時抗告は、保護命令の効力に影響を及ぼさない。"
+                      }
+                    }
+                  },
+                  {
+                    "@Hide": "false",
+                    "@Num": "3",
+                    "ParagraphNum": "３",
+                    "ParagraphSentence": {
+                      "Sentence": [
+                        {
+                          "@Num": "1",
+                          "@WritingMode": "vertical",
+                          "#text": "即時抗告があった場合において、保護命令の取消しの原因となることが明らかな事情があることにつき疎明があったときに限り、抗告裁判所は、申立てにより、即時抗告についての裁判が効力を生ずるまでの間、保護命令の効力の停止を命ずることができる。"
+                        },
+                        {
+                          "@Num": "2",
+                          "@WritingMode": "vertical",
+                          "#text": "事件の記録が原裁判所に存する間は、原裁判所も、この処分を命ずることができる。"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "@Hide": "false",
+                    "@Num": "4",
+                    "ParagraphNum": "４",
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "前項の規定により第十条第一項第一号の規定による命令の効力の停止を命ずる場合において、同条第二項から第四項までの規定による命令が発せられているときは、裁判所は、当該命令の効力の停止をも命じなければならない。"
+                      }
+                    }
+                  },
+                  {
+                    "@Hide": "false",
+                    "@Num": "5",
+                    "ParagraphNum": "５",
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "前二項の規定による裁判に対しては、不服を申し立てることができない。"
+                      }
+                    }
+                  },
+                  {
+                    "@Hide": "false",
+                    "@Num": "6",
+                    "ParagraphNum": "６",
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "抗告裁判所が第十条第一項第一号の規定による命令を取り消す場合において、同条第二項から第四項までの規定による命令が発せられているときは、抗告裁判所は、当該命令をも取り消さなければならない。"
+                      }
+                    }
+                  },
+                  {
+                    "@Hide": "false",
+                    "@Num": "7",
+                    "ParagraphNum": "７",
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "前条第四項の規定による通知がされている保護命令について、第三項若しくは第四項の規定によりその効力の停止を命じたとき又は抗告裁判所がこれを取り消したときは、裁判所書記官は、速やかに、その旨及びその内容を当該通知をした配偶者暴力相談支援センターの長に通知するものとする。"
+                      }
+                    }
+                  },
+                  {
+                    "@Hide": "false",
+                    "@Num": "8",
+                    "ParagraphNum": "８",
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "前条第三項の規定は、第三項及び第四項の場合並びに抗告裁判所が保護命令を取り消した場合について準用する。"
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "17",
+                "ArticleCaption": "（保護命令の取消し）",
+                "ArticleTitle": "第十七条",
+                "Paragraph": [
+                  {
+                    "@Hide": "false",
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": [
+                        {
+                          "@Num": "1",
+                          "@WritingMode": "vertical",
+                          "#text": "保護命令を発した裁判所は、当該保護命令の申立てをした者の申立てがあった場合には、当該保護命令を取り消さなければならない。"
+                        },
+                        {
+                          "@Num": "2",
+                          "@WritingMode": "vertical",
+                          "#text": "第十条第一項第一号又は第二項から第四項までの規定による命令にあっては同号の規定による命令が効力を生じた日から起算して三月を経過した後において、同条第一項第二号の規定による命令にあっては当該命令が効力を生じた日から起算して二週間を経過した後において、これらの命令を受けた者が申し立て、当該裁判所がこれらの命令の申立てをした者に異議がないことを確認したときも、同様とする。"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "@Hide": "false",
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "前条第六項の規定は、第十条第一項第一号の規定による命令を発した裁判所が前項の規定により当該命令を取り消す場合について準用する。"
+                      }
+                    }
+                  },
+                  {
+                    "@Hide": "false",
+                    "@Num": "3",
+                    "ParagraphNum": "３",
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "第十五条第三項及び前条第七項の規定は、前二項の場合について準用する。"
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "18",
+                "ArticleCaption": "（第十条第一項第二号の規定による命令の再度の申立て）",
+                "ArticleTitle": "第十八条",
+                "Paragraph": [
+                  {
+                    "@Hide": "false",
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": [
+                        {
+                          "@Function": "main",
+                          "@Num": "1",
+                          "@WritingMode": "vertical",
+                          "#text": "第十条第一項第二号の規定による命令が発せられた後に当該発せられた命令の申立ての理由となった身体に対する暴力又は生命等に対する脅迫と同一の事実を理由とする同号の規定による命令の再度の申立てがあったときは、裁判所は、配偶者と共に生活の本拠としている住居から転居しようとする被害者がその責めに帰することのできない事由により当該発せられた命令の効力が生ずる日から起算して二月を経過する日までに当該住居からの転居を完了することができないことその他の同号の規定による命令を再度発する必要があると認めるべき事情があるときに限り、当該命令を発するものとする。"
+                        },
+                        {
+                          "@Function": "proviso",
+                          "@Num": "2",
+                          "@WritingMode": "vertical",
+                          "#text": "ただし、当該命令を発することにより当該配偶者の生活に特に著しい支障を生ずると認めるときは、当該命令を発しないことができる。"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "@Hide": "false",
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "前項の申立てをする場合における第十二条の規定の適用については、同条第一項各号列記以外の部分中「次に掲げる事項」とあるのは「第一号、第二号及び第五号に掲げる事項並びに第十八条第一項本文の事情」と、同項第五号中「前各号に掲げる事項」とあるのは「第一号及び第二号に掲げる事項並びに第十八条第一項本文の事情」と、同条第二項中「同項第一号から第四号までに掲げる事項」とあるのは「同項第一号及び第二号に掲げる事項並びに第十八条第一項本文の事情」とする。"
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "19",
+                "ArticleCaption": "（事件の記録の閲覧等）",
+                "ArticleTitle": "第十九条",
+                "Paragraph": {
+                  "@Hide": "false",
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": [
+                      {
+                        "@Function": "main",
+                        "@Num": "1",
+                        "@WritingMode": "vertical",
+                        "#text": "保護命令に関する手続について、当事者は、裁判所書記官に対し、事件の記録の閲覧若しくは謄写、その正本、謄本若しくは抄本の交付又は事件に関する事項の証明書の交付を請求することができる。"
+                      },
+                      {
+                        "@Function": "proviso",
+                        "@Num": "2",
+                        "@WritingMode": "vertical",
+                        "#text": "ただし、相手方にあっては、保護命令の申立てに関し口頭弁論若しくは相手方を呼び出す審尋の期日の指定があり、又は相手方に対する保護命令の送達があるまでの間は、この限りでない。"
+                      }
+                    ]
+                  }
+                }
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "20",
+                "ArticleCaption": "（法務事務官による宣誓認証）",
+                "ArticleTitle": "第二十条",
+                "Paragraph": {
+                  "@Hide": "false",
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "法務局若しくは地方法務局又はその支局の管轄区域内に公証人がいない場合又は公証人がその職務を行うことができない場合には、法務大臣は、当該法務局若しくは地方法務局又はその支局に勤務する法務事務官に第十二条第二項（第十八条第二項の規定により読み替えて適用する場合を含む。）の認証を行わせることができる。"
+                    }
+                  }
+                }
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "21",
+                "ArticleCaption": "（民事訴訟法の準用）",
+                "ArticleTitle": "第二十一条",
+                "Paragraph": {
+                  "@Hide": "false",
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "この法律に特別の定めがある場合を除き、保護命令に関する手続に関しては、その性質に反しない限り、民事訴訟法（平成八年法律第百九号）の規定を準用する。"
+                    }
+                  }
+                }
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "22",
+                "ArticleCaption": "（最高裁判所規則）",
+                "ArticleTitle": "第二十二条",
+                "Paragraph": {
+                  "@Hide": "false",
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "この法律に定めるもののほか、保護命令に関する手続に関し必要な事項は、最高裁判所規則で定める。"
+                    }
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "5",
+            "ChapterTitle": "第五章　雑則",
+            "Article": [
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "23",
+                "ArticleCaption": "（職務関係者による配慮等）",
+                "ArticleTitle": "第二十三条",
+                "Paragraph": [
+                  {
+                    "@Hide": "false",
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "配偶者からの暴力に係る被害者の保護、捜査、裁判等に職務上関係のある者（次項において「職務関係者」という。）は、その職務を行うに当たり、被害者の心身の状況、その置かれている環境等を踏まえ、被害者の国籍、障害の有無等を問わずその人権を尊重するとともに、その安全の確保及び秘密の保持に十分な配慮をしなければならない。"
+                      }
+                    }
+                  },
+                  {
+                    "@Hide": "false",
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "国及び地方公共団体は、職務関係者に対し、被害者の人権、配偶者からの暴力の特性等に関する理解を深めるために必要な研修及び啓発を行うものとする。"
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "24",
+                "ArticleCaption": "（教育及び啓発）",
+                "ArticleTitle": "第二十四条",
+                "Paragraph": {
+                  "@Hide": "false",
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "国及び地方公共団体は、配偶者からの暴力の防止に関する国民の理解を深めるための教育及び啓発に努めるものとする。"
+                    }
+                  }
+                }
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "25",
+                "ArticleCaption": "（調査研究の推進等）",
+                "ArticleTitle": "第二十五条",
+                "Paragraph": {
+                  "@Hide": "false",
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "国及び地方公共団体は、配偶者からの暴力の防止及び被害者の保護に資するため、加害者の更生のための指導の方法、被害者の心身の健康を回復させるための方法等に関する調査研究の推進並びに被害者の保護に係る人材の養成及び資質の向上に努めるものとする。"
+                    }
+                  }
+                }
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "26",
+                "ArticleCaption": "（民間の団体に対する援助）",
+                "ArticleTitle": "第二十六条",
+                "Paragraph": {
+                  "@Hide": "false",
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "国及び地方公共団体は、配偶者からの暴力の防止及び被害者の保護を図るための活動を行う民間の団体に対し、必要な援助を行うよう努めるものとする。"
+                    }
+                  }
+                }
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "27",
+                "ArticleCaption": "（都道府県及び市の支弁）",
+                "ArticleTitle": "第二十七条",
+                "Paragraph": [
+                  {
+                    "@Hide": "false",
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "都道府県は、次の各号に掲げる費用を支弁しなければならない。"
+                      }
+                    },
+                    "Item": [
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "1",
+                        "ItemTitle": "一",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "第三条第三項の規定に基づき同項に掲げる業務を行う婦人相談所の運営に要する費用（次号に掲げる費用を除く。）"
+                          }
+                        }
+                      },
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "2",
+                        "ItemTitle": "二",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "第三条第三項第三号の規定に基づき婦人相談所が行う一時保護（同条第四項に規定する厚生労働大臣が定める基準を満たす者に委託して行う場合を含む。）に要する費用"
+                          }
+                        }
+                      },
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "3",
+                        "ItemTitle": "三",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "第四条の規定に基づき都道府県知事の委嘱する婦人相談員が行う業務に要する費用"
+                          }
+                        }
+                      },
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "4",
+                        "ItemTitle": "四",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "第五条の規定に基づき都道府県が行う保護（市町村、社会福祉法人その他適当と認める者に委託して行う場合を含む。）及びこれに伴い必要な事務に要する費用"
+                          }
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Hide": "false",
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "市は、第四条の規定に基づきその長の委嘱する婦人相談員が行う業務に要する費用を支弁しなければならない。"
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "28",
+                "ArticleCaption": "（国の負担及び補助）",
+                "ArticleTitle": "第二十八条",
+                "Paragraph": [
+                  {
+                    "@Hide": "false",
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "国は、政令の定めるところにより、都道府県が前条第一項の規定により支弁した費用のうち、同項第一号及び第二号に掲げるものについては、その十分の五を負担するものとする。"
+                      }
+                    }
+                  },
+                  {
+                    "@Hide": "false",
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "国は、予算の範囲内において、次の各号に掲げる費用の十分の五以内を補助することができる。"
+                      }
+                    },
+                    "Item": [
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "1",
+                        "ItemTitle": "一",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "都道府県が前条第一項の規定により支弁した費用のうち、同項第三号及び第四号に掲げるもの"
+                          }
+                        }
+                      },
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "2",
+                        "ItemTitle": "二",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "市が前条第二項の規定により支弁した費用"
+                          }
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "5_2",
+            "ChapterTitle": "第五章の二　補則",
+            "Article": {
+              "@Delete": "false",
+              "@Hide": "false",
+              "@Num": "28_2",
+              "ArticleCaption": "（この法律の準用）",
+              "ArticleTitle": "第二十八条の二",
+              "Paragraph": {
+                "@Hide": "false",
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": [
+                    {
+                      "@Num": "1",
+                      "@WritingMode": "vertical",
+                      "#text": "第二条及び第一章の二から前章までの規定は、生活の本拠を共にする交際（婚姻関係における共同生活に類する共同生活を営んでいないものを除く。）をする関係にある相手からの暴力（当該関係にある相手からの身体に対する暴力等をいい、当該関係にある相手からの身体に対する暴力等を受けた後に、その者が当該関係を解消した場合にあっては、当該関係にあった者から引き続き受ける身体に対する暴力等を含む。）及び当該暴力を受けた者について準用する。"
+                    },
+                    {
+                      "@Num": "2",
+                      "@WritingMode": "vertical",
+                      "#text": "この場合において、これらの規定中「配偶者からの暴力」とあるのは「第二十八条の二に規定する関係にある相手からの暴力」と読み替えるほか、次の表の上欄に掲げる規定中同表の中欄に掲げる字句は、それぞれ同表の下欄に掲げる字句に読み替えるものとする。"
+                    }
+                  ]
+                },
+                "TableStruct": {
+                  "Table": {
+                    "@WritingMode": "vertical",
+                    "TableRow": [
+                      {
+                        "TableColumn": [
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "第二条"
+                            }
+                          },
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "被害者"
+                            }
+                          },
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "被害者（第二十八条の二に規定する関係にある相手からの暴力を受けた者をいう。以下同じ。）"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "TableColumn": [
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "第六条第一項"
+                            }
+                          },
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "配偶者又は配偶者であった者"
+                            }
+                          },
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "同条に規定する関係にある相手又は同条に規定する関係にある相手であった者"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "TableColumn": [
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "第十条第一項から第四項まで、第十一条第二項第二号、第十二条第一項第一号から第四号まで及び第十八条第一項"
+                            }
+                          },
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "配偶者"
+                            }
+                          },
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "第二十八条の二に規定する関係にある相手"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "TableColumn": [
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "第十条第一項"
+                            }
+                          },
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "離婚をし、又はその婚姻が取り消された場合"
+                            }
+                          },
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "第二十八条の二に規定する関係を解消した場合"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                }
+              }
+            }
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "6",
+            "ChapterTitle": "第六章　罰則",
+            "Article": [
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "29",
+                "ArticleTitle": "第二十九条",
+                "Paragraph": {
+                  "@Hide": "false",
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "保護命令（前条において読み替えて準用する第十条第一項から第四項までの規定によるものを含む。次条において同じ。）に違反した者は、一年以下の懲役又は百万円以下の罰金に処する。"
+                    }
+                  }
+                }
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "30",
+                "ArticleTitle": "第三十条",
+                "Paragraph": {
+                  "@Hide": "false",
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "第十二条第一項（第十八条第二項の規定により読み替えて適用する場合を含む。）又は第二十八条の二において読み替えて準用する第十二条第一項（第二十八条の二において準用する第十八条第二項の規定により読み替えて適用する場合を含む。）の規定により記載すべき事項について虚偽の記載のある申立書により保護命令の申立てをした者は、十万円以下の過料に処する。"
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        ]
+      },
+      "SupplProvision": [
+        {
+          "@Extract": "true",
+          "@Type": "New",
+          "SupplProvisionLabel": "附　則",
+          "Article": [
+            {
+              "@Delete": "false",
+              "@Hide": "false",
+              "@Num": "1",
+              "ArticleCaption": "（施行期日）",
+              "ArticleTitle": "第一条",
+              "Paragraph": {
+                "@Hide": "false",
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": [
+                    {
+                      "@Function": "main",
+                      "@Num": "1",
+                      "@WritingMode": "vertical",
+                      "#text": "この法律は、公布の日から起算して六月を経過した日から施行する。"
+                    },
+                    {
+                      "@Function": "proviso",
+                      "@Num": "2",
+                      "@WritingMode": "vertical",
+                      "#text": "ただし、第二章、第六条（配偶者暴力相談支援センターに係る部分に限る。）、第七条、第九条（配偶者暴力相談支援センターに係る部分に限る。）、第二十七条及び第二十八条の規定は、平成十四年四月一日から施行する。"
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "@Delete": "false",
+              "@Hide": "false",
+              "@Num": "2",
+              "ArticleCaption": "（経過措置）",
+              "ArticleTitle": "第二条",
+              "Paragraph": {
+                "@Hide": "false",
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "平成十四年三月三十一日までに婦人相談所に対し被害者が配偶者からの身体に対する暴力に関して相談し、又は援助若しくは保護を求めた場合における当該被害者からの保護命令の申立てに係る事件に関する第十二条第一項第四号並びに第十四条第二項及び第三項の規定の適用については、これらの規定中「配偶者暴力相談支援センター」とあるのは、「婦人相談所」とする。"
+                  }
+                }
+              }
+            },
+            {
+              "@Delete": "false",
+              "@Hide": "false",
+              "@Num": "3",
+              "ArticleCaption": "（検討）",
+              "ArticleTitle": "第三条",
+              "Paragraph": {
+                "@Hide": "false",
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "この法律の規定については、この法律の施行後三年を目途として、この法律の施行状況等を勘案し、検討が加えられ、その結果に基づいて必要な措置が講ぜられるものとする。"
+                  }
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@AmendLawNum": "平成一六年六月二日法律第六四号",
+          "@Extract": "false",
+          "@Type": "Amend",
+          "SupplProvisionLabel": "附　則",
+          "Article": [
+            {
+              "@Delete": "false",
+              "@Hide": "false",
+              "@Num": "1",
+              "ArticleCaption": "（施行期日）",
+              "ArticleTitle": "第一条",
+              "Paragraph": {
+                "@Hide": "false",
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "この法律は、公布の日から起算して六月を経過した日から施行する。"
+                  }
+                }
+              }
+            },
+            {
+              "@Delete": "false",
+              "@Hide": "false",
+              "@Num": "2",
+              "ArticleCaption": "（経過措置）",
+              "ArticleTitle": "第二条",
+              "Paragraph": [
+                {
+                  "@Hide": "false",
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "この法律の施行前にしたこの法律による改正前の配偶者からの暴力の防止及び被害者の保護に関する法律（次項において「旧法」という。）第十条の規定による命令の申立てに係る同条の規定による命令に関する事件については、なお従前の例による。"
+                    }
+                  }
+                },
+                {
+                  "@Hide": "false",
+                  "@Num": "2",
+                  "ParagraphNum": "２",
+                  "ParagraphSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "旧法第十条第二号の規定による命令が発せられた後に当該命令の申立ての理由となった身体に対する不法な攻撃であって生命又は身体に危害を及ぼすものと同一の事実を理由とするこの法律による改正後の配偶者からの暴力の防止及び被害者の保護に関する法律（以下「新法」という。）第十条第一項第二号の規定による命令の申立て（この法律の施行後最初にされるものに限る。）があった場合における新法第十八条第一項の規定の適用については、同項中「二月」とあるのは、「二週間」とする。"
+                    }
+                  }
+                }
+              ]
+            },
+            {
+              "@Delete": "false",
+              "@Hide": "false",
+              "@Num": "3",
+              "ArticleCaption": "（検討）",
+              "ArticleTitle": "第三条",
+              "Paragraph": {
+                "@Hide": "false",
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "新法の規定については、この法律の施行後三年を目途として、新法の施行状況等を勘案し、検討が加えられ、その結果に基づいて必要な措置が講ぜられるものとする。"
+                  }
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@AmendLawNum": "平成一九年七月一一日法律第一一三号",
+          "@Extract": "true",
+          "@Type": "Amend",
+          "SupplProvisionLabel": "附　則",
+          "Article": [
+            {
+              "@Delete": "false",
+              "@Hide": "false",
+              "@Num": "1",
+              "ArticleCaption": "（施行期日）",
+              "ArticleTitle": "第一条",
+              "Paragraph": {
+                "@Hide": "false",
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "この法律は、公布の日から起算して六月を経過した日から施行する。"
+                  }
+                }
+              }
+            },
+            {
+              "@Delete": "false",
+              "@Hide": "false",
+              "@Num": "2",
+              "ArticleCaption": "（経過措置）",
+              "ArticleTitle": "第二条",
+              "Paragraph": {
+                "@Hide": "false",
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "この法律の施行前にしたこの法律による改正前の配偶者からの暴力の防止及び被害者の保護に関する法律第十条の規定による命令の申立てに係る同条の規定による命令に関する事件については、なお従前の例による。"
+                  }
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@AmendLawNum": "平成二五年七月三日法律第七二号",
+          "@Extract": "true",
+          "@Type": "Amend",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphCaption": "（施行期日）",
+            "ParagraphNum": "１",
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この法律は、公布の日から起算して六月を経過した日から施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成二六年四月二三日法律第二八号",
+          "@Extract": "true",
+          "@Type": "Amend",
+          "SupplProvisionLabel": "附　則",
+          "Article": {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "1",
+            "ArticleCaption": "（施行期日）",
+            "ArticleTitle": "第一条",
+            "Paragraph": {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": [
+                  {
+                    "@Function": "main",
+                    "@Num": "1",
+                    "@WritingMode": "vertical",
+                    "#text": "この法律は、平成二十七年四月一日から施行する。"
+                  },
+                  {
+                    "@Function": "proviso",
+                    "@Num": "2",
+                    "@WritingMode": "vertical",
+                    "#text": "ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。"
+                  }
+                ]
+              },
+              "Item": [
+                {
+                  "@Delete": "false",
+                  "@Hide": "false",
+                  "@Num": "1",
+                  "ItemTitle": "一",
+                  "ItemSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "略"
+                    }
+                  }
+                },
+                {
+                  "@Delete": "false",
+                  "@Hide": "false",
+                  "@Num": "2",
+                  "ItemTitle": "二",
+                  "ItemSentence": {
+                    "Column": [
+                      {
+                        "@LineBreak": "false",
+                        "@Num": "1",
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "第二条並びに附則第三条、第七条から第十条まで、第十二条及び第十五条から第十八条までの規定"
+                        }
+                      },
+                      {
+                        "@LineBreak": "false",
+                        "@Num": "2",
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "平成二十六年十月一日"
+                        }
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          }
+        }
+      ]
+    }
+  }
+}

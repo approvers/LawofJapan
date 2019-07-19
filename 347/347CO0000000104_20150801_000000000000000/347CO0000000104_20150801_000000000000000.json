@@ -1,0 +1,65 @@
+{
+  "Law": {
+    "@Era": "Showa",
+    "@Lang": "ja",
+    "@LawType": "CabinetOrder",
+    "@Num": "104",
+    "@Year": "47",
+    "LawNum": "昭和四十七年政令第百四号",
+    "LawBody": {
+      "LawTitle": "沖縄の復帰に伴う外務省関係法令の適用の経過措置に関する政令　抄",
+      "EnactStatement": "内閣は、沖縄の復帰に伴う特別措置に関する法律（昭和四十六年法律第百二十九号）第五十三条第三項及び第百五十六条第一項の規定に基づき、この政令を制定する。",
+      "MainProvision": {
+        "Article": {
+          "@Delete": "false",
+          "@Hide": "false",
+          "@Num": "1",
+          "ArticleCaption": "（旅券法の適用に関する経過措置）",
+          "ArticleTitle": "第一条",
+          "Paragraph": [
+            {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "旅券法（昭和二十六年法律第二百六十七号）第十三条第一項第二号の規定の適用については、沖縄の復帰に伴う特別措置に関する法律（以下「法」という。）第二十五条第一項の規定によりなお効力を有することとされる沖縄法令の規定に定める刑で、同号に規定する刑に相当するものは、同号に規定する刑とみなす。"
+                }
+              }
+            },
+            {
+              "@Hide": "false",
+              "@Num": "2",
+              "ParagraphNum": "２",
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "Ruby": {
+                    "Rt": "こ",
+                    "#text": "錮"
+                  },
+                  "#text": "沖縄の法令の規定（法第二十五条第一項の規定によりなお効力を有することとされる沖縄法令の規定を含む。）により禁以上の刑に処せられ、その執行を終わるまで又は執行を受けることがなくなるまでの者は、旅券法第十三条第一項第三号に該当する者とみなす。"
+                }
+              }
+            }
+          ]
+        }
+      },
+      "SupplProvision": {
+        "SupplProvisionLabel": "附　則",
+        "Paragraph": {
+          "@Hide": "false",
+          "@Num": "1",
+          "ParagraphNum": null,
+          "ParagraphSentence": {
+            "Sentence": {
+              "@WritingMode": "vertical",
+              "#text": "この政令は、法の施行の日（昭和四十七年五月十五日）から施行する。"
+            }
+          }
+        }
+      }
+    }
+  }
+}

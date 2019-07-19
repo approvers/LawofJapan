@@ -1,0 +1,68 @@
+{
+  "Law": {
+    "@Era": "Showa",
+    "@Lang": "ja",
+    "@LawType": "Act",
+    "@Num": "43",
+    "@Year": "54",
+    "LawNum": "昭和五十四年法律第四十三号",
+    "LawBody": {
+      "LawTitle": "元号法",
+      "MainProvision": {
+        "Paragraph": [
+          {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphNum": "１",
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "元号は、政令で定める。"
+              }
+            }
+          },
+          {
+            "@Hide": "false",
+            "@Num": "2",
+            "ParagraphNum": "２",
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "元号は、皇位の継承があつた場合に限り改める。"
+              }
+            }
+          }
+        ]
+      },
+      "SupplProvision": {
+        "@Extract": "false",
+        "@Type": "New",
+        "SupplProvisionLabel": "附　則",
+        "Paragraph": [
+          {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphNum": "１",
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この法律は、公布の日から施行する。"
+              }
+            }
+          },
+          {
+            "@Hide": "false",
+            "@Num": "2",
+            "ParagraphNum": "２",
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "昭和の元号は、本則第一項の規定に基づき定められたものとする。"
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

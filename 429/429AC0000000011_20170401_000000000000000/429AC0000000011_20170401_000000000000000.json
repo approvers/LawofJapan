@@ -1,0 +1,246 @@
+{
+  "Law": {
+    "@Era": "Heisei",
+    "@Lang": "ja",
+    "@LawType": "Act",
+    "@Num": "011",
+    "@Year": "29",
+    "LawNum": "平成二十九年法律第十一号",
+    "LawBody": {
+      "LawTitle": "過疎地域自立促進特別措置法の一部を改正する法律",
+      "MainProvision": {
+        "Paragraph": {
+          "@Hide": "false",
+          "@Num": "1",
+          "ParagraphNum": null,
+          "ParagraphSentence": {
+            "Sentence": {
+              "@WritingMode": "vertical",
+              "#text": "過疎地域自立促進特別措置法（平成十二年法律第十五号）の一部を次のように改正する。"
+            }
+          },
+          "AmendProvision": [
+            {
+              "AmendProvisionSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "第二条第一項に次の一号を加える。"
+                }
+              },
+              "NewProvision": {
+                "Item": {
+                  "@Delete": "false",
+                  "@Hide": "false",
+                  "@Num": "4",
+                  "ItemTitle": "四",
+                  "ItemSentence": {
+                    "Sentence": [
+                      {
+                        "@Function": "main",
+                        "@Num": "1",
+                        "@WritingMode": "vertical",
+                        "#text": "次のいずれかに該当し、かつ、財政力指数で平成二十五年度から平成二十七年度までの各年度に係るものを合算したものの三分の一の数値が〇・五以下であること。"
+                      },
+                      {
+                        "@Function": "proviso",
+                        "@Num": "2",
+                        "@WritingMode": "vertical",
+                        "#text": "ただし、イ、ロ又はハに該当する場合においては、国勢調査の結果による市町村人口に係る平成二十七年の人口から当該市町村人口に係る平成二年の人口を控除して得た人口を当該市町村人口に係る同年の人口で除して得た数値が〇・一未満であること。"
+                      }
+                    ]
+                  },
+                  "Subitem1": [
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "1",
+                      "Subitem1Title": "イ",
+                      "Subitem1Sentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "国勢調査の結果による市町村人口に係る昭和四十五年の人口から当該市町村人口に係る平成二十七年の人口を控除して得た人口を当該市町村人口に係る昭和四十五年の人口で除して得た数値（以下この号において「四十五年間人口減少率」という。）が〇・三二以上であること。"
+                        }
+                      }
+                    },
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "2",
+                      "Subitem1Title": "ロ",
+                      "Subitem1Sentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "四十五年間人口減少率が〇・二七以上であって、国勢調査の結果による市町村人口に係る平成二十七年の人口のうち六十五歳以上の人口を当該市町村人口に係る同年の人口で除して得た数値が〇・三六以上であること。"
+                        }
+                      }
+                    },
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "3",
+                      "Subitem1Title": "ハ",
+                      "Subitem1Sentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "四十五年間人口減少率が〇・二七以上であって、国勢調査の結果による市町村人口に係る平成二十七年の人口のうち十五歳以上三十歳未満の人口を当該市町村人口に係る同年の人口で除して得た数値が〇・一一以下であること。"
+                        }
+                      }
+                    },
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "4",
+                      "Subitem1Title": "ニ",
+                      "Subitem1Sentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "国勢調査の結果による市町村人口に係る平成二年の人口から当該市町村人口に係る平成二十七年の人口を控除して得た人口を当該市町村人口に係る平成二年の人口で除して得た数値が〇・二一以上であること。"
+                        }
+                      }
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "AmendProvisionSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "第十二条第一項第十八号を次のように改める。"
+                }
+              },
+              "NewProvision": {
+                "Item": {
+                  "@Delete": "false",
+                  "@Hide": "false",
+                  "@Num": "18",
+                  "ItemTitle": "十八",
+                  "ItemSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "公立の小学校、中学校及び義務教育学校並びに市町村立の幼稚園、高等学校、中等教育学校及び特別支援学校"
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "AmendProvisionSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "第十二条第一項中第二十三号を第二十四号とし、第十九号から第二十二号までを一号ずつ繰り下げ、第十八号の次に次の一号を加える。"
+                }
+              },
+              "NewProvision": {
+                "Item": {
+                  "@Delete": "false",
+                  "@Hide": "false",
+                  "@Num": "19",
+                  "ItemTitle": "十九",
+                  "ItemSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "市町村立の専修学校及び各種学校"
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "AmendProvisionSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "第三十条中「情報通信技術利用事業」を「農林水産物等販売業」に、「情報通信の技術を利用する方法により行う商品又は役務に関する情報の提供に関する事業その他の政令で定める」を「過疎地域内において生産された農林水産物又は当該農林水産物を原料若しくは材料として製造、加工若しくは調理をしたものを店舗において主に他の地域の者に販売することを目的とする」に改める。"
+                }
+              }
+            },
+            {
+              "AmendProvisionSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "第三十一条中「情報通信技術利用事業」を「農林水産物等販売業」に改める。"
+                }
+              }
+            }
+          ]
+        }
+      },
+      "SupplProvision": {
+        "SupplProvisionLabel": "附　則",
+        "Article": [
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "1",
+            "ArticleCaption": "（施行期日）",
+            "ArticleTitle": "第一条",
+            "Paragraph": {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "この法律は、平成二十九年四月一日から施行する。"
+                }
+              }
+            }
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "2",
+            "ArticleCaption": "（経過措置等）",
+            "ArticleTitle": "第二条",
+            "Paragraph": {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "この法律による改正後の過疎地域自立促進特別措置法（以下「新法」という。）第二条第一項第三号の規定は、この法律の施行の日以後に行われた廃置分合又は境界変更により新たに設置され、又は境界が変更された市町村については、適用しない。"
+                }
+              }
+            }
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "3",
+            "ArticleTitle": "第三条",
+            "Paragraph": {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "この法律の施行の日以後に新法第二条の規定により新たに過疎地域をその区域とする市町村として公示された市町村につき新法第十条（別表を含む。）、第十一条、第十四条第四項から第六項まで、第十五条第八項及び第九項、第十六条第五項、第十八条第二項及び第三項並びに第十九条の規定を適用する場合には、これらの規定は、新法第二条第二項の規定による公示の日の属する年度（以下「公示の年度」という。）の予算に係る国の負担若しくは補助又は交付金の交付（以下「負担等」という。）（公示の年度の前年度以前の年度の国庫債務負担行為に基づき公示の年度以降の年度に支出すべきものとされた国の負担等を除く。）から適用し、公示の年度の前年度以前の年度の国庫債務負担行為に基づき公示の年度以降の年度に支出すべきものとされた国の負担等及び公示の年度の前年度以前の年度の歳出予算に係る国の負担等で公示の年度以降の年度に繰り越されたものについては、なお従前の例による。"
+                }
+              }
+            }
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "4",
+            "ArticleCaption": "（政令への委任）",
+            "ArticleTitle": "第四条",
+            "Paragraph": {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "この附則に定めるもののほか、この法律の施行に関し必要な経過措置は、政令で定める。"
+                }
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

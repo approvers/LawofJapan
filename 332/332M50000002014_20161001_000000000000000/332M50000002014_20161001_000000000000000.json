@@ -1,0 +1,5905 @@
+{
+  "Law": {
+    "@Era": "Showa",
+    "@Lang": "ja",
+    "@LawType": "MinisterialOrdinance",
+    "@Num": "014",
+    "@Year": "32",
+    "LawNum": "昭和三十二年総理府令第十四号",
+    "LawBody": {
+      "LawTitle": "水質調査作業規程準則",
+      "EnactStatement": "国土調査法第三条第二項の規定に基き、水質調査作業規程準則を次のように定める。",
+      "TOC": {
+        "TOCLabel": "目次",
+        "TOCChapter": [
+          {
+            "@Num": "1",
+            "ChapterTitle": "第一章　総則",
+            "ArticleRange": "（第一条―第八条）"
+          },
+          {
+            "@Num": "2",
+            "ChapterTitle": "第二章　現地作業",
+            "ArticleRange": "（第九条―第十七条）"
+          },
+          {
+            "@Num": "3",
+            "ChapterTitle": "第三章　室内分析作業",
+            "ArticleRange": "（第十八条―第二十条）"
+          },
+          {
+            "@Num": "4",
+            "ChapterTitle": "第四章　整理作業",
+            "ArticleRange": "（第二十一条―第二十三条）"
+          }
+        ],
+        "TOCSupplProvision": {
+          "SupplProvisionLabel": "附則"
+        }
+      },
+      "MainProvision": {
+        "Chapter": [
+          {
+            "@Num": "1",
+            "ChapterTitle": "第一章　総則",
+            "Article": [
+              {
+                "@Num": "1",
+                "ArticleCaption": "（目的）",
+                "ArticleTitle": "第一条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "国土調査法（昭和二十六年法律第百八十号）第二条第一項各号の規定による水調査のうち、水質に関する調査（以下「水質調査」という。）の作業規程の準則は、この省令の定めるところによる。"
+                  }
+                }
+              },
+              {
+                "@Num": "2",
+                "ArticleCaption": "（調査単位区域）",
+                "ArticleTitle": "第二条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "水質調査は、水基本調査作業規程準則（昭和二十八年総理府令第三十五号。以下「水基本調査準則」という。）第一条の規定による水調査の基準の設定のための調査を行つた区域内において行うものとする。"
+                  }
+                }
+              },
+              {
+                "@Num": "3",
+                "ArticleCaption": "（調査の内容）",
+                "ArticleTitle": "第三条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "水質調査においては、水基本調査準則第二十九条の規定により決定した位置において水質に関する調査を行い、その結果を地図及び簿冊に作成するものとする。"
+                  }
+                }
+              },
+              {
+                "@Num": "4",
+                "ArticleCaption": "（水質調査の作業）",
+                "ArticleTitle": "第四条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "水質調査の作業は、現地作業、室内分析作業及び整理作業とする。"
+                  }
+                }
+              },
+              {
+                "@Num": "5",
+                "ArticleCaption": "（現地作業）",
+                "ArticleTitle": "第五条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "現地作業とは、第三条に規定する位置において水質に関する観測及び採水を行うとともに、採取した水（以下「試水」という。）について室内分析作業のために必要な処理を行う作業をいう。"
+                  }
+                }
+              },
+              {
+                "@Num": "6",
+                "ArticleCaption": "（室内分析作業）",
+                "ArticleTitle": "第六条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "室内分析作業とは、現地において採取した試水につき、室内において理化学的分析及び試験を行う作業をいう。"
+                  }
+                }
+              },
+              {
+                "@Num": "7",
+                "ArticleCaption": "（整理作業）",
+                "ArticleTitle": "第七条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "整理作業とは、現地作業及び室内分析作業の結果を基礎として、水質表、水質平均値表、項目別水質分布図及び水質説明書を作成する作業をいう。"
+                  }
+                }
+              },
+              {
+                "@Num": "8",
+                "ArticleCaption": "（精度の保持）",
+                "ArticleTitle": "第八条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "調査を行う者及び調査を監督する者は、常に各種の方法によつて検査を行い、調査が良好な精度を保つて行われるように留意しなければならない。"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "@Num": "2",
+            "ChapterTitle": "第二章　現地作業",
+            "Article": [
+              {
+                "@Num": "9",
+                "ArticleCaption": "（調査地点の表示）",
+                "ArticleTitle": "第九条",
+                "Paragraph": [
+                  {
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": "水質調査にあたつては、水基本調査準則第二十九条の規定により決定した位置に標くいを設置し、調査地点としての表示を行うものとする。"
+                    }
+                  },
+                  {
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": "標くいの形状は、別表第一に定めるところによる。"
+                    }
+                  }
+                ]
+              },
+              {
+                "@Num": "10",
+                "ArticleCaption": "（現地作業における観測）",
+                "ArticleTitle": "第十条",
+                "Paragraph": [
+                  {
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": "現地作業における観測は、次の各号に掲げる項目について行うものとする。"
+                    },
+                    "Item": [
+                      {
+                        "@Num": "1",
+                        "ItemTitle": "一",
+                        "ItemSentence": {
+                          "Sentence": "外観及び味、におい"
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "ItemTitle": "二",
+                        "ItemSentence": {
+                          "Sentence": "天候"
+                        }
+                      },
+                      {
+                        "@Num": "3",
+                        "ItemTitle": "三",
+                        "ItemSentence": {
+                          "Sentence": "気温"
+                        }
+                      },
+                      {
+                        "@Num": "4",
+                        "ItemTitle": "四",
+                        "ItemSentence": {
+                          "Sentence": "水温"
+                        }
+                      },
+                      {
+                        "@Num": "5",
+                        "ItemTitle": "五",
+                        "ItemSentence": {
+                          "Sentence": "ｐＨ（ピーエツチ）"
+                        }
+                      },
+                      {
+                        "@Num": "6",
+                        "ItemTitle": "六",
+                        "ItemSentence": {
+                          "Sentence": "電導度又は比抵抗"
+                        }
+                      },
+                      {
+                        "@Num": "7",
+                        "ItemTitle": "七",
+                        "ItemSentence": {
+                          "Sentence": "濁度"
+                        }
+                      },
+                      {
+                        "@Num": "8",
+                        "ItemTitle": "八",
+                        "ItemSentence": {
+                          "Sentence": "溶存酸素ガス"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": "前項第八号の観測は、国土交通大臣の定める基準に従つて省略することができる。"
+                    }
+                  },
+                  {
+                    "@Num": "3",
+                    "ParagraphNum": "３",
+                    "ParagraphSentence": {
+                      "Sentence": "湖沼及び貯水池においては、透明度の観測をあわせて行うものとする。"
+                    }
+                  },
+                  {
+                    "@Num": "4",
+                    "ParagraphNum": "４",
+                    "ParagraphSentence": {
+                      "Sentence": "観測の内容及び方法は、別表第二に定めるところによる。"
+                    }
+                  },
+                  {
+                    "@Num": "5",
+                    "ParagraphNum": "５",
+                    "ParagraphSentence": {
+                      "Sentence": "観測に使用する主要な試薬及び標準溶液の作成の方法は、別表第四に定めるところによる。"
+                    }
+                  },
+                  {
+                    "@Num": "6",
+                    "ParagraphNum": "６",
+                    "ParagraphSentence": {
+                      "Sentence": "観測の結果の表示の方法は、別表第五に定めるところによる。"
+                    }
+                  }
+                ]
+              },
+              {
+                "@Num": "11",
+                "ArticleCaption": "（採水回数の基準）",
+                "ArticleTitle": "第十一条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "調査にあたつては、各調査地点につき原則として毎月一回以上採水し、二箇年から三箇年の間継続して実施するものとする。"
+                  }
+                }
+              },
+              {
+                "@Num": "12",
+                "ArticleCaption": "（採水の方法）",
+                "ArticleTitle": "第十二条",
+                "Paragraph": [
+                  {
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": "河川又は水路にあつては、調査地点において、流心部と思われる場所を選び、その場所において採水を行うものとする。"
+                    }
+                  },
+                  {
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": "湖沼及び貯水池にあつては、成層状態を調査し、成層の状況に応じて、層別の採水を行うものとする。"
+                    }
+                  },
+                  {
+                    "@Num": "3",
+                    "ParagraphNum": "３",
+                    "ParagraphSentence": {
+                      "Sentence": "地下水にあつては、つとめて新鮮な状態にして採水を行うものとする。"
+                    }
+                  }
+                ]
+              },
+              {
+                "@Num": "13",
+                "ArticleCaption": "（採水の量）",
+                "ArticleTitle": "第十三条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "採水の量は、第十九条第一項第一号から第二十一号までの項目について分析を行うときは、おおむね二・五リツトルとし、二リツトル程度のビン及び〇・五リツトル程度のポリエチレン製のビン（以下「試水ビン」という。）にわけて採水するを原則とし、第十九条第一項第二十二号から第二十五号までの項目については、それぞれ必要な量を採水するものとする。"
+                  }
+                }
+              },
+              {
+                "@Num": "14",
+                "ArticleCaption": "（採水上の注意）",
+                "ArticleTitle": "第十四条",
+                "Paragraph": [
+                  {
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": "採水に用いる器具及び試水ビンは、清浄なものを用いなければならない。"
+                    }
+                  },
+                  {
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": "試水ビンには、採水後、直ちに採水場所、日時等を記載した標識を添付しなければならない。"
+                    }
+                  },
+                  {
+                    "@Num": "3",
+                    "ParagraphNum": "３",
+                    "ParagraphSentence": {
+                      "Sentence": "試水は、必要ある場合は、各項目につきそれぞれ適当な処理を行わなければならない。"
+                    }
+                  }
+                ]
+              },
+              {
+                "@Num": "15",
+                "ArticleCaption": "（試水の運搬）",
+                "ArticleTitle": "第十五条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "試水ビンは、運搬にあたり破損等の事故を防ぐため、木のわくを作るなどの処置を講じて、すみやかに分析及び試験を行う場所に運搬するものとする。"
+                  }
+                }
+              },
+              {
+                "@Num": "16",
+                "ArticleCaption": "（野帳の記載）",
+                "ArticleTitle": "第十六条",
+                "Paragraph": [
+                  {
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": "現地作業を行うにあたつては、そのつど、観測日時、現地における観測状況その他必要な事項を野帳に記載するものとする。"
+                    }
+                  },
+                  {
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": "野帳の様式は、国土交通大臣が定める。"
+                    }
+                  }
+                ]
+              },
+              {
+                "@Num": "17",
+                "ArticleCaption": "（再調査）",
+                "ArticleTitle": "第十七条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "現地作業は、その日ごとにその結果を整理確認し、必要ある場合は、再調査を行わなければならない。"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "@Num": "3",
+            "ChapterTitle": "第三章　室内分析作業",
+            "Article": [
+              {
+                "@Num": "18",
+                "ArticleCaption": "（試水の管理）",
+                "ArticleTitle": "第十八条",
+                "Paragraph": [
+                  {
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": "分析及び試験を行う場所に運搬された試水ビンには、直ちに整理番号、採水の場所及び日時並びに採水時の気温、水温等を記載した標識を新たに添付するものとする。"
+                    }
+                  },
+                  {
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": "試水の管理にあたつては、次の各号に掲げる事項に留意しなければならない。"
+                    },
+                    "Item": [
+                      {
+                        "@Num": "1",
+                        "ItemTitle": "一",
+                        "ItemSentence": {
+                          "Sentence": "直射日光をさけること。"
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "ItemTitle": "二",
+                        "ItemSentence": {
+                          "Sentence": [
+                            {
+                              "@Function": "main",
+                              "@Num": "1",
+                              "#text": "なるべく冷暗所に清潔に保管すること。"
+                            },
+                            {
+                              "@Function": "proviso",
+                              "@Num": "2",
+                              "#text": "ただし、凍結しないようにすること。"
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Num": "3",
+                    "ParagraphNum": "３",
+                    "ParagraphSentence": {
+                      "Sentence": "試水は、原則として分析及び試験の終了後も作業が適正に行われたことを確認するまで保存するものとする。"
+                    }
+                  }
+                ]
+              },
+              {
+                "@Num": "19",
+                "ArticleCaption": "（試水の分析及び試験）",
+                "ArticleTitle": "第十九条",
+                "Paragraph": [
+                  {
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": "室内分析作業における分析及び試験は、試水について次の各号に掲げる項目につき、なるべくすみやかに行うものとする。"
+                    },
+                    "Item": [
+                      {
+                        "@Num": "1",
+                        "ItemTitle": "一",
+                        "ItemSentence": {
+                          "Sentence": "ｐＨ（ピーエツチ）"
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "ItemTitle": "二",
+                        "ItemSentence": {
+                          "Sentence": "ＲｐＨ（アールピーエツチ）"
+                        }
+                      },
+                      {
+                        "@Num": "3",
+                        "ItemTitle": "三",
+                        "ItemSentence": {
+                          "Sentence": "全蒸発残留物"
+                        }
+                      },
+                      {
+                        "@Num": "4",
+                        "ItemTitle": "四",
+                        "ItemSentence": {
+                          "Sentence": "溶解性蒸発残留物"
+                        }
+                      },
+                      {
+                        "@Num": "5",
+                        "ItemTitle": "五",
+                        "ItemSentence": {
+                          "Sentence": "懸濁物"
+                        }
+                      },
+                      {
+                        "@Num": "6",
+                        "ItemTitle": "六",
+                        "ItemSentence": {
+                          "Sentence": "ナトリウムイオン"
+                        }
+                      },
+                      {
+                        "@Num": "7",
+                        "ItemTitle": "七",
+                        "ItemSentence": {
+                          "Sentence": "カリウムイオン"
+                        }
+                      },
+                      {
+                        "@Num": "8",
+                        "ItemTitle": "八",
+                        "ItemSentence": {
+                          "Sentence": "ＥＤＴＡ硬度"
+                        }
+                      },
+                      {
+                        "@Num": "9",
+                        "ItemTitle": "九",
+                        "ItemSentence": {
+                          "Sentence": "カルシウムイオン"
+                        }
+                      },
+                      {
+                        "@Num": "10",
+                        "ItemTitle": "十",
+                        "ItemSentence": {
+                          "Sentence": "マグネシウムイオン"
+                        }
+                      },
+                      {
+                        "@Num": "11",
+                        "ItemTitle": "十一",
+                        "ItemSentence": {
+                          "Sentence": "塩素イオン"
+                        }
+                      },
+                      {
+                        "@Num": "12",
+                        "ItemTitle": "十二",
+                        "ItemSentence": {
+                          "Sentence": "硫酸イオン"
+                        }
+                      },
+                      {
+                        "@Num": "13",
+                        "ItemTitle": "十三",
+                        "ItemSentence": {
+                          "Sentence": "アルカリ度（ｐＨ四・三アルカリ度（ブロムクレゾールグリーンアルカリ度）及びｐＨ八・四アルカリ度（フエノールフタレインアルカリ度））"
+                        }
+                      },
+                      {
+                        "@Num": "14",
+                        "ItemTitle": "十四",
+                        "ItemSentence": {
+                          "Sentence": "酸度（ｐＨ四・三酸度（ブロムクレゾールグリーン酸度）及びｐＨ八・四酸度（フエノールフタレイン酸度））"
+                        }
+                      },
+                      {
+                        "@Num": "15",
+                        "ItemTitle": "十五",
+                        "ItemSentence": {
+                          "Sentence": "ケイ酸（比色ケイ酸）"
+                        }
+                      },
+                      {
+                        "@Num": "16",
+                        "ItemTitle": "十六",
+                        "ItemSentence": {
+                          "Sentence": "鉄（酸可溶性鉄）"
+                        }
+                      },
+                      {
+                        "@Num": "17",
+                        "ItemTitle": "十七",
+                        "ItemSentence": {
+                          "Sentence": "リン（可溶性リン）"
+                        }
+                      },
+                      {
+                        "@Num": "18",
+                        "ItemTitle": "十八",
+                        "ItemSentence": {
+                          "Sentence": "亜硝酸イオン"
+                        }
+                      },
+                      {
+                        "@Num": "19",
+                        "ItemTitle": "十九",
+                        "ItemSentence": {
+                          "Sentence": "硝酸イオン"
+                        }
+                      },
+                      {
+                        "@Num": "20",
+                        "ItemTitle": "二十",
+                        "ItemSentence": {
+                          "Sentence": "アンモニウムイオン"
+                        }
+                      },
+                      {
+                        "@Num": "21",
+                        "ItemTitle": "二十一",
+                        "ItemSentence": {
+                          "Sentence": "化学的酸素消費量（過マンガン酸カリウム法）"
+                        }
+                      },
+                      {
+                        "@Num": "22",
+                        "ItemTitle": "二十二",
+                        "ItemSentence": {
+                          "Sentence": "生物化学的酸素消費量（ＢＯＤ）"
+                        }
+                      },
+                      {
+                        "@Num": "23",
+                        "ItemTitle": "二十三",
+                        "ItemSentence": {
+                          "Sentence": "バクテリヤ類"
+                        }
+                      },
+                      {
+                        "@Num": "24",
+                        "ItemTitle": "二十四",
+                        "ItemSentence": {
+                          "Sentence": "プランクトン"
+                        }
+                      },
+                      {
+                        "@Num": "25",
+                        "ItemTitle": "二十五",
+                        "ItemSentence": {
+                          "Sentence": "その他水質の特性を明らかにするため必要な項目"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": "前項の項目は、国土交通大臣の定める基準に従つてその一部を省略することができる。"
+                    }
+                  },
+                  {
+                    "@Num": "3",
+                    "ParagraphNum": "３",
+                    "ParagraphSentence": {
+                      "Sentence": [
+                        {
+                          "@Function": "main",
+                          "@Num": "1",
+                          "#text": "分析及び試験の方法は、別表第三に定めるところによる。"
+                        },
+                        {
+                          "@Function": "proviso",
+                          "@Num": "2",
+                          "#text": "ただし、別表第三に定める方法が適用できない場合においては、その理由を明らかにして他の方法によることができる。"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "@Num": "4",
+                    "ParagraphNum": "４",
+                    "ParagraphSentence": {
+                      "Sentence": "分析及び試験に使用する主要な試薬及び標準溶液の作成の方法は、別表第四に定めるところによる。"
+                    }
+                  },
+                  {
+                    "@Num": "5",
+                    "ParagraphNum": "５",
+                    "ParagraphSentence": {
+                      "Sentence": "分析及び試験の結果の表示の方法は、別表第五に定めるところによる。"
+                    }
+                  }
+                ]
+              },
+              {
+                "@Num": "20",
+                "ArticleCaption": "（作業記録）",
+                "ArticleTitle": "第二十条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "分析及び試験の作業を行うにあたつては、作業記録を作成するものとする。"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "@Num": "4",
+            "ChapterTitle": "第四章　整理作業",
+            "Article": [
+              {
+                "@Num": "21",
+                "ArticleCaption": "（水質表及び水質平均値表）",
+                "ArticleTitle": "第二十一条",
+                "Paragraph": [
+                  {
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": "水質表は、現地作業及び室内分析作業の結果に基いて、各調査地点ごとに作成するものとする。"
+                    }
+                  },
+                  {
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": "水質平均値表は、前項の水質表に基いて、各調査地点ごとの平均値を求めて作成するものとする。"
+                    }
+                  },
+                  {
+                    "@Num": "3",
+                    "ParagraphNum": "３",
+                    "ParagraphSentence": {
+                      "Sentence": "水質表の様式は、別表第六、水質平均値表の様式は、別表第七に定めるところによる。"
+                    }
+                  }
+                ]
+              },
+              {
+                "@Num": "22",
+                "ArticleCaption": "（項目別水質分布図）",
+                "ArticleTitle": "第二十二条",
+                "Paragraph": [
+                  {
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": "項目別水質分布図（以下「分布図」という。）は、水質平均値表に記載された平均値を濃度によつて区分し、測量法（昭和二十四年法律第百八十八号）第二十七条第二項の規定により国土交通大臣の刊行した二十万分の一地勢図を基礎として、調査単位区域の特性に応じ少くとも二種以上の項目について作成し、水質の分布状況を明らかにするものとする。"
+                    }
+                  },
+                  {
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": "前項の濃度区分及び分布図の様式は、別表第八に定めるところによる。"
+                    }
+                  }
+                ]
+              },
+              {
+                "@Num": "23",
+                "ArticleCaption": "（水質説明書）",
+                "ArticleTitle": "第二十三条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "水質説明書は、別表第九に定めるところに従い、水質の特性について記載するものとする。"
+                  }
+                }
+              }
+            ]
+          }
+        ]
+      },
+      "SupplProvision": [
+        {
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この府令は、公布の日から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "昭和四九年六月二六日総理府令第三九号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この府令は、公布の日から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成元年三月一七日総理府令第一二号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この府令は、公布の日から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成一二年八月一四日総理府令第一〇三号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この府令は、内閣法の一部を改正する法律（平成十一年法律第八十八号）の施行の日（平成十三年一月六日）から施行する。"
+            }
+          }
+        }
+      ],
+      "AppdxTable": [
+        {
+          "AppdxTableTitle": "別表第一",
+          "TableStruct": {
+            "Table": {
+              "TableRow": {
+                "TableColumn": {
+                  "@BorderBottom": "none",
+                  "@BorderLeft": "none",
+                  "@BorderRight": "none",
+                  "@BorderTop": "none",
+                  "FigStruct": {
+                    "Fig": {
+                      "@src": ""
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        {
+          "AppdxTableTitle": "別表第二",
+          "TableStruct": {
+            "Table": {
+              "TableRow": [
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "項目"
+                    },
+                    {
+                      "Sentence": "試薬"
+                    },
+                    {
+                      "Sentence": "器具"
+                    },
+                    {
+                      "Sentence": "方法"
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": [
+                        "１　外観",
+                        "味及びにおい",
+                        "（１）　水の色",
+                        "イ　水色",
+                        "ロ　試水の色",
+                        "ハ　液の色",
+                        "（２）　懸濁物",
+                        "イ　性状",
+                        "ロ　色",
+                        "ハ　量",
+                        "（３）　沈殿物",
+                        "イ　質",
+                        "ロ　色",
+                        "ハ　量",
+                        "（４）　味",
+                        "（５）　におい",
+                        "イ　水色",
+                        "ロ　試水の色",
+                        "ハ　液の色",
+                        "（２）　懸濁物",
+                        "イ　性状",
+                        "ロ　色",
+                        "ハ　量",
+                        "（３）　沈殿物",
+                        "イ　質",
+                        "ロ　色",
+                        "ハ　量",
+                        "（４）　味",
+                        "（５）　におい"
+                      ]
+                    },
+                    {
+                      "Sentence": null
+                    },
+                    {
+                      "Sentence": null
+                    },
+                    {
+                      "Sentence": [
+                        "（１）　水色は、天然状態における水の色を肉眼によつて観察する。",
+                        "（２）　試水の色は、無色透明容器で水の色を肉眼によつて観察する。",
+                        "（３）　液の色は、無色透明容器で上澄の透明な液の色を肉眼によつて観察する。",
+                        "（４）　懸濁物、沈殿物については、無色透明容器で肉眼によつて観察する。",
+                        "（５）　味及びにおいについては、必要と認めたとき行う。",
+                        "（６）　水色以外の項目については、採水時及び採水後８ないし２４時間経過したときの２回観察するものとする。"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "２　気温"
+                    },
+                    {
+                      "Sentence": null
+                    },
+                    {
+                      "Sentence": "棒状水銀温度計（０．５又は０．２度目盛のもの）"
+                    },
+                    {
+                      "Sentence": "採水場所で日光の直射を避ける等の注意をして測定する。"
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "３　水温"
+                    },
+                    {
+                      "Sentence": null
+                    },
+                    {
+                      "Sentence": [
+                        "１　棒状水銀温度計（０．５又は０．２度目盛のもの）",
+                        "２　エクマン転倒温度計",
+                        "３　電気抵抗温度計",
+                        "上記のうちいずれか。"
+                      ]
+                    },
+                    {
+                      "Sentence": "温度計を水中にじゆうぶん長くひたし、温度平衡に至らしめてから測定する。棒状水銀温度計にあつては、水銀柱は水中にあるようにして測定する。"
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": [
+                        "４　ｐＨ",
+                        "Ｉ　比色法"
+                      ]
+                    },
+                    {
+                      "Sentence": [
+                        "ｐＨ指示薬",
+                        "ＢＣＧ（ブロムクレゾールグリーン）",
+                        "ＢＴＢ（ブロムチモールブルー）",
+                        "ＰＲ（フエノールレツド）",
+                        "その他適宜"
+                      ]
+                    },
+                    {
+                      "Sentence": "比色による　ｐＨ測定器（比色管を用いるもの）"
+                    },
+                    {
+                      "Sentence": "採水時、試水中のガスの出入を小さくするように注意して、すみやかに試水５ｍｌを比色管にとり、ｐＨ指示薬を加え、その色を標準色（ｐＨ０．２おきに区分したもの）と比べる。ただし、試水のｐＨが２種のｐＨ指示薬の測定範囲にある時は両者を共に用いる。"
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "ＩＩ　電気的方法（ガラス電極法）"
+                    },
+                    {
+                      "Sentence": "ｐＨ標準緩衝溶液"
+                    },
+                    {
+                      "Sentence": "ガラス電極によるｐＨ測定器"
+                    },
+                    {
+                      "Sentence": "標準ｐＨ緩衝溶液でじゆうぶん検定してから測定する。"
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "５　電導度"
+                    },
+                    {
+                      "Sentence": "電導度標準溶液"
+                    },
+                    {
+                      "Sentence": "電導度計"
+                    },
+                    {
+                      "Sentence": "採水場所において電極部を水中にひたして測定する。この場合、水温をあわせて測定するものとする。なお、電極恒数は調査の開始前及び終了後において検定しなければならない。また電導度は、１８℃電導度に換算する。この場合の換算係数は、附図の図表によつて求める。"
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "６　濁度"
+                    },
+                    {
+                      "@rowspan": "2",
+                      "Sentence": "濁度標準溶液"
+                    },
+                    {
+                      "@rowspan": "2",
+                      "Sentence": [
+                        "暗箱",
+                        "比色管"
+                      ]
+                    },
+                    {
+                      "@rowspan": "2",
+                      "Sentence": "試水１００ｍｌを比色管にとり、その濁りを、特定の濁度標準溶液と比べる。"
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": {
+                    "Sentence": "Ｉ　白陶土法"
+                  }
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "ＩＩ　透過光法"
+                    },
+                    {
+                      "Sentence": null
+                    },
+                    {
+                      "Sentence": "濁度計"
+                    },
+                    {
+                      "Sentence": "採水場所において国土調査型濁度計によつて測定する。"
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "７　透明度"
+                    },
+                    {
+                      "Sentence": null
+                    },
+                    {
+                      "Sentence": "直径３０ｃｍの白色円板円"
+                    },
+                    {
+                      "Sentence": "板を水中に沈め、それが見えなくなるまでの深さを求める。"
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "８　溶存酸素ガス"
+                    },
+                    {
+                      "Sentence": [
+                        "（１）　硫酸マンガン（ＭｎＳＯ４）溶液（硫酸マンガン１００ｇを蒸留水に溶かして２５０ｍｌとしたもの）",
+                        "（２）　ヨウ化カリウム（ＫＩ）水酸化ナトリウム（ＮａＯＨ）溶液（水酸化ナトリウム１００ｇとヨウ化カリウム３０ｇとを蒸留水に溶かして２００ｍｌとしたもの）",
+                        "（３）　塩酸（ＨＣｌ）（（１＋１）及び（１＋３））",
+                        "（４）　デンプン溶液",
+                        "（５）　０．０２００規定チオ硫酸ナトリウム（Ｎａ２Ｓ２Ｏ３・５Ｈ２Ｏ）滴定液",
+                        "（６）　０．１００規定ヨウ素酸カリウム（ＫＩＯ３）標準溶液",
+                        "（７）　ヨウ化カリウム（ＫＩ）の固体"
+                      ]
+                    },
+                    {
+                      "Sentence": [
+                        "酸素ビン",
+                        "（容量　１００ｍｌ前後）"
+                      ]
+                    },
+                    {
+                      "Sentence": "試水を酸素ビンにとり、硫酸マンガン溶液０．５ｍｌを加え、次にヨウ化カリウム・水酸化ナトリウム溶液０．５ｍｌを加えてすばやく密センし、ビンを上下に転倒した後、３０分間以上放置する。生じた沈殿を塩酸に溶かし、デンプンを指示薬としてチオ硫酸ナトリウム溶液で滴定する。（ウインクラー法）"
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        },
+        {
+          "AppdxTableTitle": "別表第三",
+          "TableStruct": {
+            "Table": {
+              "TableRow": [
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "項目"
+                    },
+                    {
+                      "Sentence": "試薬"
+                    },
+                    {
+                      "Sentence": "器具"
+                    },
+                    {
+                      "Sentence": "操作の要点"
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "１　ｐＨ"
+                    },
+                    {
+                      "Sentence": "別表第二ｐＨの項に準ずる。"
+                    },
+                    {
+                      "Sentence": "別表第二ｐＨの項に準ずる。"
+                    },
+                    {
+                      "Sentence": "別表第二ｐＨの項に準ずる。"
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "２　ＲｐＨ"
+                    },
+                    {
+                      "Sentence": "ｐＨの項と同じ。"
+                    },
+                    {
+                      "Sentence": "ｐＨの項と同じ。"
+                    },
+                    {
+                      "Sentence": "試水２０ないし５０ｍｌをとり、新鮮な空気を１０分間じゆうぶんに通じた後ｐＨの場合に準じて測定する。"
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "３　全蒸発残留物"
+                    },
+                    {
+                      "Sentence": null
+                    },
+                    {
+                      "Sentence": "蒸発ザラ"
+                    },
+                    {
+                      "Sentence": "試水ビンをよく振とうし、試水１００ｍｌを蒸発ザラにとり蒸発乾固し、１０５℃ないし１１０℃で１時間乾燥、３０分間冷却を繰返し恒量とする。この場合ヒョウ量値の差が、０．５ｍｇ以内をもつて恒量とみなす。１１０℃で乾固しない場合は、温度を１８０℃とする。"
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "〇４　溶解性蒸発残留物"
+                    },
+                    {
+                      "Sentence": null
+                    },
+                    {
+                      "Sentence": null
+                    },
+                    {
+                      "Sentence": "試水をロ紙（東洋ロ紙５Ｃに相当するもの）でロ過し、ロ液の１００ｍｌをとり、前項に準じてロ液の蒸発残留物を測定する。この場合採水日とロ過を行う日との間の経過日数を各採水群について、同一に保つことが望ましい。"
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "@rowspan": "2",
+                      "Sentence": "５　懸濁物"
+                    },
+                    {
+                      "@rowspan": "2",
+                      "Sentence": null
+                    },
+                    {
+                      "@rowspan": "2",
+                      "Sentence": null
+                    },
+                    {
+                      "Sentence": "次式による計算を行つて求める。"
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": {
+                    "Sentence": "（懸濁物）＝（全蒸発残留物）－（溶解性蒸発残留物）"
+                  }
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "〇６　ナトリウムイオン"
+                    },
+                    {
+                      "Sentence": null
+                    },
+                    {
+                      "Sentence": "炎光光度計"
+                    },
+                    {
+                      "Sentence": "炎光分析法によつて行う。"
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "〇７　カリウムイオン"
+                    },
+                    {
+                      "Sentence": null
+                    },
+                    {
+                      "Sentence": "炎光光度計炎"
+                    },
+                    {
+                      "Sentence": "光分析法によつて行う。"
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "〇８　ＥＤＴＡ硬度（Ｃａ＋Ｍｇ）"
+                    },
+                    {
+                      "Sentence": [
+                        "（１）　０．０１００ｍｏｌ　ＥＤＴＡ滴定液",
+                        "（２）　塩化アンモニウム（ＮＨ４Ｃｌ）緩衝溶液",
+                        "（３）　ＥＢＴ指示薬",
+                        "（４）　硫化ナトリウム（Ｎａ２１Ｓ・９Ｈ２Ｏ）５％溶液"
+                      ]
+                    },
+                    {
+                      "Sentence": null
+                    },
+                    {
+                      "Sentence": "試水２０ないし５０ｍｌをとりそのｐＨ４．３アルカリ度に当量の塩酸を加え、かくはんして、炭酸ガスを追い出し、０．０１００ｍｏｌ　ＥＤＴＡ溶液を滴定量の約９０％加えておき、次に緩衝溶液１ｍｌ、硫化ナトリウム溶液１ｍｌ、ＥＢＴ指示薬数滴を加え、さらに０．０１００ｍｏｌ　ＥＤＴＡ溶液を滴下し、終点を求める。"
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": [
+                        "〇９　カルシウムイオン",
+                        "Ｉ　ＥＤＴＡ法"
+                      ]
+                    },
+                    {
+                      "Sentence": [
+                        "（１）　０．０５００規定カルシウムイオン標準溶液",
+                        "（２）　０．０１００ｍｏｌ　ＥＤＴＡ　滴定液",
+                        "（３）　水酸化ナトリウム（ＮａＯＨ）１０％溶液",
+                        "（４）　ムレキサイド、塩化ナトリウム混合指示薬",
+                        "（５）　硫化ナトリウム５％溶液"
+                      ]
+                    },
+                    {
+                      "Sentence": null
+                    },
+                    {
+                      "Sentence": [
+                        "（１）　０．０１００ｍｏｌ　ＥＤＴＡ溶液の濃度は、０．０５００規定カルシウムイオン標準溶液によつて定める。",
+                        "（２）　試水２０ないし５０ｍｌをとりそのｐＨ４．３アルカリ度に当量の塩酸を加え、かくはんして、炭酸ガスを追い出し、次に水酸化ナトリウム溶液１ｍｌ、硫化ナトリウム溶液１ｍｌ、ムレキサイド・塩化ナトリウム混合指示薬　０．２ｇを加え、０．０１００ｍｏｌＥＤＴＡ溶液で滴定する。"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "ＩＩ　過マンガン酸カリウム（ＫＭｎＯ４）滴定法"
+                    },
+                    {
+                      "Sentence": [
+                        "（１）　０．０１００規定過マンガン酸カリウム（ＫＭｎＯ４）滴定液",
+                        "（２）　０．０１００規定シュウ酸ナトリウム（Ｎａ２Ｃ２Ｏ４）　標準溶液",
+                        "（３）　シユウ酸アンモニウム（（ＮＨ４）２（ＣＯＯ）２）４％　溶液",
+                        "（４）　硫酸　（Ｈ２ＳＯ４）（１＋２）",
+                        "（５）　メチルレツド指示薬",
+                        "（６）　塩酸（ＨＣｌ）（１＋１）",
+                        "（７）　６規定アンモニア水（ＮＨ４ＯＨ）"
+                      ]
+                    },
+                    {
+                      "Sentence": null
+                    },
+                    {
+                      "Sentence": [
+                        "（１）　０．０１００規定過マンガン酸カリウム滴定液の濃度は、０．０１００規定シユウ酸ナトリウム標準溶液で定める。",
+                        "（２）　試水２０ないし５０ｍｌをとり塩酸１ｍｌ　を加えて熱し、メチルレツド数滴、４％シュウ酸アンモニウム２ｍｌ　を加える。次にアンモニア水で中和し、約３時間放冷後生じたシユウ酸カルシウムの沈殿をロ別し、沈殿を硫酸に溶かして、約７０℃にあたため、０．０１００規定過マンガン酸カリウムで滴定する。"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": [
+                        "〇１０　マグネシウムイオン",
+                        "Ｉ　計算法"
+                      ]
+                    },
+                    {
+                      "Sentence": null
+                    },
+                    {
+                      "Sentence": null
+                    },
+                    {
+                      "Sentence": "ＥＤＴＡ硬度からカルシウムイオンをさし引く。"
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "ＩＩ　ＥＤＴＡ法"
+                    },
+                    {
+                      "Sentence": [
+                        "（１）　０．０１００ｍｏｌ　ＥＤＴＡ滴定液",
+                        "（２）　塩酸　（ＨＣｌ）（１＋１）溶液",
+                        "（３）　ＥＢＴ　指示薬"
+                      ]
+                    },
+                    {
+                      "Sentence": null
+                    },
+                    {
+                      "Sentence": "カルシウムイオンをムレキサイドを指示薬としてＥＤＴＡで滴定後、塩酸でｐＨを９ないし１０にし、ＥＢＴ　を指示薬として　０．０１００ｍｏｌＥＤＴＡ溶液で滴定する。"
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "ＩＩＩ　比色法"
+                    },
+                    {
+                      "Sentence": [
+                        "（１）　マグネシウムイオン比色標準溶液（１０ｍｇ　Ｍｇ／ｌ）",
+                        "（２）　チタン黄（Ｃ２８Ｈ１９Ｎ５Ｓ２（ＳＯ３Ｎａ）２）０．１５％溶液",
+                        "（３）　１規定水酸化ナトリウム（ＮａＯＨ）溶液",
+                        "（４）　塩化カルシウム　（ＣａＣｌ２・２Ｈ２Ｏ）３％溶液",
+                        "（５）　塩酸ヒドロキシルアミン（ＮＨ２ＯＨ・ＨＣｌ）５％溶液"
+                      ]
+                    },
+                    {
+                      "Sentence": "ネスラー比色管"
+                    },
+                    {
+                      "Sentence": "試水２０ｍｌをとり塩酸ヒドロキシルアミン溶液　１ｍｌ、塩化カルシウム溶液１．００ｍｌ、チタン黄１．００ｍｌ、水酸化ナトリウム３ｍｌを加え、１０分間経過後、同様に処理した標準溶液の発色とネスラー比色管で比較する。"
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": [
+                        "〇１１　塩素イオン",
+                        "Ｉ　モールの滴定法"
+                      ]
+                    },
+                    {
+                      "Sentence": [
+                        "（１）　０．０２００規定塩化ナトリウム（ＮａＣｌ）標準溶液",
+                        "（２）　０．０２００規定硝酸銀（ＡｇＮＯ３）滴定液",
+                        "（３）　クロム酸カリウム（Ｋ２ＣｒＯ４）４％溶液"
+                      ]
+                    },
+                    {
+                      "Sentence": null
+                    },
+                    {
+                      "Sentence": [
+                        "（１）　０．０２００規定硝酸銀滴定液の濃度は、０．０２００規定塩化ナトリウム標準溶液によつて定める。",
+                        "（２）　試水２０ｍｌにクロム酸カリウム溶液１ｍｌを加え、０．０２００規定硝酸銀溶液で滴定する。",
+                        "（３）　この方法は９ｍｇＣｌ－／ｌ以上に適用する。"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "ＩＩ　比色法"
+                    },
+                    {
+                      "Sentence": [
+                        "（１）　塩化ナトリウム（ＮａＣｌ）比色標準溶液　（２０ｍｇＣｌ－／ｌ）",
+                        "（２）　０．３％チオシアン酸水銀（Ｈｇ（ＣＮＳ）２）アルコール溶液",
+                        "（３）　鉄ミヨウバン（ＮＨ４Ｆｅ（ＳＯ４）２・１２Ｈ２Ｏ）６％溶液"
+                      ]
+                    },
+                    {
+                      "Sentence": "ネスラー比色管"
+                    },
+                    {
+                      "Sentence": [
+                        "（１）　試水２０ｍｌを比色管にとり、チオシアン酸水銀アルコール溶液２．００ｍｌ、鉄ミヨウバン溶液　４．００ｍｌを加え、よく混合し、１０分間経過後同様に処理した標準溶液の発色と比較する。",
+                        "（２）　この方法は２０ｍｇＣｌ－／ｌ　以下に適用する。",
+                        "（３）　１０ｍｇ～２０ｍｇＣｌ－／ｌはいずれの方法でもよい。"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": [
+                        "〇１２　硫酸イオン",
+                        "Ｉ　比濁法"
+                      ]
+                    },
+                    {
+                      "Sentence": [
+                        "（１）　１規定塩酸（ＨＣｌ）",
+                        "（２）　塩化バリウム（ＢａＣｌ２・２Ｈ２Ｏ）・ゼラチン溶液",
+                        "（３）　硫酸カリウム（Ｋ２ＳＯ４）　比濁標準溶液"
+                      ]
+                    },
+                    {
+                      "Sentence": "ネスラー比色管"
+                    },
+                    {
+                      "Sentence": "試水２０ｍｌに、１規定塩酸（ＨＣｌ）０．５ｍｌ、塩化バリウム・ゼラチン溶液１ｍｌを加え、その濁りを同様に処理した標準溶液の濁りと比較する。なお、この方法は２０ｍｇＳＯ４２―／１以下の場合に適用する。"
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "ＩＩ　ＥＤＴＡ法"
+                    },
+                    {
+                      "Sentence": [
+                        "（１）　０．０１００ｍｏｌ　ＥＤＴＡ溶液",
+                        "（２）　０．０２００規定塩化マグネシウム（ＭｇＣｌ２・６Ｈ２Ｏ）滴定液",
+                        "（３）　０．０２００規定塩化バリウム（ＢａＣｌ２・２Ｈ２Ｏ）溶液",
+                        "（４）　ＥＢＴ指示薬",
+                        "（５）　塩化アンモニウム　（ＮＨ４Ｃｌ）・アンモニア　（ＮＨ４ＯＨ）緩衝溶液"
+                      ]
+                    },
+                    {
+                      "Sentence": null
+                    },
+                    {
+                      "Sentence": "試水５０ｍｌを陽イオン交換樹脂に通じ、通過液に一定量の０．０２００規定塩化バリウムを加え、加熱放冷後、過剰の　０．０１００ｍｏｌ　ＥＤＴＡ溶液と緩衝溶液を加え、ＥＢＴを指示薬として０．０２００規定塩化マグネシウム溶液で逆滴定する。"
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "ＩＩＩ　重量法"
+                    },
+                    {
+                      "Sentence": [
+                        "（１）　１規定塩酸（ＨＣｌ）",
+                        "（２）　塩化バリウム（ＢａＣｌ２２Ｈ２Ｏ）１０％溶液"
+                      ]
+                    },
+                    {
+                      "Sentence": null
+                    },
+                    {
+                      "Sentence": "試水１００ｍｌ　に１規定塩酸を加え、加熱して塩化バリウム溶液を加え、生じた硫酸バリウム　（ＢａＳＯ４）の沈殿を強熱ヒヨウ量する。"
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "ＩＶ　比色法"
+                    },
+                    {
+                      "Sentence": [
+                        "（１）　クロム酸バリウム（ＢａＣｒＯ４）酢酸（ＣＨ３ＣＯＯＨ）　懸濁法",
+                        "（２）　ジフエニルカルバジツド（Ｃ１３Ｈ１４Ｎ４Ｏ）アルコール溶液",
+                        "（３）　アンモニア性カルシウム溶液",
+                        "（４）　無水エチルアルコール（Ｃ２Ｈ５ＯＨ）",
+                        "（５）　６規定塩酸",
+                        "（６）　硫酸イオン比色標準溶液"
+                      ]
+                    },
+                    {
+                      "Sentence": [
+                        "デユボスク比色計",
+                        "光電比色計",
+                        "上記のうちいずれか。"
+                      ]
+                    },
+                    {
+                      "Sentence": "遠心沈殿管に試水５ｍｌ　をとり一様なクロム酸バリウム酢酸懸濁液２ｍｌ　を加え、約１分間振とうした後、アンモニア性カルシウム溶液０．５ｍｌ及びエチルアルコール５ｍｌを加え、約１分間振とうし、冷水中に５分間放置し、次に遠心分離して、その上澄液をガラスフイルターでロ過する。ロ液にジフエニルカルバジツドアルコール溶液１ｍｌと６規定塩酸０．７ｍｌを加えて、同様に処理した標準溶液の発色と５分間後に比較する。この場合、硫酸イオンが２０ｍｇ／ｌ以上存在するときは、ジフエニルカルバジツドを加えないでクロム酸イオンの黄色を比色する。"
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": [
+                        "〇１３　アルカリ度",
+                        "１３―１　ｐＨ４．３アルカリ度"
+                      ]
+                    },
+                    {
+                      "Sentence": [
+                        "（１）　０．０２００規定硫酸　（Ｈ２ＳＯ４）滴定液",
+                        "（１）　ブロムクレゾールグリーン（ＢＣＧ）指示薬"
+                      ]
+                    },
+                    {
+                      "Sentence": null
+                    },
+                    {
+                      "Sentence": "試水５０ｍｌをとり、ＢＣＧ　を指示薬とし、ｐＨ４．３を終点として０．０１９９規定硫酸で滴定する。"
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "１３―２　ｐＨ８．４アルカリ度"
+                    },
+                    {
+                      "Sentence": [
+                        "（１）　０．０２００規定硫酸（Ｈ２ＳＯ４）　滴定液",
+                        "（２）　フエノールフタレイン（ＰＰ）指示薬"
+                      ]
+                    },
+                    {
+                      "Sentence": null
+                    },
+                    {
+                      "Sentence": "試水５０ｍｌをとりフエノールフタレインを指示薬とし、ｐＨ８．４を終点として０．０２００規定硫酸で滴定する。"
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": [
+                        "〇１４　酸度",
+                        "１４―１　ｐＨ４．３酸度"
+                      ]
+                    },
+                    {
+                      "Sentence": [
+                        "（１）　０．０２００規定水酸化ナトリウム（ＮａＯＨ）滴定液",
+                        "（２）　ＢＣＧ指示薬"
+                      ]
+                    },
+                    {
+                      "Sentence": null
+                    },
+                    {
+                      "Sentence": "試水５０ｍｌをとり、ＢＣＧ　を指示薬とし、ｐＨ４．３を終点として０．０２００規定水酸化ナトリウム溶液で滴定する。"
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "１４―２　ｐＨ８．４酸度"
+                    },
+                    {
+                      "Sentence": [
+                        "（１）　０．０２００規定水酸化ナトリウム（ＮａＯＨ）滴定液",
+                        "（２）　フエノールフタレイン（ＰＰ）指示薬"
+                      ]
+                    },
+                    {
+                      "Sentence": null
+                    },
+                    {
+                      "Sentence": "試水５０ｍｌをとり、フエノールフタレインを指示薬とし、ｐＨ８．４を終点として０．０２００規定水酸化ナトリウム溶液で滴定する。"
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": [
+                        "〇１５　ケイ酸",
+                        "（比色ケイ酸）"
+                      ]
+                    },
+                    {
+                      "Sentence": [
+                        "（１）　モリブデン酸アンモニウム（５（ＮＨ４）２Ｏ・１２ＭｏＯ３・７Ｈ２Ｏ）１０％溶液",
+                        "（２）　塩酸（ＨＣｌ）（１＋３）",
+                        "（３）　クロム酸カリウム（Ｋ２ＣｒＯ４）代用比色標準溶液",
+                        "（４）　ケイフツ化ナトリウム（Ｎａ２ＳｉＦ６）比色標準溶液",
+                        "（５）　ケイ酸（ＳｉＯ２）比色標準溶液"
+                      ]
+                    },
+                    {
+                      "Sentence": [
+                        "デユボスク比色計",
+                        "光電比色計",
+                        "上記のうちいずれか。"
+                      ]
+                    },
+                    {
+                      "Sentence": "試水２０ｍｌにモリブデン酸アンモニウム１０％溶液　１ｍｌと塩酸　１ｍｌを加え、その発色を同様に処理したケイ酸比色標準溶液又はケイフツ化ナトリウム比色標準溶液あるいはクロム酸カリウム代用比色標準溶液の発色と比較する。"
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": [
+                        "１６　鉄",
+                        "（酸可溶性鉄）"
+                      ]
+                    },
+                    {
+                      "Sentence": [
+                        "（１）　塩酸（ＨＣｌ）（１＋１）",
+                        "（２）　オルソフエナンスロリン（Ｃ１２Ｈ８Ｎ２・Ｈ２Ｏ）０．１％溶液",
+                        "（３）　塩酸ヒドロキシルアミン１０％溶液",
+                        "（４）　酢酸ナトリウム・酢酸緩衝溶液",
+                        "（５）　鉄比色標準溶液"
+                      ]
+                    },
+                    {
+                      "Sentence": [
+                        "ネスラー比色管",
+                        "デュボスク比色計",
+                        "光電比色計",
+                        "上記のうちいずれか。"
+                      ]
+                    },
+                    {
+                      "Sentence": "試水５０ｍｌに塩酸５ｍｌを加え、５分間煮沸し、放冷後、塩酸ヒドロキシルアミン１０％溶液１ｍｌ、次に酢酸ナトリウム・酢酸緩衝溶液５ｍｌ及びオルソフエナンスロリン溶液５ｍｌを加えその発色を同様に処理した鉄比色標準溶液の発色と比較する。"
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": [
+                        "１７　リン",
+                        "（可溶性リン）"
+                      ]
+                    },
+                    {
+                      "Sentence": [
+                        "（１）　モリブデン酸アンモニウム・硫酸混液",
+                        "（２）　塩化第一スズ（ＳｎＣｌ２・２Ｈ２Ｏ）０．５％溶液",
+                        "（３）　リン比色標準溶液"
+                      ]
+                    },
+                    {
+                      "Sentence": [
+                        "ネスラー比色管",
+                        "デユボスク比色計",
+                        "光電比色計",
+                        "上記のうちいずれか。"
+                      ]
+                    },
+                    {
+                      "Sentence": "試水２０ｍｌにモリブデン酸アンモニウム・硫酸混液０．４ｍｌ、塩化第一スズ溶液１滴を加え、その発色を同様に処理したリン比色標準溶液の発色と比較する。"
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "１８　亜硝酸イオン"
+                    },
+                    {
+                      "Sentence": [
+                        "（１）　グリースロミイン試薬",
+                        "（２）　亜硝酸比色標準溶液"
+                      ]
+                    },
+                    {
+                      "Sentence": [
+                        "ネスラー比色管",
+                        "デユボスク比色計",
+                        "光電比色計",
+                        "上記のうちいずれか。"
+                      ]
+                    },
+                    {
+                      "Sentence": "試水２０ｍｌにグリースロミイン試薬０．２ｇを加え、その発色を、同様に処理した亜硝酸比色標準溶液の発色と比較する。"
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": [
+                        "１９　硝酸イオン",
+                        "Ｉ　ジフエニルアミン法"
+                      ]
+                    },
+                    {
+                      "Sentence": [
+                        "（１）　ジフエニルアミン（（Ｃ６Ｈ５）２ＮＨ）・硫酸溶液",
+                        "（２）　塩化ナトリウム飽和溶液",
+                        "（３）　硝酸イオン比色標準溶液"
+                      ]
+                    },
+                    {
+                      "Sentence": [
+                        "デュボスク比色計",
+                        "光電比色計",
+                        "上記のうちいずれか。"
+                      ]
+                    },
+                    {
+                      "Sentence": "試水１ｍｌに１滴の飽和食塩水を加え、さらにジフエニルアミン溶液４ｍｌを加えて冷却し、同様に処理した標準溶液の発色と１時間後に比較する。なお、亜硝酸イオンがあるときは、それを分解してから比色する。"
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "ＩＩ　フエノールジスルホン酸法"
+                    },
+                    {
+                      "Sentence": [
+                        "（１）　フエノールジスルホン酸（Ｃ６Ｈ３ＯＨ（ＳＯ３Ｈ）２）・硝酸溶液",
+                        "（２）　硫酸銀（Ａｇ２ＳＯ４）溶液",
+                        "（３）　１２規定水酸化カリウム（ＫＯＨ）溶液",
+                        "（４）　水酸化アルミニウム（Ａｌ（ＯＨ）３）",
+                        "（５）　０．１００規定硫酸",
+                        "（６）　過酸化水素（Ｈ２Ｏ２）水（約２８％）",
+                        "（７）　硫酸イオン比色標準溶液"
+                      ]
+                    },
+                    {
+                      "Sentence": [
+                        "デュボスク比色計",
+                        "光電比色計",
+                        "上記のうちいずれか。"
+                      ]
+                    },
+                    {
+                      "Sentence": "試水５０ｍｌを磁製ザラにとり、水浴上で蒸発乾固し、フエノールジスルホン酸硫酸溶液２ｍｌを加えてかくはん後、蒸留水１０ｍｌを加え、さらに水酸化カリウム溶液２ないし５ｍｌを加えて、その発色を同様に処理した標準溶液の色と比較する。この場合、多量の塩素イオン、亜硝酸イオンが存在するときは、前処理を行わなければならない。"
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "ＩＩＩ　アニリン法"
+                    },
+                    {
+                      "Sentence": [
+                        "（１）　酢酸アニリン溶液",
+                        "（２）　αナフチルアミン溶液（Ｃ１０Ｈ７ＮＨ２）",
+                        "（３）　粉末亜鉛（Ｚｎ）",
+                        "（４）　酢酸ナトリウム（ＣＨ３・ＣＯＯＮａ）",
+                        "（５）　塩酸・酢酸混液",
+                        "（６）　硝酸イオン比色標準溶液"
+                      ]
+                    },
+                    {
+                      "Sentence": "同上"
+                    },
+                    {
+                      "Sentence": "試水３０ｍｌに酢酸アニリン溶液２ｍｌを加え、煮沸寸前まで加熱し、直ちに１５℃以下に冷却し、酢酸ナトリウム１ｇ、粉末亜鉛２ｇを加えてよく振とうする。１０分間放置した後ロ過し、ロ液に塩酸・酢酸混液２ｍｌを加え、５ないし６分間放置して、次にαナフチルアミン溶液１ｍｌを加え、同様に処理した標準溶液の発色と３０分間後に比較する。"
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "２０　アンモニウムイオン"
+                    },
+                    {
+                      "Sentence": [
+                        "（１）　ネスラー試薬",
+                        "（２）　酒石酸カリウムナトリウム溶液（ロツシエル塩（Ｃ４Ｈ４Ｏ６ＫＮａ・４Ｈ２Ｏ）５０ｇを蒸留水１００ｍｌに溶かしたもの）",
+                        "（３）　アンモニウム比色標準溶液",
+                        "（４）　代用比色標準溶液"
+                      ]
+                    },
+                    {
+                      "Sentence": [
+                        "ネスラー比色管",
+                        "光電比色計",
+                        "上記のうちいずれか。"
+                      ]
+                    },
+                    {
+                      "Sentence": "試水２０ｍｌに酒石酸カリウムナトリウム溶液０．５ｍｌ及びネスラー試薬０．５ｍｌを加え、その発色を同様に処理した比色標準溶液又は代用比色標準溶液の色と比較する。"
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "２１　化学的酸素消費量（過マンガン酸カリウム法）"
+                    },
+                    {
+                      "Sentence": [
+                        "（１）　０．０１００規定過マンガン酸カリウム（ＫＭｎＯ４）溶液",
+                        "（２）　０．０１００規定シユウ酸（Ｃ２Ｈ２Ｏ４・２Ｈ２Ｏ）溶液",
+                        "（３）　硫酸（Ｈ２ＳＯ４）（１＋３）"
+                      ]
+                    },
+                    {
+                      "Sentence": null
+                    },
+                    {
+                      "Sentence": "試水５０ｍｌに硫酸５ｍｌ、０．０１００規定過マンガン酸カリウム溶液１０ｍｌを加え、煮沸水浴中に１５分間保つ。次に０．０１００規定シユウ酸１０ｍｌを加え、０．０１００規定過マンガン酸カリウム溶液で滴定する。"
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "２２　生物化学的酸素消費量"
+                    },
+                    {
+                      "Sentence": "（１）　希釈水"
+                    },
+                    {
+                      "Sentence": "フランビン"
+                    },
+                    {
+                      "Sentence": "希釈試水及び希釈水の溶存酸素ガスを定量し、これらを２０℃で５日間貯蔵した後の残存容存酸素ガスを定量し、５日間における酸素消費量を計算する。"
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": [
+                        "２３　バクテリア類",
+                        "２３－１　一般細菌数"
+                      ]
+                    },
+                    {
+                      "Sentence": "普通寒天培地"
+                    },
+                    {
+                      "Sentence": "ペトリーザラ"
+                    },
+                    {
+                      "Sentence": "試水１ｍｌに普通寒天培地約１．５ｍｌを混和し、３５℃ないし３７℃で２２時間ないし２５時間培養する。"
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "２３－２　大腸菌群"
+                    },
+                    {
+                      "Sentence": [
+                        "（１）　乳糖ブイヨン培地",
+                        "（２）　ＢＧＬＢ培地",
+                        "（３）　ＥＭＢ平板培地"
+                      ]
+                    },
+                    {
+                      "Sentence": [
+                        "発酵管",
+                        "ペトリーザラ"
+                      ]
+                    },
+                    {
+                      "Sentence": "試水１０ｍｌずつ５本、各希釈剤を培養し、推定試験、確定試験及び完全試験を行つて最確数を求める。"
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": [
+                        "２４　プランクトン",
+                        "Ｉ　沈殿法"
+                      ]
+                    },
+                    {
+                      "Sentence": "中性ホルマリン"
+                    },
+                    {
+                      "Sentence": "沈殿管"
+                    },
+                    {
+                      "Sentence": "試水１ｌをビーカーにとり、中性ホルマリン１ｍｌを加え、かくはん静置してプランクトンを沈殿させ、これを沈殿管に移して２３時間静置後、その容量を沈殿管の目盛によつて測定する。"
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "ＩＩ　ネツト法"
+                    },
+                    {
+                      "Sentence": null
+                    },
+                    {
+                      "Sentence": "プランクトンネツト"
+                    },
+                    {
+                      "Sentence": "プランクトンネツトを用いて一定量の試水をロ過する。"
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "２５　その他の項目"
+                    },
+                    {
+                      "@colspan": "3",
+                      "Sentence": "適宜の方法によつて実施してさしつかえない。ただし、方法を水質表の記事欄に明示すること。"
+                    }
+                  ]
+                }
+              ]
+            },
+            "Remarks": {
+              "RemarksLabel": {
+                "@LineBreak": "true",
+                "#text": "注"
+              },
+              "Item": [
+                {
+                  "@Num": "1",
+                  "ItemTitle": "１",
+                  "ItemSentence": {
+                    "Sentence": "○印を附した項目は、ロ過した試水（東洋ロ紙5Cに相当するものでロ過。）を用いる。"
+                  }
+                },
+                {
+                  "@Num": "2",
+                  "ItemTitle": "２",
+                  "ItemSentence": {
+                    "Sentence": "器具は特記すべきもののみを示す。"
+                  }
+                },
+                {
+                  "@Num": "3",
+                  "ItemTitle": "３",
+                  "ItemSentence": {
+                    "Sentence": "調査にあたり特に重要視する項目は、さらに精密な方法によること。"
+                  }
+                },
+                {
+                  "@Num": "4",
+                  "ItemTitle": "４",
+                  "ItemSentence": {
+                    "Sentence": "懸濁物は、特に透明な水の場合は省略することができる。"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "AppdxTableTitle": "別表第四",
+          "TableStruct": {
+            "Table": {
+              "TableRow": [
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "区分"
+                    },
+                    {
+                      "Sentence": "溶液名"
+                    },
+                    {
+                      "@colspan": "3",
+                      "Sentence": "溶液の作り方"
+                    },
+                    {
+                      "Sentence": "摘要"
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "@rowspan": "2",
+                      "Sentence": "１　電導度"
+                    },
+                    {
+                      "Sentence": "（１）　０．１００規定塩化カリウム（ＫＣｌ）標準溶液"
+                    },
+                    {
+                      "@colspan": "3",
+                      "Sentence": "３．７２８ｇの塩化カリウムを炭酸ガスを含まない蒸留水に溶かして５００ｍｌとする。"
+                    },
+                    {
+                      "Sentence": "ＫＣｌ　分子量＝７４．５５３"
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "（２）　０．０１００規定及び０．００１００規定塩化カリウム標準溶液"
+                    },
+                    {
+                      "@colspan": "3",
+                      "Sentence": "０．１００規定塩化カリウム標準溶液を１０倍及び１００倍にうすめる。"
+                    },
+                    {
+                      "Sentence": null
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "２　濁度"
+                    },
+                    {
+                      "Sentence": "濁度標準溶液"
+                    },
+                    {
+                      "@colspan": "3",
+                      "Sentence": "特定の白陶土１ｇを蒸留水１ｌに懸濁し、これを１０倍にうすめる。"
+                    },
+                    {
+                      "Sentence": "白陶土は１０５℃で約３時間乾燥放冷後、２００メツシユのフルイでふるつたものを用いる。"
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "@rowspan": "6",
+                      "Sentence": "３　溶存酸素ガス"
+                    },
+                    {
+                      "@rowspan": "2",
+                      "Sentence": "（１）　０．１００規定ヨウ素酸水素カリウム（ＫＨ（ＩＯ３）２）標準溶液"
+                    },
+                    {
+                      "@colspan": "3",
+                      "@rowspan": "2",
+                      "Sentence": "１．６２５ｇのヨウ素酸水素カリウムを蒸留水に溶かして５００ｍｌとする。"
+                    },
+                    {
+                      "Sentence": "ＫＨ（ＩＯ３）２分子量＝３８９．９５"
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": {
+                    "Sentence": "１ｍｏｌ１２当量"
+                  }
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "@rowspan": "2",
+                      "Sentence": "（２）　０．１００規定ヨウ素酸カリウム（ＫＩＯ３）標準溶液"
+                    },
+                    {
+                      "@colspan": "3",
+                      "@rowspan": "2",
+                      "Sentence": "１．７８３ｇのヨウ素酸カリウムを蒸留水に溶かして５００ｍｌとする。"
+                    },
+                    {
+                      "Sentence": "ＫＩＯ３分子量＝２１４．０１"
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": {
+                    "Sentence": "１ｍｏｌ６当量"
+                  }
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "@rowspan": "2",
+                      "Sentence": "（３）　０．０２００規定チオ硫酸ナトリウム滴定液（Ｎａ２Ｓ２Ｏ３・５Ｈ２Ｏ）"
+                    },
+                    {
+                      "@colspan": "3",
+                      "@rowspan": "2",
+                      "Sentence": "約５ｇのチオ硫酸ナトリウムを蒸留水に溶かして１ｌとする。この濃度は０．１００規定ヨウ素酸水素カリウム標準溶液又はヨウ素酸カリウム標準溶液で定める。"
+                    },
+                    {
+                      "Sentence": "Ｎａ２Ｓ２Ｏ３・５Ｈ２Ｏ　分子量＝２４８．２０６"
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": {
+                    "Sentence": "１ｍｏｌ１当量"
+                  }
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "@rowspan": "4",
+                      "Sentence": "４　ＥＤＴＡ硬度"
+                    },
+                    {
+                      "@rowspan": "2",
+                      "Sentence": "（１）　０．０５００規定カルシウムイオン標準溶液"
+                    },
+                    {
+                      "@colspan": "3",
+                      "@rowspan": "2",
+                      "Sentence": "２．５０２ｇの炭酸カルシウム　（ＣａＣＯ３）を酸性にして蒸留水に溶かし５００ｍｌとする。"
+                    },
+                    {
+                      "Sentence": "ＣａＣＯ３分子量＝１００．０９"
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": {
+                    "Sentence": "１ｍｏｌ２当量"
+                  }
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "@rowspan": "2",
+                      "Sentence": "（２）　０．０１００ｍｏｌＥＤＴＡ滴定液"
+                    },
+                    {
+                      "@colspan": "3",
+                      "@rowspan": "2",
+                      "Sentence": "４．０ｇのＥＤＴＡ及び０．１０ｇの塩化マグネシウム（ＭｇＣｌ２・６Ｈ２Ｏ）を８００ｍｌの蒸留水に溶かし、０．０５００規定カルシウムイオン標準溶液で濃度を測定し、適当にうすめて０．０１００ｍｏｌとする。"
+                    },
+                    {
+                      "Sentence": "ＥＤＴＡ　分子量＝３７２．２５２"
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": {
+                    "Sentence": "１ｍｏｌ２当量"
+                  }
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "@rowspan": "5",
+                      "Sentence": "５　カルシウムイオン"
+                    },
+                    {
+                      "@rowspan": "2",
+                      "Sentence": "（１）　０．０１００規定過マンガン酸カリウム（ＫＭｎＯ４）滴定液"
+                    },
+                    {
+                      "@colspan": "3",
+                      "@rowspan": "2",
+                      "Sentence": "約１．６ｇの過マンガン酸カリウムを蒸留水に溶かして５００ｍｌとして貯蔵し、これを１０倍にうすめて０．０１００規定溶液をつくる。この濃度は次のシユウ酸ナトリウム標準溶液で定める。"
+                    },
+                    {
+                      "Sentence": "ＫＭｎＯ４分子量＝１５８．０３"
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": {
+                    "Sentence": "１ｍｏｌ５当量"
+                  }
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "@rowspan": "2",
+                      "Sentence": "（２）　０．１００規定シユウ酸ナトリウム（Ｎａ２Ｃ２Ｏ４）標準溶液"
+                    },
+                    {
+                      "@colspan": "3",
+                      "@rowspan": "2",
+                      "Sentence": "３．３５００ｇのシユウ酸ナトリウムを蒸留水に溶かして５００ｍｌとする。"
+                    },
+                    {
+                      "Sentence": "Ｎａ２Ｃ２Ｏ４分子量＝１３４．０１４"
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": {
+                    "Sentence": "１ｍｏｌ２当量"
+                  }
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "（３）　０．０１００規定シユウ酸ナトリウム標準溶液"
+                    },
+                    {
+                      "@colspan": "3",
+                      "Sentence": "０．１００規定液を１０倍にうすめる。"
+                    },
+                    {
+                      "Sentence": null
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "６　マグネシウムイオン"
+                    },
+                    {
+                      "@rowspan": "2",
+                      "Sentence": "ＥＤＴＡ硬度の場合に同じ。"
+                    },
+                    {
+                      "@colspan": "3",
+                      "@rowspan": "2",
+                      "Sentence": null
+                    },
+                    {
+                      "@rowspan": "2",
+                      "Sentence": null
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": {
+                    "Sentence": "Ｉ　滴定法"
+                  }
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "ＩＩ　比色法"
+                    },
+                    {
+                      "Sentence": "使用マグネシウム比色標準溶液"
+                    },
+                    {
+                      "@colspan": "3",
+                      "Sentence": "０．０２規定塩化マグネシウム滴定液（８のＩＩ参照）を使用に際し適当にうすめる。たとえば、１ｍｌを１００ｍｌにうすめるとＭｇ２．４３ｍｇ／ｌとなる。"
+                    },
+                    {
+                      "Sentence": "０．００２規定のＭｇＣｌ２１ｍｌは、Ｍｇ０．２４３ｍｇを含む。"
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "７　塩素イオン"
+                    },
+                    {
+                      "Sentence": "（１）　０．０２００規定塩化ナトリウム（ＮａＣｌ）標準溶液"
+                    },
+                    {
+                      "@colspan": "3",
+                      "Sentence": "１．１６９ｇの塩化ナトリウムを蒸留水に溶かして１ｌとする。"
+                    },
+                    {
+                      "Sentence": "ＮａＣｌ　分子量＝５８．４５４"
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "Ｉ　滴定法"
+                    },
+                    {
+                      "Sentence": "（２）　０．０２００規定硝酸銀（ＡｇＮＯ３）滴定液"
+                    },
+                    {
+                      "@colspan": "3",
+                      "Sentence": "３．４ｇの硝酸銀を蒸留水に溶かして１ｌとする。この濃度は０．０２００規定塩化ナトリウム標準溶液で定める。"
+                    },
+                    {
+                      "Sentence": "ＡｇＮＯ３分子量＝１６９．８８８"
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "@rowspan": "4",
+                      "Sentence": "ＩＩ　比色法"
+                    },
+                    {
+                      "Sentence": "（１）　貯蔵塩素イオン比色標準溶液（Ｃｌ－１００ｍｇ／ｌ）"
+                    },
+                    {
+                      "@colspan": "3",
+                      "Sentence": "０．２１０３ｇの塩化カリウム（ＫＣｌ）　を蒸留水に溶かして１ｌとする。"
+                    },
+                    {
+                      "Sentence": "ＫＣｌ　分子量＝７４．５５３"
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "（２）　使用塩素イオン比色標準溶液"
+                    },
+                    {
+                      "@colspan": "3",
+                      "Sentence": "（１）を使用に際して適宜うすめて標準溶液とする。"
+                    },
+                    {
+                      "Sentence": null
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "（３）　チオシアン酸水銀（Ｈｇ（ＣＮＳ）２）０．３％アルコール溶液"
+                    },
+                    {
+                      "@colspan": "3",
+                      "Sentence": "５ｇの硝酸第二水銀（ＨｇＮＯ３）を０．５規定硝酸２００ｍｌに溶かし、鉄ミヨウバンの飽和溶液（１規定硝酸酸性）３ｍｌを加えてじゆうぶんかくはんしながら、溶液がかすかに着色するまでチオシアン酸カリウム（ＫＣＮＳ）４％溶液で滴定する。生じた沈殿をガラスフイルターでロ過し、蒸留水で洗浄して風乾する。これを０．３ｇとりアルコール（９５％）１００ｍｌにとかし、かつ色ビン中で冷暗所に保存する。"
+                    },
+                    {
+                      "Sentence": null
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "（４）　鉄ミヨウバン（ＮＨ４Ｆｅ（ＳＯ４）２・１２Ｈ２Ｏ）６％溶液"
+                    },
+                    {
+                      "@colspan": "3",
+                      "Sentence": "６ｇの鉄ミヨウバンを６規定硝酸１００ｍｌに溶かす。"
+                    },
+                    {
+                      "Sentence": "ＮＨ４Ｆｅ（ＳＯ４）２・１２Ｈ２Ｏ　分子量＝４８２．２１"
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "８　硫酸イオン"
+                    },
+                    {
+                      "Sentence": "（１）　使用硫酸比濁標準溶液"
+                    },
+                    {
+                      "@colspan": "3",
+                      "Sentence": "０．０２規定硫酸滴定液（９参照）を使用に際して適当にうすめる。たとえば、１ｍｌを５０ｍｌにうすめるとＳＯ４２―１９．２ｍｇ／ｌとなる。"
+                    },
+                    {
+                      "Sentence": "０．０２規定硫酸１ｍｌはＳＯ４２―０．９６ｍｇを含む。"
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "Ｉ　比濁法"
+                    },
+                    {
+                      "Sentence": "（２）　塩化バリウム（ＢａＣｌ２・２Ｈ２Ｏ）ゼラチン溶液"
+                    },
+                    {
+                      "@colspan": "3",
+                      "Sentence": "３ｇのゼラチンを３００ｍｌのあたたかい蒸留水に溶かし、陽イオン及び陰イオン交換樹脂に通じて灰分を除去し、この通過液と塩化バリウム溶液（３０ｇのＢａＣｌ２・２Ｈ２Ｏ　を蒸留水に溶かして２００ｍｌとしたもの）とを混じ、キシロールを加えて殺菌しておく。"
+                    },
+                    {
+                      "Sentence": "ＢａＣｌ２・２Ｈ２Ｏ　分子量＝２４４．３１"
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "@rowspan": "3",
+                      "Sentence": "ＩＩ　ＥＤＴＡ法"
+                    },
+                    {
+                      "@rowspan": "2",
+                      "Sentence": "（１）　０．０２００規定塩化マグネシウム（ＭｇＣｌ２・６Ｈ２Ｏ）滴定液"
+                    },
+                    {
+                      "@colspan": "3",
+                      "@rowspan": "2",
+                      "Sentence": "約２．１ｇの塩化マグネシウムを蒸留水に溶かして１ｌとする。この濃度は０．０１００ｍｏｌＥＤＴＡで定める。"
+                    },
+                    {
+                      "Sentence": "ＭｇＣｌ２・６Ｈ２Ｏ　分子量＝２０３．３３"
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": {
+                    "Sentence": "１ｍｏｌ２当量"
+                  }
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "（２）　０．０２００規定塩化バリウム（ＢａＣｌ２・２Ｈ２Ｏ）溶液"
+                    },
+                    {
+                      "@colspan": "3",
+                      "Sentence": "約２．５ｇの塩化バリウムを蒸留水に溶かして１ｌとする。この濃度は０．０１００ｍｏｌ　ＥＤＴＡで定める。"
+                    },
+                    {
+                      "Sentence": null
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "@rowspan": "6",
+                      "Sentence": "ＩＩＩ　比色法"
+                    },
+                    {
+                      "Sentence": "（１）　貯蔵硫酸イオン比色標準溶液（ＳＯ４２―１０００ｍｇ／ｌ）"
+                    },
+                    {
+                      "@colspan": "3",
+                      "Sentence": "１．８１５ｇの硫酸カリウム（Ｋ２ＳＯ４）を蒸留水に溶かして１ｌとする。"
+                    },
+                    {
+                      "Sentence": "Ｋ２ＳＯ４分子量＝１７４．２"
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "（２）　使用硫酸イオン比色標準溶液"
+                    },
+                    {
+                      "@colspan": "3",
+                      "Sentence": "使用に際しては（１）を１０倍ないし１００倍にうすめて標準溶液とする。"
+                    },
+                    {
+                      "Sentence": null
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "（３）　精製クロム酸バリウム（ＢａＣｒＯ４）"
+                    },
+                    {
+                      "@colspan": "3",
+                      "Sentence": "クロム酸カリウム（Ｋ２ＣｒＯ４）１％の熱溶液８００ｍｌに塩化バリウム（ＢａＣｌ２・２Ｈ２Ｏ）１０％の熱溶液を、徐々に上澄液の黄色がわずかになるまで滴下（約１００ｍｌ）して、クロム酸バリウムの沈殿をつくる。次に沈殿をじゆうぶん洗浄して２規定塩酸１００ｍｌに溶解し、蒸留水でうすめて７００ｍｌとする。この溶液を熱し、２規定アンモニア水を溶液が完全に黄色になるまで加えて再沈殿を行う。生じた沈殿をじゆうぶん洗浄してガラスフイルターでロ過し、１０５℃で乾燥後、メノウ製乳はちで細かく砕き、貯蔵する。"
+                    },
+                    {
+                      "Sentence": null
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "（４）　クロム酸バリウム酢酸懸濁液"
+                    },
+                    {
+                      "@colspan": "3",
+                      "Sentence": "（３）のクロム酸バリウム２．５ｇを０．５００規定酢酸２００ｍｌに加え、じゆうぶん振とうして懸濁させる。"
+                    },
+                    {
+                      "Sentence": null
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "（５）　ジフエニルカルバジツド１％アルコール溶液"
+                    },
+                    {
+                      "@colspan": "3",
+                      "Sentence": "１ｇのジフエニルカルバジツド（Ｃ１３Ｈ１４Ｎ４Ｏ）を無水アルコール（Ｃ２Ｈ５ＯＨ）１００ｍｌに溶解し、安定剤として１規定塩酸１．０ｍｌを加え、かつ色ビン中に保存する。（この試薬は２ないし３週間安定）"
+                    },
+                    {
+                      "Sentence": "Ｃ１３Ｈ１４Ｎ４Ｏ　分子量＝２４２．２７"
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "（６）　アンモニア性カルシウム溶液"
+                    },
+                    {
+                      "@colspan": "3",
+                      "Sentence": "０．３７ｇの塩化カルシウム（ＣａＣｌ２・２Ｈ２Ｏ）を６規定アンモニア水（ＮＨ４ＯＨ）１００ｍｌを溶解し、密センして保存する。"
+                    },
+                    {
+                      "Sentence": "ＣａＣｌ２・２Ｈ２Ｏ　分子量＝１４７．０２"
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "@rowspan": "4",
+                      "Sentence": "９　アルカリ度"
+                    },
+                    {
+                      "Sentence": "（１）　０．２００規定炭酸ナトリウム（Ｎａ２ＣＯ３）標準溶液"
+                    },
+                    {
+                      "@colspan": "3",
+                      "Sentence": "５．３００ｇの炭酸ナトリウムを蒸留水に溶かして５００ｍｌとする。"
+                    },
+                    {
+                      "Sentence": "Ｎａ２ＣＯ３分子量＝１０６．００４"
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "@rowspan": "2",
+                      "Sentence": "（２）　０．２００規定硫酸（Ｈ２ＳＯ４）貯蔵溶液"
+                    },
+                    {
+                      "@colspan": "3",
+                      "@rowspan": "2",
+                      "Sentence": "濃硫酸６ｍｌを蒸留水に溶かして１ｌとする。この濃度は０．２００規定炭酸ナトリウム標準溶液で定める。"
+                    },
+                    {
+                      "Sentence": "Ｈ２ＳＯ４分子量＝９８．０８０"
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": {
+                    "Sentence": "濃硫酸は３６規定"
+                  }
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "（３）　０．０２００規定硫酸滴定液"
+                    },
+                    {
+                      "@colspan": "3",
+                      "Sentence": "（２）の０．２００規定硫酸溶液を１０倍にうすめる。"
+                    },
+                    {
+                      "Sentence": null
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "@rowspan": "2",
+                      "Sentence": "１０　酸度"
+                    },
+                    {
+                      "Sentence": "（１）　０．２００規定水酸化ナトリウム（カセイソーダＮａＯＨ）貯蔵溶液"
+                    },
+                    {
+                      "@colspan": "3",
+                      "Sentence": "炭酸イオンを含まない濃水酸化ナトリウム溶液を適当にうすめる。この濃度は０．２００規定硫酸貯蔵溶液で定める。"
+                    },
+                    {
+                      "Sentence": "ＮａＯＨ　分子量＝４０．００５"
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "（２）　０．０２００規定水酸化ナトリウム（カセイソーダ）滴定液"
+                    },
+                    {
+                      "@colspan": "3",
+                      "Sentence": "０．２００規定水酸化ナトリウム溶液を１０倍にうすめる。"
+                    },
+                    {
+                      "Sentence": null
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "１１　ケイ酸"
+                    },
+                    {
+                      "@rowspan": "2",
+                      "Sentence": "（１）　クロム酸カリウム（Ｋ２ＣｒＯ４）代用比色標準溶液（ＳｉＯ２５０ｍｇ／ｌ相当）"
+                    },
+                    {
+                      "@colspan": "3",
+                      "@rowspan": "2",
+                      "Sentence": "０．２６５ｇのクロム酸カリウムと約１０ｇのホウ砂（Ｎａ２Ｂ４Ｏ７・１０Ｈ２Ｏ）を蒸留水に溶解して１ｌとする。"
+                    },
+                    {
+                      "Sentence": "Ｋ２ＣｒＯ４分子量＝１９４．２０"
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "（比色ケイ酸）"
+                    },
+                    {
+                      "Sentence": "ＳｉＯ２分子量＝６０．０６"
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "@rowspan": "3",
+                      "Sentence": null
+                    },
+                    {
+                      "Sentence": "（２）　ケイフツ化ナトリウム　（Ｎａ２ＳｉＦ６）比色標準溶液（ＳｉＯ２１００ｍｇ／ｌ）"
+                    },
+                    {
+                      "@colspan": "3",
+                      "Sentence": "０．３１３ｇのケイフツ化ナトリウムを蒸留水に溶かして１ｌとする。"
+                    },
+                    {
+                      "Sentence": "Ｎａ２ＳｉＦ６分子量＝１８８．０５"
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "（３）　ケイ酸（ＳｉＯ２）比色標準溶液"
+                    },
+                    {
+                      "@colspan": "3",
+                      "Sentence": "０．５００ｇの精製した無水ケイ酸を炭酸ナトリウム（Ｎａ２ＣＯ３）で融解し、蒸留水に溶かして１ｌとし、ポリエチレンビン中に保存する。この場合、中和あるいは酸性としないよう注意しなければならない。使用に際しては、これを適当にうすめて標準溶液とする。"
+                    },
+                    {
+                      "Sentence": null
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "（４）　モリブデン酸アンモニウム（５（ＮＨ４）２Ｏ・１２ＭｏＯ３・７Ｈ２Ｏ）１０％溶液"
+                    },
+                    {
+                      "@colspan": "3",
+                      "Sentence": "１０ｇのモリブデン酸アンモニウムを蒸留水に溶かして１００ｍｌとする。"
+                    },
+                    {
+                      "Sentence": "５（ＮＨ４）２Ｏ・１２ＭｏＯ３７Ｈ２Ｏ　分子量＝２１１３．９１"
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "１２　鉄"
+                    },
+                    {
+                      "Sentence": "（１）　貯蔵鉄（Ｆｅ）比色標準溶液　（Ｆｅ２００ｍｇ／ｌ）"
+                    },
+                    {
+                      "@colspan": "3",
+                      "Sentence": "０．２００ｇの純鉄（たとえば、電解鉄又はピアノ線）を２０ｍｌの硫酸（１＋５）に溶かし、さらに蒸留水を加えて１ｌとする。"
+                    },
+                    {
+                      "Sentence": "Ｆｅ　原子量＝５５．８５"
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "（酸可溶性鉄）"
+                    },
+                    {
+                      "Sentence": "（２）　使用鉄比色標準溶液（Ｆｅ１ｍｇ／ｌ）"
+                    },
+                    {
+                      "@colspan": "3",
+                      "Sentence": "貯蔵鉄標準溶液を蒸留水で２００倍にうすめる。"
+                    },
+                    {
+                      "Sentence": null
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": null
+                    },
+                    {
+                      "Sentence": "（３）　オルソフエナンスロリン（Ｃ１２Ｈ８Ｎ２・Ｈ２Ｏ）０．１％溶液"
+                    },
+                    {
+                      "@colspan": "3",
+                      "Sentence": "０．１ｇのオルソフェナンスロリンを蒸留水に溶かして１００ｍｌとする。"
+                    },
+                    {
+                      "Sentence": "Ｃ１２Ｈ８Ｎ２・Ｈ２Ｏ　分子量＝１９８．２１６"
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": null
+                    },
+                    {
+                      "Sentence": "（４）　塩酸ヒドロキシルアミン（ＮＨ２ＯＨ・ＨＣｌ）１０％溶液"
+                    },
+                    {
+                      "@colspan": "3",
+                      "Sentence": "１０ｇの塩酸ヒドロキシルアミンを蒸留水に溶かして１００ｍｌとする。"
+                    },
+                    {
+                      "Sentence": "ＮＨ２ＯＨ・ＨＣｌ　分子量＝６９．４９７"
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": null
+                    },
+                    {
+                      "Sentence": "（５）　酢酸ナトリウム、酢酸緩衝溶液（ｐＨ４．６）"
+                    },
+                    {
+                      "@colspan": "3",
+                      "Sentence": "１規定酢酸（ＣＨ３ＣＯＯＨ）を５００ｍｌ（２８．６ｍｌの氷酢酸を蒸留水に溶かして５００ｍｌとしたもの）と１規定酢酸ナトリウム（ＣＨ３ＣＯＯＮａ）５００ｍｌ（６８．０４ｇ酢酸ナトリウムを蒸留水に溶かして５００ｍｌとしたもの）とを混合する。"
+                    },
+                    {
+                      "Sentence": [
+                        "ＣＨ３ＣＯＯＨ　分子量＝６０．０５",
+                        "ＣＨ３ＣＯＯＮａ．３Ｈ２Ｏ　分子量＝１３６．０８５"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "１３　リン"
+                    },
+                    {
+                      "@rowspan": "2",
+                      "Sentence": "（１）　貯蔵リン比色標準溶液（Ｐ１００ｍｇ／ｌ）"
+                    },
+                    {
+                      "@colspan": "3",
+                      "@rowspan": "2",
+                      "Sentence": "０．４３９ｇのリン酸二水素カリウム（ＫＨ２ＰＯ４）を蒸留水に溶かして１ｌとする。"
+                    },
+                    {
+                      "Sentence": "ＫＨ２ＰＯ４分子量＝１３６．０９１"
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "（可溶性リン）"
+                    },
+                    {
+                      "Sentence": "Ｐ原子量＝３０．９７５"
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": null
+                    },
+                    {
+                      "Sentence": "（２）　使用リン比色標準溶液（Ｐｌｍｇ～０．１ｍｇ／ｌ）"
+                    },
+                    {
+                      "@colspan": "3",
+                      "Sentence": "（１）を使用に際して１００倍ないし１０００倍にうすめる。"
+                    },
+                    {
+                      "Sentence": null
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": null
+                    },
+                    {
+                      "Sentence": "（３）　モリブデン酸アンモニウム硫酸混液"
+                    },
+                    {
+                      "@colspan": "3",
+                      "Sentence": "１０ｇのモリブデン酸アンモニウムを蒸留水に溶かして９０ｍｌにしたものと硫酸（１＋１）を正確に１：３の割合にまぜる。"
+                    },
+                    {
+                      "Sentence": null
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": null
+                    },
+                    {
+                      "@rowspan": "2",
+                      "Sentence": "（４）　塩化第一スズ（ＳｎＣｌ２・２Ｈ２Ｏ）　０．５％溶液"
+                    },
+                    {
+                      "@colspan": "3",
+                      "Sentence": "０．５ｇの塩化第一スズを濃塩酸１０ｍｌに熱しながら時間をかけて溶かし、後で蒸留水で　１００ｍｌにうすめる。"
+                    },
+                    {
+                      "@rowspan": "2",
+                      "Sentence": "ＳｎＣｌ２・２Ｈ２Ｏ　分子量＝２２５．６５"
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": null
+                    },
+                    {
+                      "@colspan": "3",
+                      "Sentence": "なお、貯蔵にあたつては、スズの金属片を入れておく。貯蔵液に黒い沈殿が生じた場合は、ロ過して使用しなければならない。"
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "@rowspan": "5",
+                      "Sentence": "１４　亜硝酸イオン"
+                    },
+                    {
+                      "@rowspan": "2",
+                      "Sentence": "（１）　貯蔵亜硝酸比色標準溶液（ＮＯ２―Ｎ１００ｍｇ／ｌ）"
+                    },
+                    {
+                      "@colspan": "3",
+                      "@rowspan": "2",
+                      "Sentence": "０．４９３ｇの亜硝酸ナトリウム　（ＮａＮＯ２）　を蒸留水に溶かして　１ｌとする。この際、クロロホルムを加えて殺菌しておく。あるいは亜硝酸ナトリウムの代りに０．６０７５ｇの亜硝酸カリウム（ＫＮＯ２）を用いてもよい。"
+                    },
+                    {
+                      "Sentence": "ＮａＮＯ２分子量＝６９．００５"
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": {
+                    "Sentence": "ＫＮＯ２分子量＝８５．１０４"
+                  }
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "（２）　使用亜硝酸比色標準溶液（ＮＯ２―Ｎ１ｍｇ～０．１ｍｇ／ｌ）"
+                    },
+                    {
+                      "@colspan": "3",
+                      "Sentence": "（１）を使用に際して１００ないし１０００倍にうすめる。"
+                    },
+                    {
+                      "Sentence": null
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "@rowspan": "2",
+                      "Sentence": "（３）　グリースロミイン試薬"
+                    },
+                    {
+                      "@colspan": "3",
+                      "@rowspan": "2",
+                      "Sentence": "８９ｇの酒石酸（（ＣＨＯＨ・ＣＯＯＨ）２）を乳ばちで細かくすり、これに１０ｇのスルフアニル酸（ＮＨ２Ｃ６Ｈ４・ＨＳＯ３）及び１ｇのαナフチルアミン（Ｃ１０Ｈ７・ＮＨ２）を混じてじゆうぶんにすりあわせ、かつ色の共センビンに貯える。"
+                    },
+                    {
+                      "Sentence": "（ＣＨＯＨ・ＣＯＯＨ）２分子量＝１５"
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": {
+                    "Sentence": [
+                      "ＮＨ２Ｃ６Ｈ４・ＨＳＯ３分子量＝１７３．１９０．０９",
+                      "Ｃ１０Ｈ７・ＮＨ２分子量＝１４３．１８"
+                    ]
+                  }
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "１５　硫酸イオン"
+                    },
+                    {
+                      "Sentence": "（１）　貯蔵硝酸比色標準溶液（ＮＯ３―Ｎ１００ｍｇ／ｌ）"
+                    },
+                    {
+                      "@colspan": "3",
+                      "Sentence": "０．７２２ｇの硝酸カリウム（ＫＮＯ３）を蒸留水に溶かして１ｌとする。"
+                    },
+                    {
+                      "Sentence": "ＫＮＯ３分子量＝１０１．１０４"
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "Ｉ　ジフエニルアミン法"
+                    },
+                    {
+                      "Sentence": "（２）　使用硝酸比色標準溶液（ＮＯ３―Ｎ１ｍｇ～０．１ｍｇ／ｌ）"
+                    },
+                    {
+                      "@colspan": "3",
+                      "Sentence": "（１）を使用に際して１００ないし１０００倍にうすめる。"
+                    },
+                    {
+                      "Sentence": null
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": null
+                    },
+                    {
+                      "Sentence": "（３）　ジフエニルアミン硫酸溶液"
+                    },
+                    {
+                      "@colspan": "3",
+                      "Sentence": "０．０８５ｇのジフエニルアミン（（Ｃ６Ｈ５）２ＮＨ）に硫酸（１＋３）　１９０ｍｌを加え、さらに濃硫酸を注ぎ、全量を５００ｍｌにする。"
+                    },
+                    {
+                      "Sentence": "（Ｃ６Ｈ５）２ＮＨ　分子量＝１６９．２２"
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "@rowspan": "4",
+                      "Sentence": "ＩＩ　フエノールジスルホン酸法"
+                    },
+                    {
+                      "Sentence": "（１）　フエノールジスルホン酸硫酸溶液"
+                    },
+                    {
+                      "@colspan": "3",
+                      "Sentence": "２５ｇの純フエノール（Ｃ６Ｈ５ＯＨ）を冷却しながら、濃硫酸（９５％以上）　１５０ｍｌに溶かし、さらに発煙硫酸（ＳＯ３１５％以上）７５ｍｌを加えて２時間加熱する。"
+                    },
+                    {
+                      "Sentence": "フエノールジスルホン酸（Ｃ６Ｈ３ＯＨ（ＳＯ３Ｈ）２）　分子量＝２５４．２４"
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "（２）　硫酸銀（Ａｇ２ＳＯ４）溶液"
+                    },
+                    {
+                      "@colspan": "3",
+                      "Sentence": "４．３９７ｇの硫酸銀を蒸留水に溶かして１ｌとする。（この溶液１ｍｌは　Ｃｌ１ｍｇに相当する。）"
+                    },
+                    {
+                      "Sentence": "Ａｇ２ＳＯ４分子量＝３１１．３２６"
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "（３）　１２規定水酸化カリウム（ＫＯＨ）溶液"
+                    },
+                    {
+                      "@colspan": "3",
+                      "Sentence": "６７．３ｇの水酸化カリウムを蒸留水に溶かして　１００ｍｌとする。"
+                    },
+                    {
+                      "Sentence": "ＫＯＨ　分子量＝５６．１０８"
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "（４）　水酸化アルミニウム（Ａｌ（ＯＨ）３）"
+                    },
+                    {
+                      "@colspan": "3",
+                      "Sentence": "１０ｇのミヨウバン（ＫＡｌ（ＳＯ４）２・１２Ｈ２Ｏ）を蒸留水２００ｍｌ　に溶かし、アンモニア水を加えて水酸化アルミニウムを沈殿させ、これをじゆうぶんに洗浄する。"
+                    },
+                    {
+                      "Sentence": "ＫＡｌ（ＳＯ４）２・１２Ｈ２Ｏ　分子量＝４７４．３９"
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "@rowspan": "4",
+                      "Sentence": "ＩＩＩ　アニリン法"
+                    },
+                    {
+                      "Sentence": "（１）　酢酸アニリン溶液"
+                    },
+                    {
+                      "@colspan": "3",
+                      "Sentence": "精製アニリン（Ｃ６Ｈ５ＮＨ２）３ｍｌに氷酢酸３ｍｌを加え、蒸留水でうすめて　１００ｍｌとする。この際、濁りがあればロ過する。"
+                    },
+                    {
+                      "Sentence": "Ｃ６Ｈ５ＮＨ２分子量＝９３．１２"
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "（２）　αナフチルアミン（Ｃ１０Ｈ７ＮＨ２）溶液"
+                    },
+                    {
+                      "@colspan": "3",
+                      "Sentence": "２ｇのαナフチルアミンを粉末にし、氷酢酸２０ｍｌを加え、蒸留水でうすめて１００ｍｌとする。この際、黒い沈殿があればロ過する。（この溶液の保存期間は１週間）"
+                    },
+                    {
+                      "Sentence": "Ｃ１０Ｈ７ＮＨ２分子量＝１４３．１８"
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "（３）　粉末亜鉛（Ｚｎ）"
+                    },
+                    {
+                      "@colspan": "3",
+                      "Sentence": "粉末亜鉛を稀塩酸（あるいは稀酢酸）でよく洗い、次に塩素イオンの反応がなくなるまで蒸留水で洗浄する。"
+                    },
+                    {
+                      "Sentence": "Ｚｎ　原子量＝６５．３８"
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "（４）　塩酸・酢酸混液"
+                    },
+                    {
+                      "@colspan": "3",
+                      "Sentence": "６規定塩酸と６規定酢酸とを等容量混合する。"
+                    },
+                    {
+                      "Sentence": null
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "@rowspan": "25",
+                      "Sentence": "１６　アンモニウムイオン"
+                    },
+                    {
+                      "@rowspan": "2",
+                      "Sentence": "（１）　貯蔵アンモニウム比色標準溶液（ＮＨ４Ｎ１００ｍｇ／ｌ）"
+                    },
+                    {
+                      "@colspan": "3",
+                      "@rowspan": "2",
+                      "Sentence": "０．３８１９ｇの塩化アンモニウム（ＮＨ４Ｃｌ）に０．１ｇの昇コウを加え、蒸留水に溶かして１ｌとする。あるいは０．４７１７ｇの硫酸アンモニウム（（ＮＨ４）２ＳＯ４）に０．１ｇの昇コウを加え、蒸留水に溶かして１ｌとする。"
+                    },
+                    {
+                      "Sentence": "ＮＨ４Ｃｌ　分子量＝５３．５０"
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": {
+                    "Sentence": "（ＮＨ４）２ＳＯ４分子量＝１３２．１４６"
+                  }
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "（２）　使用アンモニウム比色標準溶液（ＮＨ４―Ｎ１ｍｇ～０．１ｍｇ／ｌ）"
+                    },
+                    {
+                      "@colspan": "3",
+                      "Sentence": "（１）を使用に際して１００ないし１０００倍にうすめる。"
+                    },
+                    {
+                      "Sentence": null
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "@rowspan": "2",
+                      "Sentence": "（３）　ネスラー試薬"
+                    },
+                    {
+                      "@colspan": "3",
+                      "@rowspan": "2",
+                      "Sentence": "１．０ｇのヨウ化水銀（ＨｇＩ２）と５．０ｇの臭化カリウム（ＫＢｒ）及び２．５ｇの水酸化ナトリウム（カセイソーダ）を２５ｍｌの蒸留水に溶かし、さらに蒸留水を加えて　１００ｍｌ　とする。約一昼夜放置後、上澄水をかつ色ビンに移し、密センして暗所に保管する。"
+                    },
+                    {
+                      "Sentence": "ＨｇＩ２分子量＝４５４．４５"
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": {
+                    "Sentence": "ＫＢｒ　分子量＝１１９．０１２"
+                  }
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "@rowspan": "20",
+                      "Sentence": "（４）　代用比色標準溶液"
+                    },
+                    {
+                      "@colspan": "3",
+                      "Sentence": "次の２種の溶液を次の表に従つて混合する。"
+                    },
+                    {
+                      "@rowspan": "2",
+                      "Sentence": "Ｋ２ＰｔＣｌ６分子量＝４８６．１６"
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": {
+                    "@colspan": "3",
+                    "Sentence": "１　塩化白金カリウム標準溶液（塩化白金カリウム（Ｋ２ＰｔＣｌ６）２ｇを約３００ｍｌの蒸留水に溶かし、これに　１００ｍｌの濃塩酸を加えてさらに蒸留水でうすめて１ｌとしたもの。）"
+                  }
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "@colspan": "3",
+                      "Sentence": "２　酸化コバルト標準溶液（塩化コバルト（ＣｏＣｌ２・６Ｈ２Ｏ）１２ｇを　２００ｍｌの水に溶かし、これに　１００ｍｌの濃塩酸を加え、さらに蒸留水でうすめて１ｌとしたもの。）"
+                    },
+                    {
+                      "Sentence": "ＣｏＣｌ２・６Ｈ２Ｏ　分子量＝２３７．９５"
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "@rowspan": "2",
+                      "Sentence": "ＮＨ４―Ｎｍｇ"
+                    },
+                    {
+                      "@colspan": "2",
+                      "Sentence": "１と２とあわせて蒸留水で　５０ｍｌにする"
+                    },
+                    {
+                      "@rowspan": "17",
+                      "Sentence": null
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "（１）　ｍｌ"
+                    },
+                    {
+                      "Sentence": "（２）　ｍｌ"
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "０"
+                    },
+                    {
+                      "Sentence": "１．２"
+                    },
+                    {
+                      "Sentence": "０"
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "０．００２"
+                    },
+                    {
+                      "Sentence": "２．８"
+                    },
+                    {
+                      "Sentence": "０"
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "０．００４"
+                    },
+                    {
+                      "Sentence": "４．７"
+                    },
+                    {
+                      "Sentence": "０．１"
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "０．００７"
+                    },
+                    {
+                      "Sentence": "５．９"
+                    },
+                    {
+                      "Sentence": "０．２"
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "０．０１"
+                    },
+                    {
+                      "Sentence": "７．７"
+                    },
+                    {
+                      "Sentence": "０．５"
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "０．０１４"
+                    },
+                    {
+                      "Sentence": "９．９"
+                    },
+                    {
+                      "Sentence": "１．１"
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "０．０１７"
+                    },
+                    {
+                      "Sentence": "１１．４"
+                    },
+                    {
+                      "Sentence": "１．７"
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "０．０２"
+                    },
+                    {
+                      "Sentence": "１２．７"
+                    },
+                    {
+                      "Sentence": "２．２"
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "０．０２５"
+                    },
+                    {
+                      "Sentence": "１５"
+                    },
+                    {
+                      "Sentence": "３．３"
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "０．０３"
+                    },
+                    {
+                      "Sentence": "１７．３"
+                    },
+                    {
+                      "Sentence": "４．５"
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "０．０３５"
+                    },
+                    {
+                      "Sentence": "１９"
+                    },
+                    {
+                      "Sentence": "５．７"
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "０．０４"
+                    },
+                    {
+                      "Sentence": "１９．７"
+                    },
+                    {
+                      "Sentence": "７．１"
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "０．０４５"
+                    },
+                    {
+                      "Sentence": "１９．９"
+                    },
+                    {
+                      "Sentence": "８．７"
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "０．０５"
+                    },
+                    {
+                      "Sentence": "２０"
+                    },
+                    {
+                      "Sentence": "１０．４"
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "０．０６"
+                    },
+                    {
+                      "Sentence": "２０"
+                    },
+                    {
+                      "Sentence": "１５"
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "１７　化学的酸素消費量（過マンガン酸カリウム法）"
+                    },
+                    {
+                      "Sentence": "カルシウムイオンの場合に同じ。"
+                    },
+                    {
+                      "@colspan": "3",
+                      "Sentence": null
+                    },
+                    {
+                      "Sentence": null
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "@rowspan": "5",
+                      "Sentence": "１８　生物化学的酸素消費量"
+                    },
+                    {
+                      "@rowspan": "3",
+                      "Sentence": "（１）　希釈水"
+                    },
+                    {
+                      "@colspan": "3",
+                      "Sentence": "貯蔵溶液Ａ１０ｍｌ、貯蔵溶液Ｂ１．２５ｍｌをとり、これにあらかじめ、ばく気して放置してある蒸留水を加えて１ｌとする。"
+                    },
+                    {
+                      "@rowspan": "3",
+                      "Sentence": null
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": {
+                    "@colspan": "3",
+                    "Sentence": "貯蔵溶液Ａ（３．０ｇの純無水塩化カルシウム（ＣａＣｌ２）、３．０ｇの硫酸マグネシウム（ＭｇＳＯ４・７Ｈ２Ｏ）、１ｍｌの１％塩化鉄（ＦｅＣｌ３、６Ｈ２Ｏ）溶液を　蒸留水に溶かして１ｌとしたもの。）"
+                  }
+                },
+                {
+                  "TableColumn": {
+                    "@colspan": "3",
+                    "Sentence": "貯蔵溶液Ｂ（３４．０ｇのリン酸二水素カリウムを蒸留水約５００ｍｌに溶かし、これに１規定水酸化ナトリウム液を加えてｐＨを７．２にする。次に１．５ｇの硫酸アンモニウムを加えた後蒸留水を加えて１ｌとしたもの。）"
+                  }
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "（２）　酒石酸カリウム・ナトリウム溶液"
+                    },
+                    {
+                      "@colspan": "3",
+                      "Sentence": "３５０ｇのロツシエル塩及び１００ｇの水酸化ナトリウムを蒸留水に溶かして１ｌとする。"
+                    },
+                    {
+                      "Sentence": null
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "（３）　硫酸第一鉄アンモニウム溶液"
+                    },
+                    {
+                      "@colspan": "3",
+                      "Sentence": "１０．７５ｇのモール塩（（ＮＨ４）２Ｆｅ（ＳＯ４）２・６Ｈ２Ｏ）及び１０ｍｌの硫酸（９５％以上）を蒸留水に溶かして１ｌとし、酸素ガスを排除した蒸留水を加えて２倍にうすめる。この溶液の力価はあらかじめばく気した蒸留水を用いて検定する。"
+                    },
+                    {
+                      "Sentence": null
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "１９　バクテリア類"
+                    },
+                    {
+                      "@rowspan": "2",
+                      "Sentence": "普通寒天培地"
+                    },
+                    {
+                      "@colspan": "3",
+                      "@rowspan": "2",
+                      "Sentence": "普通ブイヨン１ｌに寒天２５ないし３０ｇを加え、加熱溶解し、ｐＨ６．４ないし　７．０に修正して清澄にする。"
+                    },
+                    {
+                      "@rowspan": "2",
+                      "Sentence": null
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": {
+                    "Sentence": "１９－１　一般細菌数"
+                  }
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "@rowspan": "3",
+                      "Sentence": "１９－２　大腸菌群"
+                    },
+                    {
+                      "Sentence": "（１）　乳糖ブイヨン培地"
+                    },
+                    {
+                      "@colspan": "3",
+                      "Sentence": "普通ブイヨンに乳糖を０．５％の割合に加えた後、培地１ｌに対してＢＴＢ溶液（０．２％）を約１２ｍｌを加え、発酵管に分注して減菌する。"
+                    },
+                    {
+                      "Sentence": null
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "（２）　ＢＧＬＢ培地"
+                    },
+                    {
+                      "@colspan": "3",
+                      "Sentence": "１０ｇのペプトン及び１０ｇの乳糖を蒸留水　５００ｍｌに溶かし、新鮮牛胆汁２００ｍｌ（又は乾燥牛胆汁２０ｇを蒸留水２００ｍｌに溶かしたものｐＨ７ないし７．５）を加え、さらに蒸留水を加えて約　９７５ｍｌとし、ｐＨ７．４に修正する。次にブリリアントグリーン溶液（０．１％）１３．３ｍｌ　を加え全量を１ｌとし、発酵管に分注減菌する。（ｐＨ７．１～７．４）"
+                    },
+                    {
+                      "Sentence": null
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "（３）　ＥＭＢ平板培地"
+                    },
+                    {
+                      "@colspan": "3",
+                      "Sentence": "１０ｇのペプトン、２ｇのリン酸二水素カリウム及び２５ないし３０ｇの寒天に蒸留水約　９００ｍｌを加え、煮沸溶解する、これに１０ｇの乳糖、エオヂン黄溶液（２％）２０ｍｌ及びメチレンブルウ溶液（０．５％）１３ｍｌを加え、さらに蒸留水を加えて１ｌとして減菌する。"
+                    },
+                    {
+                      "Sentence": null
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "２０　プランクトン"
+                    },
+                    {
+                      "Sentence": "中性ホルマリン"
+                    },
+                    {
+                      "@colspan": "3",
+                      "Sentence": "１ｇの酸化マグネシウム（ＭｇＯ）を５００ｍｌの局方ホルマリンに溶かし上澄液あるいはロ過液をとる。"
+                    },
+                    {
+                      "Sentence": null
+                    }
+                  ]
+                }
+              ]
+            },
+            "Remarks": {
+              "RemarksLabel": "注",
+              "Sentence": "使用する薬品は、原則としてＪＩＳ特級以上のものとする。"
+            }
+          }
+        },
+        {
+          "AppdxTableTitle": "別表第五",
+          "TableStruct": [
+            {
+              "TableStructTitle": "第１部　表示の方法",
+              "Table": {
+                "TableRow": [
+                  {
+                    "TableColumn": [
+                      {
+                        "Sentence": "項目（記号）"
+                      },
+                      {
+                        "Sentence": "表示の方法"
+                      }
+                    ]
+                  },
+                  {
+                    "TableColumn": [
+                      {
+                        "Sentence": [
+                          "１　外観、味及びにおい",
+                          "（１）　水の色"
+                        ]
+                      },
+                      {
+                        "Sentence": [
+                          "イ　水色　適宜",
+                          "ロ　試水の色　適宜",
+                          "ハ　液の色　適宜"
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "TableColumn": [
+                      {
+                        "Sentence": "（２）　懸濁物"
+                      },
+                      {
+                        "Sentence": [
+                          "イ　性状　適宜",
+                          "ロ　色　適宜",
+                          "ハ　量　大、小、ほとんどなし"
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "TableColumn": [
+                      {
+                        "Sentence": "（３）　沈殿物"
+                      },
+                      {
+                        "Sentence": [
+                          "イ　質　適宜",
+                          "ロ　色　適宜",
+                          "ハ　量　大、小、ほとんどなし"
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "TableColumn": [
+                      {
+                        "Sentence": "（４）　味"
+                      },
+                      {
+                        "Sentence": "適宜"
+                      }
+                    ]
+                  },
+                  {
+                    "TableColumn": [
+                      {
+                        "Sentence": "（５）　におい"
+                      },
+                      {
+                        "Sentence": "適宜"
+                      }
+                    ]
+                  },
+                  {
+                    "TableColumn": [
+                      {
+                        "Sentence": "２　天候"
+                      },
+                      {
+                        "Sentence": "晴、曇、雨、雪等"
+                      }
+                    ]
+                  },
+                  {
+                    "TableColumn": [
+                      {
+                        "Sentence": "３　気温（Ｔａ）"
+                      },
+                      {
+                        "Sentence": "単位は℃とし、０．１℃位まで記す。"
+                      }
+                    ]
+                  },
+                  {
+                    "TableColumn": [
+                      {
+                        "Sentence": "４　水温（Ｔｗ）"
+                      },
+                      {
+                        "Sentence": "単位は℃とし、０．１℃位まで記す。"
+                      }
+                    ]
+                  },
+                  {
+                    "TableColumn": [
+                      {
+                        "Sentence": "５　ｐＨ"
+                      },
+                      {
+                        "Sentence": "０．１位まで記し、使用した試薬又は器械を併記する。"
+                      }
+                    ]
+                  },
+                  {
+                    "TableColumn": [
+                      {
+                        "Sentence": "６　ＲｐＨ"
+                      },
+                      {
+                        "Sentence": "ｐＨに同じ。なお、測定時の水温を付記する。"
+                      }
+                    ]
+                  },
+                  {
+                    "TableColumn": [
+                      {
+                        "Sentence": "７　電導度（λ）"
+                      },
+                      {
+                        "Sentence": "単位は１０－４ｍｈｏ／ｃｍ　とし、有効数字は２けた又は３けたとする。"
+                      }
+                    ]
+                  },
+                  {
+                    "TableColumn": [
+                      {
+                        "Sentence": "比抵抗（ρｗ）"
+                      },
+                      {
+                        "Sentence": "比抵抗の単位は１０３Ω―ｃｍとし、有効数字は２けた又は３けたとする。"
+                      }
+                    ]
+                  },
+                  {
+                    "TableColumn": [
+                      {
+                        "Sentence": "８　濁度（Ｔｕｂ）"
+                      },
+                      {
+                        "Sentence": "有効数字は２けたで、１位以下は切捨てる。この１単位は白陶土を基準とする濁度１度に相当する。"
+                      }
+                    ]
+                  },
+                  {
+                    "TableColumn": [
+                      {
+                        "Sentence": "９　透明度（Ｔｒｐ）"
+                      },
+                      {
+                        "Sentence": "単位はｍとし、０．１ｍ位まで記す。"
+                      }
+                    ]
+                  },
+                  {
+                    "TableColumn": [
+                      {
+                        "Sentence": "１０　溶存酸素ガス（ＤＯ）"
+                      },
+                      {
+                        "Sentence": [
+                          "単位は｛Ｏ２ｍｇ／ｌ　０．０１ｍｇ位まで記す。｝",
+                          "｛酸素飽和度％（表示はＯ２％）０．１位まで記す。｝併用"
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "TableColumn": [
+                      {
+                        "Sentence": "１１　全蒸発残留物（Ｔ―Ｒｅ）"
+                      },
+                      {
+                        "Sentence": "単位はｍｇ／ｌとし、１ｍｇ位まで記す。"
+                      }
+                    ]
+                  },
+                  {
+                    "TableColumn": [
+                      {
+                        "Sentence": "１２　溶解性蒸発残留物（Ｓ―Ｒｅ）"
+                      },
+                      {
+                        "Sentence": "単位はｍｇ／ｌとし、１ｍｇ位まで記す。"
+                      }
+                    ]
+                  },
+                  {
+                    "TableColumn": [
+                      {
+                        "Sentence": "１３　懸濁物（Ｓｕｓｐ）"
+                      },
+                      {
+                        "Sentence": "単位はｍｇ／ｌとし、１ｍｇ位まで記す。"
+                      }
+                    ]
+                  },
+                  {
+                    "TableColumn": [
+                      {
+                        "Sentence": "１４　ナトリウムイオン（Ｎａ＋）"
+                      },
+                      {
+                        "Sentence": "単位はｍｇ／ｌ及びｍｅ／ｌを併記する。有効数字は２けた又は３けたとする。"
+                      }
+                    ]
+                  },
+                  {
+                    "TableColumn": [
+                      {
+                        "Sentence": "１５　カリウムイオン（Ｋ＋）"
+                      },
+                      {
+                        "Sentence": "単位はｍｇ／ｌ及びｍｅ／ｌを併記する。有効数字は２けた又は３けたとする。"
+                      }
+                    ]
+                  },
+                  {
+                    "TableColumn": [
+                      {
+                        "Sentence": "１６　カルシウムイオン（Ｃａ２＋）"
+                      },
+                      {
+                        "Sentence": "単位はｍｇ／ｌ及びｍｅ／ｌを併記する。有効数字は２けた又は３けたとする。"
+                      }
+                    ]
+                  },
+                  {
+                    "TableColumn": [
+                      {
+                        "Sentence": "１７　マグネシウムイオン（Ｍｇ２＋）"
+                      },
+                      {
+                        "Sentence": "単位はｍｇ／ｌ及びｍｅ／ｌを併記する。有効数字は２けた又は３けたとする。"
+                      }
+                    ]
+                  },
+                  {
+                    "TableColumn": [
+                      {
+                        "Sentence": "１８　ＥＤＴＡ硬度（Ｈｄ）"
+                      },
+                      {
+                        "Sentence": "単位はｍｅ／ｌ及びＣａＣＯ３ｍｇ／ｌを併記する。有効数字は２けた又は３けたとする。"
+                      }
+                    ]
+                  },
+                  {
+                    "TableColumn": [
+                      {
+                        "Sentence": "１９　塩素イオン（Ｃｌ－）"
+                      },
+                      {
+                        "Sentence": "単位はｍｇ／ｌ及びｍｅ／ｌを併記する。有効数字は２けた又は３けたとする。"
+                      }
+                    ]
+                  },
+                  {
+                    "TableColumn": [
+                      {
+                        "Sentence": "２０　硫酸イオン（ＳＯ４２－）"
+                      },
+                      {
+                        "Sentence": "単位はｍｇ／ｌ及びｍｅ／ｌを併記する。有効数字は２けた又は３けたとする。"
+                      }
+                    ]
+                  },
+                  {
+                    "TableColumn": [
+                      {
+                        "Sentence": [
+                          "２１　アルカリ度",
+                          "ｐＨ４．３　アルカリ度（４．３Ｂｘ）",
+                          "ｐＨ８．４　アルカリ度（８．４Ｂｘ）"
+                        ]
+                      },
+                      {
+                        "Sentence": "単位はｍｅ／ｌ及びＣａＣＯ３ｍｇ／ｌを併記する。有効数字は２けた又は３けたとする。"
+                      }
+                    ]
+                  },
+                  {
+                    "TableColumn": [
+                      {
+                        "Sentence": [
+                          "２２　酸度",
+                          "ｐＨ４．３酸度（４．３Ａｘ）",
+                          "ｐＨ８．４酸度（８．４Ａｘ）"
+                        ]
+                      },
+                      {
+                        "Sentence": "単位はｍｅ／ｌ及びＣａＣＯ３ｍｇ／ｌを併記する。有効数字は２けた又は３けたとする。"
+                      }
+                    ]
+                  },
+                  {
+                    "TableColumn": [
+                      {
+                        "Sentence": [
+                          "２３　ケイ酸",
+                          "（比色ケイ酸ＳｉＯ２＊）"
+                        ]
+                      },
+                      {
+                        "Sentence": "単位はｍｇ／ｌ及び　ｍ　ｍｏｌを併記する。有効数字は２けた又は３けたとする。"
+                      }
+                    ]
+                  },
+                  {
+                    "TableColumn": [
+                      {
+                        "Sentence": [
+                          "２４　鉄",
+                          "（酸可溶性鉄Ｆｅ＊）"
+                        ]
+                      },
+                      {
+                        "Sentence": "単位はｍｇ／ｌ及びμｍｏｌを併記する。有効数字は１けた又は２けたとする。"
+                      }
+                    ]
+                  },
+                  {
+                    "TableColumn": [
+                      {
+                        "Sentence": [
+                          "２５　リン",
+                          "（可溶性リンＰ＊）"
+                        ]
+                      },
+                      {
+                        "Sentence": "単位はｍｇ／ｌ及びμｍｏｌを併記する。有効数字は１けた又は２けたとする。"
+                      }
+                    ]
+                  },
+                  {
+                    "TableColumn": [
+                      {
+                        "Sentence": [
+                          "２６　亜硝酸イオン",
+                          "（ＮＯ２－）"
+                        ]
+                      },
+                      {
+                        "Sentence": "単位はｍｇ／ｌ及びμｍｏｌを併記する。有効数字は１けた又は２けたとする。（表示は窒素として表わし、記号はＮＯ２－―Ｎとする。）"
+                      }
+                    ]
+                  },
+                  {
+                    "TableColumn": [
+                      {
+                        "Sentence": [
+                          "２７　硝酸イオン",
+                          "（ＮＯ３－）"
+                        ]
+                      },
+                      {
+                        "Sentence": "単位はｍｇ／ｌ及びμｍｏｌを併記する。有効数字は１けた又は２けたとする。（表示は窒素として表わし、記号はＮＯ３－―Ｎとする。）"
+                      }
+                    ]
+                  },
+                  {
+                    "TableColumn": [
+                      {
+                        "Sentence": [
+                          "２８　アンモニウムイオン",
+                          "（ＮＨ４＋）"
+                        ]
+                      },
+                      {
+                        "Sentence": "単位はｍｇ／ｌおよびμｍｏｌを併記する。有効数字は１けた又は２けたとする。（表示は窒素として表わし、記号はＮＨ４＋―Ｎとする。）"
+                      }
+                    ]
+                  },
+                  {
+                    "TableColumn": [
+                      {
+                        "Sentence": [
+                          "２９　化学的酸素消費量",
+                          "（ＣＯＤ）"
+                        ]
+                      },
+                      {
+                        "Sentence": "単位はＯ２ｍｇ／ｌ及びｍｅ／ｌを併記する。有効数字は１けたから３けたまでとする。"
+                      }
+                    ]
+                  },
+                  {
+                    "TableColumn": [
+                      {
+                        "Sentence": [
+                          "３０　生物化学的酸素消費量",
+                          "（ＢＯＤ）"
+                        ]
+                      },
+                      {
+                        "Sentence": "単位はＯ２ｍｇ／ｌ又はｐｐｍ及びｍｅ／ｌを併記する。"
+                      }
+                    ]
+                  },
+                  {
+                    "TableColumn": [
+                      {
+                        "Sentence": [
+                          "３１　バクテリア類",
+                          "一般細菌数"
+                        ]
+                      },
+                      {
+                        "Sentence": "１ｍｌ中の集落数が上位から続けて３個以上の有効数字を含まないように略算して表示する。"
+                      }
+                    ]
+                  },
+                  {
+                    "TableColumn": [
+                      {
+                        "Sentence": "大腸菌群"
+                      },
+                      {
+                        "Sentence": "１ｍｌ中の最確数"
+                      }
+                    ]
+                  },
+                  {
+                    "TableColumn": [
+                      {
+                        "Sentence": "３２　プランクトン"
+                      },
+                      {
+                        "Sentence": "単位はｍｌ／１とし、沈殿管の目盛の数値をそのまま読む。なお、懸濁物を含む場合はその旨を付記する。種類は顕微鏡で見て多いものを記す。"
+                      }
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "TableStructTitle": "第２部　略字、略号及び記号",
+              "Table": {
+                "TableRow": [
+                  {
+                    "TableColumn": [
+                      {
+                        "Sentence": "略字略号及び記号"
+                      },
+                      {
+                        "Sentence": "略字略号及び記号の意味"
+                      }
+                    ]
+                  },
+                  {
+                    "TableColumn": [
+                      {
+                        "Sentence": "℃"
+                      },
+                      {
+                        "Sentence": "摂氏度"
+                      }
+                    ]
+                  },
+                  {
+                    "TableColumn": [
+                      {
+                        "Sentence": "ｍｈｏ"
+                      },
+                      {
+                        "Sentence": "ムオー"
+                      }
+                    ]
+                  },
+                  {
+                    "TableColumn": [
+                      {
+                        "Sentence": "Ω"
+                      },
+                      {
+                        "Sentence": "オーム"
+                      }
+                    ]
+                  },
+                  {
+                    "TableColumn": [
+                      {
+                        "Sentence": "ｃｍ"
+                      },
+                      {
+                        "Sentence": "センチメートル"
+                      }
+                    ]
+                  },
+                  {
+                    "TableColumn": [
+                      {
+                        "Sentence": "ｍ"
+                      },
+                      {
+                        "Sentence": "メートル"
+                      }
+                    ]
+                  },
+                  {
+                    "TableColumn": [
+                      {
+                        "Sentence": "ｍｇ"
+                      },
+                      {
+                        "Sentence": "ミリグラム"
+                      }
+                    ]
+                  },
+                  {
+                    "TableColumn": [
+                      {
+                        "Sentence": "ｇ"
+                      },
+                      {
+                        "Sentence": "グラム"
+                      }
+                    ]
+                  },
+                  {
+                    "TableColumn": [
+                      {
+                        "Sentence": "ｍｅ"
+                      },
+                      {
+                        "Sentence": "ミリグラム当量"
+                      }
+                    ]
+                  },
+                  {
+                    "TableColumn": [
+                      {
+                        "Sentence": "μｍｏｌ"
+                      },
+                      {
+                        "Sentence": "マイクロモル"
+                      }
+                    ]
+                  },
+                  {
+                    "TableColumn": [
+                      {
+                        "Sentence": "ｍｍｏｌ"
+                      },
+                      {
+                        "Sentence": "ミリモル"
+                      }
+                    ]
+                  },
+                  {
+                    "TableColumn": [
+                      {
+                        "Sentence": "ｍｏｌ"
+                      },
+                      {
+                        "Sentence": "モル"
+                      }
+                    ]
+                  },
+                  {
+                    "TableColumn": [
+                      {
+                        "Sentence": "％"
+                      },
+                      {
+                        "Sentence": "パーセント"
+                      }
+                    ]
+                  },
+                  {
+                    "TableColumn": [
+                      {
+                        "Sentence": "ｍｌ"
+                      },
+                      {
+                        "Sentence": "ミリリツトル"
+                      }
+                    ]
+                  },
+                  {
+                    "TableColumn": [
+                      {
+                        "Sentence": "ｌ"
+                      },
+                      {
+                        "Sentence": "リツトル"
+                      }
+                    ]
+                  },
+                  {
+                    "TableColumn": [
+                      {
+                        "Sentence": "Ｏ２―％"
+                      },
+                      {
+                        "Sentence": "酸素飽和度"
+                      }
+                    ]
+                  },
+                  {
+                    "TableColumn": [
+                      {
+                        "Sentence": [
+                          "塩酸あるいは硫酸",
+                          "（１＋１）"
+                        ]
+                      },
+                      {
+                        "Sentence": "濃塩酸あるいは濃硫酸１容に対し蒸留水０容の溶液"
+                      }
+                    ]
+                  },
+                  {
+                    "TableColumn": [
+                      {
+                        "Sentence": "（１＋３）"
+                      },
+                      {
+                        "Sentence": "濃塩酸あるいは濃硫酸１容に対し蒸留水３容の溶液"
+                      }
+                    ]
+                  },
+                  {
+                    "TableColumn": [
+                      {
+                        "Sentence": "（１＋５）"
+                      },
+                      {
+                        "Sentence": "濃塩酸あるいは濃硫酸１容に対し蒸留水５容の溶液"
+                      }
+                    ]
+                  },
+                  {
+                    "TableColumn": [
+                      {
+                        "Sentence": "Ｔａ"
+                      },
+                      {
+                        "Sentence": "気温"
+                      }
+                    ]
+                  },
+                  {
+                    "TableColumn": [
+                      {
+                        "Sentence": "Ｔｗ"
+                      },
+                      {
+                        "Sentence": "水温"
+                      }
+                    ]
+                  },
+                  {
+                    "TableColumn": [
+                      {
+                        "Sentence": "λ"
+                      },
+                      {
+                        "Sentence": "電導度"
+                      }
+                    ]
+                  },
+                  {
+                    "TableColumn": [
+                      {
+                        "Sentence": "ρｗ"
+                      },
+                      {
+                        "Sentence": "比抵抗"
+                      }
+                    ]
+                  },
+                  {
+                    "TableColumn": [
+                      {
+                        "Sentence": "Ｔｕｂ"
+                      },
+                      {
+                        "Sentence": "濁度"
+                      }
+                    ]
+                  },
+                  {
+                    "TableColumn": [
+                      {
+                        "Sentence": "Ｔｒｐ"
+                      },
+                      {
+                        "Sentence": "透明度"
+                      }
+                    ]
+                  },
+                  {
+                    "TableColumn": [
+                      {
+                        "Sentence": "ＤＯ"
+                      },
+                      {
+                        "Sentence": "溶存酸素ガス"
+                      }
+                    ]
+                  },
+                  {
+                    "TableColumn": [
+                      {
+                        "Sentence": "Ｔ－Ｒｅ"
+                      },
+                      {
+                        "Sentence": "全蒸発残留物"
+                      }
+                    ]
+                  },
+                  {
+                    "TableColumn": [
+                      {
+                        "Sentence": "Ｓ－Ｒｅ"
+                      },
+                      {
+                        "Sentence": "溶解性蒸発残留物"
+                      }
+                    ]
+                  },
+                  {
+                    "TableColumn": [
+                      {
+                        "Sentence": "Ｓｕｓｐ"
+                      },
+                      {
+                        "Sentence": "懸濁物"
+                      }
+                    ]
+                  },
+                  {
+                    "TableColumn": [
+                      {
+                        "Sentence": "Ｎａ＋"
+                      },
+                      {
+                        "Sentence": "ナトリウムイオン"
+                      }
+                    ]
+                  },
+                  {
+                    "TableColumn": [
+                      {
+                        "Sentence": "Ｋ＋"
+                      },
+                      {
+                        "Sentence": "カリウムイオン"
+                      }
+                    ]
+                  },
+                  {
+                    "TableColumn": [
+                      {
+                        "Sentence": "Ｃａ２＋"
+                      },
+                      {
+                        "Sentence": "カルシウムイオン"
+                      }
+                    ]
+                  },
+                  {
+                    "TableColumn": [
+                      {
+                        "Sentence": "Ｍｇ２＋"
+                      },
+                      {
+                        "Sentence": "マグネシウムイオン"
+                      }
+                    ]
+                  },
+                  {
+                    "TableColumn": [
+                      {
+                        "Sentence": "Ｈｄ"
+                      },
+                      {
+                        "Sentence": "ＥＤＴＡ硬度"
+                      }
+                    ]
+                  },
+                  {
+                    "TableColumn": [
+                      {
+                        "Sentence": "Ｃｌ－"
+                      },
+                      {
+                        "Sentence": "塩素イオン"
+                      }
+                    ]
+                  },
+                  {
+                    "TableColumn": [
+                      {
+                        "Sentence": "ＳＯ４２－"
+                      },
+                      {
+                        "Sentence": "硫酸イオン"
+                      }
+                    ]
+                  },
+                  {
+                    "TableColumn": [
+                      {
+                        "Sentence": "４．３Ｂｘ"
+                      },
+                      {
+                        "Sentence": "ｐＨ４．３　アルカリ度"
+                      }
+                    ]
+                  },
+                  {
+                    "TableColumn": [
+                      {
+                        "Sentence": "８．４Ｂｘ"
+                      },
+                      {
+                        "Sentence": "ｐＨ８．４　アルカリ度"
+                      }
+                    ]
+                  },
+                  {
+                    "TableColumn": [
+                      {
+                        "Sentence": "４．３Ａｘ"
+                      },
+                      {
+                        "Sentence": "ｐＨ４．３　酸度"
+                      }
+                    ]
+                  },
+                  {
+                    "TableColumn": [
+                      {
+                        "Sentence": "８．４Ａｘ"
+                      },
+                      {
+                        "Sentence": "ｐＨ８．４　酸度"
+                      }
+                    ]
+                  },
+                  {
+                    "TableColumn": [
+                      {
+                        "Sentence": "ＳｉＯ２＊"
+                      },
+                      {
+                        "Sentence": "比色ケイ酸"
+                      }
+                    ]
+                  },
+                  {
+                    "TableColumn": [
+                      {
+                        "Sentence": "Ｆｅ＊"
+                      },
+                      {
+                        "Sentence": "酸可溶性鉄"
+                      }
+                    ]
+                  },
+                  {
+                    "TableColumn": [
+                      {
+                        "Sentence": "Ｐ＊"
+                      },
+                      {
+                        "Sentence": "可溶性リン"
+                      }
+                    ]
+                  },
+                  {
+                    "TableColumn": [
+                      {
+                        "Sentence": "ＮＯ２－―Ｎ"
+                      },
+                      {
+                        "Sentence": "亜硝酸イオン"
+                      }
+                    ]
+                  },
+                  {
+                    "TableColumn": [
+                      {
+                        "Sentence": "ＮＯ３－―Ｎ"
+                      },
+                      {
+                        "Sentence": "硝酸イオン"
+                      }
+                    ]
+                  },
+                  {
+                    "TableColumn": [
+                      {
+                        "Sentence": "ＮＨ４＋―Ｎ"
+                      },
+                      {
+                        "Sentence": "アンモニウムイオン"
+                      }
+                    ]
+                  },
+                  {
+                    "TableColumn": [
+                      {
+                        "Sentence": "ＣＯＤ"
+                      },
+                      {
+                        "Sentence": "化学的酸素消費量"
+                      }
+                    ]
+                  },
+                  {
+                    "TableColumn": [
+                      {
+                        "Sentence": "ＢＯＤ"
+                      },
+                      {
+                        "Sentence": "生物化学的酸素消費量"
+                      }
+                    ]
+                  }
+                ]
+              },
+              "Remarks": {
+                "RemarksLabel": "注",
+                "Sentence": "略字、略号及び記号は、別表第二、三、四において使用されるものもあわせてあげた。"
+              }
+            }
+          ]
+        },
+        {
+          "AppdxTableTitle": "別表第六",
+          "TableStruct": {
+            "Table": {
+              "TableRow": {
+                "TableColumn": {
+                  "@BorderBottom": "none",
+                  "@BorderLeft": "none",
+                  "@BorderRight": "none",
+                  "@BorderTop": "none",
+                  "FigStruct": {
+                    "Fig": {
+                      "@src": ""
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        {
+          "AppdxTableTitle": "別表第七",
+          "TableStruct": {
+            "Table": {
+              "TableRow": {
+                "TableColumn": {
+                  "@BorderBottom": "none",
+                  "@BorderLeft": "none",
+                  "@BorderRight": "none",
+                  "@BorderTop": "none",
+                  "FigStruct": {
+                    "Fig": {
+                      "@src": ""
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        {
+          "AppdxTableTitle": "別表第八",
+          "Item": [
+            {
+              "@Num": "1",
+              "ItemTitle": "第１部",
+              "ItemSentence": {
+                "Sentence": "濃度の区分"
+              },
+              "TableStruct": {
+                "Table": {
+                  "TableRow": [
+                    {
+                      "TableColumn": [
+                        {
+                          "@rowspan": "2",
+                          "Sentence": "水質平均値表の項目番号"
+                        },
+                        {
+                          "@rowspan": "2",
+                          "Sentence": "項目"
+                        },
+                        {
+                          "Sentence": "階級"
+                        },
+                        {
+                          "Sentence": "Ｉ"
+                        },
+                        {
+                          "Sentence": "ＩＩ"
+                        },
+                        {
+                          "Sentence": "ＩＩＩ"
+                        },
+                        {
+                          "Sentence": "ＩＶ"
+                        },
+                        {
+                          "Sentence": "Ｖ"
+                        },
+                        {
+                          "Sentence": "ＶＩ"
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "Sentence": null
+                        },
+                        {
+                          "Sentence": null
+                        },
+                        {
+                          "Sentence": null
+                        },
+                        {
+                          "Sentence": null
+                        },
+                        {
+                          "Sentence": null
+                        },
+                        {
+                          "Sentence": null
+                        },
+                        {
+                          "Sentence": null
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "Sentence": "３"
+                        },
+                        {
+                          "Sentence": "ｐＨ"
+                        },
+                        {
+                          "Sentence": null
+                        },
+                        {
+                          "@rowspan": "2",
+                          "Sentence": "｝４．３以下"
+                        },
+                        {
+                          "@rowspan": "2",
+                          "Sentence": "４．４～５．５"
+                        },
+                        {
+                          "@rowspan": "2",
+                          "Sentence": "５．６～６．５"
+                        },
+                        {
+                          "@rowspan": "2",
+                          "Sentence": "６．６～７．５"
+                        },
+                        {
+                          "@rowspan": "2",
+                          "Sentence": "７．６～８．３"
+                        },
+                        {
+                          "@rowspan": "2",
+                          "Sentence": "８．４以上"
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "Sentence": "４"
+                        },
+                        {
+                          "Sentence": "ＲｐＨ"
+                        },
+                        {
+                          "Sentence": null
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "Sentence": "５"
+                        },
+                        {
+                          "Sentence": "電導度"
+                        },
+                        {
+                          "Sentence": "１０－４ｍｈｏ／ｃｍ"
+                        },
+                        {
+                          "Sentence": "０．４０以下"
+                        },
+                        {
+                          "Sentence": "０．４１～０．８０"
+                        },
+                        {
+                          "Sentence": "０．８１～１．６０"
+                        },
+                        {
+                          "Sentence": "１．６１～３．２０"
+                        },
+                        {
+                          "Sentence": "３．２１～６．４０"
+                        },
+                        {
+                          "Sentence": "６．４１以上"
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "Sentence": "６"
+                        },
+                        {
+                          "Sentence": "比抵抗"
+                        },
+                        {
+                          "Sentence": "１０３Ωｃｍ"
+                        },
+                        {
+                          "Sentence": "２５以上"
+                        },
+                        {
+                          "Sentence": "２４．９～１２．６"
+                        },
+                        {
+                          "Sentence": "１２．５～６．２５"
+                        },
+                        {
+                          "Sentence": "６．２５～３．１３"
+                        },
+                        {
+                          "Sentence": "３．１２～１．５６"
+                        },
+                        {
+                          "Sentence": "１．５５以下"
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "Sentence": "７"
+                        },
+                        {
+                          "Sentence": "濁度"
+                        },
+                        {
+                          "Sentence": null
+                        },
+                        {
+                          "Sentence": "１０以下"
+                        },
+                        {
+                          "Sentence": "１１～２０"
+                        },
+                        {
+                          "Sentence": "２１～４０"
+                        },
+                        {
+                          "Sentence": "４１～８０"
+                        },
+                        {
+                          "Sentence": "８１～１６０"
+                        },
+                        {
+                          "Sentence": "１６１以上"
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "Sentence": "９"
+                        },
+                        {
+                          "Sentence": "溶存酸素ガス"
+                        },
+                        {
+                          "Sentence": "Ｏ２％"
+                        },
+                        {
+                          "Sentence": "１０以下"
+                        },
+                        {
+                          "Sentence": "１１～４０"
+                        },
+                        {
+                          "Sentence": "４１～７０"
+                        },
+                        {
+                          "Sentence": "７１～９０"
+                        },
+                        {
+                          "Sentence": "９１～１１０"
+                        },
+                        {
+                          "Sentence": "１１１以上"
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "Sentence": "１０"
+                        },
+                        {
+                          "Sentence": "全蒸発残留物"
+                        },
+                        {
+                          "Sentence": "ｍｇ／ｌ"
+                        },
+                        {
+                          "@rowspan": "2",
+                          "Sentence": "｝４０以下"
+                        },
+                        {
+                          "@rowspan": "2",
+                          "Sentence": "４１～８０"
+                        },
+                        {
+                          "@rowspan": "2",
+                          "Sentence": "８１～１６０"
+                        },
+                        {
+                          "@rowspan": "2",
+                          "Sentence": "１６１～３２０"
+                        },
+                        {
+                          "@rowspan": "2",
+                          "Sentence": "３２１～６４０"
+                        },
+                        {
+                          "@rowspan": "2",
+                          "Sentence": "６４１以上"
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "Sentence": "１１"
+                        },
+                        {
+                          "Sentence": "溶解性蒸発残留物"
+                        },
+                        {
+                          "Sentence": "ｍｇ／ｌ"
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "Sentence": "１２"
+                        },
+                        {
+                          "Sentence": "懸濁物"
+                        },
+                        {
+                          "Sentence": "ｍｇ／ｌ"
+                        },
+                        {
+                          "Sentence": "１０以下"
+                        },
+                        {
+                          "Sentence": "１１～２０"
+                        },
+                        {
+                          "Sentence": "２１～４０"
+                        },
+                        {
+                          "Sentence": "４１～８０"
+                        },
+                        {
+                          "Sentence": "８１～１６０"
+                        },
+                        {
+                          "Sentence": "１６１以上"
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "Sentence": "１３"
+                        },
+                        {
+                          "Sentence": "ナトリウムイオン"
+                        },
+                        {
+                          "Sentence": "ｍｅ／ｌ"
+                        },
+                        {
+                          "@rowspan": "12",
+                          "Sentence": "｝０．１０以上"
+                        },
+                        {
+                          "@rowspan": "12",
+                          "Sentence": "０．１１～０．２０"
+                        },
+                        {
+                          "@rowspan": "12",
+                          "Sentence": "０．２１～０．４０"
+                        },
+                        {
+                          "@rowspan": "12",
+                          "Sentence": "０．４１～０．８０"
+                        },
+                        {
+                          "@rowspan": "12",
+                          "Sentence": "０．８１～１．６０"
+                        },
+                        {
+                          "@rowspan": "12",
+                          "Sentence": "１．６１以下"
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "Sentence": "１４"
+                        },
+                        {
+                          "Sentence": "カリウムイオン"
+                        },
+                        {
+                          "Sentence": "ｍｅ／ｌ"
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "Sentence": "１５"
+                        },
+                        {
+                          "Sentence": "カルシウムイオン"
+                        },
+                        {
+                          "Sentence": "ｍｅ／ｌ"
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "Sentence": "１６"
+                        },
+                        {
+                          "Sentence": "マグネシウムイオン"
+                        },
+                        {
+                          "Sentence": "ｍｅ／ｌ"
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "Sentence": "１８"
+                        },
+                        {
+                          "Sentence": "ＥＤＴＡ硬度"
+                        },
+                        {
+                          "Sentence": "ｍｅ／ｌ"
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "Sentence": "１９"
+                        },
+                        {
+                          "Sentence": "塩素イオン"
+                        },
+                        {
+                          "Sentence": "ｍｅ／ｌ"
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "Sentence": "２０"
+                        },
+                        {
+                          "Sentence": "硫酸イオン"
+                        },
+                        {
+                          "Sentence": "ｍｅ／ｌ"
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "Sentence": "（（２１））"
+                        },
+                        {
+                          "@rowspan": "2",
+                          "Sentence": "アルカリ度"
+                        },
+                        {
+                          "@rowspan": "2",
+                          "Sentence": "ｍｅ／ｌ"
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": {
+                        "Sentence": "（（２３））"
+                      }
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "Sentence": "（（２４））"
+                        },
+                        {
+                          "@rowspan": "2",
+                          "Sentence": "酸度"
+                        },
+                        {
+                          "@rowspan": "2",
+                          "Sentence": "ｍｅ／ｌ"
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": {
+                        "Sentence": "（（２５））"
+                      }
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "Sentence": "（（２６））"
+                        },
+                        {
+                          "Sentence": "ケイ酸"
+                        },
+                        {
+                          "Sentence": "ｍｍｏｌ"
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "Sentence": "１７"
+                        },
+                        {
+                          "Sentence": "陽イオンの合計"
+                        },
+                        {
+                          "Sentence": "ｍｅ／ｌ"
+                        },
+                        {
+                          "@rowspan": "2",
+                          "Sentence": "｝０．４０以下"
+                        },
+                        {
+                          "@rowspan": "2",
+                          "Sentence": "０．４１～０．８０"
+                        },
+                        {
+                          "@rowspan": "2",
+                          "Sentence": "０．８１～１．６０"
+                        },
+                        {
+                          "@rowspan": "2",
+                          "Sentence": "１．６１～３．２０"
+                        },
+                        {
+                          "@rowspan": "2",
+                          "Sentence": "３．２１～６．４０"
+                        },
+                        {
+                          "@rowspan": "2",
+                          "Sentence": "６．４１以上"
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "Sentence": "（（２２））"
+                        },
+                        {
+                          "Sentence": "陰イオンの合計"
+                        },
+                        {
+                          "Sentence": "ｍｅ／ｌ"
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "Sentence": "（（２７））"
+                        },
+                        {
+                          "Sentence": "鉄"
+                        },
+                        {
+                          "Sentence": "ｍｇ／ｌ"
+                        },
+                        {
+                          "Sentence": "０．１０以下"
+                        },
+                        {
+                          "Sentence": "０．１１～０．３０"
+                        },
+                        {
+                          "Sentence": "０．３１～０．９０"
+                        },
+                        {
+                          "Sentence": "０．９１～２．７"
+                        },
+                        {
+                          "Sentence": "２．８～８．０"
+                        },
+                        {
+                          "Sentence": "８．１以下"
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "Sentence": "（（２８））"
+                        },
+                        {
+                          "Sentence": "リン"
+                        },
+                        {
+                          "Sentence": "ｍｇ／ｌ"
+                        },
+                        {
+                          "@rowspan": "3",
+                          "Sentence": "｝０．０１０以下"
+                        },
+                        {
+                          "@rowspan": "3",
+                          "Sentence": "０．０１１～０．０３０"
+                        },
+                        {
+                          "@rowspan": "3",
+                          "Sentence": "０．０３１～０．０９０"
+                        },
+                        {
+                          "@rowspan": "3",
+                          "Sentence": "０．０９１～０．２７"
+                        },
+                        {
+                          "@rowspan": "3",
+                          "Sentence": "０．２８～０．８０"
+                        },
+                        {
+                          "@rowspan": "3",
+                          "Sentence": "０．８１以上"
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "Sentence": "（（３１））"
+                        },
+                        {
+                          "Sentence": "アンモニウムイオン―Ｎ"
+                        },
+                        {
+                          "Sentence": "ｍｇ／ｌ"
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "Sentence": "（（２９））"
+                        },
+                        {
+                          "Sentence": "亜硝酸イオン―Ｎ"
+                        },
+                        {
+                          "Sentence": "ｍｇ／ｌ"
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "Sentence": "（（３０））"
+                        },
+                        {
+                          "Sentence": "硝酸イオン―Ｎ"
+                        },
+                        {
+                          "Sentence": "ｍｇ／ｌ"
+                        },
+                        {
+                          "Sentence": "０．０２以下"
+                        },
+                        {
+                          "Sentence": "０．０３～０．１０"
+                        },
+                        {
+                          "Sentence": "０．１１～０．３０"
+                        },
+                        {
+                          "Sentence": "０．３１～１．０"
+                        },
+                        {
+                          "Sentence": "１．１～３．０"
+                        },
+                        {
+                          "Sentence": "３．１以上"
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "Sentence": "（（３２））"
+                        },
+                        {
+                          "Sentence": "化学的酸素消費量"
+                        },
+                        {
+                          "Sentence": "ｍｅ／ｌ"
+                        },
+                        {
+                          "Sentence": "０．１０以下"
+                        },
+                        {
+                          "Sentence": "０．１１～０．２０"
+                        },
+                        {
+                          "Sentence": "０．２１～０．４０"
+                        },
+                        {
+                          "Sentence": "０．４１～０．８０"
+                        },
+                        {
+                          "Sentence": "０．８１～１．６０"
+                        },
+                        {
+                          "Sentence": "１．６１以上"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "Remarks": {
+                  "RemarksLabel": {
+                    "@LineBreak": "true",
+                    "#text": "注"
+                  },
+                  "Item": [
+                    {
+                      "@Num": "1",
+                      "ItemTitle": "１",
+                      "ItemSentence": {
+                        "Sentence": "さらに細分を必要とする場合は、記号の中に番号を付するなど適宜の方法によつて区分する。"
+                      }
+                    },
+                    {
+                      "@Num": "2",
+                      "ItemTitle": "２",
+                      "ItemSentence": {
+                        "Sentence": "比抵抗とは、地下水調査の場合の水比抵抗をいう。"
+                      }
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "@Num": "2",
+              "ItemTitle": "第２部",
+              "ItemSentence": {
+                "Sentence": "分布図の様式"
+              },
+              "Subitem1": [
+                {
+                  "@Num": "1",
+                  "Subitem1Title": "（１）",
+                  "Subitem1Sentence": {
+                    "Sentence": "記号"
+                  },
+                  "TableStruct": {
+                    "Table": {
+                      "TableRow": [
+                        {
+                          "TableColumn": [
+                            {
+                              "@rowspan": "3",
+                              "Sentence": "区分"
+                            },
+                            {
+                              "@colspan": "3",
+                              "Sentence": "記号"
+                            },
+                            {
+                              "@rowspan": "3",
+                              "Sentence": "記号の表示の方法"
+                            }
+                          ]
+                        },
+                        {
+                          "TableColumn": [
+                            {
+                              "@rowspan": "2",
+                              "Sentence": "形状及び大きさ"
+                            },
+                            {
+                              "Sentence": "線色"
+                            },
+                            {
+                              "@rowspan": "2",
+                              "Sentence": "彩色"
+                            }
+                          ]
+                        },
+                        {
+                          "TableColumn": {
+                            "Sentence": "線幅"
+                          }
+                        },
+                        {
+                          "TableColumn": [
+                            {
+                              "Sentence": "階級Ｉ"
+                            },
+                            {
+                              "Sentence": "図　（略）　５．０ミリメートル"
+                            },
+                            {
+                              "Sentence": "黒"
+                            },
+                            {
+                              "Sentence": "青"
+                            },
+                            {
+                              "@rowspan": "6",
+                              "Sentence": "採水地点の位置に表示し、円の中心を地点上の位置に一致させる。"
+                            }
+                          ]
+                        },
+                        {
+                          "TableColumn": [
+                            {
+                              "Sentence": "階級ＩＩ"
+                            },
+                            {
+                              "Sentence": "５．０ミリメートル"
+                            },
+                            {
+                              "Sentence": "０．２ミリメートル"
+                            },
+                            {
+                              "Sentence": "緑"
+                            }
+                          ]
+                        },
+                        {
+                          "TableColumn": [
+                            {
+                              "Sentence": "階級ＩＩＩ"
+                            },
+                            {
+                              "Sentence": "５．０ミリメートル"
+                            },
+                            {
+                              "Sentence": null
+                            },
+                            {
+                              "Sentence": "黄"
+                            }
+                          ]
+                        },
+                        {
+                          "TableColumn": [
+                            {
+                              "Sentence": "階級ＩＶ"
+                            },
+                            {
+                              "Sentence": "５．０ミリメートル"
+                            },
+                            {
+                              "Sentence": null
+                            },
+                            {
+                              "Sentence": "だいだい"
+                            }
+                          ]
+                        },
+                        {
+                          "TableColumn": [
+                            {
+                              "Sentence": "階級Ｖ"
+                            },
+                            {
+                              "Sentence": "５．０ミリメートル"
+                            },
+                            {
+                              "Sentence": null
+                            },
+                            {
+                              "Sentence": "桃"
+                            }
+                          ]
+                        },
+                        {
+                          "TableColumn": [
+                            {
+                              "Sentence": "階級ＶＩ"
+                            },
+                            {
+                              "Sentence": "５．０ミリメートル"
+                            },
+                            {
+                              "Sentence": null
+                            },
+                            {
+                              "Sentence": "赤"
+                            }
+                          ]
+                        },
+                        {
+                          "TableColumn": [
+                            {
+                              "@rowspan": "5",
+                              "Sentence": "地点番号"
+                            },
+                            {
+                              "Sentence": "アラビヤ数字"
+                            },
+                            {
+                              "Sentence": "赤"
+                            },
+                            {
+                              "@rowspan": "5",
+                              "Sentence": null
+                            },
+                            {
+                              "@rowspan": "5",
+                              "Sentence": "濃度の階級を表示する記号から右へ２．０　ミリメートル離して記入する。"
+                            }
+                          ]
+                        },
+                        {
+                          "TableColumn": [
+                            {
+                              "Sentence": "ゴジツク体"
+                            },
+                            {
+                              "Sentence": "０．２ミリメートル"
+                            }
+                          ]
+                        },
+                        {
+                          "TableColumn": [
+                            {
+                              "Sentence": "左横書"
+                            },
+                            {
+                              "Sentence": null
+                            }
+                          ]
+                        },
+                        {
+                          "TableColumn": [
+                            {
+                              "Sentence": "字高おおむね４．０ミリメートル"
+                            },
+                            {
+                              "Sentence": null
+                            }
+                          ]
+                        },
+                        {
+                          "TableColumn": [
+                            {
+                              "Sentence": "字隔おおむね１．０ミリメートル"
+                            },
+                            {
+                              "Sentence": null
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    "Remarks": {
+                      "RemarksLabel": {
+                        "@LineBreak": "true",
+                        "#text": "注"
+                      },
+                      "Item": [
+                        {
+                          "@Num": "1",
+                          "ItemTitle": "１",
+                          "ItemSentence": {
+                            "Sentence": "記号の形状、大きさ及び線幅は、印刷する場合を除き、誤解を生じない範囲内において、多少の変更をすることができる。"
+                          }
+                        },
+                        {
+                          "@Num": "2",
+                          "ItemTitle": "２",
+                          "ItemSentence": {
+                            "Sentence": "２種以上の項目についてこれを一枚の図に表示する場合は、項目を示す記号を濃度記号の上に記す。"
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "@Num": "1",
+                  "Subitem1Title": "（２）",
+                  "Subitem1Sentence": {
+                    "Sentence": "整飾"
+                  },
+                  "TableStruct": {
+                    "Table": {
+                      "TableRow": [
+                        {
+                          "TableColumn": [
+                            {
+                              "@colspan": "2",
+                              "Sentence": "区分"
+                            },
+                            {
+                              "Sentence": "地形図上に表示する場合"
+                            },
+                            {
+                              "Sentence": "印刷する場合"
+                            }
+                          ]
+                        },
+                        {
+                          "TableColumn": [
+                            {
+                              "@rowspan": "6",
+                              "Sentence": "色"
+                            },
+                            {
+                              "Sentence": null
+                            },
+                            {
+                              "Sentence": "黒又はその他の色"
+                            },
+                            {
+                              "Sentence": null
+                            }
+                          ]
+                        },
+                        {
+                          "TableColumn": [
+                            {
+                              "Sentence": "表題"
+                            },
+                            {
+                              "Sentence": "〇〇川水系項目別水質分布図（項目名）"
+                            },
+                            {
+                              "Sentence": null
+                            }
+                          ]
+                        },
+                        {
+                          "TableColumn": [
+                            {
+                              "Sentence": "書体"
+                            },
+                            {
+                              "Sentence": "直立等線体、左横書"
+                            },
+                            {
+                              "Sentence": null
+                            }
+                          ]
+                        },
+                        {
+                          "TableColumn": [
+                            {
+                              "Sentence": "字大"
+                            },
+                            {
+                              "Sentence": "おおむね１センチメートル"
+                            },
+                            {
+                              "Sentence": null
+                            }
+                          ]
+                        },
+                        {
+                          "TableColumn": [
+                            {
+                              "Sentence": "字隔"
+                            },
+                            {
+                              "Sentence": "おおむね３ミリメートル"
+                            },
+                            {
+                              "Sentence": null
+                            }
+                          ]
+                        },
+                        {
+                          "TableColumn": [
+                            {
+                              "Sentence": "位置"
+                            },
+                            {
+                              "Sentence": "図名のおおむね５ミリメートル上部"
+                            },
+                            {
+                              "Sentence": null
+                            }
+                          ]
+                        },
+                        {
+                          "TableColumn": [
+                            {
+                              "@colspan": "2",
+                              "Sentence": "図名"
+                            },
+                            {
+                              "Sentence": "基図のままとする。"
+                            },
+                            {
+                              "Sentence": null
+                            }
+                          ]
+                        },
+                        {
+                          "TableColumn": [
+                            {
+                              "@rowspan": "4",
+                              "Sentence": "調査期間"
+                            },
+                            {
+                              "Sentence": "書体"
+                            },
+                            {
+                              "Sentence": "直立等線体、左横書"
+                            },
+                            {
+                              "Sentence": null
+                            }
+                          ]
+                        },
+                        {
+                          "TableColumn": [
+                            {
+                              "Sentence": "字大"
+                            },
+                            {
+                              "Sentence": "おおむね５ミリメートル"
+                            },
+                            {
+                              "Sentence": null
+                            }
+                          ]
+                        },
+                        {
+                          "TableColumn": [
+                            {
+                              "Sentence": "字隔"
+                            },
+                            {
+                              "Sentence": "おおむね１ミリメートル"
+                            },
+                            {
+                              "Sentence": null
+                            }
+                          ]
+                        },
+                        {
+                          "TableColumn": [
+                            {
+                              "Sentence": "位置"
+                            },
+                            {
+                              "Sentence": "図郭の端からおおむね２ミリメートル上部で図名の左側"
+                            },
+                            {
+                              "Sentence": null
+                            }
+                          ]
+                        },
+                        {
+                          "TableColumn": [
+                            {
+                              "@rowspan": "4",
+                              "Sentence": "実施機関名"
+                            },
+                            {
+                              "Sentence": "書体"
+                            },
+                            {
+                              "Sentence": "直立等線体、左横書"
+                            },
+                            {
+                              "Sentence": null
+                            }
+                          ]
+                        },
+                        {
+                          "TableColumn": [
+                            {
+                              "Sentence": "字大"
+                            },
+                            {
+                              "Sentence": "おおむね５ミリメートル"
+                            },
+                            {
+                              "Sentence": null
+                            }
+                          ]
+                        },
+                        {
+                          "TableColumn": [
+                            {
+                              "Sentence": "字隔"
+                            },
+                            {
+                              "Sentence": "おおむね１ミリメートル"
+                            },
+                            {
+                              "Sentence": null
+                            }
+                          ]
+                        },
+                        {
+                          "TableColumn": [
+                            {
+                              "Sentence": "位置"
+                            },
+                            {
+                              "Sentence": "図郭の端からおおむね２ミリメートル上部で図名の右側"
+                            },
+                            {
+                              "Sentence": null
+                            }
+                          ]
+                        },
+                        {
+                          "TableColumn": [
+                            {
+                              "@rowspan": "4",
+                              "Sentence": "作成機関名又は作成者氏名"
+                            },
+                            {
+                              "Sentence": "書体"
+                            },
+                            {
+                              "Sentence": "直立等線体、左横書"
+                            },
+                            {
+                              "Sentence": null
+                            }
+                          ]
+                        },
+                        {
+                          "TableColumn": [
+                            {
+                              "Sentence": "字大"
+                            },
+                            {
+                              "Sentence": "おおむね５ミリメートル"
+                            },
+                            {
+                              "Sentence": null
+                            }
+                          ]
+                        },
+                        {
+                          "TableColumn": [
+                            {
+                              "Sentence": "字隔"
+                            },
+                            {
+                              "Sentence": "おおむね１ミリメートル"
+                            },
+                            {
+                              "Sentence": null
+                            }
+                          ]
+                        },
+                        {
+                          "TableColumn": [
+                            {
+                              "Sentence": "位置"
+                            },
+                            {
+                              "Sentence": "図郭の下辺の左辺から右へ１センチメートル、下辺から２ミリメートル離して記入する。"
+                            },
+                            {
+                              "Sentence": null
+                            }
+                          ]
+                        },
+                        {
+                          "TableColumn": [
+                            {
+                              "@colspan": "2",
+                              "Sentence": "記号及びその説明"
+                            },
+                            {
+                              "Sentence": "基図の符号の左余白に記載する。"
+                            },
+                            {
+                              "Sentence": "基図の符号と同一の場所に記載する。（基図に記載されているものを除く。）"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "AppdxTableTitle": "別表第九",
+          "TableStruct": {
+            "Table": {
+              "TableRow": [
+                {
+                  "TableColumn": {
+                    "Sentence": "水質説明書に記載すべき事項は、次のとおりとする。"
+                  }
+                },
+                {
+                  "TableColumn": {
+                    "Sentence": "１　調査単位地域の概要"
+                  }
+                },
+                {
+                  "TableColumn": {
+                    "Sentence": "２　調査及び分析の方法"
+                  }
+                },
+                {
+                  "TableColumn": {
+                    "Sentence": "３　水質の概要"
+                  }
+                },
+                {
+                  "TableColumn": {
+                    "Sentence": "４　水質の各項目ごとの説明"
+                  }
+                },
+                {
+                  "TableColumn": {
+                    "Sentence": "５　水質の地域的性状及び時間的変動状況等"
+                  }
+                },
+                {
+                  "TableColumn": {
+                    "Sentence": "６　降水量及び流量の表"
+                  }
+                },
+                {
+                  "TableColumn": {
+                    "Sentence": "７　参考文献"
+                  }
+                }
+              ]
+            }
+          }
+        }
+      ],
+      "AppdxFig": {
+        "AppdxFigTitle": "附図　電導度換算図表",
+        "FigStruct": {
+          "Fig": {
+            "@src": ""
+          }
+        }
+      }
+    }
+  }
+}

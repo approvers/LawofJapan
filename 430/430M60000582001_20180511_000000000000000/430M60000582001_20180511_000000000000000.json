@@ -1,0 +1,2751 @@
+{
+  "Law": {
+    "@Era": "Heisei",
+    "@Lang": "ja",
+    "@LawType": "MinisterialOrdinance",
+    "@Num": "001",
+    "@Year": "30",
+    "LawNum": "平成三十年内閣府・文部科学省・厚生労働省・経済産業省令第一号",
+    "LawBody": {
+      "LawTitle": "医療分野の研究開発に資するための匿名加工医療情報に関する法律施行規則",
+      "EnactStatement": "医療分野の研究開発に資するための匿名加工医療情報に関する法律（平成二十九年法律第二十八号）及び医療分野の研究開発に資するための匿名加工医療情報に関する法律施行令（平成三十年政令第百六十三号）の規定に基づき、並びに同法を実施するため、医療分野の研究開発に資するための匿名加工医療情報に関する法律施行規則を次のように定める。",
+      "MainProvision": {
+        "Article": [
+          {
+            "@Num": "1",
+            "ArticleCaption": "（定義）",
+            "ArticleTitle": "第一条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "この規則において使用する用語は、医療分野の研究開発に資するための匿名加工医療情報に関する法律（以下「法」という。）において使用する用語の例による。"
+              }
+            }
+          },
+          {
+            "@Num": "2",
+            "ArticleCaption": "（医療情報）",
+            "ArticleTitle": "第二条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "医療分野の研究開発に資するための匿名加工医療情報に関する法律施行令（以下「令」という。）第一条第二号イの主務省令で定める心身の機能の障害は、個人情報の保護に関する法律施行規則（平成二十八年個人情報保護委員会規則第三号）第五条各号に規定する障害とする。"
+              }
+            }
+          },
+          {
+            "@Num": "3",
+            "ArticleCaption": "（認定の申請）",
+            "ArticleTitle": "第三条",
+            "Paragraph": [
+              {
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": "法第八条第一項の認定を受けようとする者は、様式第一による申請書を主務大臣に提出しなければならない。"
+                }
+              },
+              {
+                "@Num": "2",
+                "ParagraphNum": "２",
+                "ParagraphSentence": {
+                  "Sentence": "法第八条第二項の主務省令で定める書類は、次のとおりとする。"
+                },
+                "Item": [
+                  {
+                    "@Num": "1",
+                    "ItemTitle": "一",
+                    "ItemSentence": {
+                      "Sentence": "申請者に係る次に掲げる書類"
+                    },
+                    "Subitem1": [
+                      {
+                        "@Num": "1",
+                        "Subitem1Title": "イ",
+                        "Subitem1Sentence": {
+                          "Sentence": "定款及び登記事項証明書又はこれらに準ずるもの"
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "Subitem1Title": "ロ",
+                        "Subitem1Sentence": {
+                          "Sentence": "法第八条第三項第一号ハの役員（第八条第二項第一号において単に「役員」という。）及び使用人（次条に規定する使用人をいう。）に係る住民票の写し又はこれに代わる書類"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Num": "2",
+                    "ItemTitle": "二",
+                    "ItemSentence": {
+                      "Sentence": "申請の日の属する事業年度及び翌事業年度における事業計画書及び収支予算書"
+                    }
+                  },
+                  {
+                    "@Num": "3",
+                    "ItemTitle": "三",
+                    "ItemSentence": {
+                      "Sentence": "その他主務大臣が必要と認める書類"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "@Num": "4",
+            "ArticleCaption": "（使用人）",
+            "ArticleTitle": "第四条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "法第八条第三項第一号ハの主務省令で定める使用人（第八条第二項第一号において単に「使用人」という。）は、申請者の使用人であって、当該申請者の匿名加工医療情報作成事業に関する権限及び責任を有する者とする。"
+              }
+            }
+          },
+          {
+            "@Num": "5",
+            "ArticleCaption": "（法第八条第三項第二号の主務省令で定める基準）",
+            "ArticleTitle": "第五条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "法第八条第三項第二号の主務省令で定める基準は、次のとおりとする。"
+              },
+              "Item": [
+                {
+                  "@Num": "1",
+                  "ItemTitle": "一",
+                  "ItemSentence": {
+                    "Sentence": "日本の医療分野の研究開発に資する匿名加工医療情報の作成に関する相当の経験及び識見を有する者であって、匿名加工医療情報作成事業を統括管理し、責任を有するものがいること。"
+                  }
+                },
+                {
+                  "@Num": "2",
+                  "ItemTitle": "二",
+                  "ItemSentence": {
+                    "Sentence": "匿名加工医療情報作成事業を適正かつ確実に行うに足りる経験及び識見を有する者として次に掲げるものをいずれも確保していること。"
+                  },
+                  "Subitem1": [
+                    {
+                      "@Num": "1",
+                      "Subitem1Title": "イ",
+                      "Subitem1Sentence": {
+                        "Sentence": "日本の医療分野の研究開発に資する匿名加工医療情報を作成するための大規模な医療情報の加工に関する相当の経験及び識見を有する者"
+                      }
+                    },
+                    {
+                      "@Num": "2",
+                      "Subitem1Title": "ロ",
+                      "Subitem1Sentence": {
+                        "Sentence": "匿名加工医療情報を用いた日本の医療分野の研究開発の推進に関する相当の経験及び識見を有する者"
+                      }
+                    },
+                    {
+                      "@Num": "3",
+                      "Subitem1Title": "ハ",
+                      "Subitem1Sentence": {
+                        "Sentence": "日本の医療分野の研究開発に資する匿名加工医療情報の作成に用いる医療情報の取得及び整理に関する相当の経験及び識見を有する者"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "@Num": "3",
+                  "ItemTitle": "三",
+                  "ItemSentence": {
+                    "Sentence": "医療情報検索システムその他の匿名加工医療情報作成事業の実施に必要な設備を備えていること。"
+                  }
+                },
+                {
+                  "@Num": "4",
+                  "ItemTitle": "四",
+                  "ItemSentence": {
+                    "Sentence": "匿名加工医療情報作成事業を適正かつ確実に行うための内部規則等を定め、これに基づく事業の運営の検証がされる等、法令等を遵守した運営を確保していること。"
+                  }
+                },
+                {
+                  "@Num": "5",
+                  "ItemTitle": "五",
+                  "ItemSentence": {
+                    "Sentence": "匿名加工医療情報作成事業を適正かつ確実に、かつ継続して行うに足りる経理的基礎を有すること。"
+                  }
+                },
+                {
+                  "@Num": "6",
+                  "ItemTitle": "六",
+                  "ItemSentence": {
+                    "Sentence": "法第四条第一項に規定する基本方針（次号において「基本方針」という。）に照らし適切なものであると認められる匿名加工医療情報作成事業に関する中期的な計画を有すること。"
+                  }
+                },
+                {
+                  "@Num": "7",
+                  "ItemTitle": "七",
+                  "ItemSentence": {
+                    "Sentence": "匿名加工医療情報の提供の是非の判断に際して、基本方針に照らし、匿名加工医療情報が医療分野の研究開発に資するために適切に取り扱われることについて適切に審査するための体制を整備していること。"
+                  }
+                },
+                {
+                  "@Num": "8",
+                  "ItemTitle": "八",
+                  "ItemSentence": {
+                    "Sentence": "広報及び啓発並びに本人、医療情報取扱事業者又は匿名加工医療情報取扱事業者からの相談に応ずるための体制を整備していること。"
+                  }
+                },
+                {
+                  "@Num": "9",
+                  "ItemTitle": "九",
+                  "ItemSentence": {
+                    "Sentence": "その取り扱う医療情報の規模及び内容が、匿名加工医療情報作成事業を適正かつ確実に行うに足りるものであること。"
+                  }
+                },
+                {
+                  "@Num": "10",
+                  "ItemTitle": "十",
+                  "ItemSentence": {
+                    "Sentence": "医療分野の標準的な規格に対応した医療情報を円滑に取り扱うことができること。"
+                  }
+                },
+                {
+                  "@Num": "11",
+                  "ItemTitle": "十一",
+                  "ItemSentence": {
+                    "Sentence": "申請者が行う匿名加工医療情報作成事業において、特定の匿名加工医療情報取扱事業者に対して不当な差別的取扱いをするものでないこと。"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "@Num": "6",
+            "ArticleCaption": "（安全管理措置）",
+            "ArticleTitle": "第六条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "法第八条第三項第三号及び法第二十条の主務省令で定める措置は、次のとおりとする。"
+              },
+              "Item": [
+                {
+                  "@Num": "1",
+                  "ItemTitle": "一",
+                  "ItemSentence": {
+                    "Sentence": "組織的安全管理措置"
+                  },
+                  "Subitem1": [
+                    {
+                      "@Num": "1",
+                      "Subitem1Title": "イ",
+                      "Subitem1Sentence": {
+                        "Sentence": "認定事業に関し管理する医療情報等及び匿名加工医療情報（この条において「認定事業医療情報等」という。）の安全管理に係る基本方針を定めていること。"
+                      }
+                    },
+                    {
+                      "@Num": "2",
+                      "Subitem1Title": "ロ",
+                      "Subitem1Sentence": {
+                        "Sentence": "認定事業医療情報等の安全管理に関する相当の経験及び識見を有する責任者を配置していること。"
+                      }
+                    },
+                    {
+                      "@Num": "3",
+                      "Subitem1Title": "ハ",
+                      "Subitem1Sentence": {
+                        "Sentence": "認定事業医療情報等を取り扱う者の権限及び責務並びに業務を明確にしていること。"
+                      }
+                    },
+                    {
+                      "@Num": "4",
+                      "Subitem1Title": "ニ",
+                      "Subitem1Sentence": {
+                        "Sentence": "認定事業医療情報等の漏えい、滅失又は毀損の発生時における事務処理体制が整備されていること。"
+                      }
+                    },
+                    {
+                      "@Num": "5",
+                      "Subitem1Title": "ホ",
+                      "Subitem1Sentence": {
+                        "Sentence": "安全管理措置に関する規程の策定及び実施並びにその運用の評価及び改善を行っていること。"
+                      }
+                    },
+                    {
+                      "@Num": "6",
+                      "Subitem1Title": "ヘ",
+                      "Subitem1Sentence": {
+                        "Sentence": "外部の専門家による情報セキュリティ監査の受検又は第三者認証の取得により、安全管理に係る措置の継続的な確保を図っていること。"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "@Num": "2",
+                  "ItemTitle": "二",
+                  "ItemSentence": {
+                    "Sentence": "人的安全管理措置"
+                  },
+                  "Subitem1": [
+                    {
+                      "@Num": "1",
+                      "Subitem1Title": "イ",
+                      "Subitem1Sentence": {
+                        "Sentence": "認定事業医療情報等を取り扱う者が、法第八条第三項第一号ハ（１）から（４）までのいずれにも該当しない者であることを確認していること。"
+                      }
+                    },
+                    {
+                      "@Num": "2",
+                      "Subitem1Title": "ロ",
+                      "Subitem1Sentence": {
+                        "Sentence": "認定事業医療情報等を取り扱う者が、認定事業の目的の達成に必要な範囲を超えて、認定事業医療情報等を取り扱うことがないことを確保するための措置を講じていること。"
+                      }
+                    },
+                    {
+                      "@Num": "3",
+                      "Subitem1Title": "ハ",
+                      "Subitem1Sentence": {
+                        "Sentence": "認定事業医療情報等を取り扱う者に対する必要な教育及び訓練を行っていること。"
+                      }
+                    },
+                    {
+                      "@Num": "4",
+                      "Subitem1Title": "ニ",
+                      "Subitem1Sentence": {
+                        "Sentence": "認定事業医療情報等を取り扱う権限を有しない者による認定事業医療情報等の取扱いを防止する措置を講じていること。"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "@Num": "3",
+                  "ItemTitle": "三",
+                  "ItemSentence": {
+                    "Sentence": "物理的安全管理措置"
+                  },
+                  "Subitem1": [
+                    {
+                      "@Num": "1",
+                      "Subitem1Title": "イ",
+                      "Subitem1Sentence": {
+                        "Sentence": "認定事業医療情報等を取り扱う施設設備を他の施設設備と区分していること。"
+                      }
+                    },
+                    {
+                      "@Num": "2",
+                      "Subitem1Title": "ロ",
+                      "Subitem1Sentence": {
+                        "Sentence": "認定事業医療情報等を取り扱う施設設備への立入り及び機器の持込みを制限する措置を講じているとともに、監視カメラの設置その他の当該施設設備の内部を常時監視するための装置を備えていること。"
+                      }
+                    },
+                    {
+                      "@Num": "3",
+                      "Subitem1Title": "ハ",
+                      "Subitem1Sentence": {
+                        "Sentence": "認定事業に関し管理する医療情報等の取扱いに係る端末装置は、原則として、補助記憶装置及び可搬記録媒体（電子計算機又はその周辺機器に挿入し、又は接続して情報を保存することができる媒体又は機器のうち、可搬型のものをいう。）への記録機能を有しないものとすること。"
+                      }
+                    },
+                    {
+                      "@Num": "4",
+                      "Subitem1Title": "ニ",
+                      "Subitem1Sentence": {
+                        "Sentence": "認定事業医療情報等を削除し、又は認定事業医療情報等が記録された機器、電子媒体等を廃棄する場合には、復元不可能な手段で行うこと。"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "@Num": "4",
+                  "ItemTitle": "四",
+                  "ItemSentence": {
+                    "Sentence": "技術的安全管理措置"
+                  },
+                  "Subitem1": [
+                    {
+                      "@Num": "1",
+                      "Subitem1Title": "イ",
+                      "Subitem1Sentence": {
+                        "Sentence": "認定事業医療情報等を取り扱う施設設備に、不正アクセス行為（不正アクセス行為の禁止等に関する法律（平成十一年法律第百二十八号）第二条第四項に規定する不正アクセス行為をいう。）を防止するため、適切な措置を講じていること。"
+                      }
+                    },
+                    {
+                      "@Num": "2",
+                      "Subitem1Title": "ロ",
+                      "Subitem1Sentence": {
+                        "Sentence": "認定事業医療情報等の取扱いに係る電子計算機及び端末装置の動作を記録するとともに、通常想定されない当該電子計算機及び端末装置の操作を検知し、当該操作が行われた電子計算機及び端末装置を制御する措置を講じていること。"
+                      }
+                    },
+                    {
+                      "@Num": "3",
+                      "Subitem1Title": "ハ",
+                      "Subitem1Sentence": {
+                        "Sentence": "認定事業医療情報等の取扱いに係る電子計算機又は端末装置において、第三者が当該電子計算機又は端末装置に使用目的に反する動作をさせる機能が具備されていないことを確認していること。"
+                      }
+                    },
+                    {
+                      "@Num": "4",
+                      "Subitem1Title": "ニ",
+                      "Subitem1Sentence": {
+                        "Sentence": "認定事業医療情報等を電気通信により送受信するとき、又は移送し、若しくは移送を受けるときは、次に掲げる措置を講じていること。"
+                      },
+                      "Subitem2": [
+                        {
+                          "@Num": "1",
+                          "Subitem2Title": "（１）",
+                          "Subitem2Sentence": {
+                            "Sentence": "外部の者との送受信の用に供する電気通信回線として、専用線等（ＩＰ―ＶＰＮサービス（電気通信事業報告規則（昭和六十三年郵政省令第四十六号）第一条第二項第十五号に掲げるＩＰ―ＶＰＮサービスをいう。）に用いられる仮想専用線その他のこれと同等の安全性が確保されると認められる仮想専用線を含む。）を用いること。"
+                          }
+                        },
+                        {
+                          "@Num": "2",
+                          "Subitem2Title": "（２）",
+                          "Subitem2Sentence": {
+                            "Sentence": "（１）に規定する電気通信回線に接続されるサーバ用の電子計算機のうち、医療情報取扱事業者からの医療情報の受信に用いるものについては、外部への送信機能を具備させないこと。"
+                          }
+                        },
+                        {
+                          "@Num": "3",
+                          "Subitem2Title": "（３）",
+                          "Subitem2Sentence": {
+                            "Sentence": [
+                              {
+                                "@Num": "1",
+                                "#text": "（１）に規定する電気通信回線に接続されるサーバ用の電子計算機のうち、匿名加工医療情報取扱事業者への匿名加工医療情報の送信に用いるものについては、外部からの受信機能を具備させないこと。"
+                              },
+                              {
+                                "@Num": "2",
+                                "#text": "また、（２）又はホに規定する電子計算機以外のサーバ用の電子計算機を用いること。"
+                              }
+                            ]
+                          }
+                        },
+                        {
+                          "@Num": "4",
+                          "Subitem2Title": "（４）",
+                          "Subitem2Sentence": {
+                            "Sentence": "（１）から（３）までに掲げるもののほか、認定事業医療情報等を適切に移送し、又は移送を受けるために、暗号化等必要な措置を講ずること。"
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "@Num": "5",
+                      "Subitem1Title": "ホ",
+                      "Subitem1Sentence": {
+                        "Sentence": [
+                          {
+                            "@Num": "1",
+                            "#text": "匿名加工医療情報の作成の用に供する医療情報の管理は、ニ（２）及び（３）の電子計算機以外のサーバ用の電子計算機を用いることとし、ニ（２）及び（３）に規定する電子計算機を経由する以外の方法による外部へのネットワーク接続を行わないこと。"
+                          },
+                          {
+                            "@Num": "2",
+                            "#text": "また、ニ（２）及び（３）に規定する電子計算機との接続においては、専用線を用いること。"
+                          }
+                        ]
+                      }
+                    }
+                  ]
+                },
+                {
+                  "@Num": "5",
+                  "ItemTitle": "五",
+                  "ItemSentence": {
+                    "Sentence": "その他の措置"
+                  },
+                  "Subitem1": [
+                    {
+                      "@Num": "1",
+                      "Subitem1Title": "イ",
+                      "Subitem1Sentence": {
+                        "Sentence": "認定事業医療情報等の漏えいその他の事故が生じた場合における被害の補償のための措置を講じていること。"
+                      }
+                    },
+                    {
+                      "@Num": "2",
+                      "Subitem1Title": "ロ",
+                      "Subitem1Sentence": {
+                        "Sentence": "認定事業医療情報等を取り扱う施設設備の障害の発生の防止に努めるとともに、これらの障害の発生を検知し、及びこれらの障害が発生した場合の対策を行うため、事業継続計画の策定、その機能を代替することができる予備の機器の設置その他の適切な措置を講じていること。"
+                      }
+                    },
+                    {
+                      "@Num": "3",
+                      "Subitem1Title": "ハ",
+                      "Subitem1Sentence": {
+                        "Sentence": "医療情報の提供を受ける際に、医療情報取扱事業者による当該医療情報の提供の方法及びこれに係る安全管理のための措置が適正である旨を確認していること。"
+                      }
+                    },
+                    {
+                      "@Num": "4",
+                      "Subitem1Title": "ニ",
+                      "Subitem1Sentence": {
+                        "Sentence": "匿名加工医療情報の提供の契約において、匿名加工医療情報取扱事業者による当該匿名加工医療情報の利用の態様及びこれに係る安全管理のための措置が匿名加工の程度に応じて適正であることを確保していること。"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          },
+          {
+            "@Num": "7",
+            "ArticleCaption": "（認定証の交付）",
+            "ArticleTitle": "第七条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "主務大臣は、法第八条第一項の認定をしたときは、申請者に対し、その旨を通知するとともに、様式第二による認定証を交付するものとする。"
+              }
+            }
+          },
+          {
+            "@Num": "8",
+            "ArticleCaption": "（変更の認定の申請等）",
+            "ArticleTitle": "第八条",
+            "Paragraph": [
+              {
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": "認定匿名加工医療情報作成事業者は、法第八条第二項第二号から第五号までに掲げる事項を変更しようとするときは、様式第三による申請書に次に掲げる書類を添えて、主務大臣に提出し、変更の認定を受けなければならない。"
+                },
+                "Item": [
+                  {
+                    "@Num": "1",
+                    "ItemTitle": "一",
+                    "ItemSentence": {
+                      "Sentence": "法第八条第三項各号に掲げる認定の基準に適合していることを証する書類及び第三条第二項各号に掲げる書類のうち、当該変更事項に係る書類"
+                    }
+                  },
+                  {
+                    "@Num": "2",
+                    "ItemTitle": "二",
+                    "ItemSentence": {
+                      "Sentence": "前条の認定証の写し"
+                    }
+                  }
+                ]
+              },
+              {
+                "@Num": "2",
+                "ParagraphNum": "２",
+                "ParagraphSentence": {
+                  "Sentence": "法第九条第一項ただし書の主務省令で定める軽微な変更は、次のいずれかに該当する場合とする。"
+                },
+                "Item": [
+                  {
+                    "@Num": "1",
+                    "ItemTitle": "一",
+                    "ItemSentence": {
+                      "Sentence": "匿名加工医療情報作成事業を行う役員又は使用人の氏名の変更であって、役員又は使用人の変更を伴わないもの"
+                    }
+                  },
+                  {
+                    "@Num": "2",
+                    "ItemTitle": "二",
+                    "ItemSentence": {
+                      "Sentence": "前号に掲げるもののほか、法第八条第二項第二号から第五号までに掲げる事項の実質的な変更を伴わないもの"
+                    }
+                  }
+                ]
+              },
+              {
+                "@Num": "3",
+                "ParagraphNum": "３",
+                "ParagraphSentence": {
+                  "Sentence": "認定匿名加工医療情報作成事業者は、法第九条第二項の規定による届出をしようとするときは、様式第四による届出書に、変更事項に係る書類及び前条の認定証の写しを添えて、主務大臣に提出しなければならない。"
+                }
+              }
+            ]
+          },
+          {
+            "@Num": "9",
+            "ArticleCaption": "（承継の認可の申請等）",
+            "ArticleTitle": "第九条",
+            "Paragraph": [
+              {
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": "法第十条第三項の規定による届出をしようとする者は、様式第五による届出書に、次に掲げる書類及び被承継者に係る第七条の認定証を添えて、主務大臣に提出しなければならない。"
+                },
+                "Item": [
+                  {
+                    "@Num": "1",
+                    "ItemTitle": "一",
+                    "ItemSentence": {
+                      "Sentence": "法第十条第一項の規定により認定事業の全部を譲り受けて認定匿名加工医療情報作成事業者の地位を承継した法人にあっては、様式第六による事業譲渡証明書及び認定事業の全部の譲渡が行われたことを証する書面並びに承継者に係る第七条の認定証の写し"
+                    }
+                  },
+                  {
+                    "@Num": "2",
+                    "ItemTitle": "二",
+                    "ItemSentence": {
+                      "Sentence": "法第十条第二項の規定による合併後存続する法人であって、認定匿名加工医療情報作成事業者の地位を承継した法人にあっては、その法人の登記事項証明書及び第七条の認定証の写し"
+                    }
+                  },
+                  {
+                    "@Num": "3",
+                    "ItemTitle": "三",
+                    "ItemSentence": {
+                      "Sentence": "法第十条第二項の規定による合併により設立された法人であって、認定匿名加工医療情報作成事業者の地位を承継した法人にあっては、その法人の登記事項証明書"
+                    }
+                  }
+                ]
+              },
+              {
+                "@Num": "2",
+                "ParagraphNum": "２",
+                "ParagraphSentence": {
+                  "Sentence": "法第十条第四項の認可を受けようとする者は、様式第七による申請書に、次に掲げる書類及び譲渡人に係る第七条の認定証を添えて、主務大臣に提出しなければならない。"
+                },
+                "Item": [
+                  {
+                    "@Num": "1",
+                    "ItemTitle": "一",
+                    "ItemSentence": {
+                      "Sentence": "様式第八による事業譲渡証明書及び認定事業の全部の譲渡が行われることを証する書面"
+                    }
+                  },
+                  {
+                    "@Num": "2",
+                    "ItemTitle": "二",
+                    "ItemSentence": {
+                      "Sentence": "譲受人が法第八条第三項各号に掲げる認定の基準に適合していることを証する書類"
+                    }
+                  },
+                  {
+                    "@Num": "3",
+                    "ItemTitle": "三",
+                    "ItemSentence": {
+                      "Sentence": "譲受人に係る第三条第二項各号に掲げる書類"
+                    }
+                  }
+                ]
+              },
+              {
+                "@Num": "3",
+                "ParagraphNum": "３",
+                "ParagraphSentence": {
+                  "Sentence": "法第十条第五項の認可を受けようとする者は、様式第九による申請書に、次に掲げる書類及び被承継者に係る第七条の認定証を添えて、主務大臣に提出しなければならない。"
+                },
+                "Item": [
+                  {
+                    "@Num": "1",
+                    "ItemTitle": "一",
+                    "ItemSentence": {
+                      "Sentence": "合併が行われることを証する書面"
+                    }
+                  },
+                  {
+                    "@Num": "2",
+                    "ItemTitle": "二",
+                    "ItemSentence": {
+                      "Sentence": "合併後存続する法人又は合併により設立される法人が法第八条第三項各号に掲げる認定の基準に適合していることを証する書類"
+                    }
+                  },
+                  {
+                    "@Num": "3",
+                    "ItemTitle": "三",
+                    "ItemSentence": {
+                      "Sentence": "合併後存続する法人又は合併により設立される法人に係る第三条第二項各号に掲げる書類"
+                    }
+                  }
+                ]
+              },
+              {
+                "@Num": "4",
+                "ParagraphNum": "４",
+                "ParagraphSentence": {
+                  "Sentence": "法第十条第六項の認可を受けようとする者は、様式第十による申請書に、次に掲げる書類及び被承継者に係る第七条の認定証を添えて、主務大臣に提出しなければならない。"
+                },
+                "Item": [
+                  {
+                    "@Num": "1",
+                    "ItemTitle": "一",
+                    "ItemSentence": {
+                      "Sentence": "様式第十一による事業承継証明書及び分割により認定事業の全部の承継が行われることを証する書面"
+                    }
+                  },
+                  {
+                    "@Num": "2",
+                    "ItemTitle": "二",
+                    "ItemSentence": {
+                      "Sentence": "分割により認定事業の全部を承継する法人が法第八条第三項各号に掲げる認定の基準に適合していることを証する書類"
+                    }
+                  },
+                  {
+                    "@Num": "3",
+                    "ItemTitle": "三",
+                    "ItemSentence": {
+                      "Sentence": "分割により認定事業の全部を承継する法人に係る第三条第二項各号に掲げる書類"
+                    }
+                  }
+                ]
+              },
+              {
+                "@Num": "5",
+                "ParagraphNum": "５",
+                "ParagraphSentence": {
+                  "Sentence": "法第十条第八項の規定による届出をしようとする者は、様式第十二による届出書に、被承継者に係る第七条の認定証を添えて、主務大臣に提出しなければならない。"
+                }
+              }
+            ]
+          },
+          {
+            "@Num": "10",
+            "ArticleCaption": "（廃止の届出）",
+            "ArticleTitle": "第十条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "認定匿名加工医療情報作成事業者は、法第十一条第一項の規定による届出をしようとするときは、様式第十三による届出書に第七条の認定証を添えて主務大臣に提出しなければならない。"
+              }
+            }
+          },
+          {
+            "@Num": "11",
+            "ArticleCaption": "（解散の届出）",
+            "ArticleTitle": "第十一条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "清算人若しくは破産管財人又は外国の法令上これらに相当する者は、法第十二条第一項の規定による届出をするときは、様式第十四による届出書に第七条の認定証を添えて主務大臣に提出しなければならない。"
+              }
+            }
+          },
+          {
+            "@Num": "12",
+            "ArticleCaption": "（帳簿の記載事項等）",
+            "ArticleTitle": "第十二条",
+            "Paragraph": [
+              {
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": "法第十三条の主務省令で定める事項は、次に掲げるものとする。"
+                },
+                "Item": [
+                  {
+                    "@Num": "1",
+                    "ItemTitle": "一",
+                    "ItemSentence": {
+                      "Sentence": "認定匿名加工医療情報作成事業者が匿名加工医療情報取扱事業者に対する匿名加工医療情報の提供を行った場合における次に掲げる事項"
+                    },
+                    "Subitem1": [
+                      {
+                        "@Num": "1",
+                        "Subitem1Title": "イ",
+                        "Subitem1Sentence": {
+                          "Sentence": "当該匿名加工医療情報取扱事業者の名称及び住所その他の当該匿名加工医療情報取扱事業者を特定するに足りる事項"
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "Subitem1Title": "ロ",
+                        "Subitem1Sentence": {
+                          "Sentence": "当該匿名加工医療情報の提供を行った年月日"
+                        }
+                      },
+                      {
+                        "@Num": "3",
+                        "Subitem1Title": "ハ",
+                        "Subitem1Sentence": {
+                          "Sentence": "当該匿名加工医療情報の項目"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Num": "2",
+                    "ItemTitle": "二",
+                    "ItemSentence": {
+                      "Sentence": "匿名加工医療情報取扱事業者が他の匿名加工医療情報取扱事業者に対する匿名加工医療情報の提供を行った場合における次に掲げる事項"
+                    },
+                    "Subitem1": [
+                      {
+                        "@Num": "1",
+                        "Subitem1Title": "イ",
+                        "Subitem1Sentence": {
+                          "Sentence": "提供元の匿名加工医療情報取扱事業者の名称及び住所その他の当該匿名加工医療情報取扱事業者を特定するに足りる事項"
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "Subitem1Title": "ロ",
+                        "Subitem1Sentence": {
+                          "Sentence": "提供先の匿名加工医療情報取扱事業者の名称及び住所その他の当該匿名加工医療情報取扱事業者を特定するに足りる事項"
+                        }
+                      },
+                      {
+                        "@Num": "3",
+                        "Subitem1Title": "ハ",
+                        "Subitem1Sentence": {
+                          "Sentence": "当該匿名加工医療情報の提供を行った年月日"
+                        }
+                      },
+                      {
+                        "@Num": "4",
+                        "Subitem1Title": "ニ",
+                        "Subitem1Sentence": {
+                          "Sentence": "当該匿名加工医療情報の項目"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Num": "3",
+                    "ItemTitle": "三",
+                    "ItemSentence": {
+                      "Sentence": "法第十九条の規定により匿名加工医療情報の消去を行った場合における次に掲げる事項"
+                    },
+                    "Subitem1": [
+                      {
+                        "@Num": "1",
+                        "Subitem1Title": "イ",
+                        "Subitem1Sentence": {
+                          "Sentence": "当該匿名加工医療情報の消去を行った年月日"
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "Subitem1Title": "ロ",
+                        "Subitem1Sentence": {
+                          "Sentence": "当該匿名加工医療情報の項目"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Num": "4",
+                    "ItemTitle": "四",
+                    "ItemSentence": {
+                      "Sentence": "法第二十五条の規定により他の認定匿名加工医療情報作成事業者に対して医療情報の提供を行った場合における次に掲げる事項"
+                    },
+                    "Subitem1": [
+                      {
+                        "@Num": "1",
+                        "Subitem1Title": "イ",
+                        "Subitem1Sentence": {
+                          "Sentence": "当該他の認定匿名加工医療情報作成事業者の名称及び住所その他の当該他の認定匿名加工医療情報作成事業者を特定するに足りる事項"
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "Subitem1Title": "ロ",
+                        "Subitem1Sentence": {
+                          "Sentence": "当該医療情報の提供を行った年月日"
+                        }
+                      },
+                      {
+                        "@Num": "3",
+                        "Subitem1Title": "ハ",
+                        "Subitem1Sentence": {
+                          "Sentence": "当該医療情報の項目"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Num": "5",
+                    "ItemTitle": "五",
+                    "ItemSentence": {
+                      "Sentence": "法第二十五条の規定により他の認定匿名加工医療情報作成事業者から医療情報の提供を受けた場合における次に掲げる事項"
+                    },
+                    "Subitem1": [
+                      {
+                        "@Num": "1",
+                        "Subitem1Title": "イ",
+                        "Subitem1Sentence": {
+                          "Sentence": "当該他の認定匿名加工医療情報作成事業者の名称及び住所その他の当該他の認定匿名加工医療情報作成事業者を特定するに足りる事項"
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "Subitem1Title": "ロ",
+                        "Subitem1Sentence": {
+                          "Sentence": "当該医療情報の提供を受けた年月日"
+                        }
+                      },
+                      {
+                        "@Num": "3",
+                        "Subitem1Title": "ハ",
+                        "Subitem1Sentence": {
+                          "Sentence": "当該医療情報の項目"
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "@Num": "2",
+                "ParagraphNum": "２",
+                "ParagraphSentence": {
+                  "Sentence": "法第十三条の帳簿は、文書、電磁的記録又はマイクロフィルムを用いて作成しなければならない。"
+                }
+              },
+              {
+                "@Num": "3",
+                "ParagraphNum": "３",
+                "ParagraphSentence": {
+                  "Sentence": "認定匿名加工医療情報作成事業者は、第一項各号に規定する場合には、その都度、遅滞なく、同項各号に掲げる事項を帳簿に記載し、その記載の日から三年間保存しなければならない。"
+                }
+              }
+            ]
+          },
+          {
+            "@Num": "13",
+            "ArticleCaption": "（事業計画書等）",
+            "ArticleTitle": "第十三条",
+            "Paragraph": [
+              {
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": [
+                    {
+                      "@Num": "1",
+                      "#text": "認定匿名加工医療情報作成事業者は、毎事業年度開始前に、認定事業に関し事業計画書及び収支予算書を作成し、主務大臣に提出するとともに、公表しなければならない。"
+                    },
+                    {
+                      "@Num": "2",
+                      "#text": "これを変更しようとするときも、同様とする。"
+                    }
+                  ]
+                }
+              },
+              {
+                "@Num": "2",
+                "ParagraphNum": "２",
+                "ParagraphSentence": {
+                  "Sentence": "認定匿名加工医療情報作成事業者は、毎事業年度終了後三月以内に、認定事業に関し事業報告書及び収支決算書を作成し、主務大臣に提出するとともに、公表しなければならない。"
+                }
+              }
+            ]
+          },
+          {
+            "@Num": "14",
+            "ArticleCaption": "（認定の取消しを行う場合の手続）",
+            "ArticleTitle": "第十四条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "主務大臣は、法第十五条第一項又は第十六条第一項の規定に基づき、法第八条第一項の認定を受けた者の認定を取り消したときは、その旨を書面により当該認定を受けていた者に通知するものとする。"
+              }
+            }
+          },
+          {
+            "@Num": "15",
+            "ArticleCaption": "（旅費の額）",
+            "ArticleTitle": "第十五条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": [
+                  {
+                    "@Num": "1",
+                    "#text": "令第五条の旅費の額に相当する額（次条及び第十七条において「旅費相当額」という。）は、国家公務員等の旅費に関する法律（昭和二十五年法律第百十四号。次条及び第十七条において「旅費法」という。）の規定により支給すべきこととなる旅費の額とする。"
+                  },
+                  {
+                    "@Num": "2",
+                    "#text": "この場合において、当該検査のためその地に出張する職員は、一般職の職員の給与に関する法律（昭和二十五年法律第九十五号）第六条第一項第一号イに規定する行政職俸給表（一）による職務の級が四級である者であるものとしてその旅費の額を計算するものとする。"
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "@Num": "16",
+            "ArticleCaption": "（在勤官署の所在地）",
+            "ArticleTitle": "第十六条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "旅費相当額を計算する場合において、当該検査のため、その地に出張する職員の旅費法第二条第一項第六号の在勤官署の所在地は、次の表に掲げるところによる。"
+              },
+              "TableStruct": {
+                "Table": {
+                  "TableRow": [
+                    {
+                      "TableColumn": [
+                        {
+                          "@Valign": "middle",
+                          "Sentence": "主務大臣の区分"
+                        },
+                        {
+                          "@Valign": "middle",
+                          "Sentence": "在勤官署の所在地"
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "@Valign": "middle",
+                          "Sentence": "内閣総理大臣"
+                        },
+                        {
+                          "@Valign": "middle",
+                          "Sentence": "東京都千代田区永田町一丁目十一番三十九号"
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "@Valign": "middle",
+                          "Sentence": "文部科学大臣"
+                        },
+                        {
+                          "@Valign": "middle",
+                          "Sentence": "東京都千代田区霞が関三丁目二番二号"
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "@Valign": "middle",
+                          "Sentence": "厚生労働大臣"
+                        },
+                        {
+                          "@Valign": "middle",
+                          "Sentence": "東京都千代田区霞が関一丁目二番二号"
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "@Valign": "middle",
+                          "Sentence": "経済産業大臣"
+                        },
+                        {
+                          "@Valign": "middle",
+                          "Sentence": "東京都千代田区霞が関一丁目三番一号"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          {
+            "@Num": "17",
+            "ArticleCaption": "（旅費の額の計算に係る細目）",
+            "ArticleTitle": "第十七条",
+            "Paragraph": [
+              {
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": "旅費法第六条第一項の支度料は、旅費相当額に算入しない。"
+                }
+              },
+              {
+                "@Num": "2",
+                "ParagraphNum": "２",
+                "ParagraphSentence": {
+                  "Sentence": "検査を実施する日数は、当該検査に係る事務所その他の事業所ごとに三日として旅費相当額を計算する。"
+                }
+              },
+              {
+                "@Num": "3",
+                "ParagraphNum": "３",
+                "ParagraphSentence": {
+                  "Sentence": "旅費法第六条第一項の旅行雑費は、一万円として旅費相当額を計算する。"
+                }
+              },
+              {
+                "@Num": "4",
+                "ParagraphNum": "４",
+                "ParagraphSentence": {
+                  "Sentence": "主務大臣が、旅費法第四十六条第一項の規定により、実費を超えることとなる部分又は必要としない部分の旅費を支給しないときは、当該部分に相当する額は、旅費相当額に算入しない。"
+                }
+              }
+            ]
+          },
+          {
+            "@Num": "18",
+            "ArticleCaption": "（匿名加工医療情報の作成の方法に関する基準）",
+            "ArticleTitle": "第十八条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "法第十八条第一項の主務省令で定める基準は、次のとおりとする。"
+              },
+              "Item": [
+                {
+                  "@Num": "1",
+                  "ItemTitle": "一",
+                  "ItemSentence": {
+                    "Sentence": "医療情報に含まれる特定の個人を識別することができる記述等の全部又は一部を削除すること（当該全部又は一部の記述等を復元することのできる規則性を有しない方法により他の記述等に置き換えることを含む。）。"
+                  }
+                },
+                {
+                  "@Num": "2",
+                  "ItemTitle": "二",
+                  "ItemSentence": {
+                    "Sentence": "医療情報に含まれる個人識別符号の全部を削除すること（当該個人識別符号を復元することのできる規則性を有しない方法により他の記述等に置き換えることを含む。）。"
+                  }
+                },
+                {
+                  "@Num": "3",
+                  "ItemTitle": "三",
+                  "ItemSentence": {
+                    "Sentence": "医療情報と当該医療情報に措置を講じて得られる情報とを連結する符号（現に認定匿名加工医療情報作成事業者において取り扱う情報を相互に連結する符号に限る。）を削除すること（当該符号を復元することのできる規則性を有しない方法により当該医療情報と当該医療情報に措置を講じて得られる情報を連結することができない符号に置き換えることを含む。）。"
+                  }
+                },
+                {
+                  "@Num": "4",
+                  "ItemTitle": "四",
+                  "ItemSentence": {
+                    "Sentence": "特異な記述等を削除すること（当該特異な記述等を復元することのできる規則性を有しない方法により他の記述等に置き換えることを含む。）。"
+                  }
+                },
+                {
+                  "@Num": "5",
+                  "ItemTitle": "五",
+                  "ItemSentence": {
+                    "Sentence": "前各号に掲げる措置のほか、医療情報に含まれる記述等と当該医療情報を含む医療情報データベース等を構成する他の医療情報に含まれる記述等との差異その他の当該医療情報データベース等の性質を勘案し、その結果を踏まえて適切な措置を講ずること。"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "@Num": "19",
+            "ArticleCaption": "（医療情報等の消去の記録）",
+            "ArticleTitle": "第十九条",
+            "Paragraph": [
+              {
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": "認定匿名加工医療情報作成事業者は、法第十九条の規定による医療情報等の消去を行ったときは、次に掲げる事項の記録を作成し、その作成の日から三年間保存しなければならない。"
+                },
+                "Item": [
+                  {
+                    "@Num": "1",
+                    "ItemTitle": "一",
+                    "ItemSentence": {
+                      "Sentence": "当該医療情報等の消去を行った年月日"
+                    }
+                  },
+                  {
+                    "@Num": "2",
+                    "ItemTitle": "二",
+                    "ItemSentence": {
+                      "Sentence": "当該医療情報等の項目"
+                    }
+                  }
+                ]
+              },
+              {
+                "@Num": "2",
+                "ParagraphNum": "２",
+                "ParagraphSentence": {
+                  "Sentence": "前項の記録を作成する方法は、文書、電磁的記録又はマイクロフィルムを用いて作成する方法とする。"
+                }
+              }
+            ]
+          },
+          {
+            "@Num": "20",
+            "ArticleCaption": "（従業者の監督）",
+            "ArticleTitle": "第二十条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "法第二十一条の規定により認定匿名加工医療情報作成事業者が行わなければならない従業者に対する監督は、第六条で定める安全管理措置に従って業務を行っていることの確認その他の措置を講ずることにより行うものとする。"
+              }
+            }
+          },
+          {
+            "@Num": "21",
+            "ArticleCaption": "（委託契約の締結）",
+            "ArticleTitle": "第二十一条",
+            "Paragraph": [
+              {
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": "認定匿名加工医療情報作成事業者は、法第二十三条第一項の規定による委託を行う場合には、次に掲げる事項を記載した文書により当該委託を受けた認定医療情報等取扱受託事業者との契約を締結しなければならない。"
+                },
+                "Item": [
+                  {
+                    "@Num": "1",
+                    "ItemTitle": "一",
+                    "ItemSentence": {
+                      "Sentence": "当該委託に係る業務の範囲"
+                    }
+                  },
+                  {
+                    "@Num": "2",
+                    "ItemTitle": "二",
+                    "ItemSentence": {
+                      "Sentence": "当該委託に係る業務の手順に関する事項"
+                    }
+                  },
+                  {
+                    "@Num": "3",
+                    "ItemTitle": "三",
+                    "ItemSentence": {
+                      "Sentence": "前号の手順に基づき当該委託に係る業務が適正かつ円滑に行われているかどうかを当該認定匿名加工医療情報作成事業者が確認することができる旨"
+                    }
+                  },
+                  {
+                    "@Num": "4",
+                    "ItemTitle": "四",
+                    "ItemSentence": {
+                      "Sentence": "当該認定医療情報等取扱受託事業者に対する指示に関する事項"
+                    }
+                  },
+                  {
+                    "@Num": "5",
+                    "ItemTitle": "五",
+                    "ItemSentence": {
+                      "Sentence": "前号の指示を行った場合において当該指示に基づく措置が講じられたかどうかを当該認定匿名加工医療情報作成事業者が確認することができる旨"
+                    }
+                  },
+                  {
+                    "@Num": "6",
+                    "ItemTitle": "六",
+                    "ItemSentence": {
+                      "Sentence": "当該認定医療情報等取扱受託事業者が当該認定匿名加工医療情報作成事業者に対して行う報告に関する事項"
+                    }
+                  },
+                  {
+                    "@Num": "7",
+                    "ItemTitle": "七",
+                    "ItemSentence": {
+                      "Sentence": "その他当該委託に係る業務について必要な事項"
+                    }
+                  }
+                ]
+              },
+              {
+                "@Num": "2",
+                "ParagraphNum": "２",
+                "ParagraphSentence": {
+                  "Sentence": [
+                    {
+                      "@Num": "1",
+                      "#text": "前項の規定は、法第二十三条第二項の規定による再委託について準用する。"
+                    },
+                    {
+                      "@Num": "2",
+                      "#text": "この場合において、「認定匿名加工医療情報作成事業者」とあるのは、「法第二十三条第一項の規定により医療情報等又は匿名加工医療情報の取扱いの全部又は一部の委託を受けた認定医療情報等取扱受託事業者」と読み替えるものとする。"
+                    }
+                  ]
+                }
+              },
+              {
+                "@Num": "3",
+                "ParagraphNum": "３",
+                "ParagraphSentence": {
+                  "Sentence": [
+                    {
+                      "@Num": "1",
+                      "#text": "第一項の規定は、法第二十三条第三項の規定により適用される同条第二項の規定による再委託について準用する。"
+                    },
+                    {
+                      "@Num": "2",
+                      "#text": "この場合において、「認定匿名加工医療情報作成事業者」とあるのは、「法第二十三条第二項の規定により医療情報等又は匿名加工医療情報の取扱いの全部又は一部の再委託を受けた認定医療情報等取扱受託事業者」と読み替えるものとする。"
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "@Num": "22",
+            "ArticleCaption": "（委託先の監督）",
+            "ArticleTitle": "第二十二条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "法第二十四条の規定により認定匿名加工医療情報作成事業者が行わなければならない委託を受けた者に対する監督は、医療情報等又は匿名加工医療情報の安全管理が適正に図られるよう、安全管理の業務に関する監査その他必要な措置を講ずることにより行うものとする。"
+              }
+            }
+          },
+          {
+            "@Num": "23",
+            "ArticleCaption": "（他の認定匿名加工医療情報作成事業者に対する医療情報の提供）",
+            "ArticleTitle": "第二十三条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "認定匿名加工医療情報作成事業者は、法第二十五条第一項の規定による医療情報の授受においては、次に掲げる事項を記載した文書により授受に係る他の認定匿名加工医療情報作成事業者との契約を締結し、その契約書を保存しなければならない。"
+              },
+              "Item": [
+                {
+                  "@Num": "1",
+                  "ItemTitle": "一",
+                  "ItemSentence": {
+                    "Sentence": "法第二十五条第一項の規定により医療情報の提供を行う認定匿名加工医療情報作成事業者の名称、住所及び代表者の氏名"
+                  }
+                },
+                {
+                  "@Num": "2",
+                  "ItemTitle": "二",
+                  "ItemSentence": {
+                    "Sentence": "前号の提供を受ける認定匿名加工医療情報作成事業者の名称、住所及び代表者の氏名"
+                  }
+                },
+                {
+                  "@Num": "3",
+                  "ItemTitle": "三",
+                  "ItemSentence": {
+                    "Sentence": "第一号の医療情報の項目"
+                  }
+                },
+                {
+                  "@Num": "4",
+                  "ItemTitle": "四",
+                  "ItemSentence": {
+                    "Sentence": "第一号の医療情報の提供の方法"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "@Num": "24",
+            "ArticleCaption": "（苦情の処理）",
+            "ArticleTitle": "第二十四条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "認定匿名加工医療情報作成事業者は、認定事業に関し管理する医療情報等又は匿名加工医療情報の取扱いに関する苦情については、次の各号に定めるところにより、これを処理しなければならない。"
+              },
+              "Item": [
+                {
+                  "@Num": "1",
+                  "ItemTitle": "一",
+                  "ItemSentence": {
+                    "Sentence": "苦情を受け付けたときは、遅滞なく、当該苦情に係る事項の原因を究明すること。"
+                  }
+                },
+                {
+                  "@Num": "2",
+                  "ItemTitle": "二",
+                  "ItemSentence": {
+                    "Sentence": "前号の規定による原因究明の結果に基づき、認定事業に関し管理する医療情報等又は匿名加工医療情報の取扱いに関し改善が必要な場合には、所要の措置を講ずること。"
+                  }
+                },
+                {
+                  "@Num": "3",
+                  "ItemTitle": "三",
+                  "ItemSentence": {
+                    "Sentence": "苦情の内容、原因究明の結果及び改善措置を記載した苦情処理記録を作成し、その作成の日から三年間保存すること。"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "@Num": "25",
+            "ArticleTitle": "第二十五条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "認定匿名加工医療情報作成事業者は、苦情を受け付けるための窓口の設置、苦情の対応の手順の策定その他の措置を講ずることにより、法第二十七条第一項の目的を達成するために必要な体制を整備しなければならない。"
+              }
+            }
+          },
+          {
+            "@Num": "26",
+            "ArticleCaption": "（準用）",
+            "ArticleTitle": "第二十六条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": [
+                  {
+                    "@Num": "1",
+                    "#text": "第三条、第四条、第六条（第五号ハ及びニを除く。）、第七条の規定は法第二十八条の認定について、第八条から第十一条まで、第十二条第一項第三号、第二項及び第三項、第十三条、第十八条、第十九条、第二十条、第二十二条、第二十四条並びに第二十五条の規定は認定医療情報等取扱受託事業者について、第十四条の規定は認定医療情報等取扱受託事業者に係る認定の取消しについて、それぞれ準用する。"
+                  },
+                  {
+                    "@Num": "2",
+                    "#text": "この場合において、次の表の上欄に掲げる規定中同表の中欄に掲げる字句は、それぞれ同表の下欄に掲げる字句に読み替えるものとする。"
+                  }
+                ]
+              },
+              "TableStruct": {
+                "Table": {
+                  "TableRow": [
+                    {
+                      "TableColumn": [
+                        {
+                          "@Valign": "top",
+                          "@rowspan": "2",
+                          "Sentence": "第三条第一項"
+                        },
+                        {
+                          "@Valign": "top",
+                          "Sentence": "第八条第一項"
+                        },
+                        {
+                          "@Valign": "top",
+                          "Sentence": "第二十八条"
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "@Valign": "top",
+                          "Sentence": "様式第一"
+                        },
+                        {
+                          "@Valign": "top",
+                          "Sentence": "様式第十五"
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "@Valign": "top",
+                          "Sentence": "第四条"
+                        },
+                        {
+                          "@Valign": "top",
+                          "Sentence": "匿名加工医療情報作成事業"
+                        },
+                        {
+                          "@Valign": "top",
+                          "Sentence": "法第二十八条に規定する事業"
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "@Valign": "top",
+                          "@rowspan": "2",
+                          "Sentence": "第七条"
+                        },
+                        {
+                          "@Valign": "top",
+                          "Sentence": "第八条第一項"
+                        },
+                        {
+                          "@Valign": "top",
+                          "Sentence": "第二十八条"
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "@Valign": "top",
+                          "Sentence": "様式第二"
+                        },
+                        {
+                          "@Valign": "top",
+                          "Sentence": "様式第十六"
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "@Valign": "top",
+                          "@rowspan": "2",
+                          "Sentence": "第八条第一項柱書"
+                        },
+                        {
+                          "@Valign": "top",
+                          "Sentence": "第八条第二項第二号から第五号まで"
+                        },
+                        {
+                          "@Valign": "top",
+                          "Sentence": "第八条第二項第四号又は第五号"
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "@Valign": "top",
+                          "Sentence": "様式第三"
+                        },
+                        {
+                          "@Valign": "top",
+                          "Sentence": "様式第十七"
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "@Valign": "top",
+                          "Sentence": "第八条第一項第一号"
+                        },
+                        {
+                          "@Valign": "top",
+                          "Sentence": "第八条第三項各号"
+                        },
+                        {
+                          "@Valign": "top",
+                          "Sentence": "第八条第三項第一号、第三号及び第四号"
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "@Valign": "top",
+                          "Sentence": "第八条第二項第一号"
+                        },
+                        {
+                          "@Valign": "top",
+                          "Sentence": "匿名加工医療情報作成事業"
+                        },
+                        {
+                          "@Valign": "top",
+                          "Sentence": "法第二十八条に規定する事業"
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "@Valign": "top",
+                          "Sentence": "第八条第二項第二号"
+                        },
+                        {
+                          "@Valign": "top",
+                          "Sentence": "第八条第二項第二号から第五号まで"
+                        },
+                        {
+                          "@Valign": "top",
+                          "Sentence": "第八条第二項第四号又は第五号"
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "@Valign": "top",
+                          "Sentence": "第八条第三項"
+                        },
+                        {
+                          "@Valign": "top",
+                          "Sentence": "様式第四"
+                        },
+                        {
+                          "@Valign": "top",
+                          "Sentence": "様式第十八"
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "@Valign": "top",
+                          "Sentence": "第九条第一項柱書"
+                        },
+                        {
+                          "@Valign": "top",
+                          "Sentence": "様式第五"
+                        },
+                        {
+                          "@Valign": "top",
+                          "Sentence": "様式第十九"
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "@Valign": "top",
+                          "Sentence": "第九条第一項第一号"
+                        },
+                        {
+                          "@Valign": "top",
+                          "Sentence": "様式第六"
+                        },
+                        {
+                          "@Valign": "top",
+                          "Sentence": "様式第二十"
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "@Valign": "top",
+                          "Sentence": "第九条第二項柱書"
+                        },
+                        {
+                          "@Valign": "top",
+                          "Sentence": "様式第七"
+                        },
+                        {
+                          "@Valign": "top",
+                          "Sentence": "様式第二十一"
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "@Valign": "top",
+                          "Sentence": "第九条第二項第一号"
+                        },
+                        {
+                          "@Valign": "top",
+                          "Sentence": "様式第八"
+                        },
+                        {
+                          "@Valign": "top",
+                          "Sentence": "様式第二十二"
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "@Valign": "top",
+                          "Sentence": "第九条第二項第二号"
+                        },
+                        {
+                          "@Valign": "top",
+                          "Sentence": "第八条第三項各号"
+                        },
+                        {
+                          "@Valign": "top",
+                          "Sentence": "第八条第三項第一号、第三号及び第四号"
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "@Valign": "top",
+                          "Sentence": "第九条第三項柱書"
+                        },
+                        {
+                          "@Valign": "top",
+                          "Sentence": "様式第九"
+                        },
+                        {
+                          "@Valign": "top",
+                          "Sentence": "様式第二十三"
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "@Valign": "top",
+                          "Sentence": "第九条第三項第二号"
+                        },
+                        {
+                          "@Valign": "top",
+                          "Sentence": "第八条第三項各号"
+                        },
+                        {
+                          "@Valign": "top",
+                          "Sentence": "第八条第三項第一号、第三号及び第四号"
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "@Valign": "top",
+                          "Sentence": "第九条第四項柱書"
+                        },
+                        {
+                          "@Valign": "top",
+                          "Sentence": "様式第十"
+                        },
+                        {
+                          "@Valign": "top",
+                          "Sentence": "様式第二十四"
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "@Valign": "top",
+                          "Sentence": "第九条第四項第一号"
+                        },
+                        {
+                          "@Valign": "top",
+                          "Sentence": "様式第十一"
+                        },
+                        {
+                          "@Valign": "top",
+                          "Sentence": "様式第二十五"
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "@Valign": "top",
+                          "Sentence": "第九条第四項第二号"
+                        },
+                        {
+                          "@Valign": "top",
+                          "Sentence": "第八条第三項各号"
+                        },
+                        {
+                          "@Valign": "top",
+                          "Sentence": "第八条第三項第一号、第三号及び第四号"
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "@Valign": "top",
+                          "Sentence": "第九条第五項"
+                        },
+                        {
+                          "@Valign": "top",
+                          "Sentence": "様式第十二"
+                        },
+                        {
+                          "@Valign": "top",
+                          "Sentence": "様式第二十六"
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "@Valign": "top",
+                          "Sentence": "第十条"
+                        },
+                        {
+                          "@Valign": "top",
+                          "Sentence": "様式第十三"
+                        },
+                        {
+                          "@Valign": "top",
+                          "Sentence": "様式第二十七"
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "@Valign": "top",
+                          "Sentence": "第十一条"
+                        },
+                        {
+                          "@Valign": "top",
+                          "Sentence": "様式第十四"
+                        },
+                        {
+                          "@Valign": "top",
+                          "Sentence": "様式第二十八"
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "@Valign": "top",
+                          "@rowspan": "2",
+                          "Sentence": "第十二条第三項"
+                        },
+                        {
+                          "@Valign": "top",
+                          "Sentence": "第一項各号"
+                        },
+                        {
+                          "@Valign": "top",
+                          "Sentence": "第一項第三号"
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "@Valign": "top",
+                          "Sentence": "同項各号"
+                        },
+                        {
+                          "@Valign": "top",
+                          "Sentence": "同号"
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "@Valign": "top",
+                          "Sentence": "第十四条"
+                        },
+                        {
+                          "@Valign": "top",
+                          "Sentence": "第八条第一項"
+                        },
+                        {
+                          "@Valign": "top",
+                          "Sentence": "第二十八条"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          {
+            "@Num": "27",
+            "ArticleCaption": "（医療情報の提供停止の求めの方法）",
+            "ArticleTitle": "第二十七条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "法第三十条第一項の規定による提供の停止の求めは、医療情報取扱事業者に対し、書面又は口頭その他の方法で行うものとする。"
+              }
+            }
+          },
+          {
+            "@Num": "28",
+            "ArticleCaption": "（医療情報の提供に係る事前の通知等）",
+            "ArticleTitle": "第二十八条",
+            "Paragraph": [
+              {
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": "法第三十条第一項又は第二項の規定による通知は、次に掲げるところにより、行うものとする。"
+                },
+                "Item": [
+                  {
+                    "@Num": "1",
+                    "ItemTitle": "一",
+                    "ItemSentence": {
+                      "Sentence": "認定匿名加工医療情報作成事業者に提供される医療情報によって識別される本人又はその遺族が当該提供の停止を求めるために必要な期間を定めて通知すること。"
+                    }
+                  },
+                  {
+                    "@Num": "2",
+                    "ItemTitle": "二",
+                    "ItemSentence": {
+                      "Sentence": "本人が法第三十条第一項各号に掲げる事項を認識することができる適切かつ合理的な方法によること。"
+                    }
+                  }
+                ]
+              },
+              {
+                "@Num": "2",
+                "ParagraphNum": "２",
+                "ParagraphSentence": {
+                  "Sentence": "医療情報取扱事業者が、法第三十条第一項又は第二項の規定による届出をするときは、次に掲げるいずれかの方法により行わなければならない。"
+                },
+                "Item": [
+                  {
+                    "@Num": "1",
+                    "ItemTitle": "一",
+                    "ItemSentence": {
+                      "Sentence": "主務大臣が定めるところにより、電子情報処理組織（主務大臣の使用に係る電子計算機と届出を行う者の使用に係る電子計算機とを電気通信回線で接続した電子情報処理組織をいう。）を使用する方法"
+                    }
+                  },
+                  {
+                    "@Num": "2",
+                    "ItemTitle": "二",
+                    "ItemSentence": {
+                      "Sentence": "様式第二十九による届出書及び当該届出書に記載すべき事項を記録した光ディスク等を提出する方法"
+                    }
+                  }
+                ]
+              },
+              {
+                "@Num": "3",
+                "ParagraphNum": "３",
+                "ParagraphSentence": {
+                  "Sentence": "医療情報取扱事業者が、代理人によって法第三十条第一項又は第二項の規定による届出をする場合には、様式第三十によるその権限を証する書面（電磁的記録を含む。以下同じ。）を主務大臣に提出しなければならない。"
+                }
+              }
+            ]
+          },
+          {
+            "@Num": "29",
+            "ArticleCaption": "（医療情報の提供に係る主務大臣による公表）",
+            "ArticleTitle": "第二十九条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "法第三十条第三項の規定による公表は、同条第一項又は第二項の規定による届出があった後、遅滞なく、インターネットの利用その他の適切な方法により行うものとする。"
+              }
+            }
+          },
+          {
+            "@Num": "30",
+            "ArticleCaption": "（医療情報の提供に係る医療情報取扱事業者による公表）",
+            "ArticleTitle": "第三十条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "医療情報取扱事業者は、法第三十条第三項の規定による公表がされたときは、速やかに、インターネットの利用その他の適切な方法により、同条第一項に掲げる事項（同項第二号、第三号又は第五号に掲げる事項に変更があったときは、変更後の当該各号に掲げる事項）を公表するものとする。"
+              }
+            }
+          },
+          {
+            "@Num": "31",
+            "ArticleCaption": "（書面の交付）",
+            "ArticleTitle": "第三十一条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "法第三十一条第一項の主務省令で定める事項は、次に掲げる事項とする。"
+              },
+              "Item": [
+                {
+                  "@Num": "1",
+                  "ItemTitle": "一",
+                  "ItemSentence": {
+                    "Sentence": "法第三十条第一項に規定する求めがあった旨"
+                  }
+                },
+                {
+                  "@Num": "2",
+                  "ItemTitle": "二",
+                  "ItemSentence": {
+                    "Sentence": "前号の求めを行った者の氏名及びその他の当該者を特定するに足りる事項"
+                  }
+                },
+                {
+                  "@Num": "3",
+                  "ItemTitle": "三",
+                  "ItemSentence": {
+                    "Sentence": "第一号の求めを受けた年月日"
+                  }
+                },
+                {
+                  "@Num": "4",
+                  "ItemTitle": "四",
+                  "ItemSentence": {
+                    "Sentence": "法第三十一条第一項に規定する主務省令で定める書面を交付する旨"
+                  }
+                },
+                {
+                  "@Num": "5",
+                  "ItemTitle": "五",
+                  "ItemSentence": {
+                    "Sentence": "医療情報の提供の停止の年月日"
+                  }
+                },
+                {
+                  "@Num": "6",
+                  "ItemTitle": "六",
+                  "ItemSentence": {
+                    "Sentence": "第一号の求めにより交付する書面の交付年月日"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "@Num": "32",
+            "ArticleCaption": "（書面の写し等の保存義務）",
+            "ArticleTitle": "第三十二条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "法第三十一条第三項の規定による書面の写し又は電磁的記録の保存は、同条第一項の規定により書面を交付し、又は同条第二項の規定により電磁的記録を提供した日から三年間行わなければならない。"
+              }
+            }
+          },
+          {
+            "@Num": "33",
+            "ArticleCaption": "（医療情報の提供に係る記録の作成）",
+            "ArticleTitle": "第三十三条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "法第三十二条第一項の規定による記録の作成は、次に掲げるところにより、行うものとする。"
+              },
+              "Item": [
+                {
+                  "@Num": "1",
+                  "ItemTitle": "一",
+                  "ItemSentence": {
+                    "Sentence": "文書、電磁的記録又はマイクロフィルムを用いて作成するものとする。"
+                  }
+                },
+                {
+                  "@Num": "2",
+                  "ItemTitle": "二",
+                  "ItemSentence": {
+                    "Sentence": [
+                      {
+                        "@Function": "main",
+                        "@Num": "1",
+                        "#text": "医療情報を認定匿名加工医療情報作成事業者に提供したときは、その都度、速やかに作成しなければならない。"
+                      },
+                      {
+                        "@Function": "proviso",
+                        "@Num": "2",
+                        "#text": "ただし、当該認定匿名加工医療情報作成事業者に対し医療情報を継続的に若しくは反復して提供したとき、又は当該認定匿名加工医療情報作成事業者に対し医療情報を継続的に若しくは反復して提供することが確実であると見込まれるときは、一括して作成することができる。"
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "@Num": "34",
+            "ArticleCaption": "（医療情報の提供に係る記録事項）",
+            "ArticleTitle": "第三十四条",
+            "Paragraph": [
+              {
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": "法第三十二条第一項の主務省令で定める事項は、次に掲げる事項とする。"
+                },
+                "Item": [
+                  {
+                    "@Num": "1",
+                    "ItemTitle": "一",
+                    "ItemSentence": {
+                      "Sentence": "法第三十条第一項の規定により医療情報を認定匿名加工医療情報作成事業者に提供した年月日"
+                    }
+                  },
+                  {
+                    "@Num": "2",
+                    "ItemTitle": "二",
+                    "ItemSentence": {
+                      "Sentence": "前号の認定匿名加工医療情報作成事業者の名称及び住所その他の当該認定匿名加工医療情報作成事業者を特定するに足りる事項"
+                    }
+                  },
+                  {
+                    "@Num": "3",
+                    "ItemTitle": "三",
+                    "ItemSentence": {
+                      "Sentence": "第一号の医療情報によって識別される本人の氏名その他の当該本人を特定するに足りる事項"
+                    }
+                  },
+                  {
+                    "@Num": "4",
+                    "ItemTitle": "四",
+                    "ItemSentence": {
+                      "Sentence": "当該医療情報の項目"
+                    }
+                  }
+                ]
+              },
+              {
+                "@Num": "2",
+                "ParagraphNum": "２",
+                "ParagraphSentence": {
+                  "Sentence": "前項各号に掲げる事項のうち、既に前条に規定する方法により作成した法第三十二条第一項の記録（当該記録を保存している場合におけるものに限る。）に記録されている事項と内容が同一であるものについては、当該事項の記録の作成を省略することができる。"
+                }
+              }
+            ]
+          },
+          {
+            "@Num": "35",
+            "ArticleCaption": "（医療情報の提供に係る記録の保存期間）",
+            "ArticleTitle": "第三十五条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "法第三十二条第二項の主務省令で定める期間は、次の各号に掲げる場合の区分に応じて、当該各号に定める期間とする。"
+              },
+              "Item": [
+                {
+                  "@Num": "1",
+                  "ItemTitle": "一",
+                  "ItemSentence": {
+                    "Column": [
+                      {
+                        "@Num": "1",
+                        "Sentence": "第三十三条第二号ただし書に規定する方法により記録を作成した場合"
+                      },
+                      {
+                        "@Num": "2",
+                        "Sentence": "最後に当該記録に係る医療情報の提供を行った日から起算して三年を経過する日までの間"
+                      }
+                    ]
+                  }
+                },
+                {
+                  "@Num": "2",
+                  "ItemTitle": "二",
+                  "ItemSentence": {
+                    "Column": [
+                      {
+                        "@Num": "1",
+                        "Sentence": "前号以外の場合"
+                      },
+                      {
+                        "@Num": "2",
+                        "Sentence": "三年間"
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "@Num": "36",
+            "ArticleCaption": "（医療情報の提供を受ける際の確認）",
+            "ArticleTitle": "第三十六条",
+            "Paragraph": [
+              {
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": "法第三十三条第一項の規定による確認は、次の各号に掲げる事項の区分に応じて、当該各号に定めるところによるものとする。"
+                },
+                "Item": [
+                  {
+                    "@Num": "1",
+                    "ItemTitle": "一",
+                    "ItemSentence": {
+                      "Column": [
+                        {
+                          "@Num": "1",
+                          "Sentence": "法第三十三条第一項第一号の事項"
+                        },
+                        {
+                          "@Num": "2",
+                          "Sentence": "医療情報を提供する医療情報取扱事業者から申告を受ける方法その他の適切な方法"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "@Num": "2",
+                    "ItemTitle": "二",
+                    "ItemSentence": {
+                      "Column": [
+                        {
+                          "@Num": "1",
+                          "Sentence": "法第三十三条第一項第二号の事項"
+                        },
+                        {
+                          "@Num": "2",
+                          "Sentence": "法第三十条第三項の規定により主務大臣の公表が行われた旨及び医療情報取扱事業者からの医療情報の取得の経緯を示す記録の提示を受ける方法その他の適切な方法"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "@Num": "2",
+                "ParagraphNum": "２",
+                "ParagraphSentence": {
+                  "Sentence": "前項の規定にかかわらず、医療情報取扱事業者から他の医療情報の提供を受けるに際して既に前項に規定する方法による確認（当該確認について次条に規定する方法による記録の作成及び保存をしている場合におけるものに限る。）をした事項については、当該事項の内容と当該提供に係る法第三十三条第一項各号に掲げる事項の内容が同一であることの確認を行う方法とする。"
+                }
+              }
+            ]
+          },
+          {
+            "@Num": "37",
+            "ArticleCaption": "（医療情報の提供を受ける際の記録事項）",
+            "ArticleTitle": "第三十七条",
+            "Paragraph": [
+              {
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": "法第三十三条第三項の主務省令で定める事項は、次に掲げる事項とする。"
+                },
+                "Item": [
+                  {
+                    "@Num": "1",
+                    "ItemTitle": "一",
+                    "ItemSentence": {
+                      "Sentence": "法第三十条第一項の規定により医療情報の提供を受けた年月日"
+                    }
+                  },
+                  {
+                    "@Num": "2",
+                    "ItemTitle": "二",
+                    "ItemSentence": {
+                      "Sentence": "法第三十三条第一項各号に掲げる事項"
+                    }
+                  },
+                  {
+                    "@Num": "3",
+                    "ItemTitle": "三",
+                    "ItemSentence": {
+                      "Sentence": "第一号の医療情報によって識別される本人の氏名その他の当該本人を特定するに足りる事項"
+                    }
+                  },
+                  {
+                    "@Num": "4",
+                    "ItemTitle": "四",
+                    "ItemSentence": {
+                      "Sentence": "第一号の医療情報の項目"
+                    }
+                  },
+                  {
+                    "@Num": "5",
+                    "ItemTitle": "五",
+                    "ItemSentence": {
+                      "Sentence": "法第三十条第三項の規定により公表されている旨"
+                    }
+                  }
+                ]
+              },
+              {
+                "@Num": "2",
+                "ParagraphNum": "２",
+                "ParagraphSentence": {
+                  "Sentence": "前項に掲げる事項のうち、既に前条に規定する方法により作成した法第三十三条第三項の記録（当該記録を保存している場合におけるものに限る。）に記録されている事項と内容が同一であるものについては、当該事項の記録の作成を省略することができる。"
+                }
+              }
+            ]
+          },
+          {
+            "@Num": "38",
+            "ArticleCaption": "（準用）",
+            "ArticleTitle": "第三十八条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": [
+                  {
+                    "@Num": "1",
+                    "#text": "第三十三条及び第三十五条の規定は、認定匿名加工医療情報作成事業者について準用する。"
+                  },
+                  {
+                    "@Num": "2",
+                    "#text": "この場合において、次の表の上欄に掲げる規定中同表の中欄に掲げる字句は、それぞれ同表の下欄に掲げる字句に読み替えるものとする。"
+                  }
+                ]
+              },
+              "TableStruct": {
+                "Table": {
+                  "TableRow": [
+                    {
+                      "TableColumn": [
+                        {
+                          "@Valign": "top",
+                          "@rowspan": "5",
+                          "Sentence": "第三十三条"
+                        },
+                        {
+                          "@Valign": "top",
+                          "Sentence": "第三十二条第一項"
+                        },
+                        {
+                          "@Valign": "top",
+                          "Sentence": "第三十三条第三項"
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "@Valign": "top",
+                          "Sentence": "医療情報を認定匿名加工医療情報作成事業者に提供した"
+                        },
+                        {
+                          "@Valign": "top",
+                          "Sentence": "医療情報取扱事業者から医療情報の提供を受けた"
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "@Valign": "top",
+                          "Sentence": "認定匿名加工医療情報作成事業者に対し医療情報を"
+                        },
+                        {
+                          "@Valign": "top",
+                          "Sentence": "医療情報取扱事業者から"
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "@Valign": "top",
+                          "Sentence": "提供したとき、"
+                        },
+                        {
+                          "@Valign": "top",
+                          "Sentence": "医療情報の提供を受けたとき、"
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "@Valign": "top",
+                          "Sentence": "提供する"
+                        },
+                        {
+                          "@Valign": "top",
+                          "Sentence": "医療情報の提供を受ける"
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "@Valign": "top",
+                          "@rowspan": "2",
+                          "Sentence": "第三十五条"
+                        },
+                        {
+                          "@Valign": "top",
+                          "Sentence": "第三十二条第二項"
+                        },
+                        {
+                          "@Valign": "top",
+                          "Sentence": "第三十三条第四項"
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "@Valign": "top",
+                          "Sentence": "行った"
+                        },
+                        {
+                          "@Valign": "top",
+                          "Sentence": "受けた"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          {
+            "@Num": "39",
+            "ArticleCaption": "（立入検査をする者の身分証明書）",
+            "ArticleTitle": "第三十九条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "法第三十五条第二項の職員の身分を示す証明書は、様式第三十一によるものとする。"
+              }
+            }
+          }
+        ]
+      },
+      "SupplProvision": {
+        "SupplProvisionLabel": "附　則",
+        "Article": [
+          {
+            "@Num": "1",
+            "ArticleCaption": "（施行期日）",
+            "ArticleTitle": "第一条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "この命令は、法の施行の日から施行する。"
+              }
+            }
+          },
+          {
+            "@Num": "2",
+            "ArticleCaption": "（医療情報の提供の事前の届出に関する特例）",
+            "ArticleTitle": "第二条",
+            "Paragraph": [
+              {
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": "法第三十条第一項の規定による届出は、第二十八条第二項第一号の規定により主務大臣が定めるまでの間は、同項第二号の方法による。"
+                }
+              },
+              {
+                "@Num": "2",
+                "ParagraphNum": "２",
+                "ParagraphSentence": {
+                  "Sentence": "代理人によって前項の規定による届出を行う場合には、前項の届出書に様式第三十によるその権限を証する書面を添付しなければならない。"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      "AppdxStyle": [
+        {
+          "AppdxStyleTitle": "様式第一",
+          "RelatedArticleNum": "（第三条第一項関係）",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/H30F100200190150001_001.pdf"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": "様式第二",
+          "RelatedArticleNum": "（第七条関係）",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/H30F100200190150001_002.pdf"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": "様式第三",
+          "RelatedArticleNum": "（第八条第一項関係）",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/H30F100200190150001_003.pdf"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": "様式第四",
+          "RelatedArticleNum": "（第八条第三項関係）",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/H30F100200190150001_004.pdf"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": "様式第五",
+          "RelatedArticleNum": "（第九条第一項関係）",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/H30F100200190150001_005.pdf"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": "様式第六",
+          "RelatedArticleNum": "（第九条第一項第一号関係）",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/H30F100200190150001_006.pdf"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": "様式第七",
+          "RelatedArticleNum": "（第九条第二項関係）",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/H30F100200190150001_007.pdf"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": "様式第八",
+          "RelatedArticleNum": "（第九条第二項第一号関係）",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/H30F100200190150001_008.pdf"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": "様式第九",
+          "RelatedArticleNum": "（第九条第三項関係）",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/H30F100200190150001_009.pdf"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": "様式第十",
+          "RelatedArticleNum": "（第九条第四項関係）",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/H30F100200190150001_010.pdf"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": "様式第十一",
+          "RelatedArticleNum": "（第九条第四項第一号関係）",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/H30F100200190150001_011.pdf"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": "様式第十二",
+          "RelatedArticleNum": "（第九条第五項関係）",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/H30F100200190150001_012.pdf"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": "様式第十三",
+          "RelatedArticleNum": "（第十条関係）",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/H30F100200190150001_013.pdf"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": "様式第十四",
+          "RelatedArticleNum": "（第十一条関係）",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/H30F100200190150001_014.pdf"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": "様式第十五",
+          "RelatedArticleNum": "（第二十六条関係）",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/H30F100200190150001_015.pdf"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": "様式第十六",
+          "RelatedArticleNum": "（第二十六条関係）",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/H30F100200190150001_016.pdf"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": "様式第十七",
+          "RelatedArticleNum": "（第二十六条関係）",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/H30F100200190150001_017.pdf"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": "様式第十八",
+          "RelatedArticleNum": "（第二十六条関係）",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/H30F100200190150001_018.pdf"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": "様式第十九",
+          "RelatedArticleNum": "（第二十六条関係）",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/H30F100200190150001_019.pdf"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": "様式第二十",
+          "RelatedArticleNum": "（第二十六条関係）",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/H30F100200190150001_020.pdf"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": "様式第二十一",
+          "RelatedArticleNum": "（第二十六条関係）",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/H30F100200190150001_021.pdf"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": "様式第二十二",
+          "RelatedArticleNum": "（第二十六条関係）",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/H30F100200190150001_022.pdf"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": "様式第二十三",
+          "RelatedArticleNum": "（第二十六条関係）",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/H30F100200190150001_023.pdf"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": "様式第二十四",
+          "RelatedArticleNum": "（第二十六条関係）",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/H30F100200190150001_024.pdf"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": "様式第二十五",
+          "RelatedArticleNum": "（第二十六条関係）",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/H30F100200190150001_025.pdf"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": "様式第二十六",
+          "RelatedArticleNum": "（第二十六条関係）",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/H30F100200190150001_026.pdf"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": "様式第二十七",
+          "RelatedArticleNum": "（第二十六条関係）",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/H30F100200190150001_027.pdf"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": "様式第二十八",
+          "RelatedArticleNum": "（第二十六条関係）",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/H30F100200190150001_028.pdf"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": "様式第二十九",
+          "RelatedArticleNum": "（第二十八条第二項、附則第二条第一項関係）",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/H30F100200190150001_029.pdf"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": "様式第三十",
+          "RelatedArticleNum": "（第二十八条第三項、附則第二条第二項関係）",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/H30F100200190150001_030.pdf"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": "様式第三十一",
+          "RelatedArticleNum": "（第三十九条関係）",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/H30F100200190150001_031.pdf"
+              }
+            }
+          }
+        }
+      ]
+    }
+  }
+}

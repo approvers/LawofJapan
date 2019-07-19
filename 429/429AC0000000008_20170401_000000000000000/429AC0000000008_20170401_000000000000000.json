@@ -1,0 +1,161 @@
+{
+  "Law": {
+    "@Era": "Heisei",
+    "@Lang": "ja",
+    "@LawType": "Act",
+    "@Num": "008",
+    "@Year": "29",
+    "LawNum": "平成二十九年法律第八号",
+    "LawBody": {
+      "LawTitle": "独立行政法人日本スポーツ振興センター法の一部を改正する法律",
+      "MainProvision": {
+        "Paragraph": {
+          "@Hide": "false",
+          "@Num": "1",
+          "ParagraphNum": null,
+          "ParagraphSentence": {
+            "Sentence": {
+              "@WritingMode": "vertical",
+              "#text": "独立行政法人日本スポーツ振興センター法（平成十四年法律第百六十二号）の一部を次のように改正する。"
+            }
+          },
+          "AmendProvision": [
+            {
+              "AmendProvisionSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "第三条中「又は幼保連携型認定こども園」を「、幼保連携型認定こども園又は専修学校（高等課程に係るものに限る。）」に改める。"
+                }
+              }
+            },
+            {
+              "AmendProvisionSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "第十五条第一項第八号中「学校及び」を「学校、」に改め、「という。）」の下に「及び学校教育法第百二十四条に規定する専修学校（同法第百二十五条第一項に規定する高等課程に係るものに限る。）」を加える。"
+                }
+              }
+            },
+            {
+              "AmendProvisionSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "附則第八条第一項を次のように改める。"
+                }
+              },
+              "NewProvision": {
+                "Paragraph": {
+                  "@Hide": "false",
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "センターは、当分の間、第十五条及び附則第六条第一項に規定する業務のほか、次に掲げる施設の管理下における児童福祉法第四条第一項に規定する児童の災害につき、当該児童の保護者に対し、災害共済給付を行うことができる。"
+                    }
+                  },
+                  "Item": [
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "1",
+                      "ItemTitle": "一",
+                      "ItemSentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "保育所（児童福祉法第三十九条第一項に規定する保育所をいう。次号において同じ。）"
+                        }
+                      }
+                    },
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "2",
+                      "ItemTitle": "二",
+                      "ItemSentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "児童福祉法第五十九条第一項に規定する施設のうち同法第三十九条第一項に規定する業務を目的とする施設（次号の施設を除く。）であって、文部科学大臣及び厚生労働大臣の定めるところにより、その設備及び運営が保育所に係る基準に準ずるものとして文部科学大臣及び厚生労働大臣が定める基準に適合すると認められるもの"
+                        }
+                      }
+                    },
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "3",
+                      "ItemTitle": "三",
+                      "ItemSentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "就学前の子どもに関する教育、保育等の総合的な提供の推進に関する法律第二条第六項に規定する認定こども園であって児童福祉法第五十九条第一項に規定する施設のうち同法第三十九条第一項に規定する業務を目的とするもの"
+                        }
+                      }
+                    },
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "4",
+                      "ItemTitle": "四",
+                      "ItemSentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "児童福祉法第六条の三第九項に規定する家庭的保育事業、同条第十項に規定する小規模保育事業又は同条第十二項に規定する事業所内保育事業（次号において「特定保育事業」という。）を行う施設"
+                        }
+                      }
+                    },
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "5",
+                      "ItemTitle": "五",
+                      "ItemSentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "児童福祉法第五十九条第一項に規定する施設のうち同法第六条の三第九項、第十項又は第十二項に規定する業務を目的とする施設（次号の施設を除く。）であって、文部科学大臣及び厚生労働大臣の定めるところにより、その設備及び運営が特定保育事業を行う施設に係る基準に準ずるものとして文部科学大臣及び厚生労働大臣が定める基準に適合すると認められるもの"
+                        }
+                      }
+                    },
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "6",
+                      "ItemTitle": "六",
+                      "ItemSentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "子ども・子育て支援法（平成二十四年法律第六十五号）第五十九条の二第一項の規定による助成を受けている施設の設置者の当該助成に係る業務を目的とする施設のうち児童福祉法第六条の三第十二項に規定する業務を目的とするもの"
+                        }
+                      }
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "AmendProvisionSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "附則第八条第三項中「学校の設置者」を「学校」に、「附則第八条第一項に規定する保育所等の設置者又は同項に規定する特定保育事業を行う者」を「附則第八条第一項各号に掲げる施設」に改める。"
+                }
+              }
+            }
+          ]
+        }
+      },
+      "SupplProvision": {
+        "SupplProvisionLabel": "附　則",
+        "Paragraph": {
+          "@Hide": "false",
+          "@Num": "1",
+          "ParagraphNum": null,
+          "ParagraphSentence": {
+            "Sentence": {
+              "@WritingMode": "vertical",
+              "#text": "この法律は、平成二十九年四月一日から施行する。"
+            }
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,148 @@
+{
+  "Law": {
+    "@Era": "Showa",
+    "@Lang": "ja",
+    "@LawType": "Rule",
+    "@Num": "4",
+    "@Year": "30",
+    "LawNum": "昭和三十年国家公安委員会規則第四号",
+    "LawBody": {
+      "LawTitle": "偽造通貨取扱規則",
+      "EnactStatement": "偽造通貨取扱規則を次のように定める。",
+      "MainProvision": {
+        "Article": [
+          {
+            "@Num": "1",
+            "ArticleCaption": "（目的）",
+            "ArticleTitle": "第一条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "この規則は、偽造通貨の鑑識を行うため必要な手続について規定することを目的とする。"
+              }
+            }
+          },
+          {
+            "@Num": "2",
+            "ArticleCaption": "（偽造通貨の定義）",
+            "ArticleTitle": "第二条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "この規則において偽造通貨とは、偽造、変造又はその疑いのある貨幣、紙幣又は銀行券をいう。"
+              }
+            }
+          },
+          {
+            "@Num": "3",
+            "ArticleCaption": "（偽造通貨の送付）",
+            "ArticleTitle": "第三条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "警視総監又は道府県警察本部長（以下「警察本部長」という。）は、偽造通貨を発見したときは、これを偽造通貨送付書（別記様式第一号）とともに、すみやかに科学警察研究所長（以下「研究所長」という。）に送付しなければならない。"
+              }
+            }
+          },
+          {
+            "@Num": "4",
+            "ArticleCaption": "（偽造通貨送付に伴う処置）",
+            "ArticleTitle": "第四条",
+            "Paragraph": [
+              {
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": "研究所長は、前条の規定により送付を受けた偽造通貨について鑑識し、偽造又は変造と認められたものについては、これを分類し、符号をつけなければならない。"
+                }
+              },
+              {
+                "@Num": "2",
+                "ParagraphNum": "２",
+                "ParagraphSentence": {
+                  "Sentence": "研究所長は、前項の規定による鑑識の結果及び符号、発見区域、発見枚数その他参考事項を当該警察本部長に通知するとともに、偽造通貨を返送しなければならない。"
+                }
+              },
+              {
+                "@Num": "3",
+                "ParagraphNum": "３",
+                "ParagraphSentence": {
+                  "Sentence": "研究所長は、前項に掲げる事項を関係警察本部長に通知しなければならない。"
+                }
+              }
+            ]
+          },
+          {
+            "@Num": "5",
+            "ArticleCaption": "（事件検挙の場合の報告）",
+            "ArticleTitle": "第五条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "警察本部長は、通貨偽造事件を検挙したときは、通貨偽造事件検挙報告書（別記様式第二号）により研究所長に報告しなければならない。"
+              }
+            }
+          }
+        ]
+      },
+      "SupplProvision": [
+        {
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": [
+            {
+              "@Num": "1",
+              "ParagraphNum": "１",
+              "ParagraphSentence": {
+                "Sentence": "この規則は、昭和三十年七月一日から施行する。"
+              }
+            },
+            {
+              "@Num": "2",
+              "ParagraphNum": "２",
+              "ParagraphSentence": {
+                "Sentence": "この規則の施行の日前に送付された偽造通貨は、この規則に基いて送付されたものとみなす。"
+              }
+            }
+          ]
+        },
+        {
+          "@AmendLawNum": "昭和三四年三月三一日国家公安委員会規則第三号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": "１",
+            "ParagraphSentence": {
+              "Sentence": "この規則は、昭和三十四年四月一日から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成元年七月三日国家公安委員会規則第一〇号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この規則は、公布の日から施行する。"
+            }
+          }
+        }
+      ],
+      "AppdxStyle": {
+        "AppdxStyleTitle": "別記様式",
+        "StyleStruct": {
+          "Style": {
+            "Fig": {
+              "@src": "./pict/S30F30301000004-001.pdf"
+            }
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,392 @@
+{
+  "Law": {
+    "@Era": "Heisei",
+    "@Lang": "ja",
+    "@LawType": "MinisterialOrdinance",
+    "@Num": "039",
+    "@Year": "30",
+    "LawNum": "平成三十年財務省令第三十九号",
+    "LawBody": {
+      "LawTitle": "国際観光旅客税法施行規則",
+      "EnactStatement": "国際観光旅客税法（平成三十年法律第十六号）第十六条第二項、第十七条第二項、第十九条第一項から第三項まで、第二十条第一項から第三項まで、第二十三条及び附則第三条の規定に基づき、国際観光旅客税法施行規則を次のように定める。",
+      "MainProvision": {
+        "Article": [
+          {
+            "@Num": "1",
+            "ArticleCaption": "（定義）",
+            "ArticleTitle": "第一条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "この省令において「国内」、「国際船舶等」、「国際観光旅客等」、「出入国港」、「国際旅客運送事業」、「国内事業者」、「住所等」又は「国外事業者」とは、それぞれ国際観光旅客税法（以下「法」という。）第二条第一項に規定する国内、国際船舶等、国際観光旅客等、出入国港、国際旅客運送事業、国内事業者、住所等又は国外事業者をいう。"
+              }
+            }
+          },
+          {
+            "@Num": "2",
+            "ArticleCaption": "（国内事業者の納税地の異動届出書の記載事項）",
+            "ArticleTitle": "第二条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "法第十二条に規定する届出に係る書面には、次に掲げる事項を記載しなければならない。"
+              },
+              "Item": [
+                {
+                  "@Num": "1",
+                  "ItemTitle": "一",
+                  "ItemSentence": {
+                    "Sentence": "届出者の住所又は居所、氏名又は名称及び個人番号（行政手続における特定の個人を識別するための番号の利用等に関する法律（平成二十五年法律第二十七号）第二条第五項に規定する個人番号をいう。以下同じ。）又は法人番号（同条第十五項に規定する法人番号をいう。以下同じ。）（個人番号又は法人番号を有しない者にあっては、住所又は居所及び氏名又は名称）"
+                  }
+                },
+                {
+                  "@Num": "2",
+                  "ItemTitle": "二",
+                  "ItemSentence": {
+                    "Sentence": "異動前の納税地及び異動後の納税地"
+                  }
+                },
+                {
+                  "@Num": "3",
+                  "ItemTitle": "三",
+                  "ItemSentence": {
+                    "Sentence": "当該異動があった年月日"
+                  }
+                },
+                {
+                  "@Num": "4",
+                  "ItemTitle": "四",
+                  "ItemSentence": {
+                    "Sentence": "その他参考となるべき事項"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "@Num": "3",
+            "ArticleCaption": "（計算書の記載事項）",
+            "ArticleTitle": "第三条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "法第十六条第二項又は第十七条第二項に規定する財務省令で定める事項は、法第十六条第一項又は第十七条第一項の規定により徴収して納付すべき国際観光旅客税に係る次に掲げる事項とする。"
+              },
+              "Item": [
+                {
+                  "@Num": "1",
+                  "ItemTitle": "一",
+                  "ItemSentence": {
+                    "Sentence": "提出者の住所又は居所、氏名又は名称、納税地及び個人番号又は法人番号（個人番号若しくは法人番号を有しない者又は法第十七条第二項の規定により同項に規定する計算書を税関長に提出する者にあっては、住所又は居所、氏名又は名称及び納税地）"
+                  }
+                },
+                {
+                  "@Num": "2",
+                  "ItemTitle": "二",
+                  "ItemSentence": {
+                    "Sentence": "提出者の使用する国際船舶等（法第五条ただし書に規定する場合に該当するものを除く。）により本邦から出国した旅客に係る次に掲げる事項"
+                  },
+                  "Subitem1": [
+                    {
+                      "@Num": "1",
+                      "Subitem1Title": "イ",
+                      "Subitem1Sentence": {
+                        "Sentence": "旅客の数"
+                      }
+                    },
+                    {
+                      "@Num": "2",
+                      "Subitem1Title": "ロ",
+                      "Subitem1Sentence": {
+                        "Sentence": "国際観光旅客等でない者の数"
+                      }
+                    },
+                    {
+                      "@Num": "3",
+                      "Subitem1Title": "ハ",
+                      "Subitem1Sentence": {
+                        "Sentence": "法第六条各号に掲げる者の数"
+                      }
+                    },
+                    {
+                      "@Num": "4",
+                      "Subitem1Title": "ニ",
+                      "Subitem1Sentence": {
+                        "Sentence": "他の法律の規定により本邦からの出国につき国際観光旅客税を免除される者の数"
+                      }
+                    },
+                    {
+                      "@Num": "5",
+                      "Subitem1Title": "ホ",
+                      "Subitem1Sentence": {
+                        "Sentence": "イに掲げる数からロからニまでに掲げる数の合計数を控除した数"
+                      }
+                    },
+                    {
+                      "@Num": "6",
+                      "Subitem1Title": "ヘ",
+                      "Subitem1Sentence": {
+                        "Sentence": "ホに掲げる数に対する国際観光旅客税の額"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "@Num": "3",
+                  "ItemTitle": "三",
+                  "ItemSentence": {
+                    "Sentence": "前号の旅客が本邦から出国した出入国港ごとの同号イからホまでに掲げる事項"
+                  }
+                },
+                {
+                  "@Num": "4",
+                  "ItemTitle": "四",
+                  "ItemSentence": {
+                    "Sentence": "第二号の旅客が本邦から出国した年月"
+                  }
+                },
+                {
+                  "@Num": "5",
+                  "ItemTitle": "五",
+                  "ItemSentence": {
+                    "Sentence": "その他参考となるべき事項"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "@Num": "4",
+            "ArticleCaption": "（税務署長に対する国際旅客運送事業の開廃等の届出）",
+            "ArticleTitle": "第四条",
+            "Paragraph": [
+              {
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": "法第十九条第一項の規定による届出をしようとする者は、次に掲げる事項を記載した届出書を同項に規定する税務署長に提出しなければならない。"
+                },
+                "Item": [
+                  {
+                    "@Num": "1",
+                    "ItemTitle": "一",
+                    "ItemSentence": {
+                      "Sentence": "届出者の住所又は居所、氏名又は名称、国内事業者となるときにおける納税地及び個人番号又は法人番号（個人番号又は法人番号を有しない者にあっては、住所又は居所、氏名又は名称及び当該納税地）"
+                    }
+                  },
+                  {
+                    "@Num": "2",
+                    "ItemTitle": "二",
+                    "ItemSentence": {
+                      "Sentence": "国際旅客運送事業において使用する出入国港の所在地及び名称"
+                    }
+                  },
+                  {
+                    "@Num": "3",
+                    "ItemTitle": "三",
+                    "ItemSentence": {
+                      "Sentence": "国際旅客運送事業を開始しようとする年月日又は国内に住所等を有することとなる年月日"
+                    }
+                  },
+                  {
+                    "@Num": "4",
+                    "ItemTitle": "四",
+                    "ItemSentence": {
+                      "Sentence": "その他参考となるべき事項"
+                    }
+                  }
+                ]
+              },
+              {
+                "@Num": "2",
+                "ParagraphNum": "２",
+                "ParagraphSentence": {
+                  "Sentence": "法第十九条第二項の規定による届出をしようとする国内事業者は、次に掲げる事項を記載した届出書を同項に規定する税務署長に提出しなければならない。"
+                },
+                "Item": [
+                  {
+                    "@Num": "1",
+                    "ItemTitle": "一",
+                    "ItemSentence": {
+                      "Sentence": "届出者の住所又は居所、氏名又は名称、納税地及び個人番号又は法人番号（個人番号又は法人番号を有しない者にあっては、住所又は居所、氏名又は名称及び納税地）"
+                    }
+                  },
+                  {
+                    "@Num": "2",
+                    "ItemTitle": "二",
+                    "ItemSentence": {
+                      "Sentence": "国際旅客運送事業において使用する出入国港の所在地及び名称"
+                    }
+                  },
+                  {
+                    "@Num": "3",
+                    "ItemTitle": "三",
+                    "ItemSentence": {
+                      "Sentence": "国際旅客運送事業を廃止しようとする年月日若しくは休止しようとする期間又は国内に住所等を有しないこととなる年月日"
+                    }
+                  },
+                  {
+                    "@Num": "4",
+                    "ItemTitle": "四",
+                    "ItemSentence": {
+                      "Sentence": "その他参考となるべき事項"
+                    }
+                  }
+                ]
+              },
+              {
+                "@Num": "3",
+                "ParagraphNum": "３",
+                "ParagraphSentence": {
+                  "Sentence": "国内事業者は、前二項の規定により届け出た事項に異動（納税地の異動を除く。）を生じた場合には、速やかに、その異動に係る事項を法第十九条第三項に規定する税務署長に書面で届け出なければならない。"
+                }
+              }
+            ]
+          },
+          {
+            "@Num": "5",
+            "ArticleCaption": "（税関長に対する国際旅客運送事業の開廃等の届出）",
+            "ArticleTitle": "第五条",
+            "Paragraph": [
+              {
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": "法第二十条第一項の規定による届出をしようとする者は、次に掲げる事項を記載した届出書を同項に規定する税関長に提出しなければならない。"
+                },
+                "Item": [
+                  {
+                    "@Num": "1",
+                    "ItemTitle": "一",
+                    "ItemSentence": {
+                      "Sentence": "届出者の住所又は居所及び氏名又は名称"
+                    }
+                  },
+                  {
+                    "@Num": "2",
+                    "ItemTitle": "二",
+                    "ItemSentence": {
+                      "Sentence": "国際旅客運送事業において使用する出入国港の所在地及び名称"
+                    }
+                  },
+                  {
+                    "@Num": "3",
+                    "ItemTitle": "三",
+                    "ItemSentence": {
+                      "Sentence": "国際旅客運送事業を開始しようとする年月日又は国内に住所等を有しないこととなる年月日"
+                    }
+                  },
+                  {
+                    "@Num": "4",
+                    "ItemTitle": "四",
+                    "ItemSentence": {
+                      "Sentence": "その他参考となるべき事項"
+                    }
+                  }
+                ]
+              },
+              {
+                "@Num": "2",
+                "ParagraphNum": "２",
+                "ParagraphSentence": {
+                  "Sentence": "法第二十条第二項の規定による届出をしようとする国外事業者は、次に掲げる事項を記載した届出書を同項に規定する税関長に提出しなければならない。"
+                },
+                "Item": [
+                  {
+                    "@Num": "1",
+                    "ItemTitle": "一",
+                    "ItemSentence": {
+                      "Sentence": "届出者の住所又は居所及び氏名又は名称"
+                    }
+                  },
+                  {
+                    "@Num": "2",
+                    "ItemTitle": "二",
+                    "ItemSentence": {
+                      "Sentence": "国際旅客運送事業において使用する出入国港の所在地及び名称"
+                    }
+                  },
+                  {
+                    "@Num": "3",
+                    "ItemTitle": "三",
+                    "ItemSentence": {
+                      "Sentence": "国際旅客運送事業を廃止しようとする年月日若しくは休止しようとする期間又は国内に住所等を有することとなる年月日"
+                    }
+                  },
+                  {
+                    "@Num": "4",
+                    "ItemTitle": "四",
+                    "ItemSentence": {
+                      "Sentence": "その他参考となるべき事項"
+                    }
+                  }
+                ]
+              },
+              {
+                "@Num": "3",
+                "ParagraphNum": "３",
+                "ParagraphSentence": {
+                  "Sentence": "国外事業者は、前二項の規定により届け出た事項に異動を生じた場合には、速やかに、その異動に係る事項を法第二十条第三項に規定する税関長に書面で届け出なければならない。"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      "SupplProvision": {
+        "@Extract": "true",
+        "SupplProvisionLabel": "附　則",
+        "Article": [
+          {
+            "@Num": "1",
+            "ArticleCaption": "（施行期日）",
+            "ArticleTitle": "第一条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "この省令は、平成三十一年一月七日から施行する。"
+              }
+            }
+          },
+          {
+            "@Num": "2",
+            "ArticleCaption": "（計算書の記載事項に関する経過措置）",
+            "ArticleTitle": "第二条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "法附則第二条本文の規定の適用がある場合における第三条の規定の適用については、同条第二号ニ中「他の」とあるのは、「法附則第二条本文の規定の適用を受ける者及び他の」とする。"
+              }
+            }
+          },
+          {
+            "@Num": "3",
+            "ArticleCaption": "（国際旅客運送事業の開始の届出に関する経過措置）",
+            "ArticleTitle": "第三条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": [
+                  {
+                    "@Num": "1",
+                    "#text": "第四条第一項（第三号を除く。）の規定は法附則第三条第一項の規定による届出をしようとする国内事業者について、第五条第一項（第三号を除く。）の規定は法附則第三条第一項の規定による届出をしようとする国外事業者について、それぞれ準用する。"
+                  },
+                  {
+                    "@Num": "2",
+                    "#text": "この場合において、第四条第一項第一号中「国内事業者となるときにおける納税地」とあるのは、「納税地」と読み替えるものとする。"
+                  }
+                ]
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

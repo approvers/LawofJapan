@@ -1,0 +1,799 @@
+{
+  "Law": {
+    "@Era": "Heisei",
+    "@Lang": "ja",
+    "@LawType": "MinisterialOrdinance",
+    "@Num": "081",
+    "@Year": "04",
+    "LawNum": "平成四年通商産業省令第八十一号",
+    "LawBody": {
+      "LawTitle": "計量法附則第三条の計量単位の記号等を定める規則",
+      "EnactStatement": "計量法（平成四年法律第五十一号）附則第七条及び計量法附則第三条の計量単位等を定める政令（平成四年政令第三百五十八号）別表第二第七号の規定に基づき、計量法附則第三条の計量単位の記号等を定める規則を次のように制定する。",
+      "MainProvision": {
+        "Article": [
+          {
+            "@Num": "1",
+            "ArticleCaption": "（記号）",
+            "ArticleTitle": "第一条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "計量法（平成四年法律第五十一号。以下「法」という。）附則第七条に規定する経済産業省令で定める法附則第三条第一項から第三項までに規定する計量単位の記号は別表のとおりとする。"
+              }
+            }
+          },
+          {
+            "@Num": "2",
+            "ArticleCaption": "（音圧レベルにおける聴感補正）",
+            "ArticleTitle": "第二条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "計量法附則第三条の計量単位等を定める政令（平成四年政令第三百五十八号）別表第二第七号の音圧実効値に通商産業省令で定める聴感補正を行って得られる値は、計量単位規則（平成四年通商産業省令第八十号）第六条の規定を準用する。"
+              }
+            }
+          }
+        ]
+      },
+      "SupplProvision": [
+        {
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この省令は、法の施行の日（平成五年十一月一日）から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成一二年一〇月一三日通商産業省令第二二九号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この省令は、平成十三年一月六日から施行する。"
+            }
+          }
+        }
+      ],
+      "AppdxTable": {
+        "AppdxTableTitle": "別表",
+        "RelatedArticleNum": "（第１条関係）",
+        "TableStruct": {
+          "Table": {
+            "TableRow": [
+              {
+                "TableColumn": [
+                  {
+                    "Sentence": "物象の状態の量"
+                  },
+                  {
+                    "Sentence": "計量単位"
+                  },
+                  {
+                    "Sentence": "記号"
+                  }
+                ]
+              },
+              {
+                "TableColumn": [
+                  {
+                    "@rowspan": "2",
+                    "Sentence": "力"
+                  },
+                  {
+                    "Sentence": "ダイン"
+                  },
+                  {
+                    "Sentence": "ｄｙｎ"
+                  }
+                ]
+              },
+              {
+                "TableColumn": [
+                  {
+                    "Sentence": "メガダイン"
+                  },
+                  {
+                    "Sentence": "Ｍｄｙｎ"
+                  }
+                ]
+              },
+              {
+                "TableColumn": [
+                  {
+                    "Sentence": "仕事"
+                  },
+                  {
+                    "Sentence": "エルグ"
+                  },
+                  {
+                    "Sentence": "ｅｒｇ"
+                  }
+                ]
+              },
+              {
+                "TableColumn": [
+                  {
+                    "@rowspan": "2",
+                    "Sentence": "熱量"
+                  },
+                  {
+                    "Sentence": "重量キログラムメートル"
+                  },
+                  {
+                    "Sentence": "ｋｇｆ・ｍ"
+                  }
+                ]
+              },
+              {
+                "TableColumn": [
+                  {
+                    "Sentence": "エルグ"
+                  },
+                  {
+                    "Sentence": "ｅｒｇ"
+                  }
+                ]
+              },
+              {
+                "TableColumn": [
+                  {
+                    "@rowspan": "2",
+                    "Sentence": "中性子放出率"
+                  },
+                  {
+                    "Sentence": "中性子毎秒"
+                  },
+                  {
+                    "Sentence": "ｎ／ｓ"
+                  }
+                ]
+              },
+              {
+                "TableColumn": [
+                  {
+                    "Sentence": "中性子毎分"
+                  },
+                  {
+                    "Sentence": "ｎ／ｍｉｎ"
+                  }
+                ]
+              },
+              {
+                "TableColumn": [
+                  {
+                    "@rowspan": "2",
+                    "Sentence": "放射能"
+                  },
+                  {
+                    "Sentence": "壊変毎秒"
+                  },
+                  {
+                    "Sentence": "ｄｐｓ"
+                  }
+                ]
+              },
+              {
+                "TableColumn": [
+                  {
+                    "Sentence": "壊変毎分"
+                  },
+                  {
+                    "Sentence": "ｄｐｍ"
+                  }
+                ]
+              },
+              {
+                "TableColumn": [
+                  {
+                    "@rowspan": "2",
+                    "Sentence": "長さ"
+                  },
+                  {
+                    "Sentence": "ミクロン"
+                  },
+                  {
+                    "Sentence": "μ"
+                  }
+                ]
+              },
+              {
+                "TableColumn": [
+                  {
+                    "Sentence": "ミリミクロン"
+                  },
+                  {
+                    "Sentence": "ｍμ"
+                  }
+                ]
+              },
+              {
+                "TableColumn": [
+                  {
+                    "@rowspan": "5",
+                    "Sentence": "周波数"
+                  },
+                  {
+                    "Sentence": "サイクル又はサイクル毎秒"
+                  },
+                  {
+                    "Sentence": "ｃ、～又はｃ／ｓ"
+                  }
+                ]
+              },
+              {
+                "TableColumn": [
+                  {
+                    "Sentence": "キロサイクル又はキロサイクル毎秒"
+                  },
+                  {
+                    "Sentence": "ｋｃ又はｋｃ／ｓ"
+                  }
+                ]
+              },
+              {
+                "TableColumn": [
+                  {
+                    "Sentence": "メガサイクル又はメガサイクル毎秒"
+                  },
+                  {
+                    "Sentence": "Ｍｃ又はＭｃ／ｓ"
+                  }
+                ]
+              },
+              {
+                "TableColumn": [
+                  {
+                    "Sentence": "ギガサイクル又はギガサイクル毎秒"
+                  },
+                  {
+                    "Sentence": "Ｇｃ又はＧｃ／ｓ"
+                  }
+                ]
+              },
+              {
+                "TableColumn": [
+                  {
+                    "Sentence": "テラサイクル又はテラサイクル毎秒"
+                  },
+                  {
+                    "Sentence": "Ｔｃ又はＴｃ／ｓ"
+                  }
+                ]
+              },
+              {
+                "TableColumn": [
+                  {
+                    "@rowspan": "2",
+                    "Sentence": "磁界の強さ"
+                  },
+                  {
+                    "Sentence": "アンペア回数毎メートル"
+                  },
+                  {
+                    "Sentence": "ＡＴ／ｍ"
+                  }
+                ]
+              },
+              {
+                "TableColumn": [
+                  {
+                    "Sentence": "エルステッド"
+                  },
+                  {
+                    "Sentence": "Ｏｅ"
+                  }
+                ]
+              },
+              {
+                "TableColumn": [
+                  {
+                    "Sentence": "起磁力"
+                  },
+                  {
+                    "Sentence": "アンペア回数"
+                  },
+                  {
+                    "Sentence": "ＡＴ"
+                  }
+                ]
+              },
+              {
+                "TableColumn": [
+                  {
+                    "@rowspan": "2",
+                    "Sentence": "磁束密度"
+                  },
+                  {
+                    "Sentence": "ガンマ"
+                  },
+                  {
+                    "Sentence": "γ"
+                  }
+                ]
+              },
+              {
+                "TableColumn": [
+                  {
+                    "Sentence": "ガウス"
+                  },
+                  {
+                    "Sentence": "Ｇ"
+                  }
+                ]
+              },
+              {
+                "TableColumn": [
+                  {
+                    "Sentence": "磁束"
+                  },
+                  {
+                    "Sentence": "マクスウェル"
+                  },
+                  {
+                    "Sentence": "Ｍｘ"
+                  }
+                ]
+              },
+              {
+                "TableColumn": [
+                  {
+                    "Sentence": "音圧レベル"
+                  },
+                  {
+                    "Sentence": "ホン"
+                  },
+                  {
+                    "Sentence": "ｄＢ"
+                  }
+                ]
+              },
+              {
+                "TableColumn": [
+                  {
+                    "Sentence": "濃度"
+                  },
+                  {
+                    "Sentence": "規定"
+                  },
+                  {
+                    "Sentence": "Ｎ"
+                  }
+                ]
+              },
+              {
+                "TableColumn": [
+                  {
+                    "@rowspan": "6",
+                    "Sentence": "力"
+                  },
+                  {
+                    "Sentence": "重量キログラム"
+                  },
+                  {
+                    "Sentence": "ｋｇｆ"
+                  }
+                ]
+              },
+              {
+                "TableColumn": [
+                  {
+                    "Sentence": "重量グラム"
+                  },
+                  {
+                    "Sentence": "ｇｆ"
+                  }
+                ]
+              },
+              {
+                "TableColumn": [
+                  {
+                    "Sentence": "重量ミリグラム"
+                  },
+                  {
+                    "Sentence": "ｍｇｆ"
+                  }
+                ]
+              },
+              {
+                "TableColumn": [
+                  {
+                    "Sentence": "重量トン"
+                  },
+                  {
+                    "Sentence": "ｔｆ"
+                  }
+                ]
+              },
+              {
+                "TableColumn": [
+                  {
+                    "Sentence": "重量キロトン"
+                  },
+                  {
+                    "Sentence": "ｋｔｆ"
+                  }
+                ]
+              },
+              {
+                "TableColumn": [
+                  {
+                    "Sentence": "重量メガトン"
+                  },
+                  {
+                    "Sentence": "Ｍｔｆ"
+                  }
+                ]
+              },
+              {
+                "TableColumn": [
+                  {
+                    "@rowspan": "4",
+                    "Sentence": "力のモーメント"
+                  },
+                  {
+                    "Sentence": "重量キログラムメートル"
+                  },
+                  {
+                    "Sentence": "ｋｇｆ・ｍ"
+                  }
+                ]
+              },
+              {
+                "TableColumn": [
+                  {
+                    "Sentence": "重量キログラムセンチメートル"
+                  },
+                  {
+                    "Sentence": "ｋｇｆ・ｃｍ"
+                  }
+                ]
+              },
+              {
+                "TableColumn": [
+                  {
+                    "Sentence": "重量グラムセンチメートル"
+                  },
+                  {
+                    "Sentence": "ｇｆ・ｃｍ"
+                  }
+                ]
+              },
+              {
+                "TableColumn": [
+                  {
+                    "Sentence": "重量トンセンチメートル"
+                  },
+                  {
+                    "Sentence": "ｔｆ・ｃｍ"
+                  }
+                ]
+              },
+              {
+                "TableColumn": [
+                  {
+                    "@rowspan": "10",
+                    "Sentence": "圧力"
+                  },
+                  {
+                    "Sentence": "重量キログラム毎平方メートル"
+                  },
+                  {
+                    "Sentence": "ｋｇｆ／ｍ２"
+                  }
+                ]
+              },
+              {
+                "TableColumn": [
+                  {
+                    "Sentence": "重量キログラム毎平方センチメートル"
+                  },
+                  {
+                    "Sentence": "ｋｇｆ／ｃｍ２"
+                  }
+                ]
+              },
+              {
+                "TableColumn": [
+                  {
+                    "Sentence": "重量グラム毎平方メートル"
+                  },
+                  {
+                    "Sentence": "ｇｆ／ｍ２"
+                  }
+                ]
+              },
+              {
+                "TableColumn": [
+                  {
+                    "Sentence": "重量グラム毎平方センチメートル"
+                  },
+                  {
+                    "Sentence": "ｇｆ／ｃｍ２"
+                  }
+                ]
+              },
+              {
+                "TableColumn": [
+                  {
+                    "Sentence": "水銀柱メートル"
+                  },
+                  {
+                    "Sentence": "ｍＨｇ"
+                  }
+                ]
+              },
+              {
+                "TableColumn": [
+                  {
+                    "Sentence": "水銀柱ミリメートル"
+                  },
+                  {
+                    "Sentence": "ｍｍＨｇ"
+                  }
+                ]
+              },
+              {
+                "TableColumn": [
+                  {
+                    "Sentence": "水銀柱センチメートル"
+                  },
+                  {
+                    "Sentence": "ｃｍＨｇ"
+                  }
+                ]
+              },
+              {
+                "TableColumn": [
+                  {
+                    "Sentence": "水柱メートル"
+                  },
+                  {
+                    "Sentence": "ｍＨ２Ｏ"
+                  }
+                ]
+              },
+              {
+                "TableColumn": [
+                  {
+                    "Sentence": "水柱ミリメートル"
+                  },
+                  {
+                    "Sentence": "ｍｍＨ２Ｏ"
+                  }
+                ]
+              },
+              {
+                "TableColumn": [
+                  {
+                    "Sentence": "水柱センチメートル"
+                  },
+                  {
+                    "Sentence": "ｃｍＨ２Ｏ"
+                  }
+                ]
+              },
+              {
+                "TableColumn": [
+                  {
+                    "@rowspan": "6",
+                    "Sentence": "応力"
+                  },
+                  {
+                    "Sentence": "重量キログラム毎平方メートル"
+                  },
+                  {
+                    "Sentence": "ｋｇｆ／ｍ２"
+                  }
+                ]
+              },
+              {
+                "TableColumn": [
+                  {
+                    "Sentence": "重量キログラム毎平方センチメートル"
+                  },
+                  {
+                    "Sentence": "ｋｇｆ／ｃｍ２"
+                  }
+                ]
+              },
+              {
+                "TableColumn": [
+                  {
+                    "Sentence": "重量キログラム毎平方ミリメートル"
+                  },
+                  {
+                    "Sentence": "ｋｇｆ／ｍｍ２"
+                  }
+                ]
+              },
+              {
+                "TableColumn": [
+                  {
+                    "Sentence": "重量グラム毎平方メートル"
+                  },
+                  {
+                    "Sentence": "ｇｆ／ｍ２"
+                  }
+                ]
+              },
+              {
+                "TableColumn": [
+                  {
+                    "Sentence": "重量グラム毎平方センチメートル"
+                  },
+                  {
+                    "Sentence": "ｇｆ／ｃｍ２"
+                  }
+                ]
+              },
+              {
+                "TableColumn": [
+                  {
+                    "Sentence": "重量グラム毎平方ミリメートル"
+                  },
+                  {
+                    "Sentence": "ｇｆ／ｍｍ２"
+                  }
+                ]
+              },
+              {
+                "TableColumn": [
+                  {
+                    "Sentence": "仕事"
+                  },
+                  {
+                    "Sentence": "重量キログラムメートル"
+                  },
+                  {
+                    "Sentence": "ｋｇｆ・ｍ"
+                  }
+                ]
+              },
+              {
+                "TableColumn": [
+                  {
+                    "Sentence": "工率"
+                  },
+                  {
+                    "Sentence": "重量キログラムメートル毎秒"
+                  },
+                  {
+                    "Sentence": "ｋｇｆ・ｍ／ｓ"
+                  }
+                ]
+              },
+              {
+                "TableColumn": [
+                  {
+                    "@rowspan": "4",
+                    "Sentence": "熱量"
+                  },
+                  {
+                    "Sentence": "カロリー"
+                  },
+                  {
+                    "Sentence": "（温度をｔとしたとき）　ｃａｌｔ（温度を指定しないとき）　ｃａｌ"
+                  }
+                ]
+              },
+              {
+                "TableColumn": [
+                  {
+                    "Sentence": "キロカロリー"
+                  },
+                  {
+                    "Sentence": "（温度をｔとしたとき）　ｋｃａｌｔ（温度を指定しないとき）　ｋｃａｌ"
+                  }
+                ]
+              },
+              {
+                "TableColumn": [
+                  {
+                    "Sentence": "メガカロリー"
+                  },
+                  {
+                    "Sentence": "（温度をｔとしたとき）　Ｍｃａｌｔ（温度を指定しないとき）　Ｍｃａｌ"
+                  }
+                ]
+              },
+              {
+                "TableColumn": [
+                  {
+                    "Sentence": "ギガカロリー"
+                  },
+                  {
+                    "Sentence": "（温度をｔとしたとき）　Ｇｃａｌｔ（温度を指定しないとき）　Ｇｃａｌ"
+                  }
+                ]
+              },
+              {
+                "TableColumn": [
+                  {
+                    "@rowspan": "4",
+                    "Sentence": "熱伝導率"
+                  },
+                  {
+                    "Sentence": "カロリー毎秒毎メートル毎度"
+                  },
+                  {
+                    "Sentence": "ｃａｌ／（ｓ・ｍ・℃）"
+                  }
+                ]
+              },
+              {
+                "TableColumn": [
+                  {
+                    "Sentence": "カロリー毎秒毎センチメートル毎度"
+                  },
+                  {
+                    "Sentence": "ｃａｌ／（ｓ・ｃｍ・℃）"
+                  }
+                ]
+              },
+              {
+                "TableColumn": [
+                  {
+                    "Sentence": "キロカロリー毎秒毎メートル毎度"
+                  },
+                  {
+                    "Sentence": "ｋｃａｌ／（ｓ・ｍ・℃）"
+                  }
+                ]
+              },
+              {
+                "TableColumn": [
+                  {
+                    "Sentence": "カロリー毎秒毎メートル毎度"
+                  },
+                  {
+                    "Sentence": "ｃａｌ／（ｈ・ｍ・℃）"
+                  }
+                ]
+              },
+              {
+                "TableColumn": [
+                  {
+                    "@rowspan": "3",
+                    "Sentence": "比熱容量"
+                  },
+                  {
+                    "Sentence": "カロリー毎キログラム毎度"
+                  },
+                  {
+                    "Sentence": "ｃａｌ／（ｋｇ・℃）"
+                  }
+                ]
+              },
+              {
+                "TableColumn": [
+                  {
+                    "Sentence": "キロカロリー毎キログラム毎度"
+                  },
+                  {
+                    "Sentence": "ｋｃａｌ／（ｋｇ・℃）"
+                  }
+                ]
+              },
+              {
+                "TableColumn": [
+                  {
+                    "Sentence": "カロリー毎グラム毎度"
+                  },
+                  {
+                    "Sentence": "ｃａｌ／（ｇ・℃）"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    }
+  }
+}

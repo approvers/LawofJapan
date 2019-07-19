@@ -1,0 +1,3024 @@
+{
+  "Law": {
+    "@Era": "Heisei",
+    "@Lang": "ja",
+    "@LawType": "Act",
+    "@Num": "028",
+    "@Year": "29",
+    "LawNum": "平成二十九年法律第二十八号",
+    "LawBody": {
+      "LawTitle": "医療分野の研究開発に資するための匿名加工医療情報に関する法律",
+      "TOC": {
+        "TOCLabel": "目次",
+        "TOCChapter": [
+          {
+            "@Delete": "false",
+            "@Num": "1",
+            "ChapterTitle": "第一章　総則",
+            "ArticleRange": "（第一条―第三条）"
+          },
+          {
+            "@Delete": "false",
+            "@Num": "2",
+            "ChapterTitle": "第二章　医療分野の研究開発に資するための匿名加工医療情報に関する施策",
+            "TOCSection": [
+              {
+                "@Delete": "false",
+                "@Num": "1",
+                "SectionTitle": "第一節　医療分野の研究開発に資するための匿名加工医療情報に関する基本方針",
+                "ArticleRange": "（第四条）"
+              },
+              {
+                "@Delete": "false",
+                "@Num": "2",
+                "SectionTitle": "第二節　国の施策",
+                "ArticleRange": "（第五条―第七条）"
+              }
+            ]
+          },
+          {
+            "@Delete": "false",
+            "@Num": "3",
+            "ChapterTitle": "第三章　認定匿名加工医療情報作成事業者",
+            "TOCSection": [
+              {
+                "@Delete": "false",
+                "@Num": "1",
+                "SectionTitle": "第一節　匿名加工医療情報作成事業を行う者の認定",
+                "ArticleRange": "（第八条―第十六条）"
+              },
+              {
+                "@Delete": "false",
+                "@Num": "2",
+                "SectionTitle": "第二節　医療情報等及び匿名加工医療情報の取扱いに関する規制",
+                "ArticleRange": "（第十七条―第二十七条）"
+              },
+              {
+                "@Delete": "false",
+                "@Num": "3",
+                "SectionTitle": "第三節　認定医療情報等取扱受託事業者",
+                "ArticleRange": "（第二十八条・第二十九条）"
+              }
+            ]
+          },
+          {
+            "@Delete": "false",
+            "@Num": "4",
+            "ChapterTitle": "第四章　医療情報取扱事業者による認定匿名加工医療情報作成事業者に対する医療情報の提供",
+            "ArticleRange": "（第三十条―第三十四条）"
+          },
+          {
+            "@Delete": "false",
+            "@Num": "5",
+            "ChapterTitle": "第五章　監督",
+            "ArticleRange": "（第三十五条―第三十七条）"
+          },
+          {
+            "@Delete": "false",
+            "@Num": "6",
+            "ChapterTitle": "第六章　雑則",
+            "ArticleRange": "（第三十八条―第四十三条）"
+          },
+          {
+            "@Delete": "false",
+            "@Num": "7",
+            "ChapterTitle": "第七章　罰則",
+            "ArticleRange": "（第四十四条―第五十条）"
+          }
+        ],
+        "TOCSupplProvision": {
+          "SupplProvisionLabel": "附則"
+        }
+      },
+      "MainProvision": {
+        "Chapter": [
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "1",
+            "ChapterTitle": "第一章　総則",
+            "Article": [
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "1",
+                "ArticleCaption": "（目的）",
+                "ArticleTitle": "第一条",
+                "Paragraph": {
+                  "@Hide": "false",
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "この法律は、医療分野の研究開発に資するための匿名加工医療情報に関し、国の責務、基本方針の策定、匿名加工医療情報作成事業を行う者の認定、医療情報等及び匿名加工医療情報の取扱いに関する規制等について定めることにより、健康・医療に関する先端的研究開発及び新産業創出（健康・医療戦略推進法（平成二十六年法律第四十八号）第一条に規定する健康・医療に関する先端的研究開発及び新産業創出をいう。第三条において同じ。）を促進し、もって健康長寿社会（同法第一条に規定する健康長寿社会をいう。）の形成に資することを目的とする。"
+                    }
+                  }
+                }
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "2",
+                "ArticleCaption": "（定義）",
+                "ArticleTitle": "第二条",
+                "Paragraph": [
+                  {
+                    "@Hide": "false",
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "この法律において「医療情報」とは、特定の個人の病歴その他の当該個人の心身の状態に関する情報であって、当該心身の状態を理由とする当該個人又はその子孫に対する不当な差別、偏見その他の不利益が生じないようにその取扱いに特に配慮を要するものとして政令で定める記述等（文書、図画若しくは電磁的記録（電磁的方式（電子的方式、磁気的方式その他人の知覚によっては認識することができない方式をいう。）で作られる記録をいう。以下同じ。）に記載され、若しくは記録され、又は音声、動作その他の方法を用いて表された一切の事項（個人識別符号（個人情報の保護に関する法律（平成十五年法律第五十七号）第二条第二項に規定する個人識別符号をいう。以下同じ。）を除く。）をいう。以下同じ。）であるものが含まれる個人に関する情報のうち、次の各号のいずれかに該当するものをいう。"
+                      }
+                    },
+                    "Item": [
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "1",
+                        "ItemTitle": "一",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "当該情報に含まれる氏名、生年月日その他の記述等により特定の個人を識別することができるもの（他の情報と容易に照合することができ、それにより特定の個人を識別することができることとなるものを含む。）"
+                          }
+                        }
+                      },
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "2",
+                        "ItemTitle": "二",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "個人識別符号が含まれるもの"
+                          }
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Hide": "false",
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "この法律において医療情報について「本人」とは、医療情報によって識別される特定の個人をいう。"
+                      }
+                    }
+                  },
+                  {
+                    "@Hide": "false",
+                    "@Num": "3",
+                    "ParagraphNum": "３",
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "この法律において「匿名加工医療情報」とは、次の各号に掲げる医療情報の区分に応じて当該各号に定める措置を講じて特定の個人を識別することができないように医療情報を加工して得られる個人に関する情報であって、当該医療情報を復元することができないようにしたものをいう。"
+                      }
+                    },
+                    "Item": [
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "1",
+                        "ItemTitle": "一",
+                        "ItemSentence": {
+                          "Column": [
+                            {
+                              "@LineBreak": "false",
+                              "@Num": "1",
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "第一項第一号に該当する医療情報"
+                              }
+                            },
+                            {
+                              "@LineBreak": "false",
+                              "@Num": "2",
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "当該医療情報に含まれる記述等の一部を削除すること（当該一部の記述等を復元することのできる規則性を有しない方法により他の記述等に置き換えることを含む。）。"
+                              }
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "2",
+                        "ItemTitle": "二",
+                        "ItemSentence": {
+                          "Column": [
+                            {
+                              "@LineBreak": "false",
+                              "@Num": "1",
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "第一項第二号に該当する医療情報"
+                              }
+                            },
+                            {
+                              "@LineBreak": "false",
+                              "@Num": "2",
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "当該医療情報に含まれる個人識別符号の全部を削除すること（当該個人識別符号を復元することのできる規則性を有しない方法により他の記述等に置き換えることを含む。）。"
+                              }
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Hide": "false",
+                    "@Num": "4",
+                    "ParagraphNum": "４",
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "この法律において「匿名加工医療情報作成事業」とは、医療分野の研究開発に資するよう、医療情報を整理し、及び加工して匿名加工医療情報（匿名加工医療情報データベース等（匿名加工医療情報を含む情報の集合物であって、特定の匿名加工医療情報を電子計算機を用いて検索することができるように体系的に構成したものその他特定の匿名加工医療情報を容易に検索することができるように体系的に構成したものとして政令で定めるものをいう。第十八条第三項において同じ。）を構成するものに限る。以下同じ。）を作成する事業をいう。"
+                      }
+                    }
+                  },
+                  {
+                    "@Hide": "false",
+                    "@Num": "5",
+                    "ParagraphNum": "５",
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "この法律において「医療情報取扱事業者」とは、医療情報を含む情報の集合物であって、特定の医療情報を電子計算機を用いて検索することができるように体系的に構成したものその他特定の医療情報を容易に検索することができるように体系的に構成したものとして政令で定めるもの（第四十四条において「医療情報データベース等」という。）を事業の用に供している者をいう。"
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "3",
+                "ArticleCaption": "（国の責務）",
+                "ArticleTitle": "第三条",
+                "Paragraph": {
+                  "@Hide": "false",
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "国は、健康・医療に関する先端的研究開発及び新産業創出に関する施策の一環として、医療分野の研究開発に資するための匿名加工医療情報に関し必要な施策を講ずる責務を有する。"
+                    }
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "2",
+            "ChapterTitle": "第二章　医療分野の研究開発に資するための匿名加工医療情報に関する施策",
+            "Section": [
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "1",
+                "SectionTitle": "第一節　医療分野の研究開発に資するための匿名加工医療情報に関する基本方針",
+                "Article": {
+                  "@Delete": "false",
+                  "@Hide": "false",
+                  "@Num": "4",
+                  "ArticleTitle": "第四条",
+                  "Paragraph": [
+                    {
+                      "@Hide": "false",
+                      "@Num": "1",
+                      "ParagraphNum": null,
+                      "ParagraphSentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "政府は、医療分野の研究開発に資するための匿名加工医療情報に関する施策の総合的かつ一体的な推進を図るため、医療分野の研究開発に資するための匿名加工医療情報に関する基本方針（以下「基本方針」という。）を定めなければならない。"
+                        }
+                      }
+                    },
+                    {
+                      "@Hide": "false",
+                      "@Num": "2",
+                      "ParagraphNum": "２",
+                      "ParagraphSentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "基本方針は、次に掲げる事項について定めるものとする。"
+                        }
+                      },
+                      "Item": [
+                        {
+                          "@Delete": "false",
+                          "@Hide": "false",
+                          "@Num": "1",
+                          "ItemTitle": "一",
+                          "ItemSentence": {
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "医療分野の研究開発に資するための匿名加工医療情報に関する施策の推進に関する基本的な方向"
+                            }
+                          }
+                        },
+                        {
+                          "@Delete": "false",
+                          "@Hide": "false",
+                          "@Num": "2",
+                          "ItemTitle": "二",
+                          "ItemSentence": {
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "国が講ずべき医療分野の研究開発に資するための匿名加工医療情報に関する措置に関する事項"
+                            }
+                          }
+                        },
+                        {
+                          "@Delete": "false",
+                          "@Hide": "false",
+                          "@Num": "3",
+                          "ItemTitle": "三",
+                          "ItemSentence": {
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "匿名加工医療情報の作成に用いる医療情報に係る本人の病歴その他の本人の心身の状態を理由とする本人又はその子孫その他の個人に対する不当な差別、偏見その他の不利益が生じないための措置に関する事項"
+                            }
+                          }
+                        },
+                        {
+                          "@Delete": "false",
+                          "@Hide": "false",
+                          "@Num": "4",
+                          "ItemTitle": "四",
+                          "ItemSentence": {
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "第八条第一項及び第二十八条の認定に関する基本的な事項"
+                            }
+                          }
+                        },
+                        {
+                          "@Delete": "false",
+                          "@Hide": "false",
+                          "@Num": "5",
+                          "ItemTitle": "五",
+                          "ItemSentence": {
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "その他医療分野の研究開発に資するための匿名加工医療情報に関する施策の推進に関する重要事項"
+                            }
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "@Hide": "false",
+                      "@Num": "3",
+                      "ParagraphNum": "３",
+                      "ParagraphSentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "内閣総理大臣は、基本方針の案を作成し、閣議の決定を求めなければならない。"
+                        }
+                      }
+                    },
+                    {
+                      "@Hide": "false",
+                      "@Num": "4",
+                      "ParagraphNum": "４",
+                      "ParagraphSentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "内閣総理大臣は、前項の規定による閣議の決定があったときは、遅滞なく、基本方針を公表しなければならない。"
+                        }
+                      }
+                    },
+                    {
+                      "@Hide": "false",
+                      "@Num": "5",
+                      "ParagraphNum": "５",
+                      "ParagraphSentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "前二項の規定は、基本方針の変更について準用する。"
+                        }
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "2",
+                "SectionTitle": "第二節　国の施策",
+                "Article": [
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "5",
+                    "ArticleCaption": "（国民の理解の増進）",
+                    "ArticleTitle": "第五条",
+                    "Paragraph": {
+                      "@Hide": "false",
+                      "@Num": "1",
+                      "ParagraphNum": null,
+                      "ParagraphSentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "国は、広報活動、啓発活動その他の活動を通じて、医療分野の研究開発に資するための匿名加工医療情報に関する国民の理解を深めるよう必要な措置を講ずるものとする。"
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "6",
+                    "ArticleCaption": "（規格の適正化）",
+                    "ArticleTitle": "第六条",
+                    "Paragraph": [
+                      {
+                        "@Hide": "false",
+                        "@Num": "1",
+                        "ParagraphNum": null,
+                        "ParagraphSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "国は、医療分野の研究開発に資するための匿名加工医療情報の作成に寄与するため、医療情報及び匿名加工医療情報について、適正な規格の整備、その普及及び活用の促進その他の必要な措置を講ずるものとする。"
+                          }
+                        }
+                      },
+                      {
+                        "@Hide": "false",
+                        "@Num": "2",
+                        "ParagraphNum": "２",
+                        "ParagraphSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "前項の規定による規格の整備は、これに関する国際的動向、医療分野の研究開発の進展等に応じて行うものとする。"
+                          }
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "7",
+                    "ArticleCaption": "（情報システムの整備）",
+                    "ArticleTitle": "第七条",
+                    "Paragraph": {
+                      "@Hide": "false",
+                      "@Num": "1",
+                      "ParagraphNum": null,
+                      "ParagraphSentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "国は、医療分野の研究開発に資するための匿名加工医療情報の作成を図るため、情報システムの整備、その普及及び活用の促進その他の必要な措置を講ずるよう努めるものとする。"
+                        }
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "3",
+            "ChapterTitle": "第三章　認定匿名加工医療情報作成事業者",
+            "Section": [
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "1",
+                "SectionTitle": "第一節　匿名加工医療情報作成事業を行う者の認定",
+                "Article": [
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "8",
+                    "ArticleCaption": "（認定）",
+                    "ArticleTitle": "第八条",
+                    "Paragraph": [
+                      {
+                        "@Hide": "false",
+                        "@Num": "1",
+                        "ParagraphNum": null,
+                        "ParagraphSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "匿名加工医療情報作成事業を行う者（法人に限る。）は、申請により、匿名加工医療情報作成事業を適正かつ確実に行うことができるものと認められる旨の主務大臣の認定を受けることができる。"
+                          }
+                        }
+                      },
+                      {
+                        "@Hide": "false",
+                        "@Num": "2",
+                        "ParagraphNum": "２",
+                        "ParagraphSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "前項の認定を受けようとする者は、主務省令で定めるところにより、次に掲げる事項を記載した申請書に、次項各号に掲げる認定の基準に適合していることを証する書類その他主務省令で定める書類を添えて、これを主務大臣に提出しなければならない。"
+                          }
+                        },
+                        "Item": [
+                          {
+                            "@Delete": "false",
+                            "@Hide": "false",
+                            "@Num": "1",
+                            "ItemTitle": "一",
+                            "ItemSentence": {
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "名称及び住所"
+                              }
+                            }
+                          },
+                          {
+                            "@Delete": "false",
+                            "@Hide": "false",
+                            "@Num": "2",
+                            "ItemTitle": "二",
+                            "ItemSentence": {
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "医療情報の整理の方法"
+                              }
+                            }
+                          },
+                          {
+                            "@Delete": "false",
+                            "@Hide": "false",
+                            "@Num": "3",
+                            "ItemTitle": "三",
+                            "ItemSentence": {
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "医療情報の加工の方法"
+                              }
+                            }
+                          },
+                          {
+                            "@Delete": "false",
+                            "@Hide": "false",
+                            "@Num": "4",
+                            "ItemTitle": "四",
+                            "ItemSentence": {
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "医療情報等（医療情報、匿名加工医療情報の作成に用いた医療情報から削除した記述等及び個人識別符号並びに第十八条第一項（第二十九条において準用する場合を含む。）の規定により行った加工の方法に関する情報をいう。以下同じ。）及び匿名加工医療情報の管理の方法"
+                              }
+                            }
+                          },
+                          {
+                            "@Delete": "false",
+                            "@Hide": "false",
+                            "@Num": "5",
+                            "ItemTitle": "五",
+                            "ItemSentence": {
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "その他主務省令で定める事項"
+                              }
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "@Hide": "false",
+                        "@Num": "3",
+                        "ParagraphNum": "３",
+                        "ParagraphSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "主務大臣は、第一項の認定の申請が次に掲げる基準に適合すると認めるときは、同項の認定をしなければならない。"
+                          }
+                        },
+                        "Item": [
+                          {
+                            "@Delete": "false",
+                            "@Hide": "false",
+                            "@Num": "1",
+                            "ItemTitle": "一",
+                            "ItemSentence": {
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "申請者が次のいずれにも該当しないこと。"
+                              }
+                            },
+                            "Subitem1": [
+                              {
+                                "@Delete": "false",
+                                "@Hide": "false",
+                                "@Num": "1",
+                                "Subitem1Title": "イ",
+                                "Subitem1Sentence": {
+                                  "Sentence": {
+                                    "@WritingMode": "vertical",
+                                    "#text": "この法律その他個人情報の適正な取扱いに関する法律で政令で定めるもの又はこれらの法律に基づく命令の規定に違反し、罰金の刑に処せられ、その執行を終わり、又は執行を受けることがなくなった日から二年を経過しない者"
+                                  }
+                                }
+                              },
+                              {
+                                "@Delete": "false",
+                                "@Hide": "false",
+                                "@Num": "2",
+                                "Subitem1Title": "ロ",
+                                "Subitem1Sentence": {
+                                  "Sentence": {
+                                    "@WritingMode": "vertical",
+                                    "#text": "第十五条第一項又は第十六条第一項（これらの規定を第二十九条において準用する場合を含む。）の規定により認定を取り消され、その取消しの日から二年を経過しない者"
+                                  }
+                                }
+                              },
+                              {
+                                "@Delete": "false",
+                                "@Hide": "false",
+                                "@Num": "3",
+                                "Subitem1Title": "ハ",
+                                "Subitem1Sentence": {
+                                  "Sentence": {
+                                    "@WritingMode": "vertical",
+                                    "#text": "匿名加工医療情報作成事業を行う役員又は主務省令で定める使用人のうちに次のいずれかに該当する者があるもの"
+                                  }
+                                },
+                                "Subitem2": [
+                                  {
+                                    "@Delete": "false",
+                                    "@Hide": "false",
+                                    "@Num": "1",
+                                    "Subitem2Title": "（1）",
+                                    "Subitem2Sentence": {
+                                      "Sentence": {
+                                        "@WritingMode": "vertical",
+                                        "#text": "成年被後見人若しくは被保佐人又は外国の法令上これらに相当する者"
+                                      }
+                                    }
+                                  },
+                                  {
+                                    "@Delete": "false",
+                                    "@Hide": "false",
+                                    "@Num": "2",
+                                    "Subitem2Title": "（2）",
+                                    "Subitem2Sentence": {
+                                      "Sentence": {
+                                        "@WritingMode": "vertical",
+                                        "#text": "破産手続開始の決定を受けて復権を得ない者又は外国の法令上これに相当する者"
+                                      }
+                                    }
+                                  },
+                                  {
+                                    "@Delete": "false",
+                                    "@Hide": "false",
+                                    "@Num": "3",
+                                    "Subitem2Title": "（3）",
+                                    "Subitem2Sentence": {
+                                      "Sentence": {
+                                        "@WritingMode": "vertical",
+                                        "#text": "この法律その他個人情報の適正な取扱いに関する法律で政令で定めるもの又はこれらの法律に基づく命令の規定に違反し、罰金以上の刑に処せられ、その執行を終わり、又は執行を受けることがなくなった日から二年を経過しない者"
+                                      }
+                                    }
+                                  },
+                                  {
+                                    "@Delete": "false",
+                                    "@Hide": "false",
+                                    "@Num": "4",
+                                    "Subitem2Title": "（4）",
+                                    "Subitem2Sentence": {
+                                      "Sentence": {
+                                        "@WritingMode": "vertical",
+                                        "#text": "第一項又は第二十八条の認定を受けた者が第十五条第一項又は第十六条第一項（これらの規定を第二十九条において準用する場合を含む。）の規定により認定を取り消された場合において、その処分のあった日前三十日以内に当該認定に係る事業を行う役員又は主務省令で定める使用人であった者で、その処分のあった日から二年を経過しないもの"
+                                      }
+                                    }
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "@Delete": "false",
+                            "@Hide": "false",
+                            "@Num": "2",
+                            "ItemTitle": "二",
+                            "ItemSentence": {
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "申請者が、医療分野の研究開発に資するよう、医療情報を取得し、並びに整理し、及び加工して匿名加工医療情報を適確に作成し、及び提供するに足りる能力を有するものとして主務省令で定める基準に適合していること。"
+                              }
+                            }
+                          },
+                          {
+                            "@Delete": "false",
+                            "@Hide": "false",
+                            "@Num": "3",
+                            "ItemTitle": "三",
+                            "ItemSentence": {
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "医療情報等及び匿名加工医療情報の漏えい、滅失又は毀損の防止その他の当該医療情報等及び匿名加工医療情報の安全管理のために必要かつ適切なものとして主務省令で定める措置が講じられていること。"
+                              }
+                            }
+                          },
+                          {
+                            "@Delete": "false",
+                            "@Hide": "false",
+                            "@Num": "4",
+                            "ItemTitle": "四",
+                            "ItemSentence": {
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "申請者が、前号に規定する医療情報等及び匿名加工医療情報の安全管理のための措置を適確に実施するに足りる能力を有すること。"
+                              }
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "@Hide": "false",
+                        "@Num": "4",
+                        "ParagraphNum": "４",
+                        "ParagraphSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "主務大臣は、第一項の認定をしようとするときは、あらかじめ、個人情報保護委員会に協議しなければならない。"
+                          }
+                        }
+                      },
+                      {
+                        "@Hide": "false",
+                        "@Num": "5",
+                        "ParagraphNum": "５",
+                        "ParagraphSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "主務大臣は、第一項の認定をした場合においては、遅滞なく、その旨を申請者に通知するとともに、その旨を公示しなければならない。"
+                          }
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "9",
+                    "ArticleCaption": "（変更の認定等）",
+                    "ArticleTitle": "第九条",
+                    "Paragraph": [
+                      {
+                        "@Hide": "false",
+                        "@Num": "1",
+                        "ParagraphNum": null,
+                        "ParagraphSentence": {
+                          "Sentence": [
+                            {
+                              "@Function": "main",
+                              "@Num": "1",
+                              "@WritingMode": "vertical",
+                              "#text": "前条第一項の認定を受けた者（以下「認定匿名加工医療情報作成事業者」という。）は、同条第二項第二号から第五号までに掲げる事項を変更しようとするときは、主務省令で定めるところにより、主務大臣の認定を受けなければならない。"
+                            },
+                            {
+                              "@Function": "proviso",
+                              "@Num": "2",
+                              "@WritingMode": "vertical",
+                              "#text": "ただし、主務省令で定める軽微な変更については、この限りでない。"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "@Hide": "false",
+                        "@Num": "2",
+                        "ParagraphNum": "２",
+                        "ParagraphSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "認定匿名加工医療情報作成事業者は、前条第二項第一号に掲げる事項に変更があったとき又は前項ただし書の主務省令で定める軽微な変更をしたときは、遅滞なく、その旨を主務大臣に届け出なければならない。"
+                          }
+                        }
+                      },
+                      {
+                        "@Hide": "false",
+                        "@Num": "3",
+                        "ParagraphNum": "３",
+                        "ParagraphSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "主務大臣は、前項の規定による届出（前条第二項第一号に掲げる事項の変更に係るものに限る。）があったときは、遅滞なく、その旨を公示しなければならない。"
+                          }
+                        }
+                      },
+                      {
+                        "@Hide": "false",
+                        "@Num": "4",
+                        "ParagraphNum": "４",
+                        "ParagraphSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "前条第三項（第一号を除く。）及び第四項の規定は、第一項の変更の認定について準用する。"
+                          }
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "10",
+                    "ArticleCaption": "（承継）",
+                    "ArticleTitle": "第十条",
+                    "Paragraph": [
+                      {
+                        "@Hide": "false",
+                        "@Num": "1",
+                        "ParagraphNum": null,
+                        "ParagraphSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "認定匿名加工医療情報作成事業者である法人が他の認定匿名加工医療情報作成事業者である法人に第八条第一項の認定に係る匿名加工医療情報作成事業（以下「認定事業」という。）の全部の譲渡を行ったときは、譲受人は、譲渡人のこの法律の規定による認定匿名加工医療情報作成事業者としての地位を承継する。"
+                          }
+                        }
+                      },
+                      {
+                        "@Hide": "false",
+                        "@Num": "2",
+                        "ParagraphNum": "２",
+                        "ParagraphSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "認定匿名加工医療情報作成事業者である法人が他の認定匿名加工医療情報作成事業者である法人と合併をしたときは、合併後存続する法人又は合併により設立された法人は、合併により消滅した法人のこの法律の規定による認定匿名加工医療情報作成事業者としての地位を承継する。"
+                          }
+                        }
+                      },
+                      {
+                        "@Hide": "false",
+                        "@Num": "3",
+                        "ParagraphNum": "３",
+                        "ParagraphSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "前二項の規定により認定匿名加工医療情報作成事業者としての地位を承継した法人は、主務省令で定めるところにより、遅滞なく、その旨を主務大臣に届け出なければならない。"
+                          }
+                        }
+                      },
+                      {
+                        "@Hide": "false",
+                        "@Num": "4",
+                        "ParagraphNum": "４",
+                        "ParagraphSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "認定匿名加工医療情報作成事業者である法人が認定匿名加工医療情報作成事業者でない法人に認定事業の全部の譲渡を行う場合において、譲渡人及び譲受人があらかじめ当該譲渡及び譲受けについて主務省令で定めるところにより主務大臣の認可を受けたときは、譲受人は、譲渡人のこの法律の規定による認定匿名加工医療情報作成事業者としての地位を承継する。"
+                          }
+                        }
+                      },
+                      {
+                        "@Hide": "false",
+                        "@Num": "5",
+                        "ParagraphNum": "５",
+                        "ParagraphSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "認定匿名加工医療情報作成事業者である法人が認定匿名加工医療情報作成事業者でない法人との合併により消滅することとなる場合において、あらかじめ当該合併について主務省令で定めるところにより主務大臣の認可を受けたときは、合併後存続する法人又は合併により設立された法人は、合併により消滅した法人のこの法律の規定による認定匿名加工医療情報作成事業者としての地位を承継する。"
+                          }
+                        }
+                      },
+                      {
+                        "@Hide": "false",
+                        "@Num": "6",
+                        "ParagraphNum": "６",
+                        "ParagraphSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "認定匿名加工医療情報作成事業者である法人が分割により認定事業の全部を承継させる場合において、あらかじめ当該分割について主務省令で定めるところにより主務大臣の認可を受けたときは、分割により認定事業の全部を承継した法人は、分割をした法人のこの法律の規定による認定匿名加工医療情報作成事業者としての地位を承継する。"
+                          }
+                        }
+                      },
+                      {
+                        "@Hide": "false",
+                        "@Num": "7",
+                        "ParagraphNum": "７",
+                        "ParagraphSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "第八条第三項から第五項までの規定は、前三項の認可について準用する。"
+                          }
+                        }
+                      },
+                      {
+                        "@Hide": "false",
+                        "@Num": "8",
+                        "ParagraphNum": "８",
+                        "ParagraphSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "認定匿名加工医療情報作成事業者である法人は、認定匿名加工医療情報作成事業者でない者に認定事業の全部の譲渡を行い、認定匿名加工医療情報作成事業者でない法人と合併をし、又は分割により認定事業の全部を承継させる場合において、第四項から第六項までの認可の申請をしないときは、主務省令で定めるところにより、その認定事業の全部の譲渡、合併又は分割の日までに、その旨を主務大臣に届け出なければならない。"
+                          }
+                        }
+                      },
+                      {
+                        "@Hide": "false",
+                        "@Num": "9",
+                        "ParagraphNum": "９",
+                        "ParagraphSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "認定匿名加工医療情報作成事業者である法人が認定匿名加工医療情報作成事業者でない者に認定事業の全部の譲渡を行い、認定匿名加工医療情報作成事業者でない法人との合併により消滅することとなり、又は分割により認定事業の全部を承継させる場合において、第四項から第六項までの認可をしない旨の処分があったとき（これらの認可の申請がない場合にあっては、当該認定事業の全部の譲渡、合併又は分割があったとき）は、第八条第一項の認定は、その効力を失うものとし、その譲受人、合併後存続する法人若しくは合併により設立された法人又は分割により認定事業の全部を承継した法人は、遅滞なく、当該認定事業に関し管理する医療情報等及び匿名加工医療情報を消去しなければならない。"
+                          }
+                        }
+                      },
+                      {
+                        "@Hide": "false",
+                        "@Num": "10",
+                        "ParagraphNum": "10",
+                        "ParagraphSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "主務大臣は、第三項若しくは第八項の規定による届出があったとき又は第四項から第六項までの認可をしない旨の処分をしたときは、遅滞なく、その旨を公示しなければならない。"
+                          }
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "11",
+                    "ArticleCaption": "（廃止の届出等）",
+                    "ArticleTitle": "第十一条",
+                    "Paragraph": [
+                      {
+                        "@Hide": "false",
+                        "@Num": "1",
+                        "ParagraphNum": null,
+                        "ParagraphSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "認定匿名加工医療情報作成事業者は、認定事業を廃止しようとするときは、主務省令で定めるところにより、あらかじめ、その旨を主務大臣に届け出なければならない。"
+                          }
+                        }
+                      },
+                      {
+                        "@Hide": "false",
+                        "@Num": "2",
+                        "ParagraphNum": "２",
+                        "ParagraphSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "前項の規定による届出があったときは、第八条第一項の認定は、その効力を失うものとし、認定匿名加工医療情報作成事業者であった法人は、遅滞なく、当該認定事業に関し管理する医療情報等及び匿名加工医療情報を消去しなければならない。"
+                          }
+                        }
+                      },
+                      {
+                        "@Hide": "false",
+                        "@Num": "3",
+                        "ParagraphNum": "３",
+                        "ParagraphSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "主務大臣は、第一項の規定による届出があったときは、遅滞なく、その旨を公示しなければならない。"
+                          }
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "12",
+                    "ArticleCaption": "（解散の届出等）",
+                    "ArticleTitle": "第十二条",
+                    "Paragraph": [
+                      {
+                        "@Hide": "false",
+                        "@Num": "1",
+                        "ParagraphNum": null,
+                        "ParagraphSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "認定匿名加工医療情報作成事業者である法人が合併以外の事由により解散したときは、その清算人若しくは破産管財人又は外国の法令上これらに相当する者は、主務省令で定めるところにより、遅滞なく、その旨を主務大臣に届け出なければならない。"
+                          }
+                        }
+                      },
+                      {
+                        "@Hide": "false",
+                        "@Num": "2",
+                        "ParagraphNum": "２",
+                        "ParagraphSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "認定匿名加工医療情報作成事業者である法人が合併以外の事由により解散したときは、第八条第一項の認定は、その効力を失うものとし、その清算中若しくは特別清算中の法人若しくは破産手続開始後の法人又は外国の法令上これらに相当する法人は、遅滞なく、当該認定事業に関し管理する医療情報等及び匿名加工医療情報を消去しなければならない。"
+                          }
+                        }
+                      },
+                      {
+                        "@Hide": "false",
+                        "@Num": "3",
+                        "ParagraphNum": "３",
+                        "ParagraphSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "主務大臣は、第一項の規定による届出があったときは、遅滞なく、その旨を公示しなければならない。"
+                          }
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "13",
+                    "ArticleCaption": "（帳簿）",
+                    "ArticleTitle": "第十三条",
+                    "Paragraph": {
+                      "@Hide": "false",
+                      "@Num": "1",
+                      "ParagraphNum": null,
+                      "ParagraphSentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "認定匿名加工医療情報作成事業者は、主務省令で定めるところにより、帳簿（その作成に代えて電磁的記録の作成がされている場合における当該電磁的記録を含む。以下同じ。）を備え、その業務に関し主務省令で定める事項を記載し、これを保存しなければならない。"
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "14",
+                    "ArticleCaption": "（名称の使用制限）",
+                    "ArticleTitle": "第十四条",
+                    "Paragraph": {
+                      "@Hide": "false",
+                      "@Num": "1",
+                      "ParagraphNum": null,
+                      "ParagraphSentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "認定匿名加工医療情報作成事業者でない者は、認定匿名加工医療情報作成事業者という名称又はこれと紛らわしい名称を用いてはならない。"
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "15",
+                    "ArticleCaption": "（認定の取消し等）",
+                    "ArticleTitle": "第十五条",
+                    "Paragraph": [
+                      {
+                        "@Hide": "false",
+                        "@Num": "1",
+                        "ParagraphNum": null,
+                        "ParagraphSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "主務大臣は、認定匿名加工医療情報作成事業者（国内に主たる事務所を有しない法人であって、外国において医療情報等又は匿名加工医療情報を取り扱う者（以下「外国取扱者」という。）を除く。次項において同じ。）が次の各号のいずれかに該当するときは、第八条第一項の認定を取り消すことができる。"
+                          }
+                        },
+                        "Item": [
+                          {
+                            "@Delete": "false",
+                            "@Hide": "false",
+                            "@Num": "1",
+                            "ItemTitle": "一",
+                            "ItemSentence": {
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "偽りその他不正の手段により第八条第一項若しくは第九条第一項の認定又は第十条第四項から第六項までの認可を受けたとき。"
+                              }
+                            }
+                          },
+                          {
+                            "@Delete": "false",
+                            "@Hide": "false",
+                            "@Num": "2",
+                            "ItemTitle": "二",
+                            "ItemSentence": {
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "第八条第三項各号のいずれかに掲げる基準に適合しなくなったとき。"
+                              }
+                            }
+                          },
+                          {
+                            "@Delete": "false",
+                            "@Hide": "false",
+                            "@Num": "3",
+                            "ItemTitle": "三",
+                            "ItemSentence": {
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "第九条第一項の規定により認定を受けなければならない事項を同項の認定を受けないで変更したとき。"
+                              }
+                            }
+                          },
+                          {
+                            "@Delete": "false",
+                            "@Hide": "false",
+                            "@Num": "4",
+                            "ItemTitle": "四",
+                            "ItemSentence": {
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "第二十六条第一項の規定に違反して医療情報を提供したとき。"
+                              }
+                            }
+                          },
+                          {
+                            "@Delete": "false",
+                            "@Hide": "false",
+                            "@Num": "5",
+                            "ItemTitle": "五",
+                            "ItemSentence": {
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "第三十七条第一項の規定による命令に違反したとき。"
+                              }
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "@Hide": "false",
+                        "@Num": "2",
+                        "ParagraphNum": "２",
+                        "ParagraphSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "認定匿名加工医療情報作成事業者が前項の規定により第八条第一項の認定を取り消されたときは、遅滞なく、当該認定事業に関し管理する医療情報等及び匿名加工医療情報を消去しなければならない。"
+                          }
+                        }
+                      },
+                      {
+                        "@Hide": "false",
+                        "@Num": "3",
+                        "ParagraphNum": "３",
+                        "ParagraphSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "主務大臣は、第一項の規定により第八条第一項の認定を取り消そうとするときは、あらかじめ、個人情報保護委員会に協議しなければならない。"
+                          }
+                        }
+                      },
+                      {
+                        "@Hide": "false",
+                        "@Num": "4",
+                        "ParagraphNum": "４",
+                        "ParagraphSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "主務大臣は、第一項の規定により第八条第一項の認定を取り消したときは、遅滞なく、その旨を公示しなければならない。"
+                          }
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "16",
+                    "ArticleTitle": "第十六条",
+                    "Paragraph": [
+                      {
+                        "@Hide": "false",
+                        "@Num": "1",
+                        "ParagraphNum": null,
+                        "ParagraphSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "主務大臣は、認定匿名加工医療情報作成事業者（外国取扱者に限る。第三号及び第三項において同じ。）が次の各号のいずれかに該当するときは、第八条第一項の認定を取り消すことができる。"
+                          }
+                        },
+                        "Item": [
+                          {
+                            "@Delete": "false",
+                            "@Hide": "false",
+                            "@Num": "1",
+                            "ItemTitle": "一",
+                            "ItemSentence": {
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "前条第一項第一号から第四号までのいずれかに該当するとき。"
+                              }
+                            }
+                          },
+                          {
+                            "@Delete": "false",
+                            "@Hide": "false",
+                            "@Num": "2",
+                            "ItemTitle": "二",
+                            "ItemSentence": {
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "第三十七条第三項において読み替えて準用する同条第一項の規定による請求に応じなかったとき。"
+                              }
+                            }
+                          },
+                          {
+                            "@Delete": "false",
+                            "@Hide": "false",
+                            "@Num": "3",
+                            "ItemTitle": "三",
+                            "ItemSentence": {
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "主務大臣が、この法律の施行に必要な限度において、認定匿名加工医療情報作成事業者に対し必要な報告を求め、又はその職員に、その者の事務所その他の事業所に立ち入り、その者の帳簿、書類その他の物件を検査させ、若しくは関係者に質問させようとした場合において、その報告がされず、若しくは虚偽の報告がされ、又はその検査が拒まれ、妨げられ、若しくは忌避され、若しくはその質問に対して答弁がされず、若しくは虚偽の答弁がされたとき。"
+                              }
+                            }
+                          },
+                          {
+                            "@Delete": "false",
+                            "@Hide": "false",
+                            "@Num": "4",
+                            "ItemTitle": "四",
+                            "ItemSentence": {
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "第三項の規定による費用の負担をしないとき。"
+                              }
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "@Hide": "false",
+                        "@Num": "2",
+                        "ParagraphNum": "２",
+                        "ParagraphSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "前条第二項から第四項までの規定は、前項の規定による認定の取消しについて準用する。"
+                          }
+                        }
+                      },
+                      {
+                        "@Hide": "false",
+                        "@Num": "3",
+                        "ParagraphNum": "３",
+                        "ParagraphSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "第一項第三号の規定による検査に要する費用（政令で定めるものに限る。）は、当該検査を受ける認定匿名加工医療情報作成事業者の負担とする。"
+                          }
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "2",
+                "SectionTitle": "第二節　医療情報等及び匿名加工医療情報の取扱いに関する規制",
+                "Article": [
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "17",
+                    "ArticleCaption": "（利用目的による制限）",
+                    "ArticleTitle": "第十七条",
+                    "Paragraph": [
+                      {
+                        "@Hide": "false",
+                        "@Num": "1",
+                        "ParagraphNum": null,
+                        "ParagraphSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "認定匿名加工医療情報作成事業者は、第二十五条又は第三十条第一項の規定により医療情報の提供を受けた場合は、当該医療情報が医療分野の研究開発に資するために提供されたものであるという趣旨に反することのないよう、認定事業の目的の達成に必要な範囲を超えて当該医療情報を取り扱ってはならない。"
+                          }
+                        }
+                      },
+                      {
+                        "@Hide": "false",
+                        "@Num": "2",
+                        "ParagraphNum": "２",
+                        "ParagraphSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "前項の規定は、次に掲げる場合については、適用しない。"
+                          }
+                        },
+                        "Item": [
+                          {
+                            "@Delete": "false",
+                            "@Hide": "false",
+                            "@Num": "1",
+                            "ItemTitle": "一",
+                            "ItemSentence": {
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "法令に基づく場合"
+                              }
+                            }
+                          },
+                          {
+                            "@Delete": "false",
+                            "@Hide": "false",
+                            "@Num": "2",
+                            "ItemTitle": "二",
+                            "ItemSentence": {
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "人命の救助、災害の救援その他非常の事態への対応のため緊急の必要がある場合"
+                              }
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "18",
+                    "ArticleCaption": "（匿名加工医療情報の作成等）",
+                    "ArticleTitle": "第十八条",
+                    "Paragraph": [
+                      {
+                        "@Hide": "false",
+                        "@Num": "1",
+                        "ParagraphNum": null,
+                        "ParagraphSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "認定匿名加工医療情報作成事業者は、匿名加工医療情報を作成するときは、特定の個人を識別すること及びその作成に用いる医療情報を復元することができないようにするために必要なものとして主務省令で定める基準に従い、当該医療情報を加工しなければならない。"
+                          }
+                        }
+                      },
+                      {
+                        "@Hide": "false",
+                        "@Num": "2",
+                        "ParagraphNum": "２",
+                        "ParagraphSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "認定匿名加工医療情報作成事業者は、匿名加工医療情報を作成して自ら当該匿名加工医療情報を取り扱うに当たっては、当該匿名加工医療情報の作成に用いられた医療情報に係る本人を識別するために、当該匿名加工医療情報を他の情報と照合してはならない。"
+                          }
+                        }
+                      },
+                      {
+                        "@Hide": "false",
+                        "@Num": "3",
+                        "ParagraphNum": "３",
+                        "ParagraphSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "匿名加工医療情報取扱事業者（匿名加工医療情報データベース等を事業の用に供している者をいう。以下同じ。）は、第一項（第二十九条において準用する場合を含む。）の規定により作成された匿名加工医療情報（自ら医療情報を加工して作成したものを除く。）を取り扱うに当たっては、当該匿名加工医療情報の作成に用いられた医療情報に係る本人を識別するために、当該医療情報から削除された記述等若しくは個人識別符号若しくは同項（同条において準用する場合を含む。）の規定により行われた加工の方法に関する情報を取得し、又は当該匿名加工医療情報を他の情報と照合してはならない。"
+                          }
+                        }
+                      },
+                      {
+                        "@Hide": "false",
+                        "@Num": "4",
+                        "ParagraphNum": "４",
+                        "ParagraphSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "個人情報の保護に関する法律第三十六条の規定は認定匿名加工医療情報作成事業者又は第二十八条の認定を受けた者（以下「認定医療情報等取扱受託事業者」という。）が第一項（第二十九条において準用する場合を含む。）の規定により匿名加工医療情報を作成する場合について、同法第三十七条から第三十九条までの規定は匿名加工医療情報取扱事業者が前項に規定する匿名加工医療情報を取り扱う場合については、適用しない。"
+                          }
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "19",
+                    "ArticleCaption": "（消去）",
+                    "ArticleTitle": "第十九条",
+                    "Paragraph": {
+                      "@Hide": "false",
+                      "@Num": "1",
+                      "ParagraphNum": null,
+                      "ParagraphSentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "認定匿名加工医療情報作成事業者は、認定事業に関し管理する医療情報等又は匿名加工医療情報を利用する必要がなくなったときは、遅滞なく、当該医療情報等又は匿名加工医療情報を消去しなければならない。"
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "20",
+                    "ArticleCaption": "（安全管理措置）",
+                    "ArticleTitle": "第二十条",
+                    "Paragraph": {
+                      "@Hide": "false",
+                      "@Num": "1",
+                      "ParagraphNum": null,
+                      "ParagraphSentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "認定匿名加工医療情報作成事業者は、認定事業に関し管理する医療情報等又は匿名加工医療情報の漏えい、滅失又は毀損の防止その他の当該医療情報等又は匿名加工医療情報の安全管理のために必要かつ適切なものとして主務省令で定める措置を講じなければならない。"
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "21",
+                    "ArticleCaption": "（従業者の監督）",
+                    "ArticleTitle": "第二十一条",
+                    "Paragraph": {
+                      "@Hide": "false",
+                      "@Num": "1",
+                      "ParagraphNum": null,
+                      "ParagraphSentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "認定匿名加工医療情報作成事業者は、その従業者に認定事業に関し管理する医療情報等又は匿名加工医療情報を取り扱わせるに当たっては、当該医療情報等又は匿名加工医療情報の安全管理が図られるよう、主務省令で定めるところにより、当該従業者に対する必要かつ適切な監督を行わなければならない。"
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "22",
+                    "ArticleCaption": "（従業者等の義務）",
+                    "ArticleTitle": "第二十二条",
+                    "Paragraph": {
+                      "@Hide": "false",
+                      "@Num": "1",
+                      "ParagraphNum": null,
+                      "ParagraphSentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "認定匿名加工医療情報作成事業者の役員若しくは従業者又はこれらであった者は、認定事業に関して知り得た医療情報等又は匿名加工医療情報の内容をみだりに他人に知らせ、又は不当な目的に利用してはならない。"
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "23",
+                    "ArticleCaption": "（委託）",
+                    "ArticleTitle": "第二十三条",
+                    "Paragraph": [
+                      {
+                        "@Hide": "false",
+                        "@Num": "1",
+                        "ParagraphNum": null,
+                        "ParagraphSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "認定匿名加工医療情報作成事業者は、認定医療情報等取扱受託事業者に対してする場合に限り、認定事業に関し管理する医療情報等又は匿名加工医療情報の取扱いの全部又は一部を委託することができる。"
+                          }
+                        }
+                      },
+                      {
+                        "@Hide": "false",
+                        "@Num": "2",
+                        "ParagraphNum": "２",
+                        "ParagraphSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "前項の規定により医療情報等又は匿名加工医療情報の取扱いの全部又は一部の委託を受けた認定医療情報等取扱受託事業者は、当該医療情報等又は匿名加工医療情報の取扱いの委託をした認定匿名加工医療情報作成事業者の許諾を得た場合であって、かつ、認定医療情報等取扱受託事業者に対してするときに限り、その全部又は一部の再委託をすることができる。"
+                          }
+                        }
+                      },
+                      {
+                        "@Hide": "false",
+                        "@Num": "3",
+                        "ParagraphNum": "３",
+                        "ParagraphSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "前項の規定により医療情報等又は匿名加工医療情報の取扱いの全部又は一部の再委託を受けた認定医療情報等取扱受託事業者は、当該医療情報等又は匿名加工医療情報の取扱いの全部又は一部の委託を受けた認定医療情報等取扱受託事業者とみなして、同項の規定を適用する。"
+                          }
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "24",
+                    "ArticleCaption": "（委託先の監督）",
+                    "ArticleTitle": "第二十四条",
+                    "Paragraph": {
+                      "@Hide": "false",
+                      "@Num": "1",
+                      "ParagraphNum": null,
+                      "ParagraphSentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "認定匿名加工医療情報作成事業者は、認定事業に関し管理する医療情報等又は匿名加工医療情報の取扱いの全部又は一部を委託する場合は、その取扱いを委託した医療情報等又は匿名加工医療情報の安全管理が図られるよう、主務省令で定めるところにより、委託を受けた者に対する必要かつ適切な監督を行わなければならない。"
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "25",
+                    "ArticleCaption": "（他の認定匿名加工医療情報作成事業者に対する医療情報の提供）",
+                    "ArticleTitle": "第二十五条",
+                    "Paragraph": [
+                      {
+                        "@Hide": "false",
+                        "@Num": "1",
+                        "ParagraphNum": null,
+                        "ParagraphSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "第三十条第一項の規定により医療情報の提供を受けた認定匿名加工医療情報作成事業者は、主務省令で定めるところにより、他の認定匿名加工医療情報作成事業者からの求めに応じ、匿名加工医療情報の作成のために必要な限度において、当該他の認定匿名加工医療情報作成事業者に対し、同項の規定により提供された医療情報を提供することができる。"
+                          }
+                        }
+                      },
+                      {
+                        "@Hide": "false",
+                        "@Num": "2",
+                        "ParagraphNum": "２",
+                        "ParagraphSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "前項の規定により医療情報の提供を受けた認定匿名加工医療情報作成事業者は、第三十条第一項の規定により医療情報の提供を受けた認定匿名加工医療情報作成事業者とみなして、前項の規定を適用する。"
+                          }
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "26",
+                    "ArticleCaption": "（第三者提供の制限）",
+                    "ArticleTitle": "第二十六条",
+                    "Paragraph": [
+                      {
+                        "@Hide": "false",
+                        "@Num": "1",
+                        "ParagraphNum": null,
+                        "ParagraphSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "認定匿名加工医療情報作成事業者は、前条の規定により提供する場合及び次に掲げる場合を除くほか、同条又は第三十条第一項の規定により提供された医療情報を第三者に提供してはならない。"
+                          }
+                        },
+                        "Item": [
+                          {
+                            "@Delete": "false",
+                            "@Hide": "false",
+                            "@Num": "1",
+                            "ItemTitle": "一",
+                            "ItemSentence": {
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "法令に基づく場合"
+                              }
+                            }
+                          },
+                          {
+                            "@Delete": "false",
+                            "@Hide": "false",
+                            "@Num": "2",
+                            "ItemTitle": "二",
+                            "ItemSentence": {
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "人命の救助、災害の救援その他非常の事態への対応のため緊急の必要がある場合"
+                              }
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "@Hide": "false",
+                        "@Num": "2",
+                        "ParagraphNum": "２",
+                        "ParagraphSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "次に掲げる場合において、当該医療情報の提供を受ける者は、前項の規定の適用については、第三者に該当しないものとする。"
+                          }
+                        },
+                        "Item": [
+                          {
+                            "@Delete": "false",
+                            "@Hide": "false",
+                            "@Num": "1",
+                            "ItemTitle": "一",
+                            "ItemSentence": {
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "第十条第一項、第二項又は第四項から第六項までの規定による事業譲渡その他の事由による事業の承継に伴って医療情報が提供される場合"
+                              }
+                            }
+                          },
+                          {
+                            "@Delete": "false",
+                            "@Hide": "false",
+                            "@Num": "2",
+                            "ItemTitle": "二",
+                            "ItemSentence": {
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "認定匿名加工医療情報作成事業者が第二十三条第一項の規定により医療情報の取扱いの全部又は一部を委託することに伴って当該医療情報が提供される場合"
+                              }
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "27",
+                    "ArticleCaption": "（苦情の処理）",
+                    "ArticleTitle": "第二十七条",
+                    "Paragraph": [
+                      {
+                        "@Hide": "false",
+                        "@Num": "1",
+                        "ParagraphNum": null,
+                        "ParagraphSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "認定匿名加工医療情報作成事業者は、主務省令で定めるところにより、認定事業に関し管理する医療情報等又は匿名加工医療情報の取扱いに関する苦情を適切かつ迅速に処理しなければならない。"
+                          }
+                        }
+                      },
+                      {
+                        "@Hide": "false",
+                        "@Num": "2",
+                        "ParagraphNum": "２",
+                        "ParagraphSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "認定匿名加工医療情報作成事業者は、主務省令で定めるところにより、前項の目的を達成するために必要な体制を整備しなければならない。"
+                          }
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "3",
+                "SectionTitle": "第三節　認定医療情報等取扱受託事業者",
+                "Article": [
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "28",
+                    "ArticleCaption": "（認定）",
+                    "ArticleTitle": "第二十八条",
+                    "Paragraph": {
+                      "@Hide": "false",
+                      "@Num": "1",
+                      "ParagraphNum": null,
+                      "ParagraphSentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "認定匿名加工医療情報作成事業者の委託（二以上の段階にわたる委託を含む。）を受けて医療情報等又は匿名加工医療情報を取り扱う事業を行おうとする者（法人に限る。）は、申請により、当該事業を適正かつ確実に行うことができるものと認められる旨の主務大臣の認定を受けることができる。"
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "29",
+                    "ArticleCaption": "（準用）",
+                    "ArticleTitle": "第二十九条",
+                    "Paragraph": {
+                      "@Hide": "false",
+                      "@Num": "1",
+                      "ParagraphNum": null,
+                      "ParagraphSentence": {
+                        "Sentence": [
+                          {
+                            "@Num": "1",
+                            "@WritingMode": "vertical",
+                            "#text": "第八条第二項（第二号及び第三号を除く。）、第三項（第二号を除く。）、第四項及び第五項の規定は前条の認定について、第九条から第十四条まで、第十七条、第十八条第一項及び第二項、第十九条から第二十二条まで、第二十四条、第二十六条並びに第二十七条の規定は認定医療情報等取扱受託事業者について、第十五条及び第十六条の規定は認定医療情報等取扱受託事業者に係る認定の取消しについて、それぞれ準用する。"
+                          },
+                          {
+                            "@Num": "2",
+                            "@WritingMode": "vertical",
+                            "#text": "この場合において、次の表の上欄に掲げる規定中同表の中欄に掲げる字句は、それぞれ同表の下欄に掲げる字句に読み替えるものとするほか、必要な技術的読替えは、政令で定める。"
+                          }
+                        ]
+                      },
+                      "TableStruct": {
+                        "Table": {
+                          "TableRow": [
+                            {
+                              "TableColumn": [
+                                {
+                                  "@Valign": "top",
+                                  "Sentence": "第八条第二項"
+                                },
+                                {
+                                  "@Align": "left",
+                                  "@Valign": "top",
+                                  "Sentence": "次項各号"
+                                },
+                                {
+                                  "@Valign": "top",
+                                  "Sentence": "次項第一号、第三号及び第四号"
+                                }
+                              ]
+                            },
+                            {
+                              "TableColumn": [
+                                {
+                                  "@Valign": "top",
+                                  "Sentence": "第八条第三項第一号ハ"
+                                },
+                                {
+                                  "@Align": "left",
+                                  "@Valign": "top",
+                                  "Sentence": "匿名加工医療情報作成事業"
+                                },
+                                {
+                                  "@Valign": "top",
+                                  "Sentence": "その事業"
+                                }
+                              ]
+                            },
+                            {
+                              "TableColumn": [
+                                {
+                                  "@Valign": "top",
+                                  "Sentence": "第九条第一項"
+                                },
+                                {
+                                  "@Align": "left",
+                                  "@Valign": "top",
+                                  "Sentence": "同条第二項第二号から第五号まで"
+                                },
+                                {
+                                  "@Valign": "top",
+                                  "Sentence": "前条第二項第四号又は第五号"
+                                }
+                              ]
+                            },
+                            {
+                              "TableColumn": [
+                                {
+                                  "@Valign": "top",
+                                  "Sentence": "第九条第四項"
+                                },
+                                {
+                                  "@Align": "left",
+                                  "@Valign": "top",
+                                  "Sentence": "第一号"
+                                },
+                                {
+                                  "@Valign": "top",
+                                  "Sentence": "第一号及び第二号"
+                                }
+                              ]
+                            },
+                            {
+                              "TableColumn": [
+                                {
+                                  "@Valign": "top",
+                                  "Sentence": "第十条第一項"
+                                },
+                                {
+                                  "@Align": "left",
+                                  "@Valign": "top",
+                                  "Sentence": "第八条第一項の認定に係る匿名加工医療情報作成事業"
+                                },
+                                {
+                                  "@Valign": "top",
+                                  "Sentence": "第二十八条の認定に係る同条に規定する事業"
+                                }
+                              ]
+                            },
+                            {
+                              "TableColumn": [
+                                {
+                                  "@Valign": "top",
+                                  "Sentence": "第十条第七項"
+                                },
+                                {
+                                  "@Align": "left",
+                                  "@Valign": "top",
+                                  "Sentence": "第八条第三項から第五項まで"
+                                },
+                                {
+                                  "@Valign": "top",
+                                  "Sentence": "第八条第三項（第二号を除く。）、第四項及び第五項"
+                                }
+                              ]
+                            },
+                            {
+                              "TableColumn": [
+                                {
+                                  "@Valign": "top",
+                                  "Sentence": "第十条第九項、第十一条第二項及び第十二条第二項"
+                                },
+                                {
+                                  "@Align": "left",
+                                  "@Valign": "top",
+                                  "Sentence": "第八条第一項"
+                                },
+                                {
+                                  "@Valign": "top",
+                                  "Sentence": "第二十八条"
+                                }
+                              ]
+                            },
+                            {
+                              "TableColumn": [
+                                {
+                                  "@Valign": "top",
+                                  "Sentence": "第十五条第一項第二号"
+                                },
+                                {
+                                  "@Align": "left",
+                                  "@Valign": "top",
+                                  "Sentence": "第八条第三項各号"
+                                },
+                                {
+                                  "@Valign": "top",
+                                  "Sentence": "第八条第三項第一号、第三号又は第四号"
+                                }
+                              ]
+                            },
+                            {
+                              "TableColumn": [
+                                {
+                                  "@Valign": "top",
+                                  "Sentence": "第十五条第一項第五号"
+                                },
+                                {
+                                  "@Align": "left",
+                                  "@Valign": "top",
+                                  "Sentence": "第三十七条第一項"
+                                },
+                                {
+                                  "@Valign": "top",
+                                  "Sentence": "第三十七条第二項"
+                                }
+                              ]
+                            },
+                            {
+                              "TableColumn": [
+                                {
+                                  "@Valign": "top",
+                                  "Sentence": "第十六条第一項第二号"
+                                },
+                                {
+                                  "@Align": "left",
+                                  "@Valign": "top",
+                                  "Sentence": "同条第一項"
+                                },
+                                {
+                                  "@Valign": "top",
+                                  "Sentence": "同条第二項"
+                                }
+                              ]
+                            },
+                            {
+                              "TableColumn": [
+                                {
+                                  "@Valign": "top",
+                                  "Sentence": "第十七条第一項"
+                                },
+                                {
+                                  "@Align": "left",
+                                  "@Valign": "top",
+                                  "Sentence": "第二十五条又は第三十条第一項の規定により医療情報の提供"
+                                },
+                                {
+                                  "@Valign": "top",
+                                  "Sentence": "第二十三条第一項又は第二項の規定により医療情報の取扱いの全部又は一部の委託又は再委託"
+                                }
+                              ]
+                            },
+                            {
+                              "TableColumn": [
+                                {
+                                  "@Align": "left",
+                                  "@Valign": "top",
+                                  "@rowspan": "2",
+                                  "Sentence": "第二十六条第一項"
+                                },
+                                {
+                                  "@Align": "left",
+                                  "@Valign": "top",
+                                  "Sentence": "前条の規定により提供する場合及び次に"
+                                },
+                                {
+                                  "@Valign": "top",
+                                  "Sentence": "次に"
+                                }
+                              ]
+                            },
+                            {
+                              "TableColumn": [
+                                {
+                                  "@Align": "left",
+                                  "@Valign": "top",
+                                  "Sentence": "同条又は第三十条第一項の規定により提供された"
+                                },
+                                {
+                                  "@Valign": "middle",
+                                  "Sentence": "第二十三条第一項又は第二項の規定によりその取扱いの全部又は一部の委託又は再委託をされた"
+                                }
+                              ]
+                            },
+                            {
+                              "TableColumn": [
+                                {
+                                  "@Align": "left",
+                                  "@Valign": "top",
+                                  "@rowspan": "2",
+                                  "Sentence": "第二十六条第二項第二号"
+                                },
+                                {
+                                  "@Align": "left",
+                                  "@Valign": "top",
+                                  "Sentence": "が第二十三条第一項"
+                                },
+                                {
+                                  "@Valign": "middle",
+                                  "Sentence": "又は認定匿名加工医療情報作成事業者が第二十三条第二項又は第一項"
+                                }
+                              ]
+                            },
+                            {
+                              "TableColumn": [
+                                {
+                                  "@Align": "left",
+                                  "@Valign": "top",
+                                  "Sentence": "を委託する"
+                                },
+                                {
+                                  "@Valign": "middle",
+                                  "Sentence": "の委託又は再委託をする"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "4",
+            "ChapterTitle": "第四章　医療情報取扱事業者による認定匿名加工医療情報作成事業者に対する医療情報の提供",
+            "Article": [
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "30",
+                "ArticleCaption": "（医療情報取扱事業者による医療情報の提供）",
+                "ArticleTitle": "第三十条",
+                "Paragraph": [
+                  {
+                    "@Hide": "false",
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "医療情報取扱事業者は、認定匿名加工医療情報作成事業者に提供される医療情報について、主務省令で定めるところにより本人又はその遺族（死亡した本人の子、孫その他の政令で定める者をいう。以下同じ。）からの求めがあるときは、当該本人が識別される医療情報の認定匿名加工医療情報作成事業者への提供を停止することとしている場合であって、次に掲げる事項について、主務省令で定めるところにより、あらかじめ、本人に通知するとともに、主務大臣に届け出たときは、当該医療情報を認定匿名加工医療情報作成事業者に提供することができる。"
+                      }
+                    },
+                    "Item": [
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "1",
+                        "ItemTitle": "一",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "医療分野の研究開発に資するための匿名加工医療情報の作成の用に供するものとして、認定匿名加工医療情報作成事業者に提供すること。"
+                          }
+                        }
+                      },
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "2",
+                        "ItemTitle": "二",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "認定匿名加工医療情報作成事業者に提供される医療情報の項目"
+                          }
+                        }
+                      },
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "3",
+                        "ItemTitle": "三",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "認定匿名加工医療情報作成事業者への提供の方法"
+                          }
+                        }
+                      },
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "4",
+                        "ItemTitle": "四",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "本人又はその遺族からの求めに応じて当該本人が識別される医療情報の認定匿名加工医療情報作成事業者への提供を停止すること。"
+                          }
+                        }
+                      },
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "5",
+                        "ItemTitle": "五",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "本人又はその遺族からの求めを受け付ける方法"
+                          }
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Hide": "false",
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "医療情報取扱事業者は、前項第二号、第三号又は第五号に掲げる事項を変更する場合は、変更する内容について、主務省令で定めるところにより、あらかじめ、本人に通知するとともに、主務大臣に届け出なければならない。"
+                      }
+                    }
+                  },
+                  {
+                    "@Hide": "false",
+                    "@Num": "3",
+                    "ParagraphNum": "３",
+                    "ParagraphSentence": {
+                      "Sentence": [
+                        {
+                          "@Num": "1",
+                          "@WritingMode": "vertical",
+                          "#text": "主務大臣は、第一項の規定による届出があったときは、主務省令で定めるところにより、当該届出に係る事項を公表しなければならない。"
+                        },
+                        {
+                          "@Num": "2",
+                          "@WritingMode": "vertical",
+                          "#text": "前項の規定による届出があったときも、同様とする。"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "31",
+                "ArticleCaption": "（書面の交付）",
+                "ArticleTitle": "第三十一条",
+                "Paragraph": [
+                  {
+                    "@Hide": "false",
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "医療情報取扱事業者は、前条第一項の規定による通知を受けた本人又はその遺族から当該本人が識別される医療情報の認定匿名加工医療情報作成事業者への提供を停止するように求めがあったときは、遅滞なく、主務省令で定めるところにより、当該求めがあった旨その他の主務省令で定める事項を記載した書面を当該求めを行った者に交付しなければならない。"
+                      }
+                    }
+                  },
+                  {
+                    "@Hide": "false",
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": [
+                        {
+                          "@Num": "1",
+                          "@WritingMode": "vertical",
+                          "#text": "医療情報取扱事業者は、あらかじめ、前項に規定する求めを行った者の承諾を得て、同項の規定による書面の交付に代えて、当該書面に記載すべき事項を記録した電磁的記録を提供することができる。"
+                        },
+                        {
+                          "@Num": "2",
+                          "@WritingMode": "vertical",
+                          "#text": "この場合において、当該医療情報取扱事業者は、同項の規定による書面の交付を行ったものとみなす。"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "@Hide": "false",
+                    "@Num": "3",
+                    "ParagraphNum": "３",
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "第一項の規定により書面を交付し、又は前項の規定により電磁的記録を提供した医療情報取扱事業者は、主務省令で定めるところにより、当該書面の写し又は当該電磁的記録を保存しなければならない。"
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "32",
+                "ArticleCaption": "（医療情報の提供に係る記録の作成等）",
+                "ArticleTitle": "第三十二条",
+                "Paragraph": [
+                  {
+                    "@Hide": "false",
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "医療情報取扱事業者は、第三十条第一項の規定により医療情報を認定匿名加工医療情報作成事業者に提供したときは、主務省令で定めるところにより、当該医療情報を提供した年月日、当該認定匿名加工医療情報作成事業者の名称及び住所その他の主務省令で定める事項に関する記録を作成しなければならない。"
+                      }
+                    }
+                  },
+                  {
+                    "@Hide": "false",
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "医療情報取扱事業者は、前項の記録を、当該記録を作成した日から主務省令で定める期間保存しなければならない。"
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "33",
+                "ArticleCaption": "（医療情報の提供を受ける際の確認）",
+                "ArticleTitle": "第三十三条",
+                "Paragraph": [
+                  {
+                    "@Hide": "false",
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "認定匿名加工医療情報作成事業者は、第三十条第一項の規定により医療情報取扱事業者から医療情報の提供を受けるに際しては、主務省令で定めるところにより、次に掲げる事項の確認を行わなければならない。"
+                      }
+                    },
+                    "Item": [
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "1",
+                        "ItemTitle": "一",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "当該医療情報取扱事業者の氏名又は名称及び住所並びに法人にあっては、その代表者（法人でない団体で代表者又は管理人の定めのあるものにあっては、その代表者又は管理人）の氏名"
+                          }
+                        }
+                      },
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "2",
+                        "ItemTitle": "二",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "当該医療情報取扱事業者による当該医療情報の取得の経緯"
+                          }
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Hide": "false",
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "前項の医療情報取扱事業者は、認定匿名加工医療情報作成事業者が同項の規定による確認を行う場合において、当該認定匿名加工医療情報作成事業者に対して、当該確認に係る事項を偽ってはならない。"
+                      }
+                    }
+                  },
+                  {
+                    "@Hide": "false",
+                    "@Num": "3",
+                    "ParagraphNum": "３",
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "認定匿名加工医療情報作成事業者は、第一項の規定による確認を行ったときは、主務省令で定めるところにより、当該医療情報の提供を受けた年月日、当該確認に係る事項その他の主務省令で定める事項に関する記録を作成しなければならない。"
+                      }
+                    }
+                  },
+                  {
+                    "@Hide": "false",
+                    "@Num": "4",
+                    "ParagraphNum": "４",
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "認定匿名加工医療情報作成事業者は、前項の記録を、当該記録を作成した日から主務省令で定める期間保存しなければならない。"
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "34",
+                "ArticleCaption": "（医療情報取扱事業者から医療情報の提供を受けてはならない場合）",
+                "ArticleTitle": "第三十四条",
+                "Paragraph": {
+                  "@Hide": "false",
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "認定匿名加工医療情報作成事業者は、次に掲げる医療情報について、法令に基づく場合を除き、医療情報取扱事業者から提供を受けてはならない。"
+                    }
+                  },
+                  "Item": [
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "1",
+                      "ItemTitle": "一",
+                      "ItemSentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "第三十条第一項又は第二項の規定による通知又は届出が行われていない医療情報"
+                        }
+                      }
+                    },
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "2",
+                      "ItemTitle": "二",
+                      "ItemSentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "第三十一条第一項に規定する求めがあった医療情報"
+                        }
+                      }
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "5",
+            "ChapterTitle": "第五章　監督",
+            "Article": [
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "35",
+                "ArticleCaption": "（立入検査等）",
+                "ArticleTitle": "第三十五条",
+                "Paragraph": [
+                  {
+                    "@Hide": "false",
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "主務大臣は、この法律の施行に必要な限度において、認定匿名加工医療情報作成事業者若しくは認定医療情報等取扱受託事業者（これらの者のうち外国取扱者である者を除く。）、匿名加工医療情報取扱事業者若しくは医療情報取扱事業者に対し必要な報告を求め、又はその職員に、これらの者の事務所その他の事業所に立ち入り、これらの者の帳簿、書類その他の物件を検査させ、若しくは関係者に質問させることができる。"
+                      }
+                    }
+                  },
+                  {
+                    "@Hide": "false",
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "前項の規定による立入検査をする職員は、その身分を示す証明書を携帯し、関係者の請求があったときは、これを提示しなければならない。"
+                      }
+                    }
+                  },
+                  {
+                    "@Hide": "false",
+                    "@Num": "3",
+                    "ParagraphNum": "３",
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "第一項の規定による立入検査の権限は、犯罪捜査のために認められたものと解してはならない。"
+                      }
+                    }
+                  },
+                  {
+                    "@Hide": "false",
+                    "@Num": "4",
+                    "ParagraphNum": "４",
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "主務大臣は、第一項の規定による報告を求め、又は立入検査をしようとするときは、あらかじめ、個人情報保護委員会に協議しなければならない。"
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "36",
+                "ArticleCaption": "（指導及び助言）",
+                "ArticleTitle": "第三十六条",
+                "Paragraph": {
+                  "@Hide": "false",
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "主務大臣は、認定匿名加工医療情報作成事業者又は認定医療情報等取扱受託事業者に対し、第八条第一項又は第二十八条の認定に係る事業の適確な実施に必要な指導及び助言を行うものとする。"
+                    }
+                  }
+                }
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "37",
+                "ArticleCaption": "（是正命令）",
+                "ArticleTitle": "第三十七条",
+                "Paragraph": [
+                  {
+                    "@Hide": "false",
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "主務大臣は、認定匿名加工医療情報作成事業者（外国取扱者を除く。）が第十七条第一項、第十八条第一項若しくは第二項、第十九条から第二十一条まで、第二十三条第一項、第二十四条、第二十五条第一項、第二十六条第一項、第二十七条、第三十三条（第二項を除く。）又は第三十四条の規定に違反していると認めるときは、その者に対し、当該違反を是正するため必要な措置をとるべきことを命ずることができる。"
+                      }
+                    }
+                  },
+                  {
+                    "@Hide": "false",
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "主務大臣は、認定医療情報等取扱受託事業者（外国取扱者を除く。）が第二十三条第二項の規定又は第二十九条において準用する第十七条第一項、第十八条第一項若しくは第二項、第十九条から第二十一条まで、第二十四条、第二十六条第一項若しくは第二十七条の規定に違反していると認めるときは、その者に対し、当該違反を是正するため必要な措置をとるべきことを命ずることができる。"
+                      }
+                    }
+                  },
+                  {
+                    "@Hide": "false",
+                    "@Num": "3",
+                    "ParagraphNum": "３",
+                    "ParagraphSentence": {
+                      "Sentence": [
+                        {
+                          "@Num": "1",
+                          "@WritingMode": "vertical",
+                          "#text": "前二項の規定は、認定匿名加工医療情報作成事業者又は認定医療情報等取扱受託事業者（これらの者のうち外国取扱者である者に限る。）について準用する。"
+                        },
+                        {
+                          "@Num": "2",
+                          "@WritingMode": "vertical",
+                          "#text": "この場合において、これらの規定中「命ずる」とあるのは、「請求する」と読み替えるものとする。"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "@Hide": "false",
+                    "@Num": "4",
+                    "ParagraphNum": "４",
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "主務大臣は、匿名加工医療情報取扱事業者が第十八条第三項の規定に違反していると認めるときは、その者に対し、当該違反を是正するため必要な措置をとるべきことを命ずることができる。"
+                      }
+                    }
+                  },
+                  {
+                    "@Hide": "false",
+                    "@Num": "5",
+                    "ParagraphNum": "５",
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "主務大臣は、医療情報取扱事業者が第三十条第一項若しくは第二項、第三十一条第一項若しくは第三項又は第三十二条の規定に違反していると認めるときは、その者に対し、当該違反を是正するため必要な措置をとるべきことを命ずることができる。"
+                      }
+                    }
+                  },
+                  {
+                    "@Hide": "false",
+                    "@Num": "6",
+                    "ParagraphNum": "６",
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "主務大臣は、第一項、第二項、第四項若しくは前項の規定による命令又は第三項において読み替えて準用する第一項若しくは第二項の規定による請求をしようとするときは、あらかじめ、個人情報保護委員会に協議しなければならない。"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "6",
+            "ChapterTitle": "第六章　雑則",
+            "Article": [
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "38",
+                "ArticleCaption": "（連絡及び協力）",
+                "ArticleTitle": "第三十八条",
+                "Paragraph": {
+                  "@Hide": "false",
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "主務大臣、個人情報保護委員会及び総務大臣は、この法律の施行に当たっては、医療情報等及び匿名加工医療情報の適正な取扱いに関する事項について、相互に緊密に連絡し、及び協力しなければならない。"
+                    }
+                  }
+                }
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "39",
+                "ArticleCaption": "（主務大臣等）",
+                "ArticleTitle": "第三十九条",
+                "Paragraph": [
+                  {
+                    "@Hide": "false",
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "この法律における主務大臣は、内閣総理大臣、文部科学大臣、厚生労働大臣及び経済産業大臣とする。"
+                      }
+                    }
+                  },
+                  {
+                    "@Hide": "false",
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "この法律における主務省令は、主務大臣の発する命令とする。"
+                      }
+                    }
+                  },
+                  {
+                    "@Hide": "false",
+                    "@Num": "3",
+                    "ParagraphNum": "３",
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "主務大臣は、主務省令を定め、又は変更しようとするときは、あらかじめ、個人情報保護委員会に協議しなければならない。"
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "40",
+                "ArticleCaption": "（地方公共団体が処理する事務）",
+                "ArticleTitle": "第四十条",
+                "Paragraph": {
+                  "@Hide": "false",
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "第三十五条第一項に規定する主務大臣の権限に属する事務（医療情報取扱事業者に係るものに限る。）は、政令で定めるところにより、地方公共団体の長が行うこととすることができる。"
+                    }
+                  }
+                }
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "41",
+                "ArticleCaption": "（権限の委任）",
+                "ArticleTitle": "第四十一条",
+                "Paragraph": {
+                  "@Hide": "false",
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "この法律に規定する主務大臣の権限の一部は、政令で定めるところにより、地方支分部局の長に委任することができる。"
+                    }
+                  }
+                }
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "42",
+                "ArticleCaption": "（主務省令への委任）",
+                "ArticleTitle": "第四十二条",
+                "Paragraph": {
+                  "@Hide": "false",
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "この法律に定めるもののほか、この法律の実施のための手続その他この法律の施行に関し必要な事項は、主務省令で定める。"
+                    }
+                  }
+                }
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "43",
+                "ArticleCaption": "（経過措置）",
+                "ArticleTitle": "第四十三条",
+                "Paragraph": {
+                  "@Hide": "false",
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "この法律の規定に基づき命令を制定し、又は改廃する場合においては、その命令で、その制定又は改廃に伴い合理的に必要と判断される範囲内において、所要の経過措置（罰則に関する経過措置を含む。）を定めることができる。"
+                    }
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "7",
+            "ChapterTitle": "第七章　罰則",
+            "Article": [
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "44",
+                "ArticleTitle": "第四十四条",
+                "Paragraph": {
+                  "@Hide": "false",
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "認定匿名加工医療情報作成事業者又は認定医療情報等取扱受託事業者の役員若しくは従業者又はこれらであった者が、正当な理由がないのに、その業務に関して取り扱った個人の秘密に属する事項が記録された医療情報データベース等（その全部又は一部を複製し、又は加工したものを含む。）を提供したときは、二年以下の懲役若しくは百万円以下の罰金に処し、又はこれを併科する。"
+                    }
+                  }
+                }
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "45",
+                "ArticleTitle": "第四十五条",
+                "Paragraph": {
+                  "@Hide": "false",
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "前条に規定する者が、その業務に関して知り得た医療情報等又は匿名加工医療情報を自己若しくは第三者の不正な利益を図る目的で提供し、又は盗用したときは、一年以下の懲役若しくは百万円以下の罰金に処し、又はこれを併科する。"
+                    }
+                  }
+                }
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "46",
+                "ArticleTitle": "第四十六条",
+                "Paragraph": {
+                  "@Hide": "false",
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "次の各号のいずれかに該当する者は、一年以下の懲役若しくは五十万円以下の罰金に処し、又はこれを併科する。"
+                    }
+                  },
+                  "Item": [
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "1",
+                      "ItemTitle": "一",
+                      "ItemSentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "偽りその他不正の手段により第八条第一項、第九条第一項（第二十九条において準用する場合を含む。）若しくは第二十八条の認定又は第十条第四項から第六項まで（これらの規定を第二十九条において準用する場合を含む。）の認可を受けた者"
+                        }
+                      }
+                    },
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "2",
+                      "ItemTitle": "二",
+                      "ItemSentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "第九条第一項の規定に違反して第八条第二項第二号から第五号までに掲げる事項を変更した者"
+                        }
+                      }
+                    },
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "3",
+                      "ItemTitle": "三",
+                      "ItemSentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "第二十二条（第二十九条において準用する場合を含む。）の規定に違反して、認定事業に関して知り得た医療情報等又は匿名加工医療情報の内容をみだりに他人に知らせ、又は不当な目的に利用した者"
+                        }
+                      }
+                    },
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "4",
+                      "ItemTitle": "四",
+                      "ItemSentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "第二十九条において準用する第九条第一項の規定に違反して第二十九条において準用する第八条第二項第四号又は第五号に掲げる事項を変更した者"
+                        }
+                      }
+                    },
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "5",
+                      "ItemTitle": "五",
+                      "ItemSentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "第三十七条第一項、第二項、第四項又は第五項の規定による命令に違反した者"
+                        }
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "47",
+                "ArticleTitle": "第四十七条",
+                "Paragraph": {
+                  "@Hide": "false",
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "次の各号のいずれかに該当する者は、五十万円以下の罰金に処する。"
+                    }
+                  },
+                  "Item": [
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "1",
+                      "ItemTitle": "一",
+                      "ItemSentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "第九条第二項、第十条第三項若しくは第八項又は第十一条第一項（これらの規定を第二十九条において準用する場合を含む。）の規定による届出をせず、又は虚偽の届出をした者"
+                        }
+                      }
+                    },
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "2",
+                      "ItemTitle": "二",
+                      "ItemSentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "第十条第九項、第十一条第二項、第十二条第二項又は第十五条第二項（第十六条第二項において準用する場合を含む。）（これらの規定を第二十九条において準用する場合を含む。）の規定に違反して医療情報等及び匿名加工医療情報を消去しなかった者"
+                        }
+                      }
+                    },
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "3",
+                      "ItemTitle": "三",
+                      "ItemSentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "第十三条（第二十九条において準用する場合を含む。）の規定に違反して、帳簿を備えず、帳簿に記載せず、若しくは虚偽の記載をし、又は帳簿を保存しなかった者"
+                        }
+                      }
+                    },
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "4",
+                      "ItemTitle": "四",
+                      "ItemSentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "第三十五条第一項の規定による報告をせず、若しくは虚偽の報告をし、又は同項の規定による検査を拒み、妨げ、若しくは忌避し、若しくは同項の規定による質問に対して答弁せず、若しくは虚偽の答弁をした者"
+                        }
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "48",
+                "ArticleTitle": "第四十八条",
+                "Paragraph": {
+                  "@Hide": "false",
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "第四十四条、第四十五条、第四十六条（第三号及び第五号（第三十七条第一項（第三十三条第一項、第三項及び第四項並びに第三十四条に係る部分を除く。）及び第二項に係る部分に限る。）に係る部分に限る。）及び前条（第二号に係る部分に限る。）の罪は、日本国外においてこれらの条の罪を犯した者にも適用する。"
+                    }
+                  }
+                }
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "49",
+                "ArticleTitle": "第四十九条",
+                "Paragraph": [
+                  {
+                    "@Hide": "false",
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "法人（法人でない団体で代表者又は管理人の定めのあるものを含む。以下この項において同じ。）の代表者又は法人若しくは人の代理人、使用人その他の従業者が、その法人又は人の業務に関して第四十四条から第四十七条までの違反行為をしたときは、行為者を罰するほか、その法人又は人に対しても、各本条の罰金刑を科する。"
+                      }
+                    }
+                  },
+                  {
+                    "@Hide": "false",
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "法人でない団体について前項の規定の適用がある場合には、その代表者又は管理人が、その訴訟行為につき法人でない団体を代表するほか、法人を被告人又は被疑者とする場合の刑事訴訟に関する法律の規定を準用する。"
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "50",
+                "ArticleTitle": "第五十条",
+                "Paragraph": {
+                  "@Hide": "false",
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "次の各号のいずれかに該当する者は、十万円以下の過料に処する。"
+                    }
+                  },
+                  "Item": [
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "1",
+                      "ItemTitle": "一",
+                      "ItemSentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "第十二条第一項（第二十九条において準用する場合を含む。）の規定による届出をせず、又は虚偽の届出をした者"
+                        }
+                      }
+                    },
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "2",
+                      "ItemTitle": "二",
+                      "ItemSentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "第十四条（第二十九条において準用する場合を含む。）又は第三十三条第二項の規定に違反した者"
+                        }
+                      }
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      "SupplProvision": {
+        "@Extract": "true",
+        "SupplProvisionLabel": "附　則",
+        "Article": [
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "1",
+            "ArticleCaption": "（施行期日）",
+            "ArticleTitle": "第一条",
+            "Paragraph": {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": [
+                  {
+                    "@Function": "main",
+                    "@Num": "1",
+                    "@WritingMode": "vertical",
+                    "#text": "この法律は、公布の日から起算して一年を超えない範囲内において政令で定める日から施行する。"
+                  },
+                  {
+                    "@Function": "proviso",
+                    "@Num": "2",
+                    "@WritingMode": "vertical",
+                    "#text": "ただし、次条及び附則第四条の規定は、公布の日から施行する。"
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "2",
+            "ArticleCaption": "（基本方針に関する経過措置）",
+            "ArticleTitle": "第二条",
+            "Paragraph": [
+              {
+                "@Hide": "false",
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": [
+                    {
+                      "@Num": "1",
+                      "@WritingMode": "vertical",
+                      "#text": "政府は、この法律の施行前においても、第四条の規定の例により、基本方針を定めることができる。"
+                    },
+                    {
+                      "@Num": "2",
+                      "@WritingMode": "vertical",
+                      "#text": "この場合において、内閣総理大臣は、この法律の施行前においても、同条の規定の例により、これを公表することができる。"
+                    }
+                  ]
+                }
+              },
+              {
+                "@Hide": "false",
+                "@Num": "2",
+                "ParagraphNum": "２",
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "前項の規定により定められた基本方針は、この法律の施行の日において第四条の規定により定められたものとみなす。"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "3",
+            "ArticleCaption": "（名称の使用制限に関する経過措置）",
+            "ArticleTitle": "第三条",
+            "Paragraph": {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "この法律の施行の際現に認定匿名加工医療情報作成事業者若しくは認定医療情報等取扱受託事業者という名称又はこれらと紛らわしい名称を使用している者については、第十四条（第二十九条において準用する場合を含む。）の規定は、この法律の施行後六月間は、適用しない。"
+                }
+              }
+            }
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "4",
+            "ArticleCaption": "（政令への委任）",
+            "ArticleTitle": "第四条",
+            "Paragraph": {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "前二条に定めるもののほか、この法律の施行に関し必要な経過措置は、政令で定める。"
+                }
+              }
+            }
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "5",
+            "ArticleCaption": "（検討）",
+            "ArticleTitle": "第五条",
+            "Paragraph": {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "政府は、この法律の施行後五年を経過した場合において、この法律の施行の状況について検討を加え、必要があると認めるときは、その結果に基づいて所要の措置を講ずるものとする。"
+                }
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

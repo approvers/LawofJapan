@@ -1,0 +1,3764 @@
+{
+  "Law": {
+    "@Era": "Heisei",
+    "@Lang": "ja",
+    "@LawType": "MinisterialOrdinance",
+    "@Num": "066",
+    "@Year": "23",
+    "LawNum": "平成二十三年内閣府令第六十六号",
+    "LawBody": {
+      "LawTitle": "公共施設等運営権登録令施行規則",
+      "EnactStatement": "公共施設等運営権登録令（平成二十三年政令第三百五十六号）の規定に基づき、公共施設等運営権登録令施行規則を次のように定める。",
+      "TOC": {
+        "TOCLabel": "目次",
+        "TOCChapter": [
+          {
+            "@Num": "1",
+            "ChapterTitle": "第一章　総則",
+            "ArticleRange": "（第一条―第三条）"
+          },
+          {
+            "@Num": "2",
+            "ChapterTitle": "第二章　登録記録等",
+            "TOCSection": [
+              {
+                "@Num": "1",
+                "SectionTitle": "第一節　登録記録",
+                "ArticleRange": "（第四条―第八条）"
+              },
+              {
+                "@Num": "2",
+                "SectionTitle": "第二節　登録に関する帳簿",
+                "ArticleRange": "（第九条―第十四条）"
+              },
+              {
+                "@Num": "3",
+                "SectionTitle": "第三節　雑則",
+                "ArticleRange": "（第十五条）"
+              }
+            ]
+          },
+          {
+            "@Num": "3",
+            "ChapterTitle": "第三章　登録手続",
+            "TOCSection": [
+              {
+                "@Num": "1",
+                "SectionTitle": "第一節　申請書記載事項及び添付書面",
+                "ArticleRange": "（第十六条―第二十二条）"
+              },
+              {
+                "@Num": "2",
+                "SectionTitle": "第二節　登録申請の手続",
+                "TOCSubsection": [
+                  {
+                    "@Num": "1",
+                    "SubsectionTitle": "第一款　申請",
+                    "ArticleRange": "（第二十三条―第二十九条）"
+                  },
+                  {
+                    "@Num": "2",
+                    "SubsectionTitle": "第二款　受付等",
+                    "ArticleRange": "（第三十条―第三十四条）"
+                  },
+                  {
+                    "@Num": "3",
+                    "SubsectionTitle": "第三款　登録済証",
+                    "ArticleRange": "（第三十五条）"
+                  },
+                  {
+                    "@Num": "4",
+                    "SubsectionTitle": "第四款　登録名義人が登録済証を提出しなければならない登録等",
+                    "ArticleRange": "（第三十六条）"
+                  },
+                  {
+                    "@Num": "5",
+                    "SubsectionTitle": "第五款　登録済証の提出がない場合の手続",
+                    "ArticleRange": "（第三十七条・第三十八条）"
+                  },
+                  {
+                    "@Num": "6",
+                    "SubsectionTitle": "第六款　公共施設等立地図",
+                    "ArticleRange": "（第三十九条・第四十条）"
+                  },
+                  {
+                    "@Num": "7",
+                    "SubsectionTitle": "第七款　登録すべきものでないとき",
+                    "ArticleRange": "（第四十一条）"
+                  }
+                ]
+              },
+              {
+                "@Num": "3",
+                "SectionTitle": "第三節　表題部の登録事項",
+                "ArticleRange": "（第四十二条―第四十六条）"
+              },
+              {
+                "@Num": "4",
+                "SectionTitle": "第四節　権利部の登録事項",
+                "TOCSubsection": [
+                  {
+                    "@Num": "1",
+                    "SubsectionTitle": "第一款　通則",
+                    "ArticleRange": "（第四十七条―第五十四条）"
+                  },
+                  {
+                    "@Num": "2",
+                    "SubsectionTitle": "第二款　抵当権に関する登録",
+                    "ArticleRange": "（第五十五条―第六十三条）"
+                  },
+                  {
+                    "@Num": "3",
+                    "SubsectionTitle": "第三款　信託に関する登録",
+                    "ArticleRange": "（第六十四条・第六十五条）"
+                  },
+                  {
+                    "@Num": "4",
+                    "SubsectionTitle": "第四款　仮登録",
+                    "ArticleRange": "（第六十六条―第六十八条）"
+                  }
+                ]
+              },
+              {
+                "@Num": "5",
+                "SectionTitle": "第五節　雑則",
+                "ArticleRange": "（第六十九条―第七十三条）"
+              }
+            ]
+          },
+          {
+            "@Num": "4",
+            "ChapterTitle": "第四章　登録事項の証明等",
+            "ArticleRange": "（第七十四条―第八十条）"
+          }
+        ],
+        "TOCSupplProvision": {
+          "SupplProvisionLabel": "附則"
+        }
+      },
+      "MainProvision": {
+        "Chapter": [
+          {
+            "@Num": "1",
+            "ChapterTitle": "第一章　総則",
+            "Article": [
+              {
+                "@Num": "1",
+                "ArticleCaption": "（定義）",
+                "ArticleTitle": "第一条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "この府令において、次の各号に掲げる用語の意義は、それぞれ当該各号に定めるところによる。"
+                  },
+                  "Item": [
+                    {
+                      "@Num": "1",
+                      "ItemTitle": "一",
+                      "ItemSentence": {
+                        "Column": [
+                          {
+                            "@Num": "1",
+                            "Sentence": "添付書面"
+                          },
+                          {
+                            "@Num": "2",
+                            "Sentence": "登録の申請をする場合において、公共施設等運営権登録令（以下「令」という。）第十七条本文若しくは令第二十四条の規定、第三章の規定又はその他の法令の規定によりその申請書と併せて内閣総理大臣に提出しなければならないものとされている書面をいう。"
+                          }
+                        ]
+                      }
+                    },
+                    {
+                      "@Num": "2",
+                      "ItemTitle": "二",
+                      "ItemSentence": {
+                        "Column": [
+                          {
+                            "@Num": "1",
+                            "Sentence": "嘱託書"
+                          },
+                          {
+                            "@Num": "2",
+                            "Sentence": "令第十二条第一項に規定する登録の嘱託において、同条第二項において準用する令第十三条の規定により嘱託者が内閣総理大臣に提出しなければならない書面をいう。"
+                          }
+                        ]
+                      }
+                    },
+                    {
+                      "@Num": "3",
+                      "ItemTitle": "三",
+                      "ItemSentence": {
+                        "Column": [
+                          {
+                            "@Num": "1",
+                            "Sentence": "順位事項"
+                          },
+                          {
+                            "@Num": "2",
+                            "Sentence": "第四十七条第一項の規定により権利部に記録される番号（以下「順位番号」という。）及び同条第二項の規定により権利部に記録される符号をいう。"
+                          }
+                        ]
+                      }
+                    },
+                    {
+                      "@Num": "4",
+                      "ItemTitle": "四",
+                      "ItemSentence": {
+                        "Column": [
+                          {
+                            "@Num": "1",
+                            "Sentence": "公共施設等立地図"
+                          },
+                          {
+                            "@Num": "2",
+                            "Sentence": "別表第二の八の項添付書面の欄ホの図面をいう。"
+                          }
+                        ]
+                      }
+                    },
+                    {
+                      "@Num": "5",
+                      "ItemTitle": "五",
+                      "ItemSentence": {
+                        "Column": [
+                          {
+                            "@Num": "1",
+                            "Sentence": "申請書"
+                          },
+                          {
+                            "@Num": "2",
+                            "Sentence": "申請書記載事項を記載した書面をいう。"
+                          }
+                        ]
+                      }
+                    },
+                    {
+                      "@Num": "6",
+                      "ItemTitle": "六",
+                      "ItemSentence": {
+                        "Column": [
+                          {
+                            "@Num": "1",
+                            "Sentence": "公共施設等運営権番号"
+                          },
+                          {
+                            "@Num": "2",
+                            "Sentence": "第四十二条の規定により表題部に記録される番号、記号その他の符号をいう。"
+                          }
+                        ]
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "@Num": "2",
+                "ArticleCaption": "（登録の前後）",
+                "ArticleTitle": "第二条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "登録の前後は、登録記録の同一の区（第四条第二項の甲区又は乙区をいう。以下同じ。）にした登録相互間については順位番号、別の区にした登録相互間については受付番号による。"
+                  }
+                }
+              },
+              {
+                "@Num": "3",
+                "ArticleCaption": "（付記登録）",
+                "ArticleTitle": "第三条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "次に掲げる登録は、付記登録によってするものとする。"
+                  },
+                  "Item": [
+                    {
+                      "@Num": "1",
+                      "ItemTitle": "一",
+                      "ItemSentence": {
+                        "Sentence": "登録名義人の氏名若しくは名称又は住所についての変更の登録又は更正の登録"
+                      }
+                    },
+                    {
+                      "@Num": "2",
+                      "ItemTitle": "二",
+                      "ItemSentence": {
+                        "Sentence": "次に掲げる登録その他の令第二十九条に規定する場合における権利部の登録事項についての変更の登録又は更正の登録"
+                      },
+                      "Subitem1": [
+                        {
+                          "@Num": "1",
+                          "Subitem1Title": "イ",
+                          "Subitem1Sentence": {
+                            "Sentence": "債権の分割による抵当権の変更の登録"
+                          }
+                        },
+                        {
+                          "@Num": "2",
+                          "Subitem1Title": "ロ",
+                          "Subitem1Sentence": {
+                            "Sentence": "民法（明治二十九年法律第八十九号）第三百九十八条の八第一項又は第二項の合意の登録"
+                          }
+                        },
+                        {
+                          "@Num": "3",
+                          "Subitem1Title": "ハ",
+                          "Subitem1Sentence": {
+                            "Sentence": "民法第三百九十八条の十二第二項に規定する根抵当権を分割して譲り渡す場合においてする極度額の減額による変更の登録"
+                          }
+                        },
+                        {
+                          "@Num": "4",
+                          "Subitem1Title": "ニ",
+                          "Subitem1Sentence": {
+                            "Sentence": "民法第三百九十八条の十四第一項ただし書の定めの登録"
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "@Num": "3",
+                      "ItemTitle": "三",
+                      "ItemSentence": {
+                        "Sentence": "登録事項の一部が抹消されている場合においてする抹消された登録の回復"
+                      }
+                    },
+                    {
+                      "@Num": "4",
+                      "ItemTitle": "四",
+                      "ItemSentence": {
+                        "Sentence": "抵当権を目的とする権利に関する登録（処分の制限の登録を含む。）"
+                      }
+                    },
+                    {
+                      "@Num": "5",
+                      "ItemTitle": "五",
+                      "ItemSentence": {
+                        "Sentence": "抵当権の移転の登録"
+                      }
+                    },
+                    {
+                      "@Num": "6",
+                      "ItemTitle": "六",
+                      "ItemSentence": {
+                        "Sentence": "登録の目的である公共施設等運営権等の消滅に関する定めの登録"
+                      }
+                    },
+                    {
+                      "@Num": "7",
+                      "ItemTitle": "七",
+                      "ItemSentence": {
+                        "Sentence": "民法第三百九十三条の規定による代位の登録"
+                      }
+                    },
+                    {
+                      "@Num": "8",
+                      "ItemTitle": "八",
+                      "ItemSentence": {
+                        "Sentence": "買戻しの特約の登録"
+                      }
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "@Num": "2",
+            "ChapterTitle": "第二章　登録記録等",
+            "Section": [
+              {
+                "@Num": "1",
+                "SectionTitle": "第一節　登録記録",
+                "Article": [
+                  {
+                    "@Num": "4",
+                    "ArticleCaption": "（登録記録の編成）",
+                    "ArticleTitle": "第四条",
+                    "Paragraph": [
+                      {
+                        "@Num": "1",
+                        "ParagraphNum": null,
+                        "ParagraphSentence": {
+                          "Sentence": "登録記録の表題部は、別表第一の第一欄に掲げる欄に区分し、同表の第一欄に掲げる欄に同表の第二欄に掲げる事項を記録するものとする。"
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "ParagraphNum": "２",
+                        "ParagraphSentence": {
+                          "Sentence": "権利部は、甲区及び乙区に区分し、甲区には公共施設等運営権に関する登録の登録事項を記録するものとし、乙区には抵当権に関する登録の登録事項を記録するものとする。"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Num": "5",
+                    "ArticleCaption": "（移記又は転写）",
+                    "ArticleTitle": "第五条",
+                    "Paragraph": [
+                      {
+                        "@Num": "1",
+                        "ParagraphNum": null,
+                        "ParagraphSentence": {
+                          "Sentence": "内閣総理大臣は、登録を移記し、又は転写するときは、法令に別段の定めがある場合を除き、現に効力を有する登録のみを移記し、又は転写しなければならない。"
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "ParagraphNum": "２",
+                        "ParagraphSentence": {
+                          "Sentence": "内閣総理大臣は、登録を移記し、又は転写したときは、その年月日を新たに記録した登録の末尾に記録しなければならない。"
+                        }
+                      },
+                      {
+                        "@Num": "3",
+                        "ParagraphNum": "３",
+                        "ParagraphSentence": {
+                          "Sentence": "内閣総理大臣は、登録を移記したときは、移記前の登録記録を閉鎖しなければならない。"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Num": "6",
+                    "ArticleCaption": "（記録事項過多による移記）",
+                    "ArticleTitle": "第六条",
+                    "Paragraph": {
+                      "@Num": "1",
+                      "ParagraphNum": null,
+                      "ParagraphSentence": {
+                        "Sentence": [
+                          {
+                            "@Num": "1",
+                            "#text": "内閣総理大臣は、登録記録に記録されている事項が過多となったことその他の事由により取扱いが不便となったときは、登録を移記することができる。"
+                          },
+                          {
+                            "@Num": "2",
+                            "#text": "この場合には、表題部の登録及び公共施設等運営権の登録であって現に効力を有しないものも移記することができる。"
+                          }
+                        ]
+                      }
+                    }
+                  },
+                  {
+                    "@Num": "7",
+                    "ArticleCaption": "（登録記録の閉鎖）",
+                    "ArticleTitle": "第七条",
+                    "Paragraph": {
+                      "@Num": "1",
+                      "ParagraphNum": null,
+                      "ParagraphSentence": {
+                        "Sentence": "内閣総理大臣は、登録記録を閉鎖するときは、閉鎖の事由、閉鎖の年月日及び閉鎖する登録記録の公共施設等運営権の表題部（令第二十二条第一項第六号に掲げる登録事項を除く。）を抹消する記号を記録しなければならない。"
+                      }
+                    }
+                  },
+                  {
+                    "@Num": "8",
+                    "ArticleCaption": "（副登録記録）",
+                    "ArticleTitle": "第八条",
+                    "Paragraph": [
+                      {
+                        "@Num": "1",
+                        "ParagraphNum": null,
+                        "ParagraphSentence": {
+                          "Sentence": "内閣総理大臣は、登録記録に記録されている事項（共同担保目録及び信託目録に記録されている事項を含む。）と同一の事項を記録する副登録記録を調製するものとする。"
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "ParagraphNum": "２",
+                        "ParagraphSentence": {
+                          "Sentence": [
+                            {
+                              "@Num": "1",
+                              "#text": "内閣総理大臣は、登録簿に記録した登録記録によって登録の事務を行うことができないときは、前項の副登録記録によってこれを行うことができる。"
+                            },
+                            {
+                              "@Num": "2",
+                              "#text": "この場合において、副登録記録に記録した事項は、登録記録に記録した事項とみなす。"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "@Num": "3",
+                        "ParagraphNum": "３",
+                        "ParagraphSentence": {
+                          "Sentence": "内閣総理大臣は、登録簿に記録した登録記録によって登録の事務を行うことができるようになったときは、直ちに、前項の規定により副登録記録に記録した事項を登録記録に記録しなければならない。"
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "@Num": "2",
+                "SectionTitle": "第二節　登録に関する帳簿",
+                "Article": [
+                  {
+                    "@Num": "9",
+                    "ArticleCaption": "（申請情報等の保存）",
+                    "ArticleTitle": "第九条",
+                    "Paragraph": {
+                      "@Num": "1",
+                      "ParagraphNum": null,
+                      "ParagraphSentence": {
+                        "Sentence": "内閣総理大臣は、申請書及びその添付書面その他の登録簿の附属書類を、第十二条の規定に従い、次条第二号に掲げる帳簿につづり込んで保存するものとする。"
+                      }
+                    }
+                  },
+                  {
+                    "@Num": "10",
+                    "ArticleCaption": "（帳簿）",
+                    "ArticleTitle": "第十条",
+                    "Paragraph": {
+                      "@Num": "1",
+                      "ParagraphNum": null,
+                      "ParagraphSentence": {
+                        "Sentence": "内閣府には、次に掲げる帳簿を備えるものとする。"
+                      },
+                      "Item": [
+                        {
+                          "@Num": "1",
+                          "ItemTitle": "一",
+                          "ItemSentence": {
+                            "Sentence": "受付帳"
+                          }
+                        },
+                        {
+                          "@Num": "2",
+                          "ItemTitle": "二",
+                          "ItemSentence": {
+                            "Sentence": "申請書類つづり込み帳"
+                          }
+                        },
+                        {
+                          "@Num": "3",
+                          "ItemTitle": "三",
+                          "ItemSentence": {
+                            "Sentence": "決定原本つづり込み帳"
+                          }
+                        },
+                        {
+                          "@Num": "4",
+                          "ItemTitle": "四",
+                          "ItemSentence": {
+                            "Sentence": "各種通知簿"
+                          }
+                        },
+                        {
+                          "@Num": "5",
+                          "ItemTitle": "五",
+                          "ItemSentence": {
+                            "Sentence": "請求書類つづり込み帳"
+                          }
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "@Num": "11",
+                    "ArticleCaption": "（受付帳）",
+                    "ArticleTitle": "第十一条",
+                    "Paragraph": [
+                      {
+                        "@Num": "1",
+                        "ParagraphNum": null,
+                        "ParagraphSentence": {
+                          "Sentence": "受付帳は、登録の申請について調製するものとする。"
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "ParagraphNum": "２",
+                        "ParagraphSentence": {
+                          "Sentence": "受付帳は、書面により調製する必要がある場合を除き、磁気ディスクその他の電磁的記録に記録して調製するものとする。"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Num": "12",
+                    "ArticleCaption": "（申請書類つづり込み帳）",
+                    "ArticleTitle": "第十二条",
+                    "Paragraph": {
+                      "@Num": "1",
+                      "ParagraphNum": null,
+                      "ParagraphSentence": {
+                        "Sentence": "申請書類つづり込み帳には、申請書及びその添付書面、通知書、許可書、取下書その他の登録簿の附属書類（申請に係る事件を処理するために内閣総理大臣が作成したものを含む。）をつづり込むものとする。"
+                      }
+                    }
+                  },
+                  {
+                    "@Num": "13",
+                    "ArticleCaption": "（決定原本つづり込み帳）",
+                    "ArticleTitle": "第十三条",
+                    "Paragraph": {
+                      "@Num": "1",
+                      "ParagraphNum": null,
+                      "ParagraphSentence": {
+                        "Sentence": "決定原本つづり込み帳には、申請又は申出を却下した決定の決定書の原本をつづり込むものとする。"
+                      }
+                    }
+                  },
+                  {
+                    "@Num": "14",
+                    "ArticleCaption": "（請求書類つづり込み帳）",
+                    "ArticleTitle": "第十四条",
+                    "Paragraph": {
+                      "@Num": "1",
+                      "ParagraphNum": null,
+                      "ParagraphSentence": {
+                        "Sentence": "請求書類つづり込み帳には、次に掲げる請求に係る書面をつづり込むものとする。"
+                      },
+                      "Item": [
+                        {
+                          "@Num": "1",
+                          "ItemTitle": "一",
+                          "ItemSentence": {
+                            "Sentence": "登録事項証明書の交付の請求"
+                          }
+                        },
+                        {
+                          "@Num": "2",
+                          "ItemTitle": "二",
+                          "ItemSentence": {
+                            "Sentence": "公共施設等立地図の全部又は一部の写しの交付の請求"
+                          }
+                        },
+                        {
+                          "@Num": "3",
+                          "ItemTitle": "三",
+                          "ItemSentence": {
+                            "Sentence": "登録簿の附属書類の閲覧の請求"
+                          }
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "@Num": "3",
+                "SectionTitle": "第三節　雑則",
+                "Article": {
+                  "@Num": "15",
+                  "ArticleCaption": "（持出禁止）",
+                  "ArticleTitle": "第十五条",
+                  "Paragraph": [
+                    {
+                      "@Num": "1",
+                      "ParagraphNum": null,
+                      "ParagraphSentence": {
+                        "Sentence": "登録簿及び登録簿の附属書類は、事変を避けるためにする場合を除き、内閣府外に持ち出してはならない。"
+                      }
+                    },
+                    {
+                      "@Num": "2",
+                      "ParagraphNum": "２",
+                      "ParagraphSentence": {
+                        "Sentence": "前項の規定にかかわらず、内閣総理大臣は、裁判所から登録簿の附属書類を送付すべき命令又は嘱託があったときは、その関係がある部分に限り、登録簿の附属書類を送付するものとする。"
+                      }
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "@Num": "3",
+            "ChapterTitle": "第三章　登録手続",
+            "Section": [
+              {
+                "@Num": "1",
+                "SectionTitle": "第一節　申請書記載事項及び添付書面",
+                "Article": [
+                  {
+                    "@Num": "16",
+                    "ArticleCaption": "（申請書記載事項）",
+                    "ArticleTitle": "第十六条",
+                    "Paragraph": {
+                      "@Num": "1",
+                      "ParagraphNum": null,
+                      "ParagraphSentence": {
+                        "Sentence": "令第十三条に規定する内閣府令で定める事項は、次に掲げる事項とする。"
+                      },
+                      "Item": [
+                        {
+                          "@Num": "1",
+                          "ItemTitle": "一",
+                          "ItemSentence": {
+                            "Sentence": "申請人の氏名又は名称及び住所"
+                          }
+                        },
+                        {
+                          "@Num": "2",
+                          "ItemTitle": "二",
+                          "ItemSentence": {
+                            "Sentence": "申請人が法人であるときは、その代表者の氏名"
+                          }
+                        },
+                        {
+                          "@Num": "3",
+                          "ItemTitle": "三",
+                          "ItemSentence": {
+                            "Sentence": "代理人によって登録を申請するときは、当該代理人の氏名又は名称及び住所並びに代理人が法人であるときはその代表者の氏名"
+                          }
+                        },
+                        {
+                          "@Num": "4",
+                          "ItemTitle": "四",
+                          "ItemSentence": {
+                            "Sentence": "民法第四百二十三条その他の法令の規定により他人に代わって登録を申請するときは、申請人が代位者である旨、当該他人の氏名又は名称及び住所並びに代位原因"
+                          }
+                        },
+                        {
+                          "@Num": "5",
+                          "ItemTitle": "五",
+                          "ItemSentence": {
+                            "Sentence": "申請人又は代理人の電話番号その他の連絡先"
+                          }
+                        },
+                        {
+                          "@Num": "6",
+                          "ItemTitle": "六",
+                          "ItemSentence": {
+                            "Sentence": "公共施設等の名称及び立地"
+                          }
+                        },
+                        {
+                          "@Num": "7",
+                          "ItemTitle": "七",
+                          "ItemSentence": {
+                            "Sentence": "公共施設等の運営等の内容"
+                          }
+                        },
+                        {
+                          "@Num": "8",
+                          "ItemTitle": "八",
+                          "ItemSentence": {
+                            "Sentence": "存続期間"
+                          }
+                        },
+                        {
+                          "@Num": "9",
+                          "ItemTitle": "九",
+                          "ItemSentence": {
+                            "Sentence": "公共施設等の管理者等の名称"
+                          }
+                        },
+                        {
+                          "@Num": "10",
+                          "ItemTitle": "十",
+                          "ItemSentence": {
+                            "Sentence": "登録の目的"
+                          }
+                        },
+                        {
+                          "@Num": "11",
+                          "ItemTitle": "十一",
+                          "ItemSentence": {
+                            "Sentence": "登録原因及びその日付"
+                          }
+                        },
+                        {
+                          "@Num": "12",
+                          "ItemTitle": "十二",
+                          "ItemSentence": {
+                            "Sentence": "公共施設等運営権を目的とする抵当権の設定又は移転の登録（根抵当権及び信託の登録を除く。）を申請する場合において、登録名義人となる者が二人以上であるときは、当該登録名義人となる者ごとの持分"
+                          }
+                        },
+                        {
+                          "@Num": "13",
+                          "ItemTitle": "十三",
+                          "ItemSentence": {
+                            "Sentence": "申請人が登録権利者又は登録義務者（登録権利者及び登録義務者がない場合にあっては、登録名義人）でないとき（第四号、次号及び第十五号の場合を除く。）は、登録権利者、登録義務者又は登録名義人の氏名又は名称及び住所"
+                          }
+                        },
+                        {
+                          "@Num": "14",
+                          "ItemTitle": "十四",
+                          "ItemSentence": {
+                            "Sentence": "令第二十五条の規定により登録を申請するときは、申請人が登録権利者、登録義務者又は登録名義人の相続人その他の一般承継人である旨"
+                          }
+                        },
+                        {
+                          "@Num": "15",
+                          "ItemTitle": "十五",
+                          "ItemSentence": {
+                            "Sentence": "前号の場合において、登録名義人となる登録権利者の相続人その他の一般承継人が申請するときは、登録権利者の氏名又は名称及び一般承継の時における住所"
+                          }
+                        },
+                        {
+                          "@Num": "16",
+                          "ItemTitle": "十六",
+                          "ItemSentence": {
+                            "Sentence": "登録の目的である公共施設等運営権等の消滅に関する定め又は共有物分割禁止の定めがあるときは、その定め"
+                          }
+                        },
+                        {
+                          "@Num": "17",
+                          "ItemTitle": "十七",
+                          "ItemSentence": {
+                            "Sentence": "権利の一部を移転する登録を申請するときは、移転する権利の一部"
+                          }
+                        },
+                        {
+                          "@Num": "18",
+                          "ItemTitle": "十八",
+                          "ItemSentence": {
+                            "Sentence": "申請人が令第十七条に規定する申請をする場合において、同条ただし書の規定により、令第十六条に規定する登録済証を提出することができないときは、当該登録済証を提供することができない理由"
+                          }
+                        },
+                        {
+                          "@Num": "19",
+                          "ItemTitle": "十九",
+                          "ItemSentence": {
+                            "Sentence": "添付書面の表示"
+                          }
+                        },
+                        {
+                          "@Num": "20",
+                          "ItemTitle": "二十",
+                          "ItemSentence": {
+                            "Sentence": "申請の年月日"
+                          }
+                        },
+                        {
+                          "@Num": "21",
+                          "ItemTitle": "二十一",
+                          "ItemSentence": {
+                            "Sentence": "登録免許税の額及びこれにつき課税標準の価額があるときはその価額"
+                          }
+                        },
+                        {
+                          "@Num": "22",
+                          "ItemTitle": "二十二",
+                          "ItemSentence": {
+                            "Sentence": "前各号に掲げるもののほか、別表第二の登録欄に掲げる登録を申請するときは、同表の申請書記載事項欄に掲げる事項"
+                          }
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "@Num": "17",
+                    "ArticleCaption": "（申請書の作成及び提供）",
+                    "ArticleTitle": "第十七条",
+                    "Paragraph": {
+                      "@Num": "1",
+                      "ParagraphNum": null,
+                      "ParagraphSentence": {
+                        "Sentence": [
+                          {
+                            "@Function": "main",
+                            "@Num": "1",
+                            "#text": "申請書は、登録の目的及び登録原因に応じ、一の公共施設等運営権ごとに作成して提出しなければならない。"
+                          },
+                          {
+                            "@Function": "proviso",
+                            "@Num": "2",
+                            "#text": "ただし、次に掲げるときは、この限りでない。"
+                          }
+                        ]
+                      },
+                      "Item": [
+                        {
+                          "@Num": "1",
+                          "ItemTitle": "一",
+                          "ItemSentence": {
+                            "Sentence": "二以上の公共施設等運営権について申請する登録の目的並びに登録原因及びその日付が同一であるとき。"
+                          }
+                        },
+                        {
+                          "@Num": "2",
+                          "ItemTitle": "二",
+                          "ItemSentence": {
+                            "Sentence": "同一の公共施設等運営権について申請する二以上の登録が、いずれも公共施設等運営権の表題部の登録事項についての変更の登録又は更正の登録であるとき。"
+                          }
+                        },
+                        {
+                          "@Num": "3",
+                          "ItemTitle": "三",
+                          "ItemSentence": {
+                            "Sentence": "一又は二以上の公共施設等運営権について申請する二以上の登録が、いずれも同一の登録名義人の氏名若しくは名称又は住所についての変更の登録又は更正の登録であるとき。"
+                          }
+                        },
+                        {
+                          "@Num": "4",
+                          "ItemTitle": "四",
+                          "ItemSentence": {
+                            "Sentence": "同一の公共施設等運営権について申請する二以上の登録（前号の登録を除く。）の登録の目的並びに登録原因及びその日付が同一であるとき。"
+                          }
+                        },
+                        {
+                          "@Num": "5",
+                          "ItemTitle": "五",
+                          "ItemSentence": {
+                            "Sentence": "二以上の公共施設等運営権について申請する登録が、同一の債権を担保する抵当権に関する登録であって、登録の目的が同一であるとき。"
+                          }
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "@Num": "18",
+                    "ArticleCaption": "（申請書記載事項の一部の省略）",
+                    "ArticleTitle": "第十八条",
+                    "Paragraph": {
+                      "@Num": "1",
+                      "ParagraphNum": null,
+                      "ParagraphSentence": {
+                        "Sentence": "次に掲げる規定にかかわらず、公共施設等運営権を識別するために必要な事項として第四十二条に規定する番号、記号その他の符号を申請書に記載したときは、当該各号に定める事項を申請書に記載することを要しない。"
+                      },
+                      "Item": [
+                        {
+                          "@Num": "1",
+                          "ItemTitle": "一",
+                          "ItemSentence": {
+                            "Column": [
+                              {
+                                "@Num": "1",
+                                "Sentence": "第十六条第六号"
+                              },
+                              {
+                                "@Num": "2",
+                                "Sentence": "同号に掲げる事項"
+                              }
+                            ]
+                          }
+                        },
+                        {
+                          "@Num": "2",
+                          "ItemTitle": "二",
+                          "ItemSentence": {
+                            "Column": [
+                              {
+                                "@Num": "1",
+                                "Sentence": "第十六条第七号"
+                              },
+                              {
+                                "@Num": "2",
+                                "Sentence": "同号に掲げる事項"
+                              }
+                            ]
+                          }
+                        },
+                        {
+                          "@Num": "3",
+                          "ItemTitle": "三",
+                          "ItemSentence": {
+                            "Column": [
+                              {
+                                "@Num": "1",
+                                "Sentence": "第十六条第八号"
+                              },
+                              {
+                                "@Num": "2",
+                                "Sentence": "同号に掲げる事項"
+                              }
+                            ]
+                          }
+                        },
+                        {
+                          "@Num": "4",
+                          "ItemTitle": "四",
+                          "ItemSentence": {
+                            "Column": [
+                              {
+                                "@Num": "1",
+                                "Sentence": "第十六条第九号"
+                              },
+                              {
+                                "@Num": "2",
+                                "Sentence": "同号に掲げる事項"
+                              }
+                            ]
+                          }
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "@Num": "19",
+                    "ArticleCaption": "（添付書面）",
+                    "ArticleTitle": "第十九条",
+                    "Paragraph": [
+                      {
+                        "@Num": "1",
+                        "ParagraphNum": null,
+                        "ParagraphSentence": {
+                          "Sentence": "令第十三条の申請書には、次に掲げる書面を添付しなければならない。"
+                        },
+                        "Item": [
+                          {
+                            "@Num": "1",
+                            "ItemTitle": "一",
+                            "ItemSentence": {
+                              "Sentence": "申請人が法人であるときは、当該法人の代表者の資格を証する書面"
+                            }
+                          },
+                          {
+                            "@Num": "2",
+                            "ItemTitle": "二",
+                            "ItemSentence": {
+                              "Sentence": "代理人によって登録を申請するときは、当該代理人の権限を証する書面"
+                            }
+                          },
+                          {
+                            "@Num": "3",
+                            "ItemTitle": "三",
+                            "ItemSentence": {
+                              "Sentence": "民法第四百二十三条その他の法令の規定により他人に代わって登録を申請するときは、代位原因を証する書面"
+                            }
+                          },
+                          {
+                            "@Num": "4",
+                            "ItemTitle": "四",
+                            "ItemSentence": {
+                              "Sentence": "令第二十五条の規定により登録を申請するときは、相続その他の一般承継があったことを証する市町村長、登記官その他の公務員が職務上作成した書面（公務員が職務上作成した書面がない場合にあっては、これに代わるべき書面）"
+                            }
+                          },
+                          {
+                            "@Num": "5",
+                            "ItemTitle": "五",
+                            "ItemSentence": {
+                              "Sentence": [
+                                {
+                                  "@Function": "main",
+                                  "@Num": "1",
+                                  "#text": "登録原因を証する書面。"
+                                },
+                                {
+                                  "@Function": "proviso",
+                                  "@Num": "2",
+                                  "#text": "ただし、次のイ又はロに掲げる場合にあっては当該イ又はロに定めるものに限るものとし、別表第二の登録欄に掲げる登録を申請する場合（次のイ又はロに掲げる場合を除く。）にあっては同表の添付書面欄に規定するところによる。"
+                                }
+                              ]
+                            },
+                            "Subitem1": [
+                              {
+                                "@Num": "1",
+                                "Subitem1Title": "イ",
+                                "Subitem1Sentence": {
+                                  "Column": [
+                                    {
+                                      "@Num": "1",
+                                      "Sentence": "令第二十六条第一項に規定する確定判決による登録を申請するとき"
+                                    },
+                                    {
+                                      "@Num": "2",
+                                      "Sentence": "執行力のある確定判決の判決書の正本（執行力のある確定判決と同一の効力を有するものの正本を含む。以下同じ。）"
+                                    }
+                                  ]
+                                }
+                              },
+                              {
+                                "@Num": "2",
+                                "Subitem1Title": "ロ",
+                                "Subitem1Sentence": {
+                                  "Column": [
+                                    {
+                                      "@Num": "1",
+                                      "Sentence": "令第六十条第一項に規定する仮登録を命ずる処分があり、令第五十九条第一項の規定による仮登録を申請するとき"
+                                    },
+                                    {
+                                      "@Num": "2",
+                                      "Sentence": "当該仮登録を命ずる処分の決定書の正本"
+                                    }
+                                  ]
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "@Num": "6",
+                            "ItemTitle": "六",
+                            "ItemSentence": {
+                              "Sentence": "登録原因について第三者の許可、同意又は承諾を要するときは、当該第三者が許可し、同意し、又は承諾したことを証する書面"
+                            }
+                          },
+                          {
+                            "@Num": "7",
+                            "ItemTitle": "七",
+                            "ItemSentence": {
+                              "Sentence": "前各号に掲げるもののほか、別表第二の登録欄に掲げる登録を申請するときは、同表の添付書面欄に掲げる書面"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "@Num": "2",
+                        "ParagraphNum": "２",
+                        "ParagraphSentence": {
+                          "Sentence": "次に掲げる場合には、前項第五号の規定にかかわらず、登録原因を証する書面を提出することを要しない。"
+                        },
+                        "Item": [
+                          {
+                            "@Num": "1",
+                            "ItemTitle": "一",
+                            "ItemSentence": {
+                              "Sentence": "令第六十三条第一項の規定により民事保全法（平成元年法律第九十一号）第五十四条において準用する同法第五十三条第一項の規定による処分禁止の登録（同法第五十四条において準用する同法第五十三条第二項の規定による仮処分による仮登録（以下「保全仮登録」という。）とともにしたものを除く。次号において同じ。）に後れる登録の抹消を申請する場合"
+                            }
+                          },
+                          {
+                            "@Num": "2",
+                            "ItemTitle": "二",
+                            "ItemSentence": {
+                              "Sentence": "令第六十三条第二項において準用する同条第一項の規定により処分禁止の登録に後れる登録の抹消を申請する場合"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@Num": "20",
+                    "ArticleCaption": "（添付書面の省略）",
+                    "ArticleTitle": "第二十条",
+                    "Paragraph": [
+                      {
+                        "@Num": "1",
+                        "ParagraphNum": null,
+                        "ParagraphSentence": {
+                          "Sentence": "同時に二以上の申請をする場合において、各申請に共通する添付書面があるときは、当該添付書面は、一の申請の申請書と併せて提供することで足りる。"
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "ParagraphNum": "２",
+                        "ParagraphSentence": {
+                          "Sentence": "前項の場合においては、当該添付書面を当該一の申請の申請書と併せて提出した旨を他の申請の申請書の内容としなければならない。"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Num": "21",
+                    "ArticleCaption": "（申請の却下）",
+                    "ArticleTitle": "第二十一条",
+                    "Paragraph": [
+                      {
+                        "@Num": "1",
+                        "ParagraphNum": null,
+                        "ParagraphSentence": {
+                          "Sentence": [
+                            {
+                              "@Function": "main",
+                              "@Num": "1",
+                              "#text": "内閣総理大臣は、申請を却下するときは、決定書を作成して、これを申請人ごとに交付するものとする。"
+                            },
+                            {
+                              "@Function": "proviso",
+                              "@Num": "2",
+                              "#text": "ただし、代理人によって申請がされた場合は、当該代理人に交付すれば足りる。"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "ParagraphNum": "２",
+                        "ParagraphSentence": {
+                          "Sentence": "前項の交付は、当該決定書を送付する方法によりすることができる。"
+                        }
+                      },
+                      {
+                        "@Num": "3",
+                        "ParagraphNum": "３",
+                        "ParagraphSentence": {
+                          "Sentence": [
+                            {
+                              "@Function": "main",
+                              "@Num": "1",
+                              "#text": "内閣総理大臣は、申請を却下したときは、添付書面を還付するものとする。"
+                            },
+                            {
+                              "@Function": "proviso",
+                              "@Num": "2",
+                              "#text": "ただし、偽造された書面その他の不正な登録の申請のために用いられた疑いがある書面については、この限りでない。"
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Num": "22",
+                    "ArticleCaption": "（申請の取下げ）",
+                    "ArticleTitle": "第二十二条",
+                    "Paragraph": [
+                      {
+                        "@Num": "1",
+                        "ParagraphNum": null,
+                        "ParagraphSentence": {
+                          "Sentence": "申請の取下げは、申請を取り下げる旨を記載した書面を内閣総理大臣に提出する方法によってしなければならない。"
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "ParagraphNum": "２",
+                        "ParagraphSentence": {
+                          "Sentence": "申請の取下げは、登録完了後は、することができない。"
+                        }
+                      },
+                      {
+                        "@Num": "3",
+                        "ParagraphNum": "３",
+                        "ParagraphSentence": {
+                          "Sentence": [
+                            {
+                              "@Num": "1",
+                              "#text": "内閣総理大臣は、申請の取下げがされたときは、申請書及びその添付書面を還付するものとする。"
+                            },
+                            {
+                              "@Num": "2",
+                              "#text": "前条第三項ただし書の規定は、この場合について準用する。"
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "@Num": "2",
+                "SectionTitle": "第二節　登録申請の手続",
+                "Subsection": [
+                  {
+                    "@Num": "1",
+                    "SubsectionTitle": "第一款　申請",
+                    "Article": [
+                      {
+                        "@Num": "23",
+                        "ArticleCaption": "（契印等）",
+                        "ArticleTitle": "第二十三条",
+                        "Paragraph": [
+                          {
+                            "@Num": "1",
+                            "ParagraphNum": null,
+                            "ParagraphSentence": {
+                              "Sentence": "申請人又はその代表者若しくは代理人は、申請書が二枚以上であるときは、各用紙のつづり目に契印をしなければならない。"
+                            }
+                          },
+                          {
+                            "@Num": "2",
+                            "ParagraphNum": "２",
+                            "ParagraphSentence": {
+                              "Sentence": [
+                                {
+                                  "@Function": "main",
+                                  "@Num": "1",
+                                  "#text": "前項の契印は、申請人又はその代表者若しくは代理人が二人以上ある場合は、その一人がすれば足りる。"
+                                },
+                                {
+                                  "@Function": "proviso",
+                                  "@Num": "2",
+                                  "#text": "ただし、登録権利者及び登録義務者が共同して登録の申請をするときは、登録権利者又はその代表者若しくはその代理人及び登録義務者又はその代表者若しくはその代理人の各一人がしなければならない。"
+                                }
+                              ]
+                            }
+                          },
+                          {
+                            "@Num": "3",
+                            "ParagraphNum": "３",
+                            "ParagraphSentence": {
+                              "Sentence": [
+                                {
+                                  "@Num": "1",
+                                  "#text": "別表第二の二十二の項添付書面欄に掲げる信託目録に記録すべき事項を記載した書面が二枚以上であるときは、申請人又はその代表者若しくは代理人は、各用紙に当該用紙が何枚目であるかを記載し、各用紙のつづり目に契印をしなければならない。"
+                                },
+                                {
+                                  "@Num": "2",
+                                  "#text": "この場合においては、前項の規定を準用する。"
+                                }
+                              ]
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "@Num": "24",
+                        "ArticleCaption": "（申請書への記名押印等）",
+                        "ArticleTitle": "第二十四条",
+                        "Paragraph": [
+                          {
+                            "@Num": "1",
+                            "ParagraphNum": null,
+                            "ParagraphSentence": {
+                              "Sentence": "申請人又はその代表者若しくは代理人は、委任による代理人が申請書に署名した場合を除き、申請書に記名押印しなければならない。"
+                            }
+                          },
+                          {
+                            "@Num": "2",
+                            "ParagraphNum": "２",
+                            "ParagraphSentence": {
+                              "Sentence": "前項の場合において、申請書には、同項の規定により記名押印した者（委任による代理人を除く。）の印鑑に関する証明書（住所地の市町村長（特別区の区長を含むものとし、地方自治法（昭和二十二年法律第六十七号）第二百五十二条の十九第一項の指定都市にあっては、市長又は区長若しくは総合区長とする。次条第一項において同じ。）又は登記官が作成するものに限る。以下同じ。）を添付しなければならない。"
+                            }
+                          },
+                          {
+                            "@Num": "3",
+                            "ParagraphNum": "３",
+                            "ParagraphSentence": {
+                              "Sentence": "前項の印鑑に関する証明書は、作成後三月以内のものでなければならない。"
+                            }
+                          },
+                          {
+                            "@Num": "4",
+                            "ParagraphNum": "４",
+                            "ParagraphSentence": {
+                              "Sentence": "官庁又は公署が登録の嘱託をする場合における嘱託書については、第二項の規定は、適用しない。"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "@Num": "25",
+                        "ArticleCaption": "（代表者の資格を証する書面の期間制限等）",
+                        "ArticleTitle": "第二十五条",
+                        "Paragraph": [
+                          {
+                            "@Num": "1",
+                            "ParagraphNum": null,
+                            "ParagraphSentence": {
+                              "Sentence": "第十九条第一項第一号又は第二号に掲げる事項を記載した書面であって、市町村長、登記官その他の公務員が職務上作成したものは、作成後三月以内のものでなければならない。"
+                            }
+                          },
+                          {
+                            "@Num": "2",
+                            "ParagraphNum": "２",
+                            "ParagraphSentence": {
+                              "Sentence": "前項の規定は、官庁又は公署が登録の嘱託をする場合には、適用しない。"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "@Num": "26",
+                        "ArticleCaption": "（代理人の権限を証する書面への記名押印等）",
+                        "ArticleTitle": "第二十六条",
+                        "Paragraph": [
+                          {
+                            "@Num": "1",
+                            "ParagraphNum": null,
+                            "ParagraphSentence": {
+                              "Sentence": [
+                                {
+                                  "@Num": "1",
+                                  "#text": "委任による代理人によって登録を申請する場合には、申請人又はその代表者は、当該代理人の権限を証する書面に記名押印しなければならない。"
+                                },
+                                {
+                                  "@Num": "2",
+                                  "#text": "復代理人によって申請する場合における代理人についても、同様とする。"
+                                }
+                              ]
+                            }
+                          },
+                          {
+                            "@Num": "2",
+                            "ParagraphNum": "２",
+                            "ParagraphSentence": {
+                              "Sentence": "前項の場合において、代理人（復代理人を含む。）の権限を証する書面には、同項の規定により記名押印した者（委任による代理人を除く。）の印鑑に関する証明書を添付しなければならない。"
+                            }
+                          },
+                          {
+                            "@Num": "3",
+                            "ParagraphNum": "３",
+                            "ParagraphSentence": {
+                              "Sentence": "前項の印鑑に関する証明書は、作成後三月以内のものでなければならない。"
+                            }
+                          },
+                          {
+                            "@Num": "4",
+                            "ParagraphNum": "４",
+                            "ParagraphSentence": {
+                              "Sentence": "第二項の規定は、官庁又は公署が登録の嘱託をする場合には、適用しない。"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "@Num": "27",
+                        "ArticleCaption": "（承諾を証する書面への記名押印等）",
+                        "ArticleTitle": "第二十七条",
+                        "Paragraph": [
+                          {
+                            "@Num": "1",
+                            "ParagraphNum": null,
+                            "ParagraphSentence": {
+                              "Sentence": "第十九条第一項第六号又は第七号の規定により申請書と併せて提供しなければならない同意又は承諾を証する書面には、その作成者が記名押印しなければならない。"
+                            }
+                          },
+                          {
+                            "@Num": "2",
+                            "ParagraphNum": "２",
+                            "ParagraphSentence": {
+                              "Sentence": "前項の書面には、官庁又は公署の作成に係る場合を除き、同項の規定により記名押印した者の印鑑に関する証明書を添付しなければならない。"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "@Num": "28",
+                        "ArticleCaption": "（申請書等の送付方法）",
+                        "ArticleTitle": "第二十八条",
+                        "Paragraph": [
+                          {
+                            "@Num": "1",
+                            "ParagraphNum": null,
+                            "ParagraphSentence": {
+                              "Sentence": "登録の申請をしようとする者が申請書及びその添付書面を送付するときは、書留郵便又は民間事業者による信書の送達に関する法律（平成十四年法律第九十九号）第二条第六項に規定する一般信書便事業者若しくは同条第九項に規定する特定信書便事業者（以下「信書便事業者」と総称する。）による同条第二項に規定する信書便（以下「信書便」という。）の役務であって当該信書便事業者において引受け及び配達の記録を行うものによるものとする。"
+                            }
+                          },
+                          {
+                            "@Num": "2",
+                            "ParagraphNum": "２",
+                            "ParagraphSentence": {
+                              "Sentence": "前項の場合には、申請書及びその添付書面を入れた封筒の表面に公共施設等運営権登録申請書が在中する旨を明記するものとする。"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "@Num": "29",
+                        "ArticleCaption": "（受領証の交付の請求）",
+                        "ArticleTitle": "第二十九条",
+                        "Paragraph": [
+                          {
+                            "@Num": "1",
+                            "ParagraphNum": null,
+                            "ParagraphSentence": {
+                              "Sentence": "書面申請をした申請人は、申請に係る登録が完了するまでの間、申請書及びその添付書面の受領証の交付を請求することができる。"
+                            }
+                          },
+                          {
+                            "@Num": "2",
+                            "ParagraphNum": "２",
+                            "ParagraphSentence": {
+                              "Sentence": [
+                                {
+                                  "@Function": "main",
+                                  "@Num": "1",
+                                  "#text": "前項の規定により受領証の交付を請求する申請人は、申請書の内容と同一の内容を記載した書面を提出しなければならない。"
+                                },
+                                {
+                                  "@Function": "proviso",
+                                  "@Num": "2",
+                                  "#text": "ただし、当該書面の申請人の記載については、申請人が二人以上あるときは、申請書の筆頭に記載した者の氏名又は名称及びその他の申請人の人数を記載すれば足りる。"
+                                }
+                              ]
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@Num": "2",
+                    "SubsectionTitle": "第二款　受付等",
+                    "Article": [
+                      {
+                        "@Num": "30",
+                        "ArticleCaption": "（申請の受付）",
+                        "ArticleTitle": "第三十条",
+                        "Paragraph": [
+                          {
+                            "@Num": "1",
+                            "ParagraphNum": null,
+                            "ParagraphSentence": {
+                              "Sentence": "内閣総理大臣は、申請書が提出されたときは、受付帳に登録の目的、申請の受付の年月日及び受付番号を記録しなければならない。"
+                            }
+                          },
+                          {
+                            "@Num": "2",
+                            "ParagraphNum": "２",
+                            "ParagraphSentence": {
+                              "Sentence": "内閣総理大臣は、前項の規定により受付をする際、申請書（申請書記載事項の全部を記録した磁気ディスクにあっては、適宜の用紙）に申請の受付の年月日及び受付番号を記載しなければならない。"
+                            }
+                          },
+                          {
+                            "@Num": "3",
+                            "ParagraphNum": "３",
+                            "ParagraphSentence": {
+                              "Sentence": "第一項及び第二項の規定は、令第三十三条の規定により登録の抹消をしようとする場合について準用する。"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "@Num": "31",
+                        "ArticleCaption": "（調査）",
+                        "ArticleTitle": "第三十一条",
+                        "Paragraph": {
+                          "@Num": "1",
+                          "ParagraphNum": null,
+                          "ParagraphSentence": {
+                            "Sentence": "内閣総理大臣は、申請書が提出されたときは、遅滞なく、申請に関するすべての事項を調査しなければならない。"
+                          }
+                        }
+                      },
+                      {
+                        "@Num": "32",
+                        "ArticleCaption": "（登録の順序）",
+                        "ArticleTitle": "第三十二条",
+                        "Paragraph": {
+                          "@Num": "1",
+                          "ParagraphNum": null,
+                          "ParagraphSentence": {
+                            "Sentence": "内閣総理大臣は、令第十五条に規定する場合以外の場合においても、受付番号の順序に従って登録するものとする。"
+                          }
+                        }
+                      },
+                      {
+                        "@Num": "33",
+                        "ArticleCaption": "（内閣総理大臣による本人確認）",
+                        "ArticleTitle": "第三十三条",
+                        "Paragraph": {
+                          "@Num": "1",
+                          "ParagraphNum": null,
+                          "ParagraphSentence": {
+                            "Sentence": "内閣総理大臣は、令第十九条の規定により申請人の申請の権限の有無を調査したときは、その調査の結果を記録した調書を作成しなければならない。"
+                          }
+                        }
+                      },
+                      {
+                        "@Num": "34",
+                        "ArticleCaption": "（補正）",
+                        "ArticleTitle": "第三十四条",
+                        "Paragraph": [
+                          {
+                            "@Num": "1",
+                            "ParagraphNum": null,
+                            "ParagraphSentence": {
+                              "Sentence": "内閣総理大臣は、申請の補正をすることができる期間を定めたときは、当該期間内は、当該補正すべき事項に係る不備を理由に当該申請を却下することができない。"
+                            }
+                          },
+                          {
+                            "@Num": "2",
+                            "ParagraphNum": "２",
+                            "ParagraphSentence": {
+                              "Sentence": "申請の補正は、内閣総理大臣に提出した書面を補正し、又は補正に係る書面を内閣総理大臣に提出する方法によってしなければならない。"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@Num": "3",
+                    "SubsectionTitle": "第三款　登録済証",
+                    "Article": {
+                      "@Num": "35",
+                      "ArticleCaption": "（登録済証の様式）",
+                      "ArticleTitle": "第三十五条",
+                      "Paragraph": {
+                        "@Num": "1",
+                        "ParagraphNum": null,
+                        "ParagraphSentence": {
+                          "Sentence": "令第十六条の登録済証の交付は、別記第一号様式により行うものとする。"
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "@Num": "4",
+                    "SubsectionTitle": "第四款　登録名義人が登録済証を提出しなければならない登録等",
+                    "Article": {
+                      "@Num": "36",
+                      "ArticleCaption": "（登録名義人が登録済証を提出しなければならない登録等）",
+                      "ArticleTitle": "第三十六条",
+                      "Paragraph": {
+                        "@Num": "1",
+                        "ParagraphNum": null,
+                        "ParagraphSentence": {
+                          "Sentence": [
+                            {
+                              "@Function": "main",
+                              "@Num": "1",
+                              "#text": "令第十七条に規定する内閣府令で定める登録は、次のとおりとする。"
+                            },
+                            {
+                              "@Function": "proviso",
+                              "@Num": "2",
+                              "#text": "ただし、確定判決による登録を除く。"
+                            }
+                          ]
+                        },
+                        "Item": [
+                          {
+                            "@Num": "1",
+                            "ItemTitle": "一",
+                            "ItemSentence": {
+                              "Sentence": "共有物分割禁止の定めに係る権利の変更の登録"
+                            }
+                          },
+                          {
+                            "@Num": "2",
+                            "ItemTitle": "二",
+                            "ItemSentence": {
+                              "Sentence": "抵当権の順位の変更の登録"
+                            }
+                          },
+                          {
+                            "@Num": "3",
+                            "ItemTitle": "三",
+                            "ItemSentence": {
+                              "Sentence": "民法第三百九十八条の十四第一項ただし書の定めの登録"
+                            }
+                          },
+                          {
+                            "@Num": "4",
+                            "ItemTitle": "四",
+                            "ItemSentence": {
+                              "Sentence": "信託法（平成十八年法律第百八号）第三条第三号に掲げる方法によってされた信託による権利の変更の登録"
+                            }
+                          },
+                          {
+                            "@Num": "5",
+                            "ItemTitle": "五",
+                            "ItemSentence": {
+                              "Sentence": "仮登録の登録名義人が単独で申請する仮登録の抹消"
+                            }
+                          }
+                        ]
+                      }
+                    }
+                  },
+                  {
+                    "@Num": "5",
+                    "SubsectionTitle": "第五款　登録済証の提出がない場合の手続",
+                    "Article": [
+                      {
+                        "@Num": "37",
+                        "ArticleCaption": "（事前通知）",
+                        "ArticleTitle": "第三十七条",
+                        "Paragraph": [
+                          {
+                            "@Num": "1",
+                            "ParagraphNum": null,
+                            "ParagraphSentence": {
+                              "Sentence": "令第十八条第一項の通知は、書面を送付してするものとする。"
+                            }
+                          },
+                          {
+                            "@Num": "2",
+                            "ParagraphNum": "２",
+                            "ParagraphSentence": {
+                              "Sentence": "令第十八条第一項の申出は、令第十七条の登録義務者が、第一項の書面に通知に係る申請の内容が真実である旨を記載し、これに記名し、申請書又は委任状に押印したものと同一の印を用いて当該書面に押印した上、内閣総理大臣に提出する方法によりしなければならない。"
+                            }
+                          },
+                          {
+                            "@Num": "3",
+                            "ParagraphNum": "３",
+                            "ParagraphSentence": {
+                              "Sentence": [
+                                {
+                                  "@Function": "main",
+                                  "@Num": "1",
+                                  "#text": "令第十八条第一項の内閣府令で定める期間は、通知を発送した日から二週間とする。"
+                                },
+                                {
+                                  "@Function": "proviso",
+                                  "@Num": "2",
+                                  "#text": "ただし、令第十七条の登録義務者が外国に住所を有する場合には、四週間とする。"
+                                }
+                              ]
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "@Num": "38",
+                        "ArticleCaption": "（前の住所地への通知）",
+                        "ArticleTitle": "第三十八条",
+                        "Paragraph": [
+                          {
+                            "@Num": "1",
+                            "ParagraphNum": null,
+                            "ParagraphSentence": {
+                              "Sentence": "令第十八条第二項の通知は、転送を要しない郵便物として書面を送付する方法又はこれに準ずる方法により送付するものとする。"
+                            }
+                          },
+                          {
+                            "@Num": "2",
+                            "ParagraphNum": "２",
+                            "ParagraphSentence": {
+                              "Sentence": "令第十八条第二項の内閣府令で定める場合は、次に掲げる場合とする。"
+                            },
+                            "Item": [
+                              {
+                                "@Num": "1",
+                                "ItemTitle": "一",
+                                "ItemSentence": {
+                                  "Sentence": "令第十八条第二項の登録義務者の住所についての変更の登録（更正の登録を含む。以下この項において同じ。）の登録原因が、行政区画若しくはその名称又は字若しくはその名称についての変更又は錯誤若しくは遺漏である場合"
+                                }
+                              },
+                              {
+                                "@Num": "2",
+                                "ItemTitle": "二",
+                                "ItemSentence": {
+                                  "Sentence": "令第十八条第二項の登録の申請の日が、同項の登録義務者の住所についてされた最後の変更の登録の申請に係る受付の日から三月を経過している場合"
+                                }
+                              },
+                              {
+                                "@Num": "3",
+                                "ItemTitle": "三",
+                                "ItemSentence": {
+                                  "Sentence": "令第十八条第二項の登録義務者が法人である場合"
+                                }
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@Num": "6",
+                    "SubsectionTitle": "第六款　公共施設等立地図",
+                    "Article": [
+                      {
+                        "@Num": "39",
+                        "ArticleCaption": "（公共施設等立地図の内容）",
+                        "ArticleTitle": "第三十九条",
+                        "Paragraph": {
+                          "@Num": "1",
+                          "ParagraphNum": null,
+                          "ParagraphSentence": {
+                            "Sentence": "公共施設等立地図は、公共施設等運営権に係る公共施設等の所在する場所を明確にするものでなければならない。"
+                          }
+                        }
+                      },
+                      {
+                        "@Num": "40",
+                        "ArticleCaption": "（行政区画の変更等）",
+                        "ArticleTitle": "第四十条",
+                        "Paragraph": {
+                          "@Num": "1",
+                          "ParagraphNum": null,
+                          "ParagraphSentence": {
+                            "Sentence": [
+                              {
+                                "@Num": "1",
+                                "#text": "第四十四条の規定は、公共施設等立地図について準用する。"
+                              },
+                              {
+                                "@Num": "2",
+                                "#text": "この場合において、同条第一項中「変更の登録」とあるのは「変更」と、同条第二項中「表題部」とあるのは「公共施設等立地図」と読み替えるものとする。"
+                              }
+                            ]
+                          }
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Num": "7",
+                    "SubsectionTitle": "第七款　登録すべきものでないとき",
+                    "Article": {
+                      "@Num": "41",
+                      "ArticleCaption": "（登録すべきものでないとき）",
+                      "ArticleTitle": "第四十一条",
+                      "Paragraph": {
+                        "@Num": "1",
+                        "ParagraphNum": null,
+                        "ParagraphSentence": {
+                          "Sentence": "令第二十条第十一号の内閣府令で定める登録すべきものでないときは、次のとおりとする。"
+                        },
+                        "Item": [
+                          {
+                            "@Num": "1",
+                            "ItemTitle": "一",
+                            "ItemSentence": {
+                              "Sentence": "申請が公共施設等運営権等以外のものについての登録を目的とするとき。"
+                            }
+                          },
+                          {
+                            "@Num": "2",
+                            "ItemTitle": "二",
+                            "ItemSentence": {
+                              "Sentence": "申請に係る登録をすることによって登録名義人となる者（第十六条第十五号に規定する登録権利者を除く。）が権利能力を有しないとき。"
+                            }
+                          },
+                          {
+                            "@Num": "3",
+                            "ItemTitle": "三",
+                            "ItemSentence": {
+                              "Sentence": "申請が令第四十五条の規定により登録することができないとき。"
+                            }
+                          },
+                          {
+                            "@Num": "4",
+                            "ItemTitle": "四",
+                            "ItemSentence": {
+                              "Sentence": "申請に係る登録の目的である権利が他の権利の全部又は一部を目的とする場合において、当該他の権利の全部又は一部が登録されていないとき。"
+                            }
+                          },
+                          {
+                            "@Num": "5",
+                            "ItemTitle": "五",
+                            "ItemSentence": {
+                              "Sentence": "同一の公共施設等運営権に関し同時に二以上の申請がされた場合（令第十四条第二項の規定により同時にされたものとみなされるときを含む。）において、申請に係る登録の目的である権利が相互に矛盾するとき。"
+                            }
+                          },
+                          {
+                            "@Num": "6",
+                            "ItemTitle": "六",
+                            "ItemSentence": {
+                              "Sentence": "申請に係る登録の目的である権利が同一の公共施設等運営権について既にされた登録の目的である権利と矛盾するとき。"
+                            }
+                          },
+                          {
+                            "@Num": "7",
+                            "ItemTitle": "七",
+                            "ItemSentence": {
+                              "Sentence": "前各号に掲げるもののほか、申請に係る登録が民法その他の法令の規定により無効とされることが申請書若しくは添付書面又は登録記録から明らかであるとき。"
+                            }
+                          }
+                        ]
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "@Num": "3",
+                "SectionTitle": "第三節　表題部の登録事項",
+                "Article": [
+                  {
+                    "@Num": "42",
+                    "ArticleCaption": "（公共施設等運営権番号）",
+                    "ArticleTitle": "第四十二条",
+                    "Paragraph": {
+                      "@Num": "1",
+                      "ParagraphNum": null,
+                      "ParagraphSentence": {
+                        "Sentence": "内閣総理大臣は、令第二十二条第一項第八号の公共施設等運営権を識別するために必要な事項として、一の公共施設等運営権ごとに番号、記号その他の符号を記録することができる。"
+                      }
+                    }
+                  },
+                  {
+                    "@Num": "43",
+                    "ArticleCaption": "（表題部の変更の登録又は更正の登録）",
+                    "ArticleTitle": "第四十三条",
+                    "Paragraph": {
+                      "@Num": "1",
+                      "ParagraphNum": null,
+                      "ParagraphSentence": {
+                        "Sentence": "内閣総理大臣は、表題部の登録事項についての変更の登録又は更正の登録をするときは、変更前又は更正前の事項を抹消する記号を記録しなければならない。"
+                      }
+                    }
+                  },
+                  {
+                    "@Num": "44",
+                    "ArticleCaption": "（行政区画の変更等）",
+                    "ArticleTitle": "第四十四条",
+                    "Paragraph": [
+                      {
+                        "@Num": "1",
+                        "ParagraphNum": null,
+                        "ParagraphSentence": {
+                          "Sentence": [
+                            {
+                              "@Num": "1",
+                              "#text": "行政区画又はその名称の変更があった場合には、登録記録に記録した行政区画又はその名称について変更の登録があったものとみなす。"
+                            },
+                            {
+                              "@Num": "2",
+                              "#text": "字又はその名称に変更があったときも、同様とする。"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "ParagraphNum": "２",
+                        "ParagraphSentence": {
+                          "Sentence": "内閣総理大臣は、前項の場合には、速やかに、表題部に記録した行政区画若しくは字又はこれらの名称を変更しなければならない。"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Num": "45",
+                    "ArticleCaption": "（公共施設等運営権の抹消等の登録）",
+                    "ArticleTitle": "第四十五条",
+                    "Paragraph": {
+                      "@Num": "1",
+                      "ParagraphNum": null,
+                      "ParagraphSentence": {
+                        "Sentence": "内閣総理大臣は、令第三十七条又は令第三十八条第一項に基づく公共施設等運営権の抹消の登録をするときは、当該公共施設等運営権の登録記録の表題部の登録事項を抹消する記号を記録し、当該登録記録を閉鎖しなければならない。"
+                      }
+                    }
+                  },
+                  {
+                    "@Num": "46",
+                    "ArticleTitle": "第四十六条",
+                    "Paragraph": [
+                      {
+                        "@Num": "1",
+                        "ParagraphNum": null,
+                        "ParagraphSentence": {
+                          "Sentence": "内閣総理大臣は、前条の場合において、抹消された公共施設等運営権が他の公共施設等運営権と共に抵当権の目的であったとき（その旨が登録記録に記録されている場合に限る。）は、当該他の公共施設等運営権の登録記録の乙区に、抹消された公共施設等運営権に係る令第二十二条第一項第一号に掲げる公共施設等の名称及び立地、同項第二号に掲げる公共施設等の運営等の内容並びに抹消の原因及び当該公共施設等運営権が抹消されたことを記録し、かつ、当該抹消された公共施設等運営権が当該他の公共施設等運営権と共に権利の目的である旨の記録における当該抹消された公共施設等運営権に係る同項第一号に掲げる公共施設等の名称及び立地並びに同項第二号に掲げる公共施設等の運営等の内容を抹消する記号を記録しなければならない。"
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "ParagraphNum": "２",
+                        "ParagraphSentence": {
+                          "Sentence": "内閣総理大臣は、抹消された公共施設等運営権が他の公共施設等運営権と共に抵当権の目的であったときは、前項の規定による記録（抹消された公共施設等運営権に係る令第二十二条第一項第一号に掲げる公共施設等の名称及び立地並びに同項第二号に掲げる公共施設等の運営等の内容の記録を除く。）は、共同担保目録にしなければならない。"
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "@Num": "4",
+                "SectionTitle": "第四節　権利部の登録事項",
+                "Subsection": [
+                  {
+                    "@Num": "1",
+                    "SubsectionTitle": "第一款　通則",
+                    "Article": [
+                      {
+                        "@Num": "47",
+                        "ArticleCaption": "（順位番号等）",
+                        "ArticleTitle": "第四十七条",
+                        "Paragraph": [
+                          {
+                            "@Num": "1",
+                            "ParagraphNum": null,
+                            "ParagraphSentence": {
+                              "Sentence": "内閣総理大臣は、公共施設等運営権等に関する登録をするときは、権利部の相当区に登録事項を記録した順序を示す番号を記録しなければならない。"
+                            }
+                          },
+                          {
+                            "@Num": "2",
+                            "ParagraphNum": "２",
+                            "ParagraphSentence": {
+                              "Sentence": "内閣総理大臣は、同順位である二以上の公共施設等運営権等を目的とする抵当権に関する登録をするときは、順位番号に当該登録を識別するための符号を付さなければならない。"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "@Num": "48",
+                        "ArticleCaption": "（付記登録の順位番号）",
+                        "ArticleTitle": "第四十八条",
+                        "Paragraph": {
+                          "@Num": "1",
+                          "ParagraphNum": null,
+                          "ParagraphSentence": {
+                            "Sentence": "付記登録の順位番号を記録するときは、主登録の順位番号に付記何号を付加する方法により記録するものとする。"
+                          }
+                        }
+                      },
+                      {
+                        "@Num": "49",
+                        "ArticleCaption": "（公共施設等運営権等の消滅に関する定めの登録）",
+                        "ArticleTitle": "第四十九条",
+                        "Paragraph": {
+                          "@Num": "1",
+                          "ParagraphNum": null,
+                          "ParagraphSentence": {
+                            "Sentence": "内閣総理大臣は、登録の目的である公共施設等運営権等の消滅に関する定めの登録をした場合において、当該定めにより公共施設等運営権等が消滅したことによる登録の抹消その他の登録をするときは、当該公共施設等運営権等の消滅に関する定めの登録の抹消をしなければならない。"
+                          }
+                        }
+                      },
+                      {
+                        "@Num": "50",
+                        "ArticleCaption": "（公共施設等運営権等の変更の登録又は更正の登録）",
+                        "ArticleTitle": "第五十条",
+                        "Paragraph": {
+                          "@Num": "1",
+                          "ParagraphNum": null,
+                          "ParagraphSentence": {
+                            "Sentence": "内閣総理大臣は、公共施設等運営権等の変更の登録又は更正の登録をするときは、変更前又は更正前の事項を抹消する記号を記録しなければならない。"
+                          }
+                        }
+                      },
+                      {
+                        "@Num": "51",
+                        "ArticleCaption": "（登録の抹消）",
+                        "ArticleTitle": "第五十一条",
+                        "Paragraph": [
+                          {
+                            "@Num": "1",
+                            "ParagraphNum": null,
+                            "ParagraphSentence": {
+                              "Sentence": "内閣総理大臣は、公共施設等運営権等の登録の抹消をするときは、抹消の登録をするとともに、抹消すべき登録を抹消する記号を記録しなければならない。"
+                            }
+                          },
+                          {
+                            "@Num": "2",
+                            "ParagraphNum": "２",
+                            "ParagraphSentence": {
+                              "Sentence": [
+                                {
+                                  "@Num": "1",
+                                  "#text": "内閣総理大臣は、前項の場合において、抹消に係る公共施設等運営権等を目的とする第三者の権利に関する登録があるときは、当該第三者の権利に関する登録の抹消をしなければならない。"
+                                },
+                                {
+                                  "@Num": "2",
+                                  "#text": "この場合には、当該公共施設等運営権等の登録の抹消をしたことにより当該第三者の権利に関する登録の抹消をする旨及び登録の年月日を記録しなければならない。"
+                                }
+                              ]
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "@Num": "52",
+                        "ArticleCaption": "（職権による登録の抹消）",
+                        "ArticleTitle": "第五十二条",
+                        "Paragraph": {
+                          "@Num": "1",
+                          "ParagraphNum": null,
+                          "ParagraphSentence": {
+                            "Sentence": "内閣総理大臣は、令第三十三条第四項の規定により登録の抹消をするときは、登録記録にその事由を記録しなければならない。"
+                          }
+                        }
+                      },
+                      {
+                        "@Num": "53",
+                        "ArticleCaption": "（職権による登録の抹消の場合の公告の方法）",
+                        "ArticleTitle": "第五十三条",
+                        "Paragraph": {
+                          "@Num": "1",
+                          "ParagraphNum": null,
+                          "ParagraphSentence": {
+                            "Sentence": "令第三十三条第二項の公告は、内閣府の掲示板への掲示、インターネットを利用して公衆の閲覧に供する方法その他の方法により二週間行うものとする。"
+                          }
+                        }
+                      },
+                      {
+                        "@Num": "54",
+                        "ArticleCaption": "（抹消された登録の回復）",
+                        "ArticleTitle": "第五十四条",
+                        "Paragraph": {
+                          "@Num": "1",
+                          "ParagraphNum": null,
+                          "ParagraphSentence": {
+                            "Sentence": "内閣総理大臣は、抹消された登録の回復をするときは、回復の登録をした後、抹消に係る登録と同一の登録をしなければならない。"
+                          }
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Num": "2",
+                    "SubsectionTitle": "第二款　抵当権に関する登録",
+                    "Article": [
+                      {
+                        "@Num": "55",
+                        "ArticleCaption": "（順位の譲渡又は放棄による変更の登録）",
+                        "ArticleTitle": "第五十五条",
+                        "Paragraph": {
+                          "@Num": "1",
+                          "ParagraphNum": null,
+                          "ParagraphSentence": {
+                            "Sentence": "内閣総理大臣は、登録した抵当権について順位の譲渡又は放棄による変更の登録をするときは、当該抵当権の登録の順位番号の次に変更の登録の順位番号を括弧を付して記録しなければならない。"
+                          }
+                        }
+                      },
+                      {
+                        "@Num": "56",
+                        "ArticleCaption": "（抵当権の順位の変更の登録）",
+                        "ArticleTitle": "第五十六条",
+                        "Paragraph": {
+                          "@Num": "1",
+                          "ParagraphNum": null,
+                          "ParagraphSentence": {
+                            "Sentence": "内閣総理大臣は、抵当権の順位の変更の登録をするときは、順位の変更があった抵当権の登録の順位番号の次に変更の登録の順位番号を括弧を付して記録しなければならない。"
+                          }
+                        }
+                      },
+                      {
+                        "@Num": "57",
+                        "ArticleCaption": "（根抵当権等の分割譲渡の登録）",
+                        "ArticleTitle": "第五十七条",
+                        "Paragraph": [
+                          {
+                            "@Num": "1",
+                            "ParagraphNum": null,
+                            "ParagraphSentence": {
+                              "Sentence": "第三条第五号の規定にかかわらず、民法第三百九十八条の十二第二項の規定により根抵当権（公共施設等運営権を目的とする抵当権を目的とするものを除く。）を分割して譲り渡す場合の登録は、主登録によってするものとする。"
+                            }
+                          },
+                          {
+                            "@Num": "2",
+                            "ParagraphNum": "２",
+                            "ParagraphSentence": {
+                              "Sentence": "内閣総理大臣は、民法第三百九十八条の十二第二項の規定により根抵当権を分割して譲り渡す場合の登録の順位番号を記録するときは、分割前の根抵当権の登録の順位番号を用いなければならない。"
+                            }
+                          },
+                          {
+                            "@Num": "3",
+                            "ParagraphNum": "３",
+                            "ParagraphSentence": {
+                              "Sentence": "内閣総理大臣は、前項の規定により順位番号を記録したときは、当該順位番号及び分割前の根抵当権の登録の順位番号にそれぞれ第四十七条第二項の符号を付さなければならない。"
+                            }
+                          },
+                          {
+                            "@Num": "4",
+                            "ParagraphNum": "４",
+                            "ParagraphSentence": {
+                              "Sentence": "内閣総理大臣は、第二項の登録をしたときは、職権で、分割前の根抵当権について極度額の減額による根抵当権の変更の登録をし、これに根抵当権を分割して譲り渡すことにより登録する旨及び登録の年月日を記録しなければならない。"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "@Num": "58",
+                        "ArticleCaption": "（共同担保目録の作成）",
+                        "ArticleTitle": "第五十八条",
+                        "Paragraph": [
+                          {
+                            "@Num": "1",
+                            "ParagraphNum": null,
+                            "ParagraphSentence": {
+                              "Sentence": "内閣総理大臣は、二以上の公共施設等運営権を目的とする抵当権の設定の登録の申請があった場合において、当該申請に基づく登録をするとき（第六十条第一項に規定する場合を除く。）は、次条に定めるところにより共同担保目録を作成し、当該抵当権の登録の末尾に共同担保目録の記号及び目録番号を記録しなければならない。"
+                            }
+                          },
+                          {
+                            "@Num": "2",
+                            "ParagraphNum": "２",
+                            "ParagraphSentence": {
+                              "Sentence": "内閣総理大臣は、当該申請書に共同担保目録の記号及び目録番号を記載しなければならない。"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "@Num": "59",
+                        "ArticleCaption": "（共同担保目録の記録事項）",
+                        "ArticleTitle": "第五十九条",
+                        "Paragraph": [
+                          {
+                            "@Num": "1",
+                            "ParagraphNum": null,
+                            "ParagraphSentence": {
+                              "Sentence": "内閣総理大臣は、共同担保目録を作成するときは、次に掲げる事項を記録しなければならない。"
+                            },
+                            "Item": [
+                              {
+                                "@Num": "1",
+                                "ItemTitle": "一",
+                                "ItemSentence": {
+                                  "Sentence": "共同担保目録を作成した年月日"
+                                }
+                              },
+                              {
+                                "@Num": "2",
+                                "ItemTitle": "二",
+                                "ItemSentence": {
+                                  "Sentence": "共同担保目録の記号及び目録番号"
+                                }
+                              },
+                              {
+                                "@Num": "3",
+                                "ItemTitle": "三",
+                                "ItemSentence": {
+                                  "Sentence": "抵当権が目的とする二以上の公共施設等運営権に係る次に掲げる事項"
+                                },
+                                "Subitem1": [
+                                  {
+                                    "@Num": "1",
+                                    "Subitem1Title": "イ",
+                                    "Subitem1Sentence": {
+                                      "Sentence": "共同担保目録への記録の順序に従って当該権利に付す番号"
+                                    }
+                                  },
+                                  {
+                                    "@Num": "2",
+                                    "Subitem1Title": "ロ",
+                                    "Subitem1Sentence": {
+                                      "Sentence": "当該二以上の公共施設等運営権に係る公共施設等の名称及び立地、公共施設等の管理者等の名称"
+                                    }
+                                  },
+                                  {
+                                    "@Num": "3",
+                                    "Subitem1Title": "ハ",
+                                    "Subitem1Sentence": {
+                                      "Sentence": "当該抵当権の登録の順位番号"
+                                    }
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "@Num": "2",
+                            "ParagraphNum": "２",
+                            "ParagraphSentence": {
+                              "Sentence": "前項第二号の目録番号は、同号の記号ごとに更新するものとする。"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "@Num": "60",
+                        "ArticleCaption": "（追加共同担保の登録）",
+                        "ArticleTitle": "第六十条",
+                        "Paragraph": [
+                          {
+                            "@Num": "1",
+                            "ParagraphNum": null,
+                            "ParagraphSentence": {
+                              "Sentence": "内閣総理大臣は、一又は二以上の公共施設等運営権を目的とする抵当権の設定の登録をした後に、同一の債権の担保として他の一又は二以上の公共施設等運営権を目的とする抵当権の保存若しくは設定又は処分の登録の申請があった場合において、当該申請に基づく登録をするときは、当該登録の末尾に共同担保目録の記号及び目録番号を記録しなければならない。"
+                            }
+                          },
+                          {
+                            "@Num": "2",
+                            "ParagraphNum": "２",
+                            "ParagraphSentence": {
+                              "Sentence": "内閣総理大臣は、前項の場合において、前の登録に関する共同担保目録があるときは、当該共同担保目録に、前条第一項各号に掲げる事項のほか、当該申請に係る公共施設等運営権が抵当権の目的となった旨並びに申請の受付の年月日及び受付番号を記録しなければならない。"
+                            }
+                          },
+                          {
+                            "@Num": "3",
+                            "ParagraphNum": "３",
+                            "ParagraphSentence": {
+                              "Sentence": "内閣総理大臣は、第一項の場合において、前の登録に関する共同担保目録がないときは、新たに共同担保目録を作成し、前の抵当権の登録についてする付記登録によって、当該抵当権に担保を追加した旨、共同担保目録の記号及び目録番号並びに登録の年月日を記録しなければならない。"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "@Num": "61",
+                        "ArticleCaption": "（共同担保の根抵当権等の分割譲渡の登録）",
+                        "ArticleTitle": "第六十一条",
+                        "Paragraph": [
+                          {
+                            "@Num": "1",
+                            "ParagraphNum": null,
+                            "ParagraphSentence": {
+                              "Sentence": "内閣総理大臣は、共同担保目録のある分割前の根抵当権について第五十七条第二項の登録をするときは、分割後の根抵当権について当該共同担保目録と同一の公共施設等運営権に関する権利を記録した共同担保目録を作成しなければならない。"
+                            }
+                          },
+                          {
+                            "@Num": "2",
+                            "ParagraphNum": "２",
+                            "ParagraphSentence": {
+                              "Sentence": "内閣総理大臣は、前項の場合には、分割後の根抵当権の登録の末尾に当該共同担保目録の記号及び目録番号を記録しなければならない。"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "@Num": "62",
+                        "ArticleCaption": "（共同担保の一部消滅等）",
+                        "ArticleTitle": "第六十二条",
+                        "Paragraph": [
+                          {
+                            "@Num": "1",
+                            "ParagraphNum": null,
+                            "ParagraphSentence": {
+                              "Sentence": "内閣総理大臣は、二以上の公共施設等運営権が抵当権の目的である場合において、その一の公共施設等運営権を目的とする抵当権の登録の抹消をしたときは、共同担保目録に、申請の受付の年月日及び受付番号、当該公共施設等運営権について抵当権の登録が抹消された旨並びに当該抹消された登録に係る第五十九条第一項第三号に掲げる事項を抹消する記号を記録しなければならない。"
+                            }
+                          },
+                          {
+                            "@Num": "2",
+                            "ParagraphNum": "２",
+                            "ParagraphSentence": {
+                              "Sentence": "内閣総理大臣は、共同担保目録に記録されている事項に関する変更の登録又は更正の登録をしたときは、共同担保目録に、変更後又は更正後の第五十九条第一項第三号に掲げる事項、変更の登録又は更正の登録の申請の受付の年月日及び受付番号、変更又は更正をした旨並びに変更前又は更正前の権利に係る同号に掲げる登録事項を抹消する記号を記録しなければならない。"
+                            }
+                          },
+                          {
+                            "@Num": "3",
+                            "ParagraphNum": "３",
+                            "ParagraphSentence": {
+                              "Sentence": "第一項の規定は、第四十六条第二項の規定により記録をする場合について準用する。"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "@Num": "63",
+                        "ArticleCaption": "（買戻しの特約の登録の抹消）",
+                        "ArticleTitle": "第六十三条",
+                        "Paragraph": {
+                          "@Num": "1",
+                          "ParagraphNum": null,
+                          "ParagraphSentence": {
+                            "Sentence": "内閣総理大臣は、買戻しによる権利の取得の登録をしたときは、買戻しの特約の登録の抹消をしなければならない。"
+                          }
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Num": "3",
+                    "SubsectionTitle": "第三款　信託に関する登録",
+                    "Article": [
+                      {
+                        "@Num": "64",
+                        "ArticleCaption": "（信託に関する登録）",
+                        "ArticleTitle": "第六十四条",
+                        "Paragraph": [
+                          {
+                            "@Num": "1",
+                            "ParagraphNum": null,
+                            "ParagraphSentence": {
+                              "Sentence": "内閣総理大臣は、令第四十九条第一項の規定による登録の申請があった場合において、当該申請に基づく公共施設等運営権等の設定、移転又は変更の登録及び信託の登録をするときは、権利部の相当区に一の順位番号を用いて記録しなければならない。"
+                            }
+                          },
+                          {
+                            "@Num": "2",
+                            "ParagraphNum": "２",
+                            "ParagraphSentence": {
+                              "Sentence": "内閣総理大臣は、令第五十五条第一項の規定による登録の申請があった場合において、当該申請に基づく公共施設等運営権等の移転の登録若しくは変更の登録又は公共施設等運営権を目的とする抵当権の抹消の登録及び信託の抹消の登録をするときは、権利部の相当区に一の順位番号を用いて記録しなければならない。"
+                            }
+                          },
+                          {
+                            "@Num": "3",
+                            "ParagraphNum": "３",
+                            "ParagraphSentence": {
+                              "Sentence": "内閣総理大臣は、前二項の規定にかかわらず、令第五十六条第一項の規定による登録の申請があった場合において、当該申請に基づく公共施設等運営権等の変更の登録及び信託の登録又は信託の抹消の登録をするときは、権利部の相当区に一の順位番号を用いて記録しなければならない。"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "@Num": "65",
+                        "ArticleCaption": "（信託目録）",
+                        "ArticleTitle": "第六十五条",
+                        "Paragraph": [
+                          {
+                            "@Num": "1",
+                            "ParagraphNum": null,
+                            "ParagraphSentence": {
+                              "Sentence": "内閣総理大臣は、信託の登録をするときは、令第四十八条第一項各号に掲げる登録事項を記録した信託目録を作成し、当該目録に目録番号を付した上、当該信託の登録の末尾に信託目録の目録番号を記録しなければならない。"
+                            }
+                          },
+                          {
+                            "@Num": "2",
+                            "ParagraphNum": "２",
+                            "ParagraphSentence": {
+                              "Sentence": "内閣総理大臣は、信託の変更の登録をするときは、信託目録の記録を変更しなければならない。"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@Num": "4",
+                    "SubsectionTitle": "第四款　仮登録",
+                    "Article": [
+                      {
+                        "@Num": "66",
+                        "ArticleCaption": "（令第五十七条第一号の仮登録の要件）",
+                        "ArticleTitle": "第六十六条",
+                        "Paragraph": {
+                          "@Num": "1",
+                          "ParagraphNum": null,
+                          "ParagraphSentence": {
+                            "Sentence": "令第五十七条第一号に規定する内閣府令で定めるものは、登録済証又は第三者の許可、同意若しくは承諾を証する書面とする。"
+                          }
+                        }
+                      },
+                      {
+                        "@Num": "67",
+                        "ArticleCaption": "（仮登録及び本登録の方法）",
+                        "ArticleTitle": "第六十七条",
+                        "Paragraph": [
+                          {
+                            "@Num": "1",
+                            "ParagraphNum": null,
+                            "ParagraphSentence": {
+                              "Sentence": "内閣総理大臣は、権利部の相当区に仮登録をしたときは、その次に当該仮登録の順位番号と同一の順位番号により本登録をすることができる余白を設けなければならない。"
+                            }
+                          },
+                          {
+                            "@Num": "2",
+                            "ParagraphNum": "２",
+                            "ParagraphSentence": {
+                              "Sentence": "内閣総理大臣は、仮登録に基づいて本登録をするときは、当該仮登録の順位番号と同一の順位番号を用いてしなければならない。"
+                            }
+                          },
+                          {
+                            "@Num": "3",
+                            "ParagraphNum": "３",
+                            "ParagraphSentence": {
+                              "Sentence": "前二項の規定は、保全仮登録について準用する。"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "@Num": "68",
+                        "ArticleCaption": "（公共施設等運営権に関する仮登録に基づく本登録）",
+                        "ArticleTitle": "第六十八条",
+                        "Paragraph": {
+                          "@Num": "1",
+                          "ParagraphNum": null,
+                          "ParagraphSentence": {
+                            "Sentence": "内閣総理大臣は、令第六十一条第二項の規定により同条第一項の第三者の権利に関する登録の抹消をするときは、権利部の相当区に、本登録により第三者の権利を抹消する旨、登録の年月日及び当該権利に関する登録を抹消する記号を記録しなければならない。"
+                          }
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "@Num": "5",
+                "SectionTitle": "第五節　雑則",
+                "Article": [
+                  {
+                    "@Num": "69",
+                    "ArticleCaption": "（申請人以外の者に対する通知）",
+                    "ArticleTitle": "第六十九条",
+                    "Paragraph": [
+                      {
+                        "@Num": "1",
+                        "ParagraphNum": null,
+                        "ParagraphSentence": {
+                          "Sentence": "内閣総理大臣は、民法第四百二十三条その他の法令の規定により他人に代わってする申請に基づく登録を完了した場合には、当該他人に対し、登録が完了した旨を通知しなければならない。"
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "ParagraphNum": "２",
+                        "ParagraphSentence": {
+                          "Sentence": "前項の規定による通知は、同項の規定により通知を受けるべき者が二人以上あるときは、その一人に対し通知すれば足りる。"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Num": "70",
+                    "ArticleCaption": "（処分の制限の登録における通知）",
+                    "ArticleTitle": "第七十条",
+                    "Paragraph": [
+                      {
+                        "@Num": "1",
+                        "ParagraphNum": null,
+                        "ParagraphSentence": {
+                          "Sentence": "内閣総理大臣は、公共施設等運営権の登録がない公共施設等運営権について嘱託による公共施設等運営権の処分の制限の登録をしたときは、当該公共施設等運営権者に対し、登録が完了した旨を通知しなければならない。"
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "ParagraphNum": "２",
+                        "ParagraphSentence": {
+                          "Sentence": "前項の通知は、当該登録に係る次に掲げる事項を明らかにしてしなければならない。"
+                        },
+                        "Item": [
+                          {
+                            "@Num": "1",
+                            "ItemTitle": "一",
+                            "ItemSentence": {
+                              "Sentence": "公共施設等運営権に係る公共施設等の名称及び立地並びに公共施設等運営権番号"
+                            }
+                          },
+                          {
+                            "@Num": "2",
+                            "ItemTitle": "二",
+                            "ItemSentence": {
+                              "Sentence": "登録の目的"
+                            }
+                          },
+                          {
+                            "@Num": "3",
+                            "ItemTitle": "三",
+                            "ItemSentence": {
+                              "Sentence": "登録原因及びその日付"
+                            }
+                          },
+                          {
+                            "@Num": "4",
+                            "ItemTitle": "四",
+                            "ItemSentence": {
+                              "Sentence": "登録名義人の氏名又は名称及び住所"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@Num": "71",
+                    "ArticleCaption": "（職権による登録の抹消における通知）",
+                    "ArticleTitle": "第七十一条",
+                    "Paragraph": [
+                      {
+                        "@Num": "1",
+                        "ParagraphNum": null,
+                        "ParagraphSentence": {
+                          "Sentence": "令第三十三条第一項の通知は、次の事項を明らかにしてしなければならない。"
+                        },
+                        "Item": [
+                          {
+                            "@Num": "1",
+                            "ItemTitle": "一",
+                            "ItemSentence": {
+                              "Sentence": "抹消する登録に係る次に掲げる事項"
+                            },
+                            "Subitem1": [
+                              {
+                                "@Num": "1",
+                                "Subitem1Title": "イ",
+                                "Subitem1Sentence": {
+                                  "Sentence": "公共施設等運営権に係る公共施設等の名称及び立地並びに公共施設等運営権番号"
+                                }
+                              },
+                              {
+                                "@Num": "2",
+                                "Subitem1Title": "ロ",
+                                "Subitem1Sentence": {
+                                  "Sentence": "登録の目的"
+                                }
+                              },
+                              {
+                                "@Num": "3",
+                                "Subitem1Title": "ハ",
+                                "Subitem1Sentence": {
+                                  "Sentence": "申請の受付の年月日及び受付番号"
+                                }
+                              },
+                              {
+                                "@Num": "4",
+                                "Subitem1Title": "ニ",
+                                "Subitem1Sentence": {
+                                  "Sentence": "登録原因及びその日付"
+                                }
+                              },
+                              {
+                                "@Num": "5",
+                                "Subitem1Title": "ホ",
+                                "Subitem1Sentence": {
+                                  "Sentence": "申請人の氏名又は名称及び住所"
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "@Num": "2",
+                            "ItemTitle": "二",
+                            "ItemSentence": {
+                              "Sentence": "抹消する理由"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "@Num": "2",
+                        "ParagraphNum": "２",
+                        "ParagraphSentence": {
+                          "Sentence": "前項の通知は、抹消する登録が民法第四百二十三条その他の法令の規定により他人に代わってする申請に基づくものであるときは、代位者に対してもしなければならない。"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Num": "72",
+                    "ArticleCaption": "（各種の通知の方法）",
+                    "ArticleTitle": "第七十二条",
+                    "Paragraph": {
+                      "@Num": "1",
+                      "ParagraphNum": null,
+                      "ParagraphSentence": {
+                        "Sentence": "令第三十条各項、第三十三条第一項及び第三項並びにこの府令第六十九条から前条までの通知は、郵便、信書便その他適宜の方法によりするものとする。"
+                      }
+                    }
+                  },
+                  {
+                    "@Num": "73",
+                    "ArticleCaption": "（登録の嘱託）",
+                    "ArticleTitle": "第七十三条",
+                    "Paragraph": {
+                      "@Num": "1",
+                      "ParagraphNum": null,
+                      "ParagraphSentence": {
+                        "Sentence": "この府令（第一条第二号を除く。）に規定する登録の申請に関する令の規定には当該規定を令第十二条第二項において準用する場合を含むものとし、この府令中「申請」、「申請人」及び「申請書」にはそれぞれ嘱託、嘱託者及び嘱託書を含むものとする。"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "@Num": "4",
+            "ChapterTitle": "第四章　登録事項の証明等",
+            "Article": [
+              {
+                "@Num": "74",
+                "ArticleCaption": "（登録事項証明書の交付の請求書等）",
+                "ArticleTitle": "第七十四条",
+                "Paragraph": [
+                  {
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": "令第六十六条第二項の内閣府令で定める図面は、公共施設等立地図とする。"
+                    }
+                  },
+                  {
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": [
+                        {
+                          "@Num": "1",
+                          "#text": "登録事項証明書又は公共施設等立地図の全部又は一部の写しの交付の請求をするときは、次に掲げる事項を内容とする書面（以下この章において「請求書」という。）を提出しなければならない。"
+                        },
+                        {
+                          "@Num": "2",
+                          "#text": "登録簿の附属書類の閲覧の請求をするときも、同様とする。"
+                        }
+                      ]
+                    },
+                    "Item": [
+                      {
+                        "@Num": "1",
+                        "ItemTitle": "一",
+                        "ItemSentence": {
+                          "Sentence": "請求人の氏名又は名称"
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "ItemTitle": "二",
+                        "ItemSentence": {
+                          "Sentence": "公共施設等運営権に係る公共施設等の名称及び立地又は公共施設等運営権番号"
+                        }
+                      },
+                      {
+                        "@Num": "3",
+                        "ItemTitle": "三",
+                        "ItemSentence": {
+                          "Sentence": "交付の請求をする場合にあっては、請求に係る書面の通数"
+                        }
+                      },
+                      {
+                        "@Num": "4",
+                        "ItemTitle": "四",
+                        "ItemSentence": {
+                          "Sentence": "登録事項証明書の交付の請求をする場合にあっては、第七十六条第一項各号（同条第二項において準用する場合を含む。）に掲げる登録事項証明書の区分"
+                        }
+                      },
+                      {
+                        "@Num": "5",
+                        "ItemTitle": "五",
+                        "ItemSentence": {
+                          "Sentence": "登録事項証明書の交付の請求をする場合において、共同担保目録又は信託目録に記録された事項について証明を求めるときは、その旨"
+                        }
+                      },
+                      {
+                        "@Num": "6",
+                        "ItemTitle": "六",
+                        "ItemSentence": {
+                          "Sentence": "送付の方法により登録事項証明書又は公共施設等立地図の写しの交付の請求をするときは、その旨及び送付先の住所"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Num": "3",
+                    "ParagraphNum": "３",
+                    "ParagraphSentence": {
+                      "Sentence": "令第六十六条第三項の規定により登録簿の附属書類の閲覧の請求をするときは、前項第一号及び第二号に掲げる事項のほか、次に掲げる事項を請求書の内容とする。"
+                    },
+                    "Item": [
+                      {
+                        "@Num": "1",
+                        "ItemTitle": "一",
+                        "ItemSentence": {
+                          "Sentence": "請求人の住所"
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "ItemTitle": "二",
+                        "ItemSentence": {
+                          "Sentence": "請求人が法人であるときは、その代表者の氏名"
+                        }
+                      },
+                      {
+                        "@Num": "3",
+                        "ItemTitle": "三",
+                        "ItemSentence": {
+                          "Sentence": "代理人によって請求するときは、当該代理人の氏名又は名称及び住所並びに代理人が法人であるときはその代表者の氏名"
+                        }
+                      },
+                      {
+                        "@Num": "4",
+                        "ItemTitle": "四",
+                        "ItemSentence": {
+                          "Sentence": "令第六十六条第三項ただし書の利害関係を有する理由及び閲覧する部分"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Num": "4",
+                    "ParagraphNum": "４",
+                    "ParagraphSentence": {
+                      "Sentence": "前項の閲覧の請求をするときは、同項第四号の利害関係がある理由を証する書面を提示しなければならない。"
+                    }
+                  },
+                  {
+                    "@Num": "5",
+                    "ParagraphNum": "５",
+                    "ParagraphSentence": {
+                      "Sentence": "第三項の閲覧の請求を代理人によってするときは、当該代理人の権限を証する書面を提示しなければならない。"
+                    }
+                  },
+                  {
+                    "@Num": "6",
+                    "ParagraphNum": "６",
+                    "ParagraphSentence": {
+                      "Sentence": "第三項の閲覧の請求をする場合において、請求人が法人であるときは、当該法人の代表者の資格を証する書面を提示しなければならない。"
+                    }
+                  }
+                ]
+              },
+              {
+                "@Num": "75",
+                "ArticleCaption": "（登録事項証明書等の交付の請求の方法等）",
+                "ArticleTitle": "第七十五条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "前条第二項の交付の請求又は同項若しくは同条第三項の閲覧の請求は、請求書を内閣総理大臣に提出する方法によりしなければならない。"
+                  }
+                }
+              },
+              {
+                "@Num": "76",
+                "ArticleCaption": "（登録事項証明書の種類等）",
+                "ArticleTitle": "第七十六条",
+                "Paragraph": [
+                  {
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": "登録事項証明書の記載事項は、次の各号の種類の区分に応じ、当該各号に掲げる事項とする。"
+                    },
+                    "Item": [
+                      {
+                        "@Num": "1",
+                        "ItemTitle": "一",
+                        "ItemSentence": {
+                          "Column": [
+                            {
+                              "@Num": "1",
+                              "Sentence": "全部事項証明書"
+                            },
+                            {
+                              "@Num": "2",
+                              "Sentence": "登録記録（閉鎖登録記録を除く。以下この項において同じ。）に記録されている事項の全部"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "ItemTitle": "二",
+                        "ItemSentence": {
+                          "Column": [
+                            {
+                              "@Num": "1",
+                              "Sentence": "現在事項証明書"
+                            },
+                            {
+                              "@Num": "2",
+                              "Sentence": "登録記録に記録されている事項のうち現に効力を有するもの"
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": "前項第一号の規定は、閉鎖登録記録に係る登録事項証明書の記載事項について準用する。"
+                    }
+                  }
+                ]
+              },
+              {
+                "@Num": "77",
+                "ArticleCaption": "（登録事項証明書等の交付）",
+                "ArticleTitle": "第七十七条",
+                "Paragraph": [
+                  {
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": [
+                        {
+                          "@Function": "main",
+                          "@Num": "1",
+                          "#text": "登録事項証明書は、次の各号の区分に応じ、当該各号に定める様式によるものとする。"
+                        },
+                        {
+                          "@Function": "proviso",
+                          "@Num": "2",
+                          "#text": "ただし、登録記録に記録した事項の一部についての登録事項証明書については適宜の様式によるものとする。"
+                        }
+                      ]
+                    },
+                    "Item": [
+                      {
+                        "@Num": "1",
+                        "ItemTitle": "一",
+                        "ItemSentence": {
+                          "Column": [
+                            {
+                              "@Num": "1",
+                              "Sentence": "公共施設等運営権の登録記録"
+                            },
+                            {
+                              "@Num": "2",
+                              "Sentence": "別記第二号様式"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "ItemTitle": "二",
+                        "ItemSentence": {
+                          "Column": [
+                            {
+                              "@Num": "1",
+                              "Sentence": "共同担保目録"
+                            },
+                            {
+                              "@Num": "2",
+                              "Sentence": "別記第三号様式"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "@Num": "3",
+                        "ItemTitle": "三",
+                        "ItemSentence": {
+                          "Column": [
+                            {
+                              "@Num": "1",
+                              "Sentence": "信託目録"
+                            },
+                            {
+                              "@Num": "2",
+                              "Sentence": "別記第四号様式"
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": "登録記録に記録されている事項を抹消する記号が記録されている場合において、登録事項証明書に抹消する記号を表示するときは、抹消に係る事項の下に線を付して記載するものとする。"
+                    }
+                  },
+                  {
+                    "@Num": "3",
+                    "ParagraphNum": "３",
+                    "ParagraphSentence": {
+                      "Sentence": "登録事項証明書又は公共施設等立地図の写しの交付は、請求人の申出により、送付の方法によりすることができる。"
+                    }
+                  }
+                ]
+              },
+              {
+                "@Num": "78",
+                "ArticleCaption": "（閲覧の方法）",
+                "ArticleTitle": "第七十八条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "令第六十六条第三項の内閣府令で定める方法は、電磁的記録に記録された情報の内容を書面に出力して表示する方法とする。"
+                  }
+                }
+              },
+              {
+                "@Num": "79",
+                "ArticleCaption": "（手数料の納付方法）",
+                "ArticleTitle": "第七十九条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "令第六十六条第四項に規定する手数料は、請求書に収入印紙を貼り付けてしなければならない。"
+                  }
+                }
+              },
+              {
+                "@Num": "80",
+                "ArticleCaption": "（送付に要する費用の納付方法）",
+                "ArticleTitle": "第八十条",
+                "Paragraph": [
+                  {
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": "請求書を内閣総理大臣に提出する方法により第七十四条第二項の交付の請求をする場合において、第七十七条第三項の規定による申出をするときは、手数料のほか送付に要する費用も納付しなければならない。"
+                    }
+                  },
+                  {
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": "前項の送付に要する費用は、郵便切手又は信書便の役務に関する料金の支払のために使用することができる証票であって内閣総理大臣が指定するものを請求書と併せて提出する方法により納付しなければならない。"
+                    }
+                  },
+                  {
+                    "@Num": "3",
+                    "ParagraphNum": "３",
+                    "ParagraphSentence": {
+                      "Sentence": "前項の指定は、告示してしなければならない。"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "SupplProvision": [
+        {
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この府令は、民間資金等の活用による公共施設等の整備等の促進に関する法律の一部を改正する法律（平成二十三年法律第五十七号）の施行の日（平成二十三年十一月三十日）から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成二五年九月四日内閣府令第五七号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この府令は、公布の日から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成二八年三月三一日内閣府令第二二号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この府令は、地方自治法の一部を改正する法律（平成二十六年法律第四十二号）の施行の日（平成二十八年四月一日）から施行する。"
+            }
+          }
+        }
+      ],
+      "AppdxTable": [
+        {
+          "AppdxTableTitle": "別表第一",
+          "RelatedArticleNum": "（第四条関係）",
+          "TableStruct": {
+            "Table": {
+              "TableRow": [
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "第一欄"
+                    },
+                    {
+                      "Sentence": "第二欄"
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "公共施設等運営権番号欄"
+                    },
+                    {
+                      "Sentence": "公共施設等運営権番号"
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "公共施設等の名称欄"
+                    },
+                    {
+                      "Sentence": "公共施設等の名称"
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "公共施設等の立地欄"
+                    },
+                    {
+                      "Sentence": "公共施設等の立地"
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "公共施設等の運営等の内容欄"
+                    },
+                    {
+                      "Sentence": "公共施設等の運営等の内容"
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "存続期間欄"
+                    },
+                    {
+                      "Sentence": "存続期間"
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "公共施設等の管理者等の名称欄"
+                    },
+                    {
+                      "Sentence": "公共施設等の管理者等の名称"
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "公共施設等運営権の行使の停止等欄"
+                    },
+                    {
+                      "Sentence": "公共施設等運営権の行使の停止又はその解除があったときは、その旨（停止期間があるときは、その旨及びその期間）"
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "原因及びその日付欄"
+                    },
+                    {
+                      "Sentence": "登録原因及びその日付"
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "登録の日付"
+                    },
+                    {
+                      "Sentence": "登録年月日"
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        },
+        {
+          "AppdxTableTitle": "別表第二",
+          "RelatedArticleNum": "（第十六条、第十九条関係）",
+          "TableStruct": {
+            "Table": {
+              "TableRow": [
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "項"
+                    },
+                    {
+                      "Sentence": "登録"
+                    },
+                    {
+                      "Sentence": "申請書記載事項"
+                    },
+                    {
+                      "Sentence": "添付書面"
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": {
+                    "@colspan": "4",
+                    "Sentence": "表題部についての登録に共通する事項"
+                  }
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "一"
+                    },
+                    {
+                      "Sentence": "公共施設等の名称についての変更の登録"
+                    },
+                    {
+                      "Sentence": "変更後の公共施設等の名称"
+                    },
+                    {
+                      "Sentence": null
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "二"
+                    },
+                    {
+                      "Sentence": "公共施設等の表題部についての登録の登録事項の更正の登録"
+                    },
+                    {
+                      "Sentence": "更正後の公共施設等の表題部についての登録の登録事項"
+                    },
+                    {
+                      "Sentence": null
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": {
+                    "@colspan": "4",
+                    "Sentence": "権利部についての登録に共通する事項"
+                  }
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "三"
+                    },
+                    {
+                      "Sentence": "令第二十六条第二項に規定する相続又は法人の合併による権利の移転の登録"
+                    },
+                    {
+                      "Sentence": null
+                    },
+                    {
+                      "Sentence": "相続又は法人の合併を証する市町村長、登記官その他の公務員が職務上作成した書面（公務員が職務上作成した書面がない場合にあっては、これに代わるべき書面）及びその他の登録原因を証する書面"
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "四"
+                    },
+                    {
+                      "Sentence": "登録名義人の氏名若しくは名称又は住所についての変更の登録又は更正の登録"
+                    },
+                    {
+                      "Sentence": "変更後又は更正後の登録名義人の氏名若しくは名称又は住所"
+                    },
+                    {
+                      "Sentence": "当該登録名義人の氏名若しくは名称又は住所について変更又は錯誤若しくは遺漏があったことを証する市町村長、登記官その他の公務員が職務上作成した書面（公務員が職務上作成した書面がない場合にあっては、これに代わるべき書面）"
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "五"
+                    },
+                    {
+                      "Sentence": "権利部についての変更の登録又は更正の登録"
+                    },
+                    {
+                      "Sentence": "変更後又は更正後の登録事項"
+                    },
+                    {
+                      "Sentence": [
+                        "イ　登録原因を証する書面",
+                        "ロ　付記登録によってする権利部についての変更の登録又は更正の登録を申請する場合において、登録上の利害関係を有する第三者があるときは、当該第三者の承諾を証する当該第三者が作成した書面又は当該第三者に対抗することができる裁判があったことを証する書面"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "六"
+                    },
+                    {
+                      "Sentence": "登録の抹消（十、十四及び二十九の項の登録を除く。）"
+                    },
+                    {
+                      "Sentence": null
+                    },
+                    {
+                      "Sentence": [
+                        "イ　令第三十二条第二項の規定により登録権利者が単独で申請するときは、非訟事件手続法（平成二十三年法律第五十一号）第百六条第一項に規定する除権決定があったことを証する書面",
+                        "ロ　令第三十二条第三項前段の規定により登録権利者が単独で抵当権に関する登録の抹消を申請するときは、次に掲げる書面",
+                        "（１）　債権証書並びに被担保債権及び最後の二年分の利息その他の定期金（債務不履行により生じた損害を含む。）の完全な弁済があったことを証する書面",
+                        "（２）　登録義務者の所在が知れないことを証する書面",
+                        "ハ　令第三十二条第三項後段の規定により登録権利者が単独で抵当権に関する登録の抹消を申請するときは、次に掲げる書面",
+                        "（１）　被担保債権の弁済期を証する書面",
+                        "（２）　（１）の弁済期から二十年を経過した後に当該被担保債権、その利息及び債務不履行により生じた損害の全額に相当する金銭が供託されたことを証する書面",
+                        "（３）　登録義務者の所在が知れないことを証する書面",
+                        "ニ　イからハまでに規定する申請以外の場合にあっては、登録原因を証する書面",
+                        "ホ　登録上の利害関係を有する第三者があるときは、当該第三者の承諾を証する当該第三者が作成した書面又は当該第三者に対抗することができる裁判があったことを証する書面"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "七"
+                    },
+                    {
+                      "Sentence": "抹消された登録の回復"
+                    },
+                    {
+                      "Sentence": "回復する登録の登録事項"
+                    },
+                    {
+                      "Sentence": [
+                        "イ　登録原因を証する書面",
+                        "ロ　登録上の利害関係を有する第三者があるときは、当該第三者の承諾を証する当該第三者が作成した書面又は当該第三者に対抗することができる裁判があったことを証する書面"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": {
+                    "@colspan": "4",
+                    "Sentence": "公共施設等運営権に関する登録"
+                  }
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "八"
+                    },
+                    {
+                      "Sentence": "公共施設等運営権の設定の登録"
+                    },
+                    {
+                      "Sentence": "申請人が令第三十五条各号に掲げる者のいずれであるか。"
+                    },
+                    {
+                      "Sentence": [
+                        "イ　公共施設等運営権の設定を受けた者から法人の合併その他の一般承継により公共施設等運営権を取得した者が申請するときは、法人の合併その他の一般承継による承継を証する書面（市町村長、登記官その他の公務員が職務上作成した書面（公務員が職務上作成した書面がない場合にあっては、これに代わるべき書面）を含むものに限る。）",
+                        "ロ　令第三十五条第二号に掲げる者が申請するときは、公共施設等運営権を有することが確定判決（確定判決と同一の効力を有するものを含む。）によって確認されたことを証する書面",
+                        "ハ　登録名義人となる者の住所を証する市町村長、登記官その他の公務員が職務上作成した書面（公務員が職務上作成した書面がない場合にあっては、これに代わるべき書面）",
+                        "ニ　公共施設等の管理者等が公共施設等運営権を設定したことを証する当該公共施設等の管理者等が作成した書面",
+                        "ホ　公共施設等の立地に係る申請書の記載が当該公共施設等の立地を特定できる程度に明確でないときは、公共施設等の立地を示す図面"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "九"
+                    },
+                    {
+                      "Sentence": "公共施設等運営権の移転の登録"
+                    },
+                    {
+                      "Sentence": null
+                    },
+                    {
+                      "Sentence": [
+                        "イ　登録原因を証する書面",
+                        "ロ　登録名義人となる者の住所を証する市町村長、登記官その他の公務員が職務上作成した書面（公務員が職務上作成した書面がない場合にあっては、これに代わるべき書面）",
+                        "ハ　公共施設等の管理者等が公共施設等運営権の移転を許可したことを証する当該公共施設等の管理者等が作成した書面"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "十"
+                    },
+                    {
+                      "Sentence": "公共施設等運営権の抹消又は行使の停止若しくはその停止の解除の申請又は嘱託"
+                    },
+                    {
+                      "Sentence": null
+                    },
+                    {
+                      "Sentence": "登録原因を証する書面"
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": {
+                    "@colspan": "4",
+                    "Sentence": "抵当権に関する登録"
+                  }
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "十一"
+                    },
+                    {
+                      "Sentence": "抵当権（根抵当権を除く。以下この項において同じ。）の設定の登録"
+                    },
+                    {
+                      "Sentence": [
+                        "イ　令第三十九条第一項各号に掲げる登録事項",
+                        "ロ　一又は二以上の公共施設等運営権を目的とする抵当権の設定の登録をした後、同一の債権の担保として他の一又は二以上の公共施設等運営権を目的とする抵当権の設定の登録を申請するときは、前の登録に係る次に掲げる事項（当該前の登録に係る共同担保目録がある場合には、当該共同担保目録の記号及び目録番号）",
+                        "（１）　公共施設等の名称及び立地",
+                        "（２）　公共施設等の管理者等の名称",
+                        "（３）　順位事項"
+                      ]
+                    },
+                    {
+                      "Sentence": "登録原因を証する書面"
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "十二"
+                    },
+                    {
+                      "Sentence": "根抵当権の設定の登録"
+                    },
+                    {
+                      "Sentence": [
+                        "イ　令第三十九条第一項第二号から第五号までに掲げる登録事項",
+                        "ロ　令第三十九条第二項各号に掲げる登録事項",
+                        "ハ　民法第三百九十八条の十六の登録にあっては、同条の登録である旨",
+                        "ニ　一の公共施設等運営権を目的とする根抵当権の設定の登録又は二以上の公共施設等運営権を目的とする根抵当権の設定の登録（民法第三百九十八条の十六の登録をしたものに限る。）をした後、同一の債権の担保として他の一又は二以上の公共施設等運営権を目的とする根抵当権の設定の登録及び同条の登録を申請するときは、前の登録に係る次に掲げる事項",
+                        "（１）　公共施設等の名称及び立地",
+                        "（２）　公共施設等の管理者等の名称",
+                        "（３）　順位事項",
+                        "（４）　共同担保目録があるときは、当該共同担保目録の記号及び目録番号"
+                      ]
+                    },
+                    {
+                      "Sentence": "登録原因を証する書面"
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "十三"
+                    },
+                    {
+                      "Sentence": "債権の一部について譲渡又は代位弁済がされた場合における抵当権の移転の登録"
+                    },
+                    {
+                      "Sentence": "当該譲渡又は代位弁済の目的である債権の額"
+                    },
+                    {
+                      "Sentence": "登録原因を証する書面"
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "十四"
+                    },
+                    {
+                      "Sentence": "死亡又は解散による登録の抹消"
+                    },
+                    {
+                      "Sentence": null
+                    },
+                    {
+                      "Sentence": "令第四十一条の規定により登録権利者が単独で申請するときは、人の死亡又は法人の解散を証する市町村長、登記官その他の公務員が職務上作成した書面"
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "十五"
+                    },
+                    {
+                      "Sentence": "民法第三百七十六条第一項の規定により抵当権を他の債権のための担保とし、又は抵当権を譲渡し、若しくは放棄する場合の登録"
+                    },
+                    {
+                      "Sentence": [
+                        "イ　抵当権（根抵当権を除く。）の処分の登録にあっては、令第三十九条第一項各号に掲げる登録事項",
+                        "ロ　根抵当権の処分の登録にあっては、令第三十九条第一項第二号から第五号まで及び同条第二項各号に掲げる登録事項",
+                        "ハ　一又は二以上の公共施設等運営権を目的とする抵当権（根抵当権を除く。）の設定の登録をした後、同一の債権の担保として他の一又は二以上の公共施設等運営権を目的とする抵当権の処分の登録を申請するときは、前の登録に係る次に掲げる事項（当該前の登録に係る共同担保目録がある場合には、当該共同担保目録の記号及び目録番号）",
+                        "（１）　公共施設等の名称及び立地",
+                        "（２）　公共施設等の管理者等の名称",
+                        "（３）　順位事項",
+                        "ニ　民法第三百九十八条の十六の登録にあっては、同条の登録である旨",
+                        "ホ　一の公共施設等運営権を目的とする根抵当権の設定の登録又は二以上の公共施設等運営権を目的とする根抵当権の設定の登録（民法第三百九十八条の十六の登録をしたものに限る。）をした後、同一の債権の担保として他の一又は二以上の公共施設等運営権を目的とする根抵当権の処分の登録及び同条の登録を申請するときは、前の登録に係る次に掲げる事項",
+                        "（１）　公共施設等の名称及び立地",
+                        "（２）　公共施設等の管理者等の名称",
+                        "（３）　順位事項",
+                        "（４）　共同担保目録があるときは、当該共同担保目録の記号及び目録番号"
+                      ]
+                    },
+                    {
+                      "Sentence": "登録原因を証する書面"
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "十六"
+                    },
+                    {
+                      "Sentence": "民法第三百九十三条の規定による代位の登録"
+                    },
+                    {
+                      "Sentence": [
+                        "イ　先順位の抵当権者が弁済を受けた公共施設等運営権、当該公共施設等運営権の代価及び当該弁済を受けた額",
+                        "ロ　抵当権（根抵当権を除く。）の登録にあっては、令第三十九条第一項各号に掲げる登録事項",
+                        "ハ　根抵当権の登録にあっては、令第三十九条第一項第二号から第五号まで及び同条第二項各号に掲げる登録事項"
+                      ]
+                    },
+                    {
+                      "Sentence": "登録原因を証する書面"
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "十七"
+                    },
+                    {
+                      "Sentence": "民法第三百九十八条の十二第二項の規定により根抵当権を分割して譲り渡す場合の登録"
+                    },
+                    {
+                      "Sentence": [
+                        "イ　根抵当権の設定の登録に係る申請の受付の年月日及び受付番号並びに登録原因及びその日付",
+                        "ロ　分割前の根抵当権の債務者の氏名又は名称及び住所並びに担保すべき債権の範囲",
+                        "ハ　分割後の各根抵当権の極度額",
+                        "ニ　分割前の根抵当権について担保すべき元本の確定すべき期日の定めが登録されているときは、その定め",
+                        "ホ　分割前の根抵当権に関する共同担保目録があるときは、当該共同担保目録の記号及び目録番号"
+                      ]
+                    },
+                    {
+                      "Sentence": "登録原因を証する書面"
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "十八"
+                    },
+                    {
+                      "Sentence": "民法第三百九十八条の十九第二項の規定により根抵当権の担保すべき元本が確定した場合の登録（令第四十六条の規定により登録名義人が単独で申請するものに限る。）"
+                    },
+                    {
+                      "Sentence": null
+                    },
+                    {
+                      "Sentence": "民法第三百九十八条の十九第二項の規定による請求をしたことを証する書面"
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "十九"
+                    },
+                    {
+                      "Sentence": "民法第三百九十八条の二十第一項第三号の規定により根抵当権の担保すべき元本が確定した場合の登録（令第四十六条の規定により登録名義人が単独で申請するものに限る。）"
+                    },
+                    {
+                      "Sentence": null
+                    },
+                    {
+                      "Sentence": "民事執行法（昭和五十四年法律第四号）第四十九条第二項（同法第百八十八条において準用する場合を含む。）の規定による催告又は国税徴収法（昭和三十四年法律第百四十七号）第五十五条（同条の例による場合を含む。）の規定による通知を受けたことを証する書面"
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "二十"
+                    },
+                    {
+                      "Sentence": "民法第三百九十八条の二十第一項第四号の規定により根抵当権の担保すべき元本が確定した場合の登録（令第四十六条の規定により登録名義人が単独で申請するものに限る。）"
+                    },
+                    {
+                      "Sentence": null
+                    },
+                    {
+                      "Sentence": "債務者又は根抵当権設定者について破産手続開始の決定があったことを証する書面"
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "二十一"
+                    },
+                    {
+                      "Sentence": "買戻しの特約の登録"
+                    },
+                    {
+                      "Sentence": "買主が支払った代金及び契約の費用並びに買戻しの期間の定めがあるときはその定め"
+                    },
+                    {
+                      "Sentence": "登録原因を証する書面"
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": {
+                    "@colspan": "4",
+                    "Sentence": "信託に関する登録"
+                  }
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "二十二"
+                    },
+                    {
+                      "Sentence": "信託の登録"
+                    },
+                    {
+                      "Sentence": null
+                    },
+                    {
+                      "Sentence": [
+                        "イ　信託法第三条第三号に掲げる方法によってされた信託にあっては、同法第四条第三項第一号に規定する公正証書等（公正証書については、その謄本）又は同項第二号の書面若しくは電磁的記録及び同号の通知をしたことを証する書面",
+                        "ロ　イに規定する信託以外の信託にあっては、登録原因を証する書面",
+                        "ハ　信託目録に記録すべき事項"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "二十三"
+                    },
+                    {
+                      "Sentence": "信託財産に属する公共施設等運営権等についてする受託者の変更による権利の移転の登録（令第五十一条第一項の規定により新たに選任された受託者が単独で申請するものに限る。）"
+                    },
+                    {
+                      "Sentence": null
+                    },
+                    {
+                      "Sentence": "令第五十一条第一項に規定する事由により受託者の任務が終了したことを証する市町村長、登記官その他の公務員が職務上作成した書面及び新たに受託者が選任されたことを証する書面"
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "二十四"
+                    },
+                    {
+                      "Sentence": "信託財産に属する公共施設等運営権等についてする権利の変更の登録（次項及び二十六の項の登録を除く。）"
+                    },
+                    {
+                      "Sentence": null
+                    },
+                    {
+                      "Sentence": [
+                        "イ　令第四十六条第一項第二号の定めのある信託の信託財産に属する公共施設等運営権等の変更の登録を申請する場合において、申請人が受益者であるときは、同号の定めに係る条件又は方法により指定され、又は定められた受益者であることを証する書面",
+                        "ロ　信託法第百八十五条第三項に規定する受益証券発行信託の信託財産に属する公共施設等運営権等の変更の登録を申請する場合において、申請人が受益者であるときは、次に掲げる書面",
+                        "（１）　当該受益者が受益証券が発行されている受益権の受益者であるときは、当該受益権に係る受益証券",
+                        "（２）　当該受益者が社債、株式等の振替に関する法律（平成十三年法律第七十五号）第百二十七条の二第一項に規定する振替受益権の受益者であるときは、当該受益者が同法第百二十七条の二十七第三項の規定により交付を受けた書面又は同法第二百七十七条の規定により交付を受けた書面",
+                        "（３）　当該受益者が信託法第百八十五条第二項の定めのある受益権の受益者であるときは、同法第百八十七条第一項の書面",
+                        "ハ　信託の併合又は分割による権利の変更の登録を申請するときは、次に掲げる書面",
+                        "（１）　信託の併合又は分割をしても従前の信託又は信託法第百五十五条第一項第六号に規定する分割信託若しくは同号に規定する承継信託の同法第二条第九項に規定する信託財産責任負担債務に係る債権を有する債権者を害するおそれのないことが明らかであるときは、これを証する書面",
+                        "（２）　（１）に規定する場合以外の場合においては、受託者において信託法第百五十二条第二項、第百五十六条第二項又は第百六十条第二項の規定による公告及び催告（同法第百五十二条第三項、第百五十六条第三項又は第百六十条第三項の規定により公告を官報のほか時事に関する事項を掲載する日刊新聞紙又は同法第百五十二条第三項第二号に規定する電子公告によってした法人である受託者にあっては、これらの方法による公告）をしたこと並びに異議を述べた債権者があるときは、当該債権者に対し弁済し若しくは相当の担保を提供し若しくは当該債権者に弁済を受けさせることを目的として相当の財産を信託したこと又は当該信託の併合若しくは分割をしても当該債権者を害するおそれがないことを証する書面"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "二十五"
+                    },
+                    {
+                      "Sentence": "信託法第三条第三号に掲げる方法によってされた信託による権利の変更の登録"
+                    },
+                    {
+                      "Sentence": null
+                    },
+                    {
+                      "Sentence": "信託法第四条第三項第一号に規定する公正証書等（公正証書については、その謄本）又は同項第二号の書面及び同号の通知をしたことを証する書面"
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "二十六"
+                    },
+                    {
+                      "Sentence": "信託財産に属する公共施設等運営権等についてする一部の受託者の任務の終了による権利の変更の登録（令第五十一条第二項の規定により他の受託者が単独で申請するものに限る。）"
+                    },
+                    {
+                      "Sentence": null
+                    },
+                    {
+                      "Sentence": "令第五十一条第二項に規定する事由により一部の受託者の任務が終了したことを証する市町村長、登記官その他の公務員が職務上作成した書面"
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": {
+                    "@colspan": "4",
+                    "Sentence": "仮登録"
+                  }
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "二十七"
+                    },
+                    {
+                      "Sentence": "仮登録の登録義務者の承諾がある場合における令第五十九条第一項の規定による仮登録"
+                    },
+                    {
+                      "Sentence": null
+                    },
+                    {
+                      "Sentence": [
+                        "イ　登録原因を証する書面",
+                        "ロ　仮登録の登録義務者の承諾を証する当該登録義務者が作成した書面"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "二十八"
+                    },
+                    {
+                      "Sentence": "公共施設等運営権に関する仮登録に基づく本登録"
+                    },
+                    {
+                      "Sentence": null
+                    },
+                    {
+                      "Sentence": "登録上の利害関係を有する第三者があるときは、当該第三者の承諾を証する当該第三者が作成した書面（仮登記担保契約に関する法律（昭和五十三年法律第七十八号）第十八条本文の規定により当該承諾に代えることができる同条本文に規定する差押えをしたこと及び清算金を供託したことを証する書面を含む。）又は当該第三者に対抗することができる裁判があったことを証する書面"
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "二十九"
+                    },
+                    {
+                      "Sentence": "仮登録の抹消（令第六十二条後段の規定により仮登録の登録上の利害関係人が単独で申請するものに限る。）"
+                    },
+                    {
+                      "Sentence": null
+                    },
+                    {
+                      "Sentence": [
+                        "イ　登録原因を証する書面",
+                        "ロ　仮登録の登録名義人の承諾を証する当該登録名義人が作成した書面又は当該登録名義人に対抗することができる裁判があったことを証する書面",
+                        "ハ　登録上の利害関係を有する第三者があるときは、当該第三者の承諾を証する当該第三者が作成した書面又は当該第三者に対抗することができる裁判があったことを証する書面"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": {
+                    "@colspan": "4",
+                    "Sentence": "仮処分に関する登録"
+                  }
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "三十"
+                    },
+                    {
+                      "Sentence": "民事保全法第五十四条において準用する同法第五十三条第一項の規定による処分禁止の登録（保全仮登録とともにしたものを除く。）に後れる登録の抹消（令第六十三条第一項（同条第二項において準用する場合を含む。）の規定により仮処分の債権者が単独で申請するものに限る。）"
+                    },
+                    {
+                      "Sentence": null
+                    },
+                    {
+                      "Sentence": "民事保全法第五十九条第一項に規定する通知をしたことを証する書面"
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        }
+      ],
+      "AppdxStyle": [
+        {
+          "AppdxStyleTitle": "別記第一号様式",
+          "RelatedArticleNum": "（第３５条関係）",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/H23F10001000066-001.pdf"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": "別記第二号様式",
+          "RelatedArticleNum": "（第７７条関係）",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/H23F10001000066-002.pdf"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": "別記第三号様式",
+          "RelatedArticleNum": "（第７７条関係）",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/H23F10001000066-003.pdf"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": "別記第四号様式",
+          "RelatedArticleNum": "（第７７条関係）",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/H23F10001000066-004.pdf"
+              }
+            }
+          }
+        }
+      ]
+    }
+  }
+}

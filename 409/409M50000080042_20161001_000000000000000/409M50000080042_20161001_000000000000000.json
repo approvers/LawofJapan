@@ -1,0 +1,2360 @@
+{
+  "Law": {
+    "@Era": "Heisei",
+    "@Lang": "ja",
+    "@LawType": "MinisterialOrdinance",
+    "@Num": "42",
+    "@Year": "09",
+    "LawNum": "平成九年文部省令第四十二号",
+    "LawBody": {
+      "LawTitle": "日本私立学校振興・共済事業団の財務及び会計に関する省令",
+      "EnactStatement": "日本私立学校振興・共済事業団法（平成九年法律第四十八号）第三十条第三項、第三十二条第四項及び第三十七条の規定に基づき、日本私立学校振興・共済事業団の財務及び会計に関する省令を次のように定める。",
+      "MainProvision": {
+        "Article": [
+          {
+            "@Num": "1",
+            "ArticleCaption": "（会計の原則）",
+            "ArticleTitle": "第一条",
+            "Paragraph": [
+              {
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": "日本私立学校振興・共済事業団（以下「事業団」という。）の会計については、この省令の定めるところにより、この省令に定めのないものについては、一般に公正妥当と認められる企業会計の基準に従うものとする。"
+                }
+              },
+              {
+                "@Num": "2",
+                "ParagraphNum": "２",
+                "ParagraphSentence": {
+                  "Sentence": "金融庁組織令（平成十年政令第三百九十二号）第二十四条第一項に規定する企業会計審議会により公表された企業会計の基準は、前項に規定する一般に公正妥当と認められる企業会計の基準に該当するものとする。"
+                }
+              },
+              {
+                "@Num": "3",
+                "ParagraphNum": "３",
+                "ParagraphSentence": {
+                  "Sentence": "平成十一年四月二十七日の中央省庁等改革推進本部決定に基づき行われた独立行政法人の会計に関する研究の成果として公表された基準（第十七条の三第三項第二号イ及びロにおいて「独立行政法人会計基準」という。）は、この省令に準ずるものとして、第一項に規定する一般に公正妥当と認められる企業会計の基準に優先して適用されるものとする。"
+                }
+              }
+            ]
+          },
+          {
+            "@Num": "1_2",
+            "ArticleCaption": "（会計処理）",
+            "ArticleTitle": "第一条の二",
+            "Paragraph": [
+              {
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": "文部科学大臣は、事業団が助成業務のため取得しようとしている償却資産についてその減価に対応すべき収益の獲得が予定されないと認められる場合には、その取得までの間に限り、当該償却資産を指定することができる。"
+                }
+              },
+              {
+                "@Num": "2",
+                "ParagraphNum": "２",
+                "ParagraphSentence": {
+                  "Sentence": "前項の指定を受けた資産の減価償却については、減価償却費は計上せず、資産の減価額と同額を資本剰余金に対する控除として計上するものとする。"
+                }
+              }
+            ]
+          },
+          {
+            "@Num": "1_3",
+            "ArticleCaption": "（対応する収益の獲得が予定されない資産除去債務に係る除去費用等）",
+            "ArticleTitle": "第一条の三",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "文部科学大臣は、事業団が助成業務のため保有し又は取得しようとしている有形固定資産に係る資産除去債務に対応する除去費用に係る費用配分額及び時の経過による資産除去債務の調整額（以下この条において「除去費用等」という。）についてその除去費用等に対応すべき収益の獲得が予定されないと認められる場合には、当該除去費用等を指定することができる。"
+              }
+            }
+          },
+          {
+            "@Num": "1_4",
+            "ArticleCaption": "（譲渡差額を損益計算上の損益に計上しない譲渡取引）",
+            "ArticleTitle": "第一条の四",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "文部科学大臣は、事業団が日本私立学校振興・共済事業団法（以下「法」という。）第三十八条の二において読み替えて準用する独立行政法人通則法（平成十一年法律第百三号。以下「通則法」という。）第四十六条の二第二項の規定に基づいて行う不要財産の譲渡取引についてその譲渡差額を損益計算上の損益に計上しないことが必要と認められる場合には、当該譲渡取引を指定することができる。"
+              }
+            }
+          },
+          {
+            "@Num": "2",
+            "ArticleCaption": "（区分経理）",
+            "ArticleTitle": "第二条",
+            "Paragraph": [
+              {
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": "事業団は、法第三十三条第一項に規定する勘定として、同項第一号の経理については助成勘定を、同項第二号の経理については短期勘定を、同項第三号の経理については厚生年金勘定を、同項第四号の経理については退職等年金給付勘定を、同項第五号の経理については福祉勘定を、同項第六号の経理については共済業務勘定を設け、それぞれについて貸借対照表の勘定及び損益計算書の勘定を設けて経理するものとする。"
+                }
+              },
+              {
+                "@Num": "2",
+                "ParagraphNum": "２",
+                "ParagraphSentence": {
+                  "Sentence": "助成勘定は、その内訳として、一般経理、補助金経理、寄付金経理及び学術研究振興基金経理の各経理単位を設け、当該勘定に係る貸借対照表及び損益計算書に各経理単位の内訳を記載した書類を添付するものとする。"
+                }
+              },
+              {
+                "@Num": "3",
+                "ParagraphNum": "３",
+                "ParagraphSentence": {
+                  "Sentence": [
+                    {
+                      "@Function": "main",
+                      "@Num": "1",
+                      "#text": "前項の各経理における事業団の運営に必要な経費は、一般経理において一括して経理するものとする。"
+                    },
+                    {
+                      "@Function": "proviso",
+                      "@Num": "2",
+                      "#text": "ただし、学術研究振興基金経理における事業団の運営に必要な経費（人件費を除く。）については、この限りでない。"
+                    }
+                  ]
+                }
+              },
+              {
+                "@Num": "4",
+                "ParagraphNum": "４",
+                "ParagraphSentence": {
+                  "Sentence": "福祉勘定は、その内訳として、保健経理、医療経理、宿泊経理、貯金経理及び貸付経理の各経理単位を設け、当該勘定に係る貸借対照表及び損益計算書に各経理単位の内訳を記載した書類を添付するものとする。"
+                }
+              },
+              {
+                "@Num": "5",
+                "ParagraphNum": "５",
+                "ParagraphSentence": {
+                  "Sentence": "事業団は、第一項の規定により区分して経理する場合において、経理すべき事項が当該経理に係る勘定以外の勘定において経理すべき事項と共通の事項であるため、当該勘定に係る部分を区分して経理することが困難なときは、当該事項については、文部科学大臣の承認を受けて定める基準に従って、各勘定に配分することにより経理することができる。"
+                }
+              }
+            ]
+          },
+          {
+            "@Num": "3",
+            "ArticleCaption": "（勘定間の資金の繰入れ制限等）",
+            "ArticleTitle": "第三条",
+            "Paragraph": [
+              {
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": "事業団は、法附則第十二条の規定により助成勘定から厚生年金勘定へ資金を繰り入れる場合並びに法第三十三条第一項第二号から第四号までに掲げる業務に係る事務に要する費用に充てるために短期勘定、厚生年金勘定及び退職等年金給付勘定から共済業務勘定へ資金を繰り入れる場合を除き、助成勘定、短期勘定、厚生年金勘定、退職等年金給付勘定、福祉勘定及び共済業務勘定の各勘定間における資金の繰入れをしてはならない。"
+                }
+              },
+              {
+                "@Num": "2",
+                "ParagraphNum": "２",
+                "ParagraphSentence": {
+                  "Sentence": "日本私立学校振興・共済事業団法施行令（平成九年政令第三百五十四号。以下「施行令」という。）第十七条に掲げる費用について、法附則第十二条の規定による繰入れを行う場合の当該繰入れの額の算定方法その他必要な事項は、文部科学大臣の定めるところによる。"
+                }
+              }
+            ]
+          },
+          {
+            "@Num": "4",
+            "ArticleTitle": "第四条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "削除"
+              }
+            }
+          },
+          {
+            "@Num": "5",
+            "ArticleCaption": "（共済業務に係る予算の内容）",
+            "ArticleTitle": "第五条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "法第三十条の予算は、共済業務に係る予算総則及び収入支出予算とする。"
+              }
+            }
+          },
+          {
+            "@Num": "6",
+            "ArticleCaption": "（共済業務に係る予算総則）",
+            "ArticleTitle": "第六条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "共済業務に係る予算総則には、共済業務に係る収入支出予算に関する総括的規定を設けるほか、次に掲げる事項に関する規定を設けるものとする。"
+              },
+              "Item": [
+                {
+                  "@Num": "1",
+                  "ItemTitle": "一",
+                  "ItemSentence": {
+                    "Sentence": "第九条の規定による債務を負担する行為について、事項ごとに、その負担する債務の限度額、その行為に基づいて支出すべき年限及びその必要な理由"
+                  }
+                },
+                {
+                  "@Num": "2",
+                  "ItemTitle": "二",
+                  "ItemSentence": {
+                    "Sentence": "第十一条第一項の規定による経費の指定"
+                  }
+                },
+                {
+                  "@Num": "3",
+                  "ItemTitle": "三",
+                  "ItemSentence": {
+                    "Sentence": "第十二条第一項ただし書の規定による経費の指定"
+                  }
+                },
+                {
+                  "@Num": "4",
+                  "ItemTitle": "四",
+                  "ItemSentence": {
+                    "Sentence": "法第三十七条第五項ただし書の規定による借入金の最高限度額及び借入れの条件"
+                  }
+                },
+                {
+                  "@Num": "5",
+                  "ItemTitle": "五",
+                  "ItemSentence": {
+                    "Sentence": "勘定間及び福祉勘定の内訳としての各経理単位間における資金の繰入れ（第三条の規定により制限される当該繰入れを除く。）の最高限度額"
+                  }
+                },
+                {
+                  "@Num": "6",
+                  "ItemTitle": "六",
+                  "ItemSentence": {
+                    "Sentence": "不動産の取得に要する費用の最高限度額及び不動産を譲渡する場合における最低限度額"
+                  }
+                },
+                {
+                  "@Num": "7",
+                  "ItemTitle": "七",
+                  "ItemSentence": {
+                    "Sentence": "勘定間及び福祉勘定の内訳としての各経理単位間における資金の融通の条件及び最高限度額"
+                  }
+                },
+                {
+                  "@Num": "8",
+                  "ItemTitle": "八",
+                  "ItemSentence": {
+                    "Sentence": "短期勘定から福祉勘定に診療費の支払いをする場合における診療単価"
+                  }
+                },
+                {
+                  "@Num": "9",
+                  "ItemTitle": "九",
+                  "ItemSentence": {
+                    "Sentence": "福祉勘定における資産（私立学校教職員共済法（昭和二十八年法律第二百四十五号。以下「共済法」という。）第二十六条第一項第四号に規定する事業（以下「貯金事業」という。）に係るものに限る。）の構成割合"
+                  }
+                },
+                {
+                  "@Num": "10",
+                  "ItemTitle": "十",
+                  "ItemSentence": {
+                    "Sentence": "福祉勘定における加入者の貯金の受入れの条件並びに加入者に対する貸付金の最高限度額及び貸付けの条件"
+                  }
+                },
+                {
+                  "@Num": "11",
+                  "ItemTitle": "十一",
+                  "ItemSentence": {
+                    "Sentence": "その他予算の実施に関し必要な事項"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "@Num": "7",
+            "ArticleCaption": "（共済業務に係る収入支出予算）",
+            "ArticleTitle": "第七条",
+            "Paragraph": [
+              {
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": "共済業務に係る収入支出予算は、収入にあってはその性質、支出にあってはその目的に従って区分する。"
+                }
+              },
+              {
+                "@Num": "2",
+                "ParagraphNum": "２",
+                "ParagraphSentence": {
+                  "Sentence": "事業団は、共済業務に係る第二条第一項に規定する勘定（当該勘定に内訳としての経理単位が設けられている場合は当該経理単位）ごとに、前項の規定による区分を行うものとする。"
+                }
+              }
+            ]
+          },
+          {
+            "@Num": "8",
+            "ArticleCaption": "（共済業務に係る予備費）",
+            "ArticleTitle": "第八条",
+            "Paragraph": [
+              {
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": "事業団は、予見することができない理由による共済業務に係る支出予算の不足を補うため、共済業務に係る収入支出予算に予備費を設けることができる。"
+                }
+              },
+              {
+                "@Num": "2",
+                "ParagraphNum": "２",
+                "ParagraphSentence": {
+                  "Sentence": "事業団は、第十一条第一項に規定する経費以外の経費に予備費を使用したときは、直ちに、その旨を文部科学大臣に届け出なければならない。"
+                }
+              },
+              {
+                "@Num": "3",
+                "ParagraphNum": "３",
+                "ParagraphSentence": {
+                  "Sentence": "前項の規定による届出は、使用の理由、金額及び積算の基礎を明らかにした書類により行うものとする。"
+                }
+              }
+            ]
+          },
+          {
+            "@Num": "9",
+            "ArticleCaption": "（共済業務に係る債務を負担する行為）",
+            "ArticleTitle": "第九条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "事業団は、共済業務に係る支出予算の金額の範囲内におけるもののほか、その業務を行うため必要があるときは、毎事業年度、共済業務に係る予算をもって文部科学大臣の認可を受けた金額の範囲内において、債務を負担する行為をすることができる。"
+              }
+            }
+          },
+          {
+            "@Num": "10",
+            "ArticleCaption": "（共済業務に係る支出予算の流用）",
+            "ArticleTitle": "第十条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": [
+                  {
+                    "@Function": "main",
+                    "@Num": "1",
+                    "#text": "事業団は、共済業務に係る支出予算については、当該予算に定める目的のほかに使用してはならない。"
+                  },
+                  {
+                    "@Function": "proviso",
+                    "@Num": "2",
+                    "#text": "ただし、共済業務に係る支出予算の実施上必要があるときは、第七条第二項の規定による区分にかかわらず、同一勘定内（福祉勘定にあっては同一経理単位内）において相互流用することができる。"
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "@Num": "11",
+            "ArticleCaption": "（共済業務に係る指定経費の流用等）",
+            "ArticleTitle": "第十一条",
+            "Paragraph": [
+              {
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": "事業団は、共済業務に係る予算総則で指定する経費の金額について流用し、又はこれに予備費を使用する場合には、文部科学大臣の承認を受けなければならない。"
+                }
+              },
+              {
+                "@Num": "2",
+                "ParagraphNum": "２",
+                "ParagraphSentence": {
+                  "Sentence": "事業団は、前項の承認を受けようとするときは、流用又は使用を必要とする理由並びに金額及びその積算の基礎を明らかにした書類を文部科学大臣に提出しなければならない。"
+                }
+              }
+            ]
+          },
+          {
+            "@Num": "12",
+            "ArticleCaption": "（共済業務に係る支出予算の繰越し）",
+            "ArticleTitle": "第十二条",
+            "Paragraph": [
+              {
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": [
+                    {
+                      "@Function": "main",
+                      "@Num": "1",
+                      "#text": "事業団は、共済業務に係る予算の実施上必要があるときは、共済業務に係る支出予算の経費の金額のうち、当該事業年度内に支出の決定を終わらなかったものを翌事業年度に繰り越して使用することができる。"
+                    },
+                    {
+                      "@Function": "proviso",
+                      "@Num": "2",
+                      "#text": "ただし、共済業務に係る予算総則で指定する経費については、あらかじめ文部科学大臣の承認を受けなければ繰り越して使用することができない。"
+                    }
+                  ]
+                }
+              },
+              {
+                "@Num": "2",
+                "ParagraphNum": "２",
+                "ParagraphSentence": {
+                  "Sentence": "事業団は、前項ただし書の規定により承認を受けようとするときは、繰越しを必要とする理由及び金額を明らかにした書類を文部科学大臣に提出しなければならない。"
+                }
+              },
+              {
+                "@Num": "3",
+                "ParagraphNum": "３",
+                "ParagraphSentence": {
+                  "Sentence": "事業団は、第一項の規定により繰越しをしたときは、共済業務に係る支出予算の区分ごとに次に掲げる事項を記載した繰越計算書により、翌事業年度の五月三十一日までに、その旨を文部科学大臣に届け出なければならない。"
+                },
+                "Item": [
+                  {
+                    "@Num": "1",
+                    "ItemTitle": "一",
+                    "ItemSentence": {
+                      "Sentence": "繰越しに係る経費の支出予算現額"
+                    }
+                  },
+                  {
+                    "@Num": "2",
+                    "ItemTitle": "二",
+                    "ItemSentence": {
+                      "Sentence": "前号の経費の支出予算現額のうち支出の決定をした額"
+                    }
+                  },
+                  {
+                    "@Num": "3",
+                    "ItemTitle": "三",
+                    "ItemSentence": {
+                      "Sentence": "第一号の経費の支出予算現額のうち翌事業年度に繰越しをした額"
+                    }
+                  },
+                  {
+                    "@Num": "4",
+                    "ItemTitle": "四",
+                    "ItemSentence": {
+                      "Sentence": "第一号の経費の支出予算現額のうち不用となった額"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "@Num": "13",
+            "ArticleCaption": "（共済業務に係る事業計画及び資金計画）",
+            "ArticleTitle": "第十三条",
+            "Paragraph": [
+              {
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": "法第三十条前段の事業計画には、次に掲げる事項を明らかにしなければならない。"
+                },
+                "Item": [
+                  {
+                    "@Num": "1",
+                    "ItemTitle": "一",
+                    "ItemSentence": {
+                      "Sentence": "加入者の数、その標準報酬月額及び標準賞与額並びに被扶養者及び国民年金法（昭和三十四年法律第百四十一号）第七条第一項第三号に規定する被扶養配偶者の数の前事業年度及び当該事業年度の推計"
+                    }
+                  },
+                  {
+                    "@Num": "2",
+                    "ItemTitle": "二",
+                    "ItemSentence": {
+                      "Sentence": "短期勘定、厚生年金勘定及び退職等年金給付勘定における給付の前事業年度及び当該事業年度の推計"
+                    }
+                  },
+                  {
+                    "@Num": "3",
+                    "ItemTitle": "三",
+                    "ItemSentence": {
+                      "Sentence": "短期勘定、厚生年金勘定及び退職等年金給付勘定における標準報酬月額及び標準賞与額と掛金等（共済法第二十七条第二項の規定による掛金等をいう。）との割合の前事業年度及び当該事業年度の状況"
+                    }
+                  },
+                  {
+                    "@Num": "4",
+                    "ItemTitle": "四",
+                    "ItemSentence": {
+                      "Sentence": "厚生年金勘定及び退職等年金給付勘定における資産並びに福祉勘定における資産（貯金事業に係るものに限る。）の前事業年度の運用状況及び当該事業年度の運用計画"
+                    }
+                  },
+                  {
+                    "@Num": "5",
+                    "ItemTitle": "五",
+                    "ItemSentence": {
+                      "Sentence": "福祉勘定における共済法第二十六条に規定する事業の現況"
+                    }
+                  },
+                  {
+                    "@Num": "6",
+                    "ItemTitle": "六",
+                    "ItemSentence": {
+                      "Sentence": "福祉勘定における福祉施設の現況並びに当該事業年度の福祉施設の設置及び廃止の計画"
+                    }
+                  },
+                  {
+                    "@Num": "7",
+                    "ItemTitle": "七",
+                    "ItemSentence": {
+                      "Sentence": "前各号に掲げるもののほか、当該事業年度に行う事業の計画"
+                    }
+                  }
+                ]
+              },
+              {
+                "@Num": "2",
+                "ParagraphNum": "２",
+                "ParagraphSentence": {
+                  "Sentence": "法第三十条前段の資金計画には、次に掲げる事項について明らかにしなければならない。"
+                },
+                "Item": [
+                  {
+                    "@Num": "1",
+                    "ItemTitle": "一",
+                    "ItemSentence": {
+                      "Sentence": "資金の調達方法"
+                    }
+                  },
+                  {
+                    "@Num": "2",
+                    "ItemTitle": "二",
+                    "ItemSentence": {
+                      "Sentence": "資金の使途"
+                    }
+                  },
+                  {
+                    "@Num": "3",
+                    "ItemTitle": "三",
+                    "ItemSentence": {
+                      "Sentence": "その他必要な事項"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "@Num": "14",
+            "ArticleCaption": "（共済業務に係る予算の認可申請）",
+            "ArticleTitle": "第十四条",
+            "Paragraph": [
+              {
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": "事業団は、法第三十条前段の規定により共済業務に係る予算について認可を受けようとするときは、次に掲げる書類を添付した申請書を文部科学大臣に提出しなければならない。"
+                },
+                "Item": [
+                  {
+                    "@Num": "1",
+                    "ItemTitle": "一",
+                    "ItemSentence": {
+                      "Sentence": "認可を受けようとする予算の積算の基礎を明らかにした書類"
+                    }
+                  },
+                  {
+                    "@Num": "2",
+                    "ItemTitle": "二",
+                    "ItemSentence": {
+                      "Sentence": "当該事業年度の予定損益計算書及び当該事業年度末における予定貸借対照表"
+                    }
+                  },
+                  {
+                    "@Num": "3",
+                    "ItemTitle": "三",
+                    "ItemSentence": {
+                      "Sentence": "前事業年度の予定損益計算書及び前事業年度末における予定貸借対照表"
+                    }
+                  },
+                  {
+                    "@Num": "4",
+                    "ItemTitle": "四",
+                    "ItemSentence": {
+                      "Sentence": "その他当該予算の参考となる書類"
+                    }
+                  }
+                ]
+              },
+              {
+                "@Num": "2",
+                "ParagraphNum": "２",
+                "ParagraphSentence": {
+                  "Sentence": "事業団は、法第三十条後段の規定により共済業務に係る予算の変更について認可を受けようとするときは、変更しようとする理由及び事項を記載した申請書に、前項第一号、第二号及び第四号に掲げる書類を添付して、文部科学大臣に提出しなければならない。"
+                }
+              }
+            ]
+          },
+          {
+            "@Num": "15",
+            "ArticleCaption": "（共済業務に係る事業計画及び資金計画の認可申請）",
+            "ArticleTitle": "第十五条",
+            "Paragraph": [
+              {
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": "事業団は、法第三十条前段の規定により共済業務に係る事業計画及び資金計画について認可を受けようとするときは、共済業務に係る事業計画及び資金計画を記載した申請書に、必要に応じ参考となる書類を添付して、文部科学大臣に提出しなければならない。"
+                }
+              },
+              {
+                "@Num": "2",
+                "ParagraphNum": "２",
+                "ParagraphSentence": {
+                  "Sentence": "事業団は、法第三十条後段の規定により共済業務に係る事業計画又は資金計画の変更について認可を受けようとするときは、変更しようとする理由及び事項を記載した申請書に、必要に応じ参考となる書類を添付して、文部科学大臣に提出しなければならない。"
+                }
+              }
+            ]
+          },
+          {
+            "@Num": "16",
+            "ArticleCaption": "（財務諸表）",
+            "ArticleTitle": "第十六条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "法第三十二条第一項に規定する文部科学省令で定める書類は、キャッシュ・フロー計算書及び行政サービス実施コスト計算書とする。"
+              }
+            }
+          },
+          {
+            "@Num": "16_2",
+            "ArticleCaption": "（業務報告書の作成）",
+            "ArticleTitle": "第十六条の二",
+            "Paragraph": [
+              {
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": "法第三十二条第一項の規定により文部科学省令で定める事項については、この条の定めるところによる。"
+                }
+              },
+              {
+                "@Num": "2",
+                "ParagraphNum": "２",
+                "ParagraphSentence": {
+                  "Sentence": "業務報告書には、次に掲げる事項を記載しなければならない。"
+                },
+                "Item": [
+                  {
+                    "@Num": "1",
+                    "ItemTitle": "一",
+                    "ItemSentence": {
+                      "Sentence": "事業団に関する基礎的な情報"
+                    },
+                    "Subitem1": [
+                      {
+                        "@Num": "1",
+                        "Subitem1Title": "イ",
+                        "Subitem1Sentence": {
+                          "Sentence": "目的、業務内容、沿革、設立に係る根拠法、主務大臣、組織図その他の事業団の概要"
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "Subitem1Title": "ロ",
+                        "Subitem1Sentence": {
+                          "Sentence": "事務所（従たる事務所を含む。）の所在地"
+                        }
+                      },
+                      {
+                        "@Num": "3",
+                        "Subitem1Title": "ハ",
+                        "Subitem1Sentence": {
+                          "Sentence": "資本金の額及び出資者ごとの出資額（前事業年度末からのそれぞれの増減を含む。）"
+                        }
+                      },
+                      {
+                        "@Num": "4",
+                        "Subitem1Title": "ニ",
+                        "Subitem1Sentence": {
+                          "Sentence": "役員の氏名、役職、任期、担当及び経歴"
+                        }
+                      },
+                      {
+                        "@Num": "5",
+                        "Subitem1Title": "ホ",
+                        "Subitem1Sentence": {
+                          "Sentence": "常勤職員の数（前事業年度末からの増減を含む。）及び平均年齢並びに事業団への出向者の数"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Num": "2",
+                    "ItemTitle": "二",
+                    "ItemSentence": {
+                      "Sentence": "財務諸表の要約"
+                    }
+                  },
+                  {
+                    "@Num": "3",
+                    "ItemTitle": "三",
+                    "ItemSentence": {
+                      "Sentence": "財務情報"
+                    },
+                    "Subitem1": [
+                      {
+                        "@Num": "1",
+                        "Subitem1Title": "イ",
+                        "Subitem1Sentence": {
+                          "Sentence": "財務諸表に記載された事項の概要"
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "Subitem1Title": "ロ",
+                        "Subitem1Sentence": {
+                          "Sentence": "重要な施設等の整備等の状況"
+                        }
+                      },
+                      {
+                        "@Num": "3",
+                        "Subitem1Title": "ハ",
+                        "Subitem1Sentence": {
+                          "Sentence": "予算及び決算の概要"
+                        }
+                      },
+                      {
+                        "@Num": "4",
+                        "Subitem1Title": "ニ",
+                        "Subitem1Sentence": {
+                          "Sentence": "助成業務に係る経費の削減及び効率化に関する目標及びその達成状況"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Num": "4",
+                    "ItemTitle": "四",
+                    "ItemSentence": {
+                      "Sentence": "事業に関する説明"
+                    },
+                    "Subitem1": [
+                      {
+                        "@Num": "1",
+                        "Subitem1Title": "イ",
+                        "Subitem1Sentence": {
+                          "Sentence": "財源の内訳"
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "Subitem1Title": "ロ",
+                        "Subitem1Sentence": {
+                          "Sentence": "財務情報及び業務の実績に基づく説明"
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "@Num": "3",
+                "ParagraphNum": "３",
+                "ParagraphSentence": {
+                  "Sentence": "業務報告書には、第二条第一項に規定する勘定ごと（助成勘定にあっては、法第二十六条において読み替えて準用する通則法第三十一条第一項に規定する年度計画に記載されたセグメント（事業団を構成する一定の単位をいう。）ごと及び福祉勘定にあっては、第二条第四項の規定による経理単位ごと）の予算に関する見積りと当該予算の執行実績を明らかにした資料を添付するものとする。"
+                }
+              }
+            ]
+          },
+          {
+            "@Num": "17",
+            "ArticleCaption": "（閲覧期間）",
+            "ArticleTitle": "第十七条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "法第三十二条第三項の文部科学省令で定める期間は、五年とする。"
+              }
+            }
+          },
+          {
+            "@Num": "17_2",
+            "ArticleCaption": "（電子公告を行うための電磁的方法）",
+            "ArticleTitle": "第十七条の二",
+            "Paragraph": [
+              {
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": "法第三十二条第四項第二号に規定する電子情報処理組織を使用する方法その他の情報通信の技術を利用する方法であって文部科学省令で定めるものは、送信者の使用に係る電子計算機に備えられたファイルに記録された情報の内容を電気通信回線を通じて情報の提供を受ける者の閲覧に供し、当該情報の提供を受ける者の使用に係る電子計算機に備えられたファイルに当該情報を記録する方法とする。"
+                }
+              },
+              {
+                "@Num": "2",
+                "ParagraphNum": "２",
+                "ParagraphSentence": {
+                  "Sentence": "法第三十二条第四項第二号に規定する措置であって文部科学省令で定めるものは、前項に規定する方法のうち、インターネットに接続された自動公衆送信装置（公衆の用に供する電気通信回線に接続することにより、その記録媒体のうち自動公衆送信の用に供する部分に記録され、又は当該装置に入力される情報を自動公衆送信する機能を有する装置をいう。）を使用するものによる措置とする。"
+                }
+              }
+            ]
+          },
+          {
+            "@Num": "17_3",
+            "ArticleCaption": "（会計監査報告書の作成）",
+            "ArticleTitle": "第十七条の三",
+            "Paragraph": [
+              {
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": "事業団に係る法第三十二条の二において読み替えて準用する通則法第三十九条第一項の規定により文部科学省令で定める事項については、この条の定めるところによる。"
+                }
+              },
+              {
+                "@Num": "2",
+                "ParagraphNum": "２",
+                "ParagraphSentence": {
+                  "Sentence": [
+                    {
+                      "@Function": "main",
+                      "@Num": "1",
+                      "#text": "会計監査人は、その職務を適切に遂行するため、次に掲げる者との意思疎通を図り、情報の収集及び監査の環境の整備に努めなければならない。"
+                    },
+                    {
+                      "@Function": "proviso",
+                      "@Num": "2",
+                      "#text": "ただし、会計監査人が公正不偏の態度及び独立の立場を保持することができなくなるおそれのある関係の創設及び維持を認めるものと解してはならない。"
+                    }
+                  ]
+                },
+                "Item": [
+                  {
+                    "@Num": "1",
+                    "ItemTitle": "一",
+                    "ItemSentence": {
+                      "Sentence": "事業団の役員（監事を除く。）及び職員"
+                    }
+                  },
+                  {
+                    "@Num": "2",
+                    "ItemTitle": "二",
+                    "ItemSentence": {
+                      "Sentence": "前号に掲げる者のほか、会計監査人が適切に職務を遂行するに当たり意思疎通を図るべき者"
+                    }
+                  }
+                ]
+              },
+              {
+                "@Num": "3",
+                "ParagraphNum": "３",
+                "ParagraphSentence": {
+                  "Sentence": "会計監査人は、法第三十二条第一項に規定する財務諸表、業務報告書及び決算報告書を受領したときは、次に掲げる事項を内容とする会計監査報告書を作成しなければならない。"
+                },
+                "Item": [
+                  {
+                    "@Num": "1",
+                    "ItemTitle": "一",
+                    "ItemSentence": {
+                      "Sentence": "会計監査人の監査の方法及びその内容"
+                    }
+                  },
+                  {
+                    "@Num": "2",
+                    "ItemTitle": "二",
+                    "ItemSentence": {
+                      "Sentence": "財務諸表（利益の処分又は損失の処理に関する書類を除く。以下この号及び次項において同じ。）が事業団の財政状態、運営状況、キャッシュ・フローの状況等を全ての重要な点において適正に表示しているかどうか又は会計の原則（第一条に規定する会計の原則をいう。以下この号において同じ。）に準拠して作成されているかどうかについての意見があるときは、次のイからハまでに掲げる意見の区分に応じ、当該イからハまでに定める事項"
+                    },
+                    "Subitem1": [
+                      {
+                        "@Num": "1",
+                        "Subitem1Title": "イ",
+                        "Subitem1Sentence": {
+                          "Column": [
+                            {
+                              "@Num": "1",
+                              "Sentence": "無限定意見"
+                            },
+                            {
+                              "@Num": "2",
+                              "Sentence": "監査の対象となった財務諸表が事業団の財政状態、運営状況、キャッシュ・フローの状況等を全ての重要な点において、独立行政法人会計基準その他の一般に公正妥当と認められる会計の慣行に準拠して適正に表示していると認められる旨又は会計の原則に準拠して作成されていると認められる旨"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "Subitem1Title": "ロ",
+                        "Subitem1Sentence": {
+                          "Column": [
+                            {
+                              "@Num": "1",
+                              "Sentence": "除外事項を付した限定意見"
+                            },
+                            {
+                              "@Num": "2",
+                              "Sentence": "監査の対象となった財務諸表が除外事項を除き事業団の財政状態、運営状況、キャッシュ・フローの状況等を全ての重要な点において、独立行政法人会計基準その他の一般に公正妥当と認められる会計の慣行に準拠して適正に表示していると認められる旨又は会計の原則に準拠して作成されていると認められる旨及び除外事項"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "@Num": "3",
+                        "Subitem1Title": "ハ",
+                        "Subitem1Sentence": {
+                          "Column": [
+                            {
+                              "@Num": "1",
+                              "Sentence": "否定的意見"
+                            },
+                            {
+                              "@Num": "2",
+                              "Sentence": "監査の対象となった財務諸表が不適正である旨又は会計の原則に準拠していない旨及びその理由"
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Num": "3",
+                    "ItemTitle": "三",
+                    "ItemSentence": {
+                      "Sentence": "前号の意見がないときは、その旨及びその理由"
+                    }
+                  },
+                  {
+                    "@Num": "4",
+                    "ItemTitle": "四",
+                    "ItemSentence": {
+                      "Sentence": "追記情報"
+                    }
+                  },
+                  {
+                    "@Num": "5",
+                    "ItemTitle": "五",
+                    "ItemSentence": {
+                      "Sentence": "前各号に掲げるもののほか、利益の処分又は損失の処理に関する書類、業務報告書（会計に関する部分に限る。）及び決算報告書に関して必要な報告"
+                    }
+                  },
+                  {
+                    "@Num": "6",
+                    "ItemTitle": "六",
+                    "ItemSentence": {
+                      "Sentence": "会計監査報告書を作成した日"
+                    }
+                  }
+                ]
+              },
+              {
+                "@Num": "4",
+                "ParagraphNum": "４",
+                "ParagraphSentence": {
+                  "Sentence": "前項第四号に規定する追記情報は、次に掲げる事項その他の事項のうち、会計監査人の判断に関して説明を付する必要がある事項又は財務諸表の内容のうち強調する必要がある事項とする。"
+                },
+                "Item": [
+                  {
+                    "@Num": "1",
+                    "ItemTitle": "一",
+                    "ItemSentence": {
+                      "Sentence": "正当な理由による会計方針の変更"
+                    }
+                  },
+                  {
+                    "@Num": "2",
+                    "ItemTitle": "二",
+                    "ItemSentence": {
+                      "Sentence": "重要な偶発事象"
+                    }
+                  },
+                  {
+                    "@Num": "3",
+                    "ItemTitle": "三",
+                    "ItemSentence": {
+                      "Sentence": "重要な後発事象"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "@Num": "17_4",
+            "ArticleCaption": "（電磁的記録に記録された事項を表示する方法）",
+            "ArticleTitle": "第十七条の四",
+            "Paragraph": [
+              {
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": "事業団に係る法第三十二条の二において読み替えて準用する通則法第三十九条第二項第二号に規定する文部科学省令で定めるものは、磁気ディスクその他これに準ずる方法により一定の情報を確実に記録しておくことができる物をもって調製するファイルに情報を記録したものとする。"
+                }
+              },
+              {
+                "@Num": "2",
+                "ParagraphNum": "２",
+                "ParagraphSentence": {
+                  "Sentence": "事業団に係る法第三十二条の二において読み替えて準用する通則法第三十九条第二項第二号に規定する文部科学省令で定める方法は、電磁的記録に記録された事項を紙面又は映像面に表示する方法とする。"
+                }
+              }
+            ]
+          },
+          {
+            "@Num": "18",
+            "ArticleCaption": "（利益金の計算の方法）",
+            "ArticleTitle": "第十八条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "法第三十五条第四項に規定する利益金の計算は、毎事業年度の第一号に掲げる収益の合計額から当該事業年度の第二号に掲げる費用の合計額を差し引くことにより行う。"
+              },
+              "Item": [
+                {
+                  "@Num": "1",
+                  "ItemTitle": "一",
+                  "ItemSentence": {
+                    "Sentence": "収益"
+                  },
+                  "Subitem1": [
+                    {
+                      "@Num": "1",
+                      "Subitem1Title": "イ",
+                      "Subitem1Sentence": {
+                        "Sentence": "国庫補助金収入"
+                      }
+                    },
+                    {
+                      "@Num": "2",
+                      "Subitem1Title": "ロ",
+                      "Subitem1Sentence": {
+                        "Sentence": "貸付金利息"
+                      }
+                    },
+                    {
+                      "@Num": "3",
+                      "Subitem1Title": "ハ",
+                      "Subitem1Sentence": {
+                        "Sentence": "寄附金収益"
+                      }
+                    },
+                    {
+                      "@Num": "4",
+                      "Subitem1Title": "ニ",
+                      "Subitem1Sentence": {
+                        "Sentence": "財務収益"
+                      }
+                    },
+                    {
+                      "@Num": "5",
+                      "Subitem1Title": "ホ",
+                      "Subitem1Sentence": {
+                        "Sentence": "雑益"
+                      }
+                    },
+                    {
+                      "@Num": "6",
+                      "Subitem1Title": "ヘ",
+                      "Subitem1Sentence": {
+                        "Sentence": "貸倒引当金戻入"
+                      }
+                    },
+                    {
+                      "@Num": "7",
+                      "Subitem1Title": "ト",
+                      "Subitem1Sentence": {
+                        "Sentence": "前期損益修正益"
+                      }
+                    },
+                    {
+                      "@Num": "8",
+                      "Subitem1Title": "チ",
+                      "Subitem1Sentence": {
+                        "Sentence": "固定資産売却益"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "@Num": "2",
+                  "ItemTitle": "二",
+                  "ItemSentence": {
+                    "Sentence": "費用"
+                  },
+                  "Subitem1": [
+                    {
+                      "@Num": "1",
+                      "Subitem1Title": "イ",
+                      "Subitem1Sentence": {
+                        "Sentence": "交付補助金"
+                      }
+                    },
+                    {
+                      "@Num": "2",
+                      "Subitem1Title": "ロ",
+                      "Subitem1Sentence": {
+                        "Sentence": "借入金利息"
+                      }
+                    },
+                    {
+                      "@Num": "3",
+                      "Subitem1Title": "ハ",
+                      "Subitem1Sentence": {
+                        "Sentence": "債券利息"
+                      }
+                    },
+                    {
+                      "@Num": "4",
+                      "Subitem1Title": "ニ",
+                      "Subitem1Sentence": {
+                        "Sentence": "債券発行諸費"
+                      }
+                    },
+                    {
+                      "@Num": "5",
+                      "Subitem1Title": "ホ",
+                      "Subitem1Sentence": {
+                        "Sentence": "債券発行差金償却"
+                      }
+                    },
+                    {
+                      "@Num": "6",
+                      "Subitem1Title": "ヘ",
+                      "Subitem1Sentence": {
+                        "Sentence": "配付寄附金"
+                      }
+                    },
+                    {
+                      "@Num": "7",
+                      "Subitem1Title": "ト",
+                      "Subitem1Sentence": {
+                        "Sentence": "学術研究振興費"
+                      }
+                    },
+                    {
+                      "@Num": "8",
+                      "Subitem1Title": "チ",
+                      "Subitem1Sentence": {
+                        "Sentence": "貸倒引当金繰入"
+                      }
+                    },
+                    {
+                      "@Num": "9",
+                      "Subitem1Title": "リ",
+                      "Subitem1Sentence": {
+                        "Sentence": "貸倒損失"
+                      }
+                    },
+                    {
+                      "@Num": "10",
+                      "Subitem1Title": "ヌ",
+                      "Subitem1Sentence": {
+                        "Sentence": "有価証券売却損"
+                      }
+                    },
+                    {
+                      "@Num": "11",
+                      "Subitem1Title": "ル",
+                      "Subitem1Sentence": {
+                        "Sentence": "業務経費"
+                      }
+                    },
+                    {
+                      "@Num": "12",
+                      "Subitem1Title": "ヲ",
+                      "Subitem1Sentence": {
+                        "Sentence": "一般管理費"
+                      }
+                    },
+                    {
+                      "@Num": "13",
+                      "Subitem1Title": "ワ",
+                      "Subitem1Sentence": {
+                        "Sentence": "雑損"
+                      }
+                    },
+                    {
+                      "@Num": "14",
+                      "Subitem1Title": "カ",
+                      "Subitem1Sentence": {
+                        "Sentence": "固定資産除却損"
+                      }
+                    },
+                    {
+                      "@Num": "15",
+                      "Subitem1Title": "ヨ",
+                      "Subitem1Sentence": {
+                        "Sentence": "前期損益修正損"
+                      }
+                    },
+                    {
+                      "@Num": "16",
+                      "Subitem1Title": "タ",
+                      "Subitem1Sentence": {
+                        "Sentence": "固定資産売却損"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          },
+          {
+            "@Num": "19",
+            "ArticleCaption": "（厚生年金保険給付積立金）",
+            "ArticleTitle": "第十九条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "事業団は、毎事業年度、厚生年金勘定において損益計算上利益を生じたときは、その額を厚生年金保険給付積立金として積み立てなければならない。"
+              }
+            }
+          },
+          {
+            "@Num": "19_2",
+            "ArticleCaption": "（退職等年金給付積立金）",
+            "ArticleTitle": "第十九条の二",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "事業団は、毎事業年度、退職等年金給付勘定において損益計算上利益を生じたときは、その額を退職等年金給付積立金として積み立てなければならない。"
+              }
+            }
+          },
+          {
+            "@Num": "20",
+            "ArticleCaption": "（借入金の認可）",
+            "ArticleTitle": "第二十条",
+            "Paragraph": [
+              {
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": "事業団は、法第三十七条第一項ただし書の規定により短期借入金の借入れの認可を受けようとするとき又は同条第五項ただし書の規定により短期借入金若しくは長期借入金の借入れの認可を受けようとするときは、次に掲げる事項を記載した申請書を文部科学大臣に提出しなければならない。"
+                },
+                "Item": [
+                  {
+                    "@Num": "1",
+                    "ItemTitle": "一",
+                    "ItemSentence": {
+                      "Sentence": "借入れを必要とする理由"
+                    }
+                  },
+                  {
+                    "@Num": "2",
+                    "ItemTitle": "二",
+                    "ItemSentence": {
+                      "Sentence": "借入金の額"
+                    }
+                  },
+                  {
+                    "@Num": "3",
+                    "ItemTitle": "三",
+                    "ItemSentence": {
+                      "Sentence": "借入金の借入先"
+                    }
+                  },
+                  {
+                    "@Num": "4",
+                    "ItemTitle": "四",
+                    "ItemSentence": {
+                      "Sentence": "借入金の利率"
+                    }
+                  },
+                  {
+                    "@Num": "5",
+                    "ItemTitle": "五",
+                    "ItemSentence": {
+                      "Sentence": "借入金の償還の方法及び期限"
+                    }
+                  },
+                  {
+                    "@Num": "6",
+                    "ItemTitle": "六",
+                    "ItemSentence": {
+                      "Sentence": "利息の支払の方法"
+                    }
+                  },
+                  {
+                    "@Num": "7",
+                    "ItemTitle": "七",
+                    "ItemSentence": {
+                      "Sentence": "その他必要な事項"
+                    }
+                  }
+                ]
+              },
+              {
+                "@Num": "2",
+                "ParagraphNum": "２",
+                "ParagraphSentence": {
+                  "Sentence": "前項の規定は、事業団が法第三十七条第二項ただし書の規定（同条第六項において準用する場合を含む。）により短期借入金の借換えの認可を受けようとする場合について、準用する。"
+                }
+              }
+            ]
+          },
+          {
+            "@Num": "21",
+            "ArticleCaption": "（償還計画の認可）",
+            "ArticleTitle": "第二十一条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": [
+                  {
+                    "@Function": "main",
+                    "@Num": "1",
+                    "#text": "事業団は、法第三十八条の規定により償還計画の認可を受けようとするときは、助成業務に係るものにあっては法第二十六条において読み替えて準用する通則法第三十一条第一項前段の規定により年度計画を届け出た後遅滞なく、共済業務に係るものにあっては法第三十条前段の規定による認可を受けた後一月以内に、次に掲げる事項を記載した申請書を文部科学大臣に提出しなければならない。"
+                  },
+                  {
+                    "@Function": "proviso",
+                    "@Num": "2",
+                    "#text": "ただし、償還計画を変更する場合には、その都度提出しなければならない。"
+                  }
+                ]
+              },
+              "Item": [
+                {
+                  "@Num": "1",
+                  "ItemTitle": "一",
+                  "ItemSentence": {
+                    "Sentence": "長期借入金の総額及び当該事業年度における借入見込額並びにその借入先"
+                  }
+                },
+                {
+                  "@Num": "2",
+                  "ItemTitle": "二",
+                  "ItemSentence": {
+                    "Sentence": "私学振興債券の総額及び当該事業年度における発行見込額並びに発行の方法"
+                  }
+                },
+                {
+                  "@Num": "3",
+                  "ItemTitle": "三",
+                  "ItemSentence": {
+                    "Sentence": "長期借入金及び私学振興債券の償還の方法及び期限"
+                  }
+                },
+                {
+                  "@Num": "4",
+                  "ItemTitle": "四",
+                  "ItemSentence": {
+                    "Sentence": "その他必要な事項"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "@Num": "21_2",
+            "ArticleCaption": "（法第三十八条の二において読み替えて準用する通則法第八条第三項に規定する文部科学省令で定める重要な財産）",
+            "ArticleTitle": "第二十一条の二",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "法第三十八条の二において読み替えて準用する通則法第八条第三項に規定する文部科学省令で定める重要な財産は、その保有する財産であって、その法第三十八条の二において読み替えて準用する通則法第四十六条の二第一項又は第二項の認可に係る申請の日（各項ただし書の場合にあっては、当該財産の処分に関する計画を定めた法第二十六条において読み替えて準用する通則法第三十条第一項の中期計画の認可に係る申請の日）における帳簿価額（現金及び預金にあっては、申請の日におけるその額）が五十万円以上のもの（その性質上法第三十八条の二において読み替えて準用する通則法第四十六条の二の規定により処分することが不適当なものを除く。）その他文部科学大臣が定める財産とする。"
+              }
+            }
+          },
+          {
+            "@Num": "22",
+            "ArticleCaption": "（資産の運用）",
+            "ArticleTitle": "第二十二条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "事業団は、法第三十九条第一項第三号に掲げるもののうち運用方法を特定する金銭信託に運用しようとする場合、施行令第十六条第一号に掲げる信託（法第三十九条第一項第一号の規定により取得した有価証券のみを信託するものを除く。）に運用しようとする場合又は施行令第十六条第三号に掲げる保険料の払込みに運用しようとする場合には、あらかじめ、文部科学大臣の承認を受けなければならない。"
+              }
+            }
+          },
+          {
+            "@Num": "23",
+            "ArticleCaption": "（文部科学大臣の指定する有価証券）",
+            "ArticleTitle": "第二十三条",
+            "Paragraph": [
+              {
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": "法第三十九条第一項第一号の文部科学大臣の指定する有価証券は、厚生年金勘定及び退職等年金給付勘定以外の勘定の余裕金を運用する場合にあっては、次に掲げる有価証券とする。"
+                },
+                "Item": [
+                  {
+                    "@Num": "1",
+                    "ItemTitle": "一",
+                    "ItemSentence": {
+                      "Sentence": "特別の法律により法人の発行する債券"
+                    }
+                  },
+                  {
+                    "@Num": "2",
+                    "ItemTitle": "二",
+                    "ItemSentence": {
+                      "Sentence": "貸付信託の受益証券"
+                    }
+                  },
+                  {
+                    "@Num": "3",
+                    "ItemTitle": "三",
+                    "ItemSentence": {
+                      "Sentence": "その他確実と認められる有価証券で、あらかじめ文部科学大臣の承認を受けたもの"
+                    }
+                  }
+                ]
+              },
+              {
+                "@Num": "2",
+                "ParagraphNum": "２",
+                "ParagraphSentence": {
+                  "Sentence": "法第三十九条第一項第一号の文部科学大臣の指定する有価証券は、厚生年金勘定及び退職等年金給付勘定の余裕金を運用する場合にあっては、次に掲げる有価証券（元本が本邦通貨で支払われるものに限る。）とする。"
+                },
+                "Item": [
+                  {
+                    "@Num": "1",
+                    "ItemTitle": "一",
+                    "ItemSentence": {
+                      "Sentence": "特別の法律により法人の発行する債券（次号に掲げるものを除く。）"
+                    }
+                  },
+                  {
+                    "@Num": "2",
+                    "ItemTitle": "二",
+                    "ItemSentence": {
+                      "Sentence": "資産の流動化に関する法律（平成十年法律第百五号）に規定する特定社債券"
+                    }
+                  },
+                  {
+                    "@Num": "3",
+                    "ItemTitle": "三",
+                    "ItemSentence": {
+                      "Sentence": "社債券"
+                    }
+                  },
+                  {
+                    "@Num": "4",
+                    "ItemTitle": "四",
+                    "ItemSentence": {
+                      "Sentence": "公社債投資信託の受益証券"
+                    }
+                  },
+                  {
+                    "@Num": "5",
+                    "ItemTitle": "五",
+                    "ItemSentence": {
+                      "Sentence": "貸付信託の受益証券"
+                    }
+                  },
+                  {
+                    "@Num": "6",
+                    "ItemTitle": "六",
+                    "ItemSentence": {
+                      "Sentence": "外国又は外国法人の発行する証券で国債、地方債又は第一号から第四号までに掲げるものに相当するもの"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "@Num": "24",
+            "ArticleCaption": "（文部科学大臣の指定する金融機関）",
+            "ArticleTitle": "第二十四条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "法第三十九条第一項第二号の文部科学大臣の指定する金融機関は、臨時金利調整法（昭和二十二年法律第百八十一号）第一条第一項に規定する金融機関（銀行を除く。）とする。"
+              }
+            }
+          },
+          {
+            "@Num": "24_2",
+            "ArticleCaption": "（勘定間の貸付け）",
+            "ArticleTitle": "第二十四条の二",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": [
+                  {
+                    "@Num": "1",
+                    "#text": "施行令第十六条第四号に規定する貸付けは、予算の定めるところにより行うものとする。"
+                  },
+                  {
+                    "@Num": "2",
+                    "#text": "この場合において、当該貸付けを行う余裕金が厚生年金勘定に属するものであるときは、当該貸付金に係る利率は次の各号に掲げる貸付金の区分に応じ当該各号に定める利率を下回ることができないものとし、当該貸付けを行う余裕金が退職等年金給付勘定に属するものであるときは、当該貸付金に係る利率は基準利率（共済法第二十五条において準用する国家公務員共済組合法（昭和三十三年法律第百二十八号）第七十五条第三項に規定する基準利率をいう。）を参酌して文部科学大臣が別に定める利率を下回ることができない。"
+                  }
+                ]
+              },
+              "Item": [
+                {
+                  "@Num": "1",
+                  "ItemTitle": "一",
+                  "ItemSentence": {
+                    "Column": [
+                      {
+                        "@Num": "1",
+                        "Sentence": "助成勘定以外の勘定に対する貸付金"
+                      },
+                      {
+                        "@Num": "2",
+                        "Sentence": "年四パーセント"
+                      }
+                    ]
+                  }
+                },
+                {
+                  "@Num": "2",
+                  "ItemTitle": "二",
+                  "ItemSentence": {
+                    "Column": [
+                      {
+                        "@Num": "1",
+                        "Sentence": "助成勘定に対する貸付金"
+                      },
+                      {
+                        "@Num": "2",
+                        "Sentence": "財政融資資金法（昭和二十六年法律第百号）第十条の規定による貸付けの利率に準じて文部科学大臣が別に定める利率"
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "@Num": "24_3",
+            "ArticleCaption": "（厚生年金保険法第七十九条の八第一項に規定する文部科学省令で定める事項）",
+            "ArticleTitle": "第二十四条の三",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "厚生年金保険法（昭和二十九年法律第百十五号）第七十九条の八第一項に規定する文部科学省令で定める業務概況書に記載すべき事項は、次に掲げる事項とする。"
+              },
+              "Item": [
+                {
+                  "@Num": "1",
+                  "ItemTitle": "一",
+                  "ItemSentence": {
+                    "Sentence": "当該事業年度における管理積立金（厚生年金保険法第七十九条の六第一項に規定する管理積立金のうち事業団が管理するものをいう。以下この条及び次条において同じ。）の資産の額"
+                  }
+                },
+                {
+                  "@Num": "2",
+                  "ItemTitle": "二",
+                  "ItemSentence": {
+                    "Sentence": "当該事業年度における管理積立金の資産の構成割合"
+                  }
+                },
+                {
+                  "@Num": "3",
+                  "ItemTitle": "三",
+                  "ItemSentence": {
+                    "Sentence": "当該事業年度における管理積立金の運用収入の額"
+                  }
+                },
+                {
+                  "@Num": "4",
+                  "ItemTitle": "四",
+                  "ItemSentence": {
+                    "Sentence": "厚生年金保険法第七十九条の三第三項ただし書の規定による運用の状況"
+                  }
+                },
+                {
+                  "@Num": "5",
+                  "ItemTitle": "五",
+                  "ItemSentence": {
+                    "Sentence": "厚生年金保険法第七十九条の六第二項第三号に規定する管理積立金の管理及び運用における長期的な観点からの資産の構成に関する事項"
+                  }
+                },
+                {
+                  "@Num": "6",
+                  "ItemTitle": "六",
+                  "ItemSentence": {
+                    "Sentence": "管理積立金の運用利回り"
+                  }
+                },
+                {
+                  "@Num": "7",
+                  "ItemTitle": "七",
+                  "ItemSentence": {
+                    "Sentence": "管理積立金の運用に関するリスク管理の状況"
+                  }
+                },
+                {
+                  "@Num": "8",
+                  "ItemTitle": "八",
+                  "ItemSentence": {
+                    "Sentence": "運用手法別の運用の状況（事業団が法第三十九条第一項第三号並びに施行令第十六条第一号及び第三号に規定する方法で運用する場合にあっては、当該運用に関する契約の相手方の選定、管理の状況等を含む。）"
+                  }
+                },
+                {
+                  "@Num": "9",
+                  "ItemTitle": "九",
+                  "ItemSentence": {
+                    "Sentence": "事業団における株式に係る議決権の行使に関する状況等"
+                  }
+                },
+                {
+                  "@Num": "10",
+                  "ItemTitle": "十",
+                  "ItemSentence": {
+                    "Sentence": "事業団の役員（監事を除く。）及び職員の職務の執行が法令等に適合するための体制その他事業団の業務の適正を確保するための体制に関する事項"
+                  }
+                },
+                {
+                  "@Num": "11",
+                  "ItemTitle": "十一",
+                  "ItemSentence": {
+                    "Sentence": "その他管理積立金の管理及び運用に関する重要事項"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "@Num": "24_4",
+            "ArticleCaption": "（厚生年金保険法第七十九条の八第二項に規定する文部科学省令で定める事項）",
+            "ArticleTitle": "第二十四条の四",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "厚生年金保険法第七十九条の八第二項に規定する文部科学省令で定める事項は、次に掲げる事項とする。"
+              },
+              "Item": [
+                {
+                  "@Num": "1",
+                  "ItemTitle": "一",
+                  "ItemSentence": {
+                    "Sentence": "管理積立金の運用の状況及び当該運用の状況が年金財政に与える影響"
+                  }
+                },
+                {
+                  "@Num": "2",
+                  "ItemTitle": "二",
+                  "ItemSentence": {
+                    "Sentence": "厚生年金保険法第七十九条の三第三項ただし書の規定による運用の状況"
+                  }
+                },
+                {
+                  "@Num": "3",
+                  "ItemTitle": "三",
+                  "ItemSentence": {
+                    "Sentence": "厚生年金保険法第七十九条の四第一項に規定する積立金基本指針及び同法第七十九条の六第一項に規定する管理運用の方針に定める事項の遵守の状況（前二号に掲げるものを除く。）"
+                  }
+                },
+                {
+                  "@Num": "4",
+                  "ItemTitle": "四",
+                  "ItemSentence": {
+                    "Sentence": "その他管理積立金の管理及び運用に関する重要事項"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "@Num": "25",
+            "ArticleCaption": "（退職等年金給付積立金の管理運用の方針）",
+            "ArticleTitle": "第二十五条",
+            "Paragraph": [
+              {
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": "事業団は、その管理する退職等年金給付積立金の管理及び運用が長期的な観点から安全かつ効率的に行われるようにするため、管理及び運用の方針（以下「退職等年金給付積立金管理運用方針」という。）を定めなければならない。"
+                }
+              },
+              {
+                "@Num": "2",
+                "ParagraphNum": "２",
+                "ParagraphSentence": {
+                  "Sentence": "退職等年金給付積立金管理運用方針においては、次に掲げる事項を定めるものとする。"
+                },
+                "Item": [
+                  {
+                    "@Num": "1",
+                    "ItemTitle": "一",
+                    "ItemSentence": {
+                      "Sentence": "退職等年金給付積立金の管理及び運用の基本的な方針"
+                    }
+                  },
+                  {
+                    "@Num": "2",
+                    "ItemTitle": "二",
+                    "ItemSentence": {
+                      "Sentence": "退職等年金給付積立金の管理及び運用に関し遵守すべき事項"
+                    }
+                  },
+                  {
+                    "@Num": "3",
+                    "ItemTitle": "三",
+                    "ItemSentence": {
+                      "Sentence": "退職等年金給付積立金の管理及び運用における長期的な観点からの資産の構成に関する事項"
+                    }
+                  },
+                  {
+                    "@Num": "4",
+                    "ItemTitle": "四",
+                    "ItemSentence": {
+                      "Sentence": "その他退職等年金給付積立金の管理及び運用に関し必要な事項"
+                    }
+                  }
+                ]
+              },
+              {
+                "@Num": "3",
+                "ParagraphNum": "３",
+                "ParagraphSentence": {
+                  "Sentence": "事業団は、退職等年金給付積立金管理運用方針を定め、又は変更しようとするときは、あらかじめ、文部科学大臣の承認を得なければならない。"
+                }
+              },
+              {
+                "@Num": "4",
+                "ParagraphNum": "４",
+                "ParagraphSentence": {
+                  "Sentence": "事業団は、退職等年金給付積立金管理運用方針を定め、又は変更したときは、遅滞なく、これを公表しなければならない。"
+                }
+              },
+              {
+                "@Num": "5",
+                "ParagraphNum": "５",
+                "ParagraphSentence": {
+                  "Sentence": "事業団は、退職等年金給付積立金管理運用方針に従って退職等年金給付積立金の管理及び運用を行わなければならない。"
+                }
+              }
+            ]
+          },
+          {
+            "@Num": "26",
+            "ArticleCaption": "（退職等年金給付積立金の管理及び運用の状況に関する業務概況書）",
+            "ArticleTitle": "第二十六条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "事業団は、各事業年度の決算完結後、遅滞なく、当該事業年度における退職等年金給付積立金の資産の額、その構成割合、運用収入の額その他の退職等年金給付積立金の管理及び運用に関する事項を記載した業務概況書を作成し、文部科学大臣に提出するとともに、これを公表しなければならない。"
+              }
+            }
+          },
+          {
+            "@Num": "27",
+            "ArticleCaption": "（貯金事業に係る資産の構成）",
+            "ArticleTitle": "第二十七条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "事業団が保有する福祉勘定の資産のうち、貯金事業に係る次の各号に掲げる資産の価額は、常時、当該各号に定める額以下でなければならない。"
+              },
+              "Item": [
+                {
+                  "@Num": "1",
+                  "ItemTitle": "一",
+                  "ItemSentence": {
+                    "Column": [
+                      {
+                        "@Num": "1",
+                        "Sentence": "公社債投資信託の受益証券"
+                      },
+                      {
+                        "@Num": "2",
+                        "Sentence": "前月末日において事業団が寄託を受けている貯金の残高に百分の五を乗じて得た額"
+                      }
+                    ]
+                  }
+                },
+                {
+                  "@Num": "2",
+                  "ItemTitle": "二",
+                  "ItemSentence": {
+                    "Column": [
+                      {
+                        "@Num": "1",
+                        "Sentence": "固定資産（有形固定資産及び無形固定資産に限る。）"
+                      },
+                      {
+                        "@Num": "2",
+                        "Sentence": "前月末日において事業団が寄託を受けている貯金の残高に百分の二を乗じて得た額"
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "@Num": "28",
+            "ArticleCaption": "（共済業務に係る債権の放棄等）",
+            "ArticleTitle": "第二十八条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": [
+                  {
+                    "@Function": "main",
+                    "@Num": "1",
+                    "#text": "事業団は、共済業務に係る債権について、その全部若しくは一部を放棄し、又はその効力を変更することができない。"
+                  },
+                  {
+                    "@Function": "proviso",
+                    "@Num": "2",
+                    "#text": "ただし、当該債権を行使するため必要とする費用がその債権の額を超えるとき、当該債権の効力の変更が明らかに事業団に有利であるとき及びやむを得ない事由がある場合において文部科学大臣の承認を受けたときは、この限りでない。"
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "@Num": "29",
+            "ArticleCaption": "（資産の交換等の制限）",
+            "ArticleTitle": "第二十九条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": [
+                  {
+                    "@Function": "main",
+                    "@Num": "1",
+                    "#text": "事業団の資産は、これを交換し、適正な対価なくして譲渡し若しくは貸し付け、担保に供し、又は支払手段として用いてはならない。"
+                  },
+                  {
+                    "@Function": "proviso",
+                    "@Num": "2",
+                    "#text": "ただし、事業団の目的を達成するため必要な場合において、文部科学大臣の承認を受けたときは、この限りでない。"
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "@Num": "30",
+            "ArticleCaption": "（繰延資産）",
+            "ArticleTitle": "第三十条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": [
+                  {
+                    "@Num": "1",
+                    "#text": "事業団は、第三十五条第一項の会計規程の定めるところにより、福祉事業に必要な施設の取得に当たり、当該施設の事業の開始までに要した費用のうち資産としての価値がなく事業の開始に係る年度において計上することが困難な費用について繰延資産に計上することができる。"
+                  },
+                  {
+                    "@Num": "2",
+                    "#text": "この場合には、当該事業の開始に係る年度の決算期から五年以内に、毎決算期に均等額以上の償却をしなければならない。"
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "@Num": "31",
+            "ArticleCaption": "（有価証券の評価に関する基準額の特例）",
+            "ArticleTitle": "第三十一条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": [
+                  {
+                    "@Function": "main",
+                    "@Num": "1",
+                    "#text": "共済業務において取得した有価証券の価額は、取得原価によるものとする。"
+                  },
+                  {
+                    "@Function": "proviso",
+                    "@Num": "2",
+                    "#text": "ただし、当座資産として取得した有価証券について、時価と帳簿価額とに著しい差異がある場合には、当該事業年度末日において再評価し、帳簿価額を適正に修正しなければならない。"
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "@Num": "32",
+            "ArticleCaption": "（貸倒引当金に関する特例）",
+            "ArticleTitle": "第三十二条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "事業団は、福祉勘定においては、毎事業年度末日において、貸付金、売掛金その他事業に係る未収金の総額の百分の二以内で文部科学大臣が定める金額に達するまでの金額を貸倒引当金として計上することができる。"
+              }
+            }
+          },
+          {
+            "@Num": "33",
+            "ArticleCaption": "（特別修繕引当金及び支払準備金）",
+            "ArticleTitle": "第三十三条",
+            "Paragraph": [
+              {
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": "事業団は、福祉勘定又は共済業務勘定においては、事業に使用されている施設について翌事業年度以降に大規模の修繕をすることが予定されている場合には、毎事業年度末日において、所要の金額を特別修繕引当金として計上することができる。"
+                }
+              },
+              {
+                "@Num": "2",
+                "ParagraphNum": "２",
+                "ParagraphSentence": {
+                  "Sentence": "事業団は、短期勘定においては、毎事業年度末日において、当該事業年度における短期給付の請求額の総額の十二分の一に相当する金額を支払準備金として積み立て、翌事業年度末日まで据え置かなければならない。"
+                }
+              }
+            ]
+          },
+          {
+            "@Num": "34",
+            "ArticleCaption": "（寄付金の運用利益金に関する会計処理）",
+            "ArticleTitle": "第三十四条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "法第二十三条第一項第四号に規定する寄付金の運用により生ずる利子その他の運用利益金（以下この条において「運用利益金」という。）は、これが発生した時点においては負債に計上するものとし、当該運用利益金の使途に充てるための費用が発生した時点において当該費用に相当する額を収益に振り替えるものとする。"
+              }
+            }
+          },
+          {
+            "@Num": "35",
+            "ArticleCaption": "（会計規程の作成）",
+            "ArticleTitle": "第三十五条",
+            "Paragraph": [
+              {
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": "事業団は、その財務及び会計に関し、法及びこれに基づく命令に定めるもののほか、会計規程を定めなければならない。"
+                }
+              },
+              {
+                "@Num": "2",
+                "ParagraphNum": "２",
+                "ParagraphSentence": {
+                  "Sentence": [
+                    {
+                      "@Num": "1",
+                      "#text": "事業団は、前項の会計規程を定めたときは、文部科学大臣に届け出なければならない。"
+                    },
+                    {
+                      "@Num": "2",
+                      "#text": "これを変更したときも、同様とする。"
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      "SupplProvision": [
+        {
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": [
+            {
+              "@Num": "1",
+              "ParagraphNum": "１",
+              "ParagraphSentence": {
+                "Sentence": "この省令は、平成十年一月一日から施行する。"
+              }
+            },
+            {
+              "@Num": "2",
+              "ParagraphNum": "２",
+              "ParagraphSentence": {
+                "Sentence": "事業団は、当分の間、第二条第一項に規定する厚生年金勘定の内訳として、厚生年金経理及び職域年金経理の各経理単位を設け、当該勘定に係る貸借対照表及び損益計算書に各経理単位の内訳を記載した書類を添付するものとする。"
+              }
+            },
+            {
+              "@Num": "3",
+              "ParagraphNum": "３",
+              "ParagraphSentence": {
+                "Sentence": "財政融資資金法第七条第三項の規定により財務大臣が定める利率（預託期間が十年の預託金に係るものに限る。）が第二十四条の二第一号に規定する利率を下回っている間においては、同条の規定により厚生年金勘定に属する余裕金を他の勘定（助成勘定を除く。）に貸し付ける場合の貸付金に係る利率については、同条の規定にかかわらず、厚生年金保険事業等に係る財政の安定に配慮して文部科学大臣が別に定める利率によることができる。"
+              }
+            },
+            {
+              "@Num": "4",
+              "ParagraphNum": "４",
+              "ParagraphSentence": {
+                "Sentence": "附則第二項の場合における第十九条の規定の適用については、同条中「厚生年金勘定」とあるのは、「厚生年金勘定の厚生年金経理」とする。"
+              }
+            },
+            {
+              "@Num": "5",
+              "ParagraphNum": "５",
+              "ParagraphSentence": {
+                "Sentence": "事業団は、毎事業年度、附則第二項に規定する職域年金経理において損益計算上利益を生じたときは、その額を経過的長期給付積立金として積み立てなければならない。"
+              }
+            },
+            {
+              "@Num": "6",
+              "ParagraphNum": "６",
+              "ParagraphSentence": {
+                "Sentence": "第二十五条及び第二十六条の規定は、前項に規定する経過的長期給付積立金について準用する。"
+              }
+            },
+            {
+              "@Num": "7",
+              "ParagraphNum": "７",
+              "ParagraphSentence": {
+                "Sentence": "事業団は、軽減保険料率（被用者年金制度の一元化等を図るための厚生年金保険法等の一部を改正する法律（平成二十四年法律第六十三号。第一号において「一元化法」という。）附則第八十五条第二項の規定により、第四号厚生年金被保険者（厚生年金保険法（昭和二十九年法律第百十五号）第二条の五第一項第四号に規定する第四号厚生年金被保険者をいう。以下この項において同じ。）の平成二十七年十月から平成四十一年八月までの月分の同法による保険料率として共済規程（共済法第四条第一項に規定する共済規程をいう。）で定める率をいう。第二号において同じ。）を定めたときは、第一号に掲げる額から第二号に掲げる額を控除した額に相当する金額を、各月ごとに、附則第二項に規定する職域年金経理から同項に規定する厚生年金経理に繰り入れるものとする。"
+              },
+              "Item": [
+                {
+                  "@Num": "1",
+                  "ItemTitle": "一",
+                  "ItemSentence": {
+                    "Sentence": "当該月に係る一元化法附則第八十五条第一項に規定する厚生年金保険法による保険料率に基づき算定された当該月の第四号厚生年金被保険者に係る同法による保険料の総額"
+                  }
+                },
+                {
+                  "@Num": "2",
+                  "ItemTitle": "二",
+                  "ItemSentence": {
+                    "Sentence": "当該月に係る軽減保険料率に基づき算定された当該月の第四号厚生年金被保険者に係る厚生年金保険法による保険料の総額"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "@AmendLawNum": "平成一二年三月三一日文部省令第四五号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": [
+            {
+              "@Num": "1",
+              "ParagraphNum": "１",
+              "ParagraphSentence": {
+                "Sentence": "この省令は、平成十二年四月一日から施行する。"
+              }
+            },
+            {
+              "@Num": "3",
+              "ParagraphNum": "３",
+              "ParagraphSentence": {
+                "Sentence": "第二条による改正後の日本私立学校振興・共済事業団の財務及び会計に関する省令第四条第一項及び第三十条第三項の規定は、施行日以後の期間に係る利率について適用し、施行日前の期間に係る利率については、なお従前の例による。"
+              }
+            }
+          ]
+        },
+        {
+          "@AmendLawNum": "平成一二年一〇月三一日文部省令第五三号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Article": {
+            "@Num": "1",
+            "ArticleCaption": "（施行期日）",
+            "ArticleTitle": "第一条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "この省令は、内閣法の一部を改正する法律（平成十一年法律第八十八号）の施行の日（平成十三年一月六日）から施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成一三年三月三〇日文部科学省令第二四号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": [
+            {
+              "@Num": "1",
+              "ParagraphNum": "１",
+              "ParagraphSentence": {
+                "Sentence": "この省令は、平成十三年四月一日から施行する。"
+              }
+            },
+            {
+              "@Num": "2",
+              "ParagraphNum": "２",
+              "ParagraphSentence": {
+                "Sentence": "第五条の規定による改正後の日本私立学校振興・共済事業団の財務及び会計に関する省令第四条第二項及び附則第三項の規定は、平成十三年四月一日以後の期間に係る利率について適用し、同日前の期間に係る利率については、なお従前の例による。"
+              }
+            }
+          ]
+        },
+        {
+          "@AmendLawNum": "平成一四年三月五日文部科学省令第四号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この省令は、公布の日から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成一四年六月二八日文部科学省令第三二号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この省令は、平成十四年七月一日から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成一五年三月三一日文部科学省令第一九号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この省令は、平成十五年四月一日から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成一五年一〇月一日文部科学省令第四六号",
+          "SupplProvisionLabel": "附　則",
+          "Article": [
+            {
+              "@Num": "1",
+              "ArticleCaption": "（施行期日）",
+              "ArticleTitle": "第一条",
+              "Paragraph": {
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": "この省令は、公布の日から施行する。"
+                }
+              }
+            },
+            {
+              "@Num": "2",
+              "ArticleCaption": "（平成十五年度における会計処理等）",
+              "ArticleTitle": "第二条",
+              "Paragraph": {
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": "平成十五年度における事業団の会計処理は、この省令の施行後も、なお従前の例による。"
+                }
+              }
+            },
+            {
+              "@Num": "3",
+              "ArticleTitle": "第三条",
+              "Paragraph": {
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": "平成十五年度分の法第三十二条第一項に規定する財務諸表及び業務報告書等は、第二条の規定による改正後の日本私立学校振興・共済事業団の財務及び会計に関する省令の規定に基づき作成するものとする。"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@AmendLawNum": "平成一七年四月一日文部科学省令第二六号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この省令は、公布の日から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成一九年九月二八日文部科学省令第二七号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この省令は、平成十九年九月三十日から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成一九年一〇月一日文部科学省令第三〇号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この省令は、公布の日から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成二二年一一月二六日文部科学省令第二一号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この省令は、独立行政法人通則法の一部を改正する法律の施行の日（平成二十二年十一月二十七日）から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成二六年一二月二六日文部科学省令第三五号",
+          "SupplProvisionLabel": "附　則",
+          "Article": [
+            {
+              "@Num": "1",
+              "ArticleCaption": "（施行期日）",
+              "ArticleTitle": "第一条",
+              "Paragraph": {
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": [
+                    {
+                      "@Function": "main",
+                      "@Num": "1",
+                      "#text": "この省令は、平成二十七年十月一日から施行する。"
+                    },
+                    {
+                      "@Function": "proviso",
+                      "@Num": "2",
+                      "#text": "ただし、附則第四条及び第五条の規定は、公布の日から施行する。"
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "@Num": "2",
+              "ArticleCaption": "（厚生年金保険給付積立金の当初額）",
+              "ArticleTitle": "第二条",
+              "Paragraph": {
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": "この省令による改正前の日本私立学校振興・共済事業団の財務及び会計に関する省令（次条において「改正前財務会計省令」という。）第十九条に規定する長期給付積立金のうち、被用者年金制度の一元化等を図るための厚生年金保険法等の一部を改正する法律（平成二十四年法律第六十三号）附則第二十七条第一項の規定により実施機関積立金として積み立てられたものとみなされた額に相当する部分は、この省令の施行の日（以下「施行日」という。）において、この省令による改正後の日本私立学校振興・共済事業団の財務及び会計に関する省令（以下「改正後財務会計省令」という。）附則第四項の規定により読み替えられた改正後財務会計省令第十九条に規定する厚生年金保険給付積立金として積み立てられたものとみなす。"
+                }
+              }
+            },
+            {
+              "@Num": "3",
+              "ArticleCaption": "（経過的長期給付積立金の当初額）",
+              "ArticleTitle": "第三条",
+              "Paragraph": {
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": "改正前財務会計省令第十九条に規定する長期給付積立金のうち、その額から前条の規定により厚生年金保険給付積立金として積み立てられたものとみなされた額を控除した額に相当する部分は、施行日において、改正後財務会計省令附則第五項に規定する経過的長期給付積立金として積み立てられたものとみなす。"
+                }
+              }
+            },
+            {
+              "@Num": "4",
+              "ArticleCaption": "（退職等年金給付積立金管理運用方針に関する経過措置）",
+              "ArticleTitle": "第四条",
+              "Paragraph": [
+                {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "日本私立学校振興・共済事業団は、施行日前においても、改正後財務会計省令第二十五条の規定の例により、同条第一項に規定する退職等年金給付積立金管理運用方針を定め、これを公表することができる。"
+                  }
+                },
+                {
+                  "@Num": "2",
+                  "ParagraphNum": "２",
+                  "ParagraphSentence": {
+                    "Sentence": "前項の規定により定められ、公表された退職等年金給付積立金管理運用方針は、施行日において改正後財務会計省令第二十五条の規定により定められ、公表されたものとみなす。"
+                  }
+                }
+              ]
+            },
+            {
+              "@Num": "5",
+              "ArticleCaption": "（経過的長期給付積立金管理運用方針に関する経過措置）",
+              "ArticleTitle": "第五条",
+              "Paragraph": [
+                {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "日本私立学校振興・共済事業団は、施行日前においても、改正後財務会計省令附則第六項において準用する改正後財務会計省令第二十五条の規定の例により、改正後財務会計省令附則第五項に規定する経過的長期給付積立金の管理及び運用の方針を定め、これを公表することができる。"
+                  }
+                },
+                {
+                  "@Num": "2",
+                  "ParagraphNum": "２",
+                  "ParagraphSentence": {
+                    "Sentence": "前項の規定により定められ、公表された管理及び運用の方針は、施行日において改正後財務会計省令附則第六項において準用する改正後財務会計省令第二十五条の規定により定められ、公表されたものとみなす。"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "@AmendLawNum": "平成二七年三月三〇日文部科学省令第一二号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Article": [
+            {
+              "@Num": "1",
+              "ArticleCaption": "（施行期日）",
+              "ArticleTitle": "第一条",
+              "Paragraph": {
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": "この省令は、独立行政法人通則法の一部を改正する法律（以下「通則法改正法」という。）の施行の日（平成二十七年四月一日）から施行する。"
+                }
+              }
+            },
+            {
+              "@Num": "3",
+              "ArticleCaption": "（業務報告書又は事業報告書の作成に係る経過措置）",
+              "ArticleTitle": "第三条",
+              "Paragraph": {
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": "この省令による改正後の次に掲げる省令の規定は、通則法改正法の施行の日以後に開始する事業年度に係る業務報告書又は事業報告書から適用する。"
+                },
+                "Item": {
+                  "@Num": "1",
+                  "ItemTitle": "一",
+                  "ItemSentence": {
+                    "Sentence": "日本私立学校振興・共済事業団の財務及び会計に関する省令第十六条の二第三項"
+                  }
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@AmendLawNum": "平成二七年九月三〇日文部科学省令第三三号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Article": {
+            "@Num": "1",
+            "ArticleCaption": "（施行期日）",
+            "ArticleTitle": "第一条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "この省令は、平成二十七年十月一日から施行する。"
+              }
+            }
+          }
+        }
+      ]
+    }
+  }
+}

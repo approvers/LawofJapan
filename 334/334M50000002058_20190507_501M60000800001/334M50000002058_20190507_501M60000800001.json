@@ -1,0 +1,1834 @@
+{
+  "Law": {
+    "@Era": "Showa",
+    "@Lang": "ja",
+    "@LawType": "MinisterialOrdinance",
+    "@Num": "058",
+    "@Year": "34",
+    "LawNum": "昭和三十四年総理府令第五十八号",
+    "LawBody": {
+      "LawTitle": "地下水調査作業規程準則",
+      "EnactStatement": "国土調査法第三条第二項の規定に基き、地下水調査作業規程準則を次のように定める。",
+      "TOC": {
+        "TOCLabel": "目次",
+        "TOCChapter": [
+          {
+            "@Delete": "false",
+            "@Num": "1",
+            "ChapterTitle": "第一章　総則",
+            "ArticleRange": "（第一条―第八条）"
+          },
+          {
+            "@Delete": "false",
+            "@Num": "2",
+            "ChapterTitle": "第二章　現地作業",
+            "ArticleRange": "（第九条―第二十四条）"
+          },
+          {
+            "@Delete": "false",
+            "@Num": "3",
+            "ChapterTitle": "第三章　整理作業",
+            "ArticleRange": "（第二十五条―第三十一条）"
+          }
+        ],
+        "TOCSupplProvision": {
+          "SupplProvisionLabel": "附則"
+        }
+      },
+      "MainProvision": {
+        "Chapter": [
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "1",
+            "ChapterTitle": "第一章　総則",
+            "Article": [
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "1",
+                "ArticleCaption": "（目的）",
+                "ArticleTitle": "第一条",
+                "Paragraph": {
+                  "@Hide": "false",
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "国土調査法（昭和二十六年法律第百八十号。以下「法」という。）第二条第一項第一号及び第三号の規定による水調査のうち、地下水に関する調査（以下「地下水調査」という。）の作業規程の準則は、この省令の定めるところによる。"
+                    }
+                  }
+                }
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "2",
+                "ArticleCaption": "（調査単位区域）",
+                "ArticleTitle": "第二条",
+                "Paragraph": {
+                  "@Hide": "false",
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "地下水調査は、水基本調査作業規程準則（昭和二十八年総理府令第三十五号。以下「水基本調査準則」という。）第一条の規定による水調査の基準の設定のための調査を行つた区域（以下「調査単位区域」という。）内において行うものとする。"
+                    }
+                  }
+                }
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "3",
+                "ArticleCaption": "（調査の内容）",
+                "ArticleTitle": "第三条",
+                "Paragraph": {
+                  "@Hide": "false",
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "地下水調査においては、水基本調査準則第二十九条の規定により決定した位置において地下水の水位（以下「地下水位」という。）の観測並びに帯水層の状況に関する調査を行い、その結果を地図及び簿冊に作成するものとする。"
+                    }
+                  }
+                }
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "4",
+                "ArticleCaption": "（地下水調査の作業）",
+                "ArticleTitle": "第四条",
+                "Paragraph": {
+                  "@Hide": "false",
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "地下水調査の作業は、現地作業及び整理作業とする。"
+                    }
+                  }
+                }
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "5",
+                "ArticleCaption": "（現地作業）",
+                "ArticleTitle": "第五条",
+                "Paragraph": {
+                  "@Hide": "false",
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "現地作業とは、第三条に規定する位置において地下水位の同時観測、長期観測及び地盤の標高（以下「地盤高」という。）の測定を行うとともに、帯水層の状況を明らかにするために必要な踏査、地質ボーリング及び物理探査等の地質に関する調査（以下「地質調査」という。）等を行う作業をいう。"
+                    }
+                  }
+                }
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "6",
+                "ArticleCaption": "（整理作業）",
+                "ArticleTitle": "第六条",
+                "Paragraph": {
+                  "@Hide": "false",
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "整理作業とは、前条の現地作業の結果を基礎として、地下水観測表、地下水位年表、地下水位図表、地下水図、地質柱状断面図及び地下水説明書を作成する作業をいう。"
+                    }
+                  }
+                }
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "7",
+                "ArticleCaption": "（精度の保持）",
+                "ArticleTitle": "第七条",
+                "Paragraph": {
+                  "@Hide": "false",
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "調査を行う者及び調査を監督する者は、常に各種の方法によつて検査を行い、調査が良好な精度を保つて行われるように留意しなければならない。"
+                    }
+                  }
+                }
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "8",
+                "ArticleCaption": "（作業記録）",
+                "ArticleTitle": "第八条",
+                "Paragraph": {
+                  "@Hide": "false",
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "現地作業を行うに当たつては、国土交通大臣の定める様式により作業記録を作成するものとする。"
+                    }
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "2",
+            "ChapterTitle": "第二章　現地作業",
+            "Article": [
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "9",
+                "ArticleCaption": "（基図）",
+                "ArticleTitle": "第九条",
+                "Paragraph": {
+                  "@Hide": "false",
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": [
+                      {
+                        "@Function": "main",
+                        "@Num": "1",
+                        "@WritingMode": "vertical",
+                        "#text": "現地作業に当たつては、測量法（昭和二十四年法律第百八十八号）第二十七条第二項の規定により国土交通大臣の刊行した二万五千分の一の地形図又は二万五千分の一以上の大縮尺を有する地形図を基図に用いるものとする。"
+                      },
+                      {
+                        "@Function": "proviso",
+                        "@Num": "2",
+                        "@WritingMode": "vertical",
+                        "#text": "ただし、これらの地形図がない場合においては、五万分の一の地形図を二倍以上に拡大したものを用いることができる。"
+                      }
+                    ]
+                  }
+                }
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "10",
+                "ArticleCaption": "（地盤高の測定）",
+                "ArticleTitle": "第十条",
+                "Paragraph": [
+                  {
+                    "@Hide": "false",
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": [
+                        {
+                          "@Num": "1",
+                          "@WritingMode": "vertical",
+                          "Ruby": {
+                            "Rt": "せい",
+                            "#text": "井"
+                          },
+                          "#text": "観測における地盤高の測定は、水準路線を選定して、当該水準路線に従い、次の各号に規定する水準測量により行うことを原則とする。"
+                        },
+                        {
+                          "@Num": "2",
+                          "@WritingMode": "vertical",
+                          "Ruby": {
+                            "Rt": "がわ",
+                            "#text": "側"
+                          },
+                          "#text": "この場合においては、必ず井戸の定点を測量するものとする。"
+                        }
+                      ]
+                    },
+                    "Item": [
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "1",
+                        "ItemTitle": "一",
+                        "ItemSentence": {
+                          "Sentence": [
+                            {
+                              "@Function": "main",
+                              "@Num": "1",
+                              "@WritingMode": "vertical",
+                              "#text": "水準路線は、測量法第四条の規定による基本測量（以下「基本測量」という。）の成果である水準点又は法第二条第二項の規定による基準点の測量（以下「基準点測量」という。）の成果である基準水準点若しくは補助水準点から出発してこれらの点に閉合するように選定しなければならない。"
+                            },
+                            {
+                              "@Function": "proviso",
+                              "@Num": "2",
+                              "@WritingMode": "vertical",
+                              "#text": "ただし、やむをえない場合には、河川等について設定された既設の水準点を出発点とすることができる。"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "2",
+                        "ItemTitle": "二",
+                        "ItemSentence": {
+                          "Sentence": [
+                            {
+                              "@Function": "main",
+                              "@Num": "1",
+                              "@WritingMode": "vertical",
+                              "#text": "水準測量の観測は、往復観測によるものとする。"
+                            },
+                            {
+                              "@Function": "proviso",
+                              "@Num": "2",
+                              "@WritingMode": "vertical",
+                              "#text": "ただし、水準路線が閉合しており、かつ、精度の保持に支障がないと認める場合には、片道観測によることができる。"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "3",
+                        "ItemTitle": "三",
+                        "ItemSentence": {
+                          "Sentence": [
+                            {
+                              "@Num": "1",
+                              "@WritingMode": "vertical",
+                              "#text": "水準測量の観測は、二個の水準標尺を水準儀の前後におおむね等距離において行うものとする。"
+                            },
+                            {
+                              "@Num": "2",
+                              "@WritingMode": "vertical",
+                              "#text": "この場合水準儀と水準標尺との距離は、百メートルをこえてはならない。"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "4",
+                        "ItemTitle": "四",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "水準測量における観測値の制限は、別表第一に定めるところによるものとする。"
+                          }
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Hide": "false",
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "前項の規定にかかわらず、やむをえない場合には、読図又は空中写真測量によつて地盤高を測定することができる。"
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "11",
+                "ArticleCaption": "（地下水位等の観測）",
+                "ArticleTitle": "第十一条",
+                "Paragraph": {
+                  "@Hide": "false",
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "Ruby": {
+                        "Rt": "せい",
+                        "#text": "井"
+                      },
+                      "#text": "観測における地下水位は、地盤から地下水面までの深さ又は高さをもつてあらわすものとする。"
+                    }
+                  }
+                }
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "12",
+                "ArticleTitle": "第十二条",
+                "Paragraph": [
+                  {
+                    "@Hide": "false",
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": [
+                        {
+                          "@Num": "1",
+                          "@WritingMode": "vertical",
+                          "Ruby": [
+                            {
+                              "Rt": "せい",
+                              "#text": "井"
+                            },
+                            {
+                              "Rt": "がわ",
+                              "#text": "側"
+                            },
+                            {
+                              "Rt": "がわ",
+                              "#text": "側"
+                            }
+                          ],
+                          "#text": "観測における地下水位の観測は、井戸の定点から行うものとし、井戸に移動のないことを常に確認しておかなければならない。"
+                        },
+                        {
+                          "@Num": "2",
+                          "@WritingMode": "vertical",
+                          "#text": "この場合において、地下水位の読み取りの単位は、一センチメートルとする。"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "@Hide": "false",
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "Ruby": [
+                          {
+                            "Rt": "じよう",
+                            "#text": "縄"
+                          },
+                          {
+                            "Rt": "おもり",
+                            "#text": "錘"
+                          }
+                        ],
+                        "#text": "前項の観測は、自噴する井戸の場合を除き、測等の先端に木板若しくは風鈴及び又は地下水面に到達したときに信号を発するような装置をつけたものを用いて行うものとする。"
+                      }
+                    }
+                  },
+                  {
+                    "@Hide": "false",
+                    "@Num": "3",
+                    "ParagraphNum": "３",
+                    "ParagraphSentence": {
+                      "Sentence": [
+                        {
+                          "@Num": "1",
+                          "@WritingMode": "vertical",
+                          "#text": "第一項の観測を行う場合は、自噴する井戸の場合を除き、あわせて、井戸底までの深さを測定するものとする。"
+                        },
+                        {
+                          "@Num": "2",
+                          "@WritingMode": "vertical",
+                          "#text": "この場合における測定の方法は、前二項の観測に準ずるものとする。"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "13",
+                "ArticleTitle": "第十三条",
+                "Paragraph": {
+                  "@Hide": "false",
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": [
+                      {
+                        "@Function": "main",
+                        "@Num": "1",
+                        "@WritingMode": "vertical",
+                        "Ruby": {
+                          "Rt": "がわ",
+                          "#text": "側"
+                        },
+                        "#text": "自噴する井戸においては、井戸の上端にゴム管、ビニール管等を結合し、漏水のないようにしてから、静止した水位を観測するものとする。"
+                      },
+                      {
+                        "@Function": "proviso",
+                        "@Num": "2",
+                        "@WritingMode": "vertical",
+                        "#text": "ただし、水位が高い場合には、圧力計を取りつけて行うことができる。"
+                      }
+                    ]
+                  }
+                }
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "14",
+                "ArticleCaption": "（同時観測）",
+                "ArticleTitle": "第十四条",
+                "Paragraph": {
+                  "@Hide": "false",
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "Ruby": {
+                        "Rt": "せい",
+                        "#text": "井"
+                      },
+                      "#text": "観測における地下水位の同時観測は、年二回地下水位の高い時期と低い時期を選んで実施することを原則とする。"
+                    }
+                  }
+                }
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "15",
+                "ArticleTitle": "第十五条",
+                "Paragraph": {
+                  "@Hide": "false",
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": [
+                      {
+                        "@Function": "main",
+                        "@Num": "1",
+                        "@WritingMode": "vertical",
+                        "#text": "前条の同時観測は、数日間降雨のないときに、調査単位区域全般にわたつて同時に行うものとする。"
+                      },
+                      {
+                        "@Function": "proviso",
+                        "@Num": "2",
+                        "@WritingMode": "vertical",
+                        "#text": "ただし、やむをえない場合には、二日以内に限り観測の期間を延長することができる。"
+                      }
+                    ]
+                  }
+                }
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "16",
+                "ArticleCaption": "（長期観測）",
+                "ArticleTitle": "第十六条",
+                "Paragraph": {
+                  "@Hide": "false",
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "Ruby": [
+                        {
+                          "Rt": "せい",
+                          "#text": "井"
+                        },
+                        {
+                          "Rt": "せい",
+                          "#text": "井"
+                        }
+                      ],
+                      "#text": "長期観測を実施すべき観測（以下「長期観測」という。）は、同時観測の結果に基き、地下水の分布の概要をはあくし、地形、地質、河川、湖沼、水路等の状況を十分勘案して決定するものとする。"
+                    }
+                  }
+                }
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "17",
+                "ArticleTitle": "第十七条",
+                "Paragraph": [
+                  {
+                    "@Hide": "false",
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": [
+                        {
+                          "@Function": "main",
+                          "@Num": "1",
+                          "@WritingMode": "vertical",
+                          "Ruby": {
+                            "Rt": "せい",
+                            "#text": "井"
+                          },
+                          "#text": "前条の長期観測においては、一年以上、毎日一回定時に、水位を観測するものとする。"
+                        },
+                        {
+                          "@Function": "proviso",
+                          "@Num": "2",
+                          "@WritingMode": "vertical",
+                          "Ruby": {
+                            "Rt": "せい",
+                            "#text": "井"
+                          },
+                          "#text": "ただし、観測以外の目的に使用されている井戸を長期観測とするときは、観測を行う日においてその井戸が観測以外の目的に使用される前に観測するものとする。"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "@Hide": "false",
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "前項の観測にあつては、自記水位計を使用することができる。"
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "18",
+                "ArticleCaption": "（水温等の観測）",
+                "ArticleTitle": "第十八条",
+                "Paragraph": [
+                  {
+                    "@Hide": "false",
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "Ruby": {
+                          "Rt": "せい",
+                          "#text": "井"
+                        },
+                        "#text": "主要な観測においては、次の各号に掲げる項目について観測するものとする。"
+                      }
+                    },
+                    "Item": [
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "1",
+                        "ItemTitle": "一",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "気温"
+                          }
+                        }
+                      },
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "2",
+                        "ItemTitle": "二",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "水温"
+                          }
+                        }
+                      },
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "3",
+                        "ItemTitle": "三",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "ｐＨ（ピー・エツチ）"
+                          }
+                        }
+                      },
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "4",
+                        "ItemTitle": "四",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "ＲｐＨ（アール・ピー・エツチ）"
+                          }
+                        }
+                      },
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "5",
+                        "ItemTitle": "五",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "導電率又は比抵抗"
+                          }
+                        }
+                      },
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "6",
+                        "ItemTitle": "六",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "その他地下水の特性を明らかにするため必要な項目"
+                          }
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Hide": "false",
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "前項の観測は、つとめて新鮮な状態にして地下水を採取し、なるべくすみやかに行わなければならない。"
+                      }
+                    }
+                  },
+                  {
+                    "@Hide": "false",
+                    "@Num": "3",
+                    "ParagraphNum": "３",
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "第一項各号に掲げる項目の観測は、水質調査作業規程準則（昭和三十二年総理府令第十四号）別表第二から第五までに定める方法に準じて行うものとする。"
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "19",
+                "ArticleCaption": "（簡易試掘）",
+                "ArticleTitle": "第十九条",
+                "Paragraph": [
+                  {
+                    "@Hide": "false",
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "Ruby": {
+                          "Rt": "せい",
+                          "#text": "井"
+                        },
+                        "#text": "既存の井戸が少いか又は観測として利用し難い場合においては、簡易な掘さく機を用いるか又は手掘り等の方法によつて試掘を行い、地下水位その他の観測を行うものとする。"
+                      }
+                    }
+                  },
+                  {
+                    "@Hide": "false",
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "Ruby": {
+                          "Rt": "くい",
+                          "#text": "杭"
+                        },
+                        "#text": "前項の場合においては、試掘点の附近に標を設置して、地下水位を観測する基点とするものとする。"
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "20",
+                "ArticleCaption": "（地質ボーリング）",
+                "ArticleTitle": "第二十条",
+                "Paragraph": {
+                  "@Hide": "false",
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "地質ボーリングを実施した場合においては、別表第二に定める様式により地質ボーリング台帳を作成するとともに、原則として地質の標本を採取し、保存するものとする。"
+                    }
+                  }
+                }
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "21",
+                "ArticleCaption": "（電気検層）",
+                "ArticleTitle": "第二十一条",
+                "Paragraph": [
+                  {
+                    "@Hide": "false",
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "前条の地質ボーリングを実施した場合は、帯水層の位置及び透水度を推定するために電気検層を実施するものとする。"
+                      }
+                    }
+                  },
+                  {
+                    "@Hide": "false",
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "前項の検層を実施した場合においては、その記録を作成するものとし、その記録の様式は、別表第三に定めるところによる。"
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "22",
+                "ArticleCaption": "（物理探査）",
+                "ArticleTitle": "第二十二条",
+                "Paragraph": [
+                  {
+                    "@Hide": "false",
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "物理探査を実施する場合においては、次の各号に掲げる方法のいずれかを用い又はこれらの方法を併用するものとする。"
+                      }
+                    },
+                    "Item": [
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "1",
+                        "ItemTitle": "一",
+                        "ItemSentence": {
+                          "Column": [
+                            {
+                              "@LineBreak": "false",
+                              "@Num": "1",
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "電気探査法"
+                              }
+                            },
+                            {
+                              "@LineBreak": "false",
+                              "@Num": "2",
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "原則として四電極比抵抗法による。"
+                              }
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "2",
+                        "ItemTitle": "二",
+                        "ItemSentence": {
+                          "Column": [
+                            {
+                              "@LineBreak": "false",
+                              "@Num": "1",
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "弾性波探査法"
+                              }
+                            },
+                            {
+                              "@LineBreak": "false",
+                              "@Num": "2",
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "原則として屈折波法による。"
+                              }
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Hide": "false",
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "前項の探査を実施した場合においては、その記録を作成するものとし、その記録の記載の方法は、別表第四に定めるところによる。"
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "23",
+                "ArticleCaption": "（透水係数の測定）",
+                "ArticleTitle": "第二十三条",
+                "Paragraph": [
+                  {
+                    "@Hide": "false",
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "透水係数の測定を実施する場合においては、新たに揚水のための井戸を掘さくして揚水試験を行い、それによつて得られた揚水量及び水位の測定結果並びに地質の状況から係数を求めるものとする。"
+                      }
+                    }
+                  },
+                  {
+                    "@Hide": "false",
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "前項の測定を実施した場合においては、その記録を作成するものとし、その記録の様式は、別表第五に定めるところによる。"
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "24",
+                "ArticleCaption": "（地質に関する踏査）",
+                "ArticleTitle": "第二十四条",
+                "Paragraph": {
+                  "@Hide": "false",
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "地質に関する踏査を実施する場合においては、地質露頭及び地形の観察により、透水層及び不透水層の性状、分布並びに相互の関係を明らかにするものとする。"
+                    }
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "3",
+            "ChapterTitle": "第三章　整理作業",
+            "Article": [
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "25",
+                "ArticleCaption": "（地下水観測表）",
+                "ArticleTitle": "第二十五条",
+                "Paragraph": [
+                  {
+                    "@Hide": "false",
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "第十四条の規定による同時観測の結果は、調査単位区域ごとに取りまとめ、地下水観測表（甲）を作成するものとする。"
+                      }
+                    }
+                  },
+                  {
+                    "@Hide": "false",
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "第十八条の規定による水温等の観測の結果は、調査単位区域ごとに取りまとめ、地下水観測表（乙）を作成するものとする。"
+                      }
+                    }
+                  },
+                  {
+                    "@Hide": "false",
+                    "@Num": "3",
+                    "ParagraphNum": "３",
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "前二項の観測表の様式は、それぞれ別表第六及び第七に定めるところによる。"
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "26",
+                "ArticleCaption": "（地下水位年表）",
+                "ArticleTitle": "第二十六条",
+                "Paragraph": [
+                  {
+                    "@Hide": "false",
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "第十七条の規定による長期観測の結果は、一月ごとに取りまとめ、これを一年ごとに取りまとめて地下水位年表を作成するものとする。"
+                      }
+                    }
+                  },
+                  {
+                    "@Hide": "false",
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "前項の年表の様式は、別表第八に定めるところによる。"
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "27",
+                "ArticleCaption": "（地下水位図表）",
+                "ArticleTitle": "第二十七条",
+                "Paragraph": [
+                  {
+                    "@Hide": "false",
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "地下水位図表は、前条の規定により作成した地下水位年表に基いて作成するものとする。"
+                      }
+                    }
+                  },
+                  {
+                    "@Hide": "false",
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "前項の図表の作成の方法は、別表第九に定めるところによる。"
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "28",
+                "ArticleCaption": "（地下水図）",
+                "ArticleTitle": "第二十八条",
+                "Paragraph": [
+                  {
+                    "@Hide": "false",
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "地下水図は、第九条の地形図を使用し、次の各号に掲げる事項を記載して作成するものとする。"
+                      }
+                    },
+                    "Item": [
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "1",
+                        "ItemTitle": "一",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "Ruby": [
+                              {
+                                "Rt": "せい",
+                                "#text": "井"
+                              },
+                              {
+                                "Rt": "ゆう",
+                                "#text": "湧"
+                              }
+                            ],
+                            "#text": "観測の位置及び種別並びに泉の位置"
+                          }
+                        }
+                      },
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "2",
+                        "ItemTitle": "二",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "地質ボーリングの位置、物理探査の測線の位置並びに地質柱状断面の方向及び位置"
+                          }
+                        }
+                      },
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "3",
+                        "ItemTitle": "三",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "地下水位等高線"
+                          }
+                        }
+                      },
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "4",
+                        "ItemTitle": "四",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "地下水自噴地帯の範囲"
+                          }
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Hide": "false",
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "前項各号に掲げる事項の記載の方法は、別表第十に定めるところによる。"
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "29",
+                "ArticleCaption": "（地下水位等高線のえがき方）",
+                "ArticleTitle": "第二十九条",
+                "Paragraph": [
+                  {
+                    "@Hide": "false",
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": [
+                        {
+                          "@Num": "1",
+                          "@WritingMode": "vertical",
+                          "Ruby": {
+                            "Rt": "せい",
+                            "#text": "井"
+                          },
+                          "#text": "地下水位等高線は、第十条の規定による地盤高の測定の結果並びに第十四条の規定による同時観測の結果から、各観測における地下水位の標高を算出し、この値をもととしてえがくものとする。"
+                        },
+                        {
+                          "@Num": "2",
+                          "@WritingMode": "vertical",
+                          "#text": "この場合においては、地形、地質、河川、湖沼、水路等の状況を考慮するものとする。"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "@Hide": "false",
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "前項の場合において、等高線の間隔は、原則として二メートルとする。"
+                      }
+                    }
+                  },
+                  {
+                    "@Hide": "false",
+                    "@Num": "3",
+                    "ParagraphNum": "３",
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "帯水層が上下に二層以上存在する場合は、自由地下水面の地下水位等高線は必ず表示するものとし、被圧地下水面の地下水位等高線は可能な限り表示するものとする。"
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "30",
+                "ArticleCaption": "（地質柱状断面図）",
+                "ArticleTitle": "第三十条",
+                "Paragraph": [
+                  {
+                    "@Hide": "false",
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": [
+                        {
+                          "@Function": "main",
+                          "@Num": "1",
+                          "@WritingMode": "vertical",
+                          "#text": "地質柱状断面図は、地質調査の結果に基き、水平は第九条の地形図の縮尺で、垂直は水平の五倍から二十五倍までの縮尺で、地形の断面を作成し、当該断面に地質及び帯水層相互の関係を推定図示して作成するものとする。"
+                        },
+                        {
+                          "@Function": "proviso",
+                          "@Num": "2",
+                          "@WritingMode": "vertical",
+                          "#text": "ただし、地質ボーリング資料が不十分な場合には、垂直の縮尺を水平の縮尺と同一又はその二倍とすることができる。"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "@Hide": "false",
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "前項の断面図の作成については、表層地質調査作業規程準則（昭和二十九年総理府令第六十五号）における地質断面図及び柱状断面図の規定を準用する。"
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "31",
+                "ArticleCaption": "（地下水説明書）",
+                "ArticleTitle": "第三十一条",
+                "Paragraph": {
+                  "@Hide": "false",
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "地下水説明書は、次の各号に掲げる事項を記載して作成し、その作成の基礎となつた資料を添付しておくものとする。"
+                    }
+                  },
+                  "Item": [
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "1",
+                      "ItemTitle": "一",
+                      "ItemSentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "調査単位区域の概要"
+                        }
+                      }
+                    },
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "2",
+                      "ItemTitle": "二",
+                      "ItemSentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "調査の方法"
+                        }
+                      }
+                    },
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "3",
+                      "ItemTitle": "三",
+                      "ItemSentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "地下水の利用の現況"
+                        }
+                      }
+                    },
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "4",
+                      "ItemTitle": "四",
+                      "ItemSentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "同時観測に関する事項"
+                        }
+                      }
+                    },
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "5",
+                      "ItemTitle": "五",
+                      "ItemSentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "地下水位の変動の状況"
+                        }
+                      }
+                    },
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "6",
+                      "ItemTitle": "六",
+                      "ItemSentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "帯水層及び不透水層の状況"
+                        }
+                      }
+                    },
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "7",
+                      "ItemTitle": "七",
+                      "ItemSentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "地下水分布の概況"
+                        }
+                      }
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      "SupplProvision": [
+        {
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この府令は、公布の日から施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "昭和四九年六月二六日総理府令第三九号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この府令は、公布の日から施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成元年三月一七日総理府令第一二号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この府令は、公布の日から施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成一二年八月一四日総理府令第一〇三号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この府令は、内閣法の一部を改正する法律（平成十一年法律第八十八号）の施行の日（平成十三年一月六日）から施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "令和元年五月七日国土交通省令第一号",
+          "@Type": "Amend",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この省令は、公布の日から施行する。"
+              }
+            }
+          }
+        }
+      ],
+      "AppdxTable": [
+        {
+          "AppdxTableTitle": {
+            "@WritingMode": "vertical",
+            "#text": "別表第一　水準測量における観測値の制限"
+          },
+          "TableStruct": {
+            "Table": {
+              "@WritingMode": "vertical",
+              "TableRow": [
+                {
+                  "TableColumn": [
+                    {
+                      "@BorderBottom": "solid",
+                      "@BorderLeft": "solid",
+                      "@BorderRight": "solid",
+                      "@BorderTop": "solid",
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "区分"
+                      }
+                    },
+                    {
+                      "@BorderBottom": "solid",
+                      "@BorderLeft": "solid",
+                      "@BorderRight": "solid",
+                      "@BorderTop": "solid",
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "観測値の制限"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "@BorderBottom": "solid",
+                      "@BorderLeft": "solid",
+                      "@BorderRight": "solid",
+                      "@BorderTop": "solid",
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "往復の出合差"
+                      }
+                    },
+                    {
+                      "@BorderBottom": "solid",
+                      "@BorderLeft": "solid",
+                      "@BorderRight": "solid",
+                      "@BorderTop": "solid",
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "１ｋｍにつき１．５ｃｍ"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "@BorderBottom": "solid",
+                      "@BorderLeft": "solid",
+                      "@BorderRight": "solid",
+                      "@BorderTop": "solid",
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "閉合差"
+                      }
+                    },
+                    {
+                      "@BorderBottom": "solid",
+                      "@BorderLeft": "solid",
+                      "@BorderRight": "solid",
+                      "@BorderTop": "solid",
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "１．５ｃｍ√Ｓ"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": {
+                    "@BorderBottom": "solid",
+                    "@BorderLeft": "solid",
+                    "@BorderRight": "solid",
+                    "@BorderTop": "solid",
+                    "@colspan": "2",
+                    "Sentence": [
+                      {
+                        "@WritingMode": "vertical",
+                        "#text": "備考"
+                      },
+                      {
+                        "@WritingMode": "vertical",
+                        "#text": "１　水準路線の全長がおおむね１キロメ－トルをこえない場合には、上記の数値のそれぞれ２倍をとることができる。"
+                      },
+                      {
+                        "@WritingMode": "vertical",
+                        "#text": "２　Ｓは、水準路線の全長をキロメートル単位で示した数とする。"
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "AppdxTableTitle": {
+            "@WritingMode": "vertical",
+            "#text": "別表第二"
+          },
+          "TableStruct": {
+            "Table": {
+              "@WritingMode": "vertical",
+              "TableRow": [
+                {
+                  "TableColumn": {
+                    "@BorderBottom": "none",
+                    "@BorderLeft": "none",
+                    "@BorderRight": "none",
+                    "@BorderTop": "none",
+                    "FigStruct": {
+                      "Fig": {
+                        "@src": "./pict/S34F03101000058_1907011407_001.jpg"
+                      }
+                    }
+                  }
+                },
+                {
+                  "TableColumn": {
+                    "@BorderBottom": "none",
+                    "@BorderLeft": "none",
+                    "@BorderRight": "none",
+                    "@BorderTop": "none",
+                    "FigStruct": {
+                      "Fig": {
+                        "@src": "./pict/S34F03101000058_1907011407_002.jpg"
+                      }
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "AppdxTableTitle": {
+            "@WritingMode": "vertical",
+            "#text": "別表第三"
+          },
+          "TableStruct": {
+            "Table": {
+              "@WritingMode": "vertical",
+              "TableRow": {
+                "TableColumn": {
+                  "@BorderBottom": "none",
+                  "@BorderLeft": "none",
+                  "@BorderRight": "none",
+                  "@BorderTop": "none",
+                  "FigStruct": {
+                    "Fig": {
+                      "@src": "./pict/S34F03101000058_1907011407_003.pdf"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        {
+          "AppdxTableTitle": {
+            "@WritingMode": "vertical",
+            "#text": "別表第四　物理探査の記憶の記載の方法"
+          },
+          "TableStruct": {
+            "Table": {
+              "TableRow": {
+                "TableColumn": {
+                  "@Valign": "top",
+                  "Sentence": [
+                    "１　電気探査の場合",
+                    "イ　ρ－a曲線を対数方眼紙(両対数又は片対数)に示す。　この場合深度を縦距とし、みかけの比抵抗値を横距とする。",
+                    "ロ　ρ－a曲線を解析して、各深度における比抵抗値を求め、各層ごとの比抵抗値を記入した断面図を作成する。",
+                    "２　弾性波探査の場合",
+                    "イ　走時曲線を方眼紙に示す。　この場合時間を縦距とし、距離を横距とする。",
+                    "ロ　走時曲線を解析して、各深度における弾性波速度を求め、各層ごとの弾性波速度を記入した断面図を作成する。",
+                    "３　次に掲げる事項を明示しておくこと。",
+                    "イ　測定主任者及び解析主任者の所属及び氏名",
+                    "ロ　測定の状況",
+                    "ハ　測定の装置及び方法"
+                  ]
+                }
+              }
+            }
+          }
+        },
+        {
+          "AppdxTableTitle": {
+            "@WritingMode": "vertical",
+            "#text": "別表第五"
+          },
+          "TableStruct": {
+            "Table": {
+              "@WritingMode": "vertical",
+              "TableRow": [
+                {
+                  "TableColumn": {
+                    "@BorderBottom": "none",
+                    "@BorderLeft": "none",
+                    "@BorderRight": "none",
+                    "@BorderTop": "none",
+                    "FigStruct": {
+                      "Fig": {
+                        "@src": "./pict/S34F03101000058_1907011407_004.pdf"
+                      }
+                    }
+                  }
+                },
+                {
+                  "TableColumn": {
+                    "@BorderBottom": "none",
+                    "@BorderLeft": "none",
+                    "@BorderRight": "none",
+                    "@BorderTop": "none",
+                    "FigStruct": {
+                      "Fig": {
+                        "@src": "./pict/S34F03101000058_1907011407_005.jpg"
+                      }
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "AppdxTableTitle": {
+            "@WritingMode": "vertical",
+            "#text": "別表第六"
+          },
+          "TableStruct": {
+            "Table": {
+              "@WritingMode": "vertical",
+              "TableRow": {
+                "TableColumn": {
+                  "@BorderBottom": "none",
+                  "@BorderLeft": "none",
+                  "@BorderRight": "none",
+                  "@BorderTop": "none",
+                  "FigStruct": {
+                    "Fig": {
+                      "@src": "./pict/S34F03101000058_1907011407_006.jpg"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        {
+          "AppdxTableTitle": {
+            "@WritingMode": "vertical",
+            "#text": "別表第七"
+          },
+          "TableStruct": {
+            "Table": {
+              "@WritingMode": "vertical",
+              "TableRow": {
+                "TableColumn": {
+                  "@BorderBottom": "none",
+                  "@BorderLeft": "none",
+                  "@BorderRight": "none",
+                  "@BorderTop": "none",
+                  "FigStruct": {
+                    "Fig": {
+                      "@src": "./pict/S34F03101000058_1907011407_007.jpg"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        {
+          "AppdxTableTitle": {
+            "@WritingMode": "vertical",
+            "#text": "別表第八"
+          },
+          "TableStruct": {
+            "Table": {
+              "@WritingMode": "vertical",
+              "TableRow": [
+                {
+                  "TableColumn": {
+                    "@BorderBottom": "none",
+                    "@BorderLeft": "none",
+                    "@BorderRight": "none",
+                    "@BorderTop": "none",
+                    "FigStruct": {
+                      "Fig": {
+                        "@src": "./pict/S34F03101000058_1907011407_008.pdf"
+                      }
+                    }
+                  }
+                },
+                {
+                  "TableColumn": {
+                    "@BorderBottom": "none",
+                    "@BorderLeft": "none",
+                    "@BorderRight": "none",
+                    "@BorderTop": "none",
+                    "FigStruct": {
+                      "Fig": {
+                        "@src": "./pict/S34F03101000058_1907011407_009.jpg"
+                      }
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "AppdxTableTitle": {
+            "@WritingMode": "vertical",
+            "#text": "別表第九　地下水位図表の作成の方法"
+          },
+          "TableStruct": {
+            "Table": {
+              "TableRow": {
+                "TableColumn": {
+                  "@Valign": "top",
+                  "Sentence": [
+                    "１　方眼紙を使用し、縦距に地下水位及び降水量を、横距に日をとる。　長期観測井の位置が河川、湖沼又は水路の影響をはなはだしく受ける地点に存在する場合には、更に水位又は流量を縦距にとるものとする。",
+                    "２　縦横距の縮尺は、地下水位等の変動の状況を明らかにするように選定するものとする。"
+                  ]
+                }
+              }
+            }
+          }
+        },
+        {
+          "AppdxTableTitle": {
+            "@WritingMode": "vertical",
+            "#text": "別表第十　地下水図の記載の方法"
+          },
+          "TableStruct": [
+            {
+              "TableStructTitle": {
+                "@WritingMode": "vertical",
+                "#text": "第１部　記号"
+              },
+              "Table": {
+                "@WritingMode": "vertical",
+                "TableRow": {
+                  "TableColumn": {
+                    "@BorderBottom": "none",
+                    "@BorderLeft": "none",
+                    "@BorderRight": "none",
+                    "@BorderTop": "none",
+                    "FigStruct": {
+                      "Fig": {
+                        "@src": "./pict/S34F03101000058_1907011407_010.jpg"
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "TableStructTitle": {
+                "@WritingMode": "vertical",
+                "#text": "第２部　整飾"
+              },
+              "Table": {
+                "@WritingMode": "vertical",
+                "TableRow": {
+                  "TableColumn": {
+                    "@BorderBottom": "none",
+                    "@BorderLeft": "none",
+                    "@BorderRight": "none",
+                    "@BorderTop": "none",
+                    "FigStruct": {
+                      "Fig": {
+                        "@src": "./pict/S34F03101000058_1907011407_011.pdf"
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

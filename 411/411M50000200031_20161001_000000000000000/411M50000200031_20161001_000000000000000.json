@@ -1,0 +1,900 @@
+{
+  "Law": {
+    "@Era": "Heisei",
+    "@Lang": "ja",
+    "@LawType": "MinisterialOrdinance",
+    "@Num": "31",
+    "@Year": "11",
+    "LawNum": "平成十一年農林水産省令第三十一号",
+    "LawBody": {
+      "LawTitle": "持続的養殖生産確保法施行規則",
+      "EnactStatement": "持続的養殖生産確保法（平成十一年法律第五十一号）第二条第二項、第四条第二項第五号並びに第六条第一項及び第二項の規定に基づき、並びに同法を実施するため、持続的養殖生産確保法施行規則を次のように定める。",
+      "MainProvision": {
+        "Article": [
+          {
+            "@Num": "1",
+            "ArticleCaption": "（特定疾病）",
+            "ArticleTitle": "第一条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "持続的養殖生産確保法（以下「法」という。）第二条第二項の特定疾病は、次の表の上欄に掲げる水産動植物の種類に応じ、それぞれ同表の下欄に掲げる伝染性疾病とする。"
+              },
+              "TableStruct": {
+                "Table": {
+                  "TableRow": [
+                    {
+                      "TableColumn": [
+                        {
+                          "Sentence": "水産動植物"
+                        },
+                        {
+                          "Sentence": "伝染性疾病"
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "Sentence": "さけ科魚類"
+                        },
+                        {
+                          "Sentence": [
+                            "ウイルス性出血性敗血症（ＩＶａ型を除く。）",
+                            "サケ科魚類のアルファウイルス感染症",
+                            "流行性造血器壊死症",
+                            "ピシリケッチア症",
+                            "レッドマウス病",
+                            "旋回病"
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "Sentence": "こい"
+                        },
+                        {
+                          "Sentence": [
+                            "コイ春ウイルス血症",
+                            "コイヘルペスウイルス病",
+                            "レッドマウス病"
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "Sentence": [
+                            "きんぎょその他のふな属魚類",
+                            "こくれん",
+                            "はくれん"
+                          ]
+                        },
+                        {
+                          "Sentence": [
+                            "コイ春ウイルス血症",
+                            "レッドマウス病"
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "Sentence": [
+                            "あおうお",
+                            "そうぎょ"
+                          ]
+                        },
+                        {
+                          "Sentence": "コイ春ウイルス血症"
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "Sentence": "ないるてぃらぴあ"
+                        },
+                        {
+                          "Sentence": "レッドマウス病"
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "Sentence": "まだい"
+                        },
+                        {
+                          "Sentence": "マダイのグルゲア症"
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "Sentence": "くるまえび"
+                        },
+                        {
+                          "Sentence": [
+                            "イエローヘッド病",
+                            "壊死性肝膵炎",
+                            "タウラ症候群",
+                            "伝染性皮下造血器壊死症",
+                            "急性肝膵臓壊死症",
+                            "バキュロウイルス・ペナエイ感染症",
+                            "エビの潜伏死病",
+                            "鰓随伴ウイルス病"
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "Sentence": "しろあしえび"
+                        },
+                        {
+                          "Sentence": [
+                            "イエローヘッド病",
+                            "壊死性肝膵炎",
+                            "タウラ症候群",
+                            "伝染性皮下造血器壊死症",
+                            "急性肝膵臓壊死症",
+                            "伝染性筋壊死症",
+                            "バキュロウイルス・ペナエイ感染症",
+                            "エビの潜伏死病"
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "Sentence": "うしえび"
+                        },
+                        {
+                          "Sentence": [
+                            "イエローヘッド病",
+                            "壊死性肝膵炎",
+                            "タウラ症候群",
+                            "伝染性皮下造血器壊死症",
+                            "急性肝膵臓壊死症",
+                            "伝染性筋壊死症",
+                            "バキュロウイルス・ペナエイ感染症",
+                            "鰓随伴ウイルス病",
+                            "モノドン型バキュロウイルス感染症"
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "Sentence": "こうらいえび"
+                        },
+                        {
+                          "Sentence": [
+                            "イエローヘッド病",
+                            "壊死性肝膵炎",
+                            "タウラ症候群",
+                            "伝染性皮下造血器壊死症",
+                            "急性肝膵臓壊死症",
+                            "バキュロウイルス・ペナエイ感染症",
+                            "エビの潜伏死病",
+                            "鰓随伴ウイルス病",
+                            "モノドン型バキュロウイルス感染症"
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "Sentence": "リトペネウス属（Ｌｉｔｏｐｅｎａｅｕｓ）えび類（しろあしえびを除く。）"
+                        },
+                        {
+                          "Sentence": [
+                            "イエローヘッド病",
+                            "壊死性肝膵炎",
+                            "タウラ症候群",
+                            "伝染性皮下造血器壊死症",
+                            "伝染性筋壊死症",
+                            "バキュロウイルス・ペナエイ感染症"
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "Sentence": "ペネウス属（Ｐｅｎａｅｕｓ）えび類（うしえびを除く。）"
+                        },
+                        {
+                          "Sentence": [
+                            "イエローヘッド病",
+                            "壊死性肝膵炎",
+                            "タウラ症候群",
+                            "伝染性皮下造血器壊死症",
+                            "伝染性筋壊死症",
+                            "バキュロウイルス・ペナエイ感染症",
+                            "鰓随伴ウイルス病",
+                            "モノドン型バキュロウイルス感染症"
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "Sentence": "フェネロペネウス属（Ｆｅｎｎｅｒｏｐｅｎａｅｕｓ）えび類（こうらいえびを除く。）"
+                        },
+                        {
+                          "Sentence": [
+                            "イエローヘッド病",
+                            "壊死性肝膵炎",
+                            "タウラ症候群",
+                            "伝染性皮下造血器壊死症",
+                            "バキュロウイルス・ペナエイ感染症",
+                            "鰓随伴ウイルス病",
+                            "モノドン型バキュロウイルス感染症"
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "Sentence": [
+                            "メリセルトゥス属（Ｍｅｌｉｃｅｒｔｕｓ）えび類",
+                            "よしえび属えび類"
+                          ]
+                        },
+                        {
+                          "Sentence": [
+                            "イエローヘッド病",
+                            "壊死性肝膵炎",
+                            "タウラ症候群",
+                            "伝染性皮下造血器壊死症",
+                            "バキュロウイルス・ペナエイ感染症",
+                            "モノドン型バキュロウイルス感染症"
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "Sentence": "くるまえび科（くるまえび、リトペネウス属、ペネウス属、フェネロペネウス属、メリセルトゥス属及びよしえび属を除く。）えび類"
+                        },
+                        {
+                          "Sentence": [
+                            "イエローヘッド病",
+                            "壊死性肝膵炎",
+                            "タウラ症候群",
+                            "伝染性皮下造血器壊死症",
+                            "バキュロウイルス・ペナエイ感染症"
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "Sentence": [
+                            "さくらえび科あきあみ属えび類",
+                            "てながえび科えび類"
+                          ]
+                        },
+                        {
+                          "Sentence": "イエローヘッド病"
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "Sentence": [
+                            "とこぶし",
+                            "ふくとこぶし"
+                          ]
+                        },
+                        {
+                          "Sentence": "アワビヘルペスウイルス感染症"
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "Sentence": [
+                            "えぞあわび",
+                            "くろあわび",
+                            "まだかあわび",
+                            "めがいあわび"
+                          ]
+                        },
+                        {
+                          "Sentence": "アワビの細菌性膿疱症"
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "Sentence": "まがき属かき類"
+                        },
+                        {
+                          "Sentence": "カキヘルペスウイルス１型変異株感染症（μｖａｒに限る。）"
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "Sentence": "ほたてがい"
+                        },
+                        {
+                          "Sentence": "パーキンサス・クグワディ感染症"
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "Sentence": "まぼや"
+                        },
+                        {
+                          "Sentence": "マボヤの被嚢軟化症"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          {
+            "@Num": "2",
+            "ArticleCaption": "（漁場改善計画において定める事項）",
+            "ArticleTitle": "第二条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "法第四条第二項第五号の農林水産省令で定める事項は、次のとおりとする。"
+              },
+              "Item": [
+                {
+                  "@Num": "1",
+                  "ItemTitle": "一",
+                  "ItemSentence": {
+                    "Sentence": "養殖漁場の調査手法に関する事項"
+                  }
+                },
+                {
+                  "@Num": "2",
+                  "ItemTitle": "二",
+                  "ItemSentence": {
+                    "Sentence": "漁場改善計画を変更する場合の手続"
+                  }
+                },
+                {
+                  "@Num": "3",
+                  "ItemTitle": "三",
+                  "ItemSentence": {
+                    "Sentence": "その他必要な事項"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "@Num": "3",
+            "ArticleCaption": "（漁場改善計画の認定申請手続等）",
+            "ArticleTitle": "第三条",
+            "Paragraph": [
+              {
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": "法第四条第一項の規定により漁場改善計画の認定を受けようとする漁業協同組合等（同項に規定する漁業協同組合等をいう。以下同じ。）は、申請書に次に掲げる書面を添付しなければならない。"
+                },
+                "Item": [
+                  {
+                    "@Num": "1",
+                    "ItemTitle": "一",
+                    "ItemSentence": {
+                      "Sentence": "漁場改善計画"
+                    }
+                  },
+                  {
+                    "@Num": "2",
+                    "ItemTitle": "二",
+                    "ItemSentence": {
+                      "Sentence": "漁場改善計画を作成した漁業協同組合等の氏名（法人又は漁業を営む者の団体にあっては、その名称及び代表者の氏名）及び住所"
+                    }
+                  }
+                ]
+              },
+              {
+                "@Num": "2",
+                "ParagraphNum": "２",
+                "ParagraphSentence": {
+                  "Sentence": "前項の規定は、法第五条第一項の規定による認定について準用する。"
+                }
+              },
+              {
+                "@Num": "3",
+                "ParagraphNum": "３",
+                "ParagraphSentence": {
+                  "Sentence": "法第五条第一項の規定による認定の申請をしようとする漁業協同組合等は、当該申請に係る認定漁場改善計画の変更が当該認定漁場改善計画で定める前条第二号の手続に従って行われたことを証する書面を添付しなければならない。"
+                }
+              }
+            ]
+          },
+          {
+            "@Num": "4",
+            "ArticleCaption": "（同意の手続）",
+            "ArticleTitle": "第四条",
+            "Paragraph": [
+              {
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": "法第六条第一項の同意は、認定漁場改善計画の対象となる水域における漁業権又は入漁権ごと及び養殖水産動植物の種類ごとに得るものとする。"
+                }
+              },
+              {
+                "@Num": "2",
+                "ParagraphNum": "２",
+                "ParagraphSentence": {
+                  "Sentence": [
+                    {
+                      "@Num": "1",
+                      "#text": "法第六条第二項の同意は、書面により得るものとする。"
+                    },
+                    {
+                      "@Num": "2",
+                      "#text": "この場合において、認定漁場改善計画を作成した漁業協同組合連合会は、同項の特定組合員所属組合に、その直接又は間接の構成員たる同条第一項の特定組合員の三分の二以上の書面による同意を得ていることを証する書面を添付させるものとする。"
+                    }
+                  ]
+                }
+              },
+              {
+                "@Num": "3",
+                "ParagraphNum": "３",
+                "ParagraphSentence": {
+                  "Sentence": "第一項の規定は、前項後段の規定による書面による同意について準用する。"
+                }
+              }
+            ]
+          },
+          {
+            "@Num": "4_2",
+            "ArticleCaption": "（特定疾病の発生の届出の手続）",
+            "ArticleTitle": "第四条の二",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "法第七条の二第一項の規定による届出は、次に掲げる事項につき、文書又は口頭でしなければならない。"
+              },
+              "Item": [
+                {
+                  "@Num": "1",
+                  "ItemTitle": "一",
+                  "ItemSentence": {
+                    "Sentence": "養殖水産動植物の所有者及び管理者の氏名又は名称及び住所"
+                  }
+                },
+                {
+                  "@Num": "2",
+                  "ItemTitle": "二",
+                  "ItemSentence": {
+                    "Sentence": "養殖水産動植物がかかり、又はかかっている疑いがある特定疾病の種類"
+                  }
+                },
+                {
+                  "@Num": "3",
+                  "ItemTitle": "三",
+                  "ItemSentence": {
+                    "Sentence": "養殖水産動植物の種類"
+                  }
+                },
+                {
+                  "@Num": "4",
+                  "ItemTitle": "四",
+                  "ItemSentence": {
+                    "Sentence": "養殖水産動植物の所在地"
+                  }
+                },
+                {
+                  "@Num": "5",
+                  "ItemTitle": "五",
+                  "ItemSentence": {
+                    "Sentence": "養殖水産動植物が特定疾病にかかり、又はかかっている疑いがあることを発見した年月日時及び発見時の状態"
+                  }
+                },
+                {
+                  "@Num": "6",
+                  "ItemTitle": "六",
+                  "ItemSentence": {
+                    "Sentence": "その他参考となるべき事項"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "@Num": "4_3",
+            "ArticleCaption": "（特定疾病の発生の報告及び通報の手続）",
+            "ArticleTitle": "第四条の三",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "法第七条の二第三項の規定による報告及び通報は、前条の届出事項につき、文書又は口頭でしなければならない。"
+              }
+            }
+          },
+          {
+            "@Num": "5",
+            "ArticleCaption": "（消毒の対象物品）",
+            "ArticleTitle": "第五条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "法第八条第一項第四号の農林水産省令で定める物品は、次のとおりとする。"
+              },
+              "Item": [
+                {
+                  "@Num": "1",
+                  "ItemTitle": "一",
+                  "ItemSentence": {
+                    "Sentence": "養殖の用に供する施設又は器具"
+                  }
+                },
+                {
+                  "@Num": "2",
+                  "ItemTitle": "二",
+                  "ItemSentence": {
+                    "Sentence": "養殖水産動植物の容器包装（当該容器包装に入れられ、又は当該容器包装で包まれた物であって当該養殖水産動植物でないものを含む。）"
+                  }
+                },
+                {
+                  "@Num": "3",
+                  "ItemTitle": "三",
+                  "ItemSentence": {
+                    "Sentence": "特定疾病の病原体に触れ、又は触れたおそれのある者の被服"
+                  }
+                },
+                {
+                  "@Num": "4",
+                  "ItemTitle": "四",
+                  "ItemSentence": {
+                    "Sentence": "その他特定疾病の病原体が付着し、又は付着しているおそれのある物品"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "@Num": "6",
+            "ArticleCaption": "（養殖水産動植物の移動制限等に係る報告及び通報の手続）",
+            "ArticleTitle": "第六条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "法第八条第二項（法第九条の二第二項において準用する場合を含む。）の規定による報告及び通報は、次に掲げる事項につき、遅滞なく、文書でしなければならない。"
+              },
+              "Item": [
+                {
+                  "@Num": "1",
+                  "ItemTitle": "一",
+                  "ItemSentence": {
+                    "Sentence": "対象となった特定疾病及び養殖水産動植物の種類"
+                  }
+                },
+                {
+                  "@Num": "2",
+                  "ItemTitle": "二",
+                  "ItemSentence": {
+                    "Sentence": "対象となった養殖水産動植物の所在地"
+                  }
+                },
+                {
+                  "@Num": "3",
+                  "ItemTitle": "三",
+                  "ItemSentence": {
+                    "Sentence": "命令を発した年月日"
+                  }
+                },
+                {
+                  "@Num": "4",
+                  "ItemTitle": "四",
+                  "ItemSentence": {
+                    "Sentence": "命令の内容並びにその実施状況及び実施の結果"
+                  }
+                },
+                {
+                  "@Num": "5",
+                  "ItemTitle": "五",
+                  "ItemSentence": {
+                    "Sentence": "その他参考となるべき事項"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "@Num": "6_2",
+            "ArticleCaption": "（証明書の様式）",
+            "ArticleTitle": "第六条の二",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "法第九条の三の証明書の様式は、別記様式第一号によるものとする。"
+              }
+            }
+          },
+          {
+            "@Num": "7",
+            "ArticleCaption": "（身分証明書の様式）",
+            "ArticleTitle": "第七条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "法第十条第二項に規定する身分を示す証明書の様式は、別記様式第二号によるものとする。"
+              }
+            }
+          },
+          {
+            "@Num": "8",
+            "ArticleCaption": "（報告の徴取の手続）",
+            "ArticleTitle": "第八条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": [
+                  {
+                    "@Function": "main",
+                    "@Num": "1",
+                    "#text": "法第十一条の規定により報告を求める場合には、第三号の提出期限の十五日前までに次に掲げる事項を記載した報告請求書を交付してしなければならない。"
+                  },
+                  {
+                    "@Function": "proviso",
+                    "@Num": "2",
+                    "#text": "ただし、都道府県知事が五十人を超える者から報告を求めようとするときは、次に掲げる事項及び報告すべき者の範囲を告示するとともに、適当な場所に掲示して、報告請求書の交付に代えることができる。"
+                  }
+                ]
+              },
+              "Item": [
+                {
+                  "@Num": "1",
+                  "ItemTitle": "一",
+                  "ItemSentence": {
+                    "Sentence": "実施の目的"
+                  }
+                },
+                {
+                  "@Num": "2",
+                  "ItemTitle": "二",
+                  "ItemSentence": {
+                    "Sentence": "報告すべき事項"
+                  }
+                },
+                {
+                  "@Num": "3",
+                  "ItemTitle": "三",
+                  "ItemSentence": {
+                    "Sentence": "報告書の提出期限"
+                  }
+                },
+                {
+                  "@Num": "4",
+                  "ItemTitle": "四",
+                  "ItemSentence": {
+                    "Sentence": "その他必要な事項"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "@Num": "9",
+            "ArticleCaption": "（新疾病の発生の届出の手続）",
+            "ArticleTitle": "第九条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "法第十二条の規定による届出は、次に掲げる事項につき、遅滞なく、文書又は口頭でしなければならない。"
+              },
+              "Item": [
+                {
+                  "@Num": "1",
+                  "ItemTitle": "一",
+                  "ItemSentence": {
+                    "Sentence": "養殖水産動植物の所有者及び管理者の氏名又は名称及び住所"
+                  }
+                },
+                {
+                  "@Num": "2",
+                  "ItemTitle": "二",
+                  "ItemSentence": {
+                    "Sentence": "疾病の病状"
+                  }
+                },
+                {
+                  "@Num": "3",
+                  "ItemTitle": "三",
+                  "ItemSentence": {
+                    "Sentence": "養殖水産動植物の種類"
+                  }
+                },
+                {
+                  "@Num": "4",
+                  "ItemTitle": "四",
+                  "ItemSentence": {
+                    "Sentence": "疾病が発生した場所"
+                  }
+                },
+                {
+                  "@Num": "5",
+                  "ItemTitle": "五",
+                  "ItemSentence": {
+                    "Sentence": "疾病の発見の年月日時及び疾病の発見時の状態"
+                  }
+                },
+                {
+                  "@Num": "6",
+                  "ItemTitle": "六",
+                  "ItemSentence": {
+                    "Sentence": "既に講じた措置又は講じようとする措置の内容"
+                  }
+                },
+                {
+                  "@Num": "7",
+                  "ItemTitle": "七",
+                  "ItemSentence": {
+                    "Sentence": "その他参考となるべき事項"
+                  }
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "SupplProvision": [
+        {
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この省令は、法の施行の日（平成十一年五月二十一日）から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成一一年一一月一二日農林水産省令第七六号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この省令は、持続的養殖生産確保法の一部の施行の日（平成十一年十一月十九日）から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成一五年六月三〇日農林水産省令第六六号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この省令は、公布の日から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成一七年一〇月五日農林水産省令第一〇九号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この省令は、水産資源保護法及び持続的養殖生産確保法の一部を改正する法律（平成十七年法律第三十六号）の施行の日（平成十七年十月二十日）から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成一九年二月二日農林水産省令第三号",
+          "SupplProvisionLabel": "附　則",
+          "Article": [
+            {
+              "@Num": "1",
+              "ArticleCaption": "（施行期日）",
+              "ArticleTitle": "第一条",
+              "Paragraph": {
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": "この省令は、公布の日から施行する。"
+                }
+              }
+            },
+            {
+              "@Num": "2",
+              "ArticleCaption": "（経過措置）",
+              "ArticleTitle": "第二条",
+              "Paragraph": [
+                {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "この省令の施行の際現にあるこの省令による改正前の持続的養殖生産確保法施行規則の様式（次項において「旧様式」という。）により使用されている書類は、この省令による改正後の持続的養殖生産確保法施行規則の様式によるものとみなす。"
+                  }
+                },
+                {
+                  "@Num": "2",
+                  "ParagraphNum": "２",
+                  "ParagraphSentence": {
+                    "Sentence": "この省令の施行の際現にある旧様式により調製した用紙は、この省令の施行後においても当分の間、これを取り繕って使用することができる。"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "@AmendLawNum": "平成二八年一月二七日農林水産省令第三号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この省令は、公布の日から起算して六月を経過した日から施行する。"
+            }
+          }
+        }
+      ],
+      "AppdxStyle": [
+        {
+          "AppdxStyleTitle": "別記様式第一号",
+          "RelatedArticleNum": "（第六条の二関係）",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/H11F03701000031-001.pdf"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": "別記様式第二号",
+          "RelatedArticleNum": "（第七条関係）",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/H11F03701000031-002.pdf"
+              }
+            }
+          }
+        }
+      ]
+    }
+  }
+}

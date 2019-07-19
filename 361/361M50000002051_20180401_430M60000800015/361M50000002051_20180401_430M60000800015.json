@@ -1,0 +1,472 @@
+{
+  "Law": {
+    "@Era": "Showa",
+    "@Lang": "ja",
+    "@LawType": "MinisterialOrdinance",
+    "@Num": "51",
+    "@Year": "61",
+    "LawNum": "昭和六十一年総理府令第五十一号",
+    "LawBody": {
+      "LawTitle": "基準点測量作業規程準則",
+      "EnactStatement": "国土調査法（昭和二十六年法律第百八十号）第三条第二項の規定に基づき、基準点測量作業規程準則（昭和二十七年経済安定本部令第九号）の全部を改正する総理府令を次のように定める。",
+      "MainProvision": {
+        "Article": [
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "1",
+            "ArticleCaption": "（目的）",
+            "ArticleTitle": "第一条",
+            "Paragraph": {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "国土調査法（昭和二十六年法律第百八十号。以下「法」という。）第二条第二項の規定による基準点の測量（以下「基準点測量」という。）に関する作業規程の準則は、他の法令に定めるもののほか、この省令の定めるところによる。"
+                }
+              }
+            }
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "2",
+            "ArticleTitle": "第二条",
+            "Paragraph": {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "削除"
+                }
+              }
+            }
+          },
+          {
+            "@Num": "3",
+            "ArticleCaption": "（基準点測量の方式）",
+            "ArticleTitle": "第三条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": [
+                  {
+                    "@Function": "main",
+                    "@Num": "1",
+                    "#text": "基準点測量は、多角測量法により行うものとする。"
+                  },
+                  {
+                    "@Function": "proviso",
+                    "@Num": "2",
+                    "#text": "ただし、地形の状況等によりやむを得ない場合には、直接水準測量法を併用することができる。"
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "4",
+            "ArticleCaption": "（計量単位）",
+            "ArticleTitle": "第四条",
+            "Paragraph": {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "基準点測量における計量単位は、計量法（平成四年法律第五十一号）第八条第一項に規定する法定計量単位（同法附則第三条及び第四条の規定により法定計量単位とみなされる計量単位を含む。）によるものとする。"
+                }
+              }
+            }
+          },
+          {
+            "@Num": "5",
+            "ArticleCaption": "（測量の基礎とする点）",
+            "ArticleTitle": "第五条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "基準点測量は、基本三角点（測量法（昭和二十四年法律第百八十八号）第二章の規定による基本測量の成果である三角点及び電子基準点をいう。以下同じ。）又は基本水準点（同法第二章の規定による基本測量の成果である水準点をいう。）を基礎として行わなければならない。"
+              }
+            }
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "6",
+            "ArticleCaption": "（位置及び方向角の表示の方法）",
+            "ArticleTitle": "第六条",
+            "Paragraph": [
+              {
+                "@Hide": "false",
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "基準点の位置は、国土調査法施行令（昭和二十七年政令第五十九号。以下「令」という。）別表第一に掲げる平面直角座標系（以下「座標系」という。）による平面直角座標値（以下「座標値」という。）及び測量法施行令（昭和二十四年政令第三百二十二号）第二条第二項に規定する日本水準原点を基準とする高さ（以下「標高」という。）で表示するものとする。"
+                  }
+                }
+              },
+              {
+                "@Hide": "false",
+                "@Num": "2",
+                "ParagraphNum": "２",
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "方向角は、当該地点が属する座標系のＸ軸に平行な当該地点を通る軸の正の方向を基準とし、右回りに表示するものとする。"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "7",
+            "ArticleCaption": "（点検及び検査）",
+            "ArticleTitle": "第七条",
+            "Paragraph": {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "基準点測量を行う者は、当該測量が誤りなく、かつ、令別表第二に定める誤差の限度内の精度を保つて行われるように、常に各種の方法によつて点検又は検査を行わなければならない。"
+                }
+              }
+            }
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "8",
+            "ArticleCaption": "（記録等の保管）",
+            "ArticleTitle": "第八条",
+            "Paragraph": [
+              {
+                "@Hide": "false",
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "測量に際しては、観測、計算等の測量記録を作成し、当該測量の結果である測量成果とともに保管しなければならない。"
+                  }
+                }
+              },
+              {
+                "@Hide": "false",
+                "@Num": "2",
+                "ParagraphNum": "２",
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "永久標識又は一時標識の敷地の所有権又は所有権以外の使用権の取得等に関する書類は、保管しなければならない。"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "9",
+            "ArticleCaption": "（基準点の選定）",
+            "ArticleTitle": "第九条",
+            "Paragraph": [
+              {
+                "@Hide": "false",
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "基準点（補助基準点を除く。）を新設する場合は、電子基準点の配置を考慮した上で、適正な密度をもつて配置し、その密度は、四百平方キロメートルに一点を標準とする。"
+                  }
+                }
+              },
+              {
+                "@Hide": "false",
+                "@Num": "2",
+                "ParagraphNum": "２",
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "補助基準点は、補助基準点測量を行う地域に努めて均等に配置し、その密度は、主として宅地が占める地域及びその周辺の地域にあつては一平方キロメートルに二十五点、その他の地域にあつては一平方キロメートルに四点を標準とする。"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "@Num": "10",
+            "ArticleCaption": "（多角路線の選定）",
+            "ArticleTitle": "第十条",
+            "Paragraph": [
+              {
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": "基準点測量における多角路線（以下単に「多角路線」という。）は、基本三角点を結合する多角網を形成するよう努めなければならない。"
+                }
+              },
+              {
+                "@Num": "2",
+                "ParagraphNum": "２",
+                "ParagraphSentence": {
+                  "Sentence": "多角路線の選定に当たつては、与点の現況調査を行い、異状の有無を確認するものとする。"
+                }
+              }
+            ]
+          },
+          {
+            "@Num": "11",
+            "ArticleCaption": "（選点図）",
+            "ArticleTitle": "第十一条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "基準点及び多角路線の選定の結果は、基準点選点図に取りまとめるものとする。"
+              }
+            }
+          },
+          {
+            "@Num": "12",
+            "ArticleCaption": "（標識）",
+            "ArticleTitle": "第十二条",
+            "Paragraph": [
+              {
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": "基準点には、標識を設置するとともに、その保全及び管理のための適切な措置を講ずるものとする。"
+                }
+              },
+              {
+                "@Hide": "false",
+                "@Num": "2",
+                "ParagraphNum": "２",
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "前項の標識を設置する場合には、あらかじめ、当該標識を設置する土地の所有者又は管理者の承諾を得るものとする。"
+                  }
+                }
+              },
+              {
+                "@Num": "3",
+                "ParagraphNum": "３",
+                "ParagraphSentence": {
+                  "Sentence": "第一項の基準点については、点の記を作成するものとする。"
+                }
+              }
+            ]
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "13",
+            "ArticleCaption": "（観測、測定及び計算）",
+            "ArticleTitle": "第十三条",
+            "Paragraph": [
+              {
+                "@Hide": "false",
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "基準点測量における観測及び測定は、地図及び簿冊に令で定める限度以上の誤差が生じないように行うものとする。"
+                  }
+                }
+              },
+              {
+                "@Hide": "false",
+                "@Num": "2",
+                "ParagraphNum": "２",
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "基準点の座標値及び標高は、前項の観測及び測定の結果に基づいて求めるものとし、その結果は、基準点網図及び基準点測量成果簿に取りまとめるものとする。"
+                  }
+                }
+              }
+            ]
+          }
+        ]
+      },
+      "SupplProvision": [
+        {
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": [
+            {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": "１",
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "この府令は、昭和六十二年四月一日から施行する。"
+                }
+              }
+            },
+            {
+              "@Hide": "false",
+              "@Num": "2",
+              "ParagraphNum": "２",
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "この府令の施行前に、この府令による改正前の基準点測量作業規程準則に基づいて作成され法第四条第三項又は第五条第一項の届出のあつた作業規程については、この府令による改正後の基準点測量作業規程準則に基づいて作成され法第四条第三項又は第五条第一項の届出のあつたものとみなす。"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@AmendLawNum": "平成五年一〇月二六日総理府令第四六号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この府令は、平成五年十一月一日から施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成一二年八月一四日総理府令第一〇三号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この府令は、内閣法の一部を改正する法律（平成十一年法律第八十八号）の施行の日（平成十三年一月六日）から施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成一四年二月二〇日国土交通省令第一三号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": [
+            {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": "１",
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "この省令は、測量法及び水路業務法の一部を改正する法律（平成十三年法律第五十三号）の施行の日（平成十四年四月一日）から施行する。"
+                }
+              }
+            },
+            {
+              "@Hide": "false",
+              "@Num": "2",
+              "ParagraphNum": "２",
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "この省令の施行前に、この省令による改正前の基準点測量作業規程準則に基づいて作成され国土調査法第四条第三項又は第五条第一項の届出のあった作業規程については、この省令による改正後の基準点測量作業規程準則に基づいて作成され同法第四条第三項又は第五条第一項の届出のあったものとみなす。"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@AmendLawNum": "平成一六年六月三〇日国土交通省令第七八号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Article": {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "1",
+            "ArticleCaption": "（施行期日）",
+            "ArticleTitle": "第一条",
+            "Paragraph": {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": [
+                  {
+                    "@Function": "main",
+                    "@Num": "1",
+                    "@WritingMode": "vertical",
+                    "#text": "この省令は、平成十六年七月一日から施行する。"
+                  },
+                  {
+                    "@Function": "proviso",
+                    "@Num": "2",
+                    "@WritingMode": "vertical",
+                    "#text": "ただし、次条の規定は、公布の日から施行する。"
+                  }
+                ]
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成二二年七月二九日国土交通省令第四三号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Article": {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "1",
+            "ArticleCaption": "（施行期日）",
+            "ArticleTitle": "第一条",
+            "Paragraph": {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "この省令は、公布の日から施行する。"
+                }
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成三〇年三月三〇日国土交通省令第一五号",
+          "@Type": "Amend",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この省令は、平成三十年四月一日から施行する。"
+              }
+            }
+          }
+        }
+      ]
+    }
+  }
+}

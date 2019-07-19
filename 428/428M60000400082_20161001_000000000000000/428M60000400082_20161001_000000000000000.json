@@ -1,0 +1,2243 @@
+{
+  "Law": {
+    "@Era": "Heisei",
+    "@Lang": "ja",
+    "@LawType": "MinisterialOrdinance",
+    "@Num": "82",
+    "@Year": "28",
+    "LawNum": "平成二十八年経済産業省令第八十二号",
+    "LawBody": {
+      "LawTitle": "国際相互承認に係る容器保安規則",
+      "EnactStatement": "高圧ガス保安法（昭和二十六年法律第二百四号）に基づき、及び同法を実施するため、国際相互承認に係る容器保安規則を次のように定める。",
+      "TOC": {
+        "TOCLabel": "目次",
+        "TOCChapter": [
+          {
+            "@Num": "1",
+            "ChapterTitle": "第一章　総則",
+            "ArticleRange": "（第一条・第二条）"
+          },
+          {
+            "@Num": "2",
+            "ChapterTitle": "第二章　製造の方法の基準",
+            "ArticleRange": "（第三条）"
+          },
+          {
+            "@Num": "3",
+            "ChapterTitle": "第三章　容器の基準等",
+            "ArticleRange": "（第四条・第五条）"
+          },
+          {
+            "@Num": "4",
+            "ChapterTitle": "第四章　刻印等の方式",
+            "ArticleRange": "（第六条）"
+          },
+          {
+            "@Num": "5",
+            "ChapterTitle": "第五章　容器の表示",
+            "ArticleRange": "（第七条・第八条）"
+          },
+          {
+            "@Num": "6",
+            "ChapterTitle": "第六章　附属品の基準等",
+            "ArticleRange": "（第九条―第十三条）"
+          },
+          {
+            "@Num": "7",
+            "ChapterTitle": "第七章　特別充塡の許可申請",
+            "ArticleRange": "（第十四条）"
+          },
+          {
+            "@Num": "8",
+            "ChapterTitle": "第八章　容器及び附属品の再検査並びに容器検査所",
+            "ArticleRange": "（第十五条―第二十九条）"
+          },
+          {
+            "@Num": "9",
+            "ChapterTitle": "第九章　容器等検査に係る登録",
+            "TOCSection": [
+              {
+                "@Num": "1",
+                "SectionTitle": "第一節　登録の基準等",
+                "ArticleRange": "（第三十条―第四十七条）"
+              },
+              {
+                "@Num": "2",
+                "SectionTitle": "第二節　型式承認等",
+                "ArticleRange": "（第四十八条―第五十九条）"
+              }
+            ]
+          },
+          {
+            "@Num": "10",
+            "ChapterTitle": "第十章　帳簿",
+            "ArticleRange": "（第六十条）"
+          }
+        ],
+        "TOCSupplProvision": {
+          "SupplProvisionLabel": "附則"
+        }
+      },
+      "MainProvision": {
+        "Chapter": [
+          {
+            "@Num": "1",
+            "ChapterTitle": "第一章　総則",
+            "Article": [
+              {
+                "@Num": "1",
+                "ArticleCaption": "（適用範囲）",
+                "ArticleTitle": "第一条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "この規則は、高圧ガス保安法（昭和二十六年法律第二百四号。以下「法」という。）及び高圧ガス保安法施行令（平成九年政令第二十号。）に基づいて、車両並びに車両への取付け又は車両における使用が可能な装置及び部品に係る統一的な技術上の要件の採択並びにこれらの要件に基づいて行われる認定の相互承認のための条件に関する協定（平成十年条約第十二号）に附属する規則（以下「協定規則」という。）第百三十四号に基づき認定された自動車の燃料装置用容器に関する保安について規定する。"
+                  }
+                }
+              },
+              {
+                "@Num": "2",
+                "ArticleCaption": "（用語の定義）",
+                "ArticleTitle": "第二条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "この規則において次の各号に掲げる用語の意義は、それぞれ当該各号に定めるところによる。"
+                  },
+                  "Item": [
+                    {
+                      "@Num": "1",
+                      "ItemTitle": "一",
+                      "ItemSentence": {
+                        "Column": [
+                          {
+                            "@Num": "1",
+                            "Sentence": "繊維強化プラスチック複合容器"
+                          },
+                          {
+                            "@Num": "2",
+                            "Sentence": "ライナーに、周方向のみ又は軸方向及び周方向に樹脂含浸連続繊維を巻き付けた複合構造を有する容器"
+                          }
+                        ]
+                      }
+                    },
+                    {
+                      "@Num": "2",
+                      "ItemTitle": "二",
+                      "ItemSentence": {
+                        "Column": [
+                          {
+                            "@Num": "1",
+                            "Sentence": "フルラップ容器"
+                          },
+                          {
+                            "@Num": "2",
+                            "Sentence": "ライナーに、ヘリカル巻（ライナー胴部及び鏡部に繊維をら旋状に巻き付ける方法をいう。）又はインプレーン巻（ライナー胴部及び鏡部に繊維を直線状に巻き付ける方法をいう。）により樹脂含浸連続繊維を巻き付けた容器"
+                          }
+                        ]
+                      }
+                    },
+                    {
+                      "@Num": "3",
+                      "ItemTitle": "三",
+                      "ItemSentence": {
+                        "Column": [
+                          {
+                            "@Num": "1",
+                            "Sentence": "国際相互承認圧縮水素自動車燃料装置用容器"
+                          },
+                          {
+                            "@Num": "2",
+                            "Sentence": "協定規則第百三十四号に基づき認定された自動車の燃料装置用として圧縮水素を充塡するための容器"
+                          }
+                        ]
+                      }
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "@Num": "2",
+            "ChapterTitle": "第二章　製造の方法の基準",
+            "Article": {
+              "@Num": "3",
+              "ArticleTitle": "第三条",
+              "Paragraph": {
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": "法第四十一条第一項の経済産業省令で定める技術上の基準は、次の各号に掲げるものとする。"
+                },
+                "Item": [
+                  {
+                    "@Num": "1",
+                    "ItemTitle": "一",
+                    "ItemSentence": {
+                      "Sentence": "容器は、充塡する高圧ガスの種類、充塡圧力、使用温度及び使用される環境に応じた適切な材料を使用して製造すること。"
+                    }
+                  },
+                  {
+                    "@Num": "2",
+                    "ItemTitle": "二",
+                    "ItemSentence": {
+                      "Sentence": "容器は、第五条第一項第二号に定める試験に合格するように製造すること。"
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "@Num": "3",
+            "ChapterTitle": "第三章　容器の基準等",
+            "Article": [
+              {
+                "@Num": "4",
+                "ArticleCaption": "（容器検査の方法）",
+                "ArticleTitle": "第四条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "法第四十四条第一項の経済産業省令で定める方法は、次条第一項第二号に定める試験の方法によるものとする。"
+                  }
+                }
+              },
+              {
+                "@Num": "5",
+                "ArticleCaption": "（容器の規格）",
+                "ArticleTitle": "第五条",
+                "Paragraph": [
+                  {
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": "法第四十四条第四項の経済産業省令で定める高圧ガスの種類及び圧力（ゲージ圧力をいう。以下同じ。）の大きさ別の容器の規格は、次の各号に掲げるものとする。"
+                    },
+                    "Item": [
+                      {
+                        "@Num": "1",
+                        "ItemTitle": "一",
+                        "ItemSentence": {
+                          "Sentence": "容器に使用する材料は、第三条第一号で定める製造の方法の基準に適合するものであること。"
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "ItemTitle": "二",
+                        "ItemSentence": {
+                          "Sentence": "容器は、告示に定める試験を行い、これに合格するものであること。"
+                        }
+                      },
+                      {
+                        "@Num": "3",
+                        "ItemTitle": "三",
+                        "ItemSentence": {
+                          "Sentence": "容器は、他の用途に用いられたことがないものであること。"
+                        }
+                      },
+                      {
+                        "@Num": "4",
+                        "ItemTitle": "四",
+                        "ItemSentence": {
+                          "Sentence": "充塡する高圧ガスの種類及び圧力が告示に定める基準に適合するものであること。"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": "前項の規定にかかわらず、経済産業大臣が告示で定める国が、協定規則第百三十四号に基づき認定した容器であって、当該容器に使用する金属材料が第三条第一号で定める製造の方法の基準に適合するものとして認められたもの（以下「海外認定容器」という。）については、当該認定に係る規格をもって法第四十四条第四項の経済産業省令で定める高圧ガスの種類及び圧力の大きさ別の容器の規格とする。"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "@Num": "4",
+            "ChapterTitle": "第四章　刻印等の方式",
+            "Article": {
+              "@Num": "6",
+              "ArticleTitle": "第六条",
+              "Paragraph": [
+                {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "法第四十五条第一項の刻印をすることが困難なものとして経済産業省令で定める容器は、国際相互承認圧縮水素自動車燃料装置用容器のうちフルラップ容器であるものとする。"
+                  }
+                },
+                {
+                  "@Num": "2",
+                  "ParagraphNum": "２",
+                  "ParagraphSentence": {
+                    "Sentence": "海外認定容器は、協定規則に基づく方式に従って、法第四十五条第一項の刻印（前項で定めた容器以外のものの場合に限る。）又は同条第二項の標章の掲示（前項で定めた容器の場合に限る。）を行うことができる。"
+                  }
+                },
+                {
+                  "@Num": "3",
+                  "ParagraphNum": "３",
+                  "ParagraphSentence": {
+                    "Sentence": "前項の規定により法第四十五条第一項の刻印又は同条第二項の標章の掲示を行おうとする者は、前項に規定する刻印又は標章のほか、次の各号に掲げる事項を刻印（第一項で定めた容器以外のものの場合に限る。）又は標章により掲示（同項で定めた容器の場合に限る。）することができる。"
+                  },
+                  "Item": [
+                    {
+                      "@Num": "1",
+                      "ItemTitle": "一",
+                      "ItemSentence": {
+                        "Sentence": "一・二五ミリ以下であって、海外認定容器を製造した者が容器に使用上問題となる影響がないことを保証する胴部の繊維強化プラスチック部分の許容傷深さ（記号ＤＣ、単位ミリメートル）"
+                      }
+                    },
+                    {
+                      "@Num": "2",
+                      "ItemTitle": "二",
+                      "ItemSentence": {
+                        "Sentence": "一・二五ミリ以下であって、海外認定容器を製造した者が容器に使用上問題となる影響がないことを保証する胴部以外の繊維強化プラスチック部分の許容傷深さ（記号ＤＤ、単位ミリメートル）"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          },
+          {
+            "@Num": "5",
+            "ChapterTitle": "第五章　容器の表示",
+            "Article": [
+              {
+                "@Num": "7",
+                "ArticleCaption": "（表示の方式）",
+                "ArticleTitle": "第七条",
+                "Paragraph": [
+                  {
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": "法第四十六条第一項又は第二項の規定により表示をしようとする者（当該容器を譲渡することがあらかじめ明らかな場合における容器の製造又は輸入をした者を除く。）は、次の各号に掲げるところに従って行わなければならない。"
+                    },
+                    "Item": [
+                      {
+                        "@Num": "1",
+                        "ItemTitle": "一",
+                        "ItemSentence": {
+                          "Sentence": "次のイ及びロに掲げる容器にあっては、容器の外面の見やすい箇所に容器の所有者（当該容器の管理業務を委託している場合にあっては容器の所有者又は当該管理業務受託者）の氏名又は名称、住所及び電話番号を記載した票紙であってはがれるおそれのないものを貼付すること。"
+                        },
+                        "Subitem1": [
+                          {
+                            "@Num": "1",
+                            "Subitem1Title": "イ",
+                            "Subitem1Sentence": {
+                              "Sentence": "自動車に装置した容器であって、道路運送車両法（昭和二十六年法律第百八十五号）第五十八条に定める自動車検査証（以下単に「自動車検査証」という。）に記載されている所有者又は同法第三十三条に定める譲渡証明書に記載されている自動車の譲受人と容器の所有者が同一でないもの"
+                            }
+                          },
+                          {
+                            "@Num": "2",
+                            "Subitem1Title": "ロ",
+                            "Subitem1Sentence": {
+                              "Sentence": "自動車に装置していない容器（当該容器を譲渡することがあらかじめ明らかな場合における容器の自動車への装着者が所有するものを除く）"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "@Num": "2",
+                        "ItemTitle": "二",
+                        "ItemSentence": {
+                          "Sentence": "その他告示に定める方式に適合していること"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": [
+                        {
+                          "@Num": "1",
+                          "#text": "前項第一号の規定により氏名等の表示をした容器の所有者は、その氏名等に変更があったときは、遅滞なく、その表示を変更するものとする。"
+                        },
+                        {
+                          "@Num": "2",
+                          "#text": "この場合においては、前項第一号の例により表示を行うものとする。"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "@Num": "3",
+                    "ParagraphNum": "３",
+                    "ParagraphSentence": {
+                      "Sentence": "表示の方式について経済産業大臣の認可を受けた場合は、前二項の規定にかかわらず、当該経済産業大臣の認可を受けた方式に従って法第四十六条第一項又は第二項の表示とすることができる。"
+                    }
+                  }
+                ]
+              },
+              {
+                "@Num": "8",
+                "ArticleCaption": "（容器を譲り受けた者が行う表示）",
+                "ArticleTitle": "第八条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "法第四十七条第一項の規定により表示をしようとする者は、前条第一項及び第三項の規定の例により行わなければならない。"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "@Num": "6",
+            "ChapterTitle": "第六章　附属品の基準等",
+            "Article": [
+              {
+                "@Num": "9",
+                "ArticleCaption": "（法第四十九条の二第一項の容器の附属品）",
+                "ArticleTitle": "第九条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "法第四十九条の二第一項本文の経済産業省令で定める附属品は、次の各号に掲げるものとする。"
+                  },
+                  "Item": [
+                    {
+                      "@Num": "1",
+                      "ItemTitle": "一",
+                      "ItemSentence": {
+                        "Sentence": "バルブ"
+                      }
+                    },
+                    {
+                      "@Num": "2",
+                      "ItemTitle": "二",
+                      "ItemSentence": {
+                        "Sentence": "安全弁"
+                      }
+                    },
+                    {
+                      "@Num": "3",
+                      "ItemTitle": "三",
+                      "ItemSentence": {
+                        "Sentence": "逆止弁"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "@Num": "10",
+                "ArticleCaption": "（附属品検査の方法）",
+                "ArticleTitle": "第十条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "法第四十九条の二第一項の経済産業省令で定める方法は、次条第一項第二号に定める試験の方法によるものとする。"
+                  }
+                }
+              },
+              {
+                "@Num": "11",
+                "ArticleCaption": "（附属品の規格）",
+                "ArticleTitle": "第十一条",
+                "Paragraph": [
+                  {
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": "法第四十九条の二第四項の経済産業省令で定める高圧ガスの種類及び圧力の大きさ別の附属品の規格は、次の各号に掲げるものとする。"
+                    },
+                    "Item": [
+                      {
+                        "@Num": "1",
+                        "ItemTitle": "一",
+                        "ItemSentence": {
+                          "Sentence": "附属品に使用する材料は、使用する高圧ガスの種類、使用圧力、使用温度及び使用される環境に応じた適切なものであること。"
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "ItemTitle": "二",
+                        "ItemSentence": {
+                          "Sentence": "附属品は、告示に定める試験を行い、これに合格するものであること。"
+                        }
+                      },
+                      {
+                        "@Num": "3",
+                        "ItemTitle": "三",
+                        "ItemSentence": {
+                          "Sentence": "附属品は、容器の外部又は内部に直接取り付けられているものであること。"
+                        }
+                      },
+                      {
+                        "@Num": "4",
+                        "ItemTitle": "四",
+                        "ItemSentence": {
+                          "Sentence": "安全弁は、当該安全弁が装置される容器の通常の使用範囲を超えた温度に対応して作動するものであること。"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": "前項の規定にかかわらず、経済産業大臣が告示で定める国が、協定規則第百三十四号に基づき認定した附属品であって、当該附属品に使用する金属材料が前項第一号で定める基準に適合するものとして認められたもの（以下「海外認定附属品」という。）については、当該認定に係る規格をもって法第四十九条の二第四項の経済産業省令で定める高圧ガスの種類及び圧力の大きさ別の附属品の規格とする。"
+                    }
+                  }
+                ]
+              },
+              {
+                "@Num": "12",
+                "ArticleCaption": "（附属品検査の刻印）",
+                "ArticleTitle": "第十二条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "海外認定附属品は、協定規則に基づく方式に従って、法第四十九条の三第一項の刻印を行うことができる。"
+                  }
+                }
+              },
+              {
+                "@Num": "13",
+                "ArticleCaption": "（容器に係る附属品）",
+                "ArticleTitle": "第十三条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "法第四十八条第一項第三号の経済産業省令で定める容器は、国際相互承認圧縮水素自動車燃料装置用容器とし、同号の経済産業省令で定める附属品は、次の各号に掲げるものとする。"
+                  },
+                  "Item": [
+                    {
+                      "@Num": "1",
+                      "ItemTitle": "一",
+                      "ItemSentence": {
+                        "Sentence": "安全弁"
+                      }
+                    },
+                    {
+                      "@Num": "2",
+                      "ItemTitle": "二",
+                      "ItemSentence": {
+                        "Sentence": "逆止弁"
+                      }
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "@Num": "7",
+            "ChapterTitle": "第七章　特別充塡の許可申請",
+            "Article": {
+              "@Num": "14",
+              "ArticleTitle": "第十四条",
+              "Paragraph": {
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": "法第四十八条第五項の許可を受けようとする者は、様式第一の特別充塡許可申請書に事由を具した書面を添えて、充塡する事業所の所在地を管轄する産業保安監督部長（内容積が五百リットル以下の容器に係るものについては、充塡をする事業所の所在地を管轄する都道府県知事）に提出しなければならない。"
+                }
+              }
+            }
+          },
+          {
+            "@Num": "8",
+            "ChapterTitle": "第八章　容器及び附属品の再検査並びに容器検査所",
+            "Article": [
+              {
+                "@Num": "15",
+                "ArticleCaption": "（容器再検査の期間）",
+                "ArticleTitle": "第十五条",
+                "Paragraph": [
+                  {
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": "法第四十八条第一項第五号の経済産業省令で定める期間は、容器再検査を受けたことのないものについては法第四十五条第一項若しくは法第四十九条の二十五第一項（第四十九条の三十三第二項において準用する場合を含む。）の刻印又は法第四十五条第二項若しくは第四十九条の二十五第二項（第四十九条の三十三第二項において準用する場合を含む。）の標章の掲示（以下「刻印等」という。）において示された容器を製造した月（容器の製造過程で行われた耐圧試験に合格した月をいう。）の前月の末日、容器再検査を受けたことのあるものについては前回の容器再検査合格時における第二十七条第一項に基づく刻印又は同条第二項に基づく標章において示された月の前月の末日から起算して、製造した後の経過年数（以下この条及び第五十八条において「経過年数」という。）四年一月以下のものは四年一月、経過年数四年一月を超えるものは二年三月とする。"
+                    }
+                  },
+                  {
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": "前項の規定にかかわらず、経済産業大臣の認可を受けた場合は、当該認可に係る期間をもって法第四十八条第一項第五号の経済産業省令で定める期間とすることができる。"
+                    }
+                  }
+                ]
+              },
+              {
+                "@Num": "16",
+                "ArticleCaption": "（容器再検査の方法）",
+                "ArticleTitle": "第十六条",
+                "Paragraph": [
+                  {
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": "法第四十九条第一項の経済産業省令で定める方法は、告示に定めるものとする。"
+                    }
+                  },
+                  {
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": "前項の規定にかかわらず、経済産業大臣の認可を受けた場合は、当該認可に係る方法をもって法第四十九条第一項の経済産業省令で定める方法とすることができる。"
+                    }
+                  }
+                ]
+              },
+              {
+                "@Num": "17",
+                "ArticleCaption": "（容器再検査における容器の規格）",
+                "ArticleTitle": "第十七条",
+                "Paragraph": [
+                  {
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": "法第四十九条第二項の経済産業省令で定める高圧ガスの種類及び圧力の大きさ別の規格のうち、繊維強化プラスチック複合容器に係るものは、次の各号に掲げるものとする。"
+                    },
+                    "Item": [
+                      {
+                        "@Num": "1",
+                        "ItemTitle": "一",
+                        "ItemSentence": {
+                          "Sentence": "容器は、次に掲げるところにより外観検査を行い、これに合格するものであること。"
+                        },
+                        "Subitem1": [
+                          {
+                            "@Num": "1",
+                            "Subitem1Title": "イ",
+                            "Subitem1Sentence": {
+                              "Sentence": "容器ごとに行うこと。"
+                            }
+                          },
+                          {
+                            "@Num": "2",
+                            "Subitem1Title": "ロ",
+                            "Subitem1Sentence": {
+                              "Sentence": "外面に容器の使用上支障のある腐食、割れ、すじ等がないものを合格とすること。"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "@Num": "2",
+                        "ItemTitle": "二",
+                        "ItemSentence": {
+                          "Sentence": "容器は、次に掲げるところにより漏えい試験を行い、これに合格するものであること。"
+                        },
+                        "Subitem1": [
+                          {
+                            "@Num": "1",
+                            "Subitem1Title": "イ",
+                            "Subitem1Sentence": {
+                              "Sentence": "容器ごとに行うこと。"
+                            }
+                          },
+                          {
+                            "@Num": "2",
+                            "Subitem1Title": "ロ",
+                            "Subitem1Sentence": {
+                              "Sentence": "漏れがないものを合格とすること。"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "@Num": "3",
+                        "ItemTitle": "三",
+                        "ItemSentence": {
+                          "Sentence": "その他告示に定める基準に適合するものであること。"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": "前項の規定にかかわらず、経済産業大臣の認可を受けた場合は、当該認可に係る規格をもって法第四十九条第二項の経済産業省令で定める容器の規格とすることができる。"
+                    }
+                  }
+                ]
+              },
+              {
+                "@Num": "18",
+                "ArticleCaption": "（附属品再検査の期間）",
+                "ArticleTitle": "第十八条",
+                "Paragraph": [
+                  {
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": "法第四十八条第一項第三号の経済産業省令で定める期間は、附属品検査に合格した日（附属品再検査に合格したものにあっては、最近時の同検査に合格した日。）から附属品が装置されている容器が最初に受ける容器再検査までの間とする。"
+                    }
+                  },
+                  {
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": "前項の規定にかかわらず、経済産業大臣の認可を受けた場合は、当該認可に係る期間をもって法第四十八条第一項第三号の経済産業省令で定める期間とすることができる。"
+                    }
+                  }
+                ]
+              },
+              {
+                "@Num": "19",
+                "ArticleCaption": "（附属品再検査の方法）",
+                "ArticleTitle": "第十九条",
+                "Paragraph": [
+                  {
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": "法第四十九条の四第一項の経済産業省令で定める方法は、告示に定めるものとする。"
+                    }
+                  },
+                  {
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": "前項の規定にかかわらず、経済産業大臣の認可を受けた場合は、当該認可に係る方法をもって法第四十九条の四第一項の経済産業省令で定める附属品再検査の方法とすることができる。"
+                    }
+                  }
+                ]
+              },
+              {
+                "@Num": "20",
+                "ArticleCaption": "（附属品再検査における附属品の規格）",
+                "ArticleTitle": "第二十条",
+                "Paragraph": [
+                  {
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": "法第四十九条の四第二項の経済産業省令で定める高圧ガスの種類及び圧力の大きさ別の規格は、次の各号に掲げるものとする。"
+                    },
+                    "Item": [
+                      {
+                        "@Num": "1",
+                        "ItemTitle": "一",
+                        "ItemSentence": {
+                          "Sentence": "附属品は、次に掲げるところにより外観検査を行い、これに合格するものであること。"
+                        },
+                        "Subitem1": [
+                          {
+                            "@Num": "1",
+                            "Subitem1Title": "イ",
+                            "Subitem1Sentence": {
+                              "Sentence": "附属品ごとに行うこと。"
+                            }
+                          },
+                          {
+                            "@Num": "2",
+                            "Subitem1Title": "ロ",
+                            "Subitem1Sentence": {
+                              "Sentence": "附属品の使用上支障のある腐食、割れ、すじ、しわ、変形等がないものを合格とすること。"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "@Num": "2",
+                        "ItemTitle": "二",
+                        "ItemSentence": {
+                          "Sentence": "附属品は、次に掲げるところにより漏えい試験を行い、これに合格するものであること。"
+                        },
+                        "Subitem1": [
+                          {
+                            "@Num": "1",
+                            "Subitem1Title": "イ",
+                            "Subitem1Sentence": {
+                              "Sentence": "附属品ごとに行うこと。"
+                            }
+                          },
+                          {
+                            "@Num": "2",
+                            "Subitem1Title": "ロ",
+                            "Subitem1Sentence": {
+                              "Sentence": "漏れのないものを合格とすること。"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "@Num": "3",
+                        "ItemTitle": "三",
+                        "ItemSentence": {
+                          "Sentence": "その他告示に定める基準に適合するものであること。"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": "前項の規定にかかわらず、経済産業大臣の認可を受けた場合は、当該認可に係る規格をもって法第四十九条の四第二項の経済産業省令で定める規格とすることができる。"
+                    }
+                  }
+                ]
+              },
+              {
+                "@Num": "21",
+                "ArticleCaption": "（容器検査所の登録の手続）",
+                "ArticleTitle": "第二十一条",
+                "Paragraph": [
+                  {
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": "法第四十九条第一項の登録を受けようとする者は、容器検査所ごとに、様式第二の容器検査所登録申請書に検査設備明細書を添えて、容器検査所の所在地を管轄する都道府県知事に提出しなければならない。"
+                    }
+                  },
+                  {
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": "前項の検査設備明細書には、第二十四条に掲げる基準に対応する事項を記載しなければならない。"
+                    }
+                  }
+                ]
+              },
+              {
+                "@Num": "22",
+                "ArticleCaption": "（容器検査所の登録の更新の手続）",
+                "ArticleTitle": "第二十二条",
+                "Paragraph": [
+                  {
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": "法第五十条第一項の規定により登録の更新を受けようとする者は、容器検査所ごとに、様式第三の容器検査所登録更新申請書を容器検査所の所在地を管轄する都道府県知事に提出しなければならない。"
+                    }
+                  },
+                  {
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": "前項の申請の際、検査設備が当該容器検査所の登録（登録の更新を受けているときは、前回の登録）を受けたときのものと異なるときは、前項の申請書に検査設備明細書を添付しなければならない。"
+                    }
+                  }
+                ]
+              },
+              {
+                "@Num": "23",
+                "ArticleCaption": "（容器検査所の登録票）",
+                "ArticleTitle": "第二十三条",
+                "Paragraph": [
+                  {
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": "都道府県知事は、法第五十条第三項の規定により容器検査所の登録又はその更新をしたときは、登録又はその更新を受けた者に対し、様式第四の容器検査所登録票を交付する。"
+                    }
+                  },
+                  {
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": "前項の容器検査所登録票の交付を受けた者は、交付を受けた日から五年を経過したとき、容器再検査の業務を廃止したとき又は法第五十三条の規定によりその登録を取り消されたときは、遅滞なく、当該容器検査所登録票を、それを交付した都道府県知事に返納しなければならない。"
+                    }
+                  }
+                ]
+              },
+              {
+                "@Num": "24",
+                "ArticleCaption": "（検査設備の基準）",
+                "ArticleTitle": "第二十四条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "法第五十条第三項の経済産業省令で定める技術上の基準は、次の各号に掲げるものとする。"
+                  },
+                  "Item": [
+                    {
+                      "@Num": "1",
+                      "ItemTitle": "一",
+                      "ItemSentence": {
+                        "Sentence": "容器の再検査をする容器検査所にあっては、次に掲げる検査設備を備えること。"
+                      },
+                      "Subitem1": [
+                        {
+                          "@Num": "1",
+                          "Subitem1Title": "イ",
+                          "Subitem1Sentence": {
+                            "Sentence": "容器の表面を清じょうにするための設備"
+                          }
+                        },
+                        {
+                          "@Num": "2",
+                          "Subitem1Title": "ロ",
+                          "Subitem1Sentence": {
+                            "Sentence": "容器の外面を照明検査するための設備"
+                          }
+                        },
+                        {
+                          "@Num": "3",
+                          "Subitem1Title": "ハ",
+                          "Subitem1Sentence": {
+                            "Sentence": "容器の傷、腐食等の寸法を測定するための設備"
+                          }
+                        },
+                        {
+                          "@Num": "4",
+                          "Subitem1Title": "ニ",
+                          "Subitem1Sentence": {
+                            "Sentence": "漏えい試験のための設備"
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "@Num": "2",
+                      "ItemTitle": "二",
+                      "ItemSentence": {
+                        "Sentence": "附属品の再検査をする容器検査所にあっては、漏えい試験のための検査設備を備えること。"
+                      }
+                    },
+                    {
+                      "@Num": "3",
+                      "ItemTitle": "三",
+                      "ItemSentence": {
+                        "Sentence": "前各号に定める検査設備は、それぞれ告示に定める基準に適合するものであること。"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "@Num": "25",
+                "ArticleCaption": "（検査主任者の資格）",
+                "ArticleTitle": "第二十五条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "法第五十二条第一項の経済産業省令で定める条件に適合する知識経験を有する者は、次の各号のいずれかに掲げるものとする。"
+                  },
+                  "Item": [
+                    {
+                      "@Num": "1",
+                      "ItemTitle": "一",
+                      "ItemSentence": {
+                        "Sentence": "学校教育法（昭和二十二年法律第二十六号）による大学若しくは高等専門学校若しくは従前の規定による大学若しくは専門学校において化学、物理学若しくは工学に関する課程を修めて卒業し、高圧ガスの充塡の作業、容器若しくは附属品の製造の作業又は容器若しくは附属品の検査の実務に一年以上従事した者"
+                      }
+                    },
+                    {
+                      "@Num": "2",
+                      "ItemTitle": "二",
+                      "ItemSentence": {
+                        "Sentence": "学校教育法による高等学校若しくは従前の規定による工業学校において工業に関する課程を修めて卒業し、高圧ガスの充塡の作業、容器若しくは附属品の製造の作業又は容器若しくは附属品の検査の実務に二年以上従事した者"
+                      }
+                    },
+                    {
+                      "@Num": "3",
+                      "ItemTitle": "三",
+                      "ItemSentence": {
+                        "Sentence": "容器若しくは附属品の製造の作業又は容器若しくは附属品の検査の実務に三年以上従事した者"
+                      }
+                    },
+                    {
+                      "@Num": "4",
+                      "ItemTitle": "四",
+                      "ItemSentence": {
+                        "Sentence": "自動車整備士技能検定規則（昭和二十六年運輸省令第七十一号）第二条の規定に基づく一級大型自動車整備士、一級小型自動車整備士、一級二輪自動車整備士、二級ガソリン自動車整備士、二級ジーゼル自動車整備士又は二級二輪自動車整備士の資格を有する者"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "@Num": "26",
+                "ArticleCaption": "（検査主任者の選任等の届出）",
+                "ArticleTitle": "第二十六条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": [
+                      {
+                        "@Function": "main",
+                        "@Num": "1",
+                        "#text": "法第五十二条第二項の規定により検査主任者の選任又は解任を届け出ようとする者は、様式第五の検査主任者届書に当該検査主任者が交付を受けた製造保安責任者免状の写し又は前条に規定する資格を有することを証する書面を添えて、その容器検査所の所在地を管轄する都道府県知事に提出しなければならない。"
+                      },
+                      {
+                        "@Function": "proviso",
+                        "@Num": "2",
+                        "#text": "ただし、解任の場合にあっては、当該写し又は書面の添付を省略することができる。"
+                      }
+                    ]
+                  }
+                }
+              },
+              {
+                "@Num": "27",
+                "ArticleCaption": "（容器再検査に合格した容器の刻印等）",
+                "ArticleTitle": "第二十七条",
+                "Paragraph": [
+                  {
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": [
+                        {
+                          "@Function": "main",
+                          "@Num": "1",
+                          "#text": "法第四十九条第三項の規定により、刻印しようとする者は、第六条又は第五十三条第一項の刻印の下又は右に次の各号に掲げる事項を刻印するものとする。"
+                        },
+                        {
+                          "@Function": "proviso",
+                          "@Num": "2",
+                          "#text": "ただし、自動車に装置された状態で刻印をすることが困難な場合は、次項に規定する方式に従って行う標章の掲示をもって法第四十九条第三項の刻印に代えることができる。"
+                        }
+                      ]
+                    },
+                    "Item": [
+                      {
+                        "@Num": "1",
+                        "ItemTitle": "一",
+                        "ItemSentence": {
+                          "Sentence": "検査実施者の名称の符号"
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "ItemTitle": "二",
+                        "ItemSentence": {
+                          "Sentence": "容器再検査の年月"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": "法第四十九条第四項の規定により、標章を掲示しようとする者は、告示に定める証票を告示に定めるところにより貼付するものとする。"
+                    }
+                  },
+                  {
+                    "@Num": "3",
+                    "ParagraphNum": "３",
+                    "ParagraphSentence": {
+                      "Sentence": "前二項の規定にかかわらず、経済産業大臣の認可を受けた場合は、当該認可に係る基準をもって法第四十九条第三項の刻印又は同条第四項の標章の掲示とすることができる。"
+                    }
+                  }
+                ]
+              },
+              {
+                "@Num": "28",
+                "ArticleCaption": "（附属品再検査に合格した附属品の刻印）",
+                "ArticleTitle": "第二十八条",
+                "Paragraph": [
+                  {
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": [
+                        {
+                          "@Function": "main",
+                          "@Num": "1",
+                          "#text": "法第四十九条の四第三項の規定により、刻印をしようとする者は、検査実施者の名称の符号及び附属品再検査の年月を第十二条又は第五十九条の刻印の下又は右に刻印する方式に従って刻印をしなければならない。"
+                        },
+                        {
+                          "@Function": "proviso",
+                          "@Num": "2",
+                          "#text": "ただし、刻印することが適当でない附属品については、告示に定める方式をもってこれに代えることができる。"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": "前項の規定にかかわらず、経済産業大臣の認可を受けた場合は、当該認可に係る方式に従って刻印をすることができる。"
+                    }
+                  }
+                ]
+              },
+              {
+                "@Num": "29",
+                "ArticleCaption": "（容器検査所の廃止届）",
+                "ArticleTitle": "第二十九条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "法第五十六条の二の規定により容器検査所の再検査の業務の廃止を届け出ようとする者は、様式第六の容器検査所廃止届書をその容器検査所の所在地を管轄する都道府県知事に提出しなければならない。"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "@Num": "9",
+            "ChapterTitle": "第九章　容器等検査に係る登録",
+            "Section": [
+              {
+                "@Num": "1",
+                "SectionTitle": "第一節　登録の基準等",
+                "Article": [
+                  {
+                    "@Num": "30",
+                    "ArticleCaption": "（容器等事業区分）",
+                    "ArticleTitle": "第三十条",
+                    "Paragraph": {
+                      "@Num": "1",
+                      "ParagraphNum": null,
+                      "ParagraphSentence": {
+                        "Sentence": "法第四十九条の五第一項の経済産業省令で定める容器等事業区分は、別表の上欄における区分に従って区分された同表下欄に掲げる区分とする。"
+                      }
+                    }
+                  },
+                  {
+                    "@Num": "31",
+                    "ArticleCaption": "（登録の申請）",
+                    "ArticleTitle": "第三十一条",
+                    "Paragraph": [
+                      {
+                        "@Num": "1",
+                        "ParagraphNum": null,
+                        "ParagraphSentence": {
+                          "Sentence": "法第四十九条の五第一項の規定により、同項の登録を受けようとする容器等製造業者は、様式第七による登録申請書を経済産業大臣（容器又は附属品を製造する工場又は事業場が一の産業保安監督部の管轄区域内のみに設置されている容器等製造業者にあっては、当該工場又は事業場を管轄する産業保安監督部長。以下この条、第三十九条、第四十一条から第四十三条まで、第四十八条、第五十条、第五十四条及び第五十六条において同じ。）に提出しなければならない。"
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "ParagraphNum": "２",
+                        "ParagraphSentence": {
+                          "Sentence": "法第四十九条の五第三項の経済産業省令で定める書類は、次の各号に掲げるものとする。"
+                        },
+                        "Item": [
+                          {
+                            "@Num": "1",
+                            "ItemTitle": "一",
+                            "ItemSentence": {
+                              "Sentence": "定款及び登記事項証明書"
+                            }
+                          },
+                          {
+                            "@Num": "2",
+                            "ItemTitle": "二",
+                            "ItemSentence": {
+                              "Sentence": "役員の氏名及び略歴を記載したもの"
+                            }
+                          },
+                          {
+                            "@Num": "3",
+                            "ItemTitle": "三",
+                            "ItemSentence": {
+                              "Sentence": "容器等検査規程"
+                            }
+                          },
+                          {
+                            "@Num": "4",
+                            "ItemTitle": "四",
+                            "ItemSentence": {
+                              "Sentence": "工場又は事業場の図面"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "@Num": "3",
+                        "ParagraphNum": "３",
+                        "ParagraphSentence": {
+                          "Sentence": "前項の申請書に第三十六条第二項の書面を添えない場合にあっては、様式第八による検査申請書を経済産業大臣に提出しなければならない。"
+                        }
+                      },
+                      {
+                        "@Num": "4",
+                        "ParagraphNum": "４",
+                        "ParagraphSentence": {
+                          "Sentence": "第一項の申請書には、その申請に係る工場又は事業場における品質管理の方法及び検査のための組織（以下「品質管理の方法等」という。）が第三十四条第二項で定める技術上の基準のうち工業標準化法（昭和二十四年法律第百八十五号）に基づく日本工業規格（以下「日本工業規格」という。）Ｑ９００１（２００８）又は国際標準化機構が定めた規格（以下「国際規格」という。）ＩＳＯ９００１（２００８）に規定される基準に適合していることを経済産業大臣が適切であると認めた者が証する書面を添付することができる。"
+                        }
+                      },
+                      {
+                        "@Num": "5",
+                        "ParagraphNum": "５",
+                        "ParagraphSentence": {
+                          "Sentence": "登録の申請に係る経済産業大臣が行う検査又は協会若しくは検査組織等調査機関による調査にあっては、前項の書面に係る部分は省略することができる。"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Num": "32",
+                    "ArticleCaption": "（容器等製造設備）",
+                    "ArticleTitle": "第三十二条",
+                    "Paragraph": {
+                      "@Num": "1",
+                      "ParagraphNum": null,
+                      "ParagraphSentence": {
+                        "Sentence": "法第四十九条の五第二項第四号の経済産業省令で定める容器等製造設備は、容器等事業区分に応じて必要なものとし、法第四十九条の七第一号の経済産業省令で定める技術上の基準は、自主検査を行う容器を適切に製造する能力を有するものとする。"
+                      }
+                    }
+                  },
+                  {
+                    "@Num": "33",
+                    "ArticleCaption": "（容器等検査設備）",
+                    "ArticleTitle": "第三十三条",
+                    "Paragraph": {
+                      "@Num": "1",
+                      "ParagraphNum": null,
+                      "ParagraphSentence": {
+                        "Sentence": "法第四十九条の五第二項第五号の経済産業省令で定める容器等検査設備は、容器等事業区分に応じて必要なものとし、法第四十九条の七第二号の経済産業省令で定める技術上の基準は、自主検査を行う容器を適切に検査する能力を有するものとする。"
+                      }
+                    }
+                  },
+                  {
+                    "@Num": "34",
+                    "ArticleCaption": "（品質管理の方法及び検査のための組織）",
+                    "ArticleTitle": "第三十四条",
+                    "Paragraph": [
+                      {
+                        "@Num": "1",
+                        "ParagraphNum": null,
+                        "ParagraphSentence": {
+                          "Sentence": "法第四十九条の五第二項第六号の経済産業省令で定める品質管理の方法等に関する事項は、日本工業規格Ｑ９００１（２００８）又は国際規格ＩＳＯ９００１（２００８）の品質システム要求事項のうち、自主検査を行う容器等に係る品質管理の方法等を適切なものとするために必要なものとする。"
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "ParagraphNum": "２",
+                        "ParagraphSentence": {
+                          "Sentence": "法第四十九条の七第三号の経済産業省令で定める技術上の基準は、次の各号に掲げるものとする。"
+                        },
+                        "Item": [
+                          {
+                            "@Num": "1",
+                            "ItemTitle": "一",
+                            "ItemSentence": {
+                              "Sentence": "日本工業規格Ｑ９００１（２００８）又は国際規格ＩＳＯ９００１（２００８）の品質システム要求事項に規定される基準のほか、自主検査を行う容器等に係る品質管理の方法等を適切なものとするために必要なもの。"
+                            }
+                          },
+                          {
+                            "@Num": "2",
+                            "ItemTitle": "二",
+                            "ItemSentence": {
+                              "Sentence": "その他告示に定める基準に適合すること"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@Num": "35",
+                    "ArticleCaption": "（検査員の条件及び数）",
+                    "ArticleTitle": "第三十五条",
+                    "Paragraph": [
+                      {
+                        "@Num": "1",
+                        "ParagraphNum": null,
+                        "ParagraphSentence": {
+                          "Sentence": "法第四十九条の七第四号の経済産業省令で定める条件は、次の各号のいずれかに掲げるものとする。"
+                        },
+                        "Item": [
+                          {
+                            "@Num": "1",
+                            "ItemTitle": "一",
+                            "ItemSentence": {
+                              "Sentence": "甲種機械責任者免状、乙種機械責任者免状若しくは甲種化学責任者免状の交付を受け、又は学校教育法による大学若しくは高等専門学校若しくは従前の規定による大学若しくは専門学校において理学若しくは工学に関する課程を修めて卒業し、かつ、容器又は附属品の検査に一年以上従事した経験を有すること。"
+                            }
+                          },
+                          {
+                            "@Num": "2",
+                            "ItemTitle": "二",
+                            "ItemSentence": {
+                              "Sentence": "学校教育法による高等学校又は従前の規定による工業学校において工学に関する課程を修めて卒業し、かつ、容器又は附属品の検査に二年以上従事した経験を有すること。"
+                            }
+                          },
+                          {
+                            "@Num": "3",
+                            "ItemTitle": "三",
+                            "ItemSentence": {
+                              "Sentence": "容器又は附属品の検査に五年以上従事した経験を有すること。"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "@Num": "2",
+                        "ParagraphNum": "２",
+                        "ParagraphSentence": {
+                          "Sentence": "法第四十九条の七第四号の経済産業省令で定める数は、二名とする。"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Num": "36",
+                    "ArticleCaption": "（協会等による調査の申請）",
+                    "ArticleTitle": "第三十六条",
+                    "Paragraph": [
+                      {
+                        "@Num": "1",
+                        "ParagraphNum": null,
+                        "ParagraphSentence": {
+                          "Sentence": "法第四十九条の八第一項の調査を受けようとする容器等製造業者は、様式第九による調査申請書を協会又は検査組織等調査機関（以下「協会等」という。）に提出しなければならない。"
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "ParagraphNum": "２",
+                        "ParagraphSentence": {
+                          "Sentence": "法第四十九条の八第二項の書面の様式は、様式第十のとおりとする。"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Num": "37",
+                    "ArticleCaption": "（登録の更新）",
+                    "ArticleTitle": "第三十七条",
+                    "Paragraph": {
+                      "@Num": "1",
+                      "ParagraphNum": null,
+                      "ParagraphSentence": {
+                        "Sentence": "法第四十九条の九の登録の更新を受けようとする者は、第三十一条第一項の規定の例により、申請をしなければならない。"
+                      }
+                    }
+                  },
+                  {
+                    "@Num": "38",
+                    "ArticleCaption": "（登録証）",
+                    "ArticleTitle": "第三十八条",
+                    "Paragraph": {
+                      "@Num": "1",
+                      "ParagraphNum": null,
+                      "ParagraphSentence": {
+                        "Sentence": "法第四十九条の十一第一項の登録証の様式は、様式第十一のとおりとする。"
+                      }
+                    }
+                  },
+                  {
+                    "@Num": "39",
+                    "ArticleCaption": "（変更の届出）",
+                    "ArticleTitle": "第三十九条",
+                    "Paragraph": {
+                      "@Num": "1",
+                      "ParagraphNum": null,
+                      "ParagraphSentence": {
+                        "Sentence": "法第四十九条の十二の変更を届け出ようとする者は、様式第十二による変更届出書を経済産業大臣に提出しなければならない。"
+                      }
+                    }
+                  },
+                  {
+                    "@Num": "40",
+                    "ArticleCaption": "（軽微な変更）",
+                    "ArticleTitle": "第四十条",
+                    "Paragraph": {
+                      "@Num": "1",
+                      "ParagraphNum": null,
+                      "ParagraphSentence": {
+                        "Sentence": "法第四十九条の十二の経済産業省令で定める軽微な変更は、次の各号に掲げるものとする。"
+                      },
+                      "Item": [
+                        {
+                          "@Num": "1",
+                          "ItemTitle": "一",
+                          "ItemSentence": {
+                            "Sentence": "登録に係る容器等製造設備の同等以上の能力を有する製造設備への変更"
+                          }
+                        },
+                        {
+                          "@Num": "2",
+                          "ItemTitle": "二",
+                          "ItemSentence": {
+                            "Sentence": "登録に係る容器等検査設備の同等以上の能力を有する検査設備への変更"
+                          }
+                        },
+                        {
+                          "@Num": "3",
+                          "ItemTitle": "三",
+                          "ItemSentence": {
+                            "Sentence": "登録に係る品質管理の方法及び検査のための組織に関する事項であって、次のイ及びロに掲げるもの"
+                          },
+                          "Subitem1": [
+                            {
+                              "@Num": "1",
+                              "Subitem1Title": "イ",
+                              "Subitem1Sentence": {
+                                "Sentence": "日本工業規格Ｑ９００１（２００８）又は国際規格ＩＳＯ９００１（２００８）の管理責任者が不在のときに、その権限及び責任を代行する者の変更"
+                              }
+                            },
+                            {
+                              "@Num": "2",
+                              "Subitem1Title": "ロ",
+                              "Subitem1Sentence": {
+                                "Sentence": "材料、部品等の購入先の変更"
+                              }
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "@Num": "41",
+                    "ArticleCaption": "（廃止の届出）",
+                    "ArticleTitle": "第四十一条",
+                    "Paragraph": {
+                      "@Num": "1",
+                      "ParagraphNum": null,
+                      "ParagraphSentence": {
+                        "Sentence": "法第四十九条の十四の規定により登録に係る事業の廃止を届け出ようとする者は、様式第十三による事業廃止届書を経済産業大臣に提出しなければならない。"
+                      }
+                    }
+                  },
+                  {
+                    "@Num": "42",
+                    "ArticleCaption": "（登録証の再交付）",
+                    "ArticleTitle": "第四十二条",
+                    "Paragraph": {
+                      "@Num": "1",
+                      "ParagraphNum": null,
+                      "ParagraphSentence": {
+                        "Sentence": "法第四十九条の十五の規定により登録証の再交付を受けようとする者は、様式第十四による登録証再交付申請書を経済産業大臣に提出しなければならない。"
+                      }
+                    }
+                  },
+                  {
+                    "@Num": "43",
+                    "ArticleCaption": "（登録簿の謄本の交付又は閲覧の請求）",
+                    "ArticleTitle": "第四十三条",
+                    "Paragraph": {
+                      "@Num": "1",
+                      "ParagraphNum": null,
+                      "ParagraphSentence": {
+                        "Sentence": "法第四十九条の二十の規定により登録簿の謄本の交付又は閲覧を請求しようとする者は、様式第十五による登録簿謄本交付（閲覧）請求書を経済産業大臣に提出しなければならない。"
+                      }
+                    }
+                  },
+                  {
+                    "@Num": "44",
+                    "ArticleCaption": "（電磁的方法による保存）",
+                    "ArticleTitle": "第四十四条",
+                    "Paragraph": [
+                      {
+                        "@Num": "1",
+                        "ParagraphNum": null,
+                        "ParagraphSentence": {
+                          "Sentence": "法第四十九条の二十四第二項に規定する検査記録は、電磁的方法（電子的方法、磁気的方法その他の人の知覚によって認識することができない方法をいう。）により作成し、保存することができる。"
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "ParagraphNum": "２",
+                        "ParagraphSentence": {
+                          "Sentence": "前項の規定による保存をする場合には、同項の検査記録が必要に応じ電子計算機その他の機器を用いて直ちに表示されることができるようにしておかなければならない。"
+                        }
+                      },
+                      {
+                        "@Num": "3",
+                        "ParagraphNum": "３",
+                        "ParagraphSentence": {
+                          "Sentence": "第一項の規定による保存をする場合には、経済産業大臣が定める基準を確保するよう努めなければならない。"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Num": "45",
+                    "ArticleCaption": "（外国容器等製造業者の申請）",
+                    "ArticleTitle": "第四十五条",
+                    "Paragraph": [
+                      {
+                        "@Num": "1",
+                        "ParagraphNum": null,
+                        "ParagraphSentence": {
+                          "Sentence": "法第四十九条の三十一第一項の登録を受けようとする者は、様式第十六による外国製造業者登録申請書に第三十一条第二項に掲げる書類を添えて経済産業大臣に提出しなければならない。"
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "ParagraphNum": "２",
+                        "ParagraphSentence": {
+                          "Sentence": "前項の申請書に第三十六条第二項の書面を添えない場合にあっては、様式第十七による検査申請書を経済産業大臣に提出しなければならない。"
+                        }
+                      },
+                      {
+                        "@Num": "3",
+                        "ParagraphNum": "３",
+                        "ParagraphSentence": {
+                          "Sentence": "法第四十九条の三十一第二項において準用する法第四十九条の八第一項の規定により協会等の行う調査を受けようとする者は、様式第十八による調査申請書を協会等に提出しなければならない。"
+                        }
+                      },
+                      {
+                        "@Num": "4",
+                        "ParagraphNum": "４",
+                        "ParagraphSentence": {
+                          "Sentence": "第三十一条第四項及び第五項の規定は、第一項の申請に準用する。"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Num": "46",
+                    "ArticleCaption": "（外国登録容器等製造業者の変更の届出等）",
+                    "ArticleTitle": "第四十六条",
+                    "Paragraph": [
+                      {
+                        "@Num": "1",
+                        "ParagraphNum": null,
+                        "ParagraphSentence": {
+                          "Sentence": "法第四十九条の三十一第二項において準用する法第四十九条の十二の規定による変更の届出をしようとする外国登録容器等製造業者は、様式第十九による変更届書を経済産業大臣に提出しなければならない。"
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "ParagraphNum": "２",
+                        "ParagraphSentence": {
+                          "Sentence": "法第四十九条の三十一第二項において準用する法第四十九条の十四の規定による廃止の届出をしようとする外国登録容器等製造業者は、様式第二十による事業廃止届書を経済産業大臣に提出しなければならない。"
+                        }
+                      },
+                      {
+                        "@Num": "3",
+                        "ParagraphNum": "３",
+                        "ParagraphSentence": {
+                          "Sentence": "法第四十九条の三十一第二項において準用する法第四十九条の十五の規定による登録証の再交付を受けようとする外国登録容器等製造業者は、様式第二十一による登録証再交付申請書を経済産業大臣に提出しなければならない。"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Num": "47",
+                    "ArticleCaption": "（準用）",
+                    "ArticleTitle": "第四十七条",
+                    "Paragraph": {
+                      "@Num": "1",
+                      "ParagraphNum": null,
+                      "ParagraphSentence": {
+                        "Sentence": "第三十条、第三十二条から第三十五条まで、第三十六条第二項、第三十七条、第三十八条及び第四十三条の規定は第四十五条第一項の登録に、第四十条及び第四十四条の規定は外国登録容器等製造業者に準用する。"
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "@Num": "2",
+                "SectionTitle": "第二節　型式承認等",
+                "Article": [
+                  {
+                    "@Num": "48",
+                    "ArticleCaption": "（容器の型式承認の申請）",
+                    "ArticleTitle": "第四十八条",
+                    "Paragraph": {
+                      "@Num": "1",
+                      "ParagraphNum": null,
+                      "ParagraphSentence": {
+                        "Sentence": "法第四十九条の二十一第一項及び法第四十九条の三十三第一項の規定により、同項の容器の型式承認を受けようとする者は、様式第二十二の容器型式承認申請書を経済産業大臣に提出しなければならない。"
+                      }
+                    }
+                  },
+                  {
+                    "@Num": "49",
+                    "ArticleCaption": "（型式承認に要する容器及び書類）",
+                    "ArticleTitle": "第四十九条",
+                    "Paragraph": [
+                      {
+                        "@Num": "1",
+                        "ParagraphNum": null,
+                        "ParagraphSentence": {
+                          "Sentence": "法第四十九条の二十一第三項（法第四十九条の三十三第二項において準用する場合を含む。次項及び第五十五条において同じ。）の経済産業省令で定める容器の数量は、第五条第一項に掲げる容器の規格に適合するために必要な数とする。"
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "ParagraphNum": "２",
+                        "ParagraphSentence": {
+                          "Sentence": "法第四十九条の二十一第三項の経済産業省令で定める書類のうち、容器の型式承認に係るものは、次の各号に掲げるものとする。"
+                        },
+                        "Item": [
+                          {
+                            "@Num": "1",
+                            "ItemTitle": "一",
+                            "ItemSentence": {
+                              "Sentence": "構造図"
+                            }
+                          },
+                          {
+                            "@Num": "2",
+                            "ItemTitle": "二",
+                            "ItemSentence": {
+                              "Sentence": "材料証明書"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@Num": "50",
+                    "ArticleCaption": "（容器型式承認証）",
+                    "ArticleTitle": "第五十条",
+                    "Paragraph": {
+                      "@Num": "1",
+                      "ParagraphNum": null,
+                      "ParagraphSentence": {
+                        "Sentence": "経済産業大臣は、法第四十九条の二十二（法第四十九条の三十三第二項において準用する場合を含む。第五十六条において同じ。）の規定により容器の型式を承認したときは、様式第二十三の容器型式承認証を交付するものとする。"
+                      }
+                    }
+                  },
+                  {
+                    "@Num": "51",
+                    "ArticleCaption": "（試験の申請）",
+                    "ArticleTitle": "第五十一条",
+                    "Paragraph": {
+                      "@Num": "1",
+                      "ParagraphNum": null,
+                      "ParagraphSentence": {
+                        "Sentence": "法第四十九条の二十三第一項の試験のうち、容器に係るものを受けようとする者は、様式第二十四の容器型式試験申請書を協会又は指定容器検査機関に提出しなければならない。"
+                      }
+                    }
+                  },
+                  {
+                    "@Num": "52",
+                    "ArticleCaption": "（容器型式試験合格証）",
+                    "ArticleTitle": "第五十二条",
+                    "Paragraph": {
+                      "@Num": "1",
+                      "ParagraphNum": null,
+                      "ParagraphSentence": {
+                        "Sentence": "協会又は指定容器検査機関は、法第四十九条の二十三第三項により当該容器が試験に合格したときは、様式第二十五の容器型式試験合格証を発行しなければならない。"
+                      }
+                    }
+                  },
+                  {
+                    "@Num": "53",
+                    "ArticleCaption": "（登録容器製造業者及び外国登録容器製造業者が行う刻印等の方式）",
+                    "ArticleTitle": "第五十三条",
+                    "Paragraph": [
+                      {
+                        "@Num": "1",
+                        "ParagraphNum": null,
+                        "ParagraphSentence": {
+                          "Sentence": "法第四十九条の二十五第一項（法第四十九条の三十三第二項において準用する場合を含む。）の規定により、刻印をしようとする者は、告示に定める方式に従って刻印をしなければならない。"
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "ParagraphNum": "２",
+                        "ParagraphSentence": {
+                          "Sentence": "法第四十九条の二十五第二項（法第四十九条の三十三第二項において準用する場合を含む。）の規定により、標章の掲示をしようとする者は、告示に定める方式に従って行わなければならない。"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Num": "54",
+                    "ArticleCaption": "（附属品の型式承認の申請）",
+                    "ArticleTitle": "第五十四条",
+                    "Paragraph": {
+                      "@Num": "1",
+                      "ParagraphNum": null,
+                      "ParagraphSentence": {
+                        "Sentence": "法第四十九条の二十一第一項及び法第四十九条の三十三第一項の規定により、同項の附属品の型式承認を受けようとする者は、様式第二十六の附属品型式承認申請書を経済産業大臣に提出しなければならない。"
+                      }
+                    }
+                  },
+                  {
+                    "@Num": "55",
+                    "ArticleCaption": "（型式承認に要する附属品及び書類）",
+                    "ArticleTitle": "第五十五条",
+                    "Paragraph": [
+                      {
+                        "@Num": "1",
+                        "ParagraphNum": null,
+                        "ParagraphSentence": {
+                          "Sentence": "法第四十九条の二十一第三項の経済産業省令で定める附属品の数量は、第十一条第一項に掲げる附属品の規格に適合するために必要な数とする。"
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "ParagraphNum": "２",
+                        "ParagraphSentence": {
+                          "Sentence": "法第四十九条の二十一第三項の経済産業省令で定める書類のうち、附属品の型式承認に係るものは、次の各号に掲げるものとする。"
+                        },
+                        "Item": [
+                          {
+                            "@Num": "1",
+                            "ItemTitle": "一",
+                            "ItemSentence": {
+                              "Sentence": "構造図"
+                            }
+                          },
+                          {
+                            "@Num": "2",
+                            "ItemTitle": "二",
+                            "ItemSentence": {
+                              "Sentence": "材料証明書"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@Num": "56",
+                    "ArticleCaption": "（附属品型式承認証）",
+                    "ArticleTitle": "第五十六条",
+                    "Paragraph": {
+                      "@Num": "1",
+                      "ParagraphNum": null,
+                      "ParagraphSentence": {
+                        "Sentence": "経済産業大臣は、法第四十九条の二十二により附属品の型式を承認したときは、様式第二十七の附属品型式承認証を交付するものとする。"
+                      }
+                    }
+                  },
+                  {
+                    "@Num": "57",
+                    "ArticleCaption": "（試験の申請）",
+                    "ArticleTitle": "第五十七条",
+                    "Paragraph": {
+                      "@Num": "1",
+                      "ParagraphNum": null,
+                      "ParagraphSentence": {
+                        "Sentence": "法第四十九条の二十三第一項の試験のうち、附属品に係るものを受けようとする者は、様式第二十八の附属品型式試験申請書を協会又は指定容器検査機関に提出しなければならない。"
+                      }
+                    }
+                  },
+                  {
+                    "@Num": "58",
+                    "ArticleCaption": "（附属品型式試験合格証）",
+                    "ArticleTitle": "第五十八条",
+                    "Paragraph": {
+                      "@Num": "1",
+                      "ParagraphNum": null,
+                      "ParagraphSentence": {
+                        "Sentence": "協会又は指定容器検査機関は、法第四十九条の二十三第三項により当該附属品が試験に合格したときは、様式第二十九の附属品型式試験合格証を発行しなければならない。"
+                      }
+                    }
+                  },
+                  {
+                    "@Num": "59",
+                    "ArticleCaption": "（登録附属品製造業者及び外国登録附属品製造業者が行う刻印）",
+                    "ArticleTitle": "第五十九条",
+                    "Paragraph": {
+                      "@Num": "1",
+                      "ParagraphNum": null,
+                      "ParagraphSentence": {
+                        "Sentence": "法第四十九条の二十五第三項（法第四十九条の三十三第二項において準用する場合を含む。）の規定により刻印をしようとする者は、告示に定める方式に従って刻印をしなければならない。"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "@Num": "10",
+            "ChapterTitle": "第十章　帳簿",
+            "Article": {
+              "@Num": "60",
+              "ArticleTitle": "第六十条",
+              "Paragraph": [
+                {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "法第六十条第一項の帳簿に記載すべき事項は、次の表の上欄に掲げる記載すべき者の区分に応じて、それぞれ同表の下欄に掲げるものとする。"
+                  },
+                  "TableStruct": {
+                    "Table": {
+                      "TableRow": [
+                        {
+                          "TableColumn": [
+                            {
+                              "Sentence": "記載すべき者の区分"
+                            },
+                            {
+                              "Sentence": "記載すべき事項"
+                            }
+                          ]
+                        },
+                        {
+                          "TableColumn": [
+                            {
+                              "Sentence": "容器製造業者"
+                            },
+                            {
+                              "Sentence": [
+                                "一　刻印又は標章がされたとき。",
+                                "型式承認番号（自主検査刻印等のある容器に限る。）、容器の製造番号、充塡すべきガスの種類、内容積、製造年月日、場所及び成績並びに材料の製造者",
+                                "二　容器を譲渡したとき。",
+                                "容器の製造番号、譲渡先及び譲渡年月日"
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "TableColumn": [
+                            {
+                              "Sentence": "容器検査所の登録を受けた者"
+                            },
+                            {
+                              "Sentence": [
+                                "一　容器再検査をしたとき。",
+                                "容器の型式承認番号及び製造番号並びに容器再検査の年月日及び成績",
+                                "二　附属品再検査をしたとき。",
+                                "附属品の型式承認番号並びに附属品再検査の年月日及び成績"
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "@Num": "2",
+                  "ParagraphNum": "２",
+                  "ParagraphSentence": {
+                    "Sentence": "法第六十条第一項の規定により、容器製造業者及び容器検査所の登録を受けた者は、前項に掲げる事項を記載した帳簿を容器又は附属品ごとに備え、それぞれ次の各号に掲げる期間保存しなければならない。"
+                  },
+                  "Item": [
+                    {
+                      "@Num": "1",
+                      "ItemTitle": "一",
+                      "ItemSentence": {
+                        "Sentence": "容器については、経過年数四年一月以下のものは前項に掲げる事項を記載した日から四年一月を経過する日から起算して一月を経過する日までの間、経過年数四年一月を超えるものは同項に掲げる事項を記載した日から二年三月を経過する日から起算して一月を経過する日までの間"
+                      }
+                    },
+                    {
+                      "@Num": "2",
+                      "ItemTitle": "二",
+                      "ItemSentence": {
+                        "Sentence": "容器に装置されている附属品については、前項に掲げる事項を記載した日から最初に受ける容器再検査までの期間を経過する日から起算して一月を経過する日までの間"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "@Num": "3",
+                  "ParagraphNum": "３",
+                  "ParagraphSentence": {
+                    "Sentence": "前項の規定にかかわらず、容器製造業者及び容器検査所の登録を受けた者が第一項に掲げる事項を記載した帳簿を容器又は附属品ごとに備え、保存しなければならない期間は、次の各号に定める期間とする。"
+                  },
+                  "Item": [
+                    {
+                      "@Num": "1",
+                      "ItemTitle": "一",
+                      "ItemSentence": {
+                        "Sentence": "第十五条第二項の経済産業大臣の認可を受けた場合については、第一項に掲げる事項を記載した日から第十五条第二項に規定する経済産業大臣の認可に係る期間を経過する日から起算して一月を経過する日までの間"
+                      }
+                    },
+                    {
+                      "@Num": "2",
+                      "ItemTitle": "二",
+                      "ItemSentence": {
+                        "Sentence": "第十八条第二項の経済産業大臣の認可を受けた場合については、第一項に掲げる事項を記載した日から第十八条第二項に規定する経済産業大臣の認可に係る期間を経過する日から起算して一月を経過する日までの間"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "@Num": "4",
+                  "ParagraphNum": "４",
+                  "ParagraphSentence": {
+                    "Sentence": "前二項の規定にかかわらず、容器製造業者が容器を譲渡した場合は、容器製造業者が第一項に掲げる事項を記載した帳簿を容器ごとに備え、第一項に掲げる事項を記載した日から最初に受ける容器再検査の日までの期間を経過する日から起算して一月を経過する日までの間、保存しなければならない。"
+                  }
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "SupplProvision": {
+        "SupplProvisionLabel": "附　則",
+        "Article": {
+          "@Num": "1",
+          "ArticleCaption": "（施行期日）",
+          "ArticleTitle": "第一条",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この省令は、平成二十八年六月三十日から施行する。"
+            }
+          }
+        }
+      },
+      "AppdxTable": {
+        "AppdxTableTitle": "別表",
+        "RelatedArticleNum": "（第三十条関係）",
+        "TableStruct": {
+          "Table": {
+            "TableRow": [
+              {
+                "TableColumn": [
+                  {
+                    "Sentence": "製造する容器等の区分"
+                  },
+                  {
+                    "Sentence": "容器等事業区分"
+                  }
+                ]
+              },
+              {
+                "TableColumn": [
+                  {
+                    "Sentence": "国際相互承認圧縮水素自動車燃料装置用容器"
+                  },
+                  {
+                    "Sentence": "百一類"
+                  }
+                ]
+              },
+              {
+                "TableColumn": [
+                  {
+                    "Sentence": "国際相互承認圧縮水素自動車燃料装置用附属品"
+                  },
+                  {
+                    "Sentence": "百二類"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      },
+      "AppdxStyle": [
+        {
+          "AppdxStyleTitle": "様式第１",
+          "RelatedArticleNum": "（第１４条関係）",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/H28F15001000082-001.pdf"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": "様式第２",
+          "RelatedArticleNum": "（第２１条関係）",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/H28F15001000082-002.pdf"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": "様式第３",
+          "RelatedArticleNum": "（第２２条関係）",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/H28F15001000082-003.pdf"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": "様式第４",
+          "RelatedArticleNum": "（第２３条関係）",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/H28F15001000082-004.pdf"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": "様式第５",
+          "RelatedArticleNum": "（第２６条関係）",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/H28F15001000082-005.pdf"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": "様式第６",
+          "RelatedArticleNum": "（第２９条関係）",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/H28F15001000082-006.pdf"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": "様式第７",
+          "RelatedArticleNum": "（第３１条第１項関係）",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/H28F15001000082-007.pdf"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": "様式第８",
+          "RelatedArticleNum": "（第３１条第３項関係）",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/H28F15001000082-008.pdf"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": "様式第９",
+          "RelatedArticleNum": "（第３６条第１項関係）",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/H28F15001000082-009.pdf"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": "様式第１０",
+          "RelatedArticleNum": "（第３６条第２項関係）",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/H28F15001000082-010.pdf"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": "様式第１１",
+          "RelatedArticleNum": "（第３８条関係）",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/H28F15001000082-011.pdf"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": "様式第１２",
+          "RelatedArticleNum": "（第３９条関係）",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/H28F15001000082-012.pdf"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": "様式第１３",
+          "RelatedArticleNum": "（第４１条関係）",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/H28F15001000082-013.pdf"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": "様式第１４",
+          "RelatedArticleNum": "（第４２条関係）",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/H28F15001000082-014.pdf"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": "様式第１５",
+          "RelatedArticleNum": "（第４３条関係）",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/H28F15001000082-015.pdf"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": "様式第１６",
+          "RelatedArticleNum": "（第４５条第１項関係）",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/H28F15001000082-016.pdf"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": "様式第１７",
+          "RelatedArticleNum": "（第４５条第２項関係）",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/H28F15001000082-017.pdf"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": "様式第１８",
+          "RelatedArticleNum": "（第４５条第３項関係）",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/H28F15001000082-018.pdf"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": "様式第１９",
+          "RelatedArticleNum": "（第４６条第１項関係）",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/H28F15001000082-019.pdf"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": "様式第２０",
+          "RelatedArticleNum": "（第４６条第２項関係）",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/H28F15001000082-020.pdf"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": "様式第２１",
+          "RelatedArticleNum": "（第４６条第３項関係）",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/H28F15001000082-021.pdf"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": "様式第２２",
+          "RelatedArticleNum": "（第４８条関係）",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/H28F15001000082-022.pdf"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": "様式第２３",
+          "RelatedArticleNum": "（第５０条関係）",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/H28F15001000082-023.pdf"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": "様式第２４",
+          "RelatedArticleNum": "（第５１条関係）",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/H28F15001000082-024.pdf"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": "様式第２５",
+          "RelatedArticleNum": "（第５２条関係）",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/H28F15001000082-025.pdf"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": "様式第２６",
+          "RelatedArticleNum": "（第５４条関係）",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/H28F15001000082-026.pdf"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": "様式第２７",
+          "RelatedArticleNum": "（第５６条関係）",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/H28F15001000082-027.pdf"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": "様式第２８",
+          "RelatedArticleNum": "（第５７条関係）",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/H28F15001000082-028.pdf"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": "様式第２９",
+          "RelatedArticleNum": "（第５８条関係）",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/H28F15001000082-029.pdf"
+              }
+            }
+          }
+        }
+      ]
+    }
+  }
+}

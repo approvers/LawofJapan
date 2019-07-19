@@ -1,0 +1,95 @@
+{
+  "Law": {
+    "@Era": "Heisei",
+    "@Lang": "ja",
+    "@LawType": "CabinetOrder",
+    "@Num": "32",
+    "@Year": "13",
+    "LawNum": "平成十三年政令第三十二号",
+    "LawBody": {
+      "LawTitle": "農水産業協同組合の再生手続の特例等に関する法律施行令",
+      "EnactStatement": "内閣は、農水産業協同組合の再生手続の特例等に関する法律（平成十二年法律第九十五号）第二条第二項及び第四十七条の規定に基づき、この政令を制定する。",
+      "MainProvision": {
+        "Article": [
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "1",
+            "ArticleCaption": "（貯金等債権から除かれるもの）",
+            "ArticleTitle": "第一条",
+            "Paragraph": {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "農水産業協同組合の再生手続の特例等に関する法律（以下「法」という。）第二条第二項に規定する政令で定めるものは、農水産業協同組合貯金保険法施行令（昭和四十八年政令第二百一号）第二十四条に規定する貯金等とする。"
+                }
+              }
+            }
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "2",
+            "ArticleCaption": "（内閣総理大臣から金融庁長官に委任されない権限）",
+            "ArticleTitle": "第二条",
+            "Paragraph": {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "法第四十七条に規定する政令で定めるものは、法第二十九条第一項の規定による破産手続開始の申立てとする。"
+                }
+              }
+            }
+          }
+        ]
+      },
+      "SupplProvision": [
+        {
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Article": {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "1",
+            "ArticleCaption": "（施行期日）",
+            "ArticleTitle": "第一条",
+            "Paragraph": {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "この政令は、平成十三年四月一日から施行する。"
+                }
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成一六年一〇月二〇日政令第三一八号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphCaption": "（施行期日）",
+            "ParagraphNum": "１",
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この政令は、破産法の施行の日（平成十七年一月一日）から施行する。"
+              }
+            }
+          }
+        }
+      ]
+    }
+  }
+}

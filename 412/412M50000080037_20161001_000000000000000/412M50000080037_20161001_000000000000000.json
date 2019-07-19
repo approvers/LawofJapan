@@ -1,0 +1,78 @@
+{
+  "Law": {
+    "@Era": "Heisei",
+    "@Lang": "ja",
+    "@LawType": "MinisterialOrdinance",
+    "@Num": "37",
+    "@Year": "12",
+    "LawNum": "平成十二年文部省令第三十七号",
+    "LawBody": {
+      "LawTitle": "介護保険法施行令第三十七条第一項第三十四号に掲げる規定として文部科学大臣が定めるものを定める省令",
+      "EnactStatement": "介護保険法施行令（平成十年政令第四百十二号）第三十七条第一項第三十四号の規定に基づき、介護保険法施行令第三十七条第一項第三十四号に掲げる規定として文部大臣が定めるものを定める省令を、次のように定める。",
+      "MainProvision": {
+        "Paragraph": {
+          "@Num": "1",
+          "ParagraphNum": null,
+          "ParagraphSentence": {
+            "Sentence": "介護保険法施行令（平成十年政令第四百十二号）第三十七条第一項に掲げる規定として文部科学大臣が定めるものは、次のとおりとする。"
+          },
+          "List": {
+            "ListSentence": {
+              "Sentence": {
+                "Ruby": [
+                  {
+                    "Rt": "ヽ",
+                    "#text": "へ"
+                  },
+                  {
+                    "Rt": "ヽ",
+                    "#text": "き"
+                  }
+                ],
+                "#text": "地教育振興法施行規則（昭和三十四年文部省令第二十一号）の規定"
+              }
+            }
+          }
+        }
+      },
+      "SupplProvision": [
+        {
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": [
+            {
+              "@Num": "1",
+              "ParagraphNum": "１",
+              "ParagraphSentence": {
+                "Sentence": "この省令は、平成十二年四月一日から施行する。"
+              }
+            },
+            {
+              "@Num": "2",
+              "ParagraphNum": "２",
+              "ParagraphSentence": {
+                "Sentence": "老人保健法施行令別表第二第三十一号に掲げる規定として文部大臣が定めるものを定める省令（昭和六十三年文部省令第二号）は、廃止する。"
+              }
+            }
+          ]
+        },
+        {
+          "@AmendLawNum": "平成一二年一〇月三一日文部省令第五三号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Article": {
+            "@Num": "1",
+            "ArticleCaption": "（施行期日）",
+            "ArticleTitle": "第一条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "この省令は、内閣法の一部を改正する法律（平成十一年法律第八十八号）の施行の日（平成十三年一月六日）から施行する。"
+              }
+            }
+          }
+        }
+      ]
+    }
+  }
+}

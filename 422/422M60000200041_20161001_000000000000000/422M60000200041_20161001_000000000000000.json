@@ -1,0 +1,146 @@
+{
+  "Law": {
+    "@Era": "Heisei",
+    "@Lang": "ja",
+    "@LawType": "MinisterialOrdinance",
+    "@Num": "41",
+    "@Year": "22",
+    "LawNum": "平成二十二年農林水産省令第四十一号",
+    "LawBody": {
+      "LawTitle": "口蹄疫対策特別措置法施行規則",
+      "EnactStatement": "口蹄疫対策特別措置法（平成二十二年法律第四十四号）第四条第一項、第三項及び第四項、第六条第三項、第四項及び第六項、第十七条、第二十条並びに第二十四条の規定並びに口蹄疫対策特別措置法施行令（平成二十二年政令第百四十六号）第一条第三項（同令附則第二条第二項の規定において準用する場合を含む。）の規定に基づき、並びに同令を実施するため、口蹄疫対策特別措置法施行規則を次のように定める。",
+      "MainProvision": {
+        "Article": [
+          {
+            "@Num": "1",
+            "ArticleCaption": "（ねずみ等の駆除等の実施の方法）",
+            "ArticleTitle": "第一条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "口蹄疫対策特別措置法（以下「法」という。）第十七条の消毒又は駆除の実施については、次に掲げる基準に従い行うものとする。"
+              },
+              "Item": [
+                {
+                  "@Num": "1",
+                  "ItemTitle": "一",
+                  "ItemSentence": {
+                    "Sentence": {
+                      "Ruby": {
+                        "Rt": "てい",
+                        "#text": "蹄"
+                      },
+                      "#text": "対象となる場所の状況、口疫の病原体の性質その他の事情を勘案し、十分な消毒又は駆除の実施が可能である方法により行うこと。"
+                    }
+                  }
+                },
+                {
+                  "@Num": "2",
+                  "ItemTitle": "二",
+                  "ItemSentence": {
+                    "Sentence": "消毒又は駆除を実施する者の安全並びに対象となる場所の周囲の地域の住民の健康及び環境への影響に留意すること。"
+                  }
+                },
+                {
+                  "@Num": "3",
+                  "ItemTitle": "三",
+                  "ItemSentence": {
+                    "Sentence": "必要に応じ家畜防疫員の技術的指導、助言等を求めること。"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "@Num": "2",
+            "ArticleCaption": "（証票の様式）",
+            "ArticleTitle": "第二条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "法第二十四条の規定による証票は、家畜伝染病予防法施行規則（昭和二十六年農林省令第三十五号）別記様式第三十一号によるものとする。"
+              }
+            }
+          }
+        ]
+      },
+      "AppdxStyle": [
+        {
+          "AppdxStyleTitle": "様式（一）",
+          "RelatedArticleNum": "（第五条関係）",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/H22F17001000041-001.pdf"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": "様式（二）",
+          "RelatedArticleNum": "（第五条関係）",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/H22F17001000041-002.pdf"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": "様式（三）",
+          "RelatedArticleNum": "（第五条関係）",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/H22F17001000041-003.pdf"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": "様式（四）",
+          "RelatedArticleNum": "（第五条関係）",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/H22F17001000041-004.pdf"
+              }
+            }
+          }
+        }
+      ],
+      "SupplProvision": [
+        {
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この省令は、公布の日から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成二三年六月二二日農林水産省令第三八号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Article": {
+            "@Num": "1",
+            "ArticleCaption": "（施行期日）",
+            "ArticleTitle": "第一条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "この省令は、家畜伝染病予防法の一部を改正する法律の施行の日（平成二十三年七月一日）から施行する。"
+              }
+            }
+          }
+        }
+      ]
+    }
+  }
+}

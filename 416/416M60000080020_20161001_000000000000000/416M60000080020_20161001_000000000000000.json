@@ -1,0 +1,668 @@
+{
+  "Law": {
+    "@Era": "Heisei",
+    "@Lang": "ja",
+    "@LawType": "MinisterialOrdinance",
+    "@Num": "20",
+    "@Year": "16",
+    "LawNum": "平成十六年文部科学省令第二十号",
+    "LawBody": {
+      "LawTitle": "高等学校設置基準",
+      "EnactStatement": "学校教育法（昭和二十二年法律第二十六号）第三条の規定に基づき、高等学校設置基準（昭和二十三年文部省令第一号）の全部を改正する省令を次のように定める。",
+      "TOC": {
+        "TOCLabel": "目次",
+        "TOCChapter": [
+          {
+            "@Num": "1",
+            "ChapterTitle": "第一章　総則",
+            "ArticleRange": "（第一条―第四条）"
+          },
+          {
+            "@Num": "2",
+            "ChapterTitle": "第二章　学科",
+            "ArticleRange": "（第五条・第六条）"
+          },
+          {
+            "@Num": "3",
+            "ChapterTitle": "第三章　編制",
+            "ArticleRange": "（第七条―第十一条）"
+          },
+          {
+            "@Num": "4",
+            "ChapterTitle": "第四章　施設及び設備",
+            "ArticleRange": "（第十二条―第十八条）"
+          }
+        ],
+        "TOCSupplProvision": {
+          "SupplProvisionLabel": "附則"
+        }
+      },
+      "MainProvision": {
+        "Chapter": [
+          {
+            "@Num": "1",
+            "ChapterTitle": "第一章　総則",
+            "Article": [
+              {
+                "@Num": "1",
+                "ArticleCaption": "（趣旨）",
+                "ArticleTitle": "第一条",
+                "Paragraph": [
+                  {
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": "高等学校は、学校教育法その他の法令の規定によるほか、この省令の定めるところにより設置するものとする。"
+                    }
+                  },
+                  {
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": "この省令で定める設置基準は、高等学校を設置するのに必要な最低の基準とする。"
+                    }
+                  },
+                  {
+                    "@Num": "3",
+                    "ParagraphNum": "３",
+                    "ParagraphSentence": {
+                      "Sentence": "高等学校の設置者は、高等学校の編制、施設、設備等がこの省令で定める設置基準より低下した状態にならないようにすることはもとより、これらの水準の向上を図ることに努めなければならない。"
+                    }
+                  }
+                ]
+              },
+              {
+                "@Num": "2",
+                "ArticleCaption": "（設置基準の特例）",
+                "ArticleTitle": "第二条",
+                "Paragraph": [
+                  {
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": "公立の高等学校については都道府県の教育委員会、私立の高等学校については都道府県知事（以下「都道府県教育委員会等」という。）は、高等学校に全日制の課程及び定時制の課程を併置する場合又は二以上の学科を設置する場合その他これらに類する場合において、教育上支障がないと認めるときは、高等学校の編制、施設及び設備に関し、必要と認められる範囲内において、この省令に示す基準に準じて、別段の定めをすることができる。"
+                    }
+                  },
+                  {
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": [
+                        {
+                          "@Function": "main",
+                          "@Num": "1",
+                          "#text": "専攻科及び別科の編制、施設、設備等については、この省令に示す基準によらなければならない。"
+                        },
+                        {
+                          "@Function": "proviso",
+                          "@Num": "2",
+                          "#text": "ただし、教育上支障がないと認めるときは、都道府県教育委員会等は、専攻科及び別科の編制、施設及び設備に関し、必要と認められる範囲内において、この省令に示す基準に準じて、別段の定めをすることができる。"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "@Num": "3",
+                "ArticleTitle": "第三条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "削除"
+                  }
+                }
+              },
+              {
+                "@Num": "4",
+                "ArticleTitle": "第四条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "削除"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "@Num": "2",
+            "ChapterTitle": "第二章　学科",
+            "Article": [
+              {
+                "@Num": "5",
+                "ArticleCaption": "（学科の種類）",
+                "ArticleTitle": "第五条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "高等学校の学科は次のとおりとする。"
+                  },
+                  "Item": [
+                    {
+                      "@Num": "1",
+                      "ItemTitle": "一",
+                      "ItemSentence": {
+                        "Sentence": "普通教育を主とする学科"
+                      }
+                    },
+                    {
+                      "@Num": "2",
+                      "ItemTitle": "二",
+                      "ItemSentence": {
+                        "Sentence": "専門教育を主とする学科"
+                      }
+                    },
+                    {
+                      "@Num": "3",
+                      "ItemTitle": "三",
+                      "ItemSentence": {
+                        "Sentence": "普通教育及び専門教育を選択履修を旨として総合的に施す学科"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "@Num": "6",
+                "ArticleTitle": "第六条",
+                "Paragraph": [
+                  {
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": "前条第一号に定める学科は、普通科とする。"
+                    }
+                  },
+                  {
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": "前条第二号に定める学科は、次に掲げるとおりとする。"
+                    },
+                    "Item": [
+                      {
+                        "@Num": "1",
+                        "ItemTitle": "一",
+                        "ItemSentence": {
+                          "Sentence": "農業に関する学科"
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "ItemTitle": "二",
+                        "ItemSentence": {
+                          "Sentence": "工業に関する学科"
+                        }
+                      },
+                      {
+                        "@Num": "3",
+                        "ItemTitle": "三",
+                        "ItemSentence": {
+                          "Sentence": "商業に関する学科"
+                        }
+                      },
+                      {
+                        "@Num": "4",
+                        "ItemTitle": "四",
+                        "ItemSentence": {
+                          "Sentence": "水産に関する学科"
+                        }
+                      },
+                      {
+                        "@Num": "5",
+                        "ItemTitle": "五",
+                        "ItemSentence": {
+                          "Sentence": "家庭に関する学科"
+                        }
+                      },
+                      {
+                        "@Num": "6",
+                        "ItemTitle": "六",
+                        "ItemSentence": {
+                          "Sentence": "看護に関する学科"
+                        }
+                      },
+                      {
+                        "@Num": "7",
+                        "ItemTitle": "七",
+                        "ItemSentence": {
+                          "Sentence": "情報に関する学科"
+                        }
+                      },
+                      {
+                        "@Num": "8",
+                        "ItemTitle": "八",
+                        "ItemSentence": {
+                          "Sentence": "福祉に関する学科"
+                        }
+                      },
+                      {
+                        "@Num": "9",
+                        "ItemTitle": "九",
+                        "ItemSentence": {
+                          "Sentence": "理数に関する学科"
+                        }
+                      },
+                      {
+                        "@Num": "10",
+                        "ItemTitle": "十",
+                        "ItemSentence": {
+                          "Sentence": "体育に関する学科"
+                        }
+                      },
+                      {
+                        "@Num": "11",
+                        "ItemTitle": "十一",
+                        "ItemSentence": {
+                          "Sentence": "音楽に関する学科"
+                        }
+                      },
+                      {
+                        "@Num": "12",
+                        "ItemTitle": "十二",
+                        "ItemSentence": {
+                          "Sentence": "美術に関する学科"
+                        }
+                      },
+                      {
+                        "@Num": "13",
+                        "ItemTitle": "十三",
+                        "ItemSentence": {
+                          "Sentence": "外国語に関する学科"
+                        }
+                      },
+                      {
+                        "@Num": "14",
+                        "ItemTitle": "十四",
+                        "ItemSentence": {
+                          "Sentence": "国際関係に関する学科"
+                        }
+                      },
+                      {
+                        "@Num": "15",
+                        "ItemTitle": "十五",
+                        "ItemSentence": {
+                          "Sentence": "その他専門教育を施す学科として適当な規模及び内容があると認められる学科"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Num": "3",
+                    "ParagraphNum": "３",
+                    "ParagraphSentence": {
+                      "Sentence": "前条第三号に定める学科は、総合学科とする。"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "@Num": "3",
+            "ChapterTitle": "第三章　編制",
+            "Article": [
+              {
+                "@Num": "7",
+                "ArticleCaption": "（授業を受ける生徒数）",
+                "ArticleTitle": "第七条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": [
+                      {
+                        "@Function": "main",
+                        "@Num": "1",
+                        "#text": "同時に授業を受ける一学級の生徒数は、四十人以下とする。"
+                      },
+                      {
+                        "@Function": "proviso",
+                        "@Num": "2",
+                        "#text": "ただし、特別の事情があり、かつ、教育上支障がない場合は、この限りでない。"
+                      }
+                    ]
+                  }
+                }
+              },
+              {
+                "@Num": "8",
+                "ArticleCaption": "（教諭の数等）",
+                "ArticleTitle": "第八条",
+                "Paragraph": [
+                  {
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": "高等学校に置く副校長及び教頭の数は当該高等学校に置く全日制の課程又は定時制の課程ごとに一人以上とし、主幹教諭、指導教諭及び教諭（以下この条において「教諭等」という。）の数は当該高等学校の収容定員を四十で除して得た数以上で、かつ、教育上支障がないものとする。"
+                    }
+                  },
+                  {
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": "教諭等は、特別の事情があり、かつ、教育上支障がない場合は、助教諭又は講師をもって代えることができる。"
+                    }
+                  },
+                  {
+                    "@Num": "3",
+                    "ParagraphNum": "３",
+                    "ParagraphSentence": {
+                      "Sentence": "高等学校に置く教員等は、教育上必要と認められる場合は、他の学校の教員等と兼ねることができる。"
+                    }
+                  }
+                ]
+              },
+              {
+                "@Num": "9",
+                "ArticleCaption": "（養護教諭等）",
+                "ArticleTitle": "第九条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "高等学校には、相当数の養護をつかさどる主幹教諭、養護教諭その他の生徒の養護をつかさどる職員を置くよう努めなければならない。"
+                  }
+                }
+              },
+              {
+                "@Num": "10",
+                "ArticleCaption": "（実習助手）",
+                "ArticleTitle": "第十条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "高等学校には、必要に応じて相当数の実習助手を置くものとする。"
+                  }
+                }
+              },
+              {
+                "@Num": "11",
+                "ArticleCaption": "（事務職員の数）",
+                "ArticleTitle": "第十一条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "高等学校には、全日制の課程及び定時制の課程の設置の状況、生徒数等に応じ、相当数の事務職員を置かなければならない。"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "@Num": "4",
+            "ChapterTitle": "第四章　施設及び設備",
+            "Article": [
+              {
+                "@Num": "12",
+                "ArticleCaption": "（一般的基準）",
+                "ArticleTitle": "第十二条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "高等学校の施設及び設備は、指導上、保健衛生上、安全上及び管理上適切なものでなければならない。"
+                  }
+                }
+              },
+              {
+                "@Num": "13",
+                "ArticleCaption": "（校舎の面積）",
+                "ArticleTitle": "第十三条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": [
+                      {
+                        "@Function": "main",
+                        "@Num": "1",
+                        "#text": "校舎の面積は、法令に特別の定めがある場合を除き、全日制の課程若しくは定時制の課程の別又は学科の種類にかかわらず、次の表に定める面積以上とする。"
+                      },
+                      {
+                        "@Function": "proviso",
+                        "@Num": "2",
+                        "#text": "ただし、地域の実態その他により特別の事情があり、かつ、教育上支障がない場合は、この限りでない。"
+                      }
+                    ]
+                  },
+                  "TableStruct": {
+                    "Table": {
+                      "TableRow": [
+                        {
+                          "TableColumn": [
+                            {
+                              "Sentence": "収容定員"
+                            },
+                            {
+                              "Sentence": "面積（平方メートル）"
+                            }
+                          ]
+                        },
+                        {
+                          "TableColumn": [
+                            {
+                              "Sentence": "一二〇人以下"
+                            },
+                            {
+                              "Sentence": "1200"
+                            }
+                          ]
+                        },
+                        {
+                          "TableColumn": [
+                            {
+                              "Sentence": "一二一人以上四八〇人以下"
+                            },
+                            {
+                              "Sentence": "1200＋6×（収容定員－120）"
+                            }
+                          ]
+                        },
+                        {
+                          "TableColumn": [
+                            {
+                              "Sentence": "四八一人以上"
+                            },
+                            {
+                              "Sentence": "3360＋4×（収容定員－480）"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                }
+              },
+              {
+                "@Num": "14",
+                "ArticleCaption": "（運動場の面積）",
+                "ArticleTitle": "第十四条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": [
+                      {
+                        "@Function": "main",
+                        "@Num": "1",
+                        "#text": "運動場の面積は、全日制の課程若しくは定時制の課程の別又は収容定員にかかわらず、八、四〇〇平方メートル以上とする。"
+                      },
+                      {
+                        "@Function": "proviso",
+                        "@Num": "2",
+                        "#text": "ただし、体育館等の屋内運動施設を備えている場合その他の教育上支障がない場合は、この限りでない。"
+                      }
+                    ]
+                  }
+                }
+              },
+              {
+                "@Num": "15",
+                "ArticleCaption": "（校舎に備えるべき施設）",
+                "ArticleTitle": "第十五条",
+                "Paragraph": [
+                  {
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": "校舎には、少なくとも次に掲げる施設を備えるものとする。"
+                    },
+                    "Item": [
+                      {
+                        "@Num": "1",
+                        "ItemTitle": "一",
+                        "ItemSentence": {
+                          "Sentence": "教室（普通教室、特別教室等とする。）"
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "ItemTitle": "二",
+                        "ItemSentence": {
+                          "Sentence": "図書室、保健室"
+                        }
+                      },
+                      {
+                        "@Num": "3",
+                        "ItemTitle": "三",
+                        "ItemSentence": {
+                          "Sentence": "職員室"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": "校舎には、前項に掲げる施設のほか、必要に応じて、専門教育を施すための施設を備えるものとする。"
+                    }
+                  }
+                ]
+              },
+              {
+                "@Num": "16",
+                "ArticleCaption": "（その他の施設）",
+                "ArticleTitle": "第十六条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": [
+                      {
+                        "@Function": "main",
+                        "@Num": "1",
+                        "#text": "高等学校には、校舎及び運動場のほか、体育館を備えるものとする。"
+                      },
+                      {
+                        "@Function": "proviso",
+                        "@Num": "2",
+                        "#text": "ただし、地域の実態その他により特別の事情があり、かつ、教育上支障がない場合は、この限りでない。"
+                      }
+                    ]
+                  }
+                }
+              },
+              {
+                "@Num": "17",
+                "ArticleCaption": "（校具及び教具）",
+                "ArticleTitle": "第十七条",
+                "Paragraph": [
+                  {
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": "高等学校には、学科の種類、生徒数等に応じ、指導上、保健衛生上及び安全上必要な種類及び数の校具及び教具を備えなければならない。"
+                    }
+                  },
+                  {
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": "前項の校具及び教具は、常に改善し、補充しなければならない。"
+                    }
+                  }
+                ]
+              },
+              {
+                "@Num": "18",
+                "ArticleCaption": "（他の学校等の施設及び設備の使用）",
+                "ArticleTitle": "第十八条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "高等学校は、特別の事情があり、かつ、教育上及び安全上支障がない場合は、他の学校等の施設及び設備を使用することができる。"
+                  }
+                }
+              }
+            ]
+          }
+        ]
+      },
+      "SupplProvision": [
+        {
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": [
+            {
+              "@Num": "1",
+              "ParagraphCaption": "（施行期日等）",
+              "ParagraphNum": "１",
+              "ParagraphSentence": {
+                "Sentence": "この省令は、平成十六年四月一日から施行する。"
+              }
+            },
+            {
+              "@Num": "2",
+              "ParagraphNum": "２",
+              "ParagraphSentence": {
+                "Sentence": "この省令の施行の際現に存する高等学校の編制並びに施設及び設備については、当分の間、なお従前の例によることができる。"
+              }
+            }
+          ]
+        },
+        {
+          "@AmendLawNum": "平成一九年一〇月三〇日文部科学省令第三四号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この省令は、学校教育法等の一部を改正する法律（平成十九年法律第九十六号）の施行の日から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成一九年一二月二五日文部科学省令第四〇号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": [
+                {
+                  "@Function": "main",
+                  "@Num": "1",
+                  "#text": "この省令は、学校教育法等の一部を改正する法律の施行の日（平成十九年十二月二十六日）から施行する。"
+                },
+                {
+                  "@Function": "proviso",
+                  "@Num": "2",
+                  "#text": "ただし、第一条中学校教育法施行規則第一章第二節の節名、第二十条第一号ロ、第二十三条、第四十四条第一項、第二項及び第三項、第四十五条第一項、第二項及び第三項、第七十条第一項、第二項及び第三項、第七十一条第二項及び第三項、第八十一条第一項、第二項及び第三項、第百二十条、第百二十二条、第百二十四条第一項、第二項及び第三項並びに第百二十五条第二項の改正規定、第五条中学校基本調査規則第三条第二項の改正規定、第八条中学校教員統計調査規則第三条第二項の改正規定、第九条中教育職員免許法施行規則第六十八条及び第六十九条の改正規定、第十二条中幼稚園設置基準第五条第一項、第二項及び第三項並びに第六条の改正規定、第十七条中高等学校通信教育規程第五条第一項の改正規定、第二十三条中専修学校設置基準第十八条第三号の改正規定、第三十八条中小学校設置基準第六条第一項及び第二項の改正規定、第三十九条中中学校設置基準第六条第一項及び第二項の改正規定並びに第四十七条中高等学校設置基準第八条第一項及び第二項並びに第九条の改正規定（副校長、主幹教諭又は指導教諭に係る部分に限る。）は、平成二十年四月一日から施行する。"
+                }
+              ]
+            }
+          }
+        }
+      ]
+    }
+  }
+}

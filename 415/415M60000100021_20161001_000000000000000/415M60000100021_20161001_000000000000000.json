@@ -1,0 +1,2779 @@
+{
+  "Law": {
+    "@Era": "Heisei",
+    "@Lang": "ja",
+    "@LawType": "MinisterialOrdinance",
+    "@Num": "21",
+    "@Year": "15",
+    "LawNum": "平成十五年厚生労働省令第二十一号",
+    "LawBody": {
+      "LawTitle": "身体障害者社会参加支援施設の設備及び運営に関する基準",
+      "EnactStatement": "身体障害者福祉法（昭和二十四年法律第二百八十三号）第二十八条第一項の規定に基づき、身体障害者更生援護施設の設備及び運営に関する基準（平成十二年厚生省令第五十四号）の全部を改正する省令を次のように定める。",
+      "TOC": {
+        "TOCLabel": "目次",
+        "TOCChapter": [
+          {
+            "@Num": "1",
+            "ChapterTitle": "第一章　総則",
+            "ArticleRange": "（第一条―第十二条）"
+          },
+          {
+            "@Num": "2",
+            "ChapterTitle": "第二章　身体障害者福祉センター",
+            "ArticleRange": "（第十三条―第二十四条）"
+          },
+          {
+            "@Num": "3",
+            "ChapterTitle": "第三章　補装具製作施設",
+            "ArticleRange": "（第二十五条―第二十八条）"
+          },
+          {
+            "@Num": "4",
+            "ChapterTitle": "第四章　盲導犬訓練施設",
+            "ArticleRange": "（第二十九条―第三十三条）"
+          },
+          {
+            "@Num": "5",
+            "ChapterTitle": "第五章　視聴覚障害者情報提供施設",
+            "ArticleRange": "（第三十四条―第四十二条）"
+          }
+        ],
+        "TOCSupplProvision": {
+          "SupplProvisionLabel": "附則"
+        }
+      },
+      "MainProvision": {
+        "Chapter": [
+          {
+            "@Num": "1",
+            "ChapterTitle": "第一章　総則",
+            "Article": [
+              {
+                "@Num": "1",
+                "ArticleCaption": "（趣旨）",
+                "ArticleTitle": "第一条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "身体障害者福祉法（昭和二十四年法律第二百八十三号。以下「法」という。）第二十八条第一項の規定による身体障害者社会参加支援施設の設備及び運営に関する基準は、この省令の定めるところによる。"
+                  }
+                }
+              },
+              {
+                "@Num": "2",
+                "ArticleCaption": "（基本方針）",
+                "ArticleTitle": "第二条",
+                "Paragraph": [
+                  {
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": "身体障害者社会参加支援施設は、入所者又は利用者（以下この章において「入所者等」という。）に対し、その自立と社会経済活動への参加を促進する観点から、健全な環境の下で、社会福祉事業に関する熱意及び能力を有する職員による適切な支援を行うよう努めなければならない。"
+                    }
+                  },
+                  {
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": "身体障害者社会参加支援施設は、入所者等の意思及び人格を尊重し、常にその者の立場に立って支援を行うよう努めなければならない。"
+                    }
+                  },
+                  {
+                    "@Num": "3",
+                    "ParagraphNum": "３",
+                    "ParagraphSentence": {
+                      "Sentence": "身体障害者社会参加支援施設は、できる限り居宅に近い環境の中で、地域や家庭との結び付きを重視した運営を行い、市町村（特別区を含む。以下同じ。）、身体障害者の福祉を増進することを目的とする事業を行う者その他の保健医療サービス又は福祉サービスを提供する者との密接な連携に努めなければならない。"
+                    }
+                  },
+                  {
+                    "@Num": "4",
+                    "ParagraphNum": "４",
+                    "ParagraphSentence": {
+                      "Sentence": "身体障害者社会参加支援施設は、入所者の人権の擁護、虐待の防止等のため、責任者を設置する等必要な体制の整備を行うとともに、その従業者に対し、研修を実施する等の措置を講じるよう努めなければならない。"
+                    }
+                  }
+                ]
+              },
+              {
+                "@Num": "3",
+                "ArticleCaption": "（構造設備の一般原則）",
+                "ArticleTitle": "第三条",
+                "Paragraph": [
+                  {
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": "身体障害者社会参加支援施設の配置、構造及び設備は、入所者等の特性に応じて工夫され、かつ、日照、採光、換気等の入所者等の保健衛生に関する事項及び防災について十分考慮されたものでなければならない。"
+                    }
+                  },
+                  {
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": [
+                        {
+                          "@Function": "main",
+                          "@Num": "1",
+                          "#text": "身体障害者社会参加支援施設（身体障害者福祉センター（第十三条に規定する障害者更生センターを除く。）を除く。）の建物（入所者等の日常生活のために使用しない附属の建物を除く。）は、耐火建築物（建築基準法（昭和二十五年法律第二百一号）第二条第九号の二に規定する耐火建築物をいう。次項において同じ。）又は準耐火建築物（同条第九号の三に規定する準耐火建築物をいう。次項において同じ。）でなければならない。"
+                        },
+                        {
+                          "@Function": "proviso",
+                          "@Num": "2",
+                          "#text": "ただし、通所による入所者のみを対象とする施設にあっては、この限りでない。"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "@Num": "3",
+                    "ParagraphNum": "３",
+                    "ParagraphSentence": {
+                      "Sentence": "前項本文の規定にかかわらず、都道府県知事（地方自治法（昭和二十二年法律第六十七号）第二百五十二条の十九第一項の指定都市（以下この項において「指定都市」という。）及び同法第二百五十二条の二十二第一項の中核市（以下この項において「中核市」という。）においては、指定都市又は中核市の市長）が、火災予防、消火活動等に関し専門的知識を有する者の意見を聴いて、次の各号のいずれかの要件を満たす木造かつ平屋建ての身体障害者社会参加支援施設の建物であって、火災に係る入所者等の安全性が確保されていると認めたときは、耐火建築物又は準耐火建築物とすることを要しない。"
+                    },
+                    "Item": [
+                      {
+                        "@Num": "1",
+                        "ItemTitle": "一",
+                        "ItemSentence": {
+                          "Sentence": "スプリンクラー設備の設置、天井等の内装材等への難燃性の材料の使用、調理室等火災が発生するおそれがある箇所における防火区画の設置等により、初期消火及び延焼の抑制に配慮した構造であること。"
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "ItemTitle": "二",
+                        "ItemSentence": {
+                          "Sentence": "非常警報設備の設置等による火災の早期発見及び通報の体制が整備されており、円滑な消火活動が可能なものであること。"
+                        }
+                      },
+                      {
+                        "@Num": "3",
+                        "ItemTitle": "三",
+                        "ItemSentence": {
+                          "Sentence": "避難口の増設、搬送を容易に行うために十分な幅員を有する避難路の確保等により、円滑な避難が可能な構造であり、かつ、避難訓練を頻繁に実施すること、配置人員を増員すること等により、火災の際の円滑な避難が可能なものであること。"
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "@Num": "4",
+                "ArticleCaption": "（設備の専用）",
+                "ArticleTitle": "第四条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": [
+                      {
+                        "@Function": "main",
+                        "@Num": "1",
+                        "#text": "身体障害者社会参加支援施設の設備は、専ら当該身体障害者社会参加支援施設の用に供するものでなければならない。"
+                      },
+                      {
+                        "@Function": "proviso",
+                        "@Num": "2",
+                        "#text": "ただし、入所者等の支援に支障がない場合は、この限りでない。"
+                      }
+                    ]
+                  }
+                }
+              },
+              {
+                "@Num": "5",
+                "ArticleCaption": "（職員の専従）",
+                "ArticleTitle": "第五条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": [
+                      {
+                        "@Function": "main",
+                        "@Num": "1",
+                        "#text": "身体障害者社会参加支援施設の職員は、専ら当該身体障害者社会参加支援施設の職務に従事する者でなければならない。"
+                      },
+                      {
+                        "@Function": "proviso",
+                        "@Num": "2",
+                        "#text": "ただし、入所者等の支援に支障がない場合は、この限りでない。"
+                      }
+                    ]
+                  }
+                }
+              },
+              {
+                "@Num": "6",
+                "ArticleCaption": "（非常災害対策）",
+                "ArticleTitle": "第六条",
+                "Paragraph": [
+                  {
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": "身体障害者社会参加支援施設は、消火設備その他の非常災害に際して必要な設備を設けるとともに、非常災害に関する具体的計画を立て、非常災害時の関係機関への通報及び連携体制を整備し、それらを定期的に職員に周知しなければならない。"
+                    }
+                  },
+                  {
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": "身体障害者社会参加支援施設は、非常災害に備えるため、定期的に避難、救出その他必要な訓練を行わなければならない。"
+                    }
+                  }
+                ]
+              },
+              {
+                "@Num": "7",
+                "ArticleCaption": "（記録の整備）",
+                "ArticleTitle": "第七条",
+                "Paragraph": [
+                  {
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": "身体障害者社会参加支援施設は、設備、職員及び会計に関する諸記録を整備しておかなければならない。"
+                    }
+                  },
+                  {
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": "身体障害者社会参加支援施設は、入所者等の支援の状況に関する諸記録を整備し、当該支援を提供した日から五年間保存しなければならない。"
+                    }
+                  }
+                ]
+              },
+              {
+                "@Num": "8",
+                "ArticleCaption": "（相談及び援助）",
+                "ArticleTitle": "第八条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "身体障害者社会参加支援施設は、常に入所者等の心身の状況、その置かれている環境等の的確な把握に努め、その者又はその家族に対し、その相談に適切に応じるとともに、必要な助言その他の援助を行わなければならない。"
+                  }
+                }
+              },
+              {
+                "@Num": "9",
+                "ArticleCaption": "（秘密保持等）",
+                "ArticleTitle": "第九条",
+                "Paragraph": [
+                  {
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": "身体障害者社会参加支援施設の職員は、正当な理由がなく、その業務上知り得た入所者等又はその家族の秘密を漏らしてはならない。"
+                    }
+                  },
+                  {
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": "身体障害者社会参加支援施設は、職員であった者が、正当な理由がなく、その業務上知り得た入所者等又はその家族の秘密を漏らすことがないよう、必要な措置を講じなければならない。"
+                    }
+                  }
+                ]
+              },
+              {
+                "@Num": "10",
+                "ArticleCaption": "（苦情解決）",
+                "ArticleTitle": "第十条",
+                "Paragraph": [
+                  {
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": "身体障害者社会参加支援施設は、その行った支援に関する入所者等からの苦情に迅速かつ適切に対応するために、苦情を受け付けるための窓口を設置する等の必要な措置を講じなければならない。"
+                    }
+                  },
+                  {
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": "身体障害者社会参加支援施設は、その行った支援に関し、市町村から指導又は助言を受けた場合は、当該指導又は助言に従って必要な改善を行わなければならない。"
+                    }
+                  },
+                  {
+                    "@Num": "3",
+                    "ParagraphNum": "３",
+                    "ParagraphSentence": {
+                      "Sentence": "身体障害者社会参加支援施設は、社会福祉法（昭和二十六年法律第四十五号）第八十三条に規定する運営適正化委員会が同法第八十五条の規定により行う調査又はあっせんにできる限り協力しなければならない。"
+                    }
+                  }
+                ]
+              },
+              {
+                "@Num": "11",
+                "ArticleCaption": "（地域との連携等）",
+                "ArticleTitle": "第十一条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "身体障害者社会参加支援施設は、その運営に当たっては、地域住民又はその自発的な活動等との連携及び協力を行う等の地域との交流に努めなければならない。"
+                  }
+                }
+              },
+              {
+                "@Num": "12",
+                "ArticleCaption": "（事故発生時の対応）",
+                "ArticleTitle": "第十二条",
+                "Paragraph": [
+                  {
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": "身体障害者社会参加支援施設は、入所者等に対する支援の提供により事故が発生した場合は、速やかに市町村、入所者等の家族等に連絡を行うとともに、必要な措置を講じなければならない。"
+                    }
+                  },
+                  {
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": "身体障害者社会参加支援施設は、入所者等に対する支援の提供により賠償すべき事故が発生した場合は、損害賠償を速やかに行わなければならない。"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "@Num": "2",
+            "ChapterTitle": "第二章　身体障害者福祉センター",
+            "Article": [
+              {
+                "@Num": "13",
+                "ArticleCaption": "（種類）",
+                "ArticleTitle": "第十三条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "身体障害者福祉センターの種類は、次の各号に掲げるとおりとし、その定義は当該各号に定めるとおりとする。"
+                  },
+                  "Item": [
+                    {
+                      "@Num": "1",
+                      "ItemTitle": "一",
+                      "ItemSentence": {
+                        "Column": [
+                          {
+                            "@Num": "1",
+                            "Sentence": "身体障害者福祉センターＡ型"
+                          },
+                          {
+                            "@Num": "2",
+                            "Sentence": "身体障害者福祉センターのうち更生相談、機能訓練、スポーツ及びレクリエーションの指導、ボランティアの養成、身体障害者社会参加支援施設の職員に対する研修その他身体障害者の福祉の増進を図る事業を総合的に行うもの"
+                          }
+                        ]
+                      }
+                    },
+                    {
+                      "@Num": "2",
+                      "ItemTitle": "二",
+                      "ItemSentence": {
+                        "Column": [
+                          {
+                            "@Num": "1",
+                            "Sentence": "身体障害者福祉センターＢ型"
+                          },
+                          {
+                            "@Num": "2",
+                            "Sentence": "身体障害者福祉センターのうち創作的活動又は生産活動の機会の提供、社会との交流の促進、ボランティアの養成その他身体障害者が自立した日常生活及び社会生活を営むために必要な事業を行うもの"
+                          }
+                        ]
+                      }
+                    },
+                    {
+                      "@Num": "3",
+                      "ItemTitle": "三",
+                      "ItemSentence": {
+                        "Column": [
+                          {
+                            "@Num": "1",
+                            "Sentence": "障害者更生センター"
+                          },
+                          {
+                            "@Num": "2",
+                            "Sentence": "身体障害者福祉センターのうち身体障害者又はその家族に対し、宿泊、レクリエーションその他休養のための便宜を供与するもの"
+                          }
+                        ]
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "@Num": "14",
+                "ArticleCaption": "（建築面積）",
+                "ArticleTitle": "第十四条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "身体障害者福祉センターは、次の各号の区分に従い、それぞれ当該各号に規定する建築面積を有するものでなければならない。"
+                  },
+                  "Item": [
+                    {
+                      "@Num": "1",
+                      "ItemTitle": "一",
+                      "ItemSentence": {
+                        "Column": [
+                          {
+                            "@Num": "1",
+                            "Sentence": "身体障害者福祉センターＡ型"
+                          },
+                          {
+                            "@Num": "2",
+                            "Sentence": "二千七百平方メートル以上"
+                          }
+                        ]
+                      }
+                    },
+                    {
+                      "@Num": "2",
+                      "ItemTitle": "二",
+                      "ItemSentence": {
+                        "Column": [
+                          {
+                            "@Num": "1",
+                            "Sentence": "身体障害者福祉センターＢ型"
+                          },
+                          {
+                            "@Num": "2",
+                            "Sentence": "四百二十四平方メートル以上"
+                          }
+                        ]
+                      }
+                    },
+                    {
+                      "@Num": "3",
+                      "ItemTitle": "三",
+                      "ItemSentence": {
+                        "Column": [
+                          {
+                            "@Num": "1",
+                            "Sentence": "在宅障害者デイサービス施設（次号に掲げるものを除く。）"
+                          },
+                          {
+                            "@Num": "2",
+                            "Sentence": "二百八十平方メートル以上"
+                          }
+                        ]
+                      }
+                    },
+                    {
+                      "@Num": "4",
+                      "ItemTitle": "四",
+                      "ItemSentence": {
+                        "Column": [
+                          {
+                            "@Num": "1",
+                            "Sentence": "在宅障害者デイサービス施設であって他の社会福祉施設等に併設されるもの"
+                          },
+                          {
+                            "@Num": "2",
+                            "Sentence": "二百二十平方メートル以上"
+                          }
+                        ]
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "@Num": "15",
+                "ArticleCaption": "（身体障害者福祉センターＡ型の設備の基準）",
+                "ArticleTitle": "第十五条",
+                "Paragraph": [
+                  {
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": "身体障害者福祉センターＡ型には、おおむね次の各号に掲げる設備を設けなければならない。"
+                    },
+                    "Item": [
+                      {
+                        "@Num": "1",
+                        "ItemTitle": "一",
+                        "ItemSentence": {
+                          "Sentence": "相談室"
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "ItemTitle": "二",
+                        "ItemSentence": {
+                          "Sentence": "機能訓練回復室"
+                        }
+                      },
+                      {
+                        "@Num": "3",
+                        "ItemTitle": "三",
+                        "ItemSentence": {
+                          "Sentence": "社会適応訓練室"
+                        }
+                      },
+                      {
+                        "@Num": "4",
+                        "ItemTitle": "四",
+                        "ItemSentence": {
+                          "Sentence": "図書室"
+                        }
+                      },
+                      {
+                        "@Num": "5",
+                        "ItemTitle": "五",
+                        "ItemSentence": {
+                          "Sentence": "書庫"
+                        }
+                      },
+                      {
+                        "@Num": "6",
+                        "ItemTitle": "六",
+                        "ItemSentence": {
+                          "Sentence": "研修室"
+                        }
+                      },
+                      {
+                        "@Num": "7",
+                        "ItemTitle": "七",
+                        "ItemSentence": {
+                          "Sentence": "会議室"
+                        }
+                      },
+                      {
+                        "@Num": "8",
+                        "ItemTitle": "八",
+                        "ItemSentence": {
+                          "Sentence": "日常生活用具展示室"
+                        }
+                      },
+                      {
+                        "@Num": "9",
+                        "ItemTitle": "九",
+                        "ItemSentence": {
+                          "Sentence": "体育館"
+                        }
+                      },
+                      {
+                        "@Num": "10",
+                        "ItemTitle": "十",
+                        "ItemSentence": {
+                          "Sentence": "プール"
+                        }
+                      },
+                      {
+                        "@Num": "11",
+                        "ItemTitle": "十一",
+                        "ItemSentence": {
+                          "Sentence": "更衣室"
+                        }
+                      },
+                      {
+                        "@Num": "12",
+                        "ItemTitle": "十二",
+                        "ItemSentence": {
+                          "Sentence": "宿泊室"
+                        }
+                      },
+                      {
+                        "@Num": "13",
+                        "ItemTitle": "十三",
+                        "ItemSentence": {
+                          "Sentence": "食堂"
+                        }
+                      },
+                      {
+                        "@Num": "14",
+                        "ItemTitle": "十四",
+                        "ItemSentence": {
+                          "Sentence": "調理室"
+                        }
+                      },
+                      {
+                        "@Num": "15",
+                        "ItemTitle": "十五",
+                        "ItemSentence": {
+                          "Sentence": "事務室"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": "前項各号に掲げる設備の基準は、次のとおりとする。"
+                    },
+                    "Item": [
+                      {
+                        "@Num": "1",
+                        "ItemTitle": "一",
+                        "ItemSentence": {
+                          "Column": [
+                            {
+                              "@Num": "1",
+                              "Sentence": "相談室"
+                            },
+                            {
+                              "@Num": "2",
+                              "Sentence": "室内における談話の漏えいを防ぐための間仕切り等を設けること。"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "ItemTitle": "二",
+                        "ItemSentence": {
+                          "Column": [
+                            {
+                              "@Num": "1",
+                              "Sentence": "機能訓練回復室"
+                            },
+                            {
+                              "@Num": "2",
+                              "Sentence": "訓練に必要な機械器具等を備えること。"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "@Num": "3",
+                        "ItemTitle": "三",
+                        "ItemSentence": {
+                          "Column": [
+                            {
+                              "@Num": "1",
+                              "Sentence": "社会適応訓練室"
+                            },
+                            {
+                              "@Num": "2",
+                              "Sentence": "訓練に必要な備品等を備えること。"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "@Num": "4",
+                        "ItemTitle": "四",
+                        "ItemSentence": {
+                          "Column": [
+                            {
+                              "@Num": "1",
+                              "Sentence": "更衣室"
+                            },
+                            {
+                              "@Num": "2",
+                              "Sentence": "男子用と女子用を別に設けること。"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "@Num": "5",
+                        "ItemTitle": "五",
+                        "ItemSentence": {
+                          "Sentence": "食堂"
+                        },
+                        "Subitem1": [
+                          {
+                            "@Num": "1",
+                            "Subitem1Title": "イ",
+                            "Subitem1Sentence": {
+                              "Sentence": "食事の提供に支障がない広さを有すること。"
+                            }
+                          },
+                          {
+                            "@Num": "2",
+                            "Subitem1Title": "ロ",
+                            "Subitem1Sentence": {
+                              "Sentence": "必要な備品を備えること。"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "@Num": "6",
+                        "ItemTitle": "六",
+                        "ItemSentence": {
+                          "Column": [
+                            {
+                              "@Num": "1",
+                              "Sentence": "調理室"
+                            },
+                            {
+                              "@Num": "2",
+                              "Sentence": "火気を使用する部分は、不燃材料を用いること。"
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "@Num": "16",
+                "ArticleCaption": "（身体障害者福祉センターＢ型の設備の基準）",
+                "ArticleTitle": "第十六条",
+                "Paragraph": [
+                  {
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": "身体障害者福祉センターＢ型には、おおむね次の各号に掲げる設備を設けなければならない。"
+                    },
+                    "Item": [
+                      {
+                        "@Num": "1",
+                        "ItemTitle": "一",
+                        "ItemSentence": {
+                          "Sentence": "相談室"
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "ItemTitle": "二",
+                        "ItemSentence": {
+                          "Sentence": "日常生活訓練室"
+                        }
+                      },
+                      {
+                        "@Num": "3",
+                        "ItemTitle": "三",
+                        "ItemSentence": {
+                          "Sentence": "社会適応訓練室兼集会室"
+                        }
+                      },
+                      {
+                        "@Num": "4",
+                        "ItemTitle": "四",
+                        "ItemSentence": {
+                          "Sentence": "作業室"
+                        }
+                      },
+                      {
+                        "@Num": "5",
+                        "ItemTitle": "五",
+                        "ItemSentence": {
+                          "Sentence": "図書室"
+                        }
+                      },
+                      {
+                        "@Num": "6",
+                        "ItemTitle": "六",
+                        "ItemSentence": {
+                          "Sentence": "事務室"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": "前項各号に掲げる設備の基準は、次のとおりとする。"
+                    },
+                    "Item": [
+                      {
+                        "@Num": "1",
+                        "ItemTitle": "一",
+                        "ItemSentence": {
+                          "Column": [
+                            {
+                              "@Num": "1",
+                              "Sentence": "相談室"
+                            },
+                            {
+                              "@Num": "2",
+                              "Sentence": "室内における談話の漏えいを防ぐための間仕切り等を設けること。"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "ItemTitle": "二",
+                        "ItemSentence": {
+                          "Column": [
+                            {
+                              "@Num": "1",
+                              "Sentence": "日常生活訓練室"
+                            },
+                            {
+                              "@Num": "2",
+                              "Sentence": "訓練に必要な機械器具等を備えること。"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "@Num": "3",
+                        "ItemTitle": "三",
+                        "ItemSentence": {
+                          "Column": [
+                            {
+                              "@Num": "1",
+                              "Sentence": "社会適応訓練室兼集会室"
+                            },
+                            {
+                              "@Num": "2",
+                              "Sentence": "訓練に必要な備品等を備えること。"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "@Num": "4",
+                        "ItemTitle": "四",
+                        "ItemSentence": {
+                          "Column": [
+                            {
+                              "@Num": "1",
+                              "Sentence": "作業室"
+                            },
+                            {
+                              "@Num": "2",
+                              "Sentence": "作業に必要な機械器具等を備えること。"
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "@Num": "17",
+                "ArticleCaption": "（在宅障害者デイサービス施設の設備の基準）",
+                "ArticleTitle": "第十七条",
+                "Paragraph": [
+                  {
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": "在宅障害者デイサービス施設には、おおむね次の各号に掲げる設備を設けなければならない。"
+                    },
+                    "Item": [
+                      {
+                        "@Num": "1",
+                        "ItemTitle": "一",
+                        "ItemSentence": {
+                          "Sentence": "相談室"
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "ItemTitle": "二",
+                        "ItemSentence": {
+                          "Sentence": "日常生活訓練室"
+                        }
+                      },
+                      {
+                        "@Num": "3",
+                        "ItemTitle": "三",
+                        "ItemSentence": {
+                          "Sentence": "社会適応訓練室"
+                        }
+                      },
+                      {
+                        "@Num": "4",
+                        "ItemTitle": "四",
+                        "ItemSentence": {
+                          "Sentence": "作業室"
+                        }
+                      },
+                      {
+                        "@Num": "5",
+                        "ItemTitle": "五",
+                        "ItemSentence": {
+                          "Sentence": "更衣室"
+                        }
+                      },
+                      {
+                        "@Num": "6",
+                        "ItemTitle": "六",
+                        "ItemSentence": {
+                          "Sentence": "シャワー室"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": "前項各号に掲げる設備の基準は、次のとおりとする。"
+                    },
+                    "Item": [
+                      {
+                        "@Num": "1",
+                        "ItemTitle": "一",
+                        "ItemSentence": {
+                          "Column": [
+                            {
+                              "@Num": "1",
+                              "Sentence": "相談室"
+                            },
+                            {
+                              "@Num": "2",
+                              "Sentence": "室内における談話の漏えいを防ぐための間仕切り等を設けること。"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "ItemTitle": "二",
+                        "ItemSentence": {
+                          "Column": [
+                            {
+                              "@Num": "1",
+                              "Sentence": "日常生活訓練室"
+                            },
+                            {
+                              "@Num": "2",
+                              "Sentence": "訓練に必要な機械器具等を備えること。"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "@Num": "3",
+                        "ItemTitle": "三",
+                        "ItemSentence": {
+                          "Column": [
+                            {
+                              "@Num": "1",
+                              "Sentence": "社会適応訓練室"
+                            },
+                            {
+                              "@Num": "2",
+                              "Sentence": "訓練に必要な備品等を備えること。"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "@Num": "4",
+                        "ItemTitle": "四",
+                        "ItemSentence": {
+                          "Column": [
+                            {
+                              "@Num": "1",
+                              "Sentence": "作業室"
+                            },
+                            {
+                              "@Num": "2",
+                              "Sentence": "作業に必要な機械器具等を備えること。"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "@Num": "5",
+                        "ItemTitle": "五",
+                        "ItemSentence": {
+                          "Column": [
+                            {
+                              "@Num": "1",
+                              "Sentence": "更衣室"
+                            },
+                            {
+                              "@Num": "2",
+                              "Sentence": "男子用と女子用を別に設けること。"
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "@Num": "18",
+                "ArticleCaption": "（障害者更生センターの設備の基準）",
+                "ArticleTitle": "第十八条",
+                "Paragraph": [
+                  {
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": "障害者更生センターには、おおむね次の各号に掲げる設備を設けなければならない。"
+                    },
+                    "Item": [
+                      {
+                        "@Num": "1",
+                        "ItemTitle": "一",
+                        "ItemSentence": {
+                          "Sentence": "相談室"
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "ItemTitle": "二",
+                        "ItemSentence": {
+                          "Sentence": "宿泊室"
+                        }
+                      },
+                      {
+                        "@Num": "3",
+                        "ItemTitle": "三",
+                        "ItemSentence": {
+                          "Sentence": "食堂"
+                        }
+                      },
+                      {
+                        "@Num": "4",
+                        "ItemTitle": "四",
+                        "ItemSentence": {
+                          "Sentence": "浴室"
+                        }
+                      },
+                      {
+                        "@Num": "5",
+                        "ItemTitle": "五",
+                        "ItemSentence": {
+                          "Sentence": "便所"
+                        }
+                      },
+                      {
+                        "@Num": "6",
+                        "ItemTitle": "六",
+                        "ItemSentence": {
+                          "Sentence": "洗面所"
+                        }
+                      },
+                      {
+                        "@Num": "7",
+                        "ItemTitle": "七",
+                        "ItemSentence": {
+                          "Sentence": "調理室"
+                        }
+                      },
+                      {
+                        "@Num": "8",
+                        "ItemTitle": "八",
+                        "ItemSentence": {
+                          "Sentence": "娯楽室"
+                        }
+                      },
+                      {
+                        "@Num": "9",
+                        "ItemTitle": "九",
+                        "ItemSentence": {
+                          "Sentence": "マッサージ室"
+                        }
+                      },
+                      {
+                        "@Num": "10",
+                        "ItemTitle": "十",
+                        "ItemSentence": {
+                          "Sentence": "訓練室"
+                        }
+                      },
+                      {
+                        "@Num": "11",
+                        "ItemTitle": "十一",
+                        "ItemSentence": {
+                          "Sentence": "会議室"
+                        }
+                      },
+                      {
+                        "@Num": "12",
+                        "ItemTitle": "十二",
+                        "ItemSentence": {
+                          "Sentence": "売店"
+                        }
+                      },
+                      {
+                        "@Num": "13",
+                        "ItemTitle": "十三",
+                        "ItemSentence": {
+                          "Sentence": "事務室"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": "前項各号に掲げる設備の基準は、次のとおりとする。"
+                    },
+                    "Item": [
+                      {
+                        "@Num": "1",
+                        "ItemTitle": "一",
+                        "ItemSentence": {
+                          "Column": [
+                            {
+                              "@Num": "1",
+                              "Sentence": "相談室"
+                            },
+                            {
+                              "@Num": "2",
+                              "Sentence": "室内における談話の漏えいを防ぐための間仕切り等を設けること。"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "ItemTitle": "二",
+                        "ItemSentence": {
+                          "Column": [
+                            {
+                              "@Num": "1",
+                              "Sentence": "浴室"
+                            },
+                            {
+                              "@Num": "2",
+                              "Sentence": "利用者の特性に応じたものであること。"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "@Num": "3",
+                        "ItemTitle": "三",
+                        "ItemSentence": {
+                          "Column": [
+                            {
+                              "@Num": "1",
+                              "Sentence": "便所"
+                            },
+                            {
+                              "@Num": "2",
+                              "Sentence": "利用者の特性に応じたものであること。"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "@Num": "4",
+                        "ItemTitle": "四",
+                        "ItemSentence": {
+                          "Column": [
+                            {
+                              "@Num": "1",
+                              "Sentence": "洗面所"
+                            },
+                            {
+                              "@Num": "2",
+                              "Sentence": "利用者の特性に応じたものであること。"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "@Num": "5",
+                        "ItemTitle": "五",
+                        "ItemSentence": {
+                          "Sentence": "食堂"
+                        },
+                        "Subitem1": [
+                          {
+                            "@Num": "1",
+                            "Subitem1Title": "イ",
+                            "Subitem1Sentence": {
+                              "Sentence": "食事の提供に支障がない広さを有すること。"
+                            }
+                          },
+                          {
+                            "@Num": "2",
+                            "Subitem1Title": "ロ",
+                            "Subitem1Sentence": {
+                              "Sentence": "必要な備品を備えること。"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "@Num": "6",
+                        "ItemTitle": "六",
+                        "ItemSentence": {
+                          "Column": [
+                            {
+                              "@Num": "1",
+                              "Sentence": "調理室"
+                            },
+                            {
+                              "@Num": "2",
+                              "Sentence": "火気を使用する部分は、不燃材料を用いること。"
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Num": "3",
+                    "ParagraphNum": "３",
+                    "ParagraphSentence": {
+                      "Sentence": "障害者更生センターのうち、宿泊室等を二階以上の階に設けるものにあっては、第一項に掲げる設備のほか、傾斜路又はエレベーターを設けなければならない。"
+                    }
+                  }
+                ]
+              },
+              {
+                "@Num": "19",
+                "ArticleCaption": "（職員の配置の基準）",
+                "ArticleTitle": "第十九条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "身体障害者福祉センターには、施設長その他当該身体障害者福祉センターの運営に必要な職員を置かなければならない。"
+                  }
+                }
+              },
+              {
+                "@Num": "20",
+                "ArticleCaption": "（運営規程）",
+                "ArticleTitle": "第二十条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "身体障害者福祉センターは、次に掲げる施設の運営についての重要事項に関する規程を定めておかなければならない。"
+                  },
+                  "Item": [
+                    {
+                      "@Num": "1",
+                      "ItemTitle": "一",
+                      "ItemSentence": {
+                        "Sentence": "施設の目的及び運営の方針"
+                      }
+                    },
+                    {
+                      "@Num": "2",
+                      "ItemTitle": "二",
+                      "ItemSentence": {
+                        "Sentence": "職員の職種、員数及び職務の内容"
+                      }
+                    },
+                    {
+                      "@Num": "3",
+                      "ItemTitle": "三",
+                      "ItemSentence": {
+                        "Sentence": "利用者に対して行う支援の内容及び利用者から受領する費用の額"
+                      }
+                    },
+                    {
+                      "@Num": "4",
+                      "ItemTitle": "四",
+                      "ItemSentence": {
+                        "Sentence": "施設の利用に当たっての留意事項"
+                      }
+                    },
+                    {
+                      "@Num": "5",
+                      "ItemTitle": "五",
+                      "ItemSentence": {
+                        "Sentence": "非常災害対策"
+                      }
+                    },
+                    {
+                      "@Num": "6",
+                      "ItemTitle": "六",
+                      "ItemSentence": {
+                        "Sentence": "虐待の防止のための措置に関する事項"
+                      }
+                    },
+                    {
+                      "@Num": "7",
+                      "ItemTitle": "七",
+                      "ItemSentence": {
+                        "Sentence": "その他施設の運営に関する重要事項"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "@Num": "21",
+                "ArticleCaption": "（施設長の責務）",
+                "ArticleTitle": "第二十一条",
+                "Paragraph": [
+                  {
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": "身体障害者福祉センターの施設長は、当該身体障害者福祉センターの職員の管理、業務の実施状況の把握その他の管理を一元的に行わなければならない。"
+                    }
+                  },
+                  {
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": "身体障害者福祉センターの施設長は、職員にこの章の規定を遵守させるために必要な指揮命令を行うものとする。"
+                    }
+                  }
+                ]
+              },
+              {
+                "@Num": "22",
+                "ArticleCaption": "（勤務体制の確保等）",
+                "ArticleTitle": "第二十二条",
+                "Paragraph": [
+                  {
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": "身体障害者福祉センターは、利用者に対し、適切な支援を行うことができるよう、職員の勤務の体制を定めておかなければならない。"
+                    }
+                  },
+                  {
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": [
+                        {
+                          "@Function": "main",
+                          "@Num": "1",
+                          "#text": "身体障害者福祉センターは、当該身体障害者福祉センターの職員によって支援を行わなければならない。"
+                        },
+                        {
+                          "@Function": "proviso",
+                          "@Num": "2",
+                          "#text": "ただし、利用者の支援に直接影響を及ぼさない業務については、この限りでない。"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "@Num": "3",
+                    "ParagraphNum": "３",
+                    "ParagraphSentence": {
+                      "Sentence": "身体障害者福祉センターは、職員に対し、その資質の向上のための研修の機会を確保しなければならない。"
+                    }
+                  }
+                ]
+              },
+              {
+                "@Num": "23",
+                "ArticleCaption": "（衛生管理等）",
+                "ArticleTitle": "第二十三条",
+                "Paragraph": [
+                  {
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": "身体障害者福祉センターは、利用者の使用する食器その他の設備又は飲用に供する水について、衛生的な管理に努め、又は衛生上必要な措置を講ずるとともに、治療に必要な機械器具等の管理を適正に行わなければならない。"
+                    }
+                  },
+                  {
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": "身体障害者福祉センターは、当該身体障害者福祉センターにおいて感染症が発生し、又はまん延しないように必要な措置を講ずるよう努めなければならない。"
+                    }
+                  }
+                ]
+              },
+              {
+                "@Num": "24",
+                "ArticleCaption": "（身体障害者福祉センターが利用者に求めることのできる金銭の支払の範囲等）",
+                "ArticleTitle": "第二十四条",
+                "Paragraph": [
+                  {
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": "身体障害者福祉センターが利用者に対して金銭の支払を求めることができるのは、当該金銭の使途が直接当該利用者の便益を向上させるものであって、当該利用者に支払を求めることが適当であるものに限るものとする。"
+                    }
+                  },
+                  {
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": "前項の規定により金銭の支払を求める際には、当該金銭の使途及び額並びに当該利用者に金銭の支払を求める理由について書面によって明らかにするとともに、当該利用者の同意を得なければならない。"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "@Num": "3",
+            "ChapterTitle": "第三章　補装具製作施設",
+            "Article": [
+              {
+                "@Num": "25",
+                "ArticleCaption": "（設備の基準）",
+                "ArticleTitle": "第二十五条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "補装具製作施設には、おおむね次の各号に掲げる設備を設けるほか、補装具の製作及び修理に必要な機械器具等を備えなければならない。"
+                  },
+                  "Item": [
+                    {
+                      "@Num": "1",
+                      "ItemTitle": "一",
+                      "ItemSentence": {
+                        "Sentence": "診断室"
+                      }
+                    },
+                    {
+                      "@Num": "2",
+                      "ItemTitle": "二",
+                      "ItemSentence": {
+                        "Sentence": "仮合室"
+                      }
+                    },
+                    {
+                      "@Num": "3",
+                      "ItemTitle": "三",
+                      "ItemSentence": {
+                        "Sentence": "型採室"
+                      }
+                    },
+                    {
+                      "@Num": "4",
+                      "ItemTitle": "四",
+                      "ItemSentence": {
+                        "Sentence": "作業室"
+                      }
+                    },
+                    {
+                      "@Num": "5",
+                      "ItemTitle": "五",
+                      "ItemSentence": {
+                        "Sentence": "訓練室"
+                      }
+                    },
+                    {
+                      "@Num": "6",
+                      "ItemTitle": "六",
+                      "ItemSentence": {
+                        "Sentence": "宿泊室"
+                      }
+                    },
+                    {
+                      "@Num": "7",
+                      "ItemTitle": "七",
+                      "ItemSentence": {
+                        "Sentence": "事務室"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "@Num": "26",
+                "ArticleCaption": "（職員の配置の基準）",
+                "ArticleTitle": "第二十六条",
+                "Paragraph": [
+                  {
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": "補装具製作施設に置くべき職員及びその員数は、次のとおりとする。"
+                    },
+                    "Item": [
+                      {
+                        "@Num": "1",
+                        "ItemTitle": "一",
+                        "ItemSentence": {
+                          "Column": [
+                            {
+                              "@Num": "1",
+                              "Sentence": "施設長"
+                            },
+                            {
+                              "@Num": "2",
+                              "Sentence": "一"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "ItemTitle": "二",
+                        "ItemSentence": {
+                          "Column": [
+                            {
+                              "@Num": "1",
+                              "Sentence": "義肢装具技術員"
+                            },
+                            {
+                              "@Num": "2",
+                              "Sentence": "一以上"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "@Num": "3",
+                        "ItemTitle": "三",
+                        "ItemSentence": {
+                          "Column": [
+                            {
+                              "@Num": "1",
+                              "Sentence": "訓練指導員"
+                            },
+                            {
+                              "@Num": "2",
+                              "Sentence": "一以上"
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": "補装具製作施設には、前項に掲げる職員に加えて、当該補装具製作施設の運営に必要な職員を置かなければならない。"
+                    }
+                  }
+                ]
+              },
+              {
+                "@Num": "27",
+                "ArticleCaption": "（職員の資格要件）",
+                "ArticleTitle": "第二十七条",
+                "Paragraph": [
+                  {
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": "施設長は、社会福祉事業に五年以上従事した者又は補装具製作施設の施設長として必要な学識経験を有する者でなければならない。"
+                    }
+                  },
+                  {
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": "義肢装具技術員は、解剖学及び生理学に関する基礎理論（義肢装具に係る部分に限る。次項において同じ。）に精通し、かつ、義肢装具の製作に関し五年以上の経験を有する者でなければならない。"
+                    }
+                  },
+                  {
+                    "@Num": "3",
+                    "ParagraphNum": "３",
+                    "ParagraphSentence": {
+                      "Sentence": "訓練指導員は、解剖学及び生理学に関する基礎理論に精通し、かつ、理学療法及び作業療法に関する知識を有する者でなければならない。"
+                    }
+                  }
+                ]
+              },
+              {
+                "@Num": "28",
+                "ArticleCaption": "（準用）",
+                "ArticleTitle": "第二十八条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "第二十条から第二十二条まで及び第二十四条の規定は、補装具製作施設について準用する。"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "@Num": "4",
+            "ChapterTitle": "第四章　盲導犬訓練施設",
+            "Article": [
+              {
+                "@Num": "29",
+                "ArticleCaption": "（設備の基準）",
+                "ArticleTitle": "第二十九条",
+                "Paragraph": [
+                  {
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": [
+                        {
+                          "@Function": "main",
+                          "@Num": "1",
+                          "#text": "盲導犬訓練施設には、次の各号に掲げる設備を設けなければならない。"
+                        },
+                        {
+                          "@Function": "proviso",
+                          "@Num": "2",
+                          "#text": "ただし、他の社会福祉施設等の設備を利用することにより当該盲導犬訓練施設の効果的な運営を期待することができる場合であって、当該盲導犬訓練施設が行う訓練に支障がないときは、次の各号（第九号を除く。）に掲げる設備の一部を設けないことができる。"
+                        }
+                      ]
+                    },
+                    "Item": [
+                      {
+                        "@Num": "1",
+                        "ItemTitle": "一",
+                        "ItemSentence": {
+                          "Sentence": "居室"
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "ItemTitle": "二",
+                        "ItemSentence": {
+                          "Sentence": "食堂"
+                        }
+                      },
+                      {
+                        "@Num": "3",
+                        "ItemTitle": "三",
+                        "ItemSentence": {
+                          "Sentence": "浴室"
+                        }
+                      },
+                      {
+                        "@Num": "4",
+                        "ItemTitle": "四",
+                        "ItemSentence": {
+                          "Sentence": "洗面所"
+                        }
+                      },
+                      {
+                        "@Num": "5",
+                        "ItemTitle": "五",
+                        "ItemSentence": {
+                          "Sentence": "便所"
+                        }
+                      },
+                      {
+                        "@Num": "6",
+                        "ItemTitle": "六",
+                        "ItemSentence": {
+                          "Sentence": "調理室"
+                        }
+                      },
+                      {
+                        "@Num": "7",
+                        "ItemTitle": "七",
+                        "ItemSentence": {
+                          "Sentence": "洗濯室"
+                        }
+                      },
+                      {
+                        "@Num": "8",
+                        "ItemTitle": "八",
+                        "ItemSentence": {
+                          "Sentence": "相談室"
+                        }
+                      },
+                      {
+                        "@Num": "9",
+                        "ItemTitle": "九",
+                        "ItemSentence": {
+                          "Sentence": "犬舎"
+                        }
+                      },
+                      {
+                        "@Num": "10",
+                        "ItemTitle": "十",
+                        "ItemSentence": {
+                          "Sentence": "事務室"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": "前項各号に掲げる設備の基準は、次のとおりとする。"
+                    },
+                    "Item": [
+                      {
+                        "@Num": "1",
+                        "ItemTitle": "一",
+                        "ItemSentence": {
+                          "Sentence": "居室"
+                        },
+                        "Subitem1": [
+                          {
+                            "@Num": "1",
+                            "Subitem1Title": "イ",
+                            "Subitem1Sentence": {
+                              "Sentence": "一の居室の定員は、二人以下とすること。"
+                            }
+                          },
+                          {
+                            "@Num": "2",
+                            "Subitem1Title": "ロ",
+                            "Subitem1Sentence": {
+                              "Sentence": "地階に設けてはならないこと。"
+                            }
+                          },
+                          {
+                            "@Num": "3",
+                            "Subitem1Title": "ハ",
+                            "Subitem1Sentence": {
+                              "Sentence": "入所者（盲導犬の利用に必要な訓練を受けるために盲導犬訓練施設に入所又は通所する者をいう。以下同じ。）一人当たりの床面積は、収納設備等を除き、三・三平方メートル以上とすること。"
+                            }
+                          },
+                          {
+                            "@Num": "4",
+                            "Subitem1Title": "ニ",
+                            "Subitem1Sentence": {
+                              "Sentence": "一以上の出入口は、避難上有効な空地、廊下又は広間に直接面して設けること。"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "@Num": "2",
+                        "ItemTitle": "二",
+                        "ItemSentence": {
+                          "Sentence": "食堂"
+                        },
+                        "Subitem1": [
+                          {
+                            "@Num": "1",
+                            "Subitem1Title": "イ",
+                            "Subitem1Sentence": {
+                              "Sentence": "食事の提供に支障がない広さを有すること。"
+                            }
+                          },
+                          {
+                            "@Num": "2",
+                            "Subitem1Title": "ロ",
+                            "Subitem1Sentence": {
+                              "Sentence": "必要な備品を備えること。"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "@Num": "3",
+                        "ItemTitle": "三",
+                        "ItemSentence": {
+                          "Column": [
+                            {
+                              "@Num": "1",
+                              "Sentence": "浴室"
+                            },
+                            {
+                              "@Num": "2",
+                              "Sentence": "入所者の特性に応じたものであること。"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "@Num": "4",
+                        "ItemTitle": "四",
+                        "ItemSentence": {
+                          "Column": [
+                            {
+                              "@Num": "1",
+                              "Sentence": "洗面所"
+                            },
+                            {
+                              "@Num": "2",
+                              "Sentence": "入所者の特性に応じたものであること。"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "@Num": "5",
+                        "ItemTitle": "五",
+                        "ItemSentence": {
+                          "Column": [
+                            {
+                              "@Num": "1",
+                              "Sentence": "便所"
+                            },
+                            {
+                              "@Num": "2",
+                              "Sentence": "入所者の特性に応じたものであること。"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "@Num": "6",
+                        "ItemTitle": "六",
+                        "ItemSentence": {
+                          "Column": [
+                            {
+                              "@Num": "1",
+                              "Sentence": "調理室"
+                            },
+                            {
+                              "@Num": "2",
+                              "Sentence": "火気を使用する部分は、不燃材料を用いること。"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "@Num": "7",
+                        "ItemTitle": "七",
+                        "ItemSentence": {
+                          "Column": [
+                            {
+                              "@Num": "1",
+                              "Sentence": "相談室"
+                            },
+                            {
+                              "@Num": "2",
+                              "Sentence": "室内における談話の漏えいを防ぐための間仕切り等を設けること。"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "@Num": "8",
+                        "ItemTitle": "八",
+                        "ItemSentence": {
+                          "Sentence": "犬舎"
+                        },
+                        "Subitem1": [
+                          {
+                            "@Num": "1",
+                            "Subitem1Title": "イ",
+                            "Subitem1Sentence": {
+                              "Sentence": "清潔を保ち、犬の運動及び排せつの場所を備えること。"
+                            }
+                          },
+                          {
+                            "@Num": "2",
+                            "Subitem1Title": "ロ",
+                            "Subitem1Sentence": {
+                              "Sentence": "犬の飼育及び健康管理等に必要な機械器具等を備えること。"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@Num": "3",
+                    "ParagraphNum": "３",
+                    "ParagraphSentence": {
+                      "Sentence": "盲導犬訓練施設は、前二項に規定するもののほか、犬の訓練等に必要な機械器具等を備えなければならない。"
+                    }
+                  }
+                ]
+              },
+              {
+                "@Num": "30",
+                "ArticleCaption": "（職員の配置の基準）",
+                "ArticleTitle": "第三十条",
+                "Paragraph": [
+                  {
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": "盲導犬訓練施設に置くべき職員及びその員数は、次のとおりとする。"
+                    },
+                    "Item": [
+                      {
+                        "@Num": "1",
+                        "ItemTitle": "一",
+                        "ItemSentence": {
+                          "Column": [
+                            {
+                              "@Num": "1",
+                              "Sentence": "施設長"
+                            },
+                            {
+                              "@Num": "2",
+                              "Sentence": "一"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "ItemTitle": "二",
+                        "ItemSentence": {
+                          "Column": [
+                            {
+                              "@Num": "1",
+                              "Sentence": "医師"
+                            },
+                            {
+                              "@Num": "2",
+                              "Sentence": "入所者に対し健康管理及び療養上の指導を行うために必要な数"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "@Num": "3",
+                        "ItemTitle": "三",
+                        "ItemSentence": {
+                          "Column": [
+                            {
+                              "@Num": "1",
+                              "Sentence": "獣医師"
+                            },
+                            {
+                              "@Num": "2",
+                              "Sentence": "一以上"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "@Num": "4",
+                        "ItemTitle": "四",
+                        "ItemSentence": {
+                          "Column": [
+                            {
+                              "@Num": "1",
+                              "Sentence": "訓練指導員"
+                            },
+                            {
+                              "@Num": "2",
+                              "Sentence": "一以上"
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": "盲導犬訓練施設には、前項に掲げる職員に加えて、当該盲導犬訓練施設の運営に必要な職員を置かなければならない。"
+                    }
+                  }
+                ]
+              },
+              {
+                "@Num": "31",
+                "ArticleCaption": "（職員の資格要件）",
+                "ArticleTitle": "第三十一条",
+                "Paragraph": [
+                  {
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": "施設長は、社会福祉事業に五年以上従事した者又は盲導犬訓練施設の施設長として必要な学識経験を有する者でなければならない。"
+                    }
+                  },
+                  {
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": "訓練指導員は、盲導犬の訓練等に関する相当の知識及び経験を有する者でなければならない。"
+                    }
+                  }
+                ]
+              },
+              {
+                "@Num": "32",
+                "ArticleCaption": "（健康管理）",
+                "ArticleTitle": "第三十二条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "入所者については、必要に応じて健康診断を行わなければならない。"
+                  }
+                }
+              },
+              {
+                "@Num": "33",
+                "ArticleCaption": "（準用）",
+                "ArticleTitle": "第三十三条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "第二十条から第二十四条までの規定は、盲導犬訓練施設について準用する。"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "@Num": "5",
+            "ChapterTitle": "第五章　視聴覚障害者情報提供施設",
+            "Article": [
+              {
+                "@Num": "34",
+                "ArticleCaption": "（種類）",
+                "ArticleTitle": "第三十四条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "視聴覚障害者情報提供施設の種類は、次の各号に掲げるとおりとし、その定義は当該各号に定めるとおりとする。"
+                  },
+                  "Item": [
+                    {
+                      "@Num": "1",
+                      "ItemTitle": "一",
+                      "ItemSentence": {
+                        "Column": [
+                          {
+                            "@Num": "1",
+                            "Sentence": "点字図書館"
+                          },
+                          {
+                            "@Num": "2",
+                            "Sentence": "視聴覚障害者情報提供施設のうち点字刊行物及び視覚障害者用の録音物の貸出しその他利用に係る事業を主として行うもの"
+                          }
+                        ]
+                      }
+                    },
+                    {
+                      "@Num": "2",
+                      "ItemTitle": "二",
+                      "ItemSentence": {
+                        "Column": [
+                          {
+                            "@Num": "1",
+                            "Sentence": "点字出版施設"
+                          },
+                          {
+                            "@Num": "2",
+                            "Sentence": "視聴覚障害者情報提供施設のうち点字刊行物の出版に係る事業を主として行うもの"
+                          }
+                        ]
+                      }
+                    },
+                    {
+                      "@Num": "3",
+                      "ItemTitle": "三",
+                      "ItemSentence": {
+                        "Column": [
+                          {
+                            "@Num": "1",
+                            "Sentence": "聴覚障害者情報提供施設"
+                          },
+                          {
+                            "@Num": "2",
+                            "Sentence": "視聴覚障害者情報提供施設のうち聴覚障害者用の録画物の製作及び貸出しに係る事業を主として行うもの"
+                          }
+                        ]
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "@Num": "35",
+                "ArticleCaption": "（点字図書館の設備の基準）",
+                "ArticleTitle": "第三十五条",
+                "Paragraph": [
+                  {
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": "点字図書館には、おおむね次の各号に掲げる設備を設けなければならない。"
+                    },
+                    "Item": [
+                      {
+                        "@Num": "1",
+                        "ItemTitle": "一",
+                        "ItemSentence": {
+                          "Sentence": "閲覧室"
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "ItemTitle": "二",
+                        "ItemSentence": {
+                          "Sentence": "録音室"
+                        }
+                      },
+                      {
+                        "@Num": "3",
+                        "ItemTitle": "三",
+                        "ItemSentence": {
+                          "Sentence": "印刷室"
+                        }
+                      },
+                      {
+                        "@Num": "4",
+                        "ItemTitle": "四",
+                        "ItemSentence": {
+                          "Sentence": "聴読室"
+                        }
+                      },
+                      {
+                        "@Num": "5",
+                        "ItemTitle": "五",
+                        "ItemSentence": {
+                          "Sentence": "発送室"
+                        }
+                      },
+                      {
+                        "@Num": "6",
+                        "ItemTitle": "六",
+                        "ItemSentence": {
+                          "Sentence": "書庫"
+                        }
+                      },
+                      {
+                        "@Num": "7",
+                        "ItemTitle": "七",
+                        "ItemSentence": {
+                          "Sentence": "研修室"
+                        }
+                      },
+                      {
+                        "@Num": "8",
+                        "ItemTitle": "八",
+                        "ItemSentence": {
+                          "Sentence": "相談室"
+                        }
+                      },
+                      {
+                        "@Num": "9",
+                        "ItemTitle": "九",
+                        "ItemSentence": {
+                          "Sentence": "事務室"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": "前項各号に掲げる設備のうち、相談室については、室内における談話の漏えいを防ぐための間仕切り等を設けなければならない。"
+                    }
+                  },
+                  {
+                    "@Num": "3",
+                    "ParagraphNum": "３",
+                    "ParagraphSentence": {
+                      "Sentence": "点字図書館には、前二項に規定するもののほか、点字刊行物及び視覚障害者用の録音物の利用に必要な機械器具等を備えなければならない。"
+                    }
+                  }
+                ]
+              },
+              {
+                "@Num": "36",
+                "ArticleCaption": "（点字出版施設の設備の基準）",
+                "ArticleTitle": "第三十六条",
+                "Paragraph": [
+                  {
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": "点字出版施設には、おおむね次の各号に掲げる設備を設けなければならない。"
+                    },
+                    "Item": [
+                      {
+                        "@Num": "1",
+                        "ItemTitle": "一",
+                        "ItemSentence": {
+                          "Sentence": "製版室"
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "ItemTitle": "二",
+                        "ItemSentence": {
+                          "Sentence": "校正室"
+                        }
+                      },
+                      {
+                        "@Num": "3",
+                        "ItemTitle": "三",
+                        "ItemSentence": {
+                          "Sentence": "印刷室"
+                        }
+                      },
+                      {
+                        "@Num": "4",
+                        "ItemTitle": "四",
+                        "ItemSentence": {
+                          "Sentence": "製本室"
+                        }
+                      },
+                      {
+                        "@Num": "5",
+                        "ItemTitle": "五",
+                        "ItemSentence": {
+                          "Sentence": "倉庫"
+                        }
+                      },
+                      {
+                        "@Num": "6",
+                        "ItemTitle": "六",
+                        "ItemSentence": {
+                          "Sentence": "事務室"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": "点字出版施設には、前項に規定するもののほか、点字刊行物の出版等に必要な機械器具等を備えなければならない。"
+                    }
+                  }
+                ]
+              },
+              {
+                "@Num": "37",
+                "ArticleCaption": "（聴覚障害者情報提供施設の設備の基準）",
+                "ArticleTitle": "第三十七条",
+                "Paragraph": [
+                  {
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": "聴覚障害者情報提供施設には、おおむね次の各号に掲げる設備を設けなければならない。"
+                    },
+                    "Item": [
+                      {
+                        "@Num": "1",
+                        "ItemTitle": "一",
+                        "ItemSentence": {
+                          "Sentence": "貸出利用室"
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "ItemTitle": "二",
+                        "ItemSentence": {
+                          "Sentence": "試写室"
+                        }
+                      },
+                      {
+                        "@Num": "3",
+                        "ItemTitle": "三",
+                        "ItemSentence": {
+                          "Sentence": "情報機器利用室"
+                        }
+                      },
+                      {
+                        "@Num": "4",
+                        "ItemTitle": "四",
+                        "ItemSentence": {
+                          "Sentence": "製作室"
+                        }
+                      },
+                      {
+                        "@Num": "5",
+                        "ItemTitle": "五",
+                        "ItemSentence": {
+                          "Sentence": "発送室"
+                        }
+                      },
+                      {
+                        "@Num": "6",
+                        "ItemTitle": "六",
+                        "ItemSentence": {
+                          "Sentence": "相談室"
+                        }
+                      },
+                      {
+                        "@Num": "7",
+                        "ItemTitle": "七",
+                        "ItemSentence": {
+                          "Sentence": "研修室兼会議室"
+                        }
+                      },
+                      {
+                        "@Num": "8",
+                        "ItemTitle": "八",
+                        "ItemSentence": {
+                          "Sentence": "事務室"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": "前項各号に掲げる設備のうち、相談室については、室内における談話の漏えいを防ぐための間仕切り等を設けなければならない。"
+                    }
+                  },
+                  {
+                    "@Num": "3",
+                    "ParagraphNum": "３",
+                    "ParagraphSentence": {
+                      "Sentence": "聴覚障害者情報提供施設には、前二項に規定するもののほか、試写等に必要な機械器具等を備えなければならない。"
+                    }
+                  }
+                ]
+              },
+              {
+                "@Num": "38",
+                "ArticleCaption": "（点字図書館の職員の配置の基準）",
+                "ArticleTitle": "第三十八条",
+                "Paragraph": [
+                  {
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": "点字図書館に置くべき職員及びその員数は、次のとおりとする。"
+                    },
+                    "Item": [
+                      {
+                        "@Num": "1",
+                        "ItemTitle": "一",
+                        "ItemSentence": {
+                          "Column": [
+                            {
+                              "@Num": "1",
+                              "Sentence": "施設長"
+                            },
+                            {
+                              "@Num": "2",
+                              "Sentence": "一"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "ItemTitle": "二",
+                        "ItemSentence": {
+                          "Column": [
+                            {
+                              "@Num": "1",
+                              "Sentence": "司書"
+                            },
+                            {
+                              "@Num": "2",
+                              "Sentence": "一以上"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "@Num": "3",
+                        "ItemTitle": "三",
+                        "ItemSentence": {
+                          "Column": [
+                            {
+                              "@Num": "1",
+                              "Sentence": "点字指導員"
+                            },
+                            {
+                              "@Num": "2",
+                              "Sentence": "一以上"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "@Num": "4",
+                        "ItemTitle": "四",
+                        "ItemSentence": {
+                          "Column": [
+                            {
+                              "@Num": "1",
+                              "Sentence": "貸出閲覧員又は情報支援員"
+                            },
+                            {
+                              "@Num": "2",
+                              "Sentence": "一以上"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "@Num": "5",
+                        "ItemTitle": "五",
+                        "ItemSentence": {
+                          "Column": [
+                            {
+                              "@Num": "1",
+                              "Sentence": "校正員又は音声訳指導員"
+                            },
+                            {
+                              "@Num": "2",
+                              "Sentence": "一以上"
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": "点字図書館には、前項に掲げる職員に加えて、当該点字図書館の運営に必要な職員を置かなければならない。"
+                    }
+                  }
+                ]
+              },
+              {
+                "@Num": "39",
+                "ArticleCaption": "（点字出版施設の職員の配置の基準）",
+                "ArticleTitle": "第三十九条",
+                "Paragraph": [
+                  {
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": "点字出版施設に置くべき職員及びその員数は、次のとおりとする。"
+                    },
+                    "Item": [
+                      {
+                        "@Num": "1",
+                        "ItemTitle": "一",
+                        "ItemSentence": {
+                          "Column": [
+                            {
+                              "@Num": "1",
+                              "Sentence": "施設長"
+                            },
+                            {
+                              "@Num": "2",
+                              "Sentence": "一"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "ItemTitle": "二",
+                        "ItemSentence": {
+                          "Column": [
+                            {
+                              "@Num": "1",
+                              "Sentence": "編集員"
+                            },
+                            {
+                              "@Num": "2",
+                              "Sentence": "一以上"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "@Num": "3",
+                        "ItemTitle": "三",
+                        "ItemSentence": {
+                          "Column": [
+                            {
+                              "@Num": "1",
+                              "Sentence": "製版員"
+                            },
+                            {
+                              "@Num": "2",
+                              "Sentence": "一以上"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "@Num": "4",
+                        "ItemTitle": "四",
+                        "ItemSentence": {
+                          "Column": [
+                            {
+                              "@Num": "1",
+                              "Sentence": "校正員"
+                            },
+                            {
+                              "@Num": "2",
+                              "Sentence": "一以上"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "@Num": "5",
+                        "ItemTitle": "五",
+                        "ItemSentence": {
+                          "Column": [
+                            {
+                              "@Num": "1",
+                              "Sentence": "印刷員"
+                            },
+                            {
+                              "@Num": "2",
+                              "Sentence": "一以上"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "@Num": "6",
+                        "ItemTitle": "六",
+                        "ItemSentence": {
+                          "Column": [
+                            {
+                              "@Num": "1",
+                              "Sentence": "製本員"
+                            },
+                            {
+                              "@Num": "2",
+                              "Sentence": "一以上"
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": "点字出版施設には、前項に掲げる職員に加えて、当該点字出版施設の運営に必要な職員を置かなければならない。"
+                    }
+                  }
+                ]
+              },
+              {
+                "@Num": "40",
+                "ArticleCaption": "（聴覚障害者情報提供施設の職員の配置の基準）",
+                "ArticleTitle": "第四十条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "聴覚障害者情報提供施設には、施設長その他当該聴覚障害者情報提供施設の運営に必要な職員を置かなければならない。"
+                  }
+                }
+              },
+              {
+                "@Num": "41",
+                "ArticleCaption": "（職員の資格要件）",
+                "ArticleTitle": "第四十一条",
+                "Paragraph": [
+                  {
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": "点字図書館の施設長は、司書として三年以上勤務した者、社会福祉事業に五年以上従事した者又はこれらと同等以上の能力を有すると認められる者でなければならない。"
+                    }
+                  },
+                  {
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": "点字出版施設の施設長は、社会福祉事業に五年以上従事した者又はこれと同等以上の能力を有すると認められる者でなければならない。"
+                    }
+                  }
+                ]
+              },
+              {
+                "@Num": "42",
+                "ArticleCaption": "（準用）",
+                "ArticleTitle": "第四十二条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "第二十条から第二十二条まで、第二十三条第二項及び第二十四条の規定は、視聴覚障害者情報提供施設について準用する。"
+                  }
+                }
+              }
+            ]
+          }
+        ]
+      },
+      "SupplProvision": [
+        {
+          "SupplProvisionLabel": "附　則",
+          "Article": [
+            {
+              "@Num": "1",
+              "ArticleCaption": "（施行期日）",
+              "ArticleTitle": "第一条",
+              "Paragraph": {
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": "この省令は、平成十五年四月一日から施行する。"
+                }
+              }
+            },
+            {
+              "@Num": "2",
+              "ArticleTitle": "第二条",
+              "Paragraph": {
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": "削除"
+                }
+              }
+            },
+            {
+              "@Num": "3",
+              "ArticleTitle": "第三条",
+              "Paragraph": {
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": "削除"
+                }
+              }
+            },
+            {
+              "@Num": "4",
+              "ArticleTitle": "第四条",
+              "Paragraph": {
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": "削除"
+                }
+              }
+            },
+            {
+              "@Num": "5",
+              "ArticleTitle": "第五条",
+              "Paragraph": {
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": "削除"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@AmendLawNum": "平成一六年一月二〇日厚生労働省令第一号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この省令は、公布の日から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成一六年七月九日厚生労働省令第一一二号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Article": [
+            {
+              "@Num": "1",
+              "ArticleCaption": "（施行期日）",
+              "ArticleTitle": "第一条",
+              "Paragraph": {
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": "この省令は、薬事法及び採血及び供血あつせん業取締法の一部を改正する法律（以下「改正法」という。）の施行の日（平成十七年四月一日）から施行する。"
+                }
+              }
+            },
+            {
+              "@Num": "9",
+              "ArticleTitle": "第九条",
+              "Paragraph": {
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": "この省令の施行前にした行為に対する罰則の適用については、なお従前の例による。"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@AmendLawNum": "平成一八年三月三一日厚生労働省令第七六号",
+          "SupplProvisionLabel": "附　則",
+          "Article": [
+            {
+              "@Num": "1",
+              "ArticleCaption": "（施行期日）",
+              "ArticleTitle": "第一条",
+              "Paragraph": {
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": "この省令は、平成十八年四月一日から施行する。"
+                }
+              }
+            },
+            {
+              "@Num": "3",
+              "ArticleTitle": "第三条",
+              "Paragraph": {
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": "この省令の施行の日（以下「施行日」という。）前に前条の規定による改正前の特定事業省令（以下「旧特定事業省令」という。）第一条第一項の規定により旧特定事業省令別表第一の下欄に掲げる規定が適用されていない施設又は事業所は、施行日において次の各号に掲げる基準を満たしているものとみなす。"
+                },
+                "Item": [
+                  {
+                    "@Num": "1",
+                    "ItemTitle": "一",
+                    "ItemSentence": {
+                      "Sentence": "第一条の規定による改正後の身体障害者更生援護施設の設備及び運営に関する基準第三条第三項、第二条の規定による改正後の精神障害者社会復帰施設の設備及び運営に関する基準第三条第三項、第三条の規定による改正後の救護施設、更生施設、授産施設及び宿所提供施設の設備及び運営に関する最低基準第十条第二項（同令第十八条第三項において準用する場合を含む。）、第五条の規定による改正後の婦人保護施設の設備及び運営に関する最低基準第十条第二項又は第六条の規定による改正後の知的障害者援護施設の設備及び運営に関する基準第三条第三項"
+                    }
+                  },
+                  {
+                    "@Num": "2",
+                    "ItemTitle": "二",
+                    "ItemSentence": {
+                      "Sentence": "養護老人ホームの設備及び運営に関する基準の一部を改正する省令（平成十八年厚生労働省令第五十七号）による改正後の養護老人ホームの設備及び運営に関する基準（昭和四十一年厚生省令第十九号）第十一条第二項"
+                    }
+                  },
+                  {
+                    "@Num": "3",
+                    "ItemTitle": "三",
+                    "ItemSentence": {
+                      "Sentence": "特別養護老人ホームの設備及び運営に関する基準の一部を改正する省令（平成十八年厚生労働省令第三十八号）による改正後の特別養護老人ホームの設備及び運営に関する基準（平成十一年厚生省令第四十六号）第十一条第二項、第三十五条第二項、第四十六条、第五十五条第二項、第六十一条第二項又は第六十五条"
+                    }
+                  },
+                  {
+                    "@Num": "4",
+                    "ItemTitle": "四",
+                    "ItemSentence": {
+                      "Sentence": "指定居宅サービス等の事業の人員、設備及び運営に関する基準等の一部を改正する省令（平成十八年厚生労働省令第三十三号）第一条の規定による改正後の指定居宅サービス等の事業の人員、設備及び運営に関する基準（平成十一年厚生省令第三十七号）第百二十四条第二項、第百四十条の四第二項、第百四十条の十六第一項若しくは第百七十七条第二項又は指定基準等改正省令第六条の規定による改正後の介護老人保健施設の人員、施設及び設備並びに運営に関する基準（平成十一年厚生省令第四十号）第四条第二項、第四十一条第五項若しくは第五十三条"
+                    }
+                  },
+                  {
+                    "@Num": "5",
+                    "ItemTitle": "五",
+                    "ItemSentence": {
+                      "Sentence": "指定地域密着型サービスの事業の人員、設備及び運営に関する基準（平成十八年厚生労働省令第三十四号）第百十二条第二項"
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "@AmendLawNum": "平成一八年三月三一日厚生労働省令第七八号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Article": {
+            "@Num": "1",
+            "ArticleCaption": "（施行期日）",
+            "ArticleTitle": "第一条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "この省令は、平成十八年四月一日から施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成一八年九月二九日厚生労働省令第一六九号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この省令は、平成十八年十月一日から施行する。"
+            }
+          }
+        }
+      ]
+    }
+  }
+}

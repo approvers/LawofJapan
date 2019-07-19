@@ -1,0 +1,131 @@
+{
+  "Law": {
+    "@DataInfo": "190529e80k10m05",
+    "@Era": "Heisei",
+    "@Lang": "ja",
+    "@LawType": "CabinetOrder",
+    "@Num": "010",
+    "@Year": "29",
+    "LawNum": "平成二十九年政令第十号",
+    "LawBody": {
+      "LawTitle": "経済連携協定に基づく報復関税に関する政令",
+      "EnactStatement": "内閣は、関税暫定措置法（昭和三十五年法律第三十六号）第七条の十第四項の規定に基づき、この政令を制定する。",
+      "MainProvision": {
+        "Article": [
+          {
+            "@Num": "1",
+            "ArticleCaption": "（経済連携協定に基づく報復関税を課すること等の告示）",
+            "ArticleTitle": "第一条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "財務大臣は、関税暫定措置法第七条の十第一項の規定による措置（以下「経済連携協定に基づく報復関税」という。）をとること又は経済連携協定に基づく報復関税を変更し、若しくは廃止すること（以下「経済連携協定に基づく報復関税に係る措置」という。）が決定されたときは、速やかに、その旨及び次に掲げる事項を官報で告示しなければならない。"
+              },
+              "Item": [
+                {
+                  "@Num": "1",
+                  "ItemTitle": "一",
+                  "ItemSentence": {
+                    "Sentence": "当該経済連携協定に基づく報復関税に係る措置の対象となる国（固有の関税及び貿易に関する制度を有する地域を含む。）"
+                  }
+                },
+                {
+                  "@Num": "2",
+                  "ItemTitle": "二",
+                  "ItemSentence": {
+                    "Sentence": "当該経済連携協定に基づく報復関税に係る措置の対象となる貨物の品名、銘柄、型式及び特徴"
+                  }
+                },
+                {
+                  "@Num": "3",
+                  "ItemTitle": "三",
+                  "ItemSentence": {
+                    "Sentence": "当該経済連携協定に基づく報復関税に係る措置の内容（前二号に掲げるものを除く。）"
+                  }
+                },
+                {
+                  "@Num": "4",
+                  "ItemTitle": "四",
+                  "ItemSentence": {
+                    "Sentence": "当該経済連携協定に基づく報復関税に係る措置をとる理由"
+                  }
+                },
+                {
+                  "@Num": "5",
+                  "ItemTitle": "五",
+                  "ItemSentence": {
+                    "Sentence": "その他参考となるべき事項"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "@Num": "2",
+            "ArticleCaption": "（関税・外国為替等審議会への諮問等）",
+            "ArticleTitle": "第二条",
+            "Paragraph": [
+              {
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": [
+                    {
+                      "@Function": "main",
+                      "@Num": "1",
+                      "#text": "財務大臣は、経済連携協定に基づく報復関税に係る措置をとることが必要であると認められるときは、速やかに、関税・外国為替等審議会に諮問するものとする。"
+                    },
+                    {
+                      "@Function": "proviso",
+                      "@Num": "2",
+                      "#text": "ただし、経済連携協定に基づく報復関税に係る措置を直ちにとる必要があると認められる場合は、この限りでない。"
+                    }
+                  ]
+                }
+              },
+              {
+                "@Num": "2",
+                "ParagraphNum": "２",
+                "ParagraphSentence": {
+                  "Sentence": "財務大臣は、前項ただし書に規定する場合に該当して経済連携協定に基づく報復関税に係る措置をとった場合においては、速やかに、当該経済連携協定に基づく報復関税に係る措置の内容を関税・外国為替等審議会に報告しなければならない。"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      "SupplProvision": [
+        {
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphCaption": "（施行期日）",
+            "ParagraphNum": "１",
+            "ParagraphSentence": {
+              "Sentence": "この政令は、環太平洋パートナーシップ協定の締結及び環太平洋パートナーシップに関する包括的及び先進的な協定の締結に伴う関係法律の整備に関する法律（平成二十八年法律第百八号）の施行の日から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成三〇年七月一一日政令第二〇四号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Article": {
+            "@Num": "1",
+            "ArticleCaption": "（施行期日）",
+            "ArticleTitle": "第一条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "この政令は、公布の日から施行する。"
+              }
+            }
+          }
+        }
+      ]
+    }
+  }
+}

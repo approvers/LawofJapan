@@ -1,0 +1,783 @@
+{
+  "Law": {
+    "@Era": "Heisei",
+    "@Lang": "ja",
+    "@LawType": "CabinetOrder",
+    "@Num": "41",
+    "@Year": "21",
+    "LawNum": "平成二十一年政令第四十一号",
+    "LawBody": {
+      "LawTitle": "平成二十年における特定地域に係る激甚災害及びこれに対し適用すべき措置の指定に関する政令",
+      "EnactStatement": {
+        "Ruby": {
+          "Rt": "じん",
+          "#text": "甚"
+        },
+        "#text": "内閣は、激災害に対処するための特別の財政援助等に関する法律（昭和三十七年法律第百五十号）第二条第一項及び第二項、第三条第一項、第四条第一項並びに第二十四条第一項の規定に基づき、この政令を制定する。"
+      },
+      "MainProvision": {
+        "Article": [
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "1",
+            "ArticleCaption": "（激甚災害及びこれに対し適用すべき措置の指定）",
+            "ArticleTitle": "第一条",
+            "Paragraph": {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "Ruby": {
+                    "Rt": "じん",
+                    "#text": "甚"
+                  },
+                  "#text": "次の表の上欄に掲げる災害を激災害に対処するための特別の財政援助等に関する法律（以下「法」という。）第二条第一項の激甚災害として指定し、当該激甚災害に対し適用すべき措置を同表の下欄に掲げるとおり指定する。"
+                }
+              },
+              "TableStruct": {
+                "Table": {
+                  "@WritingMode": "vertical",
+                  "TableRow": [
+                    {
+                      "TableColumn": [
+                        {
+                          "@Align": "center",
+                          "@BorderBottom": "solid",
+                          "@BorderLeft": "solid",
+                          "@BorderRight": "solid",
+                          "@BorderTop": "solid",
+                          "@Valign": "middle",
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "激甚災害"
+                          }
+                        },
+                        {
+                          "@Align": "center",
+                          "@BorderBottom": "solid",
+                          "@BorderLeft": "solid",
+                          "@BorderRight": "solid",
+                          "@BorderTop": "solid",
+                          "@Valign": "middle",
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "適用すべき措置"
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "@BorderBottom": "solid",
+                          "@BorderLeft": "solid",
+                          "@BorderRight": "solid",
+                          "@BorderTop": "solid",
+                          "@Valign": "top",
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "平成二十年二月二十三日及び同月二十四日の風浪による災害で、新潟県佐渡市の区域に係るもの"
+                          }
+                        },
+                        {
+                          "@BorderBottom": "solid",
+                          "@BorderLeft": "solid",
+                          "@BorderRight": "solid",
+                          "@BorderTop": "solid",
+                          "@Valign": "top",
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "法第三条、第四条並びに第二十四条第一項、第三項及び第四項に規定する措置"
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "@BorderBottom": "solid",
+                          "@BorderLeft": "solid",
+                          "@BorderRight": "solid",
+                          "@BorderTop": "solid",
+                          "@Valign": "top",
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "平成二十年五月二十八日及び同月二十九日の豪雨による災害で、長崎県長崎市及び宮崎県東臼杵郡美郷町の区域に係るもの"
+                          }
+                        },
+                        {
+                          "@BorderBottom": "solid",
+                          "@BorderLeft": "solid",
+                          "@BorderRight": "solid",
+                          "@BorderTop": "solid",
+                          "@Valign": "top",
+                          "@rowspan": "7",
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "法第五条及び第二十四条第二項から第四項までに規定する措置"
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": {
+                        "@BorderBottom": "solid",
+                        "@BorderLeft": "solid",
+                        "@BorderRight": "solid",
+                        "@BorderTop": "solid",
+                        "@Valign": "top",
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "平成二十年六月二十日から同月二十五日までの間の豪雨による災害で、熊本県八代市並びに球磨郡水上村及び五木村の区域に係るもの"
+                        }
+                      }
+                    },
+                    {
+                      "TableColumn": {
+                        "@BorderBottom": "solid",
+                        "@BorderLeft": "solid",
+                        "@BorderRight": "solid",
+                        "@BorderTop": "solid",
+                        "@Valign": "top",
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "平成二十年八月十四日から同月十七日までの間の豪雨による災害で、山形県東田川郡庄内町及び長崎県壱岐市の区域に係るもの"
+                        }
+                      }
+                    },
+                    {
+                      "TableColumn": {
+                        "@BorderBottom": "solid",
+                        "@BorderLeft": "solid",
+                        "@BorderRight": "solid",
+                        "@BorderTop": "solid",
+                        "@Valign": "top",
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "平成二十年八月二十八日から同月三十日までの間の豪雨による災害で、福島県双葉郡川内村及び奈良県吉野郡川上村の区域に係るもの"
+                        }
+                      }
+                    },
+                    {
+                      "TableColumn": {
+                        "@BorderBottom": "solid",
+                        "@BorderLeft": "solid",
+                        "@BorderRight": "solid",
+                        "@BorderTop": "solid",
+                        "@Valign": "top",
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "平成二十年九月二日及び同月三日の豪雨による災害で、岐阜県本巣市、不破郡垂井町及び揖斐郡揖斐川町、三重県いなべ市並びに滋賀県東近江市の区域に係るもの"
+                        }
+                      }
+                    },
+                    {
+                      "TableColumn": {
+                        "@BorderBottom": "solid",
+                        "@BorderLeft": "solid",
+                        "@BorderRight": "solid",
+                        "@BorderTop": "solid",
+                        "@Valign": "top",
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "平成二十年九月三日から十月三十日までの間の地滑りによる災害で、北海道中川郡中川町の区域に係るもの"
+                        }
+                      }
+                    },
+                    {
+                      "TableColumn": {
+                        "@BorderBottom": "solid",
+                        "@BorderLeft": "solid",
+                        "@BorderRight": "solid",
+                        "@BorderTop": "solid",
+                        "@Valign": "top",
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "平成二十年九月二十九日から十月一日までの間の暴風雨による災害で、宮崎県延岡市及び東臼杵郡椎葉村の区域に係るもの"
+                        }
+                      }
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "@BorderBottom": "none",
+                          "@BorderLeft": "solid",
+                          "@BorderRight": "solid",
+                          "@BorderTop": "solid",
+                          "@Valign": "top",
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "平成二十年岩手・宮城内陸地震による災害で、次に掲げる市村の区域に係るもの"
+                          }
+                        },
+                        {
+                          "@BorderBottom": "none",
+                          "@BorderLeft": "solid",
+                          "@BorderRight": "solid",
+                          "@BorderTop": "solid",
+                          "@Valign": "top",
+                          "Sentence": {
+                            "@WritingMode": "vertical"
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "@BorderBottom": "none",
+                          "@BorderLeft": "solid",
+                          "@BorderRight": "solid",
+                          "@BorderTop": "none",
+                          "@Valign": "top",
+                          "Item": {
+                            "@Delete": "false",
+                            "@Hide": "false",
+                            "@Num": "1",
+                            "ItemTitle": "イ",
+                            "ItemSentence": {
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "秋田県雄勝郡東成瀬村"
+                              }
+                            }
+                          }
+                        },
+                        {
+                          "@BorderBottom": "none",
+                          "@BorderLeft": "solid",
+                          "@BorderRight": "solid",
+                          "@BorderTop": "none",
+                          "@Valign": "top",
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "法第三条、第四条並びに第二十四条第一項、第三項及び第四項に規定する措置"
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "@BorderBottom": "none",
+                          "@BorderLeft": "solid",
+                          "@BorderRight": "solid",
+                          "@BorderTop": "none",
+                          "@Valign": "top",
+                          "Item": {
+                            "@Delete": "false",
+                            "@Hide": "false",
+                            "@Num": "2",
+                            "ItemTitle": "ロ",
+                            "ItemSentence": {
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "岩手県奥州市及び宮城県栗原市"
+                              }
+                            }
+                          }
+                        },
+                        {
+                          "@BorderBottom": "none",
+                          "@BorderLeft": "solid",
+                          "@BorderRight": "solid",
+                          "@BorderTop": "none",
+                          "@Valign": "top",
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "法第三条から第六条まで及び第二十四条に規定する措置"
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "@BorderBottom": "solid",
+                          "@BorderLeft": "solid",
+                          "@BorderRight": "solid",
+                          "@BorderTop": "none",
+                          "@Valign": "top",
+                          "Item": {
+                            "@Delete": "false",
+                            "@Hide": "false",
+                            "@Num": "3",
+                            "ItemTitle": "ハ",
+                            "ItemSentence": {
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "岩手県一関市"
+                              }
+                            }
+                          }
+                        },
+                        {
+                          "@BorderBottom": "solid",
+                          "@BorderLeft": "solid",
+                          "@BorderRight": "solid",
+                          "@BorderTop": "none",
+                          "@Valign": "top",
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "法第五条、第六条及び第二十四条第二項から第四項までに規定する措置"
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "@BorderBottom": "none",
+                          "@BorderLeft": "solid",
+                          "@BorderRight": "solid",
+                          "@BorderTop": "solid",
+                          "@Valign": "top",
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "平成二十年六月二十八日から同月三十日までの間の豪雨による災害で、次に掲げる市町村の区域に係るもの"
+                          }
+                        },
+                        {
+                          "@BorderBottom": "none",
+                          "@BorderLeft": "solid",
+                          "@BorderRight": "solid",
+                          "@BorderTop": "solid",
+                          "@Valign": "top",
+                          "Sentence": {
+                            "@WritingMode": "vertical"
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "@BorderBottom": "none",
+                          "@BorderLeft": "solid",
+                          "@BorderRight": "solid",
+                          "@BorderTop": "none",
+                          "@Valign": "top",
+                          "Item": {
+                            "@Delete": "false",
+                            "@Hide": "false",
+                            "@Num": "1",
+                            "ItemTitle": "イ",
+                            "ItemSentence": {
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "高知県安芸郡安田町"
+                              }
+                            }
+                          }
+                        },
+                        {
+                          "@BorderBottom": "none",
+                          "@BorderLeft": "solid",
+                          "@BorderRight": "solid",
+                          "@BorderTop": "none",
+                          "@Valign": "top",
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "法第三条、第四条並びに第二十四条第一項、第三項及び第四項に規定する措置"
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "@BorderBottom": "solid",
+                          "@BorderLeft": "solid",
+                          "@BorderRight": "solid",
+                          "@BorderTop": "none",
+                          "@Valign": "top",
+                          "Item": {
+                            "@Delete": "false",
+                            "@Hide": "false",
+                            "@Num": "2",
+                            "ItemTitle": "ロ",
+                            "ItemSentence": {
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "石川県鳳珠郡能登町、長野県北安曇郡小谷村、和歌山県田辺市、徳島県海部郡美波町及び高知県安芸郡馬路村"
+                              }
+                            }
+                          }
+                        },
+                        {
+                          "@BorderBottom": "solid",
+                          "@BorderLeft": "solid",
+                          "@BorderRight": "solid",
+                          "@BorderTop": "none",
+                          "@Valign": "top",
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "法第五条及び第二十四条第二項から第四項までに規定する措置"
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "@BorderBottom": "none",
+                          "@BorderLeft": "solid",
+                          "@BorderRight": "solid",
+                          "@BorderTop": "solid",
+                          "@Valign": "top",
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "平成二十年七月二十七日から同月二十九日までの間の豪雨による災害で、次に掲げる市町の区域に係るもの"
+                          }
+                        },
+                        {
+                          "@BorderBottom": "none",
+                          "@BorderLeft": "solid",
+                          "@BorderRight": "solid",
+                          "@BorderTop": "solid",
+                          "@Valign": "top",
+                          "Sentence": {
+                            "@WritingMode": "vertical"
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "@BorderBottom": "none",
+                          "@BorderLeft": "solid",
+                          "@BorderRight": "solid",
+                          "@BorderTop": "none",
+                          "@Valign": "top",
+                          "Item": {
+                            "@Delete": "false",
+                            "@Hide": "false",
+                            "@Num": "1",
+                            "ItemTitle": "イ",
+                            "ItemSentence": {
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "京都府与謝郡伊根町"
+                              }
+                            }
+                          }
+                        },
+                        {
+                          "@BorderBottom": "none",
+                          "@BorderLeft": "solid",
+                          "@BorderRight": "solid",
+                          "@BorderTop": "none",
+                          "@Valign": "top",
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "法第五条及び第二十四条第二項から第四項までに規定する措置"
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "@BorderBottom": "solid",
+                          "@BorderLeft": "solid",
+                          "@BorderRight": "solid",
+                          "@BorderTop": "none",
+                          "@Valign": "top",
+                          "Item": {
+                            "@Delete": "false",
+                            "@Hide": "false",
+                            "@Num": "2",
+                            "ItemTitle": "ロ",
+                            "ItemSentence": {
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "富山県南砺市及び石川県金沢市"
+                              }
+                            }
+                          }
+                        },
+                        {
+                          "@BorderBottom": "solid",
+                          "@BorderLeft": "solid",
+                          "@BorderRight": "solid",
+                          "@BorderTop": "none",
+                          "@Valign": "top",
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "法第五条、第六条及び第二十四条第二項から第四項までに規定する措置"
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "@BorderBottom": "none",
+                          "@BorderLeft": "solid",
+                          "@BorderRight": "solid",
+                          "@BorderTop": "solid",
+                          "@Valign": "top",
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "平成二十年九月十二日から同月十九日までの間の豪雨及び暴風雨による災害で、次に掲げる市町村の区域に係るもの"
+                          }
+                        },
+                        {
+                          "@BorderBottom": "none",
+                          "@BorderLeft": "solid",
+                          "@BorderRight": "solid",
+                          "@BorderTop": "solid",
+                          "@Valign": "top",
+                          "Sentence": {
+                            "@WritingMode": "vertical"
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "@BorderBottom": "none",
+                          "@BorderLeft": "solid",
+                          "@BorderRight": "solid",
+                          "@BorderTop": "none",
+                          "@Valign": "top",
+                          "Item": {
+                            "@Delete": "false",
+                            "@Hide": "false",
+                            "@Num": "1",
+                            "ItemTitle": "イ",
+                            "ItemSentence": {
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "和歌山県新宮市"
+                              }
+                            }
+                          }
+                        },
+                        {
+                          "@BorderBottom": "none",
+                          "@BorderLeft": "solid",
+                          "@BorderRight": "solid",
+                          "@BorderTop": "none",
+                          "@Valign": "top",
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "法第三条、第四条並びに第二十四条第一項、第三項及び第四項に規定する措置"
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "@BorderBottom": "none",
+                          "@BorderLeft": "solid",
+                          "@BorderRight": "solid",
+                          "@BorderTop": "none",
+                          "@Valign": "top",
+                          "Item": {
+                            "@Delete": "false",
+                            "@Hide": "false",
+                            "@Num": "2",
+                            "ItemTitle": "ロ",
+                            "ItemSentence": {
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "宮崎県東臼杵郡美郷町及び沖縄県八重山郡与那国町"
+                              }
+                            }
+                          }
+                        },
+                        {
+                          "@BorderBottom": "none",
+                          "@BorderLeft": "solid",
+                          "@BorderRight": "solid",
+                          "@BorderTop": "none",
+                          "@Valign": "top",
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "法第三条から第五条まで及び第二十四条に規定する措置"
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "@BorderBottom": "solid",
+                          "@BorderLeft": "solid",
+                          "@BorderRight": "solid",
+                          "@BorderTop": "none",
+                          "@Valign": "top",
+                          "Item": {
+                            "@Delete": "false",
+                            "@Hide": "false",
+                            "@Num": "3",
+                            "ItemTitle": "ハ",
+                            "ItemSentence": {
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "三重県尾鷲市、志摩市及び北牟婁郡紀北町、徳島県吉野川市、大分県佐伯市、宮崎県東臼杵郡諸塚村並びに鹿児島県薩摩川内市及び奄美市"
+                              }
+                            }
+                          }
+                        },
+                        {
+                          "@BorderBottom": "solid",
+                          "@BorderLeft": "solid",
+                          "@BorderRight": "solid",
+                          "@BorderTop": "none",
+                          "@Valign": "top",
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "法第五条及び第二十四条第二項から第四項までに規定する措置"
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": {
+                        "@BorderBottom": "solid",
+                        "@BorderLeft": "solid",
+                        "@BorderRight": "solid",
+                        "@BorderTop": "solid",
+                        "@Valign": "top",
+                        "@colspan": "2",
+                        "Remarks": {
+                          "RemarksLabel": {
+                            "@LineBreak": "true",
+                            "#text": "備考"
+                          },
+                          "Item": [
+                            {
+                              "@Delete": "false",
+                              "@Hide": "false",
+                              "@Num": "1",
+                              "ItemTitle": "一",
+                              "ItemSentence": {
+                                "Sentence": {
+                                  "@WritingMode": "vertical",
+                                  "#text": "この表に掲げる区域は、平成二十年十二月三十一日における行政区画によって表示されたものとする。"
+                                }
+                              }
+                            },
+                            {
+                              "@Delete": "false",
+                              "@Hide": "false",
+                              "@Num": "2",
+                              "ItemTitle": "二",
+                              "ItemSentence": {
+                                "Sentence": {
+                                  "@WritingMode": "vertical",
+                                  "#text": "平成二十年九月二十九日から十月一日までの間の暴風雨による災害に係る暴風雨とは、同年台風第十五号（同年九月二十四日に北緯十二度三十五分東経百三十六度三十分において台風となった熱帯低気圧で、同年十月一日に北緯二十九度五十五分東経百三十度二十五分において温帯低気圧となったものをいう。）によるものをいう。"
+                                }
+                              }
+                            },
+                            {
+                              "@Delete": "false",
+                              "@Hide": "false",
+                              "@Num": "3",
+                              "ItemTitle": "三",
+                              "ItemSentence": {
+                                "Sentence": {
+                                  "@WritingMode": "vertical",
+                                  "#text": "平成二十年九月十二日から同月十九日までの間の豪雨及び暴風雨による災害に係る暴風雨とは、同年台風第十三号（同月九日に北緯十六度四十分東経百二十五度四十分において台風となった熱帯低気圧で、同月二十一日に北緯三十五度東経百五十二度五十分において温帯低気圧となったものをいう。）によるものをいう。"
+                                }
+                              }
+                            }
+                          ]
+                        }
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "2",
+            "ArticleCaption": "（都道府県に係る特例）",
+            "ArticleTitle": "第二条",
+            "Paragraph": {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "Ruby": {
+                    "Rt": "じん",
+                    "#text": "甚"
+                  },
+                  "#text": "前条の規定により激甚災害として指定される災害は、都道府県についての激災害に対処するための特別の財政援助等に関する法律施行令（昭和三十七年政令第四百三号）第一条第一項及び第四十三条第一項の規定の適用並びに都道府県の負担額の算定についての同令第七条第一項の規定の適用については、これらの規定にいう激甚災害には含まれないものとする。"
+                }
+              }
+            }
+          }
+        ]
+      },
+      "SupplProvision": {
+        "SupplProvisionLabel": "附　則",
+        "Paragraph": [
+          {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphCaption": "（施行期日）",
+            "ParagraphNum": "１",
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この政令は、公布の日から施行する。"
+              }
+            }
+          },
+          {
+            "@Hide": "false",
+            "@Num": "2",
+            "ParagraphCaption": "（関係政令の廃止）",
+            "ParagraphNum": "２",
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "次に掲げる政令は、廃止する。"
+              }
+            },
+            "Item": [
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "1",
+                "ItemTitle": "一",
+                "ItemSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "平成二十年岩手・宮城内陸地震による岩手県奥州市等の区域に係る災害についての激甚災害及びこれに対し適用すべき措置の指定に関する政令（平成二十年政令第二百二十二号）"
+                  }
+                }
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "2",
+                "ItemTitle": "二",
+                "ItemSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "平成二十年七月二十七日から同月二十九日までの間の豪雨による富山県南砺市及び石川県金沢市の区域に係る災害についての激甚災害並びにこれに対し適用すべき措置の指定に関する政令（平成二十年政令第二百七十二号）"
+                  }
+                }
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "Law": {
+    "@Era": "Showa",
+    "@Lang": "ja",
+    "@LawType": "CabinetOrder",
+    "@Num": "234",
+    "@Year": "38",
+    "LawNum": "昭和三十八年政令第二百三十四号",
+    "LawBody": {
+      "LawTitle": "外国政府の財産の処分等に伴つて生ずる現金の保管に関する政令",
+      "EnactStatement": "内閣は、会計法（昭和二十二年法律第三十五号）第三十三条の規定に基づき、この政令を制定する。",
+      "MainProvision": {
+        "Paragraph": {
+          "@Hide": "false",
+          "@Num": "1",
+          "ParagraphNum": null,
+          "ParagraphSentence": {
+            "Sentence": {
+              "@WritingMode": "vertical",
+              "#text": "各省各庁の長（財政法（昭和二十二年法律第三十四号）第二十条第二項に規定する各省各庁の長をいう。）は、外国政府の財産の処分又は管理に伴つて生ずる現金を保管することができる。"
+            }
+          }
+        }
+      },
+      "SupplProvision": [
+        {
+          "@Extract": "false",
+          "@Type": "New",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この政令は、公布の日から施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成一二年六月七日政令第三〇七号",
+          "@Extract": "true",
+          "@Type": "Amend",
+          "SupplProvisionLabel": "附　則",
+          "Article": {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "1",
+            "ArticleCaption": "（施行期日）",
+            "ArticleTitle": "第一条",
+            "Paragraph": {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "この政令は、平成十三年一月六日から施行する。"
+                }
+              }
+            }
+          }
+        }
+      ]
+    }
+  }
+}

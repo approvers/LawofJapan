@@ -1,0 +1,86 @@
+{
+  "Law": {
+    "@Era": "Showa",
+    "@Lang": "ja",
+    "@LawType": "MinisterialOrdinance",
+    "@Num": "001",
+    "@Year": "46",
+    "LawNum": "昭和四十六年総理府・厚生省令第一号",
+    "LawBody": {
+      "LawTitle": "交通公害に係る大気の汚染、騒音及び振動を定める命令",
+      "EnactStatement": "道路交通法第二条第二十二号の規定に基づき、交通公害に係る大気の汚染、騒音及び振動を定める命令を次のように定める。",
+      "MainProvision": {
+        "Paragraph": {
+          "@Num": "1",
+          "ParagraphNum": null,
+          "ParagraphSentence": {
+            "Sentence": "道路交通法（昭和三十五年法律第百五号）第二条第一項第二十三号の内閣府令・環境省令で定めるものは、次の各号に掲げる大気の汚染、騒音及び振動であつて、当該区域において人の健康を保護し、及び生活環境を保全する上で維持されることが望ましい限度を超えるものとする。"
+          },
+          "Item": [
+            {
+              "@Num": "1",
+              "ItemTitle": "一",
+              "ItemSentence": {
+                "Sentence": "道路を通行する自動車又は原動機付自転車から排出される一酸化炭素、炭化水素、鉛化合物、窒素酸化物又は粒子状物質に起因する大気の汚染"
+              }
+            },
+            {
+              "@Num": "2",
+              "ItemTitle": "二",
+              "ItemSentence": {
+                "Sentence": "自動車又は原動機付自転車の通行に伴つて発生する騒音及び振動"
+              }
+            }
+          ]
+        }
+      },
+      "SupplProvision": [
+        {
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この命令は、昭和四十六年六月二十四日から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "昭和四六年七月一日総理府令第四一号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この府令は、公布の日から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "昭和四七年四月八日総理府令第一三号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この府令は、公布の日から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成一二年八月一四日総理府令第八九号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphCaption": "（施行期日）",
+            "ParagraphNum": "１",
+            "ParagraphSentence": {
+              "Sentence": "この府令は、内閣法の一部を改正する法律（平成十一年法律第八十八号）の施行の日（平成十三年一月六日）から施行する。"
+            }
+          }
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,311 @@
+{
+  "Law": {
+    "@Era": "Heisei",
+    "@Lang": "ja",
+    "@LawType": "MinisterialOrdinance",
+    "@Num": "1",
+    "@Year": "04",
+    "LawNum": "平成四年文部省・農林水産省・通商産業省・運輸省・自治省令第一号",
+    "LawBody": {
+      "LawTitle": "地域伝統芸能等を活用した行事等に係る支援事業実施機関に関する省令",
+      "EnactStatement": "地域伝統芸能等を活用した行事の実施による観光及び特定地域商工業の振興に関する法律（平成四年法律第八十八号）第三十条の規定に基づき、地域伝統芸能等を活用した行事等に係る支援事業実施機関に関する省令を次のように定める。",
+      "MainProvision": {
+        "Article": [
+          {
+            "@Num": "1",
+            "ArticleCaption": "（指定の申請）",
+            "ArticleTitle": "第一条",
+            "Paragraph": [
+              {
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": "地域伝統芸能等を活用した行事の実施による観光及び特定地域商工業の振興に関する法律（以下「法」という。）第八条の規定により支援事業実施機関の指定を申請しようとする法人は、次に掲げる事項を記載した支援事業実施機関指定申請書を提出しなければならない。"
+                },
+                "Item": [
+                  {
+                    "@Num": "1",
+                    "ItemTitle": "一",
+                    "ItemSentence": {
+                      "Sentence": "名称及び住所並びに代表者の氏名"
+                    }
+                  },
+                  {
+                    "@Num": "2",
+                    "ItemTitle": "二",
+                    "ItemSentence": {
+                      "Sentence": "事務所の所在地"
+                    }
+                  },
+                  {
+                    "@Num": "3",
+                    "ItemTitle": "三",
+                    "ItemSentence": {
+                      "Sentence": "法第九条に規定する事業（以下「支援事業」という。）の開始の予定日"
+                    }
+                  }
+                ]
+              },
+              {
+                "@Num": "2",
+                "ParagraphNum": "２",
+                "ParagraphSentence": {
+                  "Sentence": "前項の申請書には、次に掲げる書類を添付しなければならない。"
+                },
+                "Item": [
+                  {
+                    "@Num": "1",
+                    "ItemTitle": "一",
+                    "ItemSentence": {
+                      "Sentence": "定款及び登記事項証明書"
+                    }
+                  },
+                  {
+                    "@Num": "2",
+                    "ItemTitle": "二",
+                    "ItemSentence": {
+                      "Sentence": [
+                        {
+                          "@Function": "main",
+                          "@Num": "1",
+                          "#text": "申請の日の属する事業年度の前事業年度における貸借対照表。"
+                        },
+                        {
+                          "@Function": "proviso",
+                          "@Num": "2",
+                          "#text": "ただし、申請の日の属する事業年度に設立された法人にあっては、その設立時における財産目録とする。"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "@Num": "3",
+                    "ItemTitle": "三",
+                    "ItemSentence": {
+                      "Sentence": "役員の名簿及び履歴書"
+                    }
+                  },
+                  {
+                    "@Num": "4",
+                    "ItemTitle": "四",
+                    "ItemSentence": {
+                      "Sentence": "指定の申請に関する意思の決定を証する書類"
+                    }
+                  },
+                  {
+                    "@Num": "5",
+                    "ItemTitle": "五",
+                    "ItemSentence": {
+                      "Sentence": "組織及び運営に関する事項を記載した書類"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "@Num": "2",
+            "ArticleCaption": "（指定の公示等）",
+            "ArticleTitle": "第二条",
+            "Paragraph": [
+              {
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": "主務大臣は、法第八条の規定による支援事業実施機関の指定をしたときは、支援事業実施機関の名称及び住所並びに事務所の所在地を官報で公示しなければならない。"
+                }
+              },
+              {
+                "@Num": "2",
+                "ParagraphNum": "２",
+                "ParagraphSentence": {
+                  "Sentence": "支援事業実施機関は、その名称若しくは住所又は事務所の所在地を変更しようとするときは、あらかじめ、次に掲げる事項を主務大臣に届け出なければならない。"
+                },
+                "Item": [
+                  {
+                    "@Num": "1",
+                    "ItemTitle": "一",
+                    "ItemSentence": {
+                      "Sentence": "変更後の名称若しくは住所又は事務所の所在地"
+                    }
+                  },
+                  {
+                    "@Num": "2",
+                    "ItemTitle": "二",
+                    "ItemSentence": {
+                      "Sentence": "変更の予定日"
+                    }
+                  }
+                ]
+              },
+              {
+                "@Num": "3",
+                "ParagraphNum": "３",
+                "ParagraphSentence": {
+                  "Sentence": "主務大臣は、前項の届出があったときは、その旨を官報で公示しなければならない。"
+                }
+              }
+            ]
+          },
+          {
+            "@Num": "3",
+            "ArticleCaption": "（支援事業に係る事業計画書等）",
+            "ArticleTitle": "第三条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "支援事業実施機関は、毎事業年度、次の各号に掲げる書類を作成し、当該各号に定めるところにより、主務大臣に提出しなければならない。"
+              },
+              "Item": [
+                {
+                  "@Num": "1",
+                  "ItemTitle": "一",
+                  "ItemSentence": {
+                    "Column": [
+                      {
+                        "@Num": "1",
+                        "Sentence": "支援事業に係る事業計画書及び収支予算書"
+                      },
+                      {
+                        "@Num": "2",
+                        "Sentence": "当該事業年度の開始の日の十五日前までに（法第八条の規定による指定を受けた日の属する事業年度にあっては、その指定を受けた後遅滞なく）"
+                      }
+                    ]
+                  }
+                },
+                {
+                  "@Num": "2",
+                  "ItemTitle": "二",
+                  "ItemSentence": {
+                    "Column": [
+                      {
+                        "@Num": "1",
+                        "Sentence": "支援事業に係る事業報告書及び収支決算書"
+                      },
+                      {
+                        "@Num": "2",
+                        "Sentence": "当該事業年度の終了後三月以内に"
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "@Num": "4",
+            "ArticleCaption": "（指定の取消しの公示）",
+            "ArticleTitle": "第四条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "主務大臣は、法第十一条の規定により支援事業実施機関の指定を取り消したときは、その旨を官報で公示しなければならない。"
+              }
+            }
+          },
+          {
+            "@Num": "5",
+            "ArticleCaption": "（検査員証）",
+            "ArticleTitle": "第五条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "法第二十五条第一項の規定による立入検査をする職員の身分を示す同条第三項の証明書は、別記様式によるものとする。"
+              }
+            }
+          },
+          {
+            "@Num": "6",
+            "ArticleCaption": "（聴聞）",
+            "ArticleTitle": "第六条",
+            "Paragraph": [
+              {
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": "法第十一条の規定による処分に係る聴聞の手続については、国土交通省聴聞手続規則（平成十二年／総理府／運輸省／建設省／令第一号）第二条から第十三条までの規定を準用する。"
+                }
+              },
+              {
+                "@Num": "2",
+                "ParagraphNum": "２",
+                "ParagraphSentence": {
+                  "Sentence": "主務大臣は、前項の聴聞を行うに当たっては、聴聞を行うべき期日の十日前までに、行政手続法（平成五年法律第八十八号）第十五条第一項の規定による通知をしなければならない。"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      "SupplProvision": [
+        {
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この省令は、法の施行の日（平成四年九月二十五日）から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成六年一〇月一二日文部省・農林水産省・通商産業省・運輸省・自治省令第一号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この省令は、公布の日から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成一二年一二月一四日文部省・農林水産省・通商産業省・運輸省・自治省令第一号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この省令は、平成十三年一月六日から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成一七年三月七日総務省・文部科学省・農林水産省・経済産業省・国土交通省令第一号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この省令は、不動産登記法の施行に伴う関係法律の整備等に関する法律の施行の日（平成十七年三月七日）から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成二〇年一二月一日総務省・文部科学省・農林水産省・経済産業省・国土交通省令第一号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この省令は、公布の日から施行する。"
+            }
+          }
+        }
+      ],
+      "AppdxStyle": {
+        "AppdxStyleTitle": "別記様式（第５条関係）",
+        "StyleStruct": {
+          "Style": {
+            "Fig": {
+              "@src": ""
+            }
+          }
+        }
+      }
+    }
+  }
+}

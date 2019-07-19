@@ -1,0 +1,132 @@
+{
+  "Law": {
+    "@Era": "Showa",
+    "@Lang": "ja",
+    "@LawType": "CabinetOrder",
+    "@Num": "316",
+    "@Year": "44",
+    "LawNum": "昭和四十四年政令第三百十六号",
+    "LawBody": {
+      "LawTitle": "開拓者資金に係る政府の貸付金債権の償還条件の緩和及び農林漁業金融公庫への移管等に関する特別措置法施行令",
+      "EnactStatement": "内閣は、開拓者資金に係る政府の貸付金債権の償還条件の緩和及び農林漁業金融公庫への移管等に関する特別措置法（昭和四十四年法律第八十号）第四条第一項及び第十四条第二項の規定に基づき、この政令を制定する。",
+      "MainProvision": {
+        "Article": [
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "1",
+            "ArticleCaption": "（特定開拓者の範囲）",
+            "ArticleTitle": "第一条",
+            "Paragraph": {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "開拓者資金に係る政府の貸付金債権の償還条件の緩和及び農林漁業金融公庫への移管等に関する特別措置法（以下「法」という。）第四条第一項の政令で定める開拓者は、年間総所得金額が専業農家の平均年間総所得金額を基礎として農林省令で定める額をこえる者（負債の年間要償還額が農林省令で定める基準をこえる者を除く。）以外の者であつて、その者に対する同項の貸付契約に係る政府の貸付金債権に対応するその者の債務（法第五条第一項又は第二項の三者間の契約に基づきその者が引き受ける債務を含む。）につき法第三条第一項又は第二項の規定により償還条件を緩和する措置によつては、その償還が著しく困難であると認められるものとする。"
+                }
+              }
+            }
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "2",
+            "ArticleCaption": "（承継基準日）",
+            "ArticleTitle": "第二条",
+            "Paragraph": {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "法第十四条第二項の政令で定める日は、昭和四十五年六月一日、同年十二月一日、昭和四十六年六月一日、同年十二月一日及び昭和四十七年三月三十一日とする。"
+                }
+              }
+            }
+          }
+        ]
+      },
+      "SupplProvision": {
+        "@Extract": "true",
+        "SupplProvisionLabel": "附　則",
+        "Paragraph": [
+          {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphCaption": "（施行期日）",
+            "ParagraphNum": "１",
+            "ParagraphSentence": {
+              "Sentence": [
+                {
+                  "@Function": "main",
+                  "@Num": "1",
+                  "@WritingMode": "vertical",
+                  "#text": "この政令は、法の施行の日（昭和四十五年三月一日）から施行する。"
+                },
+                {
+                  "@Function": "proviso",
+                  "@Num": "2",
+                  "@WritingMode": "vertical",
+                  "#text": "ただし、次項から附則第六項までの規定は、昭和四十七年四月一日から施行する。"
+                }
+              ]
+            }
+          },
+          {
+            "@Hide": "false",
+            "@Num": "2",
+            "ParagraphCaption": "（開拓者資金融通特別会計法施行令等の廃止）",
+            "ParagraphNum": "２",
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "次に掲げる命令は、廃止する。"
+              }
+            },
+            "Item": [
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "1",
+                "ItemTitle": "一",
+                "ItemSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "開拓者資金融通特別会計法施行令（昭和二十二年勅令第三十三号）"
+                  }
+                }
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "2",
+                "ItemTitle": "二",
+                "ItemSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "開拓者資金融通法施行令（昭和二十七年政令第二百五十八号）"
+                  }
+                }
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "3",
+                "ItemTitle": "三",
+                "ItemSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "開拓者資金融通法による政府の貸付金の償還条件の緩和等に関する特別措置法施行令（昭和三十五年政令第二百三十六号）"
+                  }
+                }
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

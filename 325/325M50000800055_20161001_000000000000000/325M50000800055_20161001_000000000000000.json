@@ -1,0 +1,438 @@
+{
+  "Law": {
+    "@Era": "Showa",
+    "@Lang": "ja",
+    "@LawType": "MinisterialOrdinance",
+    "@Num": "055",
+    "@Year": "25",
+    "LawNum": "昭和二十五年運輸省令第五十五号",
+    "LawBody": {
+      "LawTitle": "水路業務法施行規則",
+      "EnactStatement": "水路業務法施行規則を次のように定める。",
+      "MainProvision": {
+        "Article": [
+          {
+            "@Num": "1",
+            "ArticleCaption": "（水路測量の種類及び形状）",
+            "ArticleTitle": "第一条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "水路業務法（昭和二十五年法律第百二号）（以下「法」という。）第五条第二項に規定する水路測量標の種類は、恒久標識及び仮設標識とし、それらの形状は、別表第一のとおりとする。"
+              }
+            }
+          },
+          {
+            "@Num": "2",
+            "ArticleCaption": "（水路測量許可申請書の様式）",
+            "ArticleTitle": "第二条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "法第六条の許可を受けようとする者は、別表第二の様式による許可申請書を海上保安庁長官に提出しなければならない。"
+              }
+            }
+          },
+          {
+            "@Num": "3",
+            "ArticleCaption": "（許可を要しない水路測量）",
+            "ArticleTitle": "第三条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "法第六条但書の規定により、海上保安庁長官の許可を受けることを要しない場合は、左の通りとする。"
+              },
+              "Item": [
+                {
+                  "@Num": "1",
+                  "ItemTitle": "一",
+                  "ItemSentence": {
+                    "Sentence": "地球物理学、海洋学、地形学、地質学及び生物学の調査及び研究のために水路測量を行う場合"
+                  }
+                },
+                {
+                  "@Num": "2",
+                  "ItemTitle": "二",
+                  "ItemSentence": {
+                    "Sentence": "港湾施設施工のために水路測量を行う場合"
+                  }
+                },
+                {
+                  "@Num": "3",
+                  "ItemTitle": "三",
+                  "ItemSentence": {
+                    "Sentence": "百万分の一未満の縮尺図を調製するために水路測量を行う場合"
+                  }
+                },
+                {
+                  "@Num": "4",
+                  "ItemTitle": "四",
+                  "ItemSentence": {
+                    "Sentence": "前各号に掲げる場合を除く外、高度の正確さを必要としない水路測量を行う場合"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "@Num": "4",
+            "ArticleCaption": "（水路測量の基準の特例）",
+            "ArticleTitle": "第四条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "法第九条第一項ただし書及び水路業務法施行令（平成十三年政令第四百三十三号。以下「政令」という。）第一条ただし書の国土交通省令で定める水路測量は、次の表の上欄に掲げる水路測量とし、法第九条第一項ただし書の国土交通省令で定める経緯度に関する測量の基準及び政令第一条ただし書の国土交通省令で定める測量の基準は、同表の上欄に掲げる水路測量ごとにそれぞれ同表の下欄に掲げる測量の基準とする。"
+              },
+              "TableStruct": {
+                "Table": {
+                  "TableRow": [
+                    {
+                      "TableColumn": [
+                        {
+                          "Sentence": "水路測量"
+                        },
+                        {
+                          "Sentence": "測量の基準"
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "Sentence": "専ら外国政府のために行う水路測量"
+                        },
+                        {
+                          "Sentence": "当該外国政府の要請による測量の基準"
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "Sentence": "外国政府と共同で行う水路測量"
+                        },
+                        {
+                          "Sentence": "当該外国政府との合意による測量の基準"
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "Sentence": "国際機関からの要請により行う水路測量"
+                        },
+                        {
+                          "Sentence": "当該国際機関の要請による測量の基準"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          {
+            "@Num": "5",
+            "ArticleCaption": "（身分を示す証票）",
+            "ArticleTitle": "第五条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "法第十二条第三項に規定する証票は、別表第三の通りとする。"
+              }
+            }
+          },
+          {
+            "@Num": "6",
+            "ArticleCaption": "（水路測量又は海象観測を行う船舶の標識）",
+            "ArticleTitle": "第六条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "法第十七条の規定により船舶に掲げる標識は、別表第四の通りとする。"
+              }
+            }
+          }
+        ]
+      },
+      "SupplProvision": [
+        {
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この省令は、公布の日から施行し、法施行の日（昭和二十五年七月十六日）から適用する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成元年七月二〇日運輸省令第二四号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この省令は、公布の日から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成六年三月三〇日運輸省令第一二号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": "１",
+            "ParagraphSentence": {
+              "Sentence": "この省令は、公布の日から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成七年五月八日運輸省令第三〇号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この省令は、公布の日から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成九年一二月一五日運輸省令第八六号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この省令は、平成十年一月一日から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成一二年一一月二九日運輸省令第三九号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Article": {
+            "@Num": "1",
+            "ArticleCaption": "（施行期日）",
+            "ArticleTitle": "第一条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "この省令は、平成十三年一月六日から施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成一四年四月一日国土交通省令第五四号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": [
+            {
+              "@Num": "1",
+              "ParagraphCaption": "（施行期日）",
+              "ParagraphNum": "１",
+              "ParagraphSentence": {
+                "Sentence": "この省令は、測量法及び水路業務法の一部を改正する法律の施行の日（平成十四年四月一日）から施行する。"
+              }
+            },
+            {
+              "@Num": "2",
+              "ParagraphCaption": "（経過措置）",
+              "ParagraphNum": "２",
+              "ParagraphSentence": {
+                "Sentence": "この省令の施行の際、現に設置されている測点標石及び基本水準標石はこの省令による改正後の水路業務法施行規則（以下「新規則」という。）の恒久標識と、現に設置されている標旗は新規則の仮設標識とみなす。"
+              }
+            }
+          ]
+        },
+        {
+          "@AmendLawNum": "平成一九年三月一四日国土交通省令第一二号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この省令は、平成十九年四月一日から施行する。"
+            }
+          }
+        }
+      ],
+      "AppdxTable": [
+        {
+          "AppdxTableTitle": "別表第一",
+          "RelatedArticleNum": "（第一条関係）",
+          "Item": [
+            {
+              "@Num": "1",
+              "ItemTitle": "一",
+              "ItemSentence": {
+                "Sentence": "恒久標識の形状"
+              },
+              "FigStruct": {
+                "Fig": {
+                  "@src": "./pict/S25F03901000055-001.jpg"
+                },
+                "Remarks": {
+                  "RemarksLabel": "備考",
+                  "Item": [
+                    {
+                      "@Num": "1",
+                      "ItemTitle": "１",
+                      "ItemSentence": {
+                        "Sentence": "上部平面の形状は、直径が五センチメートル以上十センチメートル以下の円とする。"
+                      }
+                    },
+                    {
+                      "@Num": "2",
+                      "ItemTitle": "２",
+                      "ItemSentence": {
+                        "Sentence": "下部の形状は、恒久標識が移動しないように固定できる形状であるものとする。"
+                      }
+                    },
+                    {
+                      "@Num": "3",
+                      "ItemTitle": "３",
+                      "ItemSentence": {
+                        "Sentence": "上部平面の中央には、恒久標識の位置を示す十字符を刻むものとする。"
+                      }
+                    },
+                    {
+                      "@Num": "4",
+                      "ItemTitle": "４",
+                      "ItemSentence": {
+                        "Sentence": "上部平面には、図示の例により、次に掲げる文字を刻むものとする。"
+                      },
+                      "Subitem1": [
+                        {
+                          "@Num": "1",
+                          "Subitem1Title": "イ",
+                          "Subitem1Sentence": {
+                            "Sentence": "「水路測量標」の文字"
+                          }
+                        },
+                        {
+                          "@Num": "2",
+                          "Subitem1Title": "ロ",
+                          "Subitem1Sentence": {
+                            "Sentence": "「この水路測量標をき損移転すると水路業務法により罰せられます」の文字又は恒久標識を保全するための適切な文字"
+                          }
+                        },
+                        {
+                          "@Num": "3",
+                          "Subitem1Title": "ハ",
+                          "Subitem1Sentence": {
+                            "Sentence": "「海上保安庁」の文字又は海上保安庁以外の者が設置する場合においては当該者の名称若しくは略称の文字"
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "@Num": "5",
+                      "ItemTitle": "５",
+                      "ItemSentence": {
+                        "Sentence": "恒久標識の識別のため必要がある場合には、図示の「（記号・文字）」の位置に記号又は文字を刻むことができる。"
+                      }
+                    },
+                    {
+                      "@Num": "6",
+                      "ItemTitle": "６",
+                      "ItemSentence": {
+                        "Sentence": "恒久標識は、長期にわたり腐食することがなく、また、十字符が容易に摩滅することがない材質を用いるものとする。"
+                      }
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "@Num": "2",
+              "ItemTitle": "二",
+              "ItemSentence": {
+                "Sentence": "仮設標識の形状"
+              },
+              "FigStruct": {
+                "Fig": {
+                  "@src": "./pict/S25F03901000055-002.jpg"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "AppdxTableTitle": "別表第二",
+          "RelatedArticleNum": "（第二条関係）",
+          "TableStruct": {
+            "Table": {
+              "TableRow": {
+                "TableColumn": {
+                  "@BorderBottom": "none",
+                  "@BorderLeft": "none",
+                  "@BorderRight": "none",
+                  "@BorderTop": "none",
+                  "FigStruct": {
+                    "Fig": {
+                      "@src": "./pict/S25F03901000055-001.pdf"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        {
+          "AppdxTableTitle": "別表第三",
+          "RelatedArticleNum": "（第五条関係）",
+          "TableStruct": {
+            "Table": {
+              "TableRow": {
+                "TableColumn": {
+                  "@BorderBottom": "none",
+                  "@BorderLeft": "none",
+                  "@BorderRight": "none",
+                  "@BorderTop": "none",
+                  "FigStruct": {
+                    "Fig": {
+                      "@src": "./pict/S25F03901000055-003.jpg"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        {
+          "AppdxTableTitle": "別表第四",
+          "RelatedArticleNum": "（第六条関係）",
+          "TableStruct": {
+            "Table": {
+              "TableRow": {
+                "TableColumn": {
+                  "@BorderBottom": "none",
+                  "@BorderLeft": "none",
+                  "@BorderRight": "none",
+                  "@BorderTop": "none",
+                  "FigStruct": {
+                    "Fig": {
+                      "@src": "./pict/S25F03901000055-004.jpg"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      ]
+    }
+  }
+}

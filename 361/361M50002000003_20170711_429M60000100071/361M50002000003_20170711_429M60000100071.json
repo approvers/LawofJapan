@@ -1,0 +1,1286 @@
+{
+  "Law": {
+    "@Era": "Showa",
+    "@Lang": "ja",
+    "@LawType": "MinisterialOrdinance",
+    "@Num": "3",
+    "@Year": "61",
+    "LawNum": "昭和六十一年労働省令第三号",
+    "LawBody": {
+      "LawTitle": "女性労働基準規則",
+      "EnactStatement": "労働基準法（昭和二十二年法律第四十九号）第六十四条の二第二項及び第四項、第六十四条の三第一項第二号、第四号及び第五号、第六十四条の四、第六十四条の五第三項並びに第百十五条の二の規定に基づき、並びに同法を実施するため、女子労働基準規則を次のように定める。",
+      "MainProvision": {
+        "Article": [
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "1",
+            "ArticleCaption": "（坑内業務の就業制限の範囲）",
+            "ArticleTitle": "第一条",
+            "Paragraph": {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "労働基準法（以下「法」という。）第六十四条の二第二号の厚生労働省令で定める業務は、次のとおりとする。"
+                }
+              },
+              "Item": [
+                {
+                  "@Delete": "false",
+                  "@Hide": "false",
+                  "@Num": "1",
+                  "ItemTitle": "一",
+                  "ItemSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "人力により行われる土石、岩石若しくは鉱物（以下「鉱物等」という。）の掘削又は掘採の業務"
+                    }
+                  }
+                },
+                {
+                  "@Delete": "false",
+                  "@Hide": "false",
+                  "@Num": "2",
+                  "ItemTitle": "二",
+                  "ItemSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "動力により行われる鉱物等の掘削又は掘採の業務（遠隔操作により行うものを除く。）"
+                    }
+                  }
+                },
+                {
+                  "@Delete": "false",
+                  "@Hide": "false",
+                  "@Num": "3",
+                  "ItemTitle": "三",
+                  "ItemSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "発破による鉱物等の掘削又は掘採の業務"
+                    }
+                  }
+                },
+                {
+                  "@Delete": "false",
+                  "@Hide": "false",
+                  "@Num": "4",
+                  "ItemTitle": "四",
+                  "ItemSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "ずり、資材等の運搬若しくは覆工のコンクリートの打設等鉱物等の掘削又は掘採の業務に付随して行われる業務（鉱物等の掘削又は掘採に係る計画の作成、工程管理、品質管理、安全管理、保安管理その他の技術上の管理の業務並びに鉱物等の掘削又は掘採の業務に従事する者及び鉱物等の掘削又は掘採の業務に付随して行われる業務に従事する者の技術上の指導監督の業務を除く。）"
+                    }
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "2",
+            "ArticleCaption": "（危険有害業務の就業制限の範囲等）",
+            "ArticleTitle": "第二条",
+            "Paragraph": [
+              {
+                "@Hide": "false",
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "法第六十四条の三第一項の規定により妊娠中の女性を就かせてはならない業務は、次のとおりとする。"
+                  }
+                },
+                "Item": [
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "1",
+                    "ItemTitle": "一",
+                    "ItemSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "次の表の上欄に掲げる年齢の区分に応じ、それぞれ同表の下欄に掲げる重量以上の重量物を取り扱う業務"
+                      }
+                    },
+                    "TableStruct": {
+                      "Table": {
+                        "@WritingMode": "vertical",
+                        "TableRow": [
+                          {
+                            "TableColumn": [
+                              {
+                                "@BorderBottom": "solid",
+                                "@BorderLeft": "solid",
+                                "@BorderRight": "solid",
+                                "@BorderTop": "solid",
+                                "@rowspan": "2",
+                                "Sentence": {
+                                  "@WritingMode": "vertical",
+                                  "#text": "年齢"
+                                }
+                              },
+                              {
+                                "@BorderBottom": "solid",
+                                "@BorderLeft": "solid",
+                                "@BorderRight": "solid",
+                                "@BorderTop": "solid",
+                                "Sentence": {
+                                  "@WritingMode": "vertical",
+                                  "#text": "重量（単位　キログラム）"
+                                }
+                              },
+                              {
+                                "@BorderBottom": "solid",
+                                "@BorderLeft": "solid",
+                                "@BorderRight": "solid",
+                                "@BorderTop": "solid",
+                                "Sentence": {
+                                  "@WritingMode": "vertical"
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "TableColumn": [
+                              {
+                                "@BorderBottom": "solid",
+                                "@BorderLeft": "solid",
+                                "@BorderRight": "solid",
+                                "@BorderTop": "solid",
+                                "Sentence": {
+                                  "@WritingMode": "vertical",
+                                  "#text": "断続作業の場合"
+                                }
+                              },
+                              {
+                                "@BorderBottom": "solid",
+                                "@BorderLeft": "solid",
+                                "@BorderRight": "solid",
+                                "@BorderTop": "solid",
+                                "Sentence": {
+                                  "@WritingMode": "vertical",
+                                  "#text": "継続作業の場合"
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "TableColumn": [
+                              {
+                                "@BorderBottom": "solid",
+                                "@BorderLeft": "solid",
+                                "@BorderRight": "solid",
+                                "@BorderTop": "solid",
+                                "Sentence": {
+                                  "@WritingMode": "vertical",
+                                  "#text": "満十六歳未満"
+                                }
+                              },
+                              {
+                                "@BorderBottom": "solid",
+                                "@BorderLeft": "solid",
+                                "@BorderRight": "solid",
+                                "@BorderTop": "solid",
+                                "Sentence": {
+                                  "@WritingMode": "vertical",
+                                  "#text": "十二"
+                                }
+                              },
+                              {
+                                "@BorderBottom": "solid",
+                                "@BorderLeft": "solid",
+                                "@BorderRight": "solid",
+                                "@BorderTop": "solid",
+                                "Sentence": {
+                                  "@WritingMode": "vertical",
+                                  "#text": "八"
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "TableColumn": [
+                              {
+                                "@BorderBottom": "solid",
+                                "@BorderLeft": "solid",
+                                "@BorderRight": "solid",
+                                "@BorderTop": "solid",
+                                "Sentence": {
+                                  "@WritingMode": "vertical",
+                                  "#text": "満十六歳以上満十八歳未満"
+                                }
+                              },
+                              {
+                                "@BorderBottom": "solid",
+                                "@BorderLeft": "solid",
+                                "@BorderRight": "solid",
+                                "@BorderTop": "solid",
+                                "Sentence": {
+                                  "@WritingMode": "vertical",
+                                  "#text": "二十五"
+                                }
+                              },
+                              {
+                                "@BorderBottom": "solid",
+                                "@BorderLeft": "solid",
+                                "@BorderRight": "solid",
+                                "@BorderTop": "solid",
+                                "Sentence": {
+                                  "@WritingMode": "vertical",
+                                  "#text": "十五"
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "TableColumn": [
+                              {
+                                "@BorderBottom": "solid",
+                                "@BorderLeft": "solid",
+                                "@BorderRight": "solid",
+                                "@BorderTop": "solid",
+                                "Sentence": {
+                                  "@WritingMode": "vertical",
+                                  "#text": "満十八歳以上"
+                                }
+                              },
+                              {
+                                "@BorderBottom": "solid",
+                                "@BorderLeft": "solid",
+                                "@BorderRight": "solid",
+                                "@BorderTop": "solid",
+                                "Sentence": {
+                                  "@WritingMode": "vertical",
+                                  "#text": "三十"
+                                }
+                              },
+                              {
+                                "@BorderBottom": "solid",
+                                "@BorderLeft": "solid",
+                                "@BorderRight": "solid",
+                                "@BorderTop": "solid",
+                                "Sentence": {
+                                  "@WritingMode": "vertical",
+                                  "#text": "二十"
+                                }
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    }
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "2",
+                    "ItemTitle": "二",
+                    "ItemSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "ボイラー（労働安全衛生法施行令（昭和四十七年政令第三百十八号。第十八号において「安衛令」という。）第一条第三号に規定するボイラーをいう。次号において同じ。）の取扱いの業務"
+                      }
+                    }
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "3",
+                    "ItemTitle": "三",
+                    "ItemSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "ボイラーの溶接の業務"
+                      }
+                    }
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "4",
+                    "ItemTitle": "四",
+                    "ItemSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "つり上げ荷重が五トン以上のクレーン若しくはデリツク又は制限荷重が五トン以上の揚貨装置の運転の業務"
+                      }
+                    }
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "5",
+                    "ItemTitle": "五",
+                    "ItemSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "運転中の原動機又は原動機から中間軸までの動力伝導装置の掃除、給油、検査、修理又はベルトの掛換えの業務"
+                      }
+                    }
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "6",
+                    "ItemTitle": "六",
+                    "ItemSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "クレーン、デリツク又は揚貨装置の玉掛けの業務（二人以上の者によつて行う玉掛けの業務における補助作業の業務を除く。）"
+                      }
+                    }
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "7",
+                    "ItemTitle": "七",
+                    "ItemSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "動力により駆動される土木建築用機械又は船舶荷扱用機械の運転の業務"
+                      }
+                    }
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "8",
+                    "ItemTitle": "八",
+                    "ItemSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "直径が二十五センチメートル以上の丸のこ盤（横切用丸のこ盤及び自動送り装置を有する丸のこ盤を除く。）又はのこ車の直径が七十五センチメートル以上の帯のこ盤（自動送り装置を有する帯のこ盤を除く。）に木材を送給する業務"
+                      }
+                    }
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "9",
+                    "ItemTitle": "九",
+                    "ItemSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "操車場の構内における軌道車両の入換え、連結又は解放の業務"
+                      }
+                    }
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "10",
+                    "ItemTitle": "十",
+                    "ItemSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "蒸気又は圧縮空気により駆動されるプレス機械又は鍛造機械を用いて行う金属加工の業務"
+                      }
+                    }
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "11",
+                    "ItemTitle": "十一",
+                    "ItemSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "動力により駆動されるプレス機械、シヤー等を用いて行う厚さが八ミリメートル以上の鋼板加工の業務"
+                      }
+                    }
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "12",
+                    "ItemTitle": "十二",
+                    "ItemSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "岩石又は鉱物の破砕機又は粉砕機に材料を送給する業務"
+                      }
+                    }
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "13",
+                    "ItemTitle": "十三",
+                    "ItemSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "土砂が崩壊するおそれのある場所又は深さが五メートル以上の地穴における業務"
+                      }
+                    }
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "14",
+                    "ItemTitle": "十四",
+                    "ItemSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "高さが五メートル以上の場所で、墜落により労働者が危害を受けるおそれのあるところにおける業務"
+                      }
+                    }
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "15",
+                    "ItemTitle": "十五",
+                    "ItemSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "足場の組立て、解体又は変更の業務（地上又は床上における補助作業の業務を除く。）"
+                      }
+                    }
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "16",
+                    "ItemTitle": "十六",
+                    "ItemSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "胸高直径が三十五センチメートル以上の立木の伐採の業務"
+                      }
+                    }
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "17",
+                    "ItemTitle": "十七",
+                    "ItemSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "機械集材装置、運材索道等を用いて行う木材の搬出の業務"
+                      }
+                    }
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "18",
+                    "ItemTitle": "十八",
+                    "ItemSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "次の各号に掲げる有害物を発散する場所の区分に応じ、それぞれ当該場所において行われる当該各号に定める業務"
+                      }
+                    },
+                    "Subitem1": [
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "1",
+                        "Subitem1Title": "イ",
+                        "Subitem1Sentence": {
+                          "Column": [
+                            {
+                              "@LineBreak": "false",
+                              "@Num": "1",
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "Ruby": [
+                                  {
+                                    "Rt": "ひ",
+                                    "#text": "砒"
+                                  },
+                                  {
+                                    "Rt": "ひ",
+                                    "#text": "砒"
+                                  }
+                                ],
+                                "#text": "塩素化ビフエニル（別名ＰＣＢ）、アクリルアミド、エチルベンゼン、エチレンイミン、エチレンオキシド、カドミウム化合物、クロム酸塩、五酸化バナジウム、水銀若しくはその無機化合物（硫化水銀を除く。）、塩化ニツケル（ＩＩ）（粉状の物に限る。）、スチレン、テトラクロロエチレン（別名パークロルエチレン）、トリクロロエチレン、素化合物（アルシン及び化ガリウムを除く。）、ベータ―プロピオラクトン、ペンタクロルフエノール（別名ＰＣＰ）若しくはそのナトリウム塩又はマンガンを発散する場所"
+                              }
+                            },
+                            {
+                              "@LineBreak": "false",
+                              "@Num": "2",
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "次に掲げる業務（スチレン、テトラクロロエチレン（別名パークロルエチレン）又はトリクロロエチレンを発散する場所において行われる業務にあつては（２）に限る。）"
+                              }
+                            }
+                          ]
+                        },
+                        "Subitem2": [
+                          {
+                            "@Delete": "false",
+                            "@Hide": "false",
+                            "@Num": "1",
+                            "Subitem2Title": "（１）",
+                            "Subitem2Sentence": {
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "特定化学物質障害予防規則（昭和四十七年労働省令第三十九号）第二十二条第一項、第二十二条の二第一項又は第三十八条の十四第一項第十一号ハ若しくは第十二号ただし書に規定する作業を行う業務であつて、当該作業に従事する労働者に呼吸用保護具を使用させる必要があるもの"
+                              }
+                            }
+                          },
+                          {
+                            "@Delete": "false",
+                            "@Hide": "false",
+                            "@Num": "2",
+                            "Subitem2Title": "（２）",
+                            "Subitem2Sentence": {
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "（１）の業務以外の業務のうち、安衛令第二十一条第七号に掲げる作業場（石綿等を取り扱い、若しくは試験研究のため製造する屋内作業場又はコークス炉上において若しくはコークス炉に接してコークス製造の作業を行う場合の当該作業場を除く。）であつて、特定化学物質障害予防規則第三十六条の二第一項の規定による評価の結果、第三管理区分に区分された場所における作業を行う業務"
+                              }
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "2",
+                        "Subitem1Title": "ロ",
+                        "Subitem1Sentence": {
+                          "Column": [
+                            {
+                              "@LineBreak": "false",
+                              "@Num": "1",
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "鉛及び安衛令別表第四第六号の鉛化合物を発散する場所"
+                              }
+                            },
+                            {
+                              "@LineBreak": "false",
+                              "@Num": "2",
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "次に掲げる業務"
+                              }
+                            }
+                          ]
+                        },
+                        "Subitem2": [
+                          {
+                            "@Delete": "false",
+                            "@Hide": "false",
+                            "@Num": "1",
+                            "Subitem2Title": "（１）",
+                            "Subitem2Sentence": {
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "Ruby": {
+                                  "Rt": "か",
+                                  "#text": "稼"
+                                },
+                                "#text": "鉛中毒予防規則（昭和四十七年労働省令第三十七号）第三十九条ただし書の規定により呼吸用保護具を使用させて行う臨時の作業を行う業務又は同令第五十八条第一項若しくは第二項に規定する業務若しくは同条第三項に規定する業務（同項に規定する業務にあつては、同令第三条各号に規定する業務及び同令第五十八条第三項ただし書の装置等を働させて行う同項の業務を除く。）"
+                              }
+                            }
+                          },
+                          {
+                            "@Delete": "false",
+                            "@Hide": "false",
+                            "@Num": "2",
+                            "Subitem2Title": "（２）",
+                            "Subitem2Sentence": {
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "（１）の業務以外の業務のうち、安衛令第二十一条第八号に掲げる作業場であつて、鉛中毒予防規則第五十二条の二第一項の規定による評価の結果、第三管理区分に区分された場所における業務"
+                              }
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "3",
+                        "Subitem1Title": "ハ",
+                        "Subitem1Sentence": {
+                          "Column": [
+                            {
+                              "@LineBreak": "false",
+                              "@Num": "1",
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "エチレングリコールモノエチルエーテル（別名セロソルブ）、エチレングリコールモノエチルエーテルアセテート（別名セロソルブアセテート）、エチレングリコールモノメチルエーテル（別名メチルセロソルブ）、キシレン、Ｎ・Ｎ―ジメチルホルムアミド、スチレン、テトラクロロエチレン（別名パークロルエチレン）、トリクロロエチレン、トルエン、二硫化炭素、メタノール又はエチルベンゼンを発散する場所"
+                              }
+                            },
+                            {
+                              "@LineBreak": "false",
+                              "@Num": "2",
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "次に掲げる業務"
+                              }
+                            }
+                          ]
+                        },
+                        "Subitem2": [
+                          {
+                            "@Delete": "false",
+                            "@Hide": "false",
+                            "@Num": "1",
+                            "Subitem2Title": "（１）",
+                            "Subitem2Sentence": {
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "有機溶剤中毒予防規則（昭和四十七年労働省令第三十六号）第三十二条第一項第一号若しくは第二号又は第三十三条第一項第二号から第七号まで（特定化学物質障害予防規則第三十八条の八においてこれらの規定を準用する場合を含む。）に規定する業務（有機溶剤中毒予防規則第二条第一項（特定化学物質障害予防規則第三十八条の八において準用する場合を含む。）の規定により、これらの規定が適用されない場合における同項の業務を除く。）"
+                              }
+                            }
+                          },
+                          {
+                            "@Delete": "false",
+                            "@Hide": "false",
+                            "@Num": "2",
+                            "Subitem2Title": "（２）",
+                            "Subitem2Sentence": {
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "（１）の業務以外の業務のうち、安衛令第二十一条第七号又は第十号に掲げる作業場であつて、有機溶剤中毒予防規則第二十八条の二第一項（特定化学物質障害予防規則第三十六条の五において準用する場合を含む。）の規定による評価の結果、第三管理区分に区分された場所における業務"
+                              }
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "19",
+                    "ItemTitle": "十九",
+                    "ItemSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "多量の高熱物体を取り扱う業務"
+                      }
+                    }
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "20",
+                    "ItemTitle": "二十",
+                    "ItemSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "著しく暑熱な場所における業務"
+                      }
+                    }
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "21",
+                    "ItemTitle": "二十一",
+                    "ItemSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "多量の低温物体を取り扱う業務"
+                      }
+                    }
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "22",
+                    "ItemTitle": "二十二",
+                    "ItemSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "著しく寒冷な場所における業務"
+                      }
+                    }
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "23",
+                    "ItemTitle": "二十三",
+                    "ItemSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "異常気圧下における業務"
+                      }
+                    }
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "24",
+                    "ItemTitle": "二十四",
+                    "ItemSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "Ruby": {
+                          "Rt": "びよう",
+                          "#text": "鋲"
+                        },
+                        "#text": "さく岩機、打機等身体に著しい振動を与える機械器具を用いて行う業務"
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "@Hide": "false",
+                "@Num": "2",
+                "ParagraphNum": "２",
+                "ParagraphSentence": {
+                  "Sentence": [
+                    {
+                      "@Function": "main",
+                      "@Num": "1",
+                      "@WritingMode": "vertical",
+                      "#text": "法第六十四条の三第一項の規定により産後一年を経過しない女性を就かせてはならない業務は、前項第一号から第十二号まで及び第十五号から第二十四号までに掲げる業務とする。"
+                    },
+                    {
+                      "@Function": "proviso",
+                      "@Num": "2",
+                      "@WritingMode": "vertical",
+                      "#text": "ただし、同項第二号から第十二号まで、第十五号から第十七号まで及び第十九号から第二十三号までに掲げる業務については、産後一年を経過しない女性が当該業務に従事しない旨を使用者に申し出た場合に限る。"
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "3",
+            "ArticleTitle": "第三条",
+            "Paragraph": {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "法第六十四条の三第二項の規定により同条第一項の規定を準用する者は、妊娠中の女性及び産後一年を経過しない女性以外の女性とし、これらの者を就かせてはならない業務は、前条第一項第一号及び第十八号に掲げる業務とする。"
+                }
+              }
+            }
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "4",
+            "ArticleCaption": "（雇用均等・児童家庭局調査員）",
+            "ArticleTitle": "第四条",
+            "Paragraph": [
+              {
+                "@Hide": "false",
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "法第百条第三項に規定する女性主管局長及びその指定する所属の職員を雇用環境・均等局調査員という。"
+                  }
+                }
+              },
+              {
+                "@Hide": "false",
+                "@Num": "2",
+                "ParagraphNum": "２",
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "雇用環境・均等局調査員の携帯すべき証票は、別記様式による。"
+                  }
+                }
+              }
+            ]
+          }
+        ]
+      },
+      "SupplProvision": [
+        {
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Article": [
+            {
+              "@Delete": "false",
+              "@Hide": "false",
+              "@Num": "1",
+              "ArticleCaption": "（施行期日）",
+              "ArticleTitle": "第一条",
+              "Paragraph": {
+                "@Hide": "false",
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "この省令は、昭和六十一年四月一日から施行する。"
+                  }
+                }
+              }
+            },
+            {
+              "@Delete": "false",
+              "@Hide": "false",
+              "@Num": "2",
+              "ArticleCaption": "（経過措置）",
+              "ArticleTitle": "第二条",
+              "Paragraph": {
+                "@Hide": "false",
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "附則第四条の規定による改正前の女子年少者労働基準規則（昭和二十九年労働省令第十三号）第十三条第二項の規定による証票は、第十一条第二項の規定による証票とみなす。"
+                  }
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@AmendLawNum": "昭和六三年一一月一日労働省令第三四号",
+          "@Extract": "false",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この省令は、昭和六十四年四月一日から施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成元年七月一二日労働省令第二六号",
+          "@Extract": "false",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この省令は、公布の日から施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成六年三月一一日労働省令第八号",
+          "@Extract": "false",
+          "SupplProvisionLabel": "附　則",
+          "Article": [
+            {
+              "@Delete": "false",
+              "@Hide": "false",
+              "@Num": "1",
+              "ArticleTitle": "第一条",
+              "Paragraph": {
+                "@Hide": "false",
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": [
+                    {
+                      "@Function": "main",
+                      "@Num": "1",
+                      "@WritingMode": "vertical",
+                      "#text": "この省令は、平成六年四月一日から施行する。"
+                    },
+                    {
+                      "@Function": "proviso",
+                      "@Num": "2",
+                      "@WritingMode": "vertical",
+                      "#text": "ただし、第二条の規定は、平成七年四月一日から施行する。"
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "@Delete": "false",
+              "@Hide": "false",
+              "@Num": "2",
+              "ArticleTitle": "第二条",
+              "Paragraph": {
+                "@Hide": "false",
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "この省令（附則第一条ただし書に規定する規定については、当該規定）の施行前にした行為に対する罰則の適用については、なお従前の例による。"
+                  }
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@AmendLawNum": "平成九年九月二五日労働省令第三一号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": [
+            {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphCaption": "（施行期日）",
+              "ParagraphNum": "１",
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "この省令は、雇用の分野における男女の均等な機会及び待遇の確保等のための労働省関係法律の整備に関する法律附則第一条第一号に掲げる規定の施行の日（平成九年十月一日）から施行する。"
+                }
+              }
+            },
+            {
+              "@Hide": "false",
+              "@Num": "2",
+              "ParagraphCaption": "（経過措置）",
+              "ParagraphNum": "２",
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "改正前の女子労働基準規則第十一条第二項の規定による証票は、改正後の女性労働基準規則第十一条第二項の規定による証票とみなす。"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@AmendLawNum": "平成一〇年三月一三日労働省令第七号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": [
+            {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphCaption": "（施行期日）",
+              "ParagraphNum": "１",
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "この省令は、雇用の分野における男女の均等な機会及び待遇の確保等のための労働省関係法律の整備に関する法律の施行の日（平成十一年四月一日）から施行する。"
+                }
+              }
+            },
+            {
+              "@Hide": "false",
+              "@Num": "2",
+              "ParagraphCaption": "（経過措置）",
+              "ParagraphNum": "２",
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "改正前の女性労働基準規則第十一条第二項の規定による証票は、改正後の女性労働基準規則第四条第二項の規定による証票とみなす。"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@AmendLawNum": "平成一二年一〇月三一日労働省令第四一号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Article": [
+            {
+              "@Delete": "false",
+              "@Hide": "false",
+              "@Num": "1",
+              "ArticleCaption": "（施行期日）",
+              "ArticleTitle": "第一条",
+              "Paragraph": {
+                "@Hide": "false",
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "この省令は、内閣法の一部を改正する法律（平成十一年法律第八十八号）の施行の日（平成十三年一月六日）から施行する。"
+                  }
+                }
+              }
+            },
+            {
+              "@Delete": "false",
+              "@Hide": "false",
+              "@Num": "5",
+              "ArticleCaption": "（様式に関する経過措置）",
+              "ArticleTitle": "第五条",
+              "Paragraph": {
+                "@Hide": "false",
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "第二条の規定による改正前の労働基準法施行規則第五十二条の規定による証票、第三条の規定による改正前の職業安定法施行規則第三十三条第二項の規定による証明書、第八条の規定による改正前の労働保険審査官及び労働保険審査会法施行規則第四条の規定による証票、第二十六条の規定による改正前の職業能力開発促進法施行規則第七十八条の規定による証票、第三十一条の規定による改正前の労働保険の保険料の徴収等に関する法律施行規則第七十三条の規定による証票、第三十四条の規定による改正前の労働安全衛生規則第九十五条の三の規定による証票、第五十二条の規定による改正前の雇用保険法施行規則第百四十四条の規定による証明書、第七十条の規定による改正前の女性労働基準規則第四条の規定による証票、第七十一条の規定による改正前の労働者派遣事業の適正な運営の確保及び派遣労働者の就業条件の整備等に関する法律施行規則第四十八条の規定による証明書及び第七十四条の規定による改正前の港湾労働法施行規則第四十五条第二項の規定による証明書は、当分の間、第二条の規定による改正後の労働基準法施行規則第五十二条の規定による証票、第三条の規定による改正後の職業安定法施行規則第三十三条第二項の規定による証明書、第八条の規定による改正後の労働保険審査官及び労働保険審査会法施行規則第四条の規定による証票、第二十六条の規定による改正後の職業能力開発促進法施行規則第七十八条の規定による証票、第三十一条の規定による改正後の労働保険の保険料の徴収等に関する法律施行規則第七十三条の規定による証票、第三十四条の規定による改正後の労働安全衛生規則第九十五条の三の規定による証票、第五十二条の規定による改正後の雇用保険法施行規則第百四十四条の規定による証明書、第七十条の規定による改正後の女性労働基準規則第四条の規定による証票、第七十一条の規定による改正後の労働者派遣事業の適正な運営の確保及び派遣労働者の就業条件の整備等に関する法律施行規則第四十八条の規定による証明書及び第七十四条の規定による改正後の港湾労働法施行規則第四十五条第二項の規定による証明書とみなす。"
+                  }
+                }
+              }
+            },
+            {
+              "@Delete": "false",
+              "@Hide": "false",
+              "@Num": "6",
+              "ArticleTitle": "第六条",
+              "Paragraph": {
+                "@Hide": "false",
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "この省令の施行の際現に提出され又は交付されているこの省令による改正前のそれぞれの省令に定める様式による申請書等は、この省令による改正後のそれぞれの省令に定める相当様式による申請書等とみなす。"
+                  }
+                }
+              }
+            },
+            {
+              "@Delete": "false",
+              "@Hide": "false",
+              "@Num": "7",
+              "ArticleTitle": "第七条",
+              "Paragraph": {
+                "@Hide": "false",
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "この省令の施行の際現に存するこの省令による改正前のそれぞれの省令に定める様式による申請書等の用紙は、当分の間、必要な改定をした上、使用することができる。"
+                  }
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@AmendLawNum": "平成一四年二月二二日厚生労働省令第一四号",
+          "@Extract": "false",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": [
+            {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": "１",
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "この省令は、保健婦助産婦看護婦法の一部を改正する法律の施行の日（平成十四年三月一日）から施行する。"
+                }
+              }
+            },
+            {
+              "@Hide": "false",
+              "@Num": "2",
+              "ParagraphNum": "２",
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "この省令の施行の際現にあるこの省令による改正前の様式による用紙については、当分の間、これを取り繕って使用することができる。"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@AmendLawNum": "平成一八年一〇月一一日厚生労働省令第一八三号",
+          "@Extract": "false",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この省令は、平成十九年四月一日から施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成二四年四月一〇日厚生労働省令第七八号",
+          "@Extract": "false",
+          "SupplProvisionLabel": "附　則",
+          "Article": [
+            {
+              "@Delete": "false",
+              "@Hide": "false",
+              "@Num": "1",
+              "ArticleCaption": "（施行期日）",
+              "ArticleTitle": "第一条",
+              "Paragraph": {
+                "@Hide": "false",
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "この省令は平成二十四年十月一日から施行する。"
+                  }
+                }
+              }
+            },
+            {
+              "@Delete": "false",
+              "@Hide": "false",
+              "@Num": "2",
+              "ArticleCaption": "（経過措置）",
+              "ArticleTitle": "第二条",
+              "Paragraph": {
+                "@Hide": "false",
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "この省令の施行前にした行為に対する罰則の適用については、なお従前の例による。"
+                  }
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@AmendLawNum": "平成二四年一〇月一日厚生労働省令第一四三号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Article": [
+            {
+              "@Delete": "false",
+              "@Hide": "false",
+              "@Num": "1",
+              "ArticleCaption": "（施行期日）",
+              "ArticleTitle": "第一条",
+              "Paragraph": {
+                "@Hide": "false",
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "この省令は、平成二十五年一月一日から施行する。"
+                  }
+                }
+              }
+            },
+            {
+              "@Delete": "false",
+              "@Hide": "false",
+              "@Num": "10",
+              "ArticleCaption": "（罰則の適用に関する経過措置）",
+              "ArticleTitle": "第十条",
+              "Paragraph": {
+                "@Hide": "false",
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "この省令の施行の日前にした行為に対する罰則の適用については、なお従前の例による。"
+                  }
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@AmendLawNum": "平成二六年八月二五日厚生労働省令第一〇一号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Article": [
+            {
+              "@Delete": "false",
+              "@Hide": "false",
+              "@Num": "1",
+              "ArticleCaption": "（施行期日）",
+              "ArticleTitle": "第一条",
+              "Paragraph": {
+                "@Hide": "false",
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "この省令は、平成二十六年十一月一日から施行する。"
+                  }
+                }
+              }
+            },
+            {
+              "@Delete": "false",
+              "@Hide": "false",
+              "@Num": "11",
+              "ArticleCaption": "（罰則に関する経過措置）",
+              "ArticleTitle": "第十一条",
+              "Paragraph": {
+                "@Hide": "false",
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "この省令の施行の日前にした行為に対する罰則の適用については、なお従前の例による。"
+                  }
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@AmendLawNum": "平成二九年七月一一日厚生労働省令第七一号",
+          "@Extract": "true",
+          "@Type": "Amend",
+          "SupplProvisionLabel": "附　則",
+          "Article": {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "1",
+            "ArticleCaption": "（施行期日）",
+            "ArticleTitle": "第一条",
+            "Paragraph": {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "この省令は、厚生労働省組織令等の一部を改正する政令（平成二十九年政令第百八十五号）の施行の日（平成二十九年七月十一日）から施行する。"
+                }
+              }
+            }
+          }
+        }
+      ],
+      "AppdxStyle": {
+        "AppdxStyleTitle": {
+          "@WritingMode": "vertical",
+          "#text": "別記様式"
+        },
+        "RelatedArticleNum": "（第４条関係）",
+        "StyleStruct": {
+          "Style": {
+            "Fig": {
+              "@src": "./pict/S61F04101000003-001.pdf"
+            }
+          }
+        }
+      }
+    }
+  }
+}

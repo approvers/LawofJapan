@@ -1,0 +1,60 @@
+{
+  "Law": {
+    "@Era": "Heisei",
+    "@Lang": "ja",
+    "@LawType": "MinisterialOrdinance",
+    "@Num": "32",
+    "@Year": "21",
+    "LawNum": "平成二十一年農林水産省令第三十二号",
+    "LawBody": {
+      "LawTitle": "愛がん動物用飼料の安全性の確保に関する法律第十六条第一項の規定により地方農政局長に委任する権限を定める省令",
+      "EnactStatement": "愛がん動物用飼料の安全性の確保に関する法律（平成二十年法律第八十三号）第十六条第一項の規定に基づき、愛がん動物用飼料の安全性の確保に関する法律第十六条第一項の規定により地方農政局長に委任する権限を定める省令を次のように定める。",
+      "MainProvision": {
+        "Paragraph": {
+          "@Num": "1",
+          "ParagraphNum": null,
+          "ParagraphSentence": {
+            "Sentence": [
+              {
+                "@Function": "main",
+                "@Num": "1",
+                "#text": "愛がん動物用飼料の安全性の確保に関する法律（以下「法」という。）に規定する農林水産大臣の権限のうち、次に掲げるものは、地方農政局長に委任する。"
+              },
+              {
+                "@Function": "proviso",
+                "@Num": "2",
+                "#text": "ただし、農林水産大臣が自ら行うことを妨げない。"
+              }
+            ]
+          },
+          "Item": [
+            {
+              "@Num": "1",
+              "ItemTitle": "一",
+              "ItemSentence": {
+                "Sentence": "法第十一条第一項の規定による報告の徴収"
+              }
+            },
+            {
+              "@Num": "2",
+              "ItemTitle": "二",
+              "ItemSentence": {
+                "Sentence": "法第十二条第一項の規定による立入検査等"
+              }
+            }
+          ]
+        }
+      },
+      "SupplProvision": {
+        "SupplProvisionLabel": "附　則",
+        "Paragraph": {
+          "@Num": "1",
+          "ParagraphNum": null,
+          "ParagraphSentence": {
+            "Sentence": "この省令は、法の施行の日（平成二十一年六月一日）から施行する。"
+          }
+        }
+      }
+    }
+  }
+}

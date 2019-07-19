@@ -1,0 +1,837 @@
+{
+  "Law": {
+    "@Era": "Showa",
+    "@Lang": "ja",
+    "@LawType": "CabinetOrder",
+    "@Num": "127",
+    "@Year": "27",
+    "LawNum": "昭和二十七年政令第百二十七号",
+    "LawBody": {
+      "LawTitle": "日本国とアメリカ合衆国との間の相互協力及び安全保障条約第六条に基づく施設及び区域並びに日本国における合衆国軍隊の地位に関する協定の実施に伴う外国為替令等の臨時特例に関する政令",
+      "EnactStatement": "内閣は、外国為替及び外国貿易管理法（昭和二十四年法律第二百二十八号）の規定に基き、及び同法の規定を実施するため、この政令を制定する。",
+      "TOC": {
+        "TOCLabel": "目次",
+        "TOCChapter": [
+          {
+            "@Delete": "false",
+            "@Num": "1",
+            "ChapterTitle": "第一章　総則",
+            "ArticleRange": "（第一条―第三条）"
+          },
+          {
+            "@Delete": "false",
+            "@Num": "2",
+            "ChapterTitle": "第二章　合衆国軍隊等以外の者の軍票による支払等",
+            "ArticleRange": "（第四条）"
+          },
+          {
+            "@Delete": "false",
+            "@Num": "3",
+            "ChapterTitle": "第三章　合衆国軍隊等の行為又は取引",
+            "ArticleRange": "（第五条―第十条）"
+          }
+        ],
+        "TOCSupplProvision": {
+          "SupplProvisionLabel": "附則"
+        }
+      },
+      "MainProvision": {
+        "Chapter": [
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "1",
+            "ChapterTitle": "第一章　総則",
+            "Article": [
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "1",
+                "ArticleCaption": "（目的）",
+                "ArticleTitle": "第一条",
+                "Paragraph": {
+                  "@Hide": "false",
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "この政令は、日本国とアメリカ合衆国との間の相互協力及び安全保障条約第六条に基づく施設及び区域並びに日本国における合衆国軍隊の地位に関する協定（以下「協定」という。）の実施に伴い、外国為替令（昭和五十五年政令第二百六十号）その他の外国為替及び外国貿易法（以下「法」という。）に基づく命令の特例を設けることを目的とする。"
+                    }
+                  }
+                }
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "2",
+                "ArticleCaption": "（定義）",
+                "ArticleTitle": "第二条",
+                "Paragraph": {
+                  "@Hide": "false",
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "この政令又はこの政令に基づく命令において、次の各号に掲げる用語の意義は、当該各号に定めるところによる。"
+                    }
+                  },
+                  "Item": [
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "1",
+                      "ItemTitle": "一",
+                      "ItemSentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "「合衆国」とは、アメリカ合衆国をいう。"
+                        }
+                      }
+                    },
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "2",
+                      "ItemTitle": "二",
+                      "ItemSentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "「合衆国軍隊」とは、日本国とアメリカ合衆国との間の相互協力及び安全保障条約に基づき日本国にある合衆国の陸軍、空軍及び海軍をいう。"
+                        }
+                      }
+                    },
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "3",
+                      "ItemTitle": "三",
+                      "ItemSentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "「合衆国軍隊の構成員」、「軍属」又は「家族」とは、協定第一条に規定する合衆国軍隊の構成員、軍属又は家族をいう。"
+                        }
+                      }
+                    },
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "4",
+                      "ItemTitle": "四",
+                      "ItemSentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "「契約者等」とは、協定第十四条第一項に規定する人及び被用者をいう。"
+                        }
+                      }
+                    },
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "5",
+                      "ItemTitle": "五",
+                      "ItemSentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "「軍人用販売機関等」とは、協定第十五条第一項(a)に規定する諸機関をいう。"
+                        }
+                      }
+                    },
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "6",
+                      "ItemTitle": "六",
+                      "ItemSentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "「軍票」とは、協定第二十条第一項(a)に規定する合衆国軍票をいう。"
+                        }
+                      }
+                    },
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "7",
+                      "ItemTitle": "七",
+                      "ItemSentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "「軍用銀行施設」とは、協定第二十条第二項に規定する軍用銀行施設をいう。"
+                        }
+                      }
+                    },
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "8",
+                      "ItemTitle": "八",
+                      "ItemSentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "「軍票等預金勘定」とは、協定第二十条第二項に規定する合衆国通貨による銀行勘定をいう。"
+                        }
+                      }
+                    },
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "9",
+                      "ItemTitle": "九",
+                      "ItemSentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "「軍事郵便局」とは、協定第二十一条の規定に基づいて設置された合衆国軍事郵便局をいう。"
+                        }
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "3",
+                "ArticleCaption": "（居住性）",
+                "ArticleTitle": "第三条",
+                "Paragraph": {
+                  "@Hide": "false",
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "合衆国軍隊、合衆国軍隊の構成員、軍属、これらの者の家族、軍人用販売機関等、軍事郵便局、軍用銀行施設及び契約者等は、法及び法に基く命令の規定の適用上非居住者である。"
+                    }
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "2",
+            "ChapterTitle": "第二章　合衆国軍隊等以外の者の軍票による支払等",
+            "Article": {
+              "@Delete": "false",
+              "@Hide": "false",
+              "@Num": "4",
+              "ArticleCaption": "（合衆国軍隊等以外の者の軍票による支払等）",
+              "ArticleTitle": "第四条",
+              "Paragraph": [
+                {
+                  "@Hide": "false",
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "前条に規定する者及び政府が合衆国軍隊と合意して定めるところに従い財務大臣が指定する者（以下「合衆国軍隊等」と総称する。）以外の者が軍票により本邦から外国へ向けた支払をしようとするとき又は居住者が軍票により非居住者との間で支払若しくは支払の受領をしようとするときは、法第十六条第一項の規定に基づき、財務省令で定めるところにより、財務大臣の許可を受けなければならない。"
+                    }
+                  }
+                },
+                {
+                  "@Hide": "false",
+                  "@Num": "2",
+                  "ParagraphNum": "２",
+                  "ParagraphSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "合衆国軍隊等以外の者が軍票を輸出し又は輸入しようとするときは、法第十九条第一項の規定に基づき、財務省令で定めるところにより、財務大臣の許可を受けなければならない。"
+                    }
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "3",
+            "ChapterTitle": "第三章　合衆国軍隊等の行為又は取引",
+            "Article": [
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "5:6",
+                "ArticleTitle": "第五条及び第六条",
+                "Paragraph": {
+                  "@Hide": "false",
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "削除"
+                    }
+                  }
+                }
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "7",
+                "ArticleCaption": "（外国へ向けた支払）",
+                "ArticleTitle": "第七条",
+                "Paragraph": {
+                  "@Hide": "false",
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "合衆国軍隊等が、軍票若しくは合衆国通貨により又は軍票等預金勘定を引当てに、軍事郵便局又は軍用銀行施設を通じてする外国へ向けた支払については、外国為替令第六条の規定は、適用しない。"
+                    }
+                  }
+                }
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "8",
+                "ArticleCaption": "（支払手段等の輸出入）",
+                "ArticleTitle": "第八条",
+                "Paragraph": {
+                  "@Hide": "false",
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "合衆国通貨をもつて表示される対外支払手段又は外貨証券で次に掲げるものに該当するものの合衆国軍隊等による輸出又は輸入については、外国為替令第八条の規定は、適用しない。"
+                    }
+                  },
+                  "Item": [
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "1",
+                      "ItemTitle": "一",
+                      "ItemSentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "合衆国の公金"
+                        }
+                      }
+                    },
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "2",
+                      "ItemTitle": "二",
+                      "ItemSentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "当該合衆国軍隊等（合衆国軍隊を除く。）が協定に関連する勤務、雇用若しくは業務の結果として取得し又は本邦外の源泉から取得したもの"
+                        }
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "9",
+                "ArticleCaption": "（役務取引等）",
+                "ArticleTitle": "第九条",
+                "Paragraph": {
+                  "@Hide": "false",
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "第三条に規定する者については、法第二十五条第一項及び外国為替令第十七条第二項に規定する義務を免除する。"
+                    }
+                  }
+                }
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "10",
+                "ArticleCaption": "（貨物の輸出入）",
+                "ArticleTitle": "第十条",
+                "Paragraph": {
+                  "@Hide": "false",
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "次に掲げる場合には、法第四十八条第一項、輸入貿易管理令（昭和二十四年政令第四百十四号）又は輸出貿易管理令（昭和二十四年政令第三百七十八号）に規定する義務又は制限を免除する。"
+                    }
+                  },
+                  "Item": [
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "1",
+                      "ItemTitle": "一",
+                      "ItemSentence": {
+                        "Sentence": [
+                          {
+                            "@Function": "main",
+                            "@Num": "1",
+                            "@WritingMode": "vertical",
+                            "#text": "合衆国軍隊が、合衆国軍隊の公用に供するために貨物を輸入する場合。"
+                          },
+                          {
+                            "@Function": "proviso",
+                            "@Num": "2",
+                            "@WritingMode": "vertical",
+                            "#text": "ただし、合衆国軍隊の公用に供するために輸入する貨物であることにつき合衆国軍隊の権限ある者による証明がされた場合に限る。"
+                          }
+                        ]
+                      }
+                    },
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "2",
+                      "ItemTitle": "二",
+                      "ItemSentence": {
+                        "Sentence": [
+                          {
+                            "@Function": "main",
+                            "@Num": "1",
+                            "@WritingMode": "vertical",
+                            "#text": "軍人用販売機関等が、当該機関、合衆国軍隊の構成員、軍属、これらの者の家族又は契約者等の用に供するために貨物を輸入する場合。"
+                          },
+                          {
+                            "@Function": "proviso",
+                            "@Num": "2",
+                            "@WritingMode": "vertical",
+                            "#text": "ただし、これらの者の用に供するために輸入する貨物であることにつき合衆国軍隊の権限ある者による証明がされた場合に限る。"
+                          }
+                        ]
+                      }
+                    },
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "3",
+                      "ItemTitle": "三",
+                      "ItemSentence": {
+                        "Sentence": [
+                          {
+                            "@Function": "main",
+                            "@Num": "1",
+                            "@WritingMode": "vertical",
+                            "#text": "軍事郵便局又は軍用銀行施設が、その専用に供するために貨物を輸入する場合。"
+                          },
+                          {
+                            "@Function": "proviso",
+                            "@Num": "2",
+                            "@WritingMode": "vertical",
+                            "#text": "ただし、当該機関の専用に供する貨物であることにつき合衆国軍隊の権限ある者による証明がされた場合に限る。"
+                          }
+                        ]
+                      }
+                    },
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "4",
+                      "ItemTitle": "四",
+                      "ItemSentence": {
+                        "Sentence": [
+                          {
+                            "@Function": "main",
+                            "@Num": "1",
+                            "@WritingMode": "vertical",
+                            "#text": "合衆国軍隊が、合衆国の軍隊の用に供されている貨物を輸出する場合。"
+                          },
+                          {
+                            "@Function": "proviso",
+                            "@Num": "2",
+                            "@WritingMode": "vertical",
+                            "#text": "ただし、合衆国の軍隊の用に供されている貨物であることにつき合衆国軍隊の権限ある者による証明がされた場合に限る。"
+                          }
+                        ]
+                      }
+                    },
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "5",
+                      "ItemTitle": "五",
+                      "ItemSentence": {
+                        "Sentence": [
+                          {
+                            "@Function": "main",
+                            "@Num": "1",
+                            "@WritingMode": "vertical",
+                            "#text": "軍人用販売機関等が、その所有する貨物を輸出する場合。"
+                          },
+                          {
+                            "@Function": "proviso",
+                            "@Num": "2",
+                            "@WritingMode": "vertical",
+                            "#text": "ただし、当該機関が所有する貨物であることにつき合衆国軍隊の権限ある者による証明がされた場合に限る。"
+                          }
+                        ]
+                      }
+                    },
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "6",
+                      "ItemTitle": "六",
+                      "ItemSentence": {
+                        "Sentence": [
+                          {
+                            "@Function": "main",
+                            "@Num": "1",
+                            "@WritingMode": "vertical",
+                            "#text": "軍事郵便局又は軍用銀行施設が、その専用に供されている貨物を輸出する場合。"
+                          },
+                          {
+                            "@Function": "proviso",
+                            "@Num": "2",
+                            "@WritingMode": "vertical",
+                            "#text": "ただし、当該機関の専用に供されている貨物であることにつき合衆国軍隊の権限ある者による証明がされた場合に限る。"
+                          }
+                        ]
+                      }
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      "SupplProvision": [
+        {
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphNum": "１",
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この政令は、条約の効力発生の日から施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "昭和二七年七月三一日政令第三〇六号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": [
+            {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": "１",
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "この政令は、昭和二十七年八月一日から施行する。"
+                }
+              }
+            },
+            {
+              "@Hide": "false",
+              "@Num": "4",
+              "ParagraphNum": "４",
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "この政令施行の際現に効力を有する改正前の外国為替銀行及び両替商の報告に関する政令、輸出貿易管理令、輸入貿易管理令、外国為替管理令又は日本国とアメリカ合衆国との間の安全保障条約第三条に基く行政協定の実施に伴う外国為替管理令等の臨時特例に関する政令に基く外国為替管理委員会規則若しくは総理府令、大蔵省令、通商産業省令又は総理府令、通商産業省令は、この政令施行後は、改正後の外国為替銀行及び両替商の報告に関する政令、輸出貿易管理令、輸入貿易管理令、外国為替管理令又は日本国とアメリカ合衆国との間の安全保障条約第三条に基く行政協定の実施に伴う外国為替管理令等の臨時特例に関する政令に基く相当の主務省令若しくは大蔵省令若しくは通商産業省令又は大蔵省令、通商産業省令としての効力を有するものとする。"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@AmendLawNum": "昭和二九年四月一〇日政令第七七号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この政令は、公布の日から施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "昭和二九年六月一日政令第一一九号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この政令は、公布の日から施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "昭和二九年六月一日政令第一二九号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphNum": "１",
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この政令（附則第二項を除く。）は、国連軍協定の最初の効力発生の日から施行し、同協定の最初の署名の日又はその後六月以内に同協定の当事者となる政令に係るものについては、同協定第二十一条４及び第二十二条４においてそ及されないこととなる場合を除く外、昭和二十七年四月二十八日から適用し、附則第二項の規定は、公布の日から施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "昭和三〇年一〇月一四日政令第二八二号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この政令は、公布の日から施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "昭和三二年五月一日政令第九〇号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphNum": "１",
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この政令は、昭和三十二年五月十五日から施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "昭和三五年六月二三日政令第一七四号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphCaption": "（施行期日）",
+            "ParagraphNum": "１",
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この政令は、日本国とアメリカ合衆国との間の相互協力及び安全保障条約の効力発生の日から施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "昭和三七年六月五日政令第二四四号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この政令は、公布の日から施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "昭和四四年五月一七日政令第一二四号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphNum": "１",
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この政令は、公布の日から施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "昭和四七年四月二七日政令第八七号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphNum": "１",
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この政令は、昭和四十七年五月八日から施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "昭和五五年一〇月一一日政令第二六二号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": [
+            {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": "１",
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "この政令は、外国為替及び外国貿易管理法の一部を改正する法律（昭和五十四年法律第六十五号）の施行の日（昭和五十五年十二月一日）から施行する。"
+                }
+              }
+            },
+            {
+              "@Hide": "false",
+              "@Num": "2",
+              "ParagraphNum": "２",
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "この政令の施行の際現にこの政令による改正前の日本国とアメリカ合衆国との間の相互協力及び安全保障条約第六条に基づく施設及び区域並びに日本国における合衆国軍隊の地位に関する協定の実施に伴う外国為替管理令等の臨時特例に関する政令第四条第二項の規定（日本国における国際連合の軍隊の地位に関する協定の実施に伴う外国為替管理令等の臨時特例に関する政令第三条において準用する場合を含む。）により日本銀行に寄託されている軍票の処理については、財務大臣が定めるところによる。"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@AmendLawNum": "昭和六二年一一月五日政令第三七三号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Article": {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "1",
+            "ArticleCaption": "（施行期日）",
+            "ArticleTitle": "第一条",
+            "Paragraph": {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "この政令は、外国為替及び外国貿易管理法の一部を改正する法律の施行の日（昭和六十二年十一月十日）から施行する。"
+                }
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成九年一二月二五日政令第三八三号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Article": {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "1",
+            "ArticleCaption": "（施行期日）",
+            "ArticleTitle": "第一条",
+            "Paragraph": {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "この政令は、外国為替及び外国貿易管理法の一部を改正する法律の施行の日（平成十年四月一日）から施行する。"
+                }
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成一二年六月七日政令第三〇七号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Article": {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "1",
+            "ArticleCaption": "（施行期日）",
+            "ArticleTitle": "第一条",
+            "Paragraph": {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "この政令は、平成十三年一月六日から施行する。"
+                }
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成二一年八月一四日政令第二一三号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Article": [
+            {
+              "@Delete": "false",
+              "@Hide": "false",
+              "@Num": "1",
+              "ArticleCaption": "（施行期日）",
+              "ArticleTitle": "第一条",
+              "Paragraph": {
+                "@Hide": "false",
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "この政令は、外国為替及び外国貿易法の一部を改正する法律の施行の日（平成二十一年十一月一日）から施行する。"
+                  }
+                }
+              }
+            },
+            {
+              "@Delete": "false",
+              "@Hide": "false",
+              "@Num": "2",
+              "ArticleCaption": "（罰則に関する経過措置）",
+              "ArticleTitle": "第二条",
+              "Paragraph": {
+                "@Hide": "false",
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "この政令の施行前にした行為に対する罰則の適用については、なお従前の例による。"
+                  }
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "Law": {
+    "@DataInfo": "180806e80k10m01",
+    "@Era": "Heisei",
+    "@Lang": "ja",
+    "@LawType": "MinisterialOrdinance",
+    "@Num": "001",
+    "@Year": "29",
+    "LawNum": "平成二十九年内閣府・財務省・厚生労働省・農林水産省・経済産業省令第一号",
+    "LawBody": {
+      "LawTitle": "民間公益活動を促進するための休眠預金等に係る資金の活用に関する法律第四十四条第一項の規定による立入検査をする職員の携帯する身分を示す証明書の様式を定める命令",
+      "EnactStatement": "民間公益活動を促進するための休眠預金等に係る資金の活用に関する法律（平成二十八年法律第百一号）を実施するため、民間公益活動を促進するための休眠預金等に係る資金の活用に関する法律第四十四条第一項の規定による立入検査をする職員の携帯する身分を示す証明書の様式を定める命令を次のように定める。",
+      "MainProvision": {
+        "Paragraph": {
+          "@Hide": "false",
+          "@Num": "1",
+          "ParagraphNum": null,
+          "ParagraphSentence": {
+            "Sentence": [
+              {
+                "@Function": "main",
+                "@Num": "1",
+                "@WritingMode": "vertical",
+                "#text": "民間公益活動を促進するための休眠預金等に係る資金の活用に関する法律（以下「法」という。）第四十四条第一項（指定活用団体に係る部分を除く。）の規定による立入検査をする職員の携帯する身分を示す証明書は、別紙様式によるものとする。"
+              },
+              {
+                "@Function": "proviso",
+                "@Num": "2",
+                "@WritingMode": "vertical",
+                "#text": "ただし、次に掲げるものについては、この限りでない。"
+              }
+            ]
+          },
+          "Item": [
+            {
+              "@Delete": "false",
+              "@Hide": "false",
+              "@Num": "1",
+              "ItemTitle": "一",
+              "ItemSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "金融庁又は財務局若しくは福岡財務支局の職員が立入検査（財務大臣の権限によるものを除く。）をするときに携帯すべき証明書"
+                }
+              }
+            },
+            {
+              "@Delete": "false",
+              "@Hide": "false",
+              "@Num": "2",
+              "ItemTitle": "二",
+              "ItemSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "法第二条第一項第十号から第十六号までに掲げる金融機関に対して農林水産省の職員が立入検査をするときに携帯すべき証明書"
+                }
+              }
+            }
+          ]
+        }
+      },
+      "SupplProvision": {
+        "SupplProvisionLabel": "附　則",
+        "Paragraph": {
+          "@Hide": "false",
+          "@Num": "1",
+          "ParagraphNum": null,
+          "ParagraphSentence": {
+            "Sentence": {
+              "@WritingMode": "vertical",
+              "#text": "この命令は、法（第五十一条及び第五十二条第一項を除く。）の施行の日から施行する。"
+            }
+          }
+        }
+      },
+      "AppdxStyle": {
+        "AppdxStyleTitle": {
+          "@WritingMode": "vertical",
+          "#text": "別紙様式"
+        },
+        "StyleStruct": {
+          "Style": {
+            "Fig": {
+              "@src": "./pict/429M60000742001-001.pdf"
+            }
+          }
+        }
+      }
+    }
+  }
+}

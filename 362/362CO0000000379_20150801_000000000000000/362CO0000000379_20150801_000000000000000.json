@@ -1,0 +1,43 @@
+{
+  "Law": {
+    "@Era": "Showa",
+    "@Lang": "ja",
+    "@LawType": "CabinetOrder",
+    "@Num": "379",
+    "@Year": "62",
+    "LawNum": "昭和六十二年政令第三百七十九号",
+    "LawBody": {
+      "LawTitle": "刑事確定訴訟記録閲覧手数料令",
+      "EnactStatement": "内閣は、刑事確定訴訟記録法（昭和六十二年法律第六十四号）第七条の規定に基づき、この政令を制定する。",
+      "MainProvision": {
+        "Paragraph": {
+          "@Hide": "false",
+          "@Num": "1",
+          "ParagraphNum": null,
+          "ParagraphSentence": {
+            "Sentence": {
+              "@WritingMode": "vertical",
+              "#text": "刑事確定訴訟記録法第七条に規定する政令で定める手数料の額は、記録一件につき一回百五十円とする。"
+            }
+          }
+        }
+      },
+      "SupplProvision": {
+        "@Extract": "false",
+        "@Type": "New",
+        "SupplProvisionLabel": "附　則",
+        "Paragraph": {
+          "@Hide": "false",
+          "@Num": "1",
+          "ParagraphNum": null,
+          "ParagraphSentence": {
+            "Sentence": {
+              "@WritingMode": "vertical",
+              "#text": "この政令は、昭和六十三年一月一日から施行する。"
+            }
+          }
+        }
+      }
+    }
+  }
+}

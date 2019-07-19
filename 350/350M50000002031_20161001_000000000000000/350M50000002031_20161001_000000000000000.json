@@ -1,0 +1,143 @@
+{
+  "Law": {
+    "@Era": "Showa",
+    "@Lang": "ja",
+    "@LawType": "MinisterialOrdinance",
+    "@Num": "031",
+    "@Year": "50",
+    "LawNum": "昭和五十年総理府令第三十一号",
+    "LawBody": {
+      "LawTitle": {
+        "Ruby": {
+          "Rt": "ひ",
+          "#text": "砒"
+        },
+        "#text": "農用地土壌汚染対策地域の指定要件に係る素の量の検定の方法を定める省令"
+      },
+      "EnactStatement": {
+        "Ruby": {
+          "Rt": "ひ",
+          "#text": "砒"
+        },
+        "#text": "農用地の土壌の汚染防止等に関する法律施行令（昭和四十六年政令第二百四号）第二条第二項の規定に基づき、農用地土壌汚染対策地域の指定要件に係る素の量の検定の方法を定める総理府令を次のように定める。"
+      },
+      "MainProvision": {
+        "Article": [
+          {
+            "@Num": "1",
+            "ArticleCaption": "（試料の採取）",
+            "ArticleTitle": "第一条",
+            "Paragraph": [
+              {
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "Ruby": {
+                      "Rt": "ひ",
+                      "#text": "砒"
+                    },
+                    "#text": "農用地の土壌の汚染防止等に関する法律施行令第二条第一項第四号の要件に該当するかどうかの判定のために行う素の量の検定（以下「検定」という。）のための試料とする土壌を採取するほ場は、検定に係る農用地の面積のおおむね二・五ヘクタールにつき一箇所の割合で、選定しなければならない。"
+                  }
+                }
+              },
+              {
+                "@Num": "2",
+                "ParagraphNum": "２",
+                "ParagraphSentence": {
+                  "Sentence": "検定のための試料とする土壌の採取は、前項の規定により選定されたほ場の水口地点、中央地点及び水尻地点を結ぶ線を三等分し、それらの線のおのおのの中央地点（以下「試料採取地点」という。）において、行わなければならない。"
+                }
+              },
+              {
+                "@Num": "3",
+                "ParagraphNum": "３",
+                "ParagraphSentence": {
+                  "Sentence": "検定のための試料は、試料採取地点で採取した地表からおおむね十五センチメートルまでの土壌を風乾し、非金属製の二ミリメートルの目のふるいを通過させた後、十分混合したものでなければならない。"
+                }
+              }
+            ]
+          },
+          {
+            "@Num": "2",
+            "ArticleCaption": "（検定の方法）",
+            "ArticleTitle": "第二条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "検定は、別表に掲げる方法により試薬及び試料液の調製、検定の操作並びに試料の水分の測定を行い、その結果に基づき、付録の算式により算出して、行わなければならない。"
+              }
+            }
+          }
+        ]
+      },
+      "SupplProvision": [
+        {
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この府令は、公布の日から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成一二年六月一日総理府令第五八号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この府令は、公布の日から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成一二年八月一四日総理府令第九四号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": "１",
+            "ParagraphSentence": {
+              "Sentence": "この府令は、内閣法の一部を改正する法律（平成十一年法律第八十八号）の施行の日（平成十三年一月六日）から施行する。"
+            }
+          }
+        }
+      ],
+      "AppdxStyle": {
+        "AppdxStyleTitle": "別表",
+        "RelatedArticleNum": "（第二条関係）",
+        "StyleStruct": {
+          "Style": {
+            "Fig": {
+              "@src": "./pict/S50F03101000031-001.pdf"
+            }
+          }
+        }
+      },
+      "AppdxTable": {
+        "AppdxTableTitle": "附録",
+        "RelatedArticleNum": "（第二条関係）",
+        "TableStruct": {
+          "TableStructTitle": null,
+          "Table": {
+            "TableRow": {
+              "TableColumn": {
+                "@BorderBottom": "none",
+                "@BorderLeft": "none",
+                "@BorderRight": "none",
+                "@BorderTop": "none",
+                "FigStruct": {
+                  "Fig": {
+                    "@src": "./pict/S50F03101000031-002.pdf"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

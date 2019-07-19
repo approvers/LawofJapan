@@ -1,0 +1,905 @@
+{
+  "Law": {
+    "@Era": "Heisei",
+    "@Lang": "ja",
+    "@LawType": "MinisterialOrdinance",
+    "@Num": "001",
+    "@Year": "30",
+    "LawNum": "平成三十年内閣府・文部科学省令第一号",
+    "LawBody": {
+      "LawTitle": "特定地域内学部収容定員の抑制等に関する命令",
+      "EnactStatement": "地域における大学の振興及び若者の雇用機会の創出による若者の修学及び就業の促進に関する法律（平成三十年法律第三十七号）第十三条及び附則第三条の規定を実施するため、並びに地域における大学の振興及び若者の雇用機会の創出による若者の修学及び就業の促進に関する法律施行令（平成三十年政令第百七十七号）第二条、第三条、第四条第一項及び第二項第二号、第五条第二号及び第四号並びに附則第三条及び第四条の規定に基づき、及び同令を実施するため、特定地域内学部収容定員の抑制等に関する命令を次のように定める。",
+      "MainProvision": {
+        "Article": [
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "1",
+            "ArticleCaption": "（用語）",
+            "ArticleTitle": "第一条",
+            "Paragraph": {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "この命令において使用する用語は、地域における大学の振興及び若者の雇用機会の創出による若者の修学及び就業の促進に関する法律（以下「法」という。）、地域における大学の振興及び若者の修学及び就業の促進に関する法律施行令（以下「令」という。）、学校教育法（昭和二十二年法律第二十六号）及び同法に基づく文部科学省令において使用する用語の例による。"
+                }
+              }
+            }
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "2",
+            "ArticleCaption": "（年次別収容定員の算定方法）",
+            "ArticleTitle": "第二条",
+            "Paragraph": {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "令第二条に規定する年次別収容定員は、修業年限における年次別に区分した入学定員（大学が編入学定員を設けている場合における編入学定員を設けている年次以上の年次にあっては、入学定員と編入学定員の合計数。第八条第二項第四号において同じ。）に相当する数とする。"
+                }
+              }
+            }
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "3",
+            "ArticleCaption": "（特定年次の基準）",
+            "ArticleTitle": "第三条",
+            "Paragraph": [
+              {
+                "@Hide": "false",
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "令第二条に規定する内閣府令・文部科学省令で定める基準は、大学又は高等専門学校の定めるところにより、学生がその履修する教育課程において特定地域内に所在する校舎で受けることができる授業科目（次項において「特定授業科目」という。）の単位数（大学設置基準（昭和三十一年文部省令第二十八号）第三十二条第二項ただし書の規定により授業時間の履修をもって単位の修得に代える授業科目については、当該授業科目の授業時間に相当する単位数。以下この条において同じ。）が、当該教育課程において開設されている全ての授業科目の単位数の二分の一を超えることとする。"
+                  }
+                }
+              },
+              {
+                "@Hide": "false",
+                "@Num": "2",
+                "ParagraphNum": "２",
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "前項の場合において、授業科目のうち、その授業時間の二分の一を超える時間において、多様なメディアを高度に利用して、当該授業を行う教室等以外の場所で履修させる授業科目の単位数は、前項に規定する特定授業科目の単位数及び全ての授業科目の単位数に算入しない。"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "4",
+            "ArticleCaption": "（大学の学部及び短期大学の学科に関する昼夜開講制の取扱い）",
+            "ArticleTitle": "第四条",
+            "Paragraph": {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "令第二条に規定する大学の学部又は短期大学の学科には、昼間及び夜間の双方の時間帯において授業を行う大学の学部又は短期大学の学科を含むものとする。"
+                }
+              }
+            }
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "5",
+            "ArticleCaption": "（専修学校の専門課程に係る特定地域内学部等収容定員の算定方法）",
+            "ArticleTitle": "第五条",
+            "Paragraph": [
+              {
+                "@Hide": "false",
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "令第三条に規定する専修学校の専門課程に係る特定地域内学部等収容定員は、当該専門課程の修業年限の別による学科（夜間その他特別な時間において授業を行うもの及び通信により教育を行うものを除き、昼間及び夜間の双方の時間帯において授業を行うものを含む。第三号において同じ。）の区分（以下この項及び第七条において「学科区分」という。）ごとの生徒総定員のうち、専修学校の定めるところにより、生徒がその履修する教育課程において特定地域内に所在する校舎で受けることができる授業科目の授業時数（単位制による学科にあっては、単位数。以下この項において同じ。）が当該教育課程において開設されている全ての授業科目の授業時数の二分の一を超えることとなる学科区分に係るものを合算したものから、次に掲げるものを控除して算定するものとする。"
+                  }
+                },
+                "Item": [
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "1",
+                    "ItemTitle": "一",
+                    "ItemSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "平成三十二年一月一日以後に増加させた生徒総定員"
+                      }
+                    }
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "2",
+                    "ItemTitle": "二",
+                    "ItemSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "特定地域内学部等収容定員の減少の日前六月以内において授業を行っていない学科区分に係る生徒総定員"
+                      }
+                    }
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "3",
+                    "ItemTitle": "三",
+                    "ItemSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "当該専修学校の専門課程の学科の専任の教員のうち、次に掲げる者の合計数が専修学校設置基準（昭和五十一年文部省令第二号）第三十九条第二項で定める専任の教員の数に満たない部分の専門課程の学科に係る生徒総定員"
+                      }
+                    },
+                    "Subitem1": [
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "1",
+                        "Subitem1Title": "イ",
+                        "Subitem1Sentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "一週間に担当する授業科目の授業時数が六単位時間以上の者"
+                          }
+                        }
+                      },
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "2",
+                        "Subitem1Title": "ロ",
+                        "Subitem1Sentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "当該専修学校の校長その他当該学科の授業を担当する役職員（当該専修学校の設置者の役員又はこれらに準ずる役職にある者をいう。）"
+                          }
+                        }
+                      },
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "3",
+                        "Subitem1Title": "ハ",
+                        "Subitem1Sentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "イ及びロに掲げる者に準ずると認められる者"
+                          }
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "@Hide": "false",
+                "@Num": "2",
+                "ParagraphNum": "２",
+                "ParagraphSentence": {
+                  "Sentence": [
+                    {
+                      "@Num": "1",
+                      "@WritingMode": "vertical",
+                      "#text": "第三条第二項の規定は、前項の専修学校の専門課程に係る特定地域内学部等収容定員の算定について準用する。"
+                    },
+                    {
+                      "@Num": "2",
+                      "@WritingMode": "vertical",
+                      "#text": "この場合において、第三条第二項中「単位数」とあるのは、「授業時数」と読み替えるものとする。"
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "6",
+            "ArticleCaption": "（特定地域内学部等収容定員の減少と併せて行う特定地域内学部収容定員の増加の届出）",
+            "ArticleTitle": "第六条",
+            "Paragraph": [
+              {
+                "@Hide": "false",
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "令第四条第一項の規定による届出は、別記様式第一号による届出書に、別記様式第二号による説明書を添えて文部科学大臣に提出して行うものとする。"
+                  }
+                }
+              },
+              {
+                "@Hide": "false",
+                "@Num": "2",
+                "ParagraphNum": "２",
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "令第四条第一項に規定する内閣府令・文部科学省令で定める事項は、次に掲げるものとする。"
+                  }
+                },
+                "Item": [
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "1",
+                    "ItemTitle": "一",
+                    "ItemSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "特定地域内学部収容定員を増加させる大学の学部又は短期大学の学科の名称"
+                      }
+                    }
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "2",
+                    "ItemTitle": "二",
+                    "ItemSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "増加させる特定地域内学部収容定員の数"
+                      }
+                    }
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "3",
+                    "ItemTitle": "三",
+                    "ItemSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "特定地域内学部収容定員を増加させる時期"
+                      }
+                    }
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "4",
+                    "ItemTitle": "四",
+                    "ItemSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "特定地域内に所在する校舎の所在地"
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "@Hide": "false",
+                "@Num": "3",
+                "ParagraphNum": "３",
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "第一項の届出は、次に掲げる日のいずれか早い日までに行うものとする。"
+                  }
+                },
+                "Item": [
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "1",
+                    "ItemTitle": "一",
+                    "ItemSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "特定地域内学部収容定員の増加と併せて行う特定地域内学部等収容定員の減少を開始する日の前日"
+                      }
+                    }
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "2",
+                    "ItemTitle": "二",
+                    "ItemSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "特定地域内学部収容定員の増加に関し、当該増加に伴う学校教育法第四条第一項の認可の申請又は同条第二項後段若しくは同法に基づき若しくは同法を実施するための命令の規定による届出をする場合にあっては当該申請又は届出をする日、それ以外の場合にあっては特定地域内学部収容定員を増加させる年度の前年度の十二月三十一日"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "7",
+            "ArticleCaption": "（増加することができる特定地域内学部収容定員の範囲）",
+            "ArticleTitle": "第七条",
+            "Paragraph": {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "令第四条第二項第二号の内閣府令・文部科学省令で定めるところにより算定した数は、減少させる特定地域内学部等収容定員の数を、特定地域内学部等収容定員を減少させる専修学校の専門課程の学科区分の修業年限の年数（一未満の端数があるときは、これを切り上げた数）で除して得た数に、増加学科の修業年限の年数を乗じて得た数とする。"
+                }
+              }
+            }
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "8",
+            "ArticleCaption": "（就業者である学生に限定して特定地域内学部収容定員を増加させる場合等）",
+            "ArticleTitle": "第八条",
+            "Paragraph": [
+              {
+                "@Hide": "false",
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "令第五条第二号の内閣府令・文部科学省令で定める場合は、入学する日の属する年の前年において次の各号のいずれかに該当する者のうち、入学者の選抜に係る試験の日の六月前から三月前までの間、特定地域その他の当該大学に通常通学することができる地域に住所を有する者である学生に限定して特定地域内学部収容定員を増加させる場合とする。"
+                  }
+                },
+                "Item": [
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "1",
+                    "ItemTitle": "一",
+                    "ItemSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "一年を通じて一週間の所定労働時間が二十時間以上である者"
+                      }
+                    }
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "2",
+                    "ItemTitle": "二",
+                    "ItemSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "一年間における所得税法（昭和四十年法律第三十三号）第二十七条第二項に規定する事業所得の金額が五十七万円を超える者"
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "@Hide": "false",
+                "@Num": "2",
+                "ParagraphNum": "２",
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "令第五条第四号の内閣府令・文部科学省令で定める場合は、次に掲げる場合とする。"
+                  }
+                },
+                "Item": [
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "1",
+                    "ItemTitle": "一",
+                    "ItemSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "入学する日の属する年の三月三十一日までに満三十歳以上になる者である学生に限定して特定地域内学部収容定員を増加させる場合"
+                      }
+                    }
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "2",
+                    "ItemTitle": "二",
+                    "ItemSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "次のいずれかに該当する者のうち、入学者の選抜に係る試験の日の六月前から三月前までの間、特定地域その他の当該大学に通常通学することができる地域に住所を有する者である学生に限定して特定地域内学部収容定員を増加させる場合"
+                      }
+                    },
+                    "Subitem1": [
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "1",
+                        "Subitem1Title": "イ",
+                        "Subitem1Sentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "入学する日の属する年の前年以前の年において、前項各号のいずれかに該当していた者（前項の規定に該当する者を除く。）"
+                          }
+                        }
+                      },
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "2",
+                        "Subitem1Title": "ロ",
+                        "Subitem1Sentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "イに該当しない者のうち、入学者の選抜に係る試験の日の一年前の日から配偶者（婚姻の届出をしていないが、事実上婚姻関係と同様の事情にある者を含む。）及び子又はそのいずれかと同居している者"
+                          }
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "3",
+                    "ItemTitle": "三",
+                    "ItemSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "修業年限の後半を含む当該修業年限の二分の一以上の期間において、学生が東京圏（東京都、埼玉県、千葉県及び神奈川県の存する区域をいう。）以外の区域に所在する校舎で継続的に授業を受けることが確保され、かつ、当該期間を通じて当該校舎でのみ行われる必修科目又は選択科目（大学の定めるところにより、卒業の要件として学生が修得すべきものに限る。）が配当されているものに限定して特定地域内学部収容定員を増加させる場合"
+                      }
+                    }
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "4",
+                    "ItemTitle": "四",
+                    "ItemSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "大学の医学部（医学に関する学部の学科をいう。以下この号において同じ。）について、期間を付して、地域における医療及び介護の総合的な確保の促進に関する法律（平成元年法律第六十四号）第四条第一項の都道府県計画その他の都道府県が作成する医療に関する計画において当該大学の医学部に係る入学定員の増加として記載された人数（その人数が地域における医師の確保に資するため医師が不足すると見込まれる地域の病院又は診療所に将来勤務しようとする学生に対する修学資金を当該都道府県が貸与しようとする人数を超えるときは、当該人数）の範囲内で当該入学定員を増加させることに伴い、必要な限度において特定地域内学部収容定員を増加させる場合"
+                      }
+                    }
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "5",
+                    "ItemTitle": "五",
+                    "ItemSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "外国の大学の課程を有するものとして当該外国の学校教育制度において位置付けられた教育施設であって、世界最高水準の教育研究活動の展開が相当程度見込まれ、かつ、特定地域以外の地域における若者の著しい減少を助長するおそれが少ないものに係る特定地域内学部収容定員を増加させる場合"
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "@Hide": "false",
+                "@Num": "3",
+                "ParagraphNum": "３",
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "前項第一号及び第二号に規定する者に係る特定地域内学部収容定員は、令第五条第二号に掲げる場合に係る特定地域内学部収容定員と合わせて増加させることができる。"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "9",
+            "ArticleCaption": "（法第十三条第三号に該当する場合の届出）",
+            "ArticleTitle": "第九条",
+            "Paragraph": [
+              {
+                "@Hide": "false",
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "法第十三条第三号に掲げる場合に特定地域内学部収容定員を増加させようとする大学の設置者等は、別記様式第一号による届出書に、別記様式第三号による説明書を添えて文部科学大臣に届け出るものとする。"
+                  }
+                }
+              },
+              {
+                "@Hide": "false",
+                "@Num": "2",
+                "ParagraphNum": "２",
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "前項の規定による届出は、当該特定地域内学部収容定員の増加に伴う学校教育法第四条第一項の認可の申請又は同条第二項後段若しくは同法に基づき若しくは同法を実施するための命令の規定による届出をする場合には当該申請又は届出をする日までに、それ以外の場合には特定地域内学部収容定員を増加させる年度の前年度の十二月三十一日までに行うものとする。"
+                  }
+                }
+              }
+            ]
+          }
+        ]
+      },
+      "SupplProvision": [
+        {
+          "@Extract": "false",
+          "SupplProvisionLabel": "附　則",
+          "Article": [
+            {
+              "@Delete": "false",
+              "@Hide": "false",
+              "@Num": "1",
+              "ArticleCaption": "（施行期日）",
+              "ArticleTitle": "第一条",
+              "Paragraph": {
+                "@Hide": "false",
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "この命令は、法附則第一条第一号に掲げる規定の施行の日（平成三十年十月一日）から施行する。"
+                  }
+                }
+              }
+            },
+            {
+              "@Delete": "false",
+              "@Hide": "false",
+              "@Num": "2",
+              "ArticleCaption": "（学部が学科を設けていない場合の取扱い）",
+              "ArticleTitle": "第二条",
+              "Paragraph": {
+                "@Hide": "false",
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "大学設置基準附則第三項の規定によりなお従前の例によることができることとされている大学に関する令及びこの命令の規定の適用については、大学の学部に学科を設けていない場合にあっては当該学部が一の学科を設けているものと、大学の学部に学科以外の組織を設けている場合にあっては当該組織を当該学部の学科とみなす。"
+                  }
+                }
+              }
+            },
+            {
+              "@Delete": "false",
+              "@Hide": "false",
+              "@Num": "3",
+              "ArticleCaption": "（専門職学科）",
+              "ArticleTitle": "第三条",
+              "Paragraph": {
+                "@Hide": "false",
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "令附則第三条の内閣府令・文部科学省令で定めるところにより専門性が求められる職業を担うための実践的かつ応用的な能力を展開し、又は育成する教育課程を編成するものは、大学（専門職大学を除く。）の学部又は学部の学科にあっては大学設置基準第四十二条の四第二項の規定により組織する専門職学部又は同条第一項の規定により教育課程を編成する学部の専門職学科とし、短期大学（専門職短期大学を除く。）の学科にあっては短期大学設置基準（昭和五十年文部省令第二十一号）第三十五条の四の規定により教育課程を編成する専門職学科とする。"
+                  }
+                }
+              }
+            },
+            {
+              "@Delete": "false",
+              "@Hide": "false",
+              "@Num": "4",
+              "ArticleCaption": "（令附則第五条及び第六条の届出書の様式等）",
+              "ArticleTitle": "第四条",
+              "Paragraph": [
+                {
+                  "@Hide": "false",
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "令附則第五条及び第六条の内閣府令・文部科学省令で定める様式は、別記様式第一号とする。"
+                    }
+                  }
+                },
+                {
+                  "@Hide": "false",
+                  "@Num": "2",
+                  "ParagraphNum": "２",
+                  "ParagraphSentence": {
+                    "Sentence": [
+                      {
+                        "@Num": "1",
+                        "@WritingMode": "vertical",
+                        "#text": "第九条第二項の規定は、令附則第六条の規定による届出に準用する。"
+                      },
+                      {
+                        "@Num": "2",
+                        "@WritingMode": "vertical"
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            {
+              "@Delete": "false",
+              "@Hide": "false",
+              "@Num": "5",
+              "ArticleCaption": "（特定地域外から特定地域内への校舎の移転等についての届出）",
+              "ArticleTitle": "第五条",
+              "Paragraph": {
+                "@Hide": "false",
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "令附則第五条第四号に規定する内閣府令・文部科学省令で定める事項は、特定地域外から特定地域内への校舎の移転その他学校教育法第四条第一項の規定により文部科学大臣の認可を受けなければならないこととされている事項（次条第四項において「認可事項」という。）以外の事項であって、特定地域内学部収容定員を増加させるものとする。"
+                  }
+                }
+              }
+            },
+            {
+              "@Delete": "false",
+              "@Hide": "false",
+              "@Num": "6",
+              "ArticleCaption": "（令附則第七条第一号の意思決定の内容等）",
+              "ArticleTitle": "第六条",
+              "Paragraph": [
+                {
+                  "@Hide": "false",
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "令附則第七条第一号の意思決定は、次に掲げる事項の全てをその内容とするものとする。"
+                    }
+                  },
+                  "Item": [
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "1",
+                      "ItemTitle": "一",
+                      "ItemSentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "特定地域内における大学、大学の学部若しくは学部の学科若しくは短期大学の学科の設置、特定地域内に所在する大学の収容定員の増加、特定地域外から特定地域内への校舎の移転又はそれ以外の方法のいずれの方法により特定地域内学部収容定員を増加させるかの別"
+                        }
+                      }
+                    },
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "2",
+                      "ItemTitle": "二",
+                      "ItemSentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "増加させる特定地域内学部収容定員の数"
+                        }
+                      }
+                    },
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "3",
+                      "ItemTitle": "三",
+                      "ItemSentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "特定地域内に所在する校舎の所在地（建設予定地を含む。）"
+                        }
+                      }
+                    }
+                  ]
+                },
+                {
+                  "@Hide": "false",
+                  "@Num": "2",
+                  "ParagraphNum": "２",
+                  "ParagraphSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "令附則第七条第一号の公表は、刊行物への掲載、インターネットの利用その他広く周知を図ることができる方法によるものとする。"
+                    }
+                  }
+                },
+                {
+                  "@Hide": "false",
+                  "@Num": "3",
+                  "ParagraphNum": "３",
+                  "ParagraphSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "令附則第七条第二号の内閣府令・文部科学省令で定める契約その他の行為は、次の各号のいずれかに該当する行為であって、特定地域内学部収容定員を増加させるために必要なものとする。"
+                    }
+                  },
+                  "Item": [
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "1",
+                      "ItemTitle": "一",
+                      "ItemSentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "校舎の新築、改築、増築若しくは改修（以下この項において「新築等」という。）又は購入若しくは借受けに関する契約の締結"
+                        }
+                      }
+                    },
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "2",
+                      "ItemTitle": "二",
+                      "ItemSentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "校舎の設計又は新築等の工事に係る監理若しくは調査に関する契約の締結"
+                        }
+                      }
+                    },
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "3",
+                      "ItemTitle": "三",
+                      "ItemSentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "校舎の新築等のための土地の購入、借受け又は整備に関する契約の締結"
+                        }
+                      }
+                    },
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "4",
+                      "ItemTitle": "四",
+                      "ItemSentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "校舎以外の教育の用に供する施設の新築等若しくは購入による設置若しくは整備の完了又は教育の用に供する機械若しくは器具の購入若しくは製作による設置の完了（必要な校舎が既に新築等されている場合であって、かつ、特定地域内学部収容定員を増加させるために必要な量を準備した場合に限る。）"
+                        }
+                      }
+                    }
+                  ]
+                },
+                {
+                  "@Hide": "false",
+                  "@Num": "4",
+                  "ParagraphNum": "４",
+                  "ParagraphSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "第一項の意思決定、第二項の公表及び前項の契約その他の行為は、それらに係る特定地域内学部収容定員の増加が認可事項である場合においては平成二十九年九月三十日までに、それ以外の場合においては平成三十年九月三十日までに行われたものに限るものとする。"
+                    }
+                  }
+                }
+              ]
+            },
+            {
+              "@Delete": "false",
+              "@Hide": "false",
+              "@Num": "7",
+              "ArticleCaption": "（法附則第三条第四号の適用に係る届出）",
+              "ArticleTitle": "第七条",
+              "Paragraph": [
+                {
+                  "@Hide": "false",
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "法附則第三条第四号に掲げる場合に特定地域内学部収容定員を増加させようとする大学の設置者等は、別記様式第一号による届出書に、別記様式第四号による説明書を添えて文部科学大臣に届け出るものとする。"
+                    }
+                  }
+                },
+                {
+                  "@Hide": "false",
+                  "@Num": "2",
+                  "ParagraphNum": "２",
+                  "ParagraphSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "第九条第二項の規定は、前項の届出に準用する。"
+                    }
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "@AmendLawNum": "平成三〇年九月二八日内閣府・文部科学省令第二号",
+          "@Type": "Amend",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この命令は、平成三十一年四月一日から施行する。"
+              }
+            }
+          }
+        }
+      ],
+      "AppdxStyle": [
+        {
+          "AppdxStyleTitle": {
+            "@WritingMode": "vertical",
+            "#text": "別記様式第１号"
+          },
+          "RelatedArticleNum": null,
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/H30F100200001_1810261510_001.jpg"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": {
+            "@WritingMode": "vertical",
+            "#text": "別記様式第２号"
+          },
+          "RelatedArticleNum": null,
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/H30F100200001_1810261510_002.jpg"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": {
+            "@WritingMode": "vertical",
+            "#text": "別記様式第３号"
+          },
+          "RelatedArticleNum": null,
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/H30F100200001_1810261510_003.jpg"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": {
+            "@WritingMode": "vertical",
+            "#text": "別記様式第４号"
+          },
+          "RelatedArticleNum": null,
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/H30F100200001_1810261510_004.jpg"
+              }
+            }
+          }
+        }
+      ]
+    }
+  }
+}

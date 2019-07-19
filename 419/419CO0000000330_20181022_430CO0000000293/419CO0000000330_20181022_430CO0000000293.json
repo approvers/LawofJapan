@@ -1,0 +1,544 @@
+{
+  "Law": {
+    "@DataInfo": "181121e01k01m01",
+    "@Era": "Heisei",
+    "@Lang": "ja",
+    "@LawType": "CabinetOrder",
+    "@Num": "330",
+    "@Year": "19",
+    "LawNum": "平成十九年政令第三百三十号",
+    "LawBody": {
+      "LawTitle": "利息制限法施行令",
+      "EnactStatement": "内閣は、利息制限法（昭和二十九年法律第百号）第六条第一項及び第二項第三号並びに第八条第四項並びに第七項第一号ハ及び第二号の規定に基づき、この政令を制定する。",
+      "MainProvision": {
+        "Article": [
+          {
+            "@Num": "1",
+            "ArticleCaption": "（利息とみなされない費用）",
+            "ArticleTitle": "第一条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "利息制限法（以下「法」という。）第六条第一項の政令で定める費用は、法令の規定により業として貸付けを行うことができる者による当該業として行った営業的金銭消費貸借に関し債権者の受ける次に掲げる費用（消費税額及び当該消費税額を課税標準として課されるべき地方消費税額に相当する額（以下「消費税額等相当額」という。）を含む。）とする。"
+              },
+              "Item": [
+                {
+                  "@Num": "1",
+                  "ItemTitle": "一",
+                  "ItemSentence": {
+                    "Sentence": "金銭の貸付け及び弁済に用いるため債務者に交付されたカードの再発行の手数料"
+                  }
+                },
+                {
+                  "@Num": "2",
+                  "ItemTitle": "二",
+                  "ItemSentence": {
+                    "Sentence": "貸金業法（昭和五十八年法律第三十二号）の規定により営業的金銭消費貸借に関して債務者に交付された書面の再発行及び当該書面の交付に代えて同法第二条第十二項に規定する電磁的方法により債務者に提供された事項の再提供の手数料"
+                  }
+                },
+                {
+                  "@Num": "3",
+                  "ItemTitle": "三",
+                  "ItemSentence": {
+                    "Sentence": "口座振替の方法による弁済において、債務者が弁済期に弁済できなかった場合に行う再度の口座振替手続に要する費用"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "@Num": "2",
+            "ArticleCaption": "（利息とみなされない現金自動支払機その他の機械の利用料の範囲）",
+            "ArticleTitle": "第二条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "法第六条第二項第三号の政令で定める額は、現金自動支払機その他の機械を利用して受け取り、又は支払う次の各号に掲げる額の区分に応じ、当該各号に定める額（消費税額等相当額を含む。）とする。"
+              },
+              "Item": [
+                {
+                  "@Num": "1",
+                  "ItemTitle": "一",
+                  "ItemSentence": {
+                    "Column": [
+                      {
+                        "@Num": "1",
+                        "Sentence": "一万円以下の額"
+                      },
+                      {
+                        "@Num": "2",
+                        "Sentence": "百八円"
+                      }
+                    ]
+                  }
+                },
+                {
+                  "@Num": "2",
+                  "ItemTitle": "二",
+                  "ItemSentence": {
+                    "Column": [
+                      {
+                        "@Num": "1",
+                        "Sentence": "一万円を超える額"
+                      },
+                      {
+                        "@Num": "2",
+                        "Sentence": "二百十六円"
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "@Num": "3",
+            "ArticleCaption": "（保証の業務に関して行政機関の監督を受ける者）",
+            "ArticleTitle": "第三条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "法第八条第四項の政令で定める者は、次に掲げる者とする。"
+              },
+              "Item": [
+                {
+                  "@Num": "1",
+                  "ItemTitle": "一",
+                  "ItemSentence": {
+                    "Sentence": "銀行"
+                  }
+                },
+                {
+                  "@Num": "2",
+                  "ItemTitle": "二",
+                  "ItemSentence": {
+                    "Sentence": "信用金庫"
+                  }
+                },
+                {
+                  "@Num": "3",
+                  "ItemTitle": "三",
+                  "ItemSentence": {
+                    "Sentence": "信用金庫連合会"
+                  }
+                },
+                {
+                  "@Num": "4",
+                  "ItemTitle": "四",
+                  "ItemSentence": {
+                    "Sentence": "労働金庫"
+                  }
+                },
+                {
+                  "@Num": "5",
+                  "ItemTitle": "五",
+                  "ItemSentence": {
+                    "Sentence": "労働金庫連合会"
+                  }
+                },
+                {
+                  "@Num": "6",
+                  "ItemTitle": "六",
+                  "ItemSentence": {
+                    "Sentence": "信用協同組合"
+                  }
+                },
+                {
+                  "@Num": "7",
+                  "ItemTitle": "七",
+                  "ItemSentence": {
+                    "Sentence": "信用協同組合連合会"
+                  }
+                },
+                {
+                  "@Num": "8",
+                  "ItemTitle": "八",
+                  "ItemSentence": {
+                    "Sentence": "農業協同組合"
+                  }
+                },
+                {
+                  "@Num": "9",
+                  "ItemTitle": "九",
+                  "ItemSentence": {
+                    "Sentence": "農業協同組合連合会"
+                  }
+                },
+                {
+                  "@Num": "10",
+                  "ItemTitle": "十",
+                  "ItemSentence": {
+                    "Sentence": "漁業協同組合"
+                  }
+                },
+                {
+                  "@Num": "11",
+                  "ItemTitle": "十一",
+                  "ItemSentence": {
+                    "Sentence": "漁業協同組合連合会"
+                  }
+                },
+                {
+                  "@Num": "12",
+                  "ItemTitle": "十二",
+                  "ItemSentence": {
+                    "Sentence": "水産加工業協同組合"
+                  }
+                },
+                {
+                  "@Num": "13",
+                  "ItemTitle": "十三",
+                  "ItemSentence": {
+                    "Sentence": "水産加工業協同組合連合会"
+                  }
+                },
+                {
+                  "@Num": "14",
+                  "ItemTitle": "十四",
+                  "ItemSentence": {
+                    "Sentence": "農林中央金庫"
+                  }
+                },
+                {
+                  "@Num": "15",
+                  "ItemTitle": "十五",
+                  "ItemSentence": {
+                    "Sentence": "株式会社商工組合中央金庫"
+                  }
+                },
+                {
+                  "@Num": "16",
+                  "ItemTitle": "十六",
+                  "ItemSentence": {
+                    "Sentence": "保険会社"
+                  }
+                },
+                {
+                  "@Num": "17",
+                  "ItemTitle": "十七",
+                  "ItemSentence": {
+                    "Sentence": "保険業法（平成七年法律第百五号）第二条第七項に規定する外国保険会社等"
+                  }
+                },
+                {
+                  "@Num": "18",
+                  "ItemTitle": "十八",
+                  "ItemSentence": {
+                    "Sentence": "沖縄振興開発金融公庫"
+                  }
+                },
+                {
+                  "@Num": "19",
+                  "ItemTitle": "十九",
+                  "ItemSentence": {
+                    "Sentence": "株式会社国際協力銀行"
+                  }
+                },
+                {
+                  "@Num": "20",
+                  "ItemTitle": "二十",
+                  "ItemSentence": {
+                    "Sentence": "食品等流通合理化促進機構"
+                  }
+                },
+                {
+                  "@Num": "21",
+                  "ItemTitle": "二十一",
+                  "ItemSentence": {
+                    "Sentence": "米穀安定供給確保支援機構"
+                  }
+                },
+                {
+                  "@Num": "22",
+                  "ItemTitle": "二十二",
+                  "ItemSentence": {
+                    "Sentence": "独立行政法人農林漁業信用基金"
+                  }
+                },
+                {
+                  "@Num": "23",
+                  "ItemTitle": "二十三",
+                  "ItemSentence": {
+                    "Sentence": "農業信用基金協会"
+                  }
+                },
+                {
+                  "@Num": "24",
+                  "ItemTitle": "二十四",
+                  "ItemSentence": {
+                    "Sentence": "森林組合"
+                  }
+                },
+                {
+                  "@Num": "25",
+                  "ItemTitle": "二十五",
+                  "ItemSentence": {
+                    "Sentence": "森林組合連合会"
+                  }
+                },
+                {
+                  "@Num": "26",
+                  "ItemTitle": "二十六",
+                  "ItemSentence": {
+                    "Sentence": "漁業信用基金協会"
+                  }
+                },
+                {
+                  "@Num": "27",
+                  "ItemTitle": "二十七",
+                  "ItemSentence": {
+                    "Sentence": "輸出水産業組合"
+                  }
+                },
+                {
+                  "@Num": "28",
+                  "ItemTitle": "二十八",
+                  "ItemSentence": {
+                    "Sentence": "独立行政法人情報処理推進機構"
+                  }
+                },
+                {
+                  "@Num": "29",
+                  "ItemTitle": "二十九",
+                  "ItemSentence": {
+                    "Sentence": "株式会社日本政策金融公庫"
+                  }
+                },
+                {
+                  "@Num": "30",
+                  "ItemTitle": "三十",
+                  "ItemSentence": {
+                    "Sentence": "信用保証協会"
+                  }
+                },
+                {
+                  "@Num": "31",
+                  "ItemTitle": "三十一",
+                  "ItemSentence": {
+                    "Sentence": "独立行政法人中小企業基盤整備機構"
+                  }
+                },
+                {
+                  "@Num": "32",
+                  "ItemTitle": "三十二",
+                  "ItemSentence": {
+                    "Sentence": "商工組合"
+                  }
+                },
+                {
+                  "@Num": "33",
+                  "ItemTitle": "三十三",
+                  "ItemSentence": {
+                    "Sentence": "商工組合連合会"
+                  }
+                },
+                {
+                  "@Num": "34",
+                  "ItemTitle": "三十四",
+                  "ItemSentence": {
+                    "Sentence": "独立行政法人奄美群島振興開発基金"
+                  }
+                },
+                {
+                  "@Num": "35",
+                  "ItemTitle": "三十五",
+                  "ItemSentence": {
+                    "Sentence": "独立行政法人住宅金融支援機構"
+                  }
+                },
+                {
+                  "@Num": "36",
+                  "ItemTitle": "三十六",
+                  "ItemSentence": {
+                    "Sentence": "内航海運組合"
+                  }
+                },
+                {
+                  "@Num": "37",
+                  "ItemTitle": "三十七",
+                  "ItemSentence": {
+                    "Sentence": "内航海運組合連合会"
+                  }
+                },
+                {
+                  "@Num": "38",
+                  "ItemTitle": "三十八",
+                  "ItemSentence": {
+                    "Sentence": "事業協同組合"
+                  }
+                },
+                {
+                  "@Num": "39",
+                  "ItemTitle": "三十九",
+                  "ItemSentence": {
+                    "Sentence": "事業協同小組合"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "@Num": "4",
+            "ArticleCaption": "（保証料とみなされない現金自動支払機その他の機械の利用料の範囲）",
+            "ArticleTitle": "第四条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "法第八条第七項第一号ハの政令で定める額は、現金自動支払機その他の機械を利用して支払う次の各号に掲げる額の区分に応じ、当該各号に定める額（消費税額等相当額を含む。）とする。"
+              },
+              "Item": [
+                {
+                  "@Num": "1",
+                  "ItemTitle": "一",
+                  "ItemSentence": {
+                    "Column": [
+                      {
+                        "@Num": "1",
+                        "Sentence": "一万円以下の額"
+                      },
+                      {
+                        "@Num": "2",
+                        "Sentence": "百八円"
+                      }
+                    ]
+                  }
+                },
+                {
+                  "@Num": "2",
+                  "ItemTitle": "二",
+                  "ItemSentence": {
+                    "Column": [
+                      {
+                        "@Num": "1",
+                        "Sentence": "一万円を超える額"
+                      },
+                      {
+                        "@Num": "2",
+                        "Sentence": "二百十六円"
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "@Num": "5",
+            "ArticleCaption": "（保証料とみなされない費用）",
+            "ArticleTitle": "第五条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "法第八条第七項第二号の政令で定める費用は、法令の規定により業として貸付けを行うことができる者による当該業として行った営業的金銭消費貸借上の債務を主たる債務とする保証契約に関し保証人が受ける次に掲げる費用（消費税額等相当額を含む。）とする。"
+              },
+              "Item": [
+                {
+                  "@Num": "1",
+                  "ItemTitle": "一",
+                  "ItemSentence": {
+                    "Sentence": "弁済に用いるため主たる債務者に交付されたカードの再発行の手数料"
+                  }
+                },
+                {
+                  "@Num": "2",
+                  "ItemTitle": "二",
+                  "ItemSentence": {
+                    "Sentence": "口座振替の方法による弁済において、主たる債務者が弁済期に弁済できなかった場合に行う再度の口座振替手続に要する費用"
+                  }
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "SupplProvision": [
+        {
+          "@Type": "New",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この政令は、貸金業の規制等に関する法律等の一部を改正する法律（平成十八年法律第百十五号）附則第一条第四号に掲げる規定の施行の日から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成二三年一二月二六日政令第四二三号",
+          "@Extract": "true",
+          "@Type": "Amend",
+          "SupplProvisionLabel": "附　則",
+          "Article": {
+            "@Num": "1",
+            "ArticleCaption": "（施行期日）",
+            "ArticleTitle": "第一条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "この政令は、平成二十四年四月一日から施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成二六年三月五日政令第五一号",
+          "@Type": "Amend",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": [
+            {
+              "@Num": "1",
+              "ParagraphCaption": "（施行期日）",
+              "ParagraphNum": "１",
+              "ParagraphSentence": {
+                "Sentence": "この政令は、平成二十六年四月一日から施行する。"
+              }
+            },
+            {
+              "@Num": "2",
+              "ParagraphCaption": "（経過措置）",
+              "ParagraphNum": "２",
+              "ParagraphSentence": {
+                "Sentence": "第一条の規定による改正後の利息制限法施行令第二条及び第四条の規定、第二条の規定による改正後の貸金業法施行令第三条の二の三の規定並びに第三条の規定による改正後の出資の受入れ、預り金及び金利等の取締りに関する法律施行令第二条の規定は、この政令の施行の日以後の現金自動支払機その他の機械の利用に係る利用料について適用し、同日前の現金自動支払機その他の機械の利用に係る利用料については、なお従前の例による。"
+              }
+            }
+          ]
+        },
+        {
+          "@AmendLawNum": "平成二八年一二月二六日政令第三九六号",
+          "@Type": "Amend",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この政令は、平成二十九年四月一日から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成三〇年一〇月一七日政令第二九三号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Article": {
+            "@Num": "1",
+            "ArticleCaption": "（施行期日）",
+            "ArticleTitle": "第一条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "この政令は、改正法の施行の日（平成三十年十月二十二日）から施行する。"
+              }
+            }
+          }
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,388 @@
+{
+  "Law": {
+    "@Era": "Heisei",
+    "@Lang": "ja",
+    "@LawType": "CabinetOrder",
+    "@Num": "433",
+    "@Year": "13",
+    "LawNum": "平成十三年政令第四百三十三号",
+    "LawBody": {
+      "LawTitle": "水路業務法施行令",
+      "EnactStatement": "内閣は、測量法及び水路業務法の一部を改正する法律（平成十三年法律第五十三号）の施行に伴い、水路業務法（昭和二十五年法律第百二号）第九条第一項及び第二項第一号の規定に基づき、この政令を制定する。",
+      "MainProvision": {
+        "Article": [
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "1",
+            "ArticleCaption": "（水路測量の事項及びその測量の基準）",
+            "ArticleTitle": "第一条",
+            "Paragraph": {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": [
+                  {
+                    "@Function": "main",
+                    "@Num": "1",
+                    "@WritingMode": "vertical",
+                    "#text": "水路業務法（以下「法」という。）第九条第一項の政令で定める事項は、次の表の上欄に掲げるとおりとし、同項の政令で定める測量の基準は、当該事項ごとにそれぞれ同表の下欄に掲げるとおりとする。"
+                  },
+                  {
+                    "@Function": "proviso",
+                    "@Num": "2",
+                    "@WritingMode": "vertical",
+                    "#text": "ただし、専ら外国政府のために行う水路測量その他の同表に掲げる事項及びその測量の基準に従って行うことが適当でないものとして国土交通省令で定める水路測量は、同表に掲げる事項及びその測量の基準に代えて国土交通省令で定める測量の基準に従って行うことができる。"
+                  }
+                ]
+              },
+              "TableStruct": {
+                "Table": {
+                  "@WritingMode": "vertical",
+                  "TableRow": [
+                    {
+                      "TableColumn": [
+                        {
+                          "@BorderBottom": "solid",
+                          "@BorderLeft": "solid",
+                          "@BorderRight": "solid",
+                          "@BorderTop": "solid",
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "事項"
+                          }
+                        },
+                        {
+                          "@BorderBottom": "solid",
+                          "@BorderLeft": "solid",
+                          "@BorderRight": "solid",
+                          "@BorderTop": "solid",
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "測量の基準"
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "@BorderBottom": "solid",
+                          "@BorderLeft": "solid",
+                          "@BorderRight": "solid",
+                          "@BorderTop": "solid",
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "一　灯台その他の物標の標高"
+                          }
+                        },
+                        {
+                          "@BorderBottom": "solid",
+                          "@BorderLeft": "solid",
+                          "@BorderRight": "solid",
+                          "@BorderTop": "solid",
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "平均水面からの高さ"
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "@BorderBottom": "solid",
+                          "@BorderLeft": "solid",
+                          "@BorderRight": "solid",
+                          "@BorderTop": "solid",
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "二　可航水域の上空にある橋梁その他の障害物の高さ"
+                          }
+                        },
+                        {
+                          "@BorderBottom": "solid",
+                          "@BorderLeft": "solid",
+                          "@BorderRight": "solid",
+                          "@BorderTop": "solid",
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "最高水面からの高さ"
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "@BorderBottom": "solid",
+                          "@BorderLeft": "solid",
+                          "@BorderRight": "solid",
+                          "@BorderTop": "solid",
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "Ruby": {
+                              "Rt": "たい",
+                              "#text": "堆"
+                            },
+                            "#text": "三　干出する岩その他の物及び干出の高さ"
+                          }
+                        },
+                        {
+                          "@BorderBottom": "solid",
+                          "@BorderLeft": "solid",
+                          "@BorderRight": "solid",
+                          "@BorderTop": "solid",
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "最低水面からの高さ"
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "@BorderBottom": "solid",
+                          "@BorderLeft": "solid",
+                          "@BorderRight": "solid",
+                          "@BorderTop": "solid",
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "四　水深"
+                          }
+                        },
+                        {
+                          "@BorderBottom": "solid",
+                          "@BorderLeft": "solid",
+                          "@BorderRight": "solid",
+                          "@BorderTop": "solid",
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "最低水面からの深さ"
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "@BorderBottom": "solid",
+                          "@BorderLeft": "solid",
+                          "@BorderRight": "solid",
+                          "@BorderTop": "solid",
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "五　海岸線（河岸線及び湖岸線を含む。）"
+                          }
+                        },
+                        {
+                          "@BorderBottom": "solid",
+                          "@BorderLeft": "solid",
+                          "@BorderRight": "solid",
+                          "@BorderTop": "solid",
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "水面が最高水面に達した時の陸地と水面との境界"
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "@BorderBottom": "solid",
+                          "@BorderLeft": "solid",
+                          "@BorderRight": "solid",
+                          "@BorderTop": "solid",
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "六　低潮線"
+                          }
+                        },
+                        {
+                          "@BorderBottom": "solid",
+                          "@BorderLeft": "solid",
+                          "@BorderRight": "solid",
+                          "@BorderTop": "solid",
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "水面が最低水面に達した時の陸地と水面との境界"
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "@BorderBottom": "solid",
+                          "@BorderLeft": "solid",
+                          "@BorderRight": "solid",
+                          "@BorderTop": "solid",
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "七　浮標の位置"
+                          }
+                        },
+                        {
+                          "@BorderBottom": "solid",
+                          "@BorderLeft": "solid",
+                          "@BorderRight": "solid",
+                          "@BorderTop": "solid",
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "浮遊する範囲の中心の位置"
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "@BorderBottom": "solid",
+                          "@BorderLeft": "solid",
+                          "@BorderRight": "solid",
+                          "@BorderTop": "solid",
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "八　底質"
+                          }
+                        },
+                        {
+                          "@BorderBottom": "solid",
+                          "@BorderLeft": "solid",
+                          "@BorderRight": "solid",
+                          "@BorderTop": "solid",
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "水底を構成する物質の性状"
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": {
+                        "@BorderBottom": "solid",
+                        "@BorderLeft": "solid",
+                        "@BorderRight": "solid",
+                        "@BorderTop": "solid",
+                        "@colspan": "2",
+                        "Sentence": [
+                          {
+                            "@WritingMode": "vertical",
+                            "#text": "備考"
+                          },
+                          {
+                            "@WritingMode": "vertical",
+                            "#text": "一　平均水面、最高水面及び最低水面の高さは、海上保安庁長官が公示するところによる。"
+                          },
+                          {
+                            "@WritingMode": "vertical",
+                            "#text": "二　この表の各号の下欄に掲げる測量の基準を適用する場合における当該各号の上欄に掲げる事項についての測定又は調査の方法は、海上保安庁長官が公示するところによる。"
+                          }
+                        ]
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "2",
+            "ArticleCaption": {
+              "Ruby": {
+                "Rt": "へん",
+                "#text": "扁"
+              },
+              "#text": "（長半径及び平率）"
+            },
+            "ArticleTitle": "第二条",
+            "Paragraph": {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "法第九条第二項第一号の政令で定める値は、次のとおりとする。"
+                }
+              },
+              "Item": [
+                {
+                  "@Delete": "false",
+                  "@Hide": "false",
+                  "@Num": "1",
+                  "ItemTitle": "一",
+                  "ItemSentence": {
+                    "Column": [
+                      {
+                        "@LineBreak": "false",
+                        "@Num": "1",
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "長半径"
+                        }
+                      },
+                      {
+                        "@LineBreak": "false",
+                        "@Num": "2",
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "六百三十七万八千百三十七メートル"
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "@Delete": "false",
+                  "@Hide": "false",
+                  "@Num": "2",
+                  "ItemTitle": "二",
+                  "ItemSentence": {
+                    "Column": [
+                      {
+                        "@LineBreak": "false",
+                        "@Num": "1",
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "扁平率"
+                        }
+                      },
+                      {
+                        "@LineBreak": "false",
+                        "@Num": "2",
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "二百九十八・二五七二二三五六三分の一"
+                        }
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "SupplProvision": {
+        "SupplProvisionLabel": "附　則",
+        "Paragraph": {
+          "@Hide": "false",
+          "@Num": "1",
+          "ParagraphNum": null,
+          "ParagraphSentence": {
+            "Sentence": {
+              "@WritingMode": "vertical",
+              "#text": "この政令は、測量法及び水路業務法の一部を改正する法律の施行の日（平成十四年四月一日）から施行する。"
+            }
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,521 @@
+{
+  "Law": {
+    "@Era": "Showa",
+    "@Lang": "ja",
+    "@LawType": "MinisterialOrdinance",
+    "@Num": "002",
+    "@Year": "20",
+    "LawNum": "昭和二十年第一復員省令第二号",
+    "LawBody": {
+      "LawTitle": "昭和二十年一復省令第二号（死亡等ニ関スル諸手続ヲ完了セル軍人及軍属中生還セル者ノアリタル場合ニ於ケル届出ニ関スル件）",
+      "EnactStatement": "死亡等ニ関スル諸手続ヲ完了セル軍人及軍属中生還セル者ノアリタル場合ニ於ケル届出ニ関スル件左ノ通定ム",
+      "MainProvision": {
+        "Article": [
+          {
+            "@Num": "1",
+            "ArticleTitle": "第一条",
+            "Paragraph": [
+              {
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": "死亡等ニ関スル諸手続ヲ完了セル軍人及軍属中生還セル者（生還者ト称ス以下同ジ）ノアリタル場合ニ於テハ其ノ留守ヲ担当シアリタル者（留守担当者ト称ス以下同ジ）ハ生還者ト連署ヲ以テ生還者ノ内地上陸後二月以内ニ其ノ旨生還者ノ本籍地市区町村長ヲ経テ生還者ノ本籍地地方世話部長ニ届出ヅベシ但シ留守担当者ナキトキハ生還者ニ於テ届出ヅルモノトス"
+                }
+              },
+              {
+                "@Num": "2",
+                "ParagraphNum": "○２",
+                "ParagraphSentence": {
+                  "Sentence": "書面ヲ以テスル場合ニ於ケル前項届出ノ様式左ノ如シ"
+                },
+                "TableStruct": {
+                  "TableStructTitle": "用紙適宜",
+                  "Table": {
+                    "TableRow": [
+                      {
+                        "TableColumn": [
+                          {
+                            "@BorderBottom": "none",
+                            "@BorderRight": "none",
+                            "@colspan": "2",
+                            "Sentence": null
+                          },
+                          {
+                            "@BorderBottom": "none",
+                            "@BorderLeft": "none",
+                            "@colspan": "3",
+                            "Sentence": "生還者届"
+                          }
+                        ]
+                      },
+                      {
+                        "TableColumn": [
+                          {
+                            "@BorderBottom": "none",
+                            "@BorderRight": "none",
+                            "@BorderTop": "none",
+                            "Sentence": "一"
+                          },
+                          {
+                            "@BorderBottom": "none",
+                            "@BorderLeft": "none",
+                            "@BorderRight": "none",
+                            "@BorderTop": "none",
+                            "@colspan": "2",
+                            "Sentence": "氏名"
+                          },
+                          {
+                            "@BorderBottom": "none",
+                            "@BorderLeft": "none",
+                            "@BorderTop": "none",
+                            "@colspan": "2",
+                            "@rowspan": "10",
+                            "Sentence": null
+                          }
+                        ]
+                      },
+                      {
+                        "TableColumn": [
+                          {
+                            "@BorderBottom": "none",
+                            "@BorderRight": "none",
+                            "@BorderTop": "none",
+                            "Sentence": "二"
+                          },
+                          {
+                            "@BorderBottom": "none",
+                            "@BorderLeft": "none",
+                            "@BorderRight": "none",
+                            "@BorderTop": "none",
+                            "@colspan": "2",
+                            "Sentence": "本籍地"
+                          }
+                        ]
+                      },
+                      {
+                        "TableColumn": [
+                          {
+                            "@BorderBottom": "none",
+                            "@BorderRight": "none",
+                            "@BorderTop": "none",
+                            "Sentence": "三"
+                          },
+                          {
+                            "@BorderBottom": "none",
+                            "@BorderLeft": "none",
+                            "@BorderRight": "none",
+                            "@BorderTop": "none",
+                            "@colspan": "2",
+                            "Sentence": "現住地"
+                          }
+                        ]
+                      },
+                      {
+                        "TableColumn": [
+                          {
+                            "@BorderBottom": "none",
+                            "@BorderRight": "none",
+                            "@BorderTop": "none",
+                            "Sentence": "四"
+                          },
+                          {
+                            "@BorderBottom": "none",
+                            "@BorderLeft": "none",
+                            "@BorderRight": "none",
+                            "@BorderTop": "none",
+                            "@colspan": "2",
+                            "Sentence": "戸主及戸主トノ続柄"
+                          }
+                        ]
+                      },
+                      {
+                        "TableColumn": [
+                          {
+                            "@BorderBottom": "none",
+                            "@BorderRight": "none",
+                            "@BorderTop": "none",
+                            "Sentence": "五"
+                          },
+                          {
+                            "@BorderBottom": "none",
+                            "@BorderLeft": "none",
+                            "@BorderRight": "none",
+                            "@BorderTop": "none",
+                            "@colspan": "2",
+                            "Sentence": "役種、兵種、徴集（任官）年、官等級"
+                          }
+                        ]
+                      },
+                      {
+                        "TableColumn": [
+                          {
+                            "@BorderBottom": "none",
+                            "@BorderRight": "none",
+                            "@BorderTop": "none",
+                            "Sentence": "六"
+                          },
+                          {
+                            "@BorderBottom": "none",
+                            "@BorderLeft": "none",
+                            "@BorderRight": "none",
+                            "@BorderTop": "none",
+                            "@colspan": "2",
+                            "Sentence": "所属部隊名"
+                          }
+                        ]
+                      },
+                      {
+                        "TableColumn": [
+                          {
+                            "@BorderBottom": "none",
+                            "@BorderRight": "none",
+                            "@BorderTop": "none",
+                            "Sentence": "七"
+                          },
+                          {
+                            "@BorderBottom": "none",
+                            "@BorderLeft": "none",
+                            "@BorderRight": "none",
+                            "@BorderTop": "none",
+                            "@colspan": "2",
+                            "Sentence": "所属部隊長ノ官等級氏名"
+                          }
+                        ]
+                      },
+                      {
+                        "TableColumn": [
+                          {
+                            "@BorderBottom": "none",
+                            "@BorderRight": "none",
+                            "@BorderTop": "none",
+                            "Sentence": "八"
+                          },
+                          {
+                            "@BorderBottom": "none",
+                            "@BorderLeft": "none",
+                            "@BorderRight": "none",
+                            "@BorderTop": "none",
+                            "@colspan": "2",
+                            "Sentence": "公報記載ノ死亡年月日"
+                          }
+                        ]
+                      },
+                      {
+                        "TableColumn": [
+                          {
+                            "@BorderBottom": "none",
+                            "@BorderRight": "none",
+                            "@BorderTop": "none",
+                            "Sentence": "九"
+                          },
+                          {
+                            "@BorderBottom": "none",
+                            "@BorderLeft": "none",
+                            "@BorderRight": "none",
+                            "@BorderTop": "none",
+                            "@colspan": "2",
+                            "Sentence": "内地上陸年月日"
+                          }
+                        ]
+                      },
+                      {
+                        "TableColumn": [
+                          {
+                            "@BorderBottom": "none",
+                            "@BorderRight": "none",
+                            "@BorderTop": "none",
+                            "Sentence": "十"
+                          },
+                          {
+                            "@BorderBottom": "none",
+                            "@BorderLeft": "none",
+                            "@BorderRight": "none",
+                            "@BorderTop": "none",
+                            "@colspan": "2",
+                            "Sentence": "内地上陸地名"
+                          }
+                        ]
+                      },
+                      {
+                        "TableColumn": {
+                          "@BorderBottom": "none",
+                          "@BorderTop": "none",
+                          "@colspan": "5",
+                          "Sentence": "右及届出候也"
+                        }
+                      },
+                      {
+                        "TableColumn": {
+                          "@BorderBottom": "none",
+                          "@BorderTop": "none",
+                          "@colspan": "5",
+                          "Sentence": "年　月　日"
+                        }
+                      },
+                      {
+                        "TableColumn": [
+                          {
+                            "@BorderBottom": "none",
+                            "@BorderRight": "none",
+                            "@BorderTop": "none",
+                            "@colspan": "4",
+                            "Sentence": null
+                          },
+                          {
+                            "@BorderBottom": "none",
+                            "@BorderLeft": "none",
+                            "@BorderTop": "none",
+                            "Sentence": "本籍地"
+                          }
+                        ]
+                      },
+                      {
+                        "TableColumn": [
+                          {
+                            "@BorderBottom": "none",
+                            "@BorderRight": "none",
+                            "@BorderTop": "none",
+                            "@colspan": "4",
+                            "Sentence": null
+                          },
+                          {
+                            "@BorderBottom": "none",
+                            "@BorderLeft": "none",
+                            "@BorderTop": "none",
+                            "Sentence": "現住地"
+                          }
+                        ]
+                      },
+                      {
+                        "TableColumn": [
+                          {
+                            "@BorderBottom": "none",
+                            "@BorderRight": "none",
+                            "@BorderTop": "none",
+                            "@colspan": "4",
+                            "Sentence": null
+                          },
+                          {
+                            "@Align": "right",
+                            "@BorderBottom": "none",
+                            "@BorderLeft": "none",
+                            "@BorderTop": "none",
+                            "Sentence": "留守担当者　　　　（印）"
+                          }
+                        ]
+                      },
+                      {
+                        "TableColumn": [
+                          {
+                            "@BorderBottom": "none",
+                            "@BorderRight": "none",
+                            "@BorderTop": "none",
+                            "@colspan": "4",
+                            "Sentence": null
+                          },
+                          {
+                            "@Align": "right",
+                            "@BorderBottom": "none",
+                            "@BorderLeft": "none",
+                            "@BorderTop": "none",
+                            "Sentence": "生還者　　　　（印）"
+                          }
+                        ]
+                      },
+                      {
+                        "TableColumn": {
+                          "@BorderTop": "none",
+                          "@colspan": "5",
+                          "Sentence": "何地方世話部長　　殿"
+                        }
+                      }
+                    ]
+                  },
+                  "Remarks": {
+                    "RemarksLabel": {
+                      "@LineBreak": "true",
+                      "#text": "調製上ノ注意"
+                    },
+                    "Item": [
+                      {
+                        "@Num": "1",
+                        "ItemTitle": "一",
+                        "ItemSentence": {
+                          "Sentence": "役種、兵種、官等級、所属部隊名及所属部隊長ノ官等級氏名ハ公報記載ノ死亡年月日ニ於ケルモノヲ記載シ且所属部隊名ハ通称号ヲ併記スルモノトス"
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "ItemTitle": "二",
+                        "ItemSentence": {
+                          "Sentence": "生還者軍属ナルトキハ役種、兵種、徴集（任官）年、官等級ノ項ハ文官ニ在リテハ官名ヲ、其ノ他ノモノニ在リテハ通訳、嘱託、雇員、傭人、看護婦等ノ身分ヲ記載スルモノトス"
+                        }
+                      },
+                      {
+                        "@Num": "3",
+                        "ItemTitle": "三",
+                        "ItemSentence": {
+                          "Sentence": "公報記載ノ死亡年月日明カナラザルトキハ戸籍記載ノ死亡年月日ニ付記載スルモノトス"
+                        }
+                      }
+                    ]
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "@Num": "2",
+            "ArticleTitle": "第二条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "市区町村長前条ノ規定ニ依ル届出ヲ受ケタルトキハ死亡ニ関スル公報記載ノ本人ナルコトヲ調査シ其ノ旨奥書証明ヲ為シ速ニ地方世話部長ニ送付スベシ"
+              }
+            }
+          },
+          {
+            "@Num": "3",
+            "ArticleTitle": "第三条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "地方世話部長第一条ノ規定ニ依ル届出ヲ受ケタルトキハ死亡ニ伴ヒ連隊区司令部又ハ地方世話部ニ於テ処理シタル関係書類等ニ付調査ノ上左ノ各号ニ依リ処理スベシ"
+              },
+              "Item": [
+                {
+                  "@Num": "1",
+                  "ItemTitle": "一",
+                  "ItemSentence": {
+                    "Sentence": "戸籍法第百十九条ノ規定ニ依リ死亡報告ヲ為シタル者ニ在リテハ速ニ左ノ様式ニ依リ死亡報告取消通知ヲ生還者ノ本籍地市区町村長ニ送付スルト共ニ生還者ノ留守担当者（留守担当者ナキ場合ニ於テハ生還者）ニ死亡告知取消通知（様式ハ死亡報告取消通知ノ様式ニ準ズ但シ市区町村長ニ対スル戸籍訂正ハ官ニ於テ処理スル旨ヲ附記スルモノトス）ヲ為スモノトス"
+                  },
+                  "TableStruct": {
+                    "TableStructTitle": "用紙適宜",
+                    "Table": {
+                      "TableRow": [
+                        {
+                          "TableColumn": {
+                            "@BorderBottom": "none",
+                            "@colspan": "4",
+                            "Sentence": [
+                              "発翰番号",
+                              "死亡報告取消通知"
+                            ]
+                          }
+                        },
+                        {
+                          "TableColumn": [
+                            {
+                              "@BorderBottom": "none",
+                              "@BorderRight": "none",
+                              "@BorderTop": "none",
+                              "Sentence": null
+                            },
+                            {
+                              "@BorderBottom": "none",
+                              "@BorderLeft": "none",
+                              "@BorderTop": "none",
+                              "@colspan": "3",
+                              "Sentence": "本籍地"
+                            }
+                          ]
+                        },
+                        {
+                          "TableColumn": [
+                            {
+                              "@BorderBottom": "none",
+                              "@BorderRight": "none",
+                              "@BorderTop": "none",
+                              "@colspan": "2",
+                              "Sentence": null
+                            },
+                            {
+                              "@BorderBottom": "none",
+                              "@BorderLeft": "none",
+                              "@BorderRight": "none",
+                              "@BorderTop": "none",
+                              "Sentence": "戸主及戸主トノ続柄"
+                            },
+                            {
+                              "@Align": "center",
+                              "@BorderBottom": "none",
+                              "@BorderLeft": "none",
+                              "@BorderTop": "none",
+                              "Sentence": "氏　　　　名"
+                            }
+                          ]
+                        },
+                        {
+                          "TableColumn": {
+                            "@BorderBottom": "none",
+                            "@BorderTop": "none",
+                            "@colspan": "4",
+                            "Sentence": "右ノ者昭和何年何月何日戦死（死亡）ノ旨死亡報告致置候処今回生存者ナルコト判明シタルニ付右死亡報告ハ之ヲ取消候条此段及通知候"
+                          }
+                        },
+                        {
+                          "TableColumn": {
+                            "@BorderBottom": "none",
+                            "@BorderTop": "none",
+                            "@colspan": "4",
+                            "Sentence": "年　月　日"
+                          }
+                        },
+                        {
+                          "TableColumn": {
+                            "@Align": "right",
+                            "@BorderBottom": "none",
+                            "@BorderTop": "none",
+                            "@colspan": "4",
+                            "Sentence": "何地方世話部長　何某 [職印]"
+                          }
+                        },
+                        {
+                          "TableColumn": {
+                            "@BorderTop": "none",
+                            "@colspan": "4",
+                            "Sentence": "市区町村長　　殿"
+                          }
+                        }
+                      ]
+                    }
+                  },
+                  "List": {
+                    "ListSentence": {
+                      "Sentence": "前項ニ依リ処理シタルトキハ其ノ旨留守業務部長官ニ通報スルモノトス"
+                    }
+                  }
+                },
+                {
+                  "@Num": "2",
+                  "ItemTitle": "二",
+                  "ItemSentence": {
+                    "Sentence": "戸籍法第百十六条ノ規定ニ依ル死亡届出ノ為留守担当者ニ対シ死亡告知ヲ為シタル者ニ在リテハ其ノ旨速ニ順序ヲ経テ第一復員大臣ニ報告スルモノトス"
+                  },
+                  "List": {
+                    "ListSentence": {
+                      "Sentence": "前項ノ者ノ取扱ニ関シテハ別ニ示ス所ニ依ル"
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "SupplProvision": {
+        "@Extract": "true",
+        "SupplProvisionLabel": "附　則",
+        "Paragraph": {
+          "@Num": "1",
+          "ParagraphNum": "○１",
+          "ParagraphSentence": {
+            "Sentence": "本令ハ公布ノ日ヨリ之ヲ施行ス"
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "Law": {
+    "@Era": "Heisei",
+    "@Lang": "ja",
+    "@LawType": "CabinetOrder",
+    "@Num": "65",
+    "@Year": "19",
+    "LawNum": "平成十九年政令第六十五号",
+    "LawBody": {
+      "LawTitle": "独立行政法人農畜産業振興機構法施行令",
+      "EnactStatement": "内閣は、独立行政法人農畜産業振興機構法（平成十四年法律第百二十六号）第十一条の規定に基づき、独立行政法人農畜産業振興機構法施行令（平成十五年政令第三百四十二号）の全部を改正するこの政令を制定する。",
+      "MainProvision": {
+        "Paragraph": {
+          "@Hide": "false",
+          "@Num": "1",
+          "ParagraphNum": null,
+          "ParagraphSentence": {
+            "Sentence": {
+              "@WritingMode": "vertical",
+              "#text": "独立行政法人農畜産業振興機構は、独立行政法人農畜産業振興機構法第十一条各号に定める交付金の交付に要する経費の財源に充てるものとして、農林水産大臣が毎事業年度の四半期ごとに定めて通知する金額を、当該通知を受けた日から起算して十五日以内に、国庫に納付しなければならない。"
+            }
+          }
+        }
+      },
+      "SupplProvision": {
+        "@Extract": "true",
+        "@Type": "New",
+        "SupplProvisionLabel": "附　則",
+        "Article": {
+          "@Delete": "false",
+          "@Hide": "false",
+          "@Num": "1",
+          "ArticleCaption": "（施行期日）",
+          "ArticleTitle": "第一条",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この政令は、平成十九年四月一日から施行する。"
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "Law": {
+    "@Era": "Heisei",
+    "@Lang": "ja",
+    "@LawType": "Act",
+    "@Num": "98",
+    "@Year": "08",
+    "LawNum": "平成八年法律第九十八号",
+    "LawBody": {
+      "LawTitle": "特定住宅金融専門会社が有する債権の時効の停止等に関する特別措置法",
+      "MainProvision": {
+        "Article": [
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "1",
+            "ArticleCaption": "（債権の時効の停止）",
+            "ArticleTitle": "第一条",
+            "Paragraph": {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "特定住宅金融専門会社の債権債務の処理の促進等に関する特別措置法（平成八年法律第九十三号。以下「特定住専債権等処理法」という。）第二条第二項に規定する特定住宅金融専門会社がこの法律の施行の日において有する債権については、同日以後、特定住専債権等処理法第七条第一項に規定する指定期間の終了する日の翌日から起算して一年を経過する日までの間は、時効は、完成しない。"
+                }
+              }
+            }
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "2",
+            "ArticleCaption": "（根抵当権の担保すべき元本の確定）",
+            "ArticleTitle": "第二条",
+            "Paragraph": {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "前条の特定住宅金融専門会社が解散したときは、当該特定住宅金融専門会社が有する根抵当権の担保すべき元本は、確定する。"
+                }
+              }
+            }
+          }
+        ]
+      },
+      "SupplProvision": {
+        "@Extract": "false",
+        "@Type": "New",
+        "SupplProvisionLabel": "附　則",
+        "Paragraph": {
+          "@Hide": "false",
+          "@Num": "1",
+          "ParagraphNum": null,
+          "ParagraphSentence": {
+            "Sentence": {
+              "@WritingMode": "vertical",
+              "#text": "この法律は、公布の日から施行する。"
+            }
+          }
+        }
+      }
+    }
+  }
+}

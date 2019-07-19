@@ -1,0 +1,3649 @@
+{
+  "Law": {
+    "@DataInfo": "180919e06k99m01",
+    "@Era": "Heisei",
+    "@Lang": "ja",
+    "@LawType": "MinisterialOrdinance",
+    "@Num": "076",
+    "@Year": "09",
+    "LawNum": "平成九年郵政省令第七十六号",
+    "LawBody": {
+      "LawTitle": "登録検査等事業者等規則",
+      "EnactStatement": "電波法（昭和二十五年法律第百三十一号）の規定に基づき、及び同法を実施するため無線局認定点検事業者規則を次のように定める。",
+      "TOC": {
+        "TOCLabel": "目次",
+        "TOCChapter": [
+          {
+            "@Delete": "false",
+            "@Num": "1",
+            "ChapterTitle": "第一章　総則",
+            "ArticleRange": "（第一条）"
+          },
+          {
+            "@Delete": "false",
+            "@Num": "2",
+            "ChapterTitle": "第二章　検査等事業者の登録手続",
+            "ArticleRange": "（第二条―第八条）"
+          },
+          {
+            "@Delete": "false",
+            "@Num": "3",
+            "ChapterTitle": "第三章　外国点検事業者の登録手続",
+            "ArticleRange": "（第九条―第十四条）"
+          },
+          {
+            "@Delete": "false",
+            "@Num": "4",
+            "ChapterTitle": "第四章　登録に係る検査又は点検の実施等",
+            "ArticleRange": "（第十五条―第二十二条）"
+          },
+          {
+            "@Delete": "false",
+            "@Num": "5",
+            "ChapterTitle": "第五章　雑則",
+            "ArticleRange": "（第二十三条）"
+          }
+        ],
+        "TOCSupplProvision": {
+          "SupplProvisionLabel": "附則"
+        }
+      },
+      "MainProvision": {
+        "Chapter": [
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "1",
+            "ChapterTitle": "第一章　総則",
+            "Article": {
+              "@Delete": "false",
+              "@Hide": "false",
+              "@Num": "1",
+              "ArticleCaption": "（目的）",
+              "ArticleTitle": "第一条",
+              "Paragraph": {
+                "@Hide": "false",
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "この規則は、別に定めるものを除くほか、登録検査等事業者及び登録外国点検事業者（以下「登録検査等事業者等」という。）の登録及び検査又は点検の実施に関し、法の委任に基づく事項及び法の規定を施行するために必要とする事項を定めることを目的とする。"
+                  }
+                }
+              }
+            }
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "2",
+            "ChapterTitle": "第二章　検査等事業者の登録手続",
+            "Article": [
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "2",
+                "ArticleCaption": "（登録の申請）",
+                "ArticleTitle": "第二条",
+                "Paragraph": [
+                  {
+                    "@Hide": "false",
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "法第二十四条の二第一項の登録を受けようとする者は、別表第一号に定める様式の申請書及びその添付書類を総合通信局長（沖縄総合通信事務所長を含む。以下同じ。）に提出しなければならない。"
+                      }
+                    }
+                  },
+                  {
+                    "@Hide": "false",
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "法第二十四条の二第三項の業務の実施の方法を定める書類（以下「業務実施方法書」という。）には、次に掲げる事業者ごとに、それぞれ次に掲げる事項を記載するものとする。"
+                      }
+                    },
+                    "Item": [
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "1",
+                        "ItemTitle": "一",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "検査等事業者（点検の事業のみを行う者を除く。）"
+                          }
+                        },
+                        "Subitem1": [
+                          {
+                            "@Delete": "false",
+                            "@Hide": "false",
+                            "@Num": "1",
+                            "Subitem1Title": "イ",
+                            "Subitem1Sentence": {
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "検査又は点検を行う無線設備等に係る無線局の種別"
+                              }
+                            }
+                          },
+                          {
+                            "@Delete": "false",
+                            "@Hide": "false",
+                            "@Num": "2",
+                            "Subitem1Title": "ロ",
+                            "Subitem1Sentence": {
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "検査又は点検の事業を行う事務所の名称及び所在地"
+                              }
+                            }
+                          },
+                          {
+                            "@Delete": "false",
+                            "@Hide": "false",
+                            "@Num": "3",
+                            "Subitem1Title": "ハ",
+                            "Subitem1Sentence": {
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "検査又は点検の業務を行う組織（申請者が法人の場合に限る。）"
+                              }
+                            }
+                          },
+                          {
+                            "@Delete": "false",
+                            "@Hide": "false",
+                            "@Num": "4",
+                            "Subitem1Title": "ニ",
+                            "Subitem1Sentence": {
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "無線局の種別ごとの無線設備等の点検を行う者（以下「点検員」という。）の氏名及び法別表第一に掲げる条件のうち該当するもの（当該点検員が同表第一号の条件に該当する場合は、無線従事者の資格（陸上特殊無線技士は、第一級陸上特殊無線技士に限る。）及び免許証の番号）"
+                              }
+                            }
+                          },
+                          {
+                            "@Delete": "false",
+                            "@Hide": "false",
+                            "@Num": "5",
+                            "Subitem1Title": "ホ",
+                            "Subitem1Sentence": {
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "点検に用いる測定器その他の設備（以下「測定器等」という。）の名称又は型式及び製造事業者名"
+                              }
+                            }
+                          },
+                          {
+                            "@Delete": "false",
+                            "@Hide": "false",
+                            "@Num": "6",
+                            "Subitem1Title": "ヘ",
+                            "Subitem1Sentence": {
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "Ruby": {
+                                  "Rt": "こう",
+                                  "#text": "較"
+                                },
+                                "#text": "測定器等の保守及び管理並びに法第二十四条の二第四項第二号の正又は校正（以下「較正等」という。）の計画"
+                              }
+                            }
+                          },
+                          {
+                            "@Delete": "false",
+                            "@Hide": "false",
+                            "@Num": "7",
+                            "Subitem1Title": "ト",
+                            "Subitem1Sentence": {
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "無線設備等の検査（点検である部分を除く。以下「判定」という。）を行う者（以下「判定員」という。）の氏名及び法別表第四に掲げる条件のうち該当するもの（当該判定員が無線従事者の資格を有する場合は、その資格及び免許証の番号）"
+                              }
+                            }
+                          },
+                          {
+                            "@Delete": "false",
+                            "@Hide": "false",
+                            "@Num": "8",
+                            "Subitem1Title": "チ",
+                            "Subitem1Sentence": {
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "無線局の種別ごとの検査又は点検の実施方法"
+                              }
+                            }
+                          },
+                          {
+                            "@Delete": "false",
+                            "@Hide": "false",
+                            "@Num": "9",
+                            "Subitem1Title": "リ",
+                            "Subitem1Sentence": {
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "検査又は点検の業務に関する帳簿その他の書類の管理に関する事項"
+                              }
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "2",
+                        "ItemTitle": "二",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "検査等事業者（点検の事業のみを行う者に限る。）"
+                          }
+                        },
+                        "Subitem1": [
+                          {
+                            "@Delete": "false",
+                            "@Hide": "false",
+                            "@Num": "1",
+                            "Subitem1Title": "イ",
+                            "Subitem1Sentence": {
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "点検を行う無線設備等に係る無線局の種別"
+                              }
+                            }
+                          },
+                          {
+                            "@Delete": "false",
+                            "@Hide": "false",
+                            "@Num": "2",
+                            "Subitem1Title": "ロ",
+                            "Subitem1Sentence": {
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "点検の事業を行う事務所の名称及び所在地"
+                              }
+                            }
+                          },
+                          {
+                            "@Delete": "false",
+                            "@Hide": "false",
+                            "@Num": "3",
+                            "Subitem1Title": "ハ",
+                            "Subitem1Sentence": {
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "点検の業務を行う組織（申請者が法人の場合に限る。）"
+                              }
+                            }
+                          },
+                          {
+                            "@Delete": "false",
+                            "@Hide": "false",
+                            "@Num": "4",
+                            "Subitem1Title": "ニ",
+                            "Subitem1Sentence": {
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "無線局の種別ごとの点検員の氏名及び法別表第一に掲げる条件のうち該当するもの（当該点検員が同表第一号の条件に該当する場合は、無線従事者の資格（陸上特殊無線技士は、第一級陸上特殊無線技士に限る。）及び免許証の番号）"
+                              }
+                            }
+                          },
+                          {
+                            "@Delete": "false",
+                            "@Hide": "false",
+                            "@Num": "5",
+                            "Subitem1Title": "ホ",
+                            "Subitem1Sentence": {
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "測定器等の名称又は型式及び製造事業者名"
+                              }
+                            }
+                          },
+                          {
+                            "@Delete": "false",
+                            "@Hide": "false",
+                            "@Num": "6",
+                            "Subitem1Title": "ヘ",
+                            "Subitem1Sentence": {
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "測定器等の保守及び管理並びに較正等の計画"
+                              }
+                            }
+                          },
+                          {
+                            "@Delete": "false",
+                            "@Hide": "false",
+                            "@Num": "7",
+                            "Subitem1Title": "ト",
+                            "Subitem1Sentence": {
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "無線局の種別ごとの点検の実施方法"
+                              }
+                            }
+                          },
+                          {
+                            "@Delete": "false",
+                            "@Hide": "false",
+                            "@Num": "8",
+                            "Subitem1Title": "チ",
+                            "Subitem1Sentence": {
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "点検の業務に関する帳簿その他の書類の管理に関する事項"
+                              }
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@Hide": "false",
+                    "@Num": "3",
+                    "ParagraphNum": "３",
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "前項第一号ニ及び第二号ニの無線従事者の資格のうち、陸上特殊無線技士の資格又は第一級アマチュア無線技士の資格を有する者は、海岸局、航空局、船舶局及び航空機局以外の無線設備等の点検に限って行うものとする。"
+                      }
+                    }
+                  },
+                  {
+                    "@Hide": "false",
+                    "@Num": "4",
+                    "ParagraphNum": "４",
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "第二項の業務実施方法書には、次に掲げる証明書を添付しなければならない。"
+                      }
+                    },
+                    "Item": [
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "1",
+                        "ItemTitle": "一",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "検査等事業者（点検の事業のみを行う者を除く。）にあっては、点検員が法別表第一（第一号を除く。）に掲げる条件のいずれかに該当する者であることの証明書及び判定員が法別表第四（第一号から第三号までの無線従事者の資格を有することの証明書を除く。）に掲げる条件のいずれかに該当する者であることの証明書"
+                          }
+                        }
+                      },
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "2",
+                        "ItemTitle": "二",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "検査等事業者（点検の事業のみを行う者に限る。）にあっては、点検員が法別表第一（第一号を除く。）に掲げる条件のいずれかに掲げる条件に該当する者であることの証明書"
+                          }
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Hide": "false",
+                    "@Num": "5",
+                    "ParagraphNum": "５",
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "法第二十四条の二第三項の総務省令で定める書類は、次のとおりとする。"
+                      }
+                    },
+                    "Item": [
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "1",
+                        "ItemTitle": "一",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "検査等事業者（点検の事業のみを行う者を除く。）であって、申請者が法人である場合は、定款の謄本、登記事項証明書、役員の氏名並びに過去二年間の経歴を記載した別表第二号に定める様式の書類及び法第二十四条の二第五項各号に該当しないことを示す別表第三号に定める様式の書類"
+                          }
+                        }
+                      },
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "2",
+                        "ItemTitle": "二",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "検査等事業者（点検の事業のみを行う者を除く。）であって、申請者が個人である場合は、氏名、住所及び生年月日を証する書類並びに過去二年間の経歴を記載した別表第二号に定める様式の書類及び法第二十四条の二第五項各号に該当しないことを示す別表第三号に定める様式の書類"
+                          }
+                        }
+                      },
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "3",
+                        "ItemTitle": "三",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "検査等事業者（点検の事業のみを行う者に限る。）である場合は、法第二十四条の二第五項各号に該当しないことを示す別表第三に定める様式の書類"
+                          }
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Hide": "false",
+                    "@Num": "6",
+                    "ParagraphNum": "６",
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "法別表第四第三号の総務省令で定める陸上特殊無線技士は、第一級陸上特殊無線技士とする。"
+                      }
+                    }
+                  },
+                  {
+                    "@Hide": "false",
+                    "@Num": "7",
+                    "ParagraphNum": "７",
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "前項の陸上特殊無線技士の資格を有する者は、海岸局、航空局、船舶局及び航空機局以外の無線設備等の判定に限って行うものとする。"
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "2_2",
+                "ArticleCaption": "（法第二十四条の二第四項第二号の総務省令で定める事項）",
+                "ArticleTitle": "第二条の二",
+                "Paragraph": {
+                  "@Hide": "false",
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "法第二十四条の二第四項第二号の総務省令で定める測定器その他の設備は次の表の上欄に掲げるもの（製造された日から起算して十年以内のものに限る。）とし、同号の総務省令で定める期間は、同表の上欄に掲げる測定器その他の設備ごとに、それぞれ同表の下欄に掲げるとおりとする。"
+                    }
+                  },
+                  "TableStruct": {
+                    "Table": {
+                      "@WritingMode": "vertical",
+                      "TableRow": [
+                        {
+                          "TableColumn": [
+                            {
+                              "@BorderBottom": "solid",
+                              "@BorderLeft": "solid",
+                              "@BorderRight": "solid",
+                              "@BorderTop": "solid",
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "測定器その他の設備"
+                              }
+                            },
+                            {
+                              "@BorderBottom": "solid",
+                              "@BorderLeft": "solid",
+                              "@BorderRight": "solid",
+                              "@BorderTop": "solid",
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "期間"
+                              }
+                            }
+                          ]
+                        },
+                        {
+                          "TableColumn": [
+                            {
+                              "@BorderBottom": "solid",
+                              "@BorderLeft": "solid",
+                              "@BorderRight": "solid",
+                              "@BorderTop": "solid",
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "一　高周波電力計であって、校正用信号源を有し、及び被測定信号をデジタル変換して演算処理し、かつ、測定値をデジタル表示する機能を有するもの"
+                              }
+                            },
+                            {
+                              "@BorderBottom": "solid",
+                              "@BorderLeft": "solid",
+                              "@BorderRight": "solid",
+                              "@BorderTop": "solid",
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "二年"
+                              }
+                            }
+                          ]
+                        },
+                        {
+                          "TableColumn": [
+                            {
+                              "@BorderBottom": "solid",
+                              "@BorderLeft": "solid",
+                              "@BorderRight": "solid",
+                              "@BorderTop": "solid",
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "二　電圧電流計であって、被測定信号をデジタル変換して演算処理し、かつ、測定値をデジタル表示する機能を有するもの"
+                              }
+                            },
+                            {
+                              "@BorderBottom": "solid",
+                              "@BorderLeft": "solid",
+                              "@BorderRight": "solid",
+                              "@BorderTop": "solid",
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "二年"
+                              }
+                            }
+                          ]
+                        },
+                        {
+                          "TableColumn": [
+                            {
+                              "@BorderBottom": "solid",
+                              "@BorderLeft": "solid",
+                              "@BorderRight": "solid",
+                              "@BorderTop": "solid",
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "三　標準信号発生器であって、出力信号の時間の経過等に伴う変動を検知する機能を有するもの"
+                              }
+                            },
+                            {
+                              "@BorderBottom": "solid",
+                              "@BorderLeft": "solid",
+                              "@BorderRight": "solid",
+                              "@BorderTop": "solid",
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "二年"
+                              }
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                }
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "3",
+                "ArticleCaption": "（登録の更新）",
+                "ArticleTitle": "第三条",
+                "Paragraph": [
+                  {
+                    "@Hide": "false",
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "法第二十四条の二の二第一項の登録の更新の申請は、登録の有効期間満了前三箇月以上六箇月を超えない期間において行わなければならない。"
+                      }
+                    }
+                  },
+                  {
+                    "@Hide": "false",
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "前条（第二項第二号、第三項（点検の事業のみを行う者に限る。）、第四項第二号及び第五項第三号を除く。）の規定は、前項の登録の更新について準用する。"
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "4",
+                "ArticleCaption": "（登録証の様式）",
+                "ArticleTitle": "第四条",
+                "Paragraph": {
+                  "@Hide": "false",
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "法第二十四条の四第一項の登録証の様式は、別表第四号のとおりとする。"
+                    }
+                  }
+                }
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "5",
+                "ArticleCaption": "（変更の届出）",
+                "ArticleTitle": "第五条",
+                "Paragraph": [
+                  {
+                    "@Hide": "false",
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "登録検査等事業者は、法第二十四条の五第一項の届出をしようとするときは、次に掲げる事項を記載した届出書を総合通信局長に提出しなければならない。"
+                      }
+                    },
+                    "Item": [
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "1",
+                        "ItemTitle": "一",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "登録又はその更新の年月日及び登録番号"
+                          }
+                        }
+                      },
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "2",
+                        "ItemTitle": "二",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "変更の内容"
+                          }
+                        }
+                      },
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "3",
+                        "ItemTitle": "三",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "変更の年月日"
+                          }
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Hide": "false",
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "前項の届出があった場合において、総合通信局長は、新たな登録証の交付による訂正を行うことがある。"
+                      }
+                    }
+                  },
+                  {
+                    "@Hide": "false",
+                    "@Num": "3",
+                    "ParagraphNum": "３",
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "登録検査等事業者は、第二条第二項各号（第一号ロ及び第二号ロを除く。）に掲げる事項を変更しようとするときは、次に掲げる事項を記載した届出書を総合通信局長に提出しなければならない。"
+                      }
+                    },
+                    "Item": [
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "1",
+                        "ItemTitle": "一",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "登録又はその更新の年月日及び登録番号"
+                          }
+                        }
+                      },
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "2",
+                        "ItemTitle": "二",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "変更の内容"
+                          }
+                        }
+                      },
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "3",
+                        "ItemTitle": "三",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "変更の年月日"
+                          }
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Hide": "false",
+                    "@Num": "4",
+                    "ParagraphNum": "４",
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "登録検査等事業者は、点検員を追加するときは、前項の届出書に当該点検員が法別表第一（第一号を除く。）に掲げる条件に該当する者であることの証明書を添付しなければならない。"
+                      }
+                    }
+                  },
+                  {
+                    "@Hide": "false",
+                    "@Num": "5",
+                    "ParagraphNum": "５",
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "登録検査等事業者（点検の事業のみを行う者を除く。）は、判定員を追加するときは、第三項の届出書に当該判定員が法別表第四（第一号から第三号までの無線従事者の資格を有することの証明書を除く。）に掲げる条件に該当する者であることの証明書を添付しなければならない。"
+                      }
+                    }
+                  },
+                  {
+                    "@Hide": "false",
+                    "@Num": "6",
+                    "ParagraphNum": "６",
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "総合通信局長は、法第二十四条の五第一項の規定による届出があった場合には、その届出があった事項を登録検査等事業者登録簿に登録しなければならない。"
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "6",
+                "ArticleCaption": "（登録証の再交付）",
+                "ArticleTitle": "第六条",
+                "Paragraph": [
+                  {
+                    "@Hide": "false",
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "登録検査等事業者は、登録証を破損し、汚し、失った等のために登録証の再交付を申請しようとするときは、次に掲げる事項を記載した申請書を総合通信局長に提出しなければならない。"
+                      }
+                    },
+                    "Item": [
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "1",
+                        "ItemTitle": "一",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "登録又はその更新の年月日及び登録番号"
+                          }
+                        }
+                      },
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "2",
+                        "ItemTitle": "二",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "再交付の理由"
+                          }
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Hide": "false",
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": [
+                        {
+                          "@Function": "main",
+                          "@Num": "1",
+                          "@WritingMode": "vertical",
+                          "#text": "登録検査等事業者は、新たな登録証の交付を受けたときは、遅滞なく旧登録証を返納しなければならない。"
+                        },
+                        {
+                          "@Function": "proviso",
+                          "@Num": "2",
+                          "@WritingMode": "vertical",
+                          "#text": "ただし、登録証を失った等のためにこれを返納することができない場合は、この限りでない。"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "7",
+                "ArticleCaption": "（登録に係る事業の承継の届出）",
+                "ArticleTitle": "第七条",
+                "Paragraph": [
+                  {
+                    "@Hide": "false",
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "法第二十四条の六第二項の届出をしようとするときは、次に掲げる事項を記載した届出書に法第二十四条の六第二項の事実を証する書面及び法第二十四条の二第五項各号に該当しないことを示す別表第三号に定める様式の書類を添えて、総合通信局長に提出しなければならない。"
+                      }
+                    },
+                    "Item": [
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "1",
+                        "ItemTitle": "一",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "登録検査等事業者の地位を承継した者の氏名又は名称及び住所並びに法人にあっては、その代表者の氏名"
+                          }
+                        }
+                      },
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "2",
+                        "ItemTitle": "二",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "承継に係る登録番号及び登録検査等事業者の名称"
+                          }
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Hide": "false",
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "前項の事実を証する書面は、次に掲げる事業者ごとに、それぞれ次に掲げるものとする。"
+                      }
+                    },
+                    "Item": [
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "1",
+                        "ItemTitle": "一",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "登録検査等事業者（点検の事業のみを行う者を除く。以下この号において同じ。）"
+                          }
+                        },
+                        "Subitem1": [
+                          {
+                            "@Delete": "false",
+                            "@Hide": "false",
+                            "@Num": "1",
+                            "Subitem1Title": "イ",
+                            "Subitem1Sentence": {
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "事業の全部を譲り受けたことによって登録検査等事業者の地位を承継した者にあっては、事業の全部の譲り受けがあったことを証する書面（法人にあっては、定款の謄本、登記事項証明書、役員の氏名及び過去二年間の経歴を記載した別表第二号に定める様式の書類並びに事業の全部の譲り受けがあったことを証する書面）"
+                              }
+                            }
+                          },
+                          {
+                            "@Delete": "false",
+                            "@Hide": "false",
+                            "@Num": "2",
+                            "Subitem1Title": "ロ",
+                            "Subitem1Sentence": {
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "登録検査等事業者の地位を承継した相続人にあっては、戸籍全部事項証明書及び過去二年間の経歴を記載した別表第二号に定める様式の書類"
+                              }
+                            }
+                          },
+                          {
+                            "@Delete": "false",
+                            "@Hide": "false",
+                            "@Num": "3",
+                            "Subitem1Title": "ハ",
+                            "Subitem1Sentence": {
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "合併又は分割により登録検査等事業者の地位を承継した法人にあっては、その法人の定款の謄本、登記事項証明書、役員の氏名及び過去二年間の経歴を記載した別表第二号に定める様式の書類"
+                              }
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "2",
+                        "ItemTitle": "二",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "登録検査等事業者（点検の事業のみを行う者に限る。以下この号において同じ。）"
+                          }
+                        },
+                        "Subitem1": [
+                          {
+                            "@Delete": "false",
+                            "@Hide": "false",
+                            "@Num": "1",
+                            "Subitem1Title": "イ",
+                            "Subitem1Sentence": {
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "事業の全部を譲り受けたことによって登録検査等事業者の地位を承継した者にあっては、事業の全部の譲り受けがあったことを証する書面（法人にあっては、登記事項証明書及び事業の全部の譲り受けがあったことを証する書面）"
+                              }
+                            }
+                          },
+                          {
+                            "@Delete": "false",
+                            "@Hide": "false",
+                            "@Num": "2",
+                            "Subitem1Title": "ロ",
+                            "Subitem1Sentence": {
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "登録検査等事業者の地位を承継した相続人にあっては、戸籍全部事項証明書"
+                              }
+                            }
+                          },
+                          {
+                            "@Delete": "false",
+                            "@Hide": "false",
+                            "@Num": "3",
+                            "Subitem1Title": "ハ",
+                            "Subitem1Sentence": {
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "合併又は分割により登録検査等事業者の地位を承継した法人にあっては、その法人の登記事項証明書"
+                              }
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@Hide": "false",
+                    "@Num": "3",
+                    "ParagraphNum": "３",
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "事業の全部を譲り受けたことによって登録検査等事業者の地位を承継した者（法人を除く。）が第一項の規定による届出をした場合において、総合通信局長は、住民基本台帳法（昭和四十二年法律第八十一号）第三十条の九の規定により当該届出をした者に係る同条に規定する機構保存本人確認情報（同法第七条第八号の二に規定する個人番号を除く。）を利用することができないときは、当該届出をした者に対し、住民票の写しを提出させることができる。"
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "8",
+                "ArticleCaption": "（廃止の届出）",
+                "ArticleTitle": "第八条",
+                "Paragraph": {
+                  "@Hide": "false",
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "登録検査等事業者は、法第二十四条の九第一項の規定による登録に係る事業の廃止の届出をしようとするときは、次に掲げる事項を記載した届出書を総合通信局長に提出しなければならない。"
+                    }
+                  },
+                  "Item": [
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "1",
+                      "ItemTitle": "一",
+                      "ItemSentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "登録検査等事業者の氏名又は名称及び住所並びに法人にあっては、その代表者の氏名"
+                        }
+                      }
+                    },
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "2",
+                      "ItemTitle": "二",
+                      "ItemSentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "登録又はその更新の年月日及び登録番号"
+                        }
+                      }
+                    },
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "3",
+                      "ItemTitle": "三",
+                      "ItemSentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "廃止の年月日"
+                        }
+                      }
+                    },
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "4",
+                      "ItemTitle": "四",
+                      "ItemSentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "廃止の理由"
+                        }
+                      }
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "3",
+            "ChapterTitle": "第三章　外国点検事業者の登録手続",
+            "Article": [
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "9",
+                "ArticleCaption": "（外国点検事業者の登録の申請）",
+                "ArticleTitle": "第九条",
+                "Paragraph": [
+                  {
+                    "@Hide": "false",
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": [
+                        {
+                          "@Function": "main",
+                          "@Num": "1",
+                          "@WritingMode": "vertical",
+                          "#text": "法第二十四条の十三第一項の登録を受けようとする者は、別表第一号に定める様式の申請書を関東総合通信局長に提出しなければならない。"
+                        },
+                        {
+                          "@Function": "proviso",
+                          "@Num": "2",
+                          "@WritingMode": "vertical",
+                          "#text": "ただし、総務大臣が別に告示するところにより行う場合は、この限りでない。"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "@Hide": "false",
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "法第二十四条の十三第二項において準用する法第二十四条の二第三項の業務の実施の方法を定める書類（以下「外国業務実施方法書」という。）には、次に掲げる事項を記載するものとする。"
+                      }
+                    },
+                    "Item": [
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "1",
+                        "ItemTitle": "一",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "点検を行う無線設備等に係る無線局の種別"
+                          }
+                        }
+                      },
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "2",
+                        "ItemTitle": "二",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "点検の事業を行う事務所の名称及び所在地"
+                          }
+                        }
+                      },
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "3",
+                        "ItemTitle": "三",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "点検の業務を行う組織（申請者が法人の場合に限る。）"
+                          }
+                        }
+                      },
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "4",
+                        "ItemTitle": "四",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "無線局の種別ごとの点検員の氏名及び法別表第一に掲げる条件のうち該当するもの（当該点検員が同表第一号の条件に該当する場合は、無線従事者の資格（陸上特殊無線技士は、第一級陸上特殊無線技士に限る。）及び免許証の番号）"
+                          }
+                        }
+                      },
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "5",
+                        "ItemTitle": "五",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "測定器等の名称又は型式及び製造事業者名"
+                          }
+                        }
+                      },
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "6",
+                        "ItemTitle": "六",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "測定器等の保守及び管理並びに較正等の計画"
+                          }
+                        }
+                      },
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "7",
+                        "ItemTitle": "七",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "無線局の種別ごとの点検の実施方法"
+                          }
+                        }
+                      },
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "8",
+                        "ItemTitle": "八",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "点検の業務に関する帳簿その他の書類の管理に関する事項"
+                          }
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Hide": "false",
+                    "@Num": "3",
+                    "ParagraphNum": "３",
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "前項第四号の無線従事者の資格のうち、陸上特殊無線技士の資格又は第一級アマチュア無線技士の資格を有する者は、海岸局、航空局、船舶局及び航空機局以外の無線設備等の点検に限って行うものとする。"
+                      }
+                    }
+                  },
+                  {
+                    "@Hide": "false",
+                    "@Num": "4",
+                    "ParagraphNum": "４",
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "第二項の外国業務実施方法書には、点検員が法別表第一（第一項を除く。）に掲げる条件に該当する者であることの証明書を添付しなければならない。"
+                      }
+                    }
+                  },
+                  {
+                    "@Hide": "false",
+                    "@Num": "5",
+                    "ParagraphNum": "５",
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "法第二十四条の十三第二項において準用する法第二十四条の二第三項の総務省令で定める書類は、法第二十四条の十三第二項において準用する法第二十四条の二第五項各号に該当しないことを示す別表第三号に定める様式の書類とする。"
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "10",
+                "ArticleCaption": "（登録外国点検事業者の登録証の様式）",
+                "ArticleTitle": "第十条",
+                "Paragraph": {
+                  "@Hide": "false",
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "法第二十四条の十三第二項において準用する第二十四条の四第一項の登録外国点検事業者の登録証の様式は、別表第四号のとおりとする。"
+                    }
+                  }
+                }
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "11",
+                "ArticleCaption": "（登録外国点検事業者の変更の届出）",
+                "ArticleTitle": "第十一条",
+                "Paragraph": [
+                  {
+                    "@Hide": "false",
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "登録外国点検事業者は、法第二十四条の十三第二項において準用する法第二十四条の五第一項の届出をしようとするときは、次に掲げる事項を記載した届出書を関東総合通信局長に提出しなければならない。"
+                      }
+                    },
+                    "Item": [
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "1",
+                        "ItemTitle": "一",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "登録の年月日及び登録番号"
+                          }
+                        }
+                      },
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "2",
+                        "ItemTitle": "二",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "変更の内容"
+                          }
+                        }
+                      },
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "3",
+                        "ItemTitle": "三",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "変更の年月日"
+                          }
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Hide": "false",
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "前項の届出があった場合において、関東総合通信局長は、新たな登録証の交付による訂正を行うことがある。"
+                      }
+                    }
+                  },
+                  {
+                    "@Hide": "false",
+                    "@Num": "3",
+                    "ParagraphNum": "３",
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "登録外国点検事業者は、第九条第二項各号（第二号を除く。）に掲げる事項を変更しようとするときは、次に掲げる事項を記載した届出書を関東総合通信局長に提出しなければならない。"
+                      }
+                    },
+                    "Item": [
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "1",
+                        "ItemTitle": "一",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "登録の年月日及び登録番号"
+                          }
+                        }
+                      },
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "2",
+                        "ItemTitle": "二",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "変更の内容"
+                          }
+                        }
+                      },
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "3",
+                        "ItemTitle": "三",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "変更の年月日"
+                          }
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Hide": "false",
+                    "@Num": "4",
+                    "ParagraphNum": "４",
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "登録外国点検事業者は、点検員を追加するときは、前項の届出書に当該点検員が法別表第一（第一号を除く。）に掲げる条件に該当する者であることの証明書を添付しなければならない。"
+                      }
+                    }
+                  },
+                  {
+                    "@Hide": "false",
+                    "@Num": "5",
+                    "ParagraphNum": "５",
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "関東総合通信局長は、法第二十四条の十三第二項において準用する法第二十四条の五第一項の規定による届出があった場合には、その届出があった事項を登録外国点検事業者登録簿に登録しなければならない。"
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "12",
+                "ArticleCaption": "（登録外国点検事業者の登録証の再交付）",
+                "ArticleTitle": "第十二条",
+                "Paragraph": [
+                  {
+                    "@Hide": "false",
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "登録外国点検事業者は、登録証を破損し、汚し、失った等のために登録証の再交付を申請しようとするときは、次に掲げる事項を記載した申請書を関東総合通信局長に提出しなければならない。"
+                      }
+                    },
+                    "Item": [
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "1",
+                        "ItemTitle": "一",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "登録の年月日及び登録番号"
+                          }
+                        }
+                      },
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "2",
+                        "ItemTitle": "二",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "再交付の理由"
+                          }
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Hide": "false",
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": [
+                        {
+                          "@Function": "main",
+                          "@Num": "1",
+                          "@WritingMode": "vertical",
+                          "#text": "登録外国点検事業者は、新たな登録証の交付を受けたときは、遅滞なく旧登録証を返納しなければならない。"
+                        },
+                        {
+                          "@Function": "proviso",
+                          "@Num": "2",
+                          "@WritingMode": "vertical",
+                          "#text": "ただし、登録証を失った等のためにこれを返納することができない場合は、この限りでない。"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "13",
+                "ArticleCaption": "（登録に係る事業の承継の届出）",
+                "ArticleTitle": "第十三条",
+                "Paragraph": [
+                  {
+                    "@Hide": "false",
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "法第二十四条の十三第二項において準用する法第二十四条の六第二項の届出をしようとするときは、次に掲げる事項を記載した届出書に法第二十四条の十三第二項において準用する法第二十四条の六第二項の事実を証する書面及び法第二十四条の十三第二項において準用する法第二十四条の二第五項各号に該当しないことを示す別表第三号に定める様式の書類を添えて、関東総合通信局長に提出しなければならない。"
+                      }
+                    },
+                    "Item": [
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "1",
+                        "ItemTitle": "一",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "登録外国点検事業者の地位を承継した者の氏名又は名称及び住所並びに法人にあっては、その代表者の氏名"
+                          }
+                        }
+                      },
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "2",
+                        "ItemTitle": "二",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "承継に係る登録番号及び登録外国点検事業者の名称"
+                          }
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Hide": "false",
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "前項の事実を証する書面は、次に掲げるものとする。"
+                      }
+                    },
+                    "Item": [
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "1",
+                        "ItemTitle": "一",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "事業の全部を譲り受けたことによって登録外国点検事業者の地位を承継した者にあっては、事業の全部の譲り受けがあったことを証する書面（法人にあっては、登記事項証明書又はこれに準ずるもの及び事業の全部の譲り受けがあったことを証する書面）"
+                          }
+                        }
+                      },
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "2",
+                        "ItemTitle": "二",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "登録外国点検事業者の地位を承継した相続人にあっては、戸籍全部事項証明書又はこれに準ずるもの"
+                          }
+                        }
+                      },
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "3",
+                        "ItemTitle": "三",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "合併又は分割により登録外国点検事業者の地位を承継した法人にあっては、その法人の登記事項証明書又はこれに準ずるもの"
+                          }
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "14",
+                "ArticleCaption": "（登録外国点検事業者の廃止の届出）",
+                "ArticleTitle": "第十四条",
+                "Paragraph": {
+                  "@Hide": "false",
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "登録外国点検事業者は、法第二十四条の十三第二項において準用する法第二十四条の九第一項の規定による登録に係る事業の廃止の届出をしようとするときは、次に掲げる事項を記載した届出書を関東総合通信局長に提出しなければならない。"
+                    }
+                  },
+                  "Item": [
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "1",
+                      "ItemTitle": "一",
+                      "ItemSentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "登録外国点検事業者の氏名又は名称及び住所並びに法人にあっては、その代表者の氏名"
+                        }
+                      }
+                    },
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "2",
+                      "ItemTitle": "二",
+                      "ItemSentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "登録の年月日及び登録番号"
+                        }
+                      }
+                    },
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "3",
+                      "ItemTitle": "三",
+                      "ItemSentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "廃止の年月日"
+                        }
+                      }
+                    },
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "4",
+                      "ItemTitle": "四",
+                      "ItemSentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "廃止の理由"
+                        }
+                      }
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "4",
+            "ChapterTitle": "第四章　登録に係る検査又は点検の実施等",
+            "Article": [
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "15",
+                "ArticleCaption": "（人の生命又は身体の安全の確保のためその適正な運用の確保が必要な無線局）",
+                "ArticleTitle": "第十五条",
+                "Paragraph": {
+                  "@Hide": "false",
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "法第七十三条第三項の総務省令で定める無線局は、次の各号のいずれかに該当する無線局とする。"
+                    }
+                  },
+                  "Item": [
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "1",
+                      "ItemTitle": "一",
+                      "ItemSentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "法第百三条の二第十四項各号に掲げる者が専ら当該各号に定める事務の用に供することを目的として開設する無線局その他これらに類するものとして電波法施行令（平成十三年政令第二百四十五号）第十二条各号に掲げる無線局"
+                        }
+                      }
+                    },
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "2",
+                      "ItemTitle": "二",
+                      "ItemSentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "法第百三条の二第十五項第一号及び第二号に掲げる無線局"
+                        }
+                      }
+                    },
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "3",
+                      "ItemTitle": "三",
+                      "ItemSentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "地上基幹放送局"
+                        }
+                      }
+                    },
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "4",
+                      "ItemTitle": "四",
+                      "ItemSentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "船舶局（旅客船の船舶局に限る。）"
+                        }
+                      }
+                    },
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "5",
+                      "ItemTitle": "五",
+                      "ItemSentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "航空機局"
+                        }
+                      }
+                    },
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "6",
+                      "ItemTitle": "六",
+                      "ItemSentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "地球局（放送法（昭和二十五年法律第百三十二号）第二条第三号に規定する一般放送及び同条第十三号に規定する衛星基幹放送の業務の用に供するものに限る。）"
+                        }
+                      }
+                    },
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "7",
+                      "ItemTitle": "七",
+                      "ItemSentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "航空機地球局"
+                        }
+                      }
+                    },
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "8",
+                      "ItemTitle": "八",
+                      "ItemSentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "船舶地球局（旅客船及び第一号の無線局を開設する船舶の船舶地球局に限る。）"
+                        }
+                      }
+                    },
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "9",
+                      "ItemTitle": "九",
+                      "ItemSentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "人工衛星局（放送法第二条第三号に規定する一般放送の業務の用に供するものに限る。）"
+                        }
+                      }
+                    },
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "10",
+                      "ItemTitle": "十",
+                      "ItemSentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "衛星基幹放送局"
+                        }
+                      }
+                    },
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "11",
+                      "ItemTitle": "十一",
+                      "ItemSentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "前号までに掲げる無線局の他、無線局の目的及び利用方法を勘案して、総務大臣が別に告示する無線局"
+                        }
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "16",
+                "ArticleCaption": "（検査の実施項目等）",
+                "ArticleTitle": "第十六条",
+                "Paragraph": [
+                  {
+                    "@Hide": "false",
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "法第七十三条第三項の総務省令で定める検査の実施項目は、別表第五号のとおりとする。"
+                      }
+                    }
+                  },
+                  {
+                    "@Hide": "false",
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "登録検査等事業者は、第二条第二項第一号の登録に係る業務実施方法書に従って適切に検査を行わなければならない。"
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "17",
+                "ArticleCaption": "（検査の実施方法等）",
+                "ArticleTitle": "第十七条",
+                "Paragraph": {
+                  "@Hide": "false",
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "検査の実施方法等については、総務大臣が告示するところによるものとする。"
+                    }
+                  }
+                }
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "18",
+                "ArticleCaption": "（検査結果証明書の交付）",
+                "ArticleTitle": "第十八条",
+                "Paragraph": {
+                  "@Hide": "false",
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "登録検査等事業者は、検査を実施したときは、別表第六号に定める検査結果証明書を検査を依頼した者に交付しなければならない。"
+                    }
+                  }
+                }
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "19",
+                "ArticleCaption": "（点検の実施項目）",
+                "ArticleTitle": "第十九条",
+                "Paragraph": [
+                  {
+                    "@Hide": "false",
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "法第十条第二項、法第十八条第二項若しくは法第七十三条第四項の総務省令で定める点検の実施項目は、別表第七号のとおりとする。"
+                      }
+                    }
+                  },
+                  {
+                    "@Hide": "false",
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "登録検査等事業者等は、第二条第二項又は第九条第二項の登録に係る業務実施方法書に従って適切に点検を行わなければならない。"
+                      }
+                    }
+                  },
+                  {
+                    "@Hide": "false",
+                    "@Num": "3",
+                    "ParagraphNum": "３",
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "登録検査等事業者等が無線設備等の点検を行うことができる無線局は、国が開設するもの（第十五条に規定する無線局で国が開設するものに限る。）以外のものとする。"
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "20",
+                "ArticleCaption": "（点検の実施方法等）",
+                "ArticleTitle": "第二十条",
+                "Paragraph": {
+                  "@Hide": "false",
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "点検の実施方法等については、総務大臣が告示するところによるものとする。"
+                    }
+                  }
+                }
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "21",
+                "ArticleCaption": "（点検結果の通知）",
+                "ArticleTitle": "第二十一条",
+                "Paragraph": {
+                  "@Hide": "false",
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "登録検査等事業者等は、点検を実施したときは、別表第八号に定める点検結果通知書により点検を依頼した者に通知しなければならない。"
+                    }
+                  }
+                }
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "22",
+                "ArticleCaption": "（帳簿等）",
+                "ArticleTitle": "第二十二条",
+                "Paragraph": [
+                  {
+                    "@Hide": "false",
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "登録検査等事業者等は、次の各号に掲げる場合に応じ、それぞれ当該各号に掲げる書類（第三項において「帳簿等」という。）を、検査又は点検を行う事業所に備え付け、帳簿の使用を終わった日、第十八条の交付の日又は前条の通知の日から六年間保存しなければならない。"
+                      }
+                    },
+                    "Item": [
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "1",
+                        "ItemTitle": "一",
+                        "ItemSentence": {
+                          "Column": [
+                            {
+                              "@LineBreak": "false",
+                              "@Num": "1",
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "検査を行った場合"
+                              }
+                            },
+                            {
+                              "@LineBreak": "false",
+                              "@Num": "2",
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "次のイからリまでに掲げる事項を記載した帳簿及び第十八条の検査結果証明書の写し"
+                              }
+                            }
+                          ]
+                        },
+                        "Subitem1": [
+                          {
+                            "@Delete": "false",
+                            "@Hide": "false",
+                            "@Num": "1",
+                            "Subitem1Title": "イ",
+                            "Subitem1Sentence": {
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "検査を行った無線設備等に係る無線局の種別並びに識別信号及び免許の番号（包括免許に係る特定無線局にあっては、包括免許の番号及び特定無線局の番号（免許規則第二十四条の二第一項第三号に規定する特定無線局の番号をいう。以下同じ。））"
+                              }
+                            }
+                          },
+                          {
+                            "@Delete": "false",
+                            "@Hide": "false",
+                            "@Num": "2",
+                            "Subitem1Title": "ロ",
+                            "Subitem1Sentence": {
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "検査を依頼した無線局の免許人の氏名又は名称"
+                              }
+                            }
+                          },
+                          {
+                            "@Delete": "false",
+                            "@Hide": "false",
+                            "@Num": "3",
+                            "Subitem1Title": "ハ",
+                            "Subitem1Sentence": {
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "検査及び点検を行った年月日"
+                              }
+                            }
+                          },
+                          {
+                            "@Delete": "false",
+                            "@Hide": "false",
+                            "@Num": "4",
+                            "Subitem1Title": "ニ",
+                            "Subitem1Sentence": {
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "点検を行った場所"
+                              }
+                            }
+                          },
+                          {
+                            "@Delete": "false",
+                            "@Hide": "false",
+                            "@Num": "5",
+                            "Subitem1Title": "ホ",
+                            "Subitem1Sentence": {
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "第十六条第一項に規定する検査の実施項目ごとの検査の成績及び点検の結果"
+                              }
+                            }
+                          },
+                          {
+                            "@Delete": "false",
+                            "@Hide": "false",
+                            "@Num": "6",
+                            "Subitem1Title": "ヘ",
+                            "Subitem1Sentence": {
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "点検を行った点検員の氏名"
+                              }
+                            }
+                          },
+                          {
+                            "@Delete": "false",
+                            "@Hide": "false",
+                            "@Num": "7",
+                            "Subitem1Title": "ト",
+                            "Subitem1Sentence": {
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "点検を行った際に使用した測定器等の名称若しくは型式、製造事業者名、製造番号、較正等の年月日（当該測定器等が第二条の二の測定器その他の設備であって、当該較正等を行った年月日の翌月の一日から起算して当該測定器等を使用した年月日までの期間が一年を超えている場合は、その旨を含む。）、較正機関名及び較正等を受けた方法（ただし、較正等の方法が法第二十四条の二第四項第二号ニに規定する方法に該当する場合は、当該点検に使用した測定器等を較正等した法別表第三の下欄に掲げる測定器その他の設備の名称又は型式、製造事業者名、製造番号、較正等を行った年月日及び較正を行った者の氏名又は名称を併せて記載すること。）"
+                              }
+                            }
+                          },
+                          {
+                            "@Delete": "false",
+                            "@Hide": "false",
+                            "@Num": "8",
+                            "Subitem1Title": "チ",
+                            "Subitem1Sentence": {
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "判定を行った判定員の氏名"
+                              }
+                            }
+                          },
+                          {
+                            "@Delete": "false",
+                            "@Hide": "false",
+                            "@Num": "9",
+                            "Subitem1Title": "リ",
+                            "Subitem1Sentence": {
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "総合試験において無線設備の操作を行った無線従事者の氏名、無線従事者の資格及び免許証の番号"
+                              }
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "2",
+                        "ItemTitle": "二",
+                        "ItemSentence": {
+                          "Column": [
+                            {
+                              "@LineBreak": "false",
+                              "@Num": "1",
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "点検のみを行った場合"
+                              }
+                            },
+                            {
+                              "@LineBreak": "false",
+                              "@Num": "2",
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "次のイからチまでに掲げる事項を記載した帳簿又は前条の点検結果通知書の写し"
+                              }
+                            }
+                          ]
+                        },
+                        "Subitem1": [
+                          {
+                            "@Delete": "false",
+                            "@Hide": "false",
+                            "@Num": "1",
+                            "Subitem1Title": "イ",
+                            "Subitem1Sentence": {
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "点検を行った無線設備等に係る無線局の種別並びに識別信号及び免許の番号（包括免許に係る特定無線局にあっては、包括免許の番号及び特定無線局の番号）、予備免許通知書の番号又は変更許可通知書の番号"
+                              }
+                            }
+                          },
+                          {
+                            "@Delete": "false",
+                            "@Hide": "false",
+                            "@Num": "2",
+                            "Subitem1Title": "ロ",
+                            "Subitem1Sentence": {
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "点検を依頼した無線局の免許人又は予備免許を受けた者の氏名又は名称"
+                              }
+                            }
+                          },
+                          {
+                            "@Delete": "false",
+                            "@Hide": "false",
+                            "@Num": "3",
+                            "Subitem1Title": "ハ",
+                            "Subitem1Sentence": {
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "点検を行った年月日"
+                              }
+                            }
+                          },
+                          {
+                            "@Delete": "false",
+                            "@Hide": "false",
+                            "@Num": "4",
+                            "Subitem1Title": "ニ",
+                            "Subitem1Sentence": {
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "点検を行った場所"
+                              }
+                            }
+                          },
+                          {
+                            "@Delete": "false",
+                            "@Hide": "false",
+                            "@Num": "5",
+                            "Subitem1Title": "ホ",
+                            "Subitem1Sentence": {
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "点検の結果"
+                              }
+                            }
+                          },
+                          {
+                            "@Delete": "false",
+                            "@Hide": "false",
+                            "@Num": "6",
+                            "Subitem1Title": "ヘ",
+                            "Subitem1Sentence": {
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "点検を行った点検員の氏名"
+                              }
+                            }
+                          },
+                          {
+                            "@Delete": "false",
+                            "@Hide": "false",
+                            "@Num": "7",
+                            "Subitem1Title": "ト",
+                            "Subitem1Sentence": {
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "点検を行った際に使用した測定器等の名称若しくは型式、製造事業者名、製造番号、較正等の年月日（当該測定器等が第二条の二の測定器その他の設備であって、当該較正等を行った年月日の翌月の一日から起算して当該測定器等を使用した年月日までの期間が一年を超えている場合は、その旨を含む。）、較正機関名及び較正等を受けた方法（ただし、較正等の方法が法第二十四条の二第四項第二号ニに規定する方法に該当する場合は、当該点検に使用した測定器等を較正等した法別表第三の下欄に掲げる測定器その他の設備の名称又は型式、製造事業者名、製造番号、較正等を行った年月日及び較正を行った者の氏名又は名称を併せて記載すること。）"
+                              }
+                            }
+                          },
+                          {
+                            "@Delete": "false",
+                            "@Hide": "false",
+                            "@Num": "8",
+                            "Subitem1Title": "チ",
+                            "Subitem1Sentence": {
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "総合試験において無線設備の操作を行った無線従事者の氏名、無線従事者の資格及び免許証の番号"
+                              }
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@Hide": "false",
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "登録検査等事業者等は、第二条第二項第一号ヘ若しくは第二号ヘ又は第九条第二項第六号に規定する計画に基づき実施した測定器等の保守及び管理並びに較正等の記録を作成し、その作成の日から六年間保存しなければならない。"
+                      }
+                    }
+                  },
+                  {
+                    "@Hide": "false",
+                    "@Num": "3",
+                    "ParagraphNum": "３",
+                    "ParagraphSentence": {
+                      "Sentence": [
+                        {
+                          "@Num": "1",
+                          "@WritingMode": "vertical",
+                          "#text": "帳簿等及び前項の記録の保存は、電磁的方法（電子的方法、磁気的方法その他の人の知覚によっては認識することができない方法をいう。以下同じ。）による記録に係る記録媒体により行うことができる。"
+                        },
+                        {
+                          "@Num": "2",
+                          "@WritingMode": "vertical",
+                          "#text": "この場合においては、当該記録を必要に応じ電子計算機その他の機器を用いて直ちに表示又は書面への印刷ができなければならない。"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "5",
+            "ChapterTitle": "第五章　雑則",
+            "Article": {
+              "@Delete": "false",
+              "@Hide": "false",
+              "@Num": "23",
+              "ArticleCaption": "（総合通信局長に提出する書類の作成）",
+              "ArticleTitle": "第二十三条",
+              "Paragraph": {
+                "@Hide": "false",
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "この省令の規定により総合通信局長に提出する書類は、日本語で作成するものとする。"
+                  }
+                }
+              }
+            }
+          }
+        ]
+      },
+      "SupplProvision": [
+        {
+          "@Extract": "false",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": [
+            {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphCaption": "（施行期日）",
+              "ParagraphNum": "１",
+              "ParagraphSentence": {
+                "Sentence": [
+                  {
+                    "@Function": "main",
+                    "@Num": "1",
+                    "@WritingMode": "vertical",
+                    "#text": "この省令は、平成十年四月一日から施行する。"
+                  },
+                  {
+                    "@Function": "proviso",
+                    "@Num": "2",
+                    "@WritingMode": "vertical",
+                    "#text": "ただし、附則第三項及び第四項の規定は、平成十年一月一日から施行する。"
+                  }
+                ]
+              }
+            },
+            {
+              "@Hide": "false",
+              "@Num": "2",
+              "ParagraphCaption": "（経過措置）",
+              "ParagraphNum": "２",
+              "ParagraphSentence": {
+                "Sentence": [
+                  {
+                    "@Function": "main",
+                    "@Num": "1",
+                    "@WritingMode": "vertical",
+                    "#text": "この省令の施行の際現に郵政大臣が別に告示する要件に該当する較正を受けている測定器等は、法第二十四条の二第一項第二号に規定する較正を受けているものとみなす。"
+                  },
+                  {
+                    "@Function": "proviso",
+                    "@Num": "2",
+                    "@WritingMode": "vertical",
+                    "#text": "ただし、認定点検事業者が無線設備の点検に使用する測定器等は、当該較正を受けた日から一年以内のものに限る。"
+                  }
+                ]
+              }
+            },
+            {
+              "@Hide": "false",
+              "@Num": "3",
+              "ParagraphNum": "３",
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "附則第一項ただし書に規定する施行の際現に無線設備等の点検を業務として行っている者であって、郵政大臣が別に告示する要件に該当するものは、第三条第二号又は第三号に規定する要件を満たしているものとみなす。"
+                }
+              }
+            },
+            {
+              "@Hide": "false",
+              "@Num": "4",
+              "ParagraphNum": "４",
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "電波法の一部を改正する法律（平成九年法律第四十七号）附則第一条第二項に規定する認定及びこれに関し必要な手続その他の行為については、この省令の例による。"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@AmendLawNum": "平成一〇年一二月一八日郵政省令第一〇五号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": [
+            {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphCaption": "（施行期日）",
+              "ParagraphNum": "１",
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "この省令は、平成十一年二月一日から施行する。"
+                }
+              }
+            },
+            {
+              "@Hide": "false",
+              "@Num": "8",
+              "ParagraphCaption": "（無線局認定点検事業者規則の一部改正に伴う経過措置）",
+              "ParagraphNum": "８",
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "この省令の施行の際現に免許を受けている救命艇用無線電信、生存艇用携帯無線電信、生存艇用非常位置指示無線標識及び非常用位置指示無線標識の無線設備を施設する船舶局の点検については、前項による改正後の無線局認定点検事業者規則別表第三号の規定にかかわらず、平成十一年七月三十一日までの間は、なお従前の例による。"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@AmendLawNum": "平成一一年一月一一日郵政省令第三号",
+          "@Extract": "false",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この省令は、公布の日から施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成一一年二月一八日郵政省令第八号",
+          "@Extract": "false",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": [
+            {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphCaption": "（施行期日）",
+              "ParagraphNum": "１",
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "この省令は、電気通信分野における規制の合理化のための関係法律の整備等に関する法律（平成十年法律第五十八号）附則第一条第三号に掲げる規定の施行の日から施行する。"
+                }
+              }
+            },
+            {
+              "@Hide": "false",
+              "@Num": "2",
+              "ParagraphCaption": "（経過措置）",
+              "ParagraphNum": "２",
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "法第二十四条の二第一項又は法第二十四条の九第一項の認定の申請については、この省令による改正後の認定点検規則（以下「新規則」という。）第七条及び別表第一号の規定にかかわらず、この省令の施行の日から起算して六月を経過する日までは、なお従前の例によることができる。"
+                }
+              }
+            },
+            {
+              "@Hide": "false",
+              "@Num": "3",
+              "ParagraphNum": "３",
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "この省令の施行前にこの省令による改正前の認定点検規則（以下「旧規則」という。）第八条の規定によりした認定証の交付は、新規則第八条の規定によりした認定証の交付とみなす。"
+                }
+              }
+            },
+            {
+              "@Hide": "false",
+              "@Num": "4",
+              "ParagraphNum": "４",
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "前項に定めるもののほか、この省令の施行前に旧規則の規定によりした手続その他の行為は、新規則のこれに相当する規定によりした手続その他の行為とみなす。"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@AmendLawNum": "平成一一年三月五日郵政省令第一二号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": [
+                {
+                  "@Function": "main",
+                  "@Num": "1",
+                  "@WritingMode": "vertical",
+                  "#text": "この省令は、平成十一年三月二十九日から施行する。"
+                },
+                {
+                  "@Function": "proviso",
+                  "@Num": "2",
+                  "@WritingMode": "vertical",
+                  "#text": "ただし、無線従事者規則別表第三号の改正規定は、平成十一年八月一日から施行する。"
+                }
+              ]
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成一一年三月二九日郵政省令第二八号",
+          "@Extract": "false",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この省令は、公布の日から施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成一一年一二月一六日郵政省令第九九号",
+          "@Extract": "false",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": [
+                {
+                  "@Function": "main",
+                  "@Num": "1",
+                  "@WritingMode": "vertical",
+                  "#text": "この省令は、平成十二年二月一日から施行する。"
+                },
+                {
+                  "@Function": "proviso",
+                  "@Num": "2",
+                  "@WritingMode": "vertical",
+                  "#text": "ただし、第二条中別表第四号の改正規定は公布の日から施行する。"
+                }
+              ]
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成一二年九月二七日郵政省令第六〇号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Article": [
+            {
+              "@Delete": "false",
+              "@Hide": "false",
+              "@Num": "1",
+              "ArticleCaption": "（施行期日）",
+              "ArticleTitle": "第一条",
+              "Paragraph": {
+                "@Hide": "false",
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "この省令は、内閣法の一部を改正する法律（平成十一年法律第八十八号）の施行の日（平成十三年一月六日）から施行する。"
+                  }
+                }
+              }
+            },
+            {
+              "@Delete": "false",
+              "@Hide": "false",
+              "@Num": "2",
+              "ArticleCaption": "（経過措置）",
+              "ArticleTitle": "第二条",
+              "Paragraph": [
+                {
+                  "@Hide": "false",
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": [
+                      {
+                        "@Num": "1",
+                        "@WritingMode": "vertical",
+                        "#text": "この省令による改正前の様式又は書式により調製した用紙は、この省令の施行後においても当分の間、使用することができる。"
+                      },
+                      {
+                        "@Num": "2",
+                        "@WritingMode": "vertical",
+                        "#text": "この場合、改正前の様式又は書式により調製した用紙を修補して、使用することがある。"
+                      }
+                    ]
+                  }
+                },
+                {
+                  "@Hide": "false",
+                  "@Num": "2",
+                  "ParagraphNum": "２",
+                  "ParagraphSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "この省令の施行前に交付された郵便貯金通帳、郵便貯金証書、カード、払戻証書、郵便貯金本人票、郵便為替証書、払出書、郵便振替払出証書、郵便振替支払通知書及び簡易生命保険保険料領収帳は、この省令による改正後の様式又は書式により交付されたものとみなす。"
+                    }
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "@AmendLawNum": "平成一三年三月二九日総務省令第三四号",
+          "@Extract": "false",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この省令は、商法等の一部を改正する法律（平成十二年法律第九十号）の施行の日（平成十三年四月一日）から施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成一三年三月三〇日総務省令第五〇号",
+          "@Extract": "false",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この省令は、平成十三年四月一日から施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成一三年九月一一日総務省令第一一九号",
+          "@Extract": "false",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この省令は、公布の日から施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成一三年一〇月二三日総務省令第一三七号",
+          "@Extract": "false",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この省令は、公布の日から施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成一三年一二月一三日総務省令第一六七号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphCaption": "（施行期日）",
+            "ParagraphNum": "１",
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この省令は、公布の日から施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成一四年一月二五日総務省令第五号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Article": {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "1",
+            "ArticleCaption": "（施行期日）",
+            "ArticleTitle": "第一条",
+            "Paragraph": {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "この規則は、法の施行の日（平成十四年一月二十八日）から施行する。"
+                }
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成一四年六月二八日総務省令第七八号",
+          "@Extract": "false",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この省令は、平成十四年七月一日から施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成一四年一二月二〇日総務省令第一二七号",
+          "@Extract": "false",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この省令は、平成十五年一月十七日から施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成一六年一月二六日総務省令第三号",
+          "@Extract": "false",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": [
+            {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": "１",
+              "ParagraphSentence": {
+                "Sentence": [
+                  {
+                    "@Function": "main",
+                    "@Num": "1",
+                    "@WritingMode": "vertical",
+                    "#text": "この省令は、電波法の一部を改正する法律（平成十五年法律第六十八号。以下「改正法」という。）の施行の日（平成十六年一月二十六日）から施行する。"
+                  },
+                  {
+                    "@Function": "proviso",
+                    "@Num": "2",
+                    "@WritingMode": "vertical",
+                    "#text": "ただし、別表に次の表を加える改正規定中四枚目の様式注２ただし書に係る部分は平成十六年四月一日から施行する。"
+                  }
+                ]
+              }
+            },
+            {
+              "@Hide": "false",
+              "@Num": "2",
+              "ParagraphNum": "２",
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "この省令の施行の際現に総務大臣が別に告示する要件に該当する者は、改正法による改正後の法（以下「新法」という。）別表第一第一号に適合する知識経験を有するものとみなす。"
+                }
+              }
+            },
+            {
+              "@Hide": "false",
+              "@Num": "3",
+              "ParagraphNum": "３",
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "改正法による改正前の法第二十四条の三（同法第二十四条の九第二項において準用する場合を含む。）の規定に基づき交付された認定証の認定の番号は、新法第二十四条の四第一項（同法第二十四条の十三第二項において準用する場合を含む。）の規定に基づき交付された登録証の登録番号とみなす。"
+                }
+              }
+            },
+            {
+              "@Hide": "false",
+              "@Num": "4",
+              "ParagraphNum": "４",
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "この省令の施行の際現にされているこの省令による改正前の認定点検事業者等規則（平成九年郵政省令第七十六号）第九条（同令第十三条の二第二項において準用する場合を含む。）の規定に基づく変更の承認申請は、この省令による改正後の登録点検事業者等規則（以下「新規則」という。）第四条（同令第八条第二項において準用する場合を含む。）の規定に基づく変更の届出とみなす。"
+                }
+              }
+            },
+            {
+              "@Hide": "false",
+              "@Num": "5",
+              "ParagraphNum": "５",
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "この省令の施行の際現に効力を有する業務の実施の方法を定めた書類は、この省令の施行の日から起算して九月を経過する日（その日までに新規則第四条第三項（同令第八条第二項において準用する場合を含む。）の届出があった業務実施方法書にあっては、当該届出の日）までは、新規則第二条第二項（同令第八条第二項において準用する場合を含む。）の業務実施方法書とみなす。"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@AmendLawNum": "平成一六年三月二九日総務省令第六一号",
+          "@Extract": "false",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この省令は、平成十六年三月二十九日から施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成一七年三月三一日総務省令第六五号",
+          "@Extract": "false",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この省令は、所得税法等の一部を改正する法律の施行の日（平成十七年四月一日）から施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成一七年八月九日総務省令第一二四号",
+          "@Extract": "false",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この省令は、平成十七年十二月一日から施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成一八年一一月一日総務省令第一二八号",
+          "@Extract": "false",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この省令は、公布の日から施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成一八年一一月二〇日総務省令第一三七号",
+          "@Extract": "false",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この省令は、公布の日から施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成二〇年一一月二八日総務省令第一二六号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphCaption": "（施行期日）",
+            "ParagraphNum": "１",
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この省令は、一般社団法人及び一般財団法人に関する法律の施行の日（平成二十年十二月一日）から施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成二一年六月八日総務省令第六〇号",
+          "@Extract": "false",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この省令は、公布の日から施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成二一年六月二二日総務省令第六四号",
+          "@Extract": "false",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この省令は、平成二十一年七月一日から施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成二一年一二月二二日総務省令第一二二号",
+          "@Extract": "false",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この省令は、平成二十二年一月一日から施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成二二年三月三日総務省令第一八号",
+          "@Extract": "false",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この省令は、公布の日から施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成二三年六月二九日総務省令第七五号",
+          "@Extract": "false",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": [
+            {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphCaption": "（施行期日）",
+              "ParagraphNum": "１",
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "この省令は、放送法等の一部を改正する法律（平成二十二年法律第六十五号）の施行の日（平成二十三年六月三十日）から施行する。"
+                }
+              }
+            },
+            {
+              "@Hide": "false",
+              "@Num": "2",
+              "ParagraphCaption": "（経過措置）",
+              "ParagraphNum": "２",
+              "ParagraphSentence": {
+                "Sentence": [
+                  {
+                    "@Num": "1",
+                    "@WritingMode": "vertical",
+                    "#text": "登録検査等事業者等の登録申請書の様式は、この省令による改正後の別表第一号の様式にかかわらず、この省令の施行の日から起算して六月を経過する日までは、なお従前の様式によることができる。"
+                  },
+                  {
+                    "@Num": "2",
+                    "@WritingMode": "vertical",
+                    "#text": "この場合においては、改正後の別表第一号の注６に掲げる内容を別紙に記載して添付又は改正前の別表第一号の様式の余白に記載すること。"
+                  }
+                ]
+              }
+            },
+            {
+              "@Hide": "false",
+              "@Num": "3",
+              "ParagraphNum": "３",
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "法第二十四条の二第五項各号に該当しないことを示す書類の様式は、この省令による改正後の別表第三号の様式にかかわらず、この省令の施行の日から起算して六月を経過する日までは、なお従前の様式によることができる。"
+                }
+              }
+            },
+            {
+              "@Hide": "false",
+              "@Num": "4",
+              "ParagraphNum": "４",
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "点検結果通知書の様式は、この省令による改正後の別表第八号の様式にかかわらず、この省令の施行の日から起算して六月を経過する日までは、なお従前の様式によることができる。"
+                }
+              }
+            },
+            {
+              "@Hide": "false",
+              "@Num": "5",
+              "ParagraphNum": "５",
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "この省令による改正前の様式又は書式により調製した用紙は、この省令の施行後においても当分の間、使用することができる。"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@AmendLawNum": "平成二三年七月二八日総務省令第一〇五号",
+          "@Extract": "false",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この省令は、公布の日から施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成二四年三月三〇日総務省令第二三号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphCaption": "（施行期日）",
+            "ParagraphNum": "１",
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この省令は、平成二十四年四月二日から施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成二四年八月六日総務省令第八〇号",
+          "@Extract": "false",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この省令は、公布の日から施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成二五年二月二〇日総務省令第七号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphCaption": "（施行期日）",
+            "ParagraphNum": "１",
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この省令は、公布の日から施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成二六年八月八日総務省令第六七号",
+          "@Extract": "false",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この省令は、電波法の一部を改正する法律附則第一条第二号に掲げる規定の施行の日（平成二十六年九月一日）から施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成二六年九月三日総務省令第七二号",
+          "@Extract": "false",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この省令は、電波法の一部を改正する法律の施行の日（平成二十六年十月一日）から施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成二六年九月二五日総務省令第七四号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphCaption": "（施行期日）",
+            "ParagraphNum": "１",
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この省令は、平成二十六年十月一日から施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成二七年三月三一日総務省令第三五号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Article": {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "1",
+            "ArticleCaption": "（施行期日）",
+            "ArticleTitle": "第一条",
+            "Paragraph": {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "この省令は、行政手続における特定の個人を識別するための番号の利用等に関する法律の施行の日から施行する。"
+                }
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成二九年九月一二日総務省令第六三号",
+          "@Type": "Amend",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": [
+            {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphCaption": "（施行期日）",
+              "ParagraphNum": "１",
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "この省令は、電波法及び電気通信事業法の一部を改正する法律（平成二十九年法律第二十七号）の施行の日から施行する。"
+                }
+              }
+            },
+            {
+              "@Hide": "false",
+              "@Num": "2",
+              "ParagraphCaption": "（経過措置）",
+              "ParagraphNum": "２",
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "この省令の施行前に法第二十四条の二第四項第二号の較正又は校正（以下「較正等」という。）を受けた第一条の規定による改正後の証明規則第三条の二に掲げる測定器その他の設備については、この省令の施行の日以降最初に較正等を受ける日までは、第一条の規定による改正後の証明規則の規定にかかわらず、なお従前の例による。"
+                }
+              }
+            },
+            {
+              "@Hide": "false",
+              "@Num": "3",
+              "ParagraphNum": "３",
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "この省令の施行前に法第二十四条の二第四項第二号の較正等を受けた第二条の規定による改正後の登録検査等規則第二条の二に掲げる測定器その他の設備については、この省令の施行の日以降最初に較正等を受ける日までは、第二条の規定による改正後の登録検査等規則の規定にかかわらず、なお従前の例による。"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@AmendLawNum": "平成三〇年二月一日総務省令第四号",
+          "@Type": "Amend",
+          "SupplProvisionLabel": "附　則",
+          "Article": [
+            {
+              "@Delete": "false",
+              "@Hide": "false",
+              "@Num": "1",
+              "ArticleCaption": "（施行期日）",
+              "ArticleTitle": "第一条",
+              "Paragraph": {
+                "@Hide": "false",
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "この省令は、平成三十年三月一日から施行する。"
+                  }
+                }
+              }
+            },
+            {
+              "@Delete": "false",
+              "@Hide": "false",
+              "@Num": "2",
+              "ArticleCaption": "（経過措置）",
+              "ArticleTitle": "第二条",
+              "Paragraph": {
+                "@Hide": "false",
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "この省令の施行の際現に免許を受けている無線局については、この省令による改正後の施行規則第三十八条第一項又は第三項の規定にかかわらず、当該無線局の免許の有効期間が満了する日までは、なお従前の例によることができる。"
+                  }
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@AmendLawNum": "平成三〇年二月二日総務省令第五号",
+          "@Type": "Amend",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この省令は、電波法施行令の一部を改正する政令（平成三十年政令第二十八号）の施行の日（平成三十年二月二日）から施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成三〇年七月二五日総務省令第五〇号",
+          "@Type": "Amend",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": [
+            {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphCaption": "（施行期日）",
+              "ParagraphNum": "１",
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "この省令は、電波法及び電気通信事業法の一部を改正する法律（平成二十九年法律第二十七号）附則第一条第二号に掲げる規定の施行の日（平成三十年八月一日）から施行する。"
+                }
+              }
+            },
+            {
+              "@Hide": "false",
+              "@Num": "2",
+              "ParagraphCaption": "（経過措置）",
+              "ParagraphNum": "２",
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "この省令の施行の際現に免許又は予備免許を受けている船舶局（船舶自動識別装置又は簡易型船舶自動識別装置を設置しているものに限る。）にあっては、免許状及び無線局免許手続規則第四条に規定する無線局事項書の通信の相手方の欄に人工衛星局の受信設備が記載されているものとみなす。"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@AmendLawNum": "平成三〇年九月二五日総務省令第五六号",
+          "@Type": "Amend",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この省令は、公布の日から施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成三〇年一〇月四日総務省令第五八号",
+          "@Type": "Amend",
+          "SupplProvisionLabel": "附　則",
+          "Article": [
+            {
+              "@Delete": "false",
+              "@Hide": "false",
+              "@Num": "1",
+              "ArticleCaption": "（施行期日）",
+              "ArticleTitle": "第一条",
+              "Paragraph": {
+                "@Hide": "false",
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "この省令は、平成三十一年一月一日から施行する。"
+                  }
+                }
+              }
+            },
+            {
+              "@Delete": "false",
+              "@Hide": "false",
+              "@Num": "2",
+              "ArticleCaption": "（経過措置）",
+              "ArticleTitle": "第二条",
+              "Paragraph": [
+                {
+                  "@Hide": "false",
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": [
+                      {
+                        "@Num": "1",
+                        "@WritingMode": "vertical",
+                        "#text": "この省令による改正前の様式又は書式により調製した用紙については、この省令の施行後においても当分の間、使用することができる。"
+                      },
+                      {
+                        "@Num": "2",
+                        "@WritingMode": "vertical",
+                        "#text": "この場合、この省令による改正前の様式又は書式により調製した用紙を修補して使用することができる。"
+                      }
+                    ]
+                  }
+                },
+                {
+                  "@Hide": "false",
+                  "@Num": "2",
+                  "ParagraphNum": "２",
+                  "ParagraphSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "この省令の施行の際現に免許を受けている九〇〇ＭＨｚ帯の周波数の電波を使用する簡易無線局の無線設備の条件については、この省令による改正後の設備規則の規定にかかわらず、当該簡易無線局の免許の有効期間の間は、なお従前の例によることができる。"
+                    }
+                  }
+                },
+                {
+                  "@Hide": "false",
+                  "@Num": "3",
+                  "ParagraphNum": "３",
+                  "ParagraphSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "この省令の施行の際現に受けているこの省令による改正前の証明規則第二条第一項第四号の無線設備に係る技術基準適合証明又は工事設計認証は、この省令の施行後においても、なおその効力を有する。"
+                    }
+                  }
+                },
+                {
+                  "@Hide": "false",
+                  "@Num": "4",
+                  "ParagraphNum": "４",
+                  "ParagraphSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "この省令の施行の際現に付されているこの省令による改正前の証明規則第二条第一項第四号に掲げる特定無線設備に係る表示は、なお従前の例による。"
+                    }
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "@AmendLawNum": "令和元年六月二八日総務省令第一九号",
+          "@Type": "Amend",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この省令は、不正競争防止法等の一部を改正する法律の施行の日（令和元年七月一日）から施行する。"
+              }
+            }
+          }
+        }
+      ],
+      "AppdxTable": [
+        {
+          "AppdxTableTitle": {
+            "@WritingMode": "vertical",
+            "#text": "別表第一号"
+          },
+          "RelatedArticleNum": "（第２条第１項、第３条第２項及び第９条第１項関係）",
+          "TableStruct": {
+            "Table": {
+              "@WritingMode": "vertical",
+              "TableRow": {
+                "TableColumn": {
+                  "@BorderBottom": "none",
+                  "@BorderLeft": "none",
+                  "@BorderRight": "none",
+                  "@BorderTop": "none",
+                  "FigStruct": {
+                    "Fig": {
+                      "@src": "./pict/H09F04001000076_1907111207_001.pdf"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        {
+          "AppdxTableTitle": {
+            "@WritingMode": "vertical",
+            "#text": "別表第二号"
+          },
+          "RelatedArticleNum": "（第２条第５項、第３条第２項及び第７条第２項関係）",
+          "TableStruct": {
+            "Table": {
+              "@WritingMode": "vertical",
+              "TableRow": {
+                "TableColumn": {
+                  "@BorderBottom": "none",
+                  "@BorderLeft": "none",
+                  "@BorderRight": "none",
+                  "@BorderTop": "none",
+                  "FigStruct": {
+                    "Fig": {
+                      "@src": "./pict/H09F04001000076_1907111207_002.pdf"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        {
+          "AppdxTableTitle": {
+            "@WritingMode": "vertical",
+            "#text": "別表第三号"
+          },
+          "RelatedArticleNum": "（第２条第５項、第３条第２項、第７条第１項及び第１３条第１項関係）",
+          "TableStruct": {
+            "Table": {
+              "@WritingMode": "vertical",
+              "TableRow": {
+                "TableColumn": {
+                  "@BorderBottom": "none",
+                  "@BorderLeft": "none",
+                  "@BorderRight": "none",
+                  "@BorderTop": "none",
+                  "FigStruct": {
+                    "Fig": {
+                      "@src": "./pict/H09F04001000076_1907111207_003.pdf"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        {
+          "AppdxTableTitle": {
+            "@WritingMode": "vertical",
+            "#text": "別表第四号"
+          },
+          "RelatedArticleNum": "（第４条及び第１０条関係）",
+          "TableStruct": {
+            "Table": {
+              "@WritingMode": "vertical",
+              "TableRow": {
+                "TableColumn": {
+                  "@BorderBottom": "none",
+                  "@BorderLeft": "none",
+                  "@BorderRight": "none",
+                  "@BorderTop": "none",
+                  "FigStruct": {
+                    "Fig": {
+                      "@src": "./pict/H09F04001000076_1907111207_004.pdf"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        {
+          "AppdxTableTitle": {
+            "@WritingMode": "vertical",
+            "#text": "別表第五号　登録検査等事業者（点検の事業のみを行う者を除く。）が行う検査の実施項目"
+          },
+          "RelatedArticleNum": "（第十六条第一項関係）",
+          "TableStruct": {
+            "Table": {
+              "@WritingMode": "vertical",
+              "TableRow": {
+                "TableColumn": {
+                  "@BorderBottom": "none",
+                  "@BorderLeft": "none",
+                  "@BorderRight": "none",
+                  "@BorderTop": "none",
+                  "FigStruct": {
+                    "Fig": {
+                      "@src": "./pict/H09F04001000076_1907111207_005.pdf"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        {
+          "AppdxTableTitle": {
+            "@WritingMode": "vertical",
+            "#text": "別表第六号　検査結果証明書の様式"
+          },
+          "RelatedArticleNum": "（第１８条関係）",
+          "TableStruct": {
+            "Table": {
+              "@WritingMode": "vertical",
+              "TableRow": {
+                "TableColumn": {
+                  "@BorderBottom": "none",
+                  "@BorderLeft": "none",
+                  "@BorderRight": "none",
+                  "@BorderTop": "none",
+                  "FigStruct": {
+                    "Fig": {
+                      "@src": "./pict/H09F04001000076_1907111207_006.pdf"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        {
+          "AppdxTableTitle": {
+            "@WritingMode": "vertical",
+            "#text": "別表第七号　登録検査等事業者等が行う点検の実施項目"
+          },
+          "RelatedArticleNum": "（第十九条第一項関係）",
+          "TableStruct": {
+            "Table": {
+              "@WritingMode": "vertical",
+              "TableRow": {
+                "TableColumn": {
+                  "@BorderBottom": "none",
+                  "@BorderLeft": "none",
+                  "@BorderRight": "none",
+                  "@BorderTop": "none",
+                  "FigStruct": {
+                    "Fig": {
+                      "@src": "./pict/H09F04001000076_1907111207_007.pdf"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        {
+          "AppdxTableTitle": {
+            "@WritingMode": "vertical",
+            "#text": "別表第八号　点検結果通知書の様式"
+          },
+          "RelatedArticleNum": "（第２１条関係）",
+          "TableStruct": {
+            "Table": {
+              "@WritingMode": "vertical",
+              "TableRow": {
+                "TableColumn": {
+                  "@BorderBottom": "none",
+                  "@BorderLeft": "none",
+                  "@BorderRight": "none",
+                  "@BorderTop": "none",
+                  "FigStruct": {
+                    "Fig": {
+                      "@src": "./pict/H09F04001000076_1907111207_008.pdf"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      ]
+    }
+  }
+}

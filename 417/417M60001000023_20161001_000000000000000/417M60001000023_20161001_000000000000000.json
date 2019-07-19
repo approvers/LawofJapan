@@ -1,0 +1,100 @@
+{
+  "Law": {
+    "@Era": "Heisei",
+    "@Lang": "ja",
+    "@LawType": "MinisterialOrdinance",
+    "@Num": "23",
+    "@Year": "17",
+    "LawNum": "平成十七年環境省令第二十三号",
+    "LawBody": {
+      "LawTitle": "特定有害廃棄物等の輸出入等の規制に関する法律第二十条第二項の規定により地方環境事務所長に委任する権限を定める省令",
+      "EnactStatement": "特定有害廃棄物等の輸出入等の規制に関する法律（平成四年法律第百八号）第二十条第二項の規定に基づき、特定有害廃棄物等の輸出入等の規制に関する法律第二十条第二項の規定により地方環境事務所長に委任する権限を定める省令を次のように定める。",
+      "MainProvision": {
+        "Paragraph": {
+          "@Num": "1",
+          "ParagraphNum": null,
+          "ParagraphSentence": {
+            "Sentence": [
+              {
+                "@Function": "main",
+                "@Num": "1",
+                "#text": "特定有害廃棄物等の輸出入等の規制に関する法律（以下「法」という。）に規定する環境大臣の権限のうち、次に掲げるものは、地方環境事務所長に委任する。"
+              },
+              {
+                "@Function": "proviso",
+                "@Num": "2",
+                "#text": "ただし、第三号及び第四号に掲げる権限については、環境大臣が自ら行うことを妨げない。"
+              }
+            ]
+          },
+          "Item": [
+            {
+              "@Num": "1",
+              "ItemTitle": "一",
+              "ItemSentence": {
+                "Sentence": "法第七条に規定する権限"
+              }
+            },
+            {
+              "@Num": "2",
+              "ItemTitle": "二",
+              "ItemSentence": {
+                "Sentence": "法第十二条第一項（同条第二項の規定により読み替えて適用する場合を含む。）に規定する権限"
+              }
+            },
+            {
+              "@Num": "3",
+              "ItemTitle": "三",
+              "ItemSentence": {
+                "Sentence": "法第十五条に規定する権限"
+              }
+            },
+            {
+              "@Num": "4",
+              "ItemTitle": "四",
+              "ItemSentence": {
+                "Sentence": "法第十六条第一項及び第二項に規定する権限"
+              }
+            }
+          ]
+        }
+      },
+      "SupplProvision": {
+        "SupplProvisionLabel": "附　則",
+        "Paragraph": [
+          {
+            "@Num": "1",
+            "ParagraphCaption": "（施行期日）",
+            "ParagraphNum": "１",
+            "ParagraphSentence": {
+              "Sentence": "この省令は、平成十七年十月一日から施行する。"
+            }
+          },
+          {
+            "@Num": "2",
+            "ParagraphCaption": "（届出に関する経過措置）",
+            "ParagraphNum": "２",
+            "ParagraphSentence": {
+              "Sentence": "この省令の施行前に法第七条又は第十二条第一項（同条第二項の規定により読み替えて適用する場合を含む。以下同じ。）の規定により環境大臣に対してした届出は、相当の地方環境事務所長に対してした届出とみなす。"
+            }
+          },
+          {
+            "@Num": "3",
+            "ParagraphNum": "３",
+            "ParagraphSentence": {
+              "Sentence": "この省令の施行前に法第七条又は第十二条第一項の規定により環境大臣に対し届出をしなければならない事項で、この省令の施行前にその届出がされていないものについては、これを、当該規定により地方環境事務所長に対して届出をしなければならない事項についてその届出がされていないものとみなして当該規定を適用する。"
+            }
+          },
+          {
+            "@Num": "4",
+            "ParagraphCaption": "（罰則に関する経過措置）",
+            "ParagraphNum": "４",
+            "ParagraphSentence": {
+              "Sentence": "この省令の施行前にした行為に対する罰則の適用については、なお従前の例による。"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

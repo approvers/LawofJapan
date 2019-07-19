@@ -1,0 +1,68 @@
+{
+  "Law": {
+    "@Era": "Meiji",
+    "@Lang": "ja",
+    "@LawType": "ImperialOrder",
+    "@Num": "137",
+    "@Year": "39",
+    "LawNum": "明治三十九年勅令第百三十七号",
+    "LawBody": {
+      "LawTitle": "明治三十九年勅令第百三十七号（国債償還ノ為抽籤執行ノ場合ニ於ケル立会者ニ関スル件）",
+      "MainProvision": {
+        "Paragraph": {
+          "@Hide": "false",
+          "@Num": "1",
+          "ParagraphNum": null,
+          "ParagraphSentence": {
+            "Sentence": {
+              "@WritingMode": "vertical",
+              "#text": "国債償還ノ為抽籤ヲ執行スルトキハ財務省官吏三名以上会計検査院官吏二名以上及日本銀行役員二名以上ノ立会ヲ要ス"
+            }
+          }
+        }
+      },
+      "SupplProvision": [
+        {
+          "@Extract": "false",
+          "@Type": "New",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "本令ハ明治三十九年七月一日ヨリ之ヲ施行ス"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成一二年六月七日政令第三〇七号",
+          "@Extract": "true",
+          "@Type": "Amend",
+          "SupplProvisionLabel": "附　則",
+          "Article": {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "1",
+            "ArticleCaption": "（施行期日）",
+            "ArticleTitle": "第一条",
+            "Paragraph": {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "この政令は、平成十三年一月六日から施行する。"
+                }
+              }
+            }
+          }
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,146 @@
+{
+  "Law": {
+    "@Era": "Heisei",
+    "@Lang": "ja",
+    "@LawType": "CabinetOrder",
+    "@Num": "351",
+    "@Year": "16",
+    "LawNum": "平成十六年政令第三百五十一号",
+    "LawBody": {
+      "LawTitle": "平成十六年八月十七日から九月八日までの間の天災による災害についての激甚災害及びこれに対し適用すべき措置の指定に関する政令",
+      "EnactStatement": {
+        "Ruby": {
+          "Rt": "じん",
+          "#text": "甚"
+        },
+        "#text": "内閣は、激災害に対処するための特別の財政援助等に関する法律（昭和三十七年法律第百五十号）第二条第一項及び第二項並びに第八条第一項の規定に基づき、この政令を制定する。"
+      },
+      "MainProvision": {
+        "Article": [
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "1",
+            "ArticleCaption": "（激甚災害及びこれに対し適用すべき措置の指定）",
+            "ArticleTitle": "第一条",
+            "Paragraph": {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "Ruby": {
+                    "Rt": "じん",
+                    "#text": "甚"
+                  },
+                  "#text": "次の表の上欄に掲げる災害を激災害に対処するための特別の財政援助等に関する法律（以下「法」という。）第二条第一項の激甚災害として指定し、当該激甚災害に対し適用すべき措置を同表の下欄に掲げるとおり指定する。"
+                }
+              },
+              "TableStruct": {
+                "Table": {
+                  "@WritingMode": "vertical",
+                  "TableRow": [
+                    {
+                      "TableColumn": [
+                        {
+                          "@BorderBottom": "solid",
+                          "@BorderLeft": "solid",
+                          "@BorderRight": "solid",
+                          "@BorderTop": "solid",
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "激甚災害"
+                          }
+                        },
+                        {
+                          "@BorderBottom": "solid",
+                          "@BorderLeft": "solid",
+                          "@BorderRight": "solid",
+                          "@BorderTop": "solid",
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "適用すべき措置"
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "@BorderBottom": "solid",
+                          "@BorderLeft": "solid",
+                          "@BorderRight": "solid",
+                          "@BorderTop": "solid",
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "平成十六年八月十七日から九月八日までの間の天災による災害"
+                          }
+                        },
+                        {
+                          "@BorderBottom": "solid",
+                          "@BorderLeft": "solid",
+                          "@BorderRight": "solid",
+                          "@BorderTop": "solid",
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "法第八条第一項に規定する措置"
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": {
+                        "@BorderBottom": "solid",
+                        "@BorderLeft": "solid",
+                        "@BorderRight": "solid",
+                        "@BorderTop": "solid",
+                        "@colspan": "2",
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "備考　上欄の平成十六年八月十七日から九月八日までの間の天災による災害は、平成十六年八月十七日から九月八日までの間の天災についての天災による被害農林漁業者等に対する資金の融通に関する暫定措置法の適用に関する政令（平成十六年政令第三百五十号）第一条第一項に規定する八月十七日から九月八日までの間の天災による災害をいうものとする。"
+                        }
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "2",
+            "ArticleCaption": "（法第八条第一項の政令で定める都道府県）",
+            "ArticleTitle": "第二条",
+            "Paragraph": {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "前条の激甚災害についての法第八条第一項の政令で定める都道府県は、北海道、秋田県、山形県、山口県及び福岡県とする。"
+                }
+              }
+            }
+          }
+        ]
+      },
+      "SupplProvision": {
+        "SupplProvisionLabel": "附　則",
+        "Paragraph": {
+          "@Hide": "false",
+          "@Num": "1",
+          "ParagraphNum": null,
+          "ParagraphSentence": {
+            "Sentence": {
+              "@WritingMode": "vertical",
+              "#text": "この政令は、公布の日から施行する。"
+            }
+          }
+        }
+      }
+    }
+  }
+}

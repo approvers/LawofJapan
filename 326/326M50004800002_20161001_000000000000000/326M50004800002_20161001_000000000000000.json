@@ -1,0 +1,3122 @@
+{
+  "Law": {
+    "@Era": "Showa",
+    "@Lang": "ja",
+    "@LawType": "MinisterialOrdinance",
+    "@Num": "2",
+    "@Year": "26",
+    "LawNum": "昭和二十六年運輸省・建設省令第二号",
+    "LawBody": {
+      "LawTitle": "自動車道事業規則",
+      "EnactStatement": "道路運送法（昭和二十六年法律第百八十三号）及び道路運送法施行法（昭和二十六年法律第百八十四号）の規定に基き、並びにこれらの法律を実施するため、自動車道事業規則を次のように定める。",
+      "TOC": {
+        "TOCLabel": "目次",
+        "TOCChapter": [
+          {
+            "@Num": "1",
+            "ChapterTitle": "第一章　通則",
+            "ArticleRange": "（第一条―第三条）"
+          },
+          {
+            "@Num": "2",
+            "ChapterTitle": "第二章　自動車道事業",
+            "ArticleRange": "（第四条―第三十一条）"
+          },
+          {
+            "@Num": "3",
+            "ChapterTitle": "第三章　国営自動車道事業",
+            "ArticleRange": "（第三十二条）"
+          },
+          {
+            "@Num": "4",
+            "ChapterTitle": "第四章　雑則",
+            "ArticleRange": "（第三十三条―第三十八条）"
+          },
+          {
+            "@Num": "5",
+            "ChapterTitle": "第五章　経過規定",
+            "ArticleRange": "（第三十九条―第四十一条）"
+          }
+        ],
+        "TOCSupplProvision": {
+          "SupplProvisionLabel": "附則"
+        }
+      },
+      "MainProvision": {
+        "Chapter": [
+          {
+            "@Num": "1",
+            "ChapterTitle": "第一章　通則",
+            "Article": [
+              {
+                "@Num": "1",
+                "ArticleCaption": "（定義）",
+                "ArticleTitle": "第一条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "この省令で、自動車道事業、自動車、道路又は一般自動車道とは、それぞれ道路運送法（昭和二十六年法律第百八十三号。以下「法」という。）の自動車道事業、自動車、道路又は一般自動車道をいう。"
+                  }
+                }
+              },
+              {
+                "@Num": "2",
+                "ArticleCaption": "（事件の管轄）",
+                "ArticleTitle": "第二条",
+                "Paragraph": [
+                  {
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": "この省令の規定により提出すべき申請書又は届出書は、この省令中別段の定めのある場合を除き、法第八十八条及び道路運送法施行令（昭和二十六年政令第二百五十号）第三条の規定により権限を有する行政庁に提出するものとする。"
+                    }
+                  },
+                  {
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": [
+                        {
+                          "@Num": "1",
+                          "#text": "前項の申請書又は届出書に係る権限行政庁が地方運輸局長であるときは、その申請書又は届出書は、当該事件の関する土地を管轄する地方運輸局長に提出するものとする。"
+                        },
+                        {
+                          "@Num": "2",
+                          "#text": "この場合において、事件が二以上の地方運輸局長の管轄区域にわたるときは、その事件の主として関する土地を管轄する地方運輸局長に提出するものとする。"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "@Num": "3",
+                "ArticleCaption": "（申請書等の経由）",
+                "ArticleTitle": "第三条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": [
+                      {
+                        "@Num": "1",
+                        "#text": "この省令の規定により国土交通大臣に提出すべき申請書又は届出書は、当該事件の関する土地を管轄する地方運輸局長を経由して提出するものとする。"
+                      },
+                      {
+                        "@Num": "2",
+                        "#text": "この場合には、前条第二項後段の規定を準用する。"
+                      }
+                    ]
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "@Num": "2",
+            "ChapterTitle": "第二章　自動車道事業",
+            "Article": [
+              {
+                "@Num": "4",
+                "ArticleCaption": "（事業の免許申請）",
+                "ArticleTitle": "第四条",
+                "Paragraph": [
+                  {
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": "法第四十八条の規定により、自動車道事業の免許を申請しようとする者は、左に掲げる事項を記載した自動車道事業免許申請書を国土交通大臣に提出するものとする。"
+                    },
+                    "Item": [
+                      {
+                        "@Num": "1",
+                        "ItemTitle": "一",
+                        "ItemSentence": {
+                          "Sentence": "氏名又は名称及び住所"
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "ItemTitle": "二",
+                        "ItemSentence": {
+                          "Sentence": "法第四十八条第一項各号に掲げる事項"
+                        }
+                      },
+                      {
+                        "@Num": "3",
+                        "ItemTitle": "三",
+                        "ItemSentence": {
+                          "Sentence": "法第四十七条第三項の規定により通行する自動車の範囲を限定する免許を受けようとする者にあつては、通行させようとする自動車の範囲"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": "前項の申請書には、次に掲げる書類及び図面を添付するものとする。"
+                    },
+                    "Item": [
+                      {
+                        "@Num": "1",
+                        "ItemTitle": "一",
+                        "ItemSentence": {
+                          "Sentence": "事業用固定資産の総額及び内訳を記載した書類"
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "ItemTitle": "二",
+                        "ItemSentence": {
+                          "Sentence": "事業の開始に要する資金、土地及び物件の調達方法書"
+                        }
+                      },
+                      {
+                        "@Num": "3",
+                        "ItemTitle": "三",
+                        "ItemSentence": {
+                          "Sentence": "事業の収支見積書"
+                        }
+                      },
+                      {
+                        "@Num": "4",
+                        "ItemTitle": "四",
+                        "ItemSentence": {
+                          "Sentence": "路線図"
+                        }
+                      },
+                      {
+                        "@Num": "5",
+                        "ItemTitle": "五",
+                        "ItemSentence": {
+                          "Sentence": "当該事業の開始のため工事を要しない区間にあつては、第八条及び第九条の規定に準じ作成した書類及び図面"
+                        }
+                      },
+                      {
+                        "@Num": "6",
+                        "ItemTitle": "六",
+                        "ItemSentence": {
+                          "Sentence": "事業の施設の概要書"
+                        }
+                      },
+                      {
+                        "@Num": "7",
+                        "ItemTitle": "七",
+                        "ItemSentence": {
+                          "Sentence": "推定による一年間に通行する自動車の種類及び数並びにその算出の基礎を記載した書類"
+                        }
+                      },
+                      {
+                        "@Num": "8",
+                        "ItemTitle": "八",
+                        "ItemSentence": {
+                          "Sentence": "特定の使用者の自動車に限つて当該一般自動車道を供用しようとする者にあつては、特定の使用者との契約書又は協定書の写し"
+                        }
+                      },
+                      {
+                        "@Num": "9",
+                        "ItemTitle": "九",
+                        "ItemSentence": {
+                          "Sentence": "公共団体以外の既存の法人にあつては、次に掲げる書類"
+                        },
+                        "Subitem1": [
+                          {
+                            "@Num": "1",
+                            "Subitem1Title": "イ",
+                            "Subitem1Sentence": {
+                              "Sentence": "定款又は寄附行為及び登記事項証明書"
+                            }
+                          },
+                          {
+                            "@Num": "2",
+                            "Subitem1Title": "ロ",
+                            "Subitem1Sentence": {
+                              "Sentence": "最近の事業年度における貸借対照表"
+                            }
+                          },
+                          {
+                            "@Num": "3",
+                            "Subitem1Title": "ハ",
+                            "Subitem1Sentence": {
+                              "Sentence": "役員又は社員の名簿及び履歴書"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "@Num": "10",
+                        "ItemTitle": "十",
+                        "ItemSentence": {
+                          "Sentence": "法人を設立しようとするものにあつては、次に掲げる書類"
+                        },
+                        "Subitem1": [
+                          {
+                            "@Num": "1",
+                            "Subitem1Title": "イ",
+                            "Subitem1Sentence": {
+                              "Sentence": "定款（会社法（平成十七年法律第八十六号）第三十条第一項及びその準用規定により認証を必要とする場合には、認証のある定款）又は寄附行為の謄本"
+                            }
+                          },
+                          {
+                            "@Num": "2",
+                            "Subitem1Title": "ロ",
+                            "Subitem1Sentence": {
+                              "Sentence": "発起人、社員又は設立者の名簿及び履歴書"
+                            }
+                          },
+                          {
+                            "@Num": "3",
+                            "Subitem1Title": "ハ",
+                            "Subitem1Sentence": {
+                              "Sentence": "設立しようとする法人が株式会社であるときは、株式の引受けの状況及び見込みを記載した書類"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "@Num": "11",
+                        "ItemTitle": "十一",
+                        "ItemSentence": {
+                          "Sentence": "法人格なき組合にあつては、次に掲げる書類"
+                        },
+                        "Subitem1": [
+                          {
+                            "@Num": "1",
+                            "Subitem1Title": "イ",
+                            "Subitem1Sentence": {
+                              "Sentence": "組合契約書の写し"
+                            }
+                          },
+                          {
+                            "@Num": "2",
+                            "Subitem1Title": "ロ",
+                            "Subitem1Sentence": {
+                              "Sentence": "組合員の資産目録"
+                            }
+                          },
+                          {
+                            "@Num": "3",
+                            "Subitem1Title": "ハ",
+                            "Subitem1Sentence": {
+                              "Sentence": "組合員の名簿及び履歴書"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "@Num": "12",
+                        "ItemTitle": "十二",
+                        "ItemSentence": {
+                          "Sentence": "個人にあつては、次に掲げる書類"
+                        },
+                        "Subitem1": [
+                          {
+                            "@Num": "1",
+                            "Subitem1Title": "イ",
+                            "Subitem1Sentence": {
+                              "Sentence": "資産目録"
+                            }
+                          },
+                          {
+                            "@Num": "2",
+                            "Subitem1Title": "ロ",
+                            "Subitem1Sentence": {
+                              "Sentence": "戸籍抄本"
+                            }
+                          },
+                          {
+                            "@Num": "3",
+                            "Subitem1Title": "ハ",
+                            "Subitem1Sentence": {
+                              "Sentence": "履歴書"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "@Num": "13",
+                        "ItemTitle": "十三",
+                        "ItemSentence": {
+                          "Sentence": "法第四十九条第二項各号に該当しない旨を証する書類"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Num": "3",
+                    "ParagraphNum": "３",
+                    "ParagraphSentence": {
+                      "Sentence": "法第四十七条の規定により、自動車道事業の免許を受けようとする者が、自動車道事業を経営している場合には、前項第九号及び第十一号から第十三号までに掲げる書類の添付を省略することができる。"
+                    }
+                  }
+                ]
+              },
+              {
+                "@Num": "5",
+                "ArticleCaption": "（路線）",
+                "ArticleTitle": "第五条",
+                "Paragraph": [
+                  {
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": "法第四十八条第一項第一号の予定する路線には、左に掲げる事項を記載し、第四条第二項第四号の路線図をもつて明示するものとする。"
+                    },
+                    "Item": [
+                      {
+                        "@Num": "1",
+                        "ItemTitle": "一",
+                        "ItemSentence": {
+                          "Sentence": "起点及び終点の地名及び地番（通称があるときは、これを附記すること。）"
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "ItemTitle": "二",
+                        "ItemSentence": {
+                          "Sentence": "主な経過地"
+                        }
+                      },
+                      {
+                        "@Num": "3",
+                        "ItemTitle": "三",
+                        "ItemSentence": {
+                          "Sentence": "工事を要する区間にあつては、その区間の起点及び終点の地名及び地番並びに主な経過地"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": "前項の路線図（縮尺五万分の一以上の平面図）には、左に掲げる事項を記載するものとする。"
+                    },
+                    "Item": [
+                      {
+                        "@Num": "1",
+                        "ItemTitle": "一",
+                        "ItemSentence": {
+                          "Sentence": "路線及び工事を要する区間の粁程"
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "ItemTitle": "二",
+                        "ItemSentence": {
+                          "Sentence": "使用料金徴収所及び駐車場の位置"
+                        }
+                      },
+                      {
+                        "@Num": "3",
+                        "ItemTitle": "三",
+                        "ItemSentence": {
+                          "Sentence": "主な橋及びトンネルの位置"
+                        }
+                      },
+                      {
+                        "@Num": "4",
+                        "ItemTitle": "四",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "Ruby": {
+                              "Rt": "ヽ",
+                              "#text": "さ"
+                            },
+                            "#text": "他の道路、鉄道又は軌道との交位置及び接続位置"
+                          }
+                        }
+                      },
+                      {
+                        "@Num": "5",
+                        "ItemTitle": "五",
+                        "ItemSentence": {
+                          "Sentence": "一キロメートルごとの逓加距離"
+                        }
+                      },
+                      {
+                        "@Num": "6",
+                        "ItemTitle": "六",
+                        "ItemSentence": {
+                          "Sentence": "地形及び主な地物"
+                        }
+                      },
+                      {
+                        "@Num": "7",
+                        "ItemTitle": "七",
+                        "ItemSentence": {
+                          "Sentence": "縮尺及び方位"
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "@Num": "6",
+                "ArticleCaption": "（事業計画）",
+                "ArticleTitle": "第六条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "法第四十八条第一項第二号の事業計画には、左に掲げる事項を記載するものとする。"
+                  },
+                  "Item": [
+                    {
+                      "@Num": "1",
+                      "ItemTitle": "一",
+                      "ItemSentence": {
+                        "Sentence": "主たる事務所及び営業所の名称及び位置"
+                      }
+                    },
+                    {
+                      "@Num": "2",
+                      "ItemTitle": "二",
+                      "ItemSentence": {
+                        "Sentence": "使用料金徴収所及び駐車場の名称及び位置"
+                      }
+                    },
+                    {
+                      "@Num": "3",
+                      "ItemTitle": "三",
+                      "ItemSentence": {
+                        "Sentence": "車線数、路面の種類並びに設計速度及び設計重量（区間により異なるときは、区間ごとに明示すること。）"
+                      }
+                    },
+                    {
+                      "@Num": "4",
+                      "ItemTitle": "四",
+                      "ItemSentence": {
+                        "Sentence": {
+                          "Ruby": [
+                            {
+                              "Rt": "ヽ",
+                              "#text": "さ"
+                            },
+                            {
+                              "Rt": "ヽ",
+                              "#text": "さ"
+                            }
+                          ],
+                          "#text": "他の道路、鉄道又は軌道との交位置及び交方式並びに他の道路との連絡位置"
+                        }
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "@Num": "7",
+                "ArticleCaption": "（工事施行の認可申請）",
+                "ArticleTitle": "第七条",
+                "Paragraph": [
+                  {
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": "法第五十条第一項の規定により、自動車道事業の工事施行の認可を申請しようとする者は、次に掲げる事項を記載した工事施行認可申請書を提出するものとする。"
+                    },
+                    "Item": [
+                      {
+                        "@Num": "1",
+                        "ItemTitle": "一",
+                        "ItemSentence": {
+                          "Sentence": "氏名又は名称及び住所"
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "ItemTitle": "二",
+                        "ItemSentence": {
+                          "Sentence": "工事を施行しようとする区間の起点及び終点の地名及び地番並びにキロ程"
+                        }
+                      },
+                      {
+                        "@Num": "3",
+                        "ItemTitle": "三",
+                        "ItemSentence": {
+                          "Sentence": "予定する工事の完成の時期"
+                        }
+                      },
+                      {
+                        "@Num": "4",
+                        "ItemTitle": "四",
+                        "ItemSentence": {
+                          "Sentence": "工事方法"
+                        }
+                      },
+                      {
+                        "@Num": "5",
+                        "ItemTitle": "五",
+                        "ItemSentence": {
+                          "Sentence": "工事を要する区間の一部について工事を施行しようとするときは、その理由"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": "前項の申請書には、左に掲げる書類及び図面を添附するものとする。"
+                    },
+                    "Item": [
+                      {
+                        "@Num": "1",
+                        "ItemTitle": "一",
+                        "ItemSentence": {
+                          "Sentence": "設計車両長、設計車両幅、高さ、設計速度及び設計重量を記載した書類"
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "ItemTitle": "二",
+                        "ItemSentence": {
+                          "Sentence": "工事費予算書"
+                        }
+                      },
+                      {
+                        "@Num": "3",
+                        "ItemTitle": "三",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "Ruby": [
+                              {
+                                "Rt": "ヽ",
+                                "#text": "き"
+                              },
+                              {
+                                "Rt": "ヽ",
+                                "#text": "よ"
+                              },
+                              {
+                                "Rt": "ヽ",
+                                "#text": "き"
+                              },
+                              {
+                                "Rt": "ヽ",
+                                "#text": "よ"
+                              }
+                            ],
+                            "#text": "橋、トンネル、開\n、暗\nその他主な工作物に関する耐力計算書及び地質調査書"
+                          }
+                        }
+                      },
+                      {
+                        "@Num": "4",
+                        "ItemTitle": "四",
+                        "ItemSentence": {
+                          "Sentence": "実測図"
+                        }
+                      },
+                      {
+                        "@Num": "5",
+                        "ItemTitle": "五",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "Ruby": {
+                              "Rt": "ヽ",
+                              "#text": "さ"
+                            },
+                            "#text": "他の道路、鉄道又は軌道との交又は接続に関する協定書の写"
+                          }
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "@Num": "8",
+                "ArticleCaption": "（工事方法）",
+                "ArticleTitle": "第八条",
+                "Paragraph": [
+                  {
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": "法第五十条第一項の規定による工事方法は、左に掲げる事項について定め、これを工事方法書に記載するものとする。"
+                    },
+                    "Item": [
+                      {
+                        "@Num": "1",
+                        "ItemTitle": "一",
+                        "ItemSentence": {
+                          "Sentence": "車線及び路肩の幅員"
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "ItemTitle": "二",
+                        "ItemSentence": {
+                          "Sentence": "路面及び路床の構造"
+                        }
+                      },
+                      {
+                        "@Num": "3",
+                        "ItemTitle": "三",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "Ruby": [
+                              {
+                                "Rt": "ヽ",
+                                "#text": "こ"
+                              },
+                              {
+                                "Rt": "ヽ",
+                                "#text": "う"
+                              },
+                              {
+                                "Rt": "ヽ",
+                                "#text": "ば"
+                              },
+                              {
+                                "Rt": "ヽ",
+                                "#text": "い"
+                              }
+                            ],
+                            "#text": "直線部の横断"
+                          }
+                        }
+                      },
+                      {
+                        "@Num": "4",
+                        "ItemTitle": "四",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "Ruby": [
+                              {
+                                "Rt": "ヽ",
+                                "#text": "こ"
+                              },
+                              {
+                                "Rt": "ヽ",
+                                "#text": "う"
+                              },
+                              {
+                                "Rt": "ヽ",
+                                "#text": "ば"
+                              },
+                              {
+                                "Rt": "ヽ",
+                                "#text": "い"
+                              }
+                            ],
+                            "#text": "縦断\n\n\n及び延長"
+                          }
+                        }
+                      },
+                      {
+                        "@Num": "5",
+                        "ItemTitle": "五",
+                        "ItemSentence": {
+                          "Sentence": "縦断曲線の長さ"
+                        }
+                      },
+                      {
+                        "@Num": "6",
+                        "ItemTitle": "六",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "Ruby": [
+                              {
+                                "Rt": "ヽ",
+                                "#text": "こ"
+                              },
+                              {
+                                "Rt": "ヽ",
+                                "#text": "う"
+                              },
+                              {
+                                "Rt": "ヽ",
+                                "#text": "ば"
+                              },
+                              {
+                                "Rt": "ヽ",
+                                "#text": "い"
+                              }
+                            ],
+                            "#text": "盛土及び切土の斜面の"
+                          }
+                        }
+                      },
+                      {
+                        "@Num": "7",
+                        "ItemTitle": "七",
+                        "ItemSentence": {
+                          "Sentence": "待避所の設置場所"
+                        }
+                      },
+                      {
+                        "@Num": "8",
+                        "ItemTitle": "八",
+                        "ItemSentence": {
+                          "Sentence": "曲線半径及び曲線長"
+                        }
+                      },
+                      {
+                        "@Num": "9",
+                        "ItemTitle": "九",
+                        "ItemSentence": {
+                          "Sentence": "緩和区間の長さ"
+                        }
+                      },
+                      {
+                        "@Num": "10",
+                        "ItemTitle": "十",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "Ruby": [
+                              {
+                                "Rt": "ヽ",
+                                "#text": "こ"
+                              },
+                              {
+                                "Rt": "ヽ",
+                                "#text": "う"
+                              },
+                              {
+                                "Rt": "ヽ",
+                                "#text": "ば"
+                              },
+                              {
+                                "Rt": "ヽ",
+                                "#text": "い"
+                              }
+                            ],
+                            "#text": "曲線部の横断"
+                          }
+                        }
+                      },
+                      {
+                        "@Num": "11",
+                        "ItemTitle": "十一",
+                        "ItemSentence": {
+                          "Sentence": "最小の停止視距"
+                        }
+                      },
+                      {
+                        "@Num": "12",
+                        "ItemTitle": "十二",
+                        "ItemSentence": {
+                          "Sentence": "建築限界"
+                        }
+                      },
+                      {
+                        "@Num": "13",
+                        "ItemTitle": "十三",
+                        "ItemSentence": {
+                          "Sentence": "路端の高さと水流水面の最高水位との最小差"
+                        }
+                      },
+                      {
+                        "@Num": "14",
+                        "ItemTitle": "十四",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "Ruby": [
+                              {
+                                "Rt": "ヽ",
+                                "#text": "き"
+                              },
+                              {
+                                "Rt": "ヽ",
+                                "#text": "よ"
+                              },
+                              {
+                                "Rt": "ヽ",
+                                "#text": "き"
+                              },
+                              {
+                                "Rt": "ヽ",
+                                "#text": "よ"
+                              }
+                            ],
+                            "#text": "橋、トンネル、開\n及び暗\nの構造"
+                          }
+                        }
+                      },
+                      {
+                        "@Num": "15",
+                        "ItemTitle": "十五",
+                        "ItemSentence": {
+                          "Sentence": "排水設備の構造"
+                        }
+                      },
+                      {
+                        "@Num": "16",
+                        "ItemTitle": "十六",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "Ruby": {
+                              "Rt": "ヽ",
+                              "#text": "さ"
+                            },
+                            "#text": "他の道路、鉄道又は軌道との交部分又は連絡部分の構造"
+                          }
+                        }
+                      },
+                      {
+                        "@Num": "17",
+                        "ItemTitle": "十七",
+                        "ItemSentence": {
+                          "Sentence": "駐車場の構造"
+                        }
+                      },
+                      {
+                        "@Num": "18",
+                        "ItemTitle": "十八",
+                        "ItemSentence": {
+                          "Sentence": "防護設備の設置場所"
+                        }
+                      },
+                      {
+                        "@Num": "19",
+                        "ItemTitle": "十九",
+                        "ItemSentence": {
+                          "Sentence": "防護設備の構造"
+                        }
+                      },
+                      {
+                        "@Num": "20",
+                        "ItemTitle": "二十",
+                        "ItemSentence": {
+                          "Sentence": "信号、通信及び照明の設備の位置及び構造"
+                        }
+                      },
+                      {
+                        "@Num": "21",
+                        "ItemTitle": "二十一",
+                        "ItemSentence": {
+                          "Sentence": "自動車道標識の設置箇所及び標示すべき事項"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": "前項各号に掲げる事項が区間又は箇所によつて異なるときは、区間又は箇所ごとに記載するものとする。"
+                    }
+                  },
+                  {
+                    "@Num": "3",
+                    "ParagraphNum": "３",
+                    "ParagraphSentence": {
+                      "Sentence": [
+                        {
+                          "@Function": "main",
+                          "@Num": "1",
+                          "#text": "第一項第一号、第三号、第六号、第十号（特殊な場合に限る。）及び第十二号に掲げる事項については、横断定規図を、第二号、第十四号、第十六号、第十七号、第十九号及び第二十号に掲げる事項については、設計図を、第十五号に掲げる事項については、構造を横断定規図に記入したもの又は設計図を添附するものとする。"
+                        },
+                        {
+                          "@Function": "proviso",
+                          "@Num": "2",
+                          "#text": "但し、第十四号及び第十九号に掲げる事項のうち簡易なものについては、定規図をもつて代えることができる。"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "@Num": "4",
+                    "ParagraphNum": "４",
+                    "ParagraphSentence": {
+                      "Sentence": "第一項第一号、第七号から第十号まで、第十八号、第二十号及び第二十一号に掲げる事項については、次条の実測平面図に、第四号及び第五号に掲げる事項については、次条の実測縦断面図に記入するものとする。"
+                    }
+                  },
+                  {
+                    "@Num": "5",
+                    "ParagraphNum": "５",
+                    "ParagraphSentence": {
+                      "Sentence": "第三項の横断定規図及び定規図の縮尺は、五十分の一以上とし、設計図の縮尺は、一般図については二百分の一以上、詳細図については五十分の一以上（鋼橋については十五分の一以上）とする。"
+                    }
+                  }
+                ]
+              },
+              {
+                "@Num": "9",
+                "ArticleCaption": "（実測図）",
+                "ArticleTitle": "第九条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "第七条第二項第四号の実測図は、左の二種とする。"
+                  },
+                  "Item": [
+                    {
+                      "@Num": "1",
+                      "ItemTitle": "一",
+                      "ItemSentence": {
+                        "Column": [
+                          {
+                            "@Num": "1",
+                            "Sentence": "実測平面図"
+                          },
+                          {
+                            "@Num": "2",
+                            "Sentence": [
+                              {
+                                "@Function": "main",
+                                "@Num": "1",
+                                "#text": "縮尺は、二千五百分の一以上とし、左に掲げる事項を記載し、縮尺及び方位を示すものとする。"
+                              },
+                              {
+                                "@Function": "proviso",
+                                "@Num": "2",
+                                "#text": "但し、市街地及び特殊な箇所については、縮尺五百分の一以上の平面図を別に添附するものとする。"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      "Subitem1": [
+                        {
+                          "@Num": "1",
+                          "Subitem1Title": "イ",
+                          "Subitem1Sentence": {
+                            "Sentence": "起点及び終点の地名及び地番並びに経過市町村名及びその境界線"
+                          }
+                        },
+                        {
+                          "@Num": "2",
+                          "Subitem1Title": "ロ",
+                          "Subitem1Sentence": {
+                            "Sentence": "中心線から左右各二十メートル以上にわたる区域内の地形及び地物"
+                          }
+                        },
+                        {
+                          "@Num": "3",
+                          "Subitem1Title": "ハ",
+                          "Subitem1Sentence": {
+                            "Sentence": "二十メートルごと（地形により短縮することができる。）の測点及び百メートルごとの逓加距離を示した中心線"
+                          }
+                        },
+                        {
+                          "@Num": "4",
+                          "Subitem1Title": "ニ",
+                          "Subitem1Sentence": {
+                            "Sentence": "円曲線の起点、終点及び交角"
+                          }
+                        },
+                        {
+                          "@Num": "5",
+                          "Subitem1Title": "ホ",
+                          "Subitem1Sentence": {
+                            "Sentence": "総幅員線及び敷地境界線"
+                          }
+                        },
+                        {
+                          "@Num": "6",
+                          "Subitem1Title": "ヘ",
+                          "Subitem1Sentence": {
+                            "Sentence": "橋、トンネルその他主な工作物の名称及び位置"
+                          }
+                        },
+                        {
+                          "@Num": "7",
+                          "Subitem1Title": "ト",
+                          "Subitem1Sentence": {
+                            "Sentence": {
+                              "Ruby": [
+                                {
+                                  "Rt": "ヽ",
+                                  "#text": "さ"
+                                },
+                                {
+                                  "Rt": "ヽ",
+                                  "#text": "さ"
+                                }
+                              ],
+                              "#text": "他の道路、鉄道又は軌道との交位置及び交方式並びに他の道路との連絡位置"
+                            }
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "@Num": "2",
+                      "ItemTitle": "二",
+                      "ItemSentence": {
+                        "Column": [
+                          {
+                            "@Num": "1",
+                            "Sentence": "実測縦断面図"
+                          },
+                          {
+                            "@Num": "2",
+                            "Sentence": "縮尺は、横を二千五百分の一以上、縦を五百分の一以上とし、左に掲げる事項を記載するものとする。"
+                          }
+                        ]
+                      },
+                      "Subitem1": [
+                        {
+                          "@Num": "1",
+                          "Subitem1Title": "イ",
+                          "Subitem1Sentence": {
+                            "Sentence": "測点番号、測点間距離及び逓加距離"
+                          }
+                        },
+                        {
+                          "@Num": "2",
+                          "Subitem1Title": "ロ",
+                          "Subitem1Sentence": {
+                            "Sentence": "測点ごとの中心線の地面、施工基面、盛土の高さ及び切土の深さ"
+                          }
+                        },
+                        {
+                          "@Num": "3",
+                          "Subitem1Title": "ハ",
+                          "Subitem1Sentence": {
+                            "Sentence": [
+                              {
+                                "@Function": "main",
+                                "@Num": "1",
+                                "#text": "橋、トンネルその他の工作物の名称及び位置。"
+                              },
+                              {
+                                "@Function": "proviso",
+                                "@Num": "2",
+                                "#text": "但し、橋については、その種類、材質並びに経間の長さ及び数を、トンネルについては、その長さを明示するものとする。"
+                              }
+                            ]
+                          }
+                        },
+                        {
+                          "@Num": "4",
+                          "Subitem1Title": "ニ",
+                          "Subitem1Sentence": {
+                            "Sentence": {
+                              "Ruby": [
+                                {
+                                  "Rt": "ヽ",
+                                  "#text": "さ"
+                                },
+                                {
+                                  "Rt": "ヽ",
+                                  "#text": "さ"
+                                }
+                              ],
+                              "#text": "他の道路、鉄道又は軌道との交位置及び交方式並びに他の道路との連絡位置"
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                }
+              },
+              {
+                "@Num": "10",
+                "ArticleCaption": "（工事施行の認可申請期間等の伸長申請）",
+                "ArticleTitle": "第十条",
+                "Paragraph": [
+                  {
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": "法第五十条第三項の規定により、一般自動車道の工事施行の認可申請期間の伸長を申請しようとする者は、次に掲げる事項を記載した工事施行認可申請期間伸長申請書を提出するものとする。"
+                    },
+                    "Item": [
+                      {
+                        "@Num": "1",
+                        "ItemTitle": "一",
+                        "ItemSentence": {
+                          "Sentence": "氏名又は名称及び住所"
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "ItemTitle": "二",
+                        "ItemSentence": {
+                          "Sentence": "当該一般自動車道の区間"
+                        }
+                      },
+                      {
+                        "@Num": "3",
+                        "ItemTitle": "三",
+                        "ItemSentence": {
+                          "Sentence": "伸長の期間"
+                        }
+                      },
+                      {
+                        "@Num": "4",
+                        "ItemTitle": "四",
+                        "ItemSentence": {
+                          "Sentence": "伸長を必要とする理由"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": "前項の規定は、法第五十六条第二項において準用する法第五十条第三項の規定による期間の伸長申請について準用する。"
+                    }
+                  }
+                ]
+              },
+              {
+                "@Num": "11",
+                "ArticleTitle": "第十一条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "削除"
+                  }
+                }
+              },
+              {
+                "@Num": "12",
+                "ArticleCaption": "（路線等の公示）",
+                "ArticleTitle": "第十二条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "法第五十三条の規定により、国土交通大臣が公示しなければならない事項は、次のとおりとする。"
+                  },
+                  "Item": [
+                    {
+                      "@Num": "1",
+                      "ItemTitle": "一",
+                      "ItemSentence": {
+                        "Sentence": "当該自動車道事業者の氏名又は名称及び住所"
+                      }
+                    },
+                    {
+                      "@Num": "2",
+                      "ItemTitle": "二",
+                      "ItemSentence": {
+                        "Sentence": "工事施行の認可の年月日"
+                      }
+                    },
+                    {
+                      "@Num": "3",
+                      "ItemTitle": "三",
+                      "ItemSentence": {
+                        "Sentence": "法第五十条第二項の規定により指定した工事の完成の期間"
+                      }
+                    },
+                    {
+                      "@Num": "4",
+                      "ItemTitle": "四",
+                      "ItemSentence": {
+                        "Sentence": "当該工事施行の区間の起点及び終点の地名及び地番並びに経過市町村名"
+                      }
+                    },
+                    {
+                      "@Num": "5",
+                      "ItemTitle": "五",
+                      "ItemSentence": {
+                        "Sentence": "当該工事施行の区間のキロ程及び総幅員"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "@Num": "13",
+                "ArticleCaption": "（工事方法の変更の認可申請）",
+                "ArticleTitle": "第十三条",
+                "Paragraph": [
+                  {
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": "法第五十四条第一項の規定により、一般自動車道の工事方法の変更の認可を申請しようとする者は、次に掲げる事項を記載した工事方法変更認可申請書を提出するものとする。"
+                    },
+                    "Item": [
+                      {
+                        "@Num": "1",
+                        "ItemTitle": "一",
+                        "ItemSentence": {
+                          "Sentence": "氏名又は名称及び住所"
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "ItemTitle": "二",
+                        "ItemSentence": {
+                          "Sentence": "変更しようとする事項（書類及び図面により新旧の対照を明示すること。）"
+                        }
+                      },
+                      {
+                        "@Num": "3",
+                        "ItemTitle": "三",
+                        "ItemSentence": {
+                          "Sentence": "変更を必要とする理由"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": "前項の申請書には、工事方法の変更により一般自動車道のキロ程に変更を生ずるときは、変更後のキロ程を記載した書類を添付するものとする。"
+                    }
+                  }
+                ]
+              },
+              {
+                "@Num": "14",
+                "ArticleCaption": "（工事方法の変更の届出）",
+                "ArticleTitle": "第十四条",
+                "Paragraph": [
+                  {
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": [
+                        {
+                          "@Function": "main",
+                          "@Num": "1",
+                          "#text": "法第五十四条第一項ただし書の軽微な工事方法の変更は、次のとおりとする。"
+                        },
+                        {
+                          "@Function": "proviso",
+                          "@Num": "2",
+                          "#text": "ただし、事業計画の変更に伴うものは、この限りでない。"
+                        }
+                      ]
+                    },
+                    "Item": [
+                      {
+                        "@Num": "1",
+                        "ItemTitle": "一",
+                        "ItemSentence": {
+                          "Sentence": "車線又は路肩の幅員の拡張"
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "ItemTitle": "二",
+                        "ItemSentence": {
+                          "Sentence": "二パーセント以内の縦断こうばいの増減（二パーセント以内の縦断こうばいの増加によつて縦断こうばいが五パーセントを超えることとなるものを除く。）"
+                        }
+                      },
+                      {
+                        "@Num": "3",
+                        "ItemTitle": "三",
+                        "ItemSentence": {
+                          "Sentence": "縦断曲線の長さの伸長"
+                        }
+                      },
+                      {
+                        "@Num": "4",
+                        "ItemTitle": "四",
+                        "ItemSentence": {
+                          "Sentence": "盛土及び切土の斜面のこうばいの緩和"
+                        }
+                      },
+                      {
+                        "@Num": "5",
+                        "ItemTitle": "五",
+                        "ItemSentence": {
+                          "Sentence": "曲線半径の伸長"
+                        }
+                      },
+                      {
+                        "@Num": "6",
+                        "ItemTitle": "六",
+                        "ItemSentence": {
+                          "Sentence": "緩和区間の伸長"
+                        }
+                      },
+                      {
+                        "@Num": "7",
+                        "ItemTitle": "七",
+                        "ItemSentence": {
+                          "Sentence": "最小の停止視距の伸長"
+                        }
+                      },
+                      {
+                        "@Num": "8",
+                        "ItemTitle": "八",
+                        "ItemSentence": {
+                          "Sentence": "建築限界の拡張"
+                        }
+                      },
+                      {
+                        "@Num": "9",
+                        "ItemTitle": "九",
+                        "ItemSentence": {
+                          "Sentence": "路端の高さの増加又は低下（水流水面の最高水位上三十センチメートルまでの低下に限る。）"
+                        }
+                      },
+                      {
+                        "@Num": "10",
+                        "ItemTitle": "十",
+                        "ItemSentence": {
+                          "Sentence": "駐車場の構造の変更"
+                        }
+                      },
+                      {
+                        "@Num": "11",
+                        "ItemTitle": "十一",
+                        "ItemSentence": {
+                          "Sentence": "防護設備の設置場所の拡張"
+                        }
+                      },
+                      {
+                        "@Num": "12",
+                        "ItemTitle": "十二",
+                        "ItemSentence": {
+                          "Sentence": "信号、通信及び照明の設備の新設"
+                        }
+                      },
+                      {
+                        "@Num": "13",
+                        "ItemTitle": "十三",
+                        "ItemSentence": {
+                          "Sentence": "自動車道標識の設置箇所及び標示すべき事項の変更"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": "前条の規定は、法第五十四条第三項の規定による軽微な工事方法の変更の届出について準用する。"
+                    }
+                  }
+                ]
+              },
+              {
+                "@Num": "15",
+                "ArticleCaption": "（工事の完成検査等の申請）",
+                "ArticleTitle": "第十五条",
+                "Paragraph": [
+                  {
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": "法第五十七条第一項の規定により、一般自動車道の工事の完成検査を申請しようとする者は、次に掲げる事項を記載した工事完成検査申請書を提出するものとする。"
+                    },
+                    "Item": [
+                      {
+                        "@Num": "1",
+                        "ItemTitle": "一",
+                        "ItemSentence": {
+                          "Sentence": "氏名又は名称及び住所"
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "ItemTitle": "二",
+                        "ItemSentence": {
+                          "Sentence": "検査を受けようとする区間"
+                        }
+                      },
+                      {
+                        "@Num": "3",
+                        "ItemTitle": "三",
+                        "ItemSentence": {
+                          "Sentence": "工事完成の年月日"
+                        }
+                      },
+                      {
+                        "@Num": "4",
+                        "ItemTitle": "四",
+                        "ItemSentence": {
+                          "Sentence": "予定する供用開始の期日"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": "前項の規定は、法第五十八条第一項、法第五十九条第一項及び法第六十条第一項の規定による一般自動車道の検査の申請について準用する。"
+                    }
+                  }
+                ]
+              },
+              {
+                "@Num": "16",
+                "ArticleTitle": "第十六条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "削除"
+                  }
+                }
+              },
+              {
+                "@Num": "17",
+                "ArticleCaption": "（使用料金の認可申請）",
+                "ArticleTitle": "第十七条",
+                "Paragraph": [
+                  {
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": "法第六十一条第一項の規定により、一般自動車道の使用料金の設定又は変更の認可を申請しようとする者は、次に掲げる事項を記載した使用料金設定（変更）認可申請書を提出するものとする。"
+                    },
+                    "Item": [
+                      {
+                        "@Num": "1",
+                        "ItemTitle": "一",
+                        "ItemSentence": {
+                          "Sentence": "氏名又は名称及び住所"
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "ItemTitle": "二",
+                        "ItemSentence": {
+                          "Sentence": "設定又は変更をしようとする使用料金の種類、額及び適用方法（変更の認可申請の場合は、新旧の対照を明示すること。）"
+                        }
+                      },
+                      {
+                        "@Num": "3",
+                        "ItemTitle": "三",
+                        "ItemSentence": {
+                          "Sentence": "変更の認可申請の場合は、変更を必要とする理由"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": "前項の申請書には、原価計算書その他使用料金の額の算出基礎を記載した書類を添付するものとする。"
+                    }
+                  }
+                ]
+              },
+              {
+                "@Num": "18",
+                "ArticleCaption": "（供用約款の認可申請）",
+                "ArticleTitle": "第十八条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "法第六十二条第一項の規定により、自動車道事業の供用約款の設定又は変更の認可を申請しようとする者は、次に掲げる事項を記載した供用約款設定（変更）認可申請書を提出するものとする。"
+                  },
+                  "Item": [
+                    {
+                      "@Num": "1",
+                      "ItemTitle": "一",
+                      "ItemSentence": {
+                        "Sentence": "氏名又は名称及び住所"
+                      }
+                    },
+                    {
+                      "@Num": "2",
+                      "ItemTitle": "二",
+                      "ItemSentence": {
+                        "Sentence": "設定又は変更をしようとする供用約款（変更の認可申請の場合は、新旧の対照を明示すること。）"
+                      }
+                    },
+                    {
+                      "@Num": "3",
+                      "ItemTitle": "三",
+                      "ItemSentence": {
+                        "Sentence": "変更の認可申請の場合は、変更を必要とする理由"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "@Num": "19",
+                "ArticleCaption": "（供用約款の記載事項）",
+                "ArticleTitle": "第十九条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "法第六十二条第一項の規定による供用約款に定める事項は、左の通りとする。"
+                  },
+                  "Item": [
+                    {
+                      "@Num": "1",
+                      "ItemTitle": "一",
+                      "ItemSentence": {
+                        "Sentence": "一般自動車道の区間"
+                      }
+                    },
+                    {
+                      "@Num": "2",
+                      "ItemTitle": "二",
+                      "ItemSentence": {
+                        "Sentence": "使用料金の収受又は払戻に関する事項"
+                      }
+                    },
+                    {
+                      "@Num": "3",
+                      "ItemTitle": "三",
+                      "ItemSentence": {
+                        "Sentence": "供用の拒絶に関する事項"
+                      }
+                    },
+                    {
+                      "@Num": "4",
+                      "ItemTitle": "四",
+                      "ItemSentence": {
+                        "Sentence": "供用に関する責任の始期及び終期"
+                      }
+                    },
+                    {
+                      "@Num": "5",
+                      "ItemTitle": "五",
+                      "ItemSentence": {
+                        "Sentence": "免責に関する事項"
+                      }
+                    },
+                    {
+                      "@Num": "6",
+                      "ItemTitle": "六",
+                      "ItemSentence": {
+                        "Sentence": "損害賠償に関する事項"
+                      }
+                    },
+                    {
+                      "@Num": "7",
+                      "ItemTitle": "七",
+                      "ItemSentence": {
+                        "Sentence": "その他供用約款の内容として必要な事項"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "@Num": "20",
+                "ArticleCaption": "（保安上の供用制限の認可申請）",
+                "ArticleTitle": "第二十条",
+                "Paragraph": [
+                  {
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": "法第六十三条第一項の規定により、自動車道事業の保安上の供用制限の設定又は変更の認可を申請しようとする者は、次に掲げる事項を記載した保安上の供用制限設定（変更）認可申請書を提出するものとする。"
+                    },
+                    "Item": [
+                      {
+                        "@Num": "1",
+                        "ItemTitle": "一",
+                        "ItemSentence": {
+                          "Sentence": "氏名又は名称及び住所"
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "ItemTitle": "二",
+                        "ItemSentence": {
+                          "Sentence": "設定又は変更をしようとする保安上の供用制限（変更の認可申請の場合は、新旧の対照を明示すること。）"
+                        }
+                      },
+                      {
+                        "@Num": "3",
+                        "ItemTitle": "三",
+                        "ItemSentence": {
+                          "Sentence": "変更の認可申請の場合は、変更を必要とする理由"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": "前項の申請書には、道路交通法（昭和三十五年法律第百五号）第二十二条の規定による通行する自動車の最高速度その他保安上の供用制限の基礎を記載した書類を添付するものとする。"
+                    }
+                  }
+                ]
+              },
+              {
+                "@Num": "21",
+                "ArticleCaption": "（保安上の供用制限の記載事項）",
+                "ArticleTitle": "第二十一条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "法第六十三条第一項の規定による保安上の供用制限に定める事項は、供用を制限する自動車の長さ、幅、高さ、重量、速度その他保安上の供用制限の内容として必要な事項とする。"
+                  }
+                }
+              },
+              {
+                "@Num": "22",
+                "ArticleCaption": "（事業計画の変更の認可申請）",
+                "ArticleTitle": "第二十二条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "法第六十六条第一項の規定により、自動車道事業の事業計画の変更の認可を申請しようとする者は、次に掲げる事項を記載した事業計画変更認可申請書を提出するものとする。"
+                  },
+                  "Item": [
+                    {
+                      "@Num": "1",
+                      "ItemTitle": "一",
+                      "ItemSentence": {
+                        "Sentence": "氏名又は名称及び住所"
+                      }
+                    },
+                    {
+                      "@Num": "2",
+                      "ItemTitle": "二",
+                      "ItemSentence": {
+                        "Sentence": "変更しようとする事項（書類及び図面により新旧の対照を明示すること。）"
+                      }
+                    },
+                    {
+                      "@Num": "3",
+                      "ItemTitle": "三",
+                      "ItemSentence": {
+                        "Sentence": "変更を必要とする理由"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "@Num": "23",
+                "ArticleCaption": "（事業計画の変更の届出）",
+                "ArticleTitle": "第二十三条",
+                "Paragraph": [
+                  {
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": "法第六十六条第一項但書の事業計画の軽微な事項は、左の通りとする。"
+                    },
+                    "Item": [
+                      {
+                        "@Num": "1",
+                        "ItemTitle": "一",
+                        "ItemSentence": {
+                          "Sentence": "主たる事務所及び営業所の名称及び位置"
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "ItemTitle": "二",
+                        "ItemSentence": {
+                          "Sentence": "使用料金徴収所及び駐車場の名称及び位置"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": "前条の規定は、法第六十六条第三項の規定による事業計画の軽微な事項の変更の届出について準用する。"
+                    }
+                  }
+                ]
+              },
+              {
+                "@Num": "24",
+                "ArticleCaption": "（構造又は設備の変更の認可申請及び届出）",
+                "ArticleTitle": "第二十四条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "第十三条及び第十四条の規定は、法第六十七条において準用する法第五十四条の規定による一般自動車道の構造又は設備の変更の認可申請及び届出について準用する。"
+                  }
+                }
+              },
+              {
+                "@Num": "24_2",
+                "ArticleCaption": "（検査）",
+                "ArticleTitle": "第二十四条の二",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "一般自動車道の検査は、路面については一箇月に少くとも一回、橋、トンネルその他の工作物及び排水設備その他の設備については一年に少くとも一回行い、その結果を記録しておかなければならない。"
+                  }
+                }
+              },
+              {
+                "@Num": "24_3",
+                "ArticleCaption": "（災害報告）",
+                "ArticleTitle": "第二十四条の三",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "法第六十八条第四項の国土交通省令で定める事項は、次のとおりとする。"
+                  },
+                  "Item": [
+                    {
+                      "@Num": "1",
+                      "ItemTitle": "一",
+                      "ItemSentence": {
+                        "Sentence": "通行に支障を生じた日時及びその原因"
+                      }
+                    },
+                    {
+                      "@Num": "2",
+                      "ItemTitle": "二",
+                      "ItemSentence": {
+                        "Sentence": "通行に支障を生じた場所、その起点からの距離及び路線名"
+                      }
+                    },
+                    {
+                      "@Num": "3",
+                      "ItemTitle": "三",
+                      "ItemSentence": {
+                        "Sentence": "支障の程度"
+                      }
+                    },
+                    {
+                      "@Num": "4",
+                      "ItemTitle": "四",
+                      "ItemSentence": {
+                        "Sentence": "被害の概要"
+                      }
+                    },
+                    {
+                      "@Num": "5",
+                      "ItemTitle": "五",
+                      "ItemSentence": {
+                        "Sentence": "復旧に要する費用の概算額"
+                      }
+                    },
+                    {
+                      "@Num": "6",
+                      "ItemTitle": "六",
+                      "ItemSentence": {
+                        "Sentence": "応急措置の概要"
+                      }
+                    },
+                    {
+                      "@Num": "7",
+                      "ItemTitle": "七",
+                      "ItemSentence": {
+                        "Sentence": "復旧予定日時"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "@Num": "25",
+                "ArticleCaption": "（事業の管理の受委託の許可申請）",
+                "ArticleTitle": "第二十五条",
+                "Paragraph": [
+                  {
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": "法第七十条の二第一項の規定により、自動車道事業の管理の委託及び受託の許可を申請しようとする者は、次に掲げる事項を記載し、かつ、当事者が連署した管理受委託許可申請書を提出するものとする。"
+                    },
+                    "Item": [
+                      {
+                        "@Num": "1",
+                        "ItemTitle": "一",
+                        "ItemSentence": {
+                          "Sentence": "委託者及び受託者の氏名又は名称及び住所"
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "ItemTitle": "二",
+                        "ItemSentence": {
+                          "Sentence": "管理の委託及び受託をしようとする区間"
+                        }
+                      },
+                      {
+                        "@Num": "3",
+                        "ItemTitle": "三",
+                        "ItemSentence": {
+                          "Sentence": "管理の範囲及び方法"
+                        }
+                      },
+                      {
+                        "@Num": "4",
+                        "ItemTitle": "四",
+                        "ItemSentence": {
+                          "Sentence": "管理の委託及び受託をしようとする期間"
+                        }
+                      },
+                      {
+                        "@Num": "5",
+                        "ItemTitle": "五",
+                        "ItemSentence": {
+                          "Sentence": "管理の委託及び受託を必要とする理由"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": "前項の申請書には、次に掲げる書類及び図面を添付するものとする。"
+                    },
+                    "Item": [
+                      {
+                        "@Num": "1",
+                        "ItemTitle": "一",
+                        "ItemSentence": {
+                          "Sentence": "管理の委託受託契約書の写し"
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "ItemTitle": "二",
+                        "ItemSentence": {
+                          "Sentence": "管理の報酬その他管理の実施方法の細目を記載した書類"
+                        }
+                      },
+                      {
+                        "@Num": "3",
+                        "ItemTitle": "三",
+                        "ItemSentence": {
+                          "Sentence": "受託者についての第四条第二項第九号、第十号、第十一号又は第十二号に規定する書類"
+                        }
+                      },
+                      {
+                        "@Num": "4",
+                        "ItemTitle": "四",
+                        "ItemSentence": {
+                          "Sentence": "受託者が法第四十九条第二項各号に該当しない旨を証する書類"
+                        }
+                      },
+                      {
+                        "@Num": "5",
+                        "ItemTitle": "五",
+                        "ItemSentence": {
+                          "Sentence": "管理の委託及び受託をしようとする事業に係る一般自動車道の区間を明示する路線図"
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "@Num": "26",
+                "ArticleCaption": "（事業の譲渡及び譲受の認可申請）",
+                "ArticleTitle": "第二十六条",
+                "Paragraph": [
+                  {
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": "法第七十二条において準用する法第三十六条第一項の規定により、自動車道事業の譲渡及び譲受の認可を申請しようとする者は、次に掲げる事項を記載し、かつ、当事者が連署した事業の譲渡譲受認可申請書を提出するものとする。"
+                    },
+                    "Item": [
+                      {
+                        "@Num": "1",
+                        "ItemTitle": "一",
+                        "ItemSentence": {
+                          "Sentence": "譲渡人及び譲受人の氏名又は名称及び住所"
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "ItemTitle": "二",
+                        "ItemSentence": {
+                          "Sentence": "譲渡及び譲受をしようとする事業に係る一般自動車道の区間"
+                        }
+                      },
+                      {
+                        "@Num": "3",
+                        "ItemTitle": "三",
+                        "ItemSentence": {
+                          "Sentence": "譲渡価格"
+                        }
+                      },
+                      {
+                        "@Num": "4",
+                        "ItemTitle": "四",
+                        "ItemSentence": {
+                          "Sentence": "譲渡及び譲受をしようとする時期"
+                        }
+                      },
+                      {
+                        "@Num": "5",
+                        "ItemTitle": "五",
+                        "ItemSentence": {
+                          "Sentence": "譲渡及び譲受を必要とする理由"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": "前項の申請書には、次に掲げる書類及び図面を添付するものとする。"
+                    },
+                    "Item": [
+                      {
+                        "@Num": "1",
+                        "ItemTitle": "一",
+                        "ItemSentence": {
+                          "Sentence": "譲渡譲受契約書の写し"
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "ItemTitle": "二",
+                        "ItemSentence": {
+                          "Sentence": "譲渡及び譲受価格の明細書"
+                        }
+                      },
+                      {
+                        "@Num": "3",
+                        "ItemTitle": "三",
+                        "ItemSentence": {
+                          "Sentence": "譲受人が現に自動車道事業を経営する者でないときは、第四条第二項第九号、第十号、第十一号又は第十二号に規定する書類"
+                        }
+                      },
+                      {
+                        "@Num": "4",
+                        "ItemTitle": "四",
+                        "ItemSentence": {
+                          "Sentence": "譲受人が法第四十九条第二項各号に該当しない旨を証する書類"
+                        }
+                      },
+                      {
+                        "@Num": "5",
+                        "ItemTitle": "五",
+                        "ItemSentence": {
+                          "Sentence": "譲渡及び譲受をしようとする事業に係る一般自動車道の区間を明示する路線図"
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "@Num": "27",
+                "ArticleCaption": "（法人の合併又は分割の認可申請）",
+                "ArticleTitle": "第二十七条",
+                "Paragraph": [
+                  {
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": "法第七十二条において準用する法第三十六条第二項の規定により、自動車道事業を経営する法人の合併又は分割の認可を申請しようとする者は、次に掲げる事項を記載し、かつ、当事者が連署（新設分割の場合にあつては、署名）した法人の合併認可申請書又は分割認可申請書を提出するものとする。"
+                    },
+                    "Item": [
+                      {
+                        "@Num": "1",
+                        "ItemTitle": "一",
+                        "ItemSentence": {
+                          "Sentence": "当事者の名称、住所及び代表者の氏名並びに一般自動車道の区間"
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "ItemTitle": "二",
+                        "ItemSentence": {
+                          "Sentence": "合併後存続する法人若しくは合併により設立する法人又は分割により自動車道事業を承継する法人の名称、住所及び代表者の氏名"
+                        }
+                      },
+                      {
+                        "@Num": "3",
+                        "ItemTitle": "三",
+                        "ItemSentence": {
+                          "Sentence": "合併又は分割の方法及び条件"
+                        }
+                      },
+                      {
+                        "@Num": "4",
+                        "ItemTitle": "四",
+                        "ItemSentence": {
+                          "Sentence": "合併又は分割をしようとする時期"
+                        }
+                      },
+                      {
+                        "@Num": "5",
+                        "ItemTitle": "五",
+                        "ItemSentence": {
+                          "Sentence": "合併又は分割を必要とする理由"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": "前項の申請書には、次に掲げる書類及び図面を添付するものとする。"
+                    },
+                    "Item": [
+                      {
+                        "@Num": "1",
+                        "ItemTitle": "一",
+                        "ItemSentence": {
+                          "Sentence": "合併契約書又は分割契約書（新設分割の場合にあつては、分割計画書）の写し"
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "ItemTitle": "二",
+                        "ItemSentence": {
+                          "Sentence": "合併又は分割の方法及び条件の説明書"
+                        }
+                      },
+                      {
+                        "@Num": "3",
+                        "ItemTitle": "三",
+                        "ItemSentence": {
+                          "Sentence": "合併後存続する法人若しくは合併により設立する法人又は分割により自動車道事業を承継する法人が現に自動車道事業を経営していないときは、第四条第二項第九号又は第十号に規定する書類"
+                        }
+                      },
+                      {
+                        "@Num": "4",
+                        "ItemTitle": "四",
+                        "ItemSentence": {
+                          "Sentence": "合併後存続する法人若しくは合併により設立する法人又は分割により自動車道事業を承継する法人の役員が法第四十九条第二項第四号に該当しない旨を証する書類"
+                        }
+                      },
+                      {
+                        "@Num": "5",
+                        "ItemTitle": "五",
+                        "ItemSentence": {
+                          "Sentence": "合併後存続する法人若しくは合併により設立する法人又は分割により自動車道事業を承継する法人が現に自動車道事業を経営していないときは、一般自動車道の区間を明示する路線図"
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "@Num": "28",
+                "ArticleCaption": "（相続による事業継続の認可申請）",
+                "ArticleTitle": "第二十八条",
+                "Paragraph": [
+                  {
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": "法第七十二条において準用する法第三十七条第一項の規定により、自動車道事業の相続による継続の認可を申請しようとする相続人は、次に掲げる事項を記載した事業の継続認可申請書を提出するものとする。"
+                    },
+                    "Item": [
+                      {
+                        "@Num": "1",
+                        "ItemTitle": "一",
+                        "ItemSentence": {
+                          "Sentence": "氏名、住所及び被相続人との続柄"
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "ItemTitle": "二",
+                        "ItemSentence": {
+                          "Sentence": "被相続人の氏名及び住所"
+                        }
+                      },
+                      {
+                        "@Num": "3",
+                        "ItemTitle": "三",
+                        "ItemSentence": {
+                          "Sentence": "継続して経営しようとする被相続人の事業に係る一般自動車道の区間"
+                        }
+                      },
+                      {
+                        "@Num": "4",
+                        "ItemTitle": "四",
+                        "ItemSentence": {
+                          "Sentence": "相続開始の時期"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": "前項の申請書には、左に掲げる書類を添附するものとする。"
+                    },
+                    "Item": [
+                      {
+                        "@Num": "1",
+                        "ItemTitle": "一",
+                        "ItemSentence": {
+                          "Sentence": "申請者と被相続人との続柄を証する書類"
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "ItemTitle": "二",
+                        "ItemSentence": {
+                          "Sentence": "申請者の履歴書、資産目録及び法第四十九条第二項第一号から第三号までに該当しない旨を証する書類"
+                        }
+                      },
+                      {
+                        "@Num": "3",
+                        "ItemTitle": "三",
+                        "ItemSentence": {
+                          "Sentence": "申請者以外に相続人があるときは、その者の氏名及び住所を記載した書類並びに当該申請に対する同意書"
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "@Num": "29",
+                "ArticleCaption": "（事業の休止及び廃止の許可申請）",
+                "ArticleTitle": "第二十九条",
+                "Paragraph": [
+                  {
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": "法第七十条の三第一項の規定により、自動車道事業の休止又は廃止の許可を申請しようとする者は、次に掲げる事項を記載した事業の休止（廃止）許可申請書を提出するものとする。"
+                    },
+                    "Item": [
+                      {
+                        "@Num": "1",
+                        "ItemTitle": "一",
+                        "ItemSentence": {
+                          "Sentence": "氏名又は名称及び住所"
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "ItemTitle": "二",
+                        "ItemSentence": {
+                          "Sentence": "休止し、又は廃止しようとする事業に係る一般自動車道の区間"
+                        }
+                      },
+                      {
+                        "@Num": "3",
+                        "ItemTitle": "三",
+                        "ItemSentence": {
+                          "Sentence": "休止又は廃止の時期"
+                        }
+                      },
+                      {
+                        "@Num": "4",
+                        "ItemTitle": "四",
+                        "ItemSentence": {
+                          "Sentence": "休止の許可申請の場合は、予定する休止の期間"
+                        }
+                      },
+                      {
+                        "@Num": "5",
+                        "ItemTitle": "五",
+                        "ItemSentence": {
+                          "Sentence": "休止又は廃止を必要とする理由"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": "前項の申請書には、休止し、又は廃止しようとする事業に係る一般自動車道の区間を明示する路線図を添付するものとする。"
+                    }
+                  }
+                ]
+              },
+              {
+                "@Num": "30",
+                "ArticleCaption": "（法人の解散決議等の認可申請）",
+                "ArticleTitle": "第三十条",
+                "Paragraph": [
+                  {
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": "法第七十条の四第一項の規定により、自動車道事業を経営する法人の解散の決議又は総社員の同意の認可を申請しようとする者は、次に掲げる事項を記載した法人の解散決議（総社員の同意）認可申請書を提出するものとする。"
+                    },
+                    "Item": [
+                      {
+                        "@Num": "1",
+                        "ItemTitle": "一",
+                        "ItemSentence": {
+                          "Sentence": "名称、住所及び代表者の氏名"
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "ItemTitle": "二",
+                        "ItemSentence": {
+                          "Sentence": "事業に係る一般自動車道の区間"
+                        }
+                      },
+                      {
+                        "@Num": "3",
+                        "ItemTitle": "三",
+                        "ItemSentence": {
+                          "Sentence": "解散の時期"
+                        }
+                      },
+                      {
+                        "@Num": "4",
+                        "ItemTitle": "四",
+                        "ItemSentence": {
+                          "Sentence": "解散の理由"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": "前項の申請書には、解散の決議又は総社員の同意を証する書類を添付するものとする。"
+                    }
+                  }
+                ]
+              },
+              {
+                "@Num": "31",
+                "ArticleTitle": "第三十一条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "削除"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "@Num": "3",
+            "ChapterTitle": "第三章　国営自動車道事業",
+            "Article": {
+              "@Num": "32",
+              "ArticleCaption": "（準用規定）",
+              "ArticleTitle": "第三十二条",
+              "Paragraph": {
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": "第四条から第六条までの規定は、法第七十六条第二項において準用する法第四十八条の規定により国において自動車道事業を経営しようとする場合の承認の申請について準用する。"
+                }
+              }
+            }
+          },
+          {
+            "@Num": "4",
+            "ChapterTitle": "第四章　雑則",
+            "Article": [
+              {
+                "@Num": "33",
+                "ArticleCaption": "（自動車道事業に関する団体の成立の届出）",
+                "ArticleTitle": "第三十三条",
+                "Paragraph": [
+                  {
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": "法第九十二条の規定により、自動車道事業に関する団体の成立の届出をしようとする者は、次に掲げる事項を記載した団体成立届出書を提出するものとする。"
+                    },
+                    "Item": [
+                      {
+                        "@Num": "1",
+                        "ItemTitle": "一",
+                        "ItemSentence": {
+                          "Sentence": "名称及び住所又は主たる事務所の所在地"
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "ItemTitle": "二",
+                        "ItemSentence": {
+                          "Sentence": "目的"
+                        }
+                      },
+                      {
+                        "@Num": "3",
+                        "ItemTitle": "三",
+                        "ItemSentence": {
+                          "Sentence": "事業の概要"
+                        }
+                      },
+                      {
+                        "@Num": "4",
+                        "ItemTitle": "四",
+                        "ItemSentence": {
+                          "Sentence": "役員又は管理者の氏名"
+                        }
+                      },
+                      {
+                        "@Num": "5",
+                        "ItemTitle": "五",
+                        "ItemSentence": {
+                          "Sentence": "成立の年月日"
+                        }
+                      },
+                      {
+                        "@Num": "6",
+                        "ItemTitle": "六",
+                        "ItemSentence": {
+                          "Sentence": "他の団体に属するときは、その所属団体の名称及び住所又は主たる事務所の所在地"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": "前項の届出書には、左に掲げる書類を添附するものとする。"
+                    },
+                    "Item": [
+                      {
+                        "@Num": "1",
+                        "ItemTitle": "一",
+                        "ItemSentence": {
+                          "Sentence": "定款、寄附行為、規約又は契約の写"
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "ItemTitle": "二",
+                        "ItemSentence": {
+                          "Sentence": "団体を構成する者の数を記載した書類"
+                        }
+                      },
+                      {
+                        "@Num": "3",
+                        "ItemTitle": "三",
+                        "ItemSentence": {
+                          "Sentence": "構成員に対し団体の維持に要する経費を賦課するものにあつては、その額及び徴収方法を記載した書類"
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "@Num": "34",
+                "ArticleCaption": "（届出）",
+                "ArticleTitle": "第三十四条",
+                "Paragraph": [
+                  {
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": "自動車道事業者（第二号に掲げる場合にあつては、相続人）及び自動車道事業に関する団体は、次の各号に掲げる場合に該当することとなつたときは、その旨を当該各号に掲げる行政庁に届け出るものとする。"
+                    },
+                    "Item": [
+                      {
+                        "@Num": "1",
+                        "ItemTitle": "一",
+                        "ItemSentence": {
+                          "Column": [
+                            {
+                              "@Num": "1",
+                              "Sentence": "自動車道事業の免許を受けた者が法人を設立しようとするものである場合において、法人の設立を完了した場合"
+                            },
+                            {
+                              "@Num": "2",
+                              "Sentence": "国土交通大臣"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "ItemTitle": "二",
+                        "ItemSentence": {
+                          "Column": [
+                            {
+                              "@Num": "1",
+                              "Sentence": "自動車道事業者が死亡した場合（第二十八条の規定により、申請書を提出した場合を除く。）"
+                            },
+                            {
+                              "@Num": "2",
+                              "Sentence": "国土交通大臣"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "@Num": "3",
+                        "ItemTitle": "三",
+                        "ItemSentence": {
+                          "Column": [
+                            {
+                              "@Num": "1",
+                              "Sentence": "法第五十五条に基づく命令を実施した場合"
+                            },
+                            {
+                              "@Num": "2",
+                              "Sentence": "国土交通大臣"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "@Num": "4",
+                        "ItemTitle": "四",
+                        "ItemSentence": {
+                          "Column": [
+                            {
+                              "@Num": "1",
+                              "Sentence": "法第七十条に基づく命令を実施した場合"
+                            },
+                            {
+                              "@Num": "2",
+                              "Sentence": "当該命令を発した行政庁"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "@Num": "5",
+                        "ItemTitle": "五",
+                        "ItemSentence": {
+                          "Column": [
+                            {
+                              "@Num": "1",
+                              "Sentence": "法第七十二条において準用する法第三十条に基づく命令を実施した場合"
+                            },
+                            {
+                              "@Num": "2",
+                              "Sentence": "当該命令を発した行政庁"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "@Num": "6",
+                        "ItemTitle": "六",
+                        "ItemSentence": {
+                          "Column": [
+                            {
+                              "@Num": "1",
+                              "Sentence": "自動車道事業者の氏名若しくは名称又は住所に変更があつた場合"
+                            },
+                            {
+                              "@Num": "2",
+                              "Sentence": "国土交通大臣"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "@Num": "7",
+                        "ItemTitle": "七",
+                        "ItemSentence": {
+                          "Column": [
+                            {
+                              "@Num": "1",
+                              "Sentence": "自動車道事業者たる法人の役員若しくは社員又は定款若しくは寄附行為に変更があつた場合"
+                            },
+                            {
+                              "@Num": "2",
+                              "Sentence": "国土交通大臣"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "@Num": "8",
+                        "ItemTitle": "八",
+                        "ItemSentence": {
+                          "Column": [
+                            {
+                              "@Num": "1",
+                              "Sentence": "自動車道事業に関する団体が解散し、又は第三十三条第一項各号に掲げる事項に変更を生じた場合"
+                            },
+                            {
+                              "@Num": "2",
+                              "Sentence": "国土交通大臣"
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": "前項の届出は、届出事由の発生した後遅滞なく（同項第六号に掲げる場合にあつては、届出事由の発生した日から三十日以内に）行うものとする。"
+                    }
+                  },
+                  {
+                    "@Num": "3",
+                    "ParagraphNum": "３",
+                    "ParagraphSentence": {
+                      "Sentence": "第一項第一号の届出をしようとする者は、登記事項証明書を添付するものとする。"
+                    }
+                  },
+                  {
+                    "@Num": "4",
+                    "ParagraphNum": "４",
+                    "ParagraphSentence": {
+                      "Sentence": "第一項第三号の届出をしようとする者は、実施した事項、実施の日その他必要な事項を記載した届出書を提出するものとする。"
+                    }
+                  }
+                ]
+              },
+              {
+                "@Num": "35",
+                "ArticleCaption": "（職員証）",
+                "ArticleTitle": "第三十五条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "法第九十四条第七項の規定による当該職員の身分を示す証票は、別記様式による。"
+                  }
+                }
+              },
+              {
+                "@Num": "36",
+                "ArticleCaption": "（免許申請書の進達）",
+                "ArticleTitle": "第三十六条",
+                "Paragraph": [
+                  {
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": "地方運輸局長は、自動車道事業の免許申請書を受け付けたときは、遅滞なく、国土交通大臣に進達しなければならない。"
+                    }
+                  },
+                  {
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": [
+                        {
+                          "@Function": "main",
+                          "@Num": "1",
+                          "#text": "地方運輸局長は、免許申請書を受け付けた日から三箇月以内に、左に掲げる事項に関する調査書及び免許に関する意見書を国土交通大臣に提出しなければならない。"
+                        },
+                        {
+                          "@Function": "proviso",
+                          "@Num": "2",
+                          "#text": "ただし、国土交通大臣の承認を得たときは、その期間を伸長することができる。"
+                        }
+                      ]
+                    },
+                    "Item": [
+                      {
+                        "@Num": "1",
+                        "ItemTitle": "一",
+                        "ItemSentence": {
+                          "Sentence": "申請者の資産及び信用の程度"
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "ItemTitle": "二",
+                        "ItemSentence": {
+                          "Sentence": "事業の成否及び効用"
+                        }
+                      },
+                      {
+                        "@Num": "3",
+                        "ItemTitle": "三",
+                        "ItemSentence": {
+                          "Sentence": "附近における道路の現況、新設及び改築の計画並びにその交通状態"
+                        }
+                      },
+                      {
+                        "@Num": "4",
+                        "ItemTitle": "四",
+                        "ItemSentence": {
+                          "Sentence": "自動車道事業、自動車運送事業、鉄道、軌道、索道等（未開業のものを含む。）に及ぼす影響"
+                        }
+                      },
+                      {
+                        "@Num": "5",
+                        "ItemTitle": "五",
+                        "ItemSentence": {
+                          "Sentence": "附近における自動車道事業、自動車運送事業、鉄道、軌道、索道等の出願があるときは、その種類、区間、申請者及び申請書の受付年月日"
+                        }
+                      },
+                      {
+                        "@Num": "6",
+                        "ItemTitle": "六",
+                        "ItemSentence": {
+                          "Sentence": "その他必要と認める事項"
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "@Num": "37",
+                "ArticleCaption": "（商議等）",
+                "ArticleTitle": "第三十七条",
+                "Paragraph": [
+                  {
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": "地方運輸局長は、その権限に属する事件について申請書又は届出書を受理した場合において、当該事件が二以上の地方運輸局長の管轄区域にわたるときは、処分を要するものにあつては関係地方運輸局長に商議をし、その他のものにあつては関係地方運輸局長に通知をしなければならない。"
+                    }
+                  },
+                  {
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": "地方運輸局長は、前条第二項の規定により調査書及び意見書を提出しようとする場合において、当該事件が二以上の地方運輸局長の管轄区域にわたるときは、関係地方運輸局長に商議をし、次項の調査書及び意見書を添付しなければならない。"
+                    }
+                  },
+                  {
+                    "@Num": "3",
+                    "ParagraphNum": "３",
+                    "ParagraphSentence": {
+                      "Sentence": "前項の商議を受けた関係地方運輸局長は、当該事件に係る調査書及び意見書を作成し、商議をした地方運輸局長に送付しなければならない。"
+                    }
+                  }
+                ]
+              },
+              {
+                "@Num": "38",
+                "ArticleCaption": "（報告）",
+                "ArticleTitle": "第三十八条",
+                "Paragraph": [
+                  {
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": "地方運輸局長は、第十条、第十三条（路面、路床及び橋の構造の変更に関する部分に限り、かつ、第二十四条において準用する場合を含む。）又は第二十九条の書類に関し許認可の処分をしたときは、遅滞なく国土交通大臣に報告しなければならない。"
+                    }
+                  },
+                  {
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": "地方運輸局長は、第十八条の書類に関し認可の処分をしたときは、遅滞なく国土交通大臣に報告しなければならない。"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "@Num": "5",
+            "ChapterTitle": "第五章　経過規定",
+            "Article": [
+              {
+                "@Num": "39",
+                "ArticleCaption": "（旧法等に基く処分、手続等の効力）",
+                "ArticleTitle": "第三十九条",
+                "Paragraph": [
+                  {
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": "法、道路運送法施行法（昭和二十六年法律第百八十四号）又はこの省令に特別の定のあるものを除き、旧道路運送法（昭和二十二年法律第百九十一号）又は道路運送法施行規則（昭和二十三年総理庁令運輸省令第二号）の規定によりした免許、許可、認可その他の処分及び申請その他の手続で、法又はこの省令に各々相当する規定のあるものは、法又はこの省令の規定によりしたものとみなす。"
+                    }
+                  },
+                  {
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": "前項の規定により自動車道事業の免許を受けたものとみなされた者は、法施行に伴い、新たに必要となつた第六条の規定による事業計画を、この省令施行の日から三箇月以内に、国土交通大臣に提出しなければならない。"
+                    }
+                  }
+                ]
+              },
+              {
+                "@Num": "40",
+                "ArticleCaption": "（法第百二十五条の団体に相当する団体の届出）",
+                "ArticleTitle": "第四十条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "第三十三条の規定は、道路運送法施行法第二十五条の規定による法第百二十五条の団体（自動車道事業に関する団体に限る。）に相当する団体であるものの届出について準用する。"
+                  }
+                }
+              },
+              {
+                "@Num": "41",
+                "ArticleCaption": "（使用料金の書類に関する特例）",
+                "ArticleTitle": "第四十一条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "法附則但書の場合において、自動車道事業の使用料金に関する書類を物価庁長官に提出するときは、同時にその写を運輸大臣に提出するものとする。"
+                  }
+                }
+              }
+            ]
+          }
+        ]
+      },
+      "SupplProvision": [
+        {
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": [
+            {
+              "@Num": "1",
+              "ParagraphNum": "１",
+              "ParagraphSentence": {
+                "Sentence": "この省令は、公布の日から施行し、昭和二十六年七月一日から適用する。"
+              }
+            },
+            {
+              "@Num": "2",
+              "ParagraphNum": "２",
+              "ParagraphSentence": {
+                "Sentence": "道路運送法施行規則は、廃止する。"
+              }
+            }
+          ]
+        },
+        {
+          "@AmendLawNum": "昭和二八年四月二一日運輸省・建設省令第一号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": [
+            {
+              "@Num": "1",
+              "ParagraphNum": "１",
+              "ParagraphSentence": {
+                "Sentence": "この省令は、公布の日から施行する。"
+              }
+            },
+            {
+              "@Num": "4",
+              "ParagraphNum": "４",
+              "ParagraphSentence": {
+                "Sentence": "この省令施行の際現に存する一般自動車道であつて、その構造及び設備が旧自動車道構造設備管理規程の規定に適合するものについては、当分の間、この省令の規定による構造及び設備についての技術上の規準に適合するものとみなす。"
+              }
+            }
+          ]
+        },
+        {
+          "@AmendLawNum": "昭和三五年九月一日運輸省・建設省令第二号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この省令は、公布の日から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "昭和三五年一二月一九日運輸省・建設省令第三号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この省令は、道路交通法の施行の日（昭和三十五年十二月二十日）から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "昭和五三年一一月三〇日運輸省・建設省令第三号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この省令は、公布の日から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "昭和五七年六月二九日運輸省・建設省令第二号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": [
+            {
+              "@Num": "1",
+              "ParagraphNum": "１",
+              "ParagraphSentence": {
+                "Sentence": [
+                  {
+                    "@Function": "main",
+                    "@Num": "1",
+                    "#text": "この省令は、公布の日から施行する。"
+                  },
+                  {
+                    "@Function": "proviso",
+                    "@Num": "2",
+                    "#text": "ただし、第十四条の改正規定及び次項の規定は、昭和五十七年八月一日から施行する。"
+                  }
+                ]
+              }
+            },
+            {
+              "@Num": "2",
+              "ParagraphNum": "２",
+              "ParagraphSentence": {
+                "Sentence": "前項ただし書に規定する日前に道路運送法第五十四条第一項（同法第六十七条において準用する場合を含む。）の規定によりなされた申請に係る処分に関しては、なお従前の例による。"
+              }
+            }
+          ]
+        },
+        {
+          "@AmendLawNum": "昭和五九年六月二二日運輸省・建設省令第一号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この省令は、昭和五十九年七月一日から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "昭和六〇年一二月二四日運輸省・建設省令第二号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この省令は、公布の日から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "昭和六二年三月二七日運輸省・建設省令第一号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この省令は、昭和六十二年四月一日から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成元年七月二〇日運輸省・建設省令第二号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この省令は、公布の日から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成二年一一月二九日運輸省・建設省令第一号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この省令は、貨物運送取扱事業法及び貨物自動車運送事業法の施行の日（平成二年十二月一日）から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成六年三月二四日運輸省・建設省令第二号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": "１",
+            "ParagraphSentence": {
+              "Sentence": "この省令は、平成六年四月一日から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成七年三月二三日運輸省・建設省令第二号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この省令は、許可、認可等の整理及び合理化に関する法律第三十二条の規定の施行の日（平成七年四月一日）から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成一一年一二月二〇日運輸省・建設省令第一一号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この省令は、道路運送法の一部を改正する法律（平成十一年法律第四十八号）の施行の日（平成十二年二月一日）から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成一二年二月二九日運輸省・建設省令第四号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この省令は、平成十二年四月一日から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成一二年一二月二八日運輸省・建設省令第一八号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この省令は、平成十三年一月六日から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成一三年三月一五日国土交通省令第三七号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この省令は、平成十三年四月一日から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成一三年七月一一日国土交通省令第一〇五号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Article": {
+            "@Num": "1",
+            "ArticleCaption": "（施行期日）",
+            "ArticleTitle": "第一条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "この省令は、道路運送法及びタクシー業務適正化臨時措置法の一部を改正する法律の施行の日（平成十四年二月一日）から施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成一七年三月七日国土交通省令第一二号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Article": {
+            "@Num": "1",
+            "ArticleCaption": "（施行期日）",
+            "ArticleTitle": "第一条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "この省令は、公布の日から施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成一八年四月二八日国土交通省令第五八号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Article": [
+            {
+              "@Num": "1",
+              "ArticleCaption": "（施行期日）",
+              "ArticleTitle": "第一条",
+              "Paragraph": {
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": "この省令は、会社法の施行の日（平成十八年五月一日）から施行する。"
+                }
+              }
+            },
+            {
+              "@Num": "2",
+              "ArticleCaption": "（経過措置）",
+              "ArticleTitle": "第二条",
+              "Paragraph": {
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": "この省令の施行の際現にあるこの省令による改正前の様式又は書式による申請書その他の文書は、この省令による改正後のそれぞれの様式又は書式にかかわらず、当分の間、なおこれを使用することができる。"
+                }
+              }
+            },
+            {
+              "@Num": "3",
+              "ArticleTitle": "第三条",
+              "Paragraph": {
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": "この省令の施行前にしたこの省令による改正前の省令の規定による処分、手続、その他の行為は、この省令による改正後の省令（以下「新令」という。）の規定の適用については、新令の相当規定によってしたものとみなす。"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@AmendLawNum": "平成一八年九月七日国土交通省令第八六号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Article": {
+            "@Num": "1",
+            "ArticleCaption": "（施行期日）",
+            "ArticleTitle": "第一条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "この省令は、道路運送法等の一部を改正する法律の施行の日（平成十八年十月一日）から施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成二六年一月二四日国土交通省令第七号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphCaption": "（施行期日）",
+            "ParagraphNum": "１",
+            "ParagraphSentence": {
+              "Sentence": "この省令は、特定地域における一般乗用旅客自動車運送事業の適正化及び活性化に関する特別措置法等の一部を改正する法律の施行の日から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成二七年一月三〇日国土交通省令第六号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Article": {
+            "@Num": "1",
+            "ArticleCaption": "（施行期日）",
+            "ArticleTitle": "第一条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "この省令は、地域の自主性及び自立性を高めるための改革の推進を図るための関係法律の整備に関する法律の施行の日（平成二十七年四月一日）から施行する。"
+              }
+            }
+          }
+        }
+      ],
+      "AppdxStyle": {
+        "AppdxStyleTitle": "別記様式",
+        "RelatedArticleNum": "（第３５条関係）",
+        "StyleStruct": {
+          "Style": {
+            "Fig": {
+              "@src": "./pict/S26F03902005002-001.pdf"
+            }
+          }
+        }
+      }
+    }
+  }
+}

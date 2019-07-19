@@ -1,0 +1,110 @@
+{
+  "Law": {
+    "@Era": "Showa",
+    "@Lang": "ja",
+    "@LawType": "CabinetOrder",
+    "@Num": "344",
+    "@Year": "38",
+    "LawNum": "昭和三十八年政令第三百四十四号",
+    "LawBody": {
+      "LawTitle": "豪雪地帯の指定基準に関する政令",
+      "EnactStatement": "内閣は、豪雪地帯対策特別措置法（昭和三十七年法律第七十三号）第二条第一項の規定に基づき、この政令を制定する。",
+      "MainProvision": {
+        "Paragraph": {
+          "@Hide": "false",
+          "@Num": "1",
+          "ParagraphNum": null,
+          "ParagraphSentence": {
+            "Sentence": {
+              "@WritingMode": "vertical",
+              "#text": "豪雪地帯対策特別措置法第二条第一項の指定は、国土交通省令・総務省令・農林水産省令で定める期間における累年平均積雪積算値が五千センチメートル日以上の地域（以下「豪雪地域」という。）の存する道府県又は市町村で次の各号のいずれかに該当するものの区域について行うものとする。"
+            }
+          },
+          "Item": [
+            {
+              "@Delete": "false",
+              "@Hide": "false",
+              "@Num": "1",
+              "ItemTitle": "一",
+              "ItemSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "その区域の三分の二以上が豪雪地域である道府県又は市町村"
+                }
+              }
+            },
+            {
+              "@Delete": "false",
+              "@Hide": "false",
+              "@Num": "2",
+              "ItemTitle": "二",
+              "ItemSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "その区域の二分の一以上が豪雪地域であり、かつ、当該道府県の道府県庁が所在する市の区域の全部又は一部が豪雪地域である道府県"
+                }
+              }
+            },
+            {
+              "@Delete": "false",
+              "@Hide": "false",
+              "@Num": "3",
+              "ItemTitle": "三",
+              "ItemSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "当該市町村の市役所若しくは町村役場又は当該市町村の区域内に存する施設で国土交通省令・総務省令・農林水産省令で定めるものが豪雪地域内にある市町村"
+                }
+              }
+            },
+            {
+              "@Delete": "false",
+              "@Hide": "false",
+              "@Num": "4",
+              "ItemTitle": "四",
+              "ItemSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "その区域の二分の一以上が豪雪地域であり、かつ、当該市町村の境界線の延長の三分の二以上が前三号のいずれかに該当する道府県又は市町村に接している市町村"
+                }
+              }
+            }
+          ]
+        }
+      },
+      "SupplProvision": [
+        {
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この政令は、公布の日から施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成一二年六月七日政令第三一二号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphCaption": "（施行期日）",
+            "ParagraphNum": "１",
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この政令は、内閣法の一部を改正する法律（平成十一年法律第八十八号）の施行の日（平成十三年一月六日）から施行する。"
+              }
+            }
+          }
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,3138 @@
+{
+  "Law": {
+    "@DataInfo": "190621e80k10m02",
+    "@Era": "Showa",
+    "@Lang": "ja",
+    "@LawType": "Act",
+    "@Num": "90",
+    "@Year": "45",
+    "LawNum": "昭和四十五年法律第九十号",
+    "LawBody": {
+      "LawTitle": "情報処理の促進に関する法律",
+      "TOC": {
+        "TOCLabel": "目次",
+        "TOCChapter": [
+          {
+            "@Num": "1",
+            "ChapterTitle": "第一章　総則",
+            "ArticleRange": "（第一条・第二条）"
+          },
+          {
+            "@Num": "2",
+            "ChapterTitle": "第二章　電子計算機の高度利用等",
+            "TOCSection": [
+              {
+                "@Num": "1",
+                "SectionTitle": "第一節　電子計算機利用高度化計画の策定等",
+                "ArticleRange": "（第三条―第五条）"
+              },
+              {
+                "@Num": "2",
+                "SectionTitle": "第二節　情報処理安全確保支援士等",
+                "TOCSubsection": [
+                  {
+                    "@Num": "1",
+                    "SubsectionTitle": "第一款　情報処理安全確保支援士",
+                    "ArticleRange": "（第六条―第二十八条）"
+                  },
+                  {
+                    "@Num": "2",
+                    "SubsectionTitle": "第二款　情報処理技術者試験",
+                    "ArticleRange": "（第二十九条）"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "@Num": "3",
+            "ChapterTitle": "第三章　独立行政法人情報処理推進機構",
+            "TOCSection": [
+              {
+                "@Num": "1",
+                "SectionTitle": "第一節　総則",
+                "ArticleRange": "（第三十条―第三十七条）"
+              },
+              {
+                "@Num": "2",
+                "SectionTitle": "第二節　役員及び職員",
+                "ArticleRange": "（第三十八条―第四十二条）"
+              },
+              {
+                "@Num": "3",
+                "SectionTitle": "第三節　業務等",
+                "ArticleRange": "（第四十三条―第四十六条）"
+              },
+              {
+                "@Num": "4",
+                "SectionTitle": "第四節　雑則",
+                "ArticleRange": "（第四十七条―第五十条）"
+              }
+            ]
+          },
+          {
+            "@Num": "4",
+            "ChapterTitle": "第四章　罰則",
+            "ArticleRange": "（第五十一条―第五十四条）"
+          }
+        ],
+        "TOCSupplProvision": {
+          "SupplProvisionLabel": "附則"
+        }
+      },
+      "MainProvision": {
+        "Chapter": [
+          {
+            "@Num": "1",
+            "ChapterTitle": "第一章　総則",
+            "Article": [
+              {
+                "@Num": "1",
+                "ArticleCaption": "（目的）",
+                "ArticleTitle": "第一条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "この法律は、電子計算機の高度利用及びプログラムの開発を促進し、プログラムの流通を円滑にし、並びに情報処理サービス業等の育成のための措置を講ずること等によつて、情報化社会の要請にこたえ、もつて国民生活の向上及び国民経済の健全な発展に寄与することを目的とする。"
+                  }
+                }
+              },
+              {
+                "@Num": "2",
+                "ArticleCaption": "（定義）",
+                "ArticleTitle": "第二条",
+                "Paragraph": [
+                  {
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": "この法律において「情報処理」とは、電子計算機（計数型のものに限る。以下同じ。）を使用して、情報につき計算、検索その他これらに類する処理を行なうことをいう。"
+                    }
+                  },
+                  {
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": "この法律において「プログラム」とは、電子計算機に対する指令であつて、一の結果を得ることができるように組み合わされたものをいう。"
+                    }
+                  },
+                  {
+                    "@Num": "3",
+                    "ParagraphNum": "３",
+                    "ParagraphSentence": {
+                      "Sentence": "この法律において「情報処理サービス業」とは、他人の需要に応じてする情報処理の事業をいい、「ソフトウエア業」とは、他人の需要に応じてするプログラムの作成の事業をいう。"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "@Num": "2",
+            "ChapterTitle": "第二章　電子計算機の高度利用等",
+            "Section": [
+              {
+                "@Num": "1",
+                "SectionTitle": "第一節　電子計算機利用高度化計画の策定等",
+                "Article": [
+                  {
+                    "@Num": "3",
+                    "ArticleCaption": "（電子計算機利用高度化計画）",
+                    "ArticleTitle": "第三条",
+                    "Paragraph": [
+                      {
+                        "@Num": "1",
+                        "ParagraphNum": null,
+                        "ParagraphSentence": {
+                          "Sentence": "次に掲げる電子計算機及びプログラムについて、電子計算機利用高度化計画（以下「計画」という。）を経済産業大臣（電子計算機に電気通信回線を接続してする情報処理のために開発するプログラムに係る部分については、経済産業大臣及び総務大臣。以下この条において同じ。）が定めるものとする。"
+                        },
+                        "Item": [
+                          {
+                            "@Num": "1",
+                            "ItemTitle": "一",
+                            "ItemSentence": {
+                              "Sentence": "情報処理の振興を図るため利用を特に促進する必要がある電子計算機"
+                            }
+                          },
+                          {
+                            "@Num": "2",
+                            "ItemTitle": "二",
+                            "ItemSentence": {
+                              "Sentence": "情報処理の振興を図るため開発を特に促進する必要があり、かつ、広く利用される種類のプログラム（主として一の事業の分野における情報処理を目的とするものを除く。）"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "@Num": "2",
+                        "ParagraphNum": "２",
+                        "ParagraphSentence": {
+                          "Sentence": "計画には、電子計算機の設置及びプログラムの開発の目標となるべき事項について定めるものとする。"
+                        }
+                      },
+                      {
+                        "@Num": "3",
+                        "ParagraphNum": "３",
+                        "ParagraphSentence": {
+                          "Sentence": "計画を定めるに当たつては、あらかじめ、関係行政機関の長に協議するとともに、政令で定めるところにより、国家行政組織法（昭和二十三年法律第百二十号）第八条に規定する機関で政令で定めるものの意見を聴くものとする。"
+                        }
+                      },
+                      {
+                        "@Num": "4",
+                        "ParagraphNum": "４",
+                        "ParagraphSentence": {
+                          "Sentence": "関係行政機関の長は、前項の協議を受けたときは、関係審議会等の意見をきくものとする。"
+                        }
+                      },
+                      {
+                        "@Num": "5",
+                        "ParagraphNum": "５",
+                        "ParagraphSentence": {
+                          "Sentence": "第一項の規定により計画を定めたときは、経済産業大臣は、その要旨を公表しなければならない。"
+                        }
+                      },
+                      {
+                        "@Num": "6",
+                        "ParagraphNum": "６",
+                        "ParagraphSentence": {
+                          "Sentence": "前三項の規定は、計画の変更について準用する。"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Num": "4",
+                    "ArticleCaption": "（電子計算機の連携利用に関する指針）",
+                    "ArticleTitle": "第四条",
+                    "Paragraph": [
+                      {
+                        "@Num": "1",
+                        "ParagraphNum": null,
+                        "ParagraphSentence": {
+                          "Sentence": "主務大臣（電子計算機を利用する事業者（以下単に「事業者」という。）の行う事業を所管する大臣をいう。）は、その事業の分野に属する事業者が広く連携して当該事業の分野における電子計算機の効率的な利用を図ることが必要であり、かつ、適切であると認めるときは、計画を勘案して、その事業の分野において事業者が連携して行う電子計算機の利用の態様、その実施の方法及びその実施に当たつて配慮すべき事項に関する指針を定め、これを公表するものとする。"
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "ParagraphNum": "２",
+                        "ParagraphSentence": {
+                          "Sentence": "前項の指針は、関連中小企業者の利益が不当に害されることのないよう配慮されたものでなければならない。"
+                        }
+                      },
+                      {
+                        "@Num": "3",
+                        "ParagraphNum": "３",
+                        "ParagraphSentence": {
+                          "Sentence": "第一項の指針を定めるに当たつては、あらかじめ、関係審議会等の意見を聴くものとする。"
+                        }
+                      },
+                      {
+                        "@Num": "4",
+                        "ParagraphNum": "４",
+                        "ParagraphSentence": {
+                          "Sentence": "前項の規定は、第一項の指針の変更について準用する。"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Num": "5",
+                    "ArticleCaption": "（資金の確保）",
+                    "ArticleTitle": "第五条",
+                    "Paragraph": [
+                      {
+                        "@Num": "1",
+                        "ParagraphNum": null,
+                        "ParagraphSentence": {
+                          "Sentence": "政府は、情報処理の高度化を図るために必要な資金の確保又はその融通のあつせんに努めるものとする。"
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "ParagraphNum": "２",
+                        "ParagraphSentence": {
+                          "Sentence": "前項の措置を講ずるに当たつては、中小企業者に対する特別の配慮がなされなければならない。"
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "@Num": "2",
+                "SectionTitle": "第二節　情報処理安全確保支援士等",
+                "Subsection": [
+                  {
+                    "@Num": "1",
+                    "SubsectionTitle": "第一款　情報処理安全確保支援士",
+                    "Article": [
+                      {
+                        "@Num": "6",
+                        "ArticleCaption": "（情報処理安全確保支援士の業務）",
+                        "ArticleTitle": "第六条",
+                        "Paragraph": {
+                          "@Num": "1",
+                          "ParagraphNum": null,
+                          "ParagraphSentence": {
+                            "Sentence": "情報処理安全確保支援士は、情報処理安全確保支援士の名称を用いて、事業者その他の電子計算機を利用する者によるサイバーセキュリティ（サイバーセキュリティ基本法（平成二十六年法律第百四号）第二条に規定するサイバーセキュリティをいう。以下同じ。）の確保のための取組に関し、サイバーセキュリティに関する相談に応じ、必要な情報の提供及び助言を行うとともに、必要に応じその取組の実施の状況についての調査、分析及び評価を行い、その結果に基づき指導及び助言を行うことその他事業者その他の電子計算機を利用する者のサイバーセキュリティの確保を支援することを業とする。"
+                          }
+                        }
+                      },
+                      {
+                        "@Num": "7",
+                        "ArticleCaption": "（情報処理安全確保支援士の資格）",
+                        "ArticleTitle": "第七条",
+                        "Paragraph": {
+                          "@Num": "1",
+                          "ParagraphNum": null,
+                          "ParagraphSentence": {
+                            "Sentence": "情報処理安全確保支援士試験に合格した者その他これと同等以上の能力を有すると認められる者で、経済産業省令で定めるものは、情報処理安全確保支援士となる資格を有する。"
+                          }
+                        }
+                      },
+                      {
+                        "@Num": "8",
+                        "ArticleCaption": "（欠格事由）",
+                        "ArticleTitle": "第八条",
+                        "Paragraph": {
+                          "@Num": "1",
+                          "ParagraphNum": null,
+                          "ParagraphSentence": {
+                            "Sentence": "次の各号のいずれかに該当する者は、情報処理安全確保支援士となることができない。"
+                          },
+                          "Item": [
+                            {
+                              "@Num": "1",
+                              "ItemTitle": "一",
+                              "ItemSentence": {
+                                "Sentence": "成年被後見人又は被保佐人"
+                              }
+                            },
+                            {
+                              "@Num": "2",
+                              "ItemTitle": "二",
+                              "ItemSentence": {
+                                "Sentence": "禁錮以上の刑に処せられ、その執行を終わり、又は執行を受けることがなくなつた日から起算して二年を経過しない者"
+                              }
+                            },
+                            {
+                              "@Num": "3",
+                              "ItemTitle": "三",
+                              "ItemSentence": {
+                                "Sentence": "この法律の規定その他情報処理に関する法律の規定であつて政令で定めるものにより、罰金の刑に処せられ、その執行を終わり、又は執行を受けることがなくなつた日から起算して二年を経過しない者"
+                              }
+                            },
+                            {
+                              "@Num": "4",
+                              "ItemTitle": "四",
+                              "ItemSentence": {
+                                "Sentence": "第十九条第一項第二号又は第二項の規定により登録を取り消され、その取消しの日から起算して二年を経過しない者"
+                              }
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "@Num": "9",
+                        "ArticleCaption": "（情報処理安全確保支援士試験）",
+                        "ArticleTitle": "第九条",
+                        "Paragraph": [
+                          {
+                            "@Num": "1",
+                            "ParagraphNum": null,
+                            "ParagraphSentence": {
+                              "Sentence": "情報処理安全確保支援士試験（以下この款において「支援士試験」という。）は、情報処理安全確保支援士として必要な知識及び技能について行う。"
+                            }
+                          },
+                          {
+                            "@Num": "2",
+                            "ParagraphNum": "２",
+                            "ParagraphSentence": {
+                              "Sentence": "経済産業大臣は、経済産業省令で定めるところにより、経済産業省令で定める資格を有する者に対し、支援士試験の全部又は一部を免除することができる。"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "@Num": "10",
+                        "ArticleCaption": "（支援士試験事務の代行）",
+                        "ArticleTitle": "第十条",
+                        "Paragraph": [
+                          {
+                            "@Num": "1",
+                            "ParagraphNum": null,
+                            "ParagraphSentence": {
+                              "Sentence": "経済産業大臣は、独立行政法人情報処理推進機構（以下この節において「機構」という。）に、支援士試験の実施に関する事務（以下この款及び第四十三条第二項において「支援士試験事務」という。）を行わせることができる。"
+                            }
+                          },
+                          {
+                            "@Num": "2",
+                            "ParagraphNum": "２",
+                            "ParagraphSentence": {
+                              "Sentence": "経済産業大臣は、前項の規定により機構に支援士試験事務を行わせるときは、その旨を官報で公示しなければならないものとし、この場合には、経済産業大臣は、支援士試験事務を行わないものとする。"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "@Num": "11",
+                        "ArticleCaption": "（支援士試験事務規程）",
+                        "ArticleTitle": "第十一条",
+                        "Paragraph": [
+                          {
+                            "@Num": "1",
+                            "ParagraphNum": null,
+                            "ParagraphSentence": {
+                              "Sentence": [
+                                {
+                                  "@Num": "1",
+                                  "#text": "機構は、支援士試験事務の開始前に、支援士試験事務の実施に関する規程（次項及び第三項において「支援士試験事務規程」という。）を定め、経済産業大臣の認可を受けなければならない。"
+                                },
+                                {
+                                  "@Num": "2",
+                                  "#text": "これを変更しようとするときも、同様とする。"
+                                }
+                              ]
+                            }
+                          },
+                          {
+                            "@Num": "2",
+                            "ParagraphNum": "２",
+                            "ParagraphSentence": {
+                              "Sentence": "支援士試験事務規程で定めるべき事項は、経済産業省令で定める。"
+                            }
+                          },
+                          {
+                            "@Num": "3",
+                            "ParagraphNum": "３",
+                            "ParagraphSentence": {
+                              "Sentence": "経済産業大臣は、第一項の認可をした支援士試験事務規程が支援士試験事務の適正かつ確実な実施上不適当となつたと認めるときは、機構に対し、これを変更すべきことを命ずることができる。"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "@Num": "12",
+                        "ArticleCaption": "（支援士試験の無効等）",
+                        "ArticleTitle": "第十二条",
+                        "Paragraph": [
+                          {
+                            "@Num": "1",
+                            "ParagraphNum": null,
+                            "ParagraphSentence": {
+                              "Sentence": "経済産業大臣は、支援士試験に関して不正の行為があつた場合には、その不正行為に関係のある者に対しては、その受験を停止させ、又はその支援士試験を無効とすることができる。"
+                            }
+                          },
+                          {
+                            "@Num": "2",
+                            "ParagraphNum": "２",
+                            "ParagraphSentence": {
+                              "Sentence": "経済産業大臣は、前項の規定による処分を受けた者に対し、期間を定めて支援士試験を受けることができないものとすることができる。"
+                            }
+                          },
+                          {
+                            "@Num": "3",
+                            "ParagraphNum": "３",
+                            "ParagraphSentence": {
+                              "Sentence": "機構は、支援士試験事務の実施に関し第一項に規定する経済産業大臣の職権を行うことができる。"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "@Num": "13",
+                        "ArticleCaption": "（受験手数料）",
+                        "ArticleTitle": "第十三条",
+                        "Paragraph": [
+                          {
+                            "@Num": "1",
+                            "ParagraphNum": null,
+                            "ParagraphSentence": {
+                              "Sentence": "支援士試験を受けようとする者は、実費を勘案して政令で定める額の受験手数料を国に納付しなければならない。"
+                            }
+                          },
+                          {
+                            "@Num": "2",
+                            "ParagraphNum": "２",
+                            "ParagraphSentence": {
+                              "Sentence": "前項の受験手数料は、これを納付した者が支援士試験を受けない場合においても、返還しない。"
+                            }
+                          },
+                          {
+                            "@Num": "3",
+                            "ParagraphNum": "３",
+                            "ParagraphSentence": {
+                              "Sentence": [
+                                {
+                                  "@Num": "1",
+                                  "#text": "機構が支援士試験事務を行うときは、第一項の規定による受験手数料は、機構に納付するものとする。"
+                                },
+                                {
+                                  "@Num": "2",
+                                  "#text": "この場合において、納付された受験手数料は、機構の収入とする。"
+                                }
+                              ]
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "@Num": "14",
+                        "ArticleCaption": "（機構がした処分等に係る審査請求）",
+                        "ArticleTitle": "第十四条",
+                        "Paragraph": {
+                          "@Num": "1",
+                          "ParagraphNum": null,
+                          "ParagraphSentence": {
+                            "Sentence": [
+                              {
+                                "@Num": "1",
+                                "#text": "機構が行う支援士試験事務に係る処分又はその不作為については、経済産業大臣に対し審査請求をすることができる。"
+                              },
+                              {
+                                "@Num": "2",
+                                "#text": "この場合において、経済産業大臣は、行政不服審査法（平成二十六年法律第六十八号）第二十五条第二項及び第三項、第四十六条第一項及び第二項並びに第四十九条第三項の規定の適用については、機構の上級行政庁とみなす。"
+                              }
+                            ]
+                          }
+                        }
+                      },
+                      {
+                        "@Num": "15",
+                        "ArticleCaption": "（登録）",
+                        "ArticleTitle": "第十五条",
+                        "Paragraph": {
+                          "@Num": "1",
+                          "ParagraphNum": null,
+                          "ParagraphSentence": {
+                            "Sentence": "情報処理安全確保支援士となる資格を有する者が情報処理安全確保支援士となるには、情報処理安全確保支援士登録簿に、氏名、生年月日その他経済産業省令で定める事項の登録を受けなければならない。"
+                          }
+                        }
+                      },
+                      {
+                        "@Num": "16",
+                        "ArticleCaption": "（情報処理安全確保支援士登録簿）",
+                        "ArticleTitle": "第十六条",
+                        "Paragraph": {
+                          "@Num": "1",
+                          "ParagraphNum": null,
+                          "ParagraphSentence": {
+                            "Sentence": "情報処理安全確保支援士登録簿は、経済産業省に備える。"
+                          }
+                        }
+                      },
+                      {
+                        "@Num": "17",
+                        "ArticleCaption": "（情報処理安全確保支援士登録証）",
+                        "ArticleTitle": "第十七条",
+                        "Paragraph": {
+                          "@Num": "1",
+                          "ParagraphNum": null,
+                          "ParagraphSentence": {
+                            "Sentence": "経済産業大臣は、第十五条の登録（以下単に「登録」という。）をしたときは、申請者に同条に規定する事項を記載した情報処理安全確保支援士登録証（次条第二項及び第二十一条において「登録証」という。）を交付する。"
+                          }
+                        }
+                      },
+                      {
+                        "@Num": "18",
+                        "ArticleCaption": "（登録事項の変更の届出）",
+                        "ArticleTitle": "第十八条",
+                        "Paragraph": [
+                          {
+                            "@Num": "1",
+                            "ParagraphNum": null,
+                            "ParagraphSentence": {
+                              "Sentence": "情報処理安全確保支援士は、登録を受けた事項に変更があつたときは、遅滞なく、その旨を経済産業大臣に届け出なければならない。"
+                            }
+                          },
+                          {
+                            "@Num": "2",
+                            "ParagraphNum": "２",
+                            "ParagraphSentence": {
+                              "Sentence": "情報処理安全確保支援士は、前項の規定による届出をするときは、当該届出に登録証を添えて提出し、その訂正を受けなければならない。"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "@Num": "19",
+                        "ArticleCaption": "（登録の取消し等）",
+                        "ArticleTitle": "第十九条",
+                        "Paragraph": [
+                          {
+                            "@Num": "1",
+                            "ParagraphNum": null,
+                            "ParagraphSentence": {
+                              "Sentence": "経済産業大臣は、情報処理安全確保支援士が次の各号のいずれかに該当する場合には、その登録を取り消さなければならない。"
+                            },
+                            "Item": [
+                              {
+                                "@Num": "1",
+                                "ItemTitle": "一",
+                                "ItemSentence": {
+                                  "Sentence": "第八条各号（第四号を除く。）のいずれかに該当するに至つた場合"
+                                }
+                              },
+                              {
+                                "@Num": "2",
+                                "ItemTitle": "二",
+                                "ItemSentence": {
+                                  "Sentence": "虚偽又は不正の事実に基づいて登録を受けた場合"
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "@Num": "2",
+                            "ParagraphNum": "２",
+                            "ParagraphSentence": {
+                              "Sentence": "経済産業大臣は、情報処理安全確保支援士が第二十四条から第二十六条までの規定に違反したときは、その登録を取り消し、又は期間を定めて情報処理安全確保支援士の名称の使用の停止を命ずることができる。"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "@Num": "20",
+                        "ArticleCaption": "（登録の消除）",
+                        "ArticleTitle": "第二十条",
+                        "Paragraph": {
+                          "@Num": "1",
+                          "ParagraphNum": null,
+                          "ParagraphSentence": {
+                            "Sentence": "経済産業大臣は、登録がその効力を失つたときは、その登録を消除しなければならない。"
+                          }
+                        }
+                      },
+                      {
+                        "@Num": "21",
+                        "ArticleCaption": "（登録事項の変更等の手数料）",
+                        "ArticleTitle": "第二十一条",
+                        "Paragraph": {
+                          "@Num": "1",
+                          "ParagraphNum": null,
+                          "ParagraphSentence": {
+                            "Sentence": "登録証の記載事項の変更を受けようとする者及び登録証の再交付を受けようとする者は、実費を勘案して政令で定める額の手数料を国に納付しなければならない。"
+                          }
+                        }
+                      },
+                      {
+                        "@Num": "22",
+                        "ArticleCaption": "（登録事務の代行）",
+                        "ArticleTitle": "第二十二条",
+                        "Paragraph": {
+                          "@Num": "1",
+                          "ParagraphNum": null,
+                          "ParagraphSentence": {
+                            "Sentence": "経済産業大臣は、機構に、登録の実施に関する事務（第十九条の規定による登録の取消し及び命令に関する事務を除く。次条第一項及び第二項並びに第四十三条第二項において「登録事務」という。）を行わせることができる。"
+                          }
+                        }
+                      },
+                      {
+                        "@Num": "23",
+                        "ArticleTitle": "第二十三条",
+                        "Paragraph": [
+                          {
+                            "@Num": "1",
+                            "ParagraphNum": null,
+                            "ParagraphSentence": {
+                              "Sentence": "機構が登録事務を行う場合における第十六条、第十七条、第十八条第一項、第二十条及び第二十一条の規定の適用については、これらの規定中「経済産業省」とあり、「経済産業大臣」とあり、及び「国」とあるのは、「機構」とする。"
+                            }
+                          },
+                          {
+                            "@Num": "2",
+                            "ParagraphNum": "２",
+                            "ParagraphSentence": {
+                              "Sentence": [
+                                {
+                                  "@Num": "1",
+                                  "#text": "第十条第二項、第十一条及び第十四条の規定は、登録事務について準用する。"
+                                },
+                                {
+                                  "@Num": "2",
+                                  "#text": "この場合において、同項中「前項」とあるのは「第二十二条」と、第十一条（見出しを含む。）中「支援士試験事務規程」とあるのは「登録事務規程」と読み替えるものとする。"
+                                }
+                              ]
+                            }
+                          },
+                          {
+                            "@Num": "3",
+                            "ParagraphNum": "３",
+                            "ParagraphSentence": {
+                              "Sentence": "機構が登録を行う場合において、登録を受けようとする者は、実費を勘案して政令で定める額の手数料を機構に納付しなければならない。"
+                            }
+                          },
+                          {
+                            "@Num": "4",
+                            "ParagraphNum": "４",
+                            "ParagraphSentence": {
+                              "Sentence": "第一項の規定により読み替えて適用する第二十一条及び前項の規定により機構に納められた手数料は、機構の収入とする。"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "@Num": "24",
+                        "ArticleCaption": "（信用失墜行為の禁止）",
+                        "ArticleTitle": "第二十四条",
+                        "Paragraph": {
+                          "@Num": "1",
+                          "ParagraphNum": null,
+                          "ParagraphSentence": {
+                            "Sentence": "情報処理安全確保支援士は、情報処理安全確保支援士の信用を傷つけるような行為をしてはならない。"
+                          }
+                        }
+                      },
+                      {
+                        "@Num": "25",
+                        "ArticleCaption": "（秘密保持義務）",
+                        "ArticleTitle": "第二十五条",
+                        "Paragraph": {
+                          "@Num": "1",
+                          "ParagraphNum": null,
+                          "ParagraphSentence": {
+                            "Sentence": [
+                              {
+                                "@Num": "1",
+                                "#text": "情報処理安全確保支援士は、正当な理由がなく、その業務に関して知り得た秘密を漏らし、又は盗用してはならない。"
+                              },
+                              {
+                                "@Num": "2",
+                                "#text": "情報処理安全確保支援士でなくなつた後においても、同様とする。"
+                              }
+                            ]
+                          }
+                        }
+                      },
+                      {
+                        "@Num": "26",
+                        "ArticleCaption": "（受講義務）",
+                        "ArticleTitle": "第二十六条",
+                        "Paragraph": {
+                          "@Num": "1",
+                          "ParagraphNum": null,
+                          "ParagraphSentence": {
+                            "Sentence": "情報処理安全確保支援士は、経済産業省令で定めるところにより、機構の行うサイバーセキュリティに関する講習（第二十八条において単に「講習」という。）を受けなければならない。"
+                          }
+                        }
+                      },
+                      {
+                        "@Num": "27",
+                        "ArticleCaption": "（名称の使用制限）",
+                        "ArticleTitle": "第二十七条",
+                        "Paragraph": {
+                          "@Num": "1",
+                          "ParagraphNum": null,
+                          "ParagraphSentence": {
+                            "Sentence": "情報処理安全確保支援士でない者は、情報処理安全確保支援士という名称を使用してはならない。"
+                          }
+                        }
+                      },
+                      {
+                        "@Num": "28",
+                        "ArticleCaption": "（経済産業省令への委任）",
+                        "ArticleTitle": "第二十八条",
+                        "Paragraph": {
+                          "@Num": "1",
+                          "ParagraphNum": null,
+                          "ParagraphSentence": {
+                            "Sentence": "この款に定めるもののほか、支援士試験、登録、講習その他この款の規定の施行に関し必要な事項は、経済産業省令で定める。"
+                          }
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Num": "2",
+                    "SubsectionTitle": "第二款　情報処理技術者試験",
+                    "Article": {
+                      "@Num": "29",
+                      "ArticleTitle": "第二十九条",
+                      "Paragraph": [
+                        {
+                          "@Num": "1",
+                          "ParagraphNum": null,
+                          "ParagraphSentence": {
+                            "Sentence": "経済産業大臣は、情報処理に関する業務を行う者の技術の向上に資するため、情報処理に関して必要な知識及び技能について情報処理技術者試験を行う。"
+                          }
+                        },
+                        {
+                          "@Num": "2",
+                          "ParagraphNum": "２",
+                          "ParagraphSentence": {
+                            "Sentence": "経済産業大臣は、機構に、情報処理技術者試験の実施に関する事務（次項及び第四十三条第二項において「技術者試験事務」という。）を行わせることができる。"
+                          }
+                        },
+                        {
+                          "@Num": "3",
+                          "ParagraphNum": "３",
+                          "ParagraphSentence": {
+                            "Sentence": [
+                              {
+                                "@Num": "1",
+                                "#text": "第十条第二項及び第十一条から第十四条までの規定は、情報処理技術者試験及び技術者試験事務について準用する。"
+                              },
+                              {
+                                "@Num": "2",
+                                "#text": "この場合において、同項中「前項」とあるのは「第二十九条第二項」と、第十一条（見出しを含む。）中「支援士試験事務規程」とあるのは「技術者試験事務規程」と読み替えるものとする。"
+                              }
+                            ]
+                          }
+                        },
+                        {
+                          "@Num": "4",
+                          "ParagraphNum": "４",
+                          "ParagraphSentence": {
+                            "Sentence": "前三項に定めるもののほか、情報処理技術者試験に関し必要な事項は、経済産業省令で定める。"
+                          }
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "@Num": "3",
+            "ChapterTitle": "第三章　独立行政法人情報処理推進機構",
+            "Section": [
+              {
+                "@Num": "1",
+                "SectionTitle": "第一節　総則",
+                "Article": [
+                  {
+                    "@Num": "30",
+                    "ArticleCaption": "（この章の目的）",
+                    "ArticleTitle": "第三十条",
+                    "Paragraph": {
+                      "@Num": "1",
+                      "ParagraphNum": null,
+                      "ParagraphSentence": {
+                        "Sentence": "独立行政法人情報処理推進機構の名称、目的、業務の範囲等に関する事項については、この章の定めるところによる。"
+                      }
+                    }
+                  },
+                  {
+                    "@Num": "31",
+                    "ArticleCaption": "（名称）",
+                    "ArticleTitle": "第三十一条",
+                    "Paragraph": {
+                      "@Num": "1",
+                      "ParagraphNum": null,
+                      "ParagraphSentence": {
+                        "Sentence": "この法律及び独立行政法人通則法（平成十一年法律第百三号。以下「通則法」という。）の定めるところにより設立される通則法第二条第一項に規定する独立行政法人の名称は、独立行政法人情報処理推進機構とする。"
+                      }
+                    }
+                  },
+                  {
+                    "@Num": "32",
+                    "ArticleCaption": "（機構の目的）",
+                    "ArticleTitle": "第三十二条",
+                    "Paragraph": {
+                      "@Num": "1",
+                      "ParagraphNum": null,
+                      "ParagraphSentence": {
+                        "Sentence": "独立行政法人情報処理推進機構（以下「機構」という。）は、プログラムの開発及び利用の促進、情報処理に関する安全性及び信頼性の確保、情報処理サービス業等を営む者に対する助成並びに情報処理に関して必要な知識及び技能の向上に関する業務を行うことにより、情報処理の高度化を推進することを目的とする。"
+                      }
+                    }
+                  },
+                  {
+                    "@Num": "33",
+                    "ArticleCaption": "（中期目標管理法人）",
+                    "ArticleTitle": "第三十三条",
+                    "Paragraph": {
+                      "@Num": "1",
+                      "ParagraphNum": null,
+                      "ParagraphSentence": {
+                        "Sentence": "機構は、通則法第二条第二項に規定する中期目標管理法人とする。"
+                      }
+                    }
+                  },
+                  {
+                    "@Num": "34",
+                    "ArticleCaption": "（事務所）",
+                    "ArticleTitle": "第三十四条",
+                    "Paragraph": {
+                      "@Num": "1",
+                      "ParagraphNum": null,
+                      "ParagraphSentence": {
+                        "Sentence": "機構は、主たる事務所を東京都に置く。"
+                      }
+                    }
+                  },
+                  {
+                    "@Num": "35",
+                    "ArticleCaption": "（資本金）",
+                    "ArticleTitle": "第三十五条",
+                    "Paragraph": [
+                      {
+                        "@Num": "1",
+                        "ParagraphNum": null,
+                        "ParagraphSentence": {
+                          "Sentence": "機構の資本金は、情報処理の促進に関する法律の一部を改正する法律（平成十四年法律第百四十四号。以下「改正法」という。）附則第二条第六項及び第九項の規定により政府及び政府以外の者から出資があつたものとされた金額の合計額とする。"
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "ParagraphNum": "２",
+                        "ParagraphSentence": {
+                          "Sentence": [
+                            {
+                              "@Num": "1",
+                              "#text": "政府は、第四十三条第一項第一号及び第二号に掲げる業務に必要な資金に充てるため又は第四十六条第一項の信用基金に充てるため必要があると認めるときは、予算で定める金額の範囲内において、機構に追加して出資することができる。"
+                            },
+                            {
+                              "@Num": "2",
+                              "#text": "この場合において、政府は、第四十三条第一項第一号及び第二号に掲げる業務に必要な資金又は第四十六条第一項の信用基金のそれぞれに充てるべき金額を示すものとする。"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "@Num": "3",
+                        "ParagraphNum": "３",
+                        "ParagraphSentence": {
+                          "Sentence": "機構は、前項の規定による政府の出資があつたときは、その出資額により資本金を増加するものとする。"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Num": "36",
+                    "ArticleCaption": "（持分の払戻し等の禁止）",
+                    "ArticleTitle": "第三十六条",
+                    "Paragraph": [
+                      {
+                        "@Num": "1",
+                        "ParagraphNum": null,
+                        "ParagraphSentence": {
+                          "Sentence": "機構は、通則法第四十六条の二第一項若しくは第二項の規定による国庫への納付又は通則法第四十六条の三第三項の規定による払戻しをする場合を除くほか、出資者に対し、その持分を払い戻すことができない。"
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "ParagraphNum": "２",
+                        "ParagraphSentence": {
+                          "Sentence": "機構は、出資者の持分を取得し、又は質権の目的としてこれを受けることができない。"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Num": "37",
+                    "ArticleCaption": "（持分の譲渡等）",
+                    "ArticleTitle": "第三十七条",
+                    "Paragraph": [
+                      {
+                        "@Num": "1",
+                        "ParagraphNum": null,
+                        "ParagraphSentence": {
+                          "Sentence": [
+                            {
+                              "@Function": "main",
+                              "@Num": "1",
+                              "#text": "出資者は、その持分を譲渡することができる。"
+                            },
+                            {
+                              "@Function": "proviso",
+                              "@Num": "2",
+                              "#text": "ただし、第四十六条第一項の信用基金に係る出資に係る政府の持分については、この限りでない。"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "ParagraphNum": "２",
+                        "ParagraphSentence": {
+                          "Sentence": "出資者の持分の移転は、取得者の氏名又は名称及びその住所を出資者原簿に記載した後でなければ、機構その他の第三者に対抗することができない。"
+                        }
+                      },
+                      {
+                        "@Num": "3",
+                        "ParagraphNum": "３",
+                        "ParagraphSentence": {
+                          "Sentence": "出資者の持分については、信託財産に属する財産である旨を出資者原簿に記載しなければ、当該持分が信託財産に属することを機構その他の第三者に対抗することができない。"
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "@Num": "2",
+                "SectionTitle": "第二節　役員及び職員",
+                "Article": [
+                  {
+                    "@Num": "38",
+                    "ArticleCaption": "（役員）",
+                    "ArticleTitle": "第三十八条",
+                    "Paragraph": [
+                      {
+                        "@Num": "1",
+                        "ParagraphNum": null,
+                        "ParagraphSentence": {
+                          "Sentence": "機構に、役員として、その長である理事長及び監事二人を置く。"
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "ParagraphNum": "２",
+                        "ParagraphSentence": {
+                          "Sentence": "機構に、役員として、理事二人以内を置くことができる。"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Num": "39",
+                    "ArticleCaption": "（理事の職務及び権限等）",
+                    "ArticleTitle": "第三十九条",
+                    "Paragraph": [
+                      {
+                        "@Num": "1",
+                        "ParagraphNum": null,
+                        "ParagraphSentence": {
+                          "Sentence": "理事は、理事長の定めるところにより、理事長を補佐して機構の業務を掌理する。"
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "ParagraphNum": "２",
+                        "ParagraphSentence": {
+                          "Sentence": [
+                            {
+                              "@Function": "main",
+                              "@Num": "1",
+                              "#text": "通則法第十九条第二項の個別法で定める役員は、理事とする。"
+                            },
+                            {
+                              "@Function": "proviso",
+                              "@Num": "2",
+                              "#text": "ただし、理事が置かれていないときは、監事とする。"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "@Num": "3",
+                        "ParagraphNum": "３",
+                        "ParagraphSentence": {
+                          "Sentence": "前項ただし書の場合において、通則法第十九条第二項の規定により理事長の職務を代理し又はその職務を行う監事は、その間、監事の職務を行つてはならない。"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Num": "40",
+                    "ArticleCaption": "（理事の任期）",
+                    "ArticleTitle": "第四十条",
+                    "Paragraph": {
+                      "@Num": "1",
+                      "ParagraphNum": null,
+                      "ParagraphSentence": {
+                        "Sentence": "理事の任期は、二年とする。"
+                      }
+                    }
+                  },
+                  {
+                    "@Num": "41",
+                    "ArticleCaption": "（役員及び職員の秘密保持義務）",
+                    "ArticleTitle": "第四十一条",
+                    "Paragraph": {
+                      "@Num": "1",
+                      "ParagraphNum": null,
+                      "ParagraphSentence": {
+                        "Sentence": "機構の役員若しくは職員又はこれらの職にあつた者は、その職務上知ることができた秘密を漏らし、又は盗用してはならない。"
+                      }
+                    }
+                  },
+                  {
+                    "@Num": "42",
+                    "ArticleCaption": "（役員及び職員の地位）",
+                    "ArticleTitle": "第四十二条",
+                    "Paragraph": {
+                      "@Num": "1",
+                      "ParagraphNum": null,
+                      "ParagraphSentence": {
+                        "Sentence": "機構の役員及び職員は、刑法（明治四十年法律第四十五号）その他の罰則の適用については、法令により公務に従事する職員とみなす。"
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "@Num": "3",
+                "SectionTitle": "第三節　業務等",
+                "Article": [
+                  {
+                    "@Num": "43",
+                    "ArticleCaption": "（業務の範囲等）",
+                    "ArticleTitle": "第四十三条",
+                    "Paragraph": [
+                      {
+                        "@Num": "1",
+                        "ParagraphNum": null,
+                        "ParagraphSentence": {
+                          "Sentence": "機構は、第三十二条の目的を達成するため、次の業務を行う。"
+                        },
+                        "Item": [
+                          {
+                            "@Num": "1",
+                            "ItemTitle": "一",
+                            "ItemSentence": {
+                              "Sentence": "情報処理を行う者の利便性の向上又は情報処理に関する安全性及び信頼性の確保に著しく寄与すると認められるプログラム（事業活動に広く用いられるものに限る。）であつて、その開発を特に促進する必要があり、かつ、企業等が自ら開発することが困難なものを開発すること。"
+                            }
+                          },
+                          {
+                            "@Num": "2",
+                            "ItemTitle": "二",
+                            "ItemSentence": {
+                              "Sentence": "前号に掲げる業務に係るプログラムについて、対価を得て、普及すること。"
+                            }
+                          },
+                          {
+                            "@Num": "3",
+                            "ItemTitle": "三",
+                            "ItemSentence": {
+                              "Sentence": "情報処理サービス業者等（情報処理サービス業又はソフトウエア業を営む会社又は個人をいう。以下同じ。）が金融機関から電子計算機の導入、プログラムの開発その他業務又は技術の改善又は向上に必要な資金を借り入れる場合における当該借入れに係る債務を保証すること。"
+                            }
+                          },
+                          {
+                            "@Num": "4",
+                            "ItemTitle": "四",
+                            "ItemSentence": {
+                              "Sentence": "情報処理サービス業者等以外の者が金融機関からその事業活動の効率化に寄与するプログラムの開発又はプログラムの開発に関する業務を行う者の技術の向上に必要な資金を借り入れる場合における当該借入れに係る債務を保証すること。"
+                            }
+                          },
+                          {
+                            "@Num": "5",
+                            "ItemTitle": "五",
+                            "ItemSentence": {
+                              "Sentence": "情報処理に関する安全性及び信頼性の確保を図るため、情報処理システム（電子計算機及びプログラムの集合体であつて、情報処理の業務を一体的に行うよう構成されたものをいう。）に関する技術上の評価を行うこと。"
+                            }
+                          },
+                          {
+                            "@Num": "6",
+                            "ItemTitle": "六",
+                            "ItemSentence": {
+                              "Sentence": "サイバーセキュリティに関する講習を行うこと。"
+                            }
+                          },
+                          {
+                            "@Num": "7",
+                            "ItemTitle": "七",
+                            "ItemSentence": {
+                              "Sentence": "情報処理に関する調査を行い、及びその成果を普及すること。"
+                            }
+                          },
+                          {
+                            "@Num": "8",
+                            "ItemTitle": "八",
+                            "ItemSentence": {
+                              "Sentence": "中小企業支援法（昭和三十八年法律第百四十七号）第十七条に規定する業務を行うこと。"
+                            }
+                          },
+                          {
+                            "@Num": "9",
+                            "ItemTitle": "九",
+                            "ItemSentence": {
+                              "Sentence": "中小企業等経営強化法（平成十一年法律第十八号）第四十条に規定する業務を行うこと。"
+                            }
+                          },
+                          {
+                            "@Num": "10",
+                            "ItemTitle": "十",
+                            "ItemSentence": {
+                              "Sentence": "地域経済牽引事業の促進による地域の成長発展の基盤強化に関する法律（平成十九年法律第四十号）第八条第三項に規定する業務を行うこと。"
+                            }
+                          },
+                          {
+                            "@Num": "11",
+                            "ItemTitle": "十一",
+                            "ItemSentence": {
+                              "Sentence": "産業競争力強化法（平成二十五年法律第九十八号）第七十七条に規定する業務を行うこと。"
+                            }
+                          },
+                          {
+                            "@Num": "12",
+                            "ItemTitle": "十二",
+                            "ItemSentence": {
+                              "Sentence": "生産性向上特別措置法（平成三十年法律第二十五号）第二十八条第一項から第四項までに規定する業務を行うこと。"
+                            }
+                          },
+                          {
+                            "@Num": "13",
+                            "ItemTitle": "十三",
+                            "ItemSentence": {
+                              "Sentence": "前各号の業務に附帯する業務を行うこと。"
+                            }
+                          },
+                          {
+                            "@Num": "14",
+                            "ItemTitle": "十四",
+                            "ItemSentence": {
+                              "Sentence": "中小企業等経営強化法第五十二条第一項各号に掲げる業務を行うこと。"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "@Num": "2",
+                        "ParagraphNum": "２",
+                        "ParagraphSentence": {
+                          "Sentence": "機構は、前項の業務のほか、支援士試験事務、登録事務若しくは技術者試験事務（次条第二号において「試験事務等」という。）又はサイバーセキュリティ基本法第三十一条第一項（第一号に係る部分に限る。）の規定による事務を行う。"
+                        }
+                      },
+                      {
+                        "@Num": "3",
+                        "ParagraphNum": "３",
+                        "ParagraphSentence": {
+                          "Sentence": "機構は、第一項第七号に規定する調査のうちサイバーセキュリティに関するものを行つた場合において、必要があると認めるときは、その結果に基づき、事業者その他の電子計算機を利用する者によるサイバーセキュリティの確保のため事業者その他の電子計算機を利用する者が講ずべき措置の内容を公表するものとする。"
+                        }
+                      },
+                      {
+                        "@Num": "4",
+                        "ParagraphNum": "４",
+                        "ParagraphSentence": {
+                          "Sentence": "前項の規定による公表の方法及び手続については、経済産業省令で定める。"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Num": "44",
+                    "ArticleCaption": "（区分経理）",
+                    "ArticleTitle": "第四十四条",
+                    "Paragraph": {
+                      "@Num": "1",
+                      "ParagraphNum": null,
+                      "ParagraphSentence": {
+                        "Sentence": "機構は、次に掲げる業務ごとに経理を区分し、それぞれ勘定を設けて整理しなければならない。"
+                      },
+                      "Item": [
+                        {
+                          "@Num": "1",
+                          "ItemTitle": "一",
+                          "ItemSentence": {
+                            "Sentence": "前条第一項第一号及び第二号に掲げる業務並びにこれらに附帯する業務のうち、これに要する費用を政府が財政投融資特別会計の投資勘定から出資するもの"
+                          }
+                        },
+                        {
+                          "@Num": "2",
+                          "ItemTitle": "二",
+                          "ItemSentence": {
+                            "Sentence": "前条第一項第六号に掲げる業務及びこれに附帯する業務並びに試験事務等"
+                          }
+                        },
+                        {
+                          "@Num": "3",
+                          "ItemTitle": "三",
+                          "ItemSentence": {
+                            "Sentence": "前二号に掲げる業務以外の業務"
+                          }
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "@Num": "45",
+                    "ArticleCaption": "（利益及び損失の処理の特例等）",
+                    "ArticleTitle": "第四十五条",
+                    "Paragraph": [
+                      {
+                        "@Num": "1",
+                        "ParagraphNum": null,
+                        "ParagraphSentence": {
+                          "Sentence": "機構は、前条第二号及び第三号に掲げる業務に係るそれぞれの勘定において、通則法第二十九条第二項第一号に規定する中期目標の期間（以下この項において「中期目標の期間」という。）の最後の事業年度に係る通則法第四十四条第一項又は第二項の規定による整理を行つた後、同条第一項の規定による積立金があるときは、その額に相当する金額のうち経済産業大臣の承認を受けた金額を、当該中期目標の期間の次の中期目標の期間に係る通則法第三十条第一項の認可を受けた中期計画（同項後段の規定による変更の認可を受けたときは、その変更後のもの）の定めるところにより、当該次の中期目標の期間における第四十三条に規定する業務の財源に充てることができる。"
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "ParagraphNum": "２",
+                        "ParagraphSentence": {
+                          "Sentence": "経済産業大臣は、前項の規定による承認をしようとするときは、財務大臣に協議しなければならない。"
+                        }
+                      },
+                      {
+                        "@Num": "3",
+                        "ParagraphNum": "３",
+                        "ParagraphSentence": {
+                          "Sentence": "機構は、第一項に規定する積立金の額に相当する金額から同項の規定による承認を受けた金額を控除してなお残余があるときは、その残余の額を国庫に納付しなければならない。"
+                        }
+                      },
+                      {
+                        "@Num": "4",
+                        "ParagraphNum": "４",
+                        "ParagraphSentence": {
+                          "Sentence": "前条第一号に掲げる業務に係る勘定（次項において「第一号勘定」という。）における通則法第四十四条第一項ただし書の規定の適用については、同項ただし書中「第三項の規定により同項の使途に充てる場合」とあるのは、「政令で定めるところにより計算した額を国庫に納付する場合又は第三項の規定により同項の使途に充てる場合」とする。"
+                        }
+                      },
+                      {
+                        "@Num": "5",
+                        "ParagraphNum": "５",
+                        "ParagraphSentence": {
+                          "Sentence": [
+                            {
+                              "@Num": "1",
+                              "#text": "第一項から第三項までの規定は、第一号勘定について準用する。"
+                            },
+                            {
+                              "@Num": "2",
+                              "#text": "この場合において、第一項中「通則法第四十四条第一項」とあるのは、「第四項の規定により読み替えられた通則法第四十四条第一項」と読み替えるものとする。"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "@Num": "6",
+                        "ParagraphNum": "６",
+                        "ParagraphSentence": {
+                          "Sentence": "前各項に定めるもののほか、納付金の納付の手続その他積立金の処分に関し必要な事項は、政令で定める。"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Num": "46",
+                    "ArticleCaption": "（信用基金）",
+                    "ArticleTitle": "第四十六条",
+                    "Paragraph": [
+                      {
+                        "@Num": "1",
+                        "ParagraphNum": null,
+                        "ParagraphSentence": {
+                          "Sentence": "機構は、第四十三条第一項第三号及び第四号に規定する資金の借入れに係る債務の保証並びにこれに附帯する業務に関する信用基金を設け、改正法附則第九条第一項の規定により政府及び政府以外の者から信用基金に充てるべきものとして出資されたものとされた金額、同条第三項の規定により政府以外の者から信用基金に充てるべきものとして出えんされたものとされた金額並びに第三十五条第二項の規定により政府から信用基金に充てるべきものとして出資された金額の合計額に相当する金額をもつてこれに充てるものとする。"
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "ParagraphNum": "２",
+                        "ParagraphSentence": {
+                          "Sentence": "前項の信用基金は、経済産業省令で定めるところにより、毎事業年度の損益計算上利益又は損失を生じたときは、その利益又は損失の額により増加し又は減少するものとする。"
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "@Num": "4",
+                "SectionTitle": "第四節　雑則",
+                "Article": [
+                  {
+                    "@Num": "47",
+                    "ArticleCaption": "（出資者原簿）",
+                    "ArticleTitle": "第四十七条",
+                    "Paragraph": [
+                      {
+                        "@Num": "1",
+                        "ParagraphNum": null,
+                        "ParagraphSentence": {
+                          "Sentence": "機構は、出資者原簿を備えて置かなければならない。"
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "ParagraphNum": "２",
+                        "ParagraphSentence": {
+                          "Sentence": "出資者原簿には、第四十三条第一項第一号及び第二号に掲げる業務に係る出資並びに前条第一項の信用基金に係る出資ごとに、各出資者について次の事項を記載しなければならない。"
+                        },
+                        "Item": [
+                          {
+                            "@Num": "1",
+                            "ItemTitle": "一",
+                            "ItemSentence": {
+                              "Sentence": "氏名又は名称及び住所"
+                            }
+                          },
+                          {
+                            "@Num": "2",
+                            "ItemTitle": "二",
+                            "ItemSentence": {
+                              "Sentence": "出資の引受け及び払込みの年月日"
+                            }
+                          },
+                          {
+                            "@Num": "3",
+                            "ItemTitle": "三",
+                            "ItemSentence": {
+                              "Sentence": "出資額"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "@Num": "3",
+                        "ParagraphNum": "３",
+                        "ParagraphSentence": {
+                          "Sentence": "政府以外の出資者は、出資者原簿の閲覧を求めることができる。"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Num": "48",
+                    "ArticleCaption": "（機構の解散時における残余財産の分配）",
+                    "ArticleTitle": "第四十八条",
+                    "Paragraph": [
+                      {
+                        "@Num": "1",
+                        "ParagraphNum": null,
+                        "ParagraphSentence": {
+                          "Sentence": "機構は、解散した場合において、その債務を弁済してなお残余財産があるときは、当該残余財産の額のうち、第四十四条第一号に掲げる業務に係る勘定に属する額に相当する額を国庫に納付し、同条第三号に掲げる業務に係る勘定に属する額に相当する額を第四十三条第一項第一号及び第二号に掲げる業務（これに要する費用を政府が財政投融資特別会計の投資勘定から出資したものを除く。）に係る各出資者並びに第四十六条第一項の信用基金に係る各出資者に対し、それぞれ、その出資額に応じて分配するものとする。"
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "ParagraphNum": "２",
+                        "ParagraphSentence": {
+                          "Sentence": "前項の規定により第四十六条第一項の信用基金に係る各出資者に分配することができる額は、その出資額を限度とする。"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Num": "49",
+                    "ArticleCaption": "（主務大臣等）",
+                    "ArticleTitle": "第四十九条",
+                    "Paragraph": {
+                      "@Num": "1",
+                      "ParagraphNum": null,
+                      "ParagraphSentence": {
+                        "Sentence": "機構に係る通則法における主務大臣及び主務省令は、それぞれ経済産業大臣及び経済産業省令とする。"
+                      }
+                    }
+                  },
+                  {
+                    "@Num": "50",
+                    "ArticleCaption": "（国家公務員宿舎法の適用除外）",
+                    "ArticleTitle": "第五十条",
+                    "Paragraph": {
+                      "@Num": "1",
+                      "ParagraphNum": null,
+                      "ParagraphSentence": {
+                        "Sentence": "国家公務員宿舎法（昭和二十四年法律第百十七号）の規定は、機構の役員及び職員には、適用しない。"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "@Num": "4",
+            "ChapterTitle": "第四章　罰則",
+            "Article": [
+              {
+                "@Num": "51",
+                "ArticleTitle": "第五十一条",
+                "Paragraph": [
+                  {
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": "第二十五条の規定に違反した者は、一年以下の懲役又は五十万円以下の罰金に処する。"
+                    }
+                  },
+                  {
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": "前項の罪は、告訴がなければ公訴を提起することができない。"
+                    }
+                  }
+                ]
+              },
+              {
+                "@Num": "52",
+                "ArticleTitle": "第五十二条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "第四十一条の規定に違反した者は、一年以下の懲役又は五十万円以下の罰金に処する。"
+                  }
+                }
+              },
+              {
+                "@Num": "53",
+                "ArticleTitle": "第五十三条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "次の各号のいずれかに該当する者は、三十万円以下の罰金に処する。"
+                  },
+                  "Item": [
+                    {
+                      "@Num": "1",
+                      "ItemTitle": "一",
+                      "ItemSentence": {
+                        "Sentence": "第十九条第二項の規定により情報処理安全確保支援士の名称の使用の停止を命ぜられた者で、当該停止を命ぜられた期間中に、情報処理安全確保支援士の名称を使用したもの"
+                      }
+                    },
+                    {
+                      "@Num": "2",
+                      "ItemTitle": "二",
+                      "ItemSentence": {
+                        "Sentence": "第二十七条の規定に違反した者"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "@Num": "54",
+                "ArticleTitle": "第五十四条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "次の各号のいずれかに該当する場合には、その違反行為をした機構の役員は、二十万円以下の過料に処する。"
+                  },
+                  "Item": [
+                    {
+                      "@Num": "1",
+                      "ItemTitle": "一",
+                      "ItemSentence": {
+                        "Sentence": "第四十三条第一項及び第二項に規定する業務以外の業務を行つたとき。"
+                      }
+                    },
+                    {
+                      "@Num": "2",
+                      "ItemTitle": "二",
+                      "ItemSentence": {
+                        "Sentence": "第四十五条第一項の規定により経済産業大臣の承認を受けなければならない場合において、その承認を受けなかつたとき。"
+                      }
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      "SupplProvision": [
+        {
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Article": {
+            "@Num": "1",
+            "ArticleCaption": "（施行期日）",
+            "ArticleTitle": "第一条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "この法律は、公布の日から起算して三月をこえない範囲内において政令で定める日から施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "昭和四六年三月三一日法律第一七号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphCaption": "（施行期日）",
+            "ParagraphNum": "１",
+            "ParagraphSentence": {
+              "Sentence": "この法律は、昭和四十六年四月一日から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "昭和五七年四月一六日法律第二八号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphCaption": "（施行期日）",
+            "ParagraphNum": "１",
+            "ParagraphSentence": {
+              "Sentence": "この法律は、昭和五十七年十月一日から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "昭和五八年一二月二日法律第七八号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": [
+            {
+              "@Num": "1",
+              "ParagraphNum": "１",
+              "ParagraphSentence": {
+                "Sentence": "この法律（第一条を除く。）は、昭和五十九年七月一日から施行する。"
+              }
+            },
+            {
+              "@Num": "2",
+              "ParagraphNum": "２",
+              "ParagraphSentence": {
+                "Sentence": "この法律の施行の日の前日において法律の規定により置かれている機関等で、この法律の施行の日以後は国家行政組織法又はこの法律による改正後の関係法律の規定に基づく政令（以下「関係政令」という。）の規定により置かれることとなるものに関し必要となる経過措置その他この法律の施行に伴う関係政令の制定又は改廃に関し必要となる経過措置は、政令で定めることができる。"
+              }
+            }
+          ]
+        },
+        {
+          "@AmendLawNum": "昭和五八年一二月一〇日法律第八三号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Article": [
+            {
+              "@Num": "1",
+              "ArticleCaption": "（施行期日）",
+              "ArticleTitle": "第一条",
+              "Paragraph": {
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": [
+                    {
+                      "@Function": "main",
+                      "@Num": "1",
+                      "#text": "この法律は、公布の日から施行する。"
+                    },
+                    {
+                      "@Function": "proviso",
+                      "@Num": "2",
+                      "#text": "ただし、次の各号に掲げる規定は、それぞれ当該各号に定める日から施行する。"
+                    }
+                  ]
+                },
+                "Item": [
+                  {
+                    "@Num": "1:4",
+                    "ItemTitle": "一～四",
+                    "ItemSentence": {
+                      "Sentence": "略"
+                    }
+                  },
+                  {
+                    "@Num": "5",
+                    "ItemTitle": "五",
+                    "ItemSentence": {
+                      "Column": [
+                        {
+                          "@Num": "1",
+                          "Sentence": "第二十五条、第二十六条、第二十八条から第三十条まで、第三十三条及び第三十五条の規定、第三十六条の規定（電気事業法第五十四条の改正規定を除く。附則第八条（第三項を除く。）において同じ。）並びに第三十七条、第三十九条及び第四十三条の規定並びに附則第八条（第三項を除く。）の規定"
+                        },
+                        {
+                          "@Num": "2",
+                          "Sentence": "公布の日から起算して三月を超えない範囲内において政令で定める日"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "@Num": "14",
+              "ArticleCaption": "（その他の処分、申請等に係る経過措置）",
+              "ArticleTitle": "第十四条",
+              "Paragraph": {
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": "この法律（附則第一条各号に掲げる規定については、当該各規定。以下この条及び第十六条において同じ。）の施行前に改正前のそれぞれの法律の規定によりされた許可等の処分その他の行為（以下この条において「処分等の行為」という。）又はこの法律の施行の際現に改正前のそれぞれの法律の規定によりされている許可等の申請その他の行為（以下この条において「申請等の行為」という。）で、この法律の施行の日においてこれらの行為に係る行政事務を行うべき者が異なることとなるものは、附則第二条から前条までの規定又は改正後のそれぞれの法律（これに基づく命令を含む。）の経過措置に関する規定に定めるものを除き、この法律の施行の日以後における改正後のそれぞれの法律の適用については、改正後のそれぞれの法律の相当規定によりされた処分等の行為又は申請等の行為とみなす。"
+                }
+              }
+            },
+            {
+              "@Num": "16",
+              "ArticleCaption": "（罰則に関する経過措置）",
+              "ArticleTitle": "第十六条",
+              "Paragraph": {
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": "この法律の施行前にした行為及び附則第三条、第五条第五項、第八条第二項、第九条又は第十条の規定により従前の例によることとされる場合における第十七条、第二十二条、第三十六条、第三十七条又は第三十九条の規定の施行後にした行為に対する罰則の適用については、なお従前の例による。"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@AmendLawNum": "昭和六〇年五月一日法律第三〇号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Article": [
+            {
+              "@Num": "1",
+              "ArticleCaption": "（施行期日等）",
+              "ArticleTitle": "第一条",
+              "Paragraph": {
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": [
+                    {
+                      "@Function": "main",
+                      "@Num": "1",
+                      "#text": "この法律は、公布の日から施行する。"
+                    },
+                    {
+                      "@Function": "proviso",
+                      "@Num": "2",
+                      "#text": "ただし、題名の改正規定、目次の改正規定、第一条の改正規定、第二章の章名の改正規定、第三条の次に一条を加える改正規定及び第四条第一項の改正規定並びに附則第五条、第六条及び第十一条の規定は、昭和六十一年四月一日から施行する。"
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "@Num": "2",
+              "ArticleTitle": "第二条",
+              "Paragraph": {
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": "改正後の情報処理の促進に関する法律第三条の二第一項の指針の設定については、同項に規定する主務大臣は、昭和六十一年四月一日前においても関係審議会等の意見を聴くことができる。"
+                }
+              }
+            },
+            {
+              "@Num": "3",
+              "ArticleCaption": "（経過措置）",
+              "ArticleTitle": "第三条",
+              "Paragraph": {
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": "この法律の施行前に情報処理振興事業協会に対してされた出資は、改正後の第三十条第一項の信用基金に充てるべきものとしてされた出資とみなす。"
+                }
+              }
+            },
+            {
+              "@Num": "4",
+              "ArticleTitle": "第四条",
+              "Paragraph": {
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": "この法律の施行前にした行為に対する罰則の適用については、なお従前の例による。"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@AmendLawNum": "昭和六一年五月一〇日法律第四七号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この法律は、公布の日から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成一一年一二月二二日法律第一六〇号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Article": {
+            "@Num": "1",
+            "ArticleCaption": "（施行期日）",
+            "ArticleTitle": "第一条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": [
+                  {
+                    "@Function": "main",
+                    "@Num": "1",
+                    "#text": "この法律（第二条及び第三条を除く。）は、平成十三年一月六日から施行する。"
+                  },
+                  {
+                    "@Function": "proviso",
+                    "@Num": "2",
+                    "#text": "ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。"
+                  }
+                ]
+              },
+              "Item": {
+                "@Num": "1",
+                "ItemTitle": "一",
+                "ItemSentence": {
+                  "Column": [
+                    {
+                      "@Num": "1",
+                      "Sentence": "第九百九十五条（核原料物質、核燃料物質及び原子炉の規制に関する法律の一部を改正する法律附則の改正規定に係る部分に限る。）、第千三百五条、第千三百六条、第千三百二十四条第二項、第千三百二十六条第二項及び第千三百四十四条の規定"
+                    },
+                    {
+                      "@Num": "2",
+                      "Sentence": "公布の日"
+                    }
+                  ]
+                }
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成一四年一二月一一日法律第一四四号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Article": [
+            {
+              "@Num": "1",
+              "ArticleCaption": "（施行期日）",
+              "ArticleTitle": "第一条",
+              "Paragraph": {
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": [
+                    {
+                      "@Function": "main",
+                      "@Num": "1",
+                      "#text": "この法律は、平成十六年一月五日から施行する。"
+                    },
+                    {
+                      "@Function": "proviso",
+                      "@Num": "2",
+                      "#text": "ただし、次条並びに附則第十一条、第十二条及び第十四条の規定は、公布の日から施行する。"
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "@Num": "2",
+              "ArticleCaption": "（情報処理振興事業協会の解散等）",
+              "ArticleTitle": "第二条",
+              "Paragraph": [
+                {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "情報処理振興事業協会（以下「協会」という。）は、機構の成立の時において解散するものとし、その一切の権利及び義務は、次項の規定により国が承継する資産を除き、その時において機構が承継する。"
+                  }
+                },
+                {
+                  "@Num": "2",
+                  "ParagraphNum": "２",
+                  "ParagraphSentence": {
+                    "Sentence": "機構の成立の際現に協会が有する権利のうち、機構がその業務を確実に実施するために必要な資産以外の資産は、機構の成立の時において国が承継する。"
+                  }
+                },
+                {
+                  "@Num": "3",
+                  "ParagraphNum": "３",
+                  "ParagraphSentence": {
+                    "Sentence": "前項の規定により国が承継する資産の範囲その他当該資産の国への承継に関し必要な事項は、政令で定める。"
+                  }
+                },
+                {
+                  "@Num": "4",
+                  "ParagraphNum": "４",
+                  "ParagraphSentence": {
+                    "Sentence": "協会の解散の日の前日を含む事業年度は、その日に終わるものとする。"
+                  }
+                },
+                {
+                  "@Num": "5",
+                  "ParagraphNum": "５",
+                  "ParagraphSentence": {
+                    "Sentence": "協会の解散の日の前日を含む事業年度に係る決算並びに財産目録、貸借対照表及び損益計算書並びに利益及び損失の処理については、なお従前の例による。"
+                  }
+                },
+                {
+                  "@Num": "6",
+                  "ParagraphNum": "６",
+                  "ParagraphSentence": {
+                    "Sentence": "第一項の規定により機構が協会の権利及び義務を承継したときは、機構が承継する資産（次に掲げる業務に係るものを除く。）の価額（この法律による改正前の情報処理の促進に関する法律（以下「旧情報処理促進法」という。）第三十条第一項の協会が負担する保証債務の弁済に充てることを条件として政府以外の者から出えんされた金額に相当する金額を除く。）から負債（次に掲げる業務に係るものを除く。）の金額を差し引いた額に相当する金額は、機構の設立に際し政府及び政府以外の者から機構に出資されたものとする。"
+                  },
+                  "Item": [
+                    {
+                      "@Num": "1",
+                      "ItemTitle": "一",
+                      "ItemSentence": {
+                        "Sentence": "旧情報処理促進法第二十八条第一項第一号から第三号までに掲げる業務（これに要する費用を政府が産業投資特別会計から出資したものに限る。）"
+                      }
+                    },
+                    {
+                      "@Num": "2",
+                      "ItemTitle": "二",
+                      "ItemSentence": {
+                        "Sentence": "旧情報処理促進法第二十八条第一項第四号から第六号までに掲げる業務"
+                      }
+                    },
+                    {
+                      "@Num": "3",
+                      "ItemTitle": "三",
+                      "ItemSentence": {
+                        "Sentence": "新事業創出促進法附則第九条の規定による廃止前の地域ソフトウェア供給力開発事業推進臨時措置法（平成元年法律第六十号。以下「旧地域ソフトウェア法」という。）第七条第二号の教材を開発する業務（これに要する費用を政府が産業投資特別会計から出資したものに限る。）"
+                      }
+                    },
+                    {
+                      "@Num": "4",
+                      "ItemTitle": "四",
+                      "ItemSentence": {
+                        "Sentence": "新事業創出促進法附則第十五条の規定により、その経理についてなお従前の例によることとされた旧地域ソフトウェア法第七条第一号の規定による出資の業務"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "@Num": "7",
+                  "ParagraphNum": "７",
+                  "ParagraphSentence": {
+                    "Sentence": "前項の資産の価額は、機構成立の日現在における時価を基準として評価委員が評価した価額とする。"
+                  }
+                },
+                {
+                  "@Num": "8",
+                  "ParagraphNum": "８",
+                  "ParagraphSentence": {
+                    "Sentence": "前項の評価委員その他評価に関し必要な事項は、政令で定める。"
+                  }
+                },
+                {
+                  "@Num": "9",
+                  "ParagraphNum": "９",
+                  "ParagraphSentence": {
+                    "Sentence": "第一項の規定により機構が協会の権利及び義務を承継したときは、同項の規定による協会の解散の時（以下「解散時」という。）までに政府及び政府以外の者から協会に対して第六項第一号、第三号及び第四号に掲げる業務に必要な資金に充てるべきものとして出資された額は、それぞれ、機構の設立に際し政府及び当該政府以外の者から機構に出資されたものとする。"
+                  }
+                },
+                {
+                  "@Num": "10",
+                  "ParagraphNum": "１０",
+                  "ParagraphSentence": {
+                    "Sentence": "協会の解散については、旧情報処理促進法第四十条第一項の規定による残余財産の分配は、行わない。"
+                  }
+                },
+                {
+                  "@Num": "11",
+                  "ParagraphNum": "１１",
+                  "ParagraphSentence": {
+                    "Sentence": "第一項の規定により協会が解散した場合における解散の登記については、政令で定める。"
+                  }
+                }
+              ]
+            },
+            {
+              "@Num": "3",
+              "ArticleCaption": "（旧特別勘定の清算）",
+              "ArticleTitle": "第三条",
+              "Paragraph": [
+                {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "前条第一項の規定により機構が協会の権利及び義務を承継したときは、その承継の際における旧情報処理促進法第三十四条の二に規定する特別の勘定に属する資産の価額から負債の金額を差し引いた額に相当する金額は、機構の成立に際し、機構が同条に規定するプログラム作成効率化業務に係る各出資者に支払うべき負債として整理するものとする。"
+                  }
+                },
+                {
+                  "@Num": "2",
+                  "ParagraphNum": "２",
+                  "ParagraphSentence": {
+                    "Sentence": "機構は、前項の規定により負債として整理するものとされた額を同項の各出資者に対し、その出資額に応じて分配するものとする。"
+                  }
+                }
+              ]
+            },
+            {
+              "@Num": "4",
+              "ArticleCaption": "（協会の資産の承継に伴う出資金の取扱い）",
+              "ArticleTitle": "第四条",
+              "Paragraph": [
+                {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "附則第二条第一項の規定により機構が協会の権利及び義務を承継したときは、解散時までに政府から協会に対して同条第六項第一号に掲げる業務に必要な資金に充てるべきものとして出資された出資金のうち、政令で定める日（以下「特定日」という。）前に出資されたものについては、附則第六条第一項に規定する特定プログラム開発承継勘定に整理するものとし、特定日以後に出資されたものについては、その金額に相当する金額がこの法律による改正後の情報処理の促進に関する法律（以下「新法」という。）第二十一条第一号に掲げる業務に必要な資金に充てるべきものとして出資されたものとする。"
+                  }
+                },
+                {
+                  "@Num": "2",
+                  "ParagraphNum": "２",
+                  "ParagraphSentence": {
+                    "Sentence": "附則第二条第一項の規定により機構が協会の権利及び義務を承継したときは、解散時までに政府から協会に対して同条第六項第三号に掲げる業務に必要な資金に充てるべきものとして出資された出資金は、附則第七条第一項に規定する地域ソフトウェア教材開発承継勘定に整理するものとする。"
+                  }
+                }
+              ]
+            },
+            {
+              "@Num": "5",
+              "ArticleCaption": "（承継業務）",
+              "ArticleTitle": "第五条",
+              "Paragraph": [
+                {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "機構は、附則第二条第一項の規定による協会の解散の日から起算して四年を超えない範囲内において政令で定める日までの間、新法第二十条に規定する業務のほか、旧情報処理促進法第二十八条第一項第一号に掲げる業務（これに要する費用を特定日前に政府が産業投資特別会計から出資したものに限る。）により開発された同号の特定プログラムの提供の対価の回収に係る業務（以下「特定プログラム開発承継業務」という。）を行う。"
+                  }
+                },
+                {
+                  "@Num": "2",
+                  "ParagraphNum": "２",
+                  "ParagraphSentence": {
+                    "Sentence": "機構は、附則第二条第一項の規定による協会の解散の日から起算して一年を超えない範囲内において政令で定める日までの間、新法第二十条に規定する業務のほか、旧地域ソフトウェア法第七条第二号の教材の提供の対価の回収に係る業務（以下「地域ソフトウェア教材開発承継業務」という。）を行う。"
+                  }
+                },
+                {
+                  "@Num": "3",
+                  "ParagraphNum": "３",
+                  "ParagraphSentence": {
+                    "Sentence": "第一項の規定により機構が同項に規定する業務を行う場合には、新法第三十条第一号中「第二十条」とあるのは、「第二十条及び改正法附則第五条第一項」とする。"
+                  }
+                },
+                {
+                  "@Num": "4",
+                  "ParagraphNum": "４",
+                  "ParagraphSentence": {
+                    "Sentence": "第二項の規定により機構が同項に規定する業務を行う場合には、新法第三十条第一号中「第二十条」とあるのは、「第二十条及び改正法附則第五条第二項」とする。"
+                  }
+                }
+              ]
+            },
+            {
+              "@Num": "6",
+              "ArticleCaption": "（特定プログラム開発承継勘定）",
+              "ArticleTitle": "第六条",
+              "Paragraph": [
+                {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "附則第二条第一項の規定により機構が協会の権利及び義務を承継したときは、その承継した資産及び負債のうち同条第六項第一号に掲げる業務（これに要する費用を特定日前に政府が産業投資特別会計から出資したものに限る。）に係るもの並びに特定プログラム開発承継業務に関する経理については、その他の経理と区分し、特別の勘定（以下「特定プログラム開発承継勘定」という。）を設けて整理しなければならない。"
+                  }
+                },
+                {
+                  "@Num": "2",
+                  "ParagraphNum": "２",
+                  "ParagraphSentence": {
+                    "Sentence": "機構は、特定プログラム開発承継業務を終えたときは、特定プログラム開発承継勘定を廃止するものとし、その廃止の際特定プログラム開発承継勘定についてその債務を弁済してなお残余財産があるときは、当該残余財産の額に相当する金額を国庫に納付しなければならない。"
+                  }
+                },
+                {
+                  "@Num": "3",
+                  "ParagraphNum": "３",
+                  "ParagraphSentence": {
+                    "Sentence": "機構は、前項の規定により特定プログラム開発承継勘定を廃止したときは、その廃止の際特定プログラム開発承継勘定に属する資本金の額により資本金を減少するものとする。"
+                  }
+                }
+              ]
+            },
+            {
+              "@Num": "7",
+              "ArticleCaption": "（地域ソフトウェア教材開発承継勘定）",
+              "ArticleTitle": "第七条",
+              "Paragraph": [
+                {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "附則第二条第一項の規定により機構が協会の権利及び義務を承継したときは、その承継した資産及び負債のうち同条第六項第三号に掲げる業務に係るもの並びに地域ソフトウェア教材開発承継業務に関する経理については、その他の経理と区分し、特別の勘定（以下「地域ソフトウェア教材開発承継勘定」という。）を設けて整理しなければならない。"
+                  }
+                },
+                {
+                  "@Num": "2",
+                  "ParagraphNum": "２",
+                  "ParagraphSentence": {
+                    "Sentence": "機構は、地域ソフトウェア教材開発承継業務を終えたときは、地域ソフトウェア教材開発承継勘定を廃止するものとし、その廃止の際地域ソフトウェア教材開発承継勘定についてその債務を弁済してなお残余財産があるときは、当該残余財産の額に相当する金額を国庫に納付しなければならない。"
+                  }
+                },
+                {
+                  "@Num": "3",
+                  "ParagraphNum": "３",
+                  "ParagraphSentence": {
+                    "Sentence": "機構は、前項の規定により地域ソフトウェア教材開発承継勘定を廃止したときは、その廃止の際地域ソフトウェア教材開発承継勘定に属する資本金の額により資本金を減少するものとする。"
+                  }
+                }
+              ]
+            },
+            {
+              "@Num": "8",
+              "ArticleCaption": "（地域事業出資業務勘定）",
+              "ArticleTitle": "第八条",
+              "Paragraph": [
+                {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "附則第二条第一項の規定により機構が協会の権利及び義務を承継したときは、附則第十五条の規定による改正前の新事業創出促進法附則第十五条の規定によりその経理についてなお従前の例によることとされた旧地域ソフトウェア法第七条第一号の規定による出資に係る経理については、その他の経理と区分し、特別の勘定（次項において「地域事業出資業務勘定」という。）を設けて整理しなければならない。"
+                  }
+                },
+                {
+                  "@Num": "2",
+                  "ParagraphNum": "２",
+                  "ParagraphSentence": {
+                    "Sentence": "前項の規定により機構が地域事業出資業務勘定の経理を行う場合には、新法第二十二条第四項中「前条第一号に掲げる業務に係る勘定（次項において「第一号勘定」という。）」とあるのは「前条第一号に掲げる業務に係る勘定（次項において「第一号勘定」という。）及び改正法附則第八条第一項に規定する地域事業出資業務勘定」と、同条第五項中「第一号勘定」とあるのは「第一号勘定及び改正法附則第八条第一項に規定する地域事業出資業務勘定」と、「第四項」とあるのは「改正法附則第八条第二項の規定により読み替えられた第四項」とする。"
+                  }
+                }
+              ]
+            },
+            {
+              "@Num": "9",
+              "ArticleCaption": "（信用基金の承継）",
+              "ArticleTitle": "第九条",
+              "Paragraph": [
+                {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "附則第二条第一項の規定により機構が協会の権利及び義務を承継したときは、機構が承継した旧情報処理促進法第三十条第一項の信用基金に係る資産の価額（旧情報処理促進法第三十条第一項の協会が負担する保証債務の弁済に充てることを条件として政府以外の者から出えんされた金額に相当する金額を除く。）から負債の金額を差し引いた額（以下「信用基金純資産額」という。）に相当する金額は、機構の設立に際し政府及び政府以外の者から機構に新法第二十三条第一項の信用基金に充てるべきものとして出資されたものとする。"
+                  }
+                },
+                {
+                  "@Num": "2",
+                  "ParagraphNum": "２",
+                  "ParagraphSentence": {
+                    "Sentence": "前項の規定により機構に出資されたものとされた金額及び附則第二条第二項の規定により国が承継する資産（旧情報処理促進法第三十条第一項の信用基金に係るものに限る。）の価額の合計額に、旧情報処理促進法第三十条第一項の信用基金に充てるべきものとして政府及び政府以外の者から出資された金額に対する政府以外の者の持分の割合を乗じて得た額に相当する金額（その金額が当該持分に係る出資額を超えるときは、当該出資額に相当する金額）は、当該政府以外の者から機構に対し出資されたものとする。"
+                  }
+                },
+                {
+                  "@Num": "3",
+                  "ParagraphNum": "３",
+                  "ParagraphSentence": {
+                    "Sentence": "附則第二条第一項の規定により機構が協会の権利及び義務を承継したときは、協会が負担する保証債務の弁済に充てることを条件として政府以外の者から出えんされた金額は、機構の設立に際し当該政府以外の者から機構に、新法第二十三条第一項の信用基金に充てるべきものとして出えんされたものとする。"
+                  }
+                },
+                {
+                  "@Num": "4",
+                  "ParagraphNum": "４",
+                  "ParagraphSentence": {
+                    "Sentence": "附則第二条第七項及び第八項の規定は、第二項の資産の価額について準用する。"
+                  }
+                }
+              ]
+            },
+            {
+              "@Num": "10",
+              "ArticleCaption": "（信用基金の持分の払戻しの禁止の特例）",
+              "ArticleTitle": "第十条",
+              "Paragraph": [
+                {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "新法第二十三条第一項の信用基金に係る政府以外の出資者は、機構に対し、その成立の日から起算して一月を経過した日までの間に限り、同項の信用基金に係るその持分の払戻しを請求することができる。"
+                  }
+                },
+                {
+                  "@Num": "2",
+                  "ParagraphNum": "２",
+                  "ParagraphSentence": {
+                    "Sentence": [
+                      {
+                        "@Num": "1",
+                        "#text": "機構は、前項の規定による請求があったときは、新法第十三条第一項の規定にかかわらず、当該政府以外の者が有する機構の成立の日における信用基金純資産額に対する持分に相当する金額（その金額が当該持分に係る出資額を超えるときは、当該出資額に相当する金額）により払戻しをしなければならない。"
+                      },
+                      {
+                        "@Num": "2",
+                        "#text": "この場合において、機構は、その払戻しをした金額により資本金を減少するものとする。"
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            {
+              "@Num": "11",
+              "ArticleCaption": "（日本情報処理開発協会からの引継ぎ）",
+              "ArticleTitle": "第十一条",
+              "Paragraph": [
+                {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "昭和四十二年十二月二十日に設立された財団法人日本情報処理開発協会（以下「開発協会」という。）は、寄附行為の定めるところにより、設立委員に対し、機構の成立の時において現に開発協会が有する権利及び義務のうち、平成十四年十月一日現在における開発協会の寄附行為第四条第八号に掲げる事業及び第十一号に掲げる事業であって旧情報処理促進法第六条第二項に規定する試験事務に係るもの（以下「引継事業」という。）の遂行に伴い開発協会に属するに至ったものを機構において承継すべき旨を申し出ることができる。"
+                  }
+                },
+                {
+                  "@Num": "2",
+                  "ParagraphNum": "２",
+                  "ParagraphSentence": {
+                    "Sentence": "設立委員は、前項の規定による申出があったときは、遅滞なく、経済産業大臣の認可を申請しなければならない。"
+                  }
+                },
+                {
+                  "@Num": "3",
+                  "ParagraphNum": "３",
+                  "ParagraphSentence": {
+                    "Sentence": "前項の認可があったときは、引継事業の遂行に伴い開発協会に属するに至った権利及び義務は、機構の成立の時において機構に承継されるものとする。"
+                  }
+                }
+              ]
+            },
+            {
+              "@Num": "12",
+              "ArticleCaption": "（主務大臣等）",
+              "ArticleTitle": "第十二条",
+              "Paragraph": {
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": "この法律の施行の日前における機構の設立に関する手続については、機構に係る通則法における主務大臣、主務省及び主務省令は、それぞれ経済産業大臣、経済産業省及び経済産業省令とする。"
+                }
+              }
+            },
+            {
+              "@Num": "13",
+              "ArticleCaption": "（罰則に関する経過措置）",
+              "ArticleTitle": "第十三条",
+              "Paragraph": {
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": "この法律の施行前にした行為及びこの法律の規定によりなお従前の例によることとされる事項に係るこの法律の施行後にした行為に対する罰則の適用については、なお従前の例による。"
+                }
+              }
+            },
+            {
+              "@Num": "14",
+              "ArticleCaption": "（政令への委任）",
+              "ArticleTitle": "第十四条",
+              "Paragraph": {
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": "この附則に規定するもののほか、機構の設立に伴い必要な経過措置その他この法律の施行に関し必要な経過措置は、政令で定める。"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@AmendLawNum": "平成一六年六月一八日法律第一二六号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Article": {
+            "@Num": "1",
+            "ArticleCaption": "（施行期日）",
+            "ArticleTitle": "第一条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": [
+                  {
+                    "@Function": "main",
+                    "@Num": "1",
+                    "#text": "この法律は、協定の効力発生の日から施行する。"
+                  },
+                  {
+                    "@Function": "proviso",
+                    "@Num": "2",
+                    "#text": "ただし、次の各号に掲げる規定は、それぞれ当該各号に定める日から施行する。"
+                  }
+                ]
+              },
+              "Item": [
+                {
+                  "@Num": "1:2",
+                  "ItemTitle": "一及び二",
+                  "ItemSentence": {
+                    "Sentence": "略"
+                  }
+                },
+                {
+                  "@Num": "3",
+                  "ItemTitle": "三",
+                  "ItemSentence": {
+                    "Column": [
+                      {
+                        "@Num": "1",
+                        "Sentence": "附則第四十二条の規定"
+                      },
+                      {
+                        "@Num": "2",
+                        "Sentence": "国家公務員共済組合法等の一部を改正する法律（平成十六年法律第百三十号）の公布の日又は公布日のいずれか遅い日"
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成一六年六月一八日法律第一二七号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Article": {
+            "@Num": "1",
+            "ArticleCaption": "（施行期日）",
+            "ArticleTitle": "第一条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": [
+                  {
+                    "@Function": "main",
+                    "@Num": "1",
+                    "#text": "この法律は、協定の効力発生の日から施行する。"
+                  },
+                  {
+                    "@Function": "proviso",
+                    "@Num": "2",
+                    "#text": "ただし、次の各号に掲げる規定は、それぞれ当該各号に定める日から施行する。"
+                  }
+                ]
+              },
+              "Item": [
+                {
+                  "@Num": "1",
+                  "ItemTitle": "一",
+                  "ItemSentence": {
+                    "Sentence": "略"
+                  }
+                },
+                {
+                  "@Num": "2",
+                  "ItemTitle": "二",
+                  "ItemSentence": {
+                    "Column": [
+                      {
+                        "@Num": "1",
+                        "Sentence": "附則第三条の規定"
+                      },
+                      {
+                        "@Num": "2",
+                        "Sentence": "国家公務員共済組合法等の一部を改正する法律（平成十六年法律第百三十号）の公布の日又は公布日のいずれか遅い日"
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成一六年六月二三日法律第一三〇号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Article": {
+            "@Num": "1",
+            "ArticleCaption": "（施行期日）",
+            "ArticleTitle": "第一条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": [
+                  {
+                    "@Function": "main",
+                    "@Num": "1",
+                    "#text": "この法律は、平成十六年十月一日から施行する。"
+                  },
+                  {
+                    "@Function": "proviso",
+                    "@Num": "2",
+                    "#text": "ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。"
+                  }
+                ]
+              },
+              "Item": [
+                {
+                  "@Num": "1",
+                  "ItemTitle": "一",
+                  "ItemSentence": {
+                    "Sentence": "略"
+                  }
+                },
+                {
+                  "@Num": "2",
+                  "ItemTitle": "二",
+                  "ItemSentence": {
+                    "Column": [
+                      {
+                        "@Num": "1",
+                        "Sentence": "第二条、第七条、第十条、第十三条及び第十八条並びに附則第九条から第十五条まで、第二十八条から第三十六条まで、第三十八条から第七十六条の二まで、第七十九条及び第八十一条の規定"
+                      },
+                      {
+                        "@Num": "2",
+                        "Sentence": "平成十七年四月一日"
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成一六年六月二三日法律第一三五号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Article": {
+            "@Num": "1",
+            "ArticleCaption": "（施行期日）",
+            "ArticleTitle": "第一条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": [
+                  {
+                    "@Function": "main",
+                    "@Num": "1",
+                    "#text": "この法律は、公布の日から施行する。"
+                  },
+                  {
+                    "@Function": "proviso",
+                    "@Num": "2",
+                    "#text": "ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。"
+                  }
+                ]
+              },
+              "Item": [
+                {
+                  "@Num": "1",
+                  "ItemTitle": "一",
+                  "ItemSentence": {
+                    "Sentence": "略"
+                  }
+                },
+                {
+                  "@Num": "2",
+                  "ItemTitle": "二",
+                  "ItemSentence": {
+                    "Column": [
+                      {
+                        "@Num": "1",
+                        "Sentence": "附則第十七条の規定"
+                      },
+                      {
+                        "@Num": "2",
+                        "Sentence": "この法律の公布の日又は国家公務員共済組合法等の一部を改正する法律（平成十六年法律第百三十号）の公布の日のいずれか遅い日"
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成一七年四月一三日法律第三〇号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Article": {
+            "@Num": "1",
+            "ArticleCaption": "（施行期日）",
+            "ArticleTitle": "第一条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "この法律は、平成十七年四月十三日又は公布の日のいずれか遅い日から施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成一八年一二月一五日法律第一〇九号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この法律は、新信託法の施行の日から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成一九年三月三一日法律第二三号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Article": [
+            {
+              "@Num": "1",
+              "ArticleCaption": "（施行期日）",
+              "ArticleTitle": "第一条",
+              "Paragraph": {
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": [
+                    {
+                      "@Function": "main",
+                      "@Num": "1",
+                      "#text": "この法律は、平成十九年四月一日から施行し、平成十九年度の予算から適用する。"
+                    },
+                    {
+                      "@Function": "proviso",
+                      "@Num": "2",
+                      "#text": "ただし、次の各号に掲げる規定は、当該各号に定める日から施行し、第二条第一項第四号、第十六号及び第十七号、第二章第四節、第十六節及び第十七節並びに附則第四十九条から第六十五条までの規定は、平成二十年度の予算から適用する。"
+                    }
+                  ]
+                },
+                "Item": {
+                  "@Num": "1",
+                  "ItemTitle": "一",
+                  "ItemSentence": {
+                    "Column": [
+                      {
+                        "@Num": "1",
+                        "Sentence": "附則第二百六十六条、第二百六十八条、第二百七十三条、第二百七十六条、第二百七十九条、第二百八十四条、第二百八十六条、第二百八十八条、第二百八十九条、第二百九十一条、第二百九十二条、第二百九十五条、第二百九十八条、第二百九十九条、第三百二条、第三百十七条、第三百二十二条、第三百二十四条、第三百二十八条、第三百四十三条、第三百四十五条、第三百四十七条、第三百四十九条、第三百五十二条、第三百五十三条、第三百五十九条、第三百六十条、第三百六十二条、第三百六十五条、第三百六十八条、第三百六十九条、第三百八十条、第三百八十三条及び第三百八十六条の規定"
+                      },
+                      {
+                        "@Num": "2",
+                        "Sentence": "平成二十年四月一日"
+                      }
+                    ]
+                  }
+                }
+              }
+            },
+            {
+              "@Num": "391",
+              "ArticleCaption": "（罰則に関する経過措置）",
+              "ArticleTitle": "第三百九十一条",
+              "Paragraph": {
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": "この法律の施行前にした行為及びこの附則の規定によりなお従前の例によることとされる場合におけるこの法律の施行後にした行為に対する罰則の適用については、なお従前の例による。"
+                }
+              }
+            },
+            {
+              "@Num": "392",
+              "ArticleCaption": "（その他の経過措置の政令への委任）",
+              "ArticleTitle": "第三百九十二条",
+              "Paragraph": {
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": "附則第二条から第六十五条まで、第六十七条から第二百五十九条まで及び第三百八十二条から前条までに定めるもののほか、この法律の施行に関し必要となる経過措置は、政令で定める。"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@AmendLawNum": "平成二二年五月二八日法律第三七号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Article": [
+            {
+              "@Num": "1",
+              "ArticleCaption": "（施行期日）",
+              "ArticleTitle": "第一条",
+              "Paragraph": {
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": "この法律は、公布の日から起算して六月を超えない範囲内において政令で定める日（以下「施行日」という。）から施行する。"
+                }
+              }
+            },
+            {
+              "@Num": "34",
+              "ArticleCaption": "（罰則の適用に関する経過措置）",
+              "ArticleTitle": "第三十四条",
+              "Paragraph": {
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": "この法律の施行前にした行為に対する罰則の適用については、なお従前の例による。"
+                }
+              }
+            },
+            {
+              "@Num": "35",
+              "ArticleCaption": "（その他の経過措置の政令への委任）",
+              "ArticleTitle": "第三十五条",
+              "Paragraph": {
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": "この附則に規定するもののほか、この法律の施行に関し必要な経過措置は、政令で定める。"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@AmendLawNum": "平成二四年六月二七日法律第四四号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Article": {
+            "@Num": "1",
+            "ArticleCaption": "（施行期日）",
+            "ArticleTitle": "第一条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "この法律は、公布の日から起算して三月を超えない範囲内において政令で定める日から施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成二五年六月二一日法律第五七号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Article": {
+            "@Num": "1",
+            "ArticleCaption": "（施行期日）",
+            "ArticleTitle": "第一条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "この法律は、公布の日から起算して三月を超えない範囲内において政令で定める日から施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成二六年六月一三日法律第六七号",
+          "SupplProvisionLabel": "附　則",
+          "Article": [
+            {
+              "@Num": "1",
+              "ArticleCaption": "（施行期日）",
+              "ArticleTitle": "第一条",
+              "Paragraph": {
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": [
+                    {
+                      "@Function": "main",
+                      "@Num": "1",
+                      "#text": "この法律は、独立行政法人通則法の一部を改正する法律（平成二十六年法律第六十六号。以下「通則法改正法」という。）の施行の日から施行する。"
+                    },
+                    {
+                      "@Function": "proviso",
+                      "@Num": "2",
+                      "#text": "ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。"
+                    }
+                  ]
+                },
+                "Item": {
+                  "@Num": "1",
+                  "ItemTitle": "一",
+                  "ItemSentence": {
+                    "Column": [
+                      {
+                        "@Num": "1",
+                        "Sentence": "附則第十四条第二項、第十八条及び第三十条の規定"
+                      },
+                      {
+                        "@Num": "2",
+                        "Sentence": "公布の日"
+                      }
+                    ]
+                  }
+                }
+              }
+            },
+            {
+              "@Num": "28",
+              "ArticleCaption": "（処分等の効力）",
+              "ArticleTitle": "第二十八条",
+              "Paragraph": {
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": "この法律の施行前にこの法律による改正前のそれぞれの法律（これに基づく命令を含む。）の規定によってした又はすべき処分、手続その他の行為であってこの法律による改正後のそれぞれの法律（これに基づく命令を含む。以下この条において「新法令」という。）に相当の規定があるものは、法律（これに基づく政令を含む。）に別段の定めのあるものを除き、新法令の相当の規定によってした又はすべき処分、手続その他の行為とみなす。"
+                }
+              }
+            },
+            {
+              "@Num": "29",
+              "ArticleCaption": "（罰則に関する経過措置）",
+              "ArticleTitle": "第二十九条",
+              "Paragraph": {
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": "この法律の施行前にした行為及びこの附則の規定によりなおその効力を有することとされる場合におけるこの法律の施行後にした行為に対する罰則の適用については、なお従前の例による。"
+                }
+              }
+            },
+            {
+              "@Num": "30",
+              "ArticleCaption": "（その他の経過措置の政令等への委任）",
+              "ArticleTitle": "第三十条",
+              "Paragraph": {
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": "附則第三条から前条までに定めるもののほか、この法律の施行に関し必要な経過措置（罰則に関する経過措置を含む。）は、政令（人事院の所掌する事項については、人事院規則）で定める。"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@AmendLawNum": "平成二六年六月一三日法律第六九号",
+          "SupplProvisionLabel": "附　則",
+          "Article": [
+            {
+              "@Num": "1",
+              "ArticleCaption": "（施行期日）",
+              "ArticleTitle": "第一条",
+              "Paragraph": {
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": "この法律は、行政不服審査法（平成二十六年法律第六十八号）の施行の日から施行する。"
+                }
+              }
+            },
+            {
+              "@Num": "5",
+              "ArticleCaption": "（経過措置の原則）",
+              "ArticleTitle": "第五条",
+              "Paragraph": {
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": "行政庁の処分その他の行為又は不作為についての不服申立てであってこの法律の施行前にされた行政庁の処分その他の行為又はこの法律の施行前にされた申請に係る行政庁の不作為に係るものについては、この附則に特別の定めがある場合を除き、なお従前の例による。"
+                }
+              }
+            },
+            {
+              "@Num": "6",
+              "ArticleCaption": "（訴訟に関する経過措置）",
+              "ArticleTitle": "第六条",
+              "Paragraph": [
+                {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "この法律による改正前の法律の規定により不服申立てに対する行政庁の裁決、決定その他の行為を経た後でなければ訴えを提起できないこととされる事項であって、当該不服申立てを提起しないでこの法律の施行前にこれを提起すべき期間を経過したもの（当該不服申立てが他の不服申立てに対する行政庁の裁決、決定その他の行為を経た後でなければ提起できないとされる場合にあっては、当該他の不服申立てを提起しないでこの法律の施行前にこれを提起すべき期間を経過したものを含む。）の訴えの提起については、なお従前の例による。"
+                  }
+                },
+                {
+                  "@Num": "2",
+                  "ParagraphNum": "２",
+                  "ParagraphSentence": {
+                    "Sentence": "この法律の規定による改正前の法律の規定（前条の規定によりなお従前の例によることとされる場合を含む。）により異議申立てが提起された処分その他の行為であって、この法律の規定による改正後の法律の規定により審査請求に対する裁決を経た後でなければ取消しの訴えを提起することができないこととされるものの取消しの訴えの提起については、なお従前の例による。"
+                  }
+                },
+                {
+                  "@Num": "3",
+                  "ParagraphNum": "３",
+                  "ParagraphSentence": {
+                    "Sentence": "不服申立てに対する行政庁の裁決、決定その他の行為の取消しの訴えであって、この法律の施行前に提起されたものについては、なお従前の例による。"
+                  }
+                }
+              ]
+            },
+            {
+              "@Num": "9",
+              "ArticleCaption": "（罰則に関する経過措置）",
+              "ArticleTitle": "第九条",
+              "Paragraph": {
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": "この法律の施行前にした行為並びに附則第五条及び前二条の規定によりなお従前の例によることとされる場合におけるこの法律の施行後にした行為に対する罰則の適用については、なお従前の例による。"
+                }
+              }
+            },
+            {
+              "@Num": "10",
+              "ArticleCaption": "（その他の経過措置の政令への委任）",
+              "ArticleTitle": "第十条",
+              "Paragraph": {
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": "附則第五条から前条までに定めるもののほか、この法律の施行に関し必要な経過措置（罰則に関する経過措置を含む。）は、政令で定める。"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@AmendLawNum": "平成二八年四月二二日法律第三一号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Article": [
+            {
+              "@Num": "1",
+              "ArticleCaption": "（施行期日）",
+              "ArticleTitle": "第一条",
+              "Paragraph": {
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": [
+                    {
+                      "@Function": "main",
+                      "@Num": "1",
+                      "#text": "この法律は、公布の日から起算して六月を超えない範囲内において政令で定める日から施行する。"
+                    },
+                    {
+                      "@Function": "proviso",
+                      "@Num": "2",
+                      "#text": "ただし、次条並びに附則第三条、第五条及び第六条の規定は、公布の日から施行する。"
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "@Num": "2",
+              "ArticleCaption": "（情報処理の促進に関する法律の一部改正に伴う経過措置）",
+              "ArticleTitle": "第二条",
+              "Paragraph": [
+                {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "経済産業大臣は、この法律の施行の日（以下「施行日」という。）から独立行政法人情報処理推進機構（以下「機構」という。）に第二条の規定による改正後の情報処理の促進に関する法律（以下「新情報処理促進法」という。）第十条第一項に規定する支援士試験事務（以下この項において「支援士試験事務」という。）を行わせようとするときは、施行日前においても、施行日から機構が支援士試験事務を行う旨を官報で公示することができる。"
+                  }
+                },
+                {
+                  "@Num": "2",
+                  "ParagraphNum": "２",
+                  "ParagraphSentence": {
+                    "Sentence": "前項の規定による公示があったときは、新情報処理促進法第十条第二項の規定による公示があったものとみなす。"
+                  }
+                },
+                {
+                  "@Num": "3",
+                  "ParagraphNum": "３",
+                  "ParagraphSentence": {
+                    "Sentence": [
+                      {
+                        "@Num": "1",
+                        "#text": "機構は、第一項の規定による公示があったときは、施行日までに、新情報処理促進法第十一条第一項及び第二項の規定の例により、同条第一項に規定する支援士試験事務規程を定め、経済産業大臣の認可を受けるものとする。"
+                      },
+                      {
+                        "@Num": "2",
+                        "#text": "この場合において、その認可の効力は、施行日から生ずるものとする。"
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            {
+              "@Num": "3",
+              "ArticleTitle": "第三条",
+              "Paragraph": [
+                {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "経済産業大臣は、施行日から機構に新情報処理促進法第二十二条に規定する登録事務（以下この項において「登録事務」という。）を行わせようとするときは、施行日前においても、施行日から機構が登録事務を行う旨を官報で公示することができる。"
+                  }
+                },
+                {
+                  "@Num": "2",
+                  "ParagraphNum": "２",
+                  "ParagraphSentence": {
+                    "Sentence": "前項の規定による公示があったときは、新情報処理促進法第二十三条第二項において読み替えて準用する新情報処理促進法第十条第二項の規定による公示があったものとみなす。"
+                  }
+                },
+                {
+                  "@Num": "3",
+                  "ParagraphNum": "３",
+                  "ParagraphSentence": {
+                    "Sentence": [
+                      {
+                        "@Num": "1",
+                        "#text": "機構は、第一項の規定による公示があったときは、施行日までに、新情報処理促進法第二十三条第二項において読み替えて準用する新情報処理促進法第十一条第一項及び第二項の規定の例により、新情報処理促進法第二十三条第二項において読み替えて準用する新情報処理促進法第十一条第一項に規定する登録事務規程を定め、経済産業大臣の認可を受けるものとする。"
+                      },
+                      {
+                        "@Num": "2",
+                        "#text": "この場合において、その認可の効力は、施行日から生ずるものとする。"
+                      }
+                    ]
+                  }
+                }
+              ]
+            },
+            {
+              "@Num": "4",
+              "ArticleTitle": "第四条",
+              "Paragraph": {
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": "この法律の施行の際現に情報処理安全確保支援士という名称を使用している者については、新情報処理促進法第二十七条の規定は、この法律の施行後六月間は、適用しない。"
+                }
+              }
+            },
+            {
+              "@Num": "5",
+              "ArticleTitle": "第五条",
+              "Paragraph": {
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": [
+                    {
+                      "@Num": "1",
+                      "#text": "機構は、この法律の公布の際現に第二条の規定による改正前の情報処理の促進に関する法律第七条第二項の規定により同項に規定する試験事務を行っている場合においては、施行日までに、新情報処理促進法第二十九条第三項において読み替えて準用する新情報処理促進法第十一条第一項及び第二項の規定の例により、新情報処理促進法第二十九条第三項において読み替えて準用する新情報処理促進法第十一条第一項に規定する技術者試験事務規程を定め、経済産業大臣の認可を受けるものとする。"
+                    },
+                    {
+                      "@Num": "2",
+                      "#text": "この場合において、その認可の効力は、施行日から生ずるものとする。"
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "@Num": "6",
+              "ArticleCaption": "（政令への委任）",
+              "ArticleTitle": "第六条",
+              "Paragraph": {
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": "附則第二条から前条までに定めるもののほか、この法律の施行に関して必要な経過措置（罰則に関する経過措置を含む。）は、政令で定める。"
+                }
+              }
+            },
+            {
+              "@Num": "7",
+              "ArticleCaption": "（検討）",
+              "ArticleTitle": "第七条",
+              "Paragraph": {
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": "政府は、この法律の施行後五年を経過した場合において、新情報処理促進法の施行の状況について検討を加え、その結果に基づいて必要な措置を講ずるものとする。"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@AmendLawNum": "平成二八年六月三日法律第五八号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Article": [
+            {
+              "@Num": "1",
+              "ArticleCaption": "（施行期日）",
+              "ArticleTitle": "第一条",
+              "Paragraph": {
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": "この法律は、公布の日から起算して三月を超えない範囲内において政令で定める日から施行する。"
+                }
+              }
+            },
+            {
+              "@Num": "15",
+              "ArticleCaption": "（罰則に関する経過措置）",
+              "ArticleTitle": "第十五条",
+              "Paragraph": {
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": "この法律の施行前にした行為に対する罰則の適用については、なお従前の例による。"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@AmendLawNum": "平成二九年六月二日法律第四七号",
+          "@Extract": "true",
+          "@Type": "Amend",
+          "SupplProvisionLabel": "附　則",
+          "Article": {
+            "@Num": "1",
+            "ArticleCaption": "（施行期日）",
+            "ArticleTitle": "第一条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "この法律は、公布の日から起算して三月を超えない範囲内において政令で定める日から施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成三〇年五月二三日法律第二五号",
+          "@Extract": "true",
+          "@Type": "Amend",
+          "SupplProvisionLabel": "附　則",
+          "Article": [
+            {
+              "@Num": "1",
+              "ArticleCaption": "（施行期日）",
+              "ArticleTitle": "第一条",
+              "Paragraph": {
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": [
+                    {
+                      "@Function": "main",
+                      "@Num": "1",
+                      "#text": "この法律は、公布の日から起算して三月を超えない範囲内において政令で定める日から施行する。"
+                    },
+                    {
+                      "@Function": "proviso",
+                      "@Num": "2",
+                      "#text": "ただし、附則第三条の規定は、公布の日から施行する。"
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "@Num": "2",
+              "ArticleCaption": "（この法律の廃止）",
+              "ArticleTitle": "第二条",
+              "Paragraph": {
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": "この法律は、この法律の施行の日から三年以内に廃止するものとする。"
+                }
+              }
+            },
+            {
+              "@Num": "3",
+              "ArticleCaption": "（施行前の準備）",
+              "ArticleTitle": "第三条",
+              "Paragraph": {
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": "第三十三条の規定による委員会の委員の任命に関し必要な行為は、この法律の施行の日前においても、同条の規定の例によりすることができる。"
+                }
+              }
+            },
+            {
+              "@Num": "8",
+              "ArticleCaption": "（罰則の適用に関する経過措置）",
+              "ArticleTitle": "第八条",
+              "Paragraph": {
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": "この法律の施行前にした行為に対する罰則の適用については、なお従前の例による。"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@AmendLawNum": "平成三〇年五月二三日法律第二六号",
+          "@Extract": "true",
+          "@Type": "Amend",
+          "SupplProvisionLabel": "附　則",
+          "Article": [
+            {
+              "@Num": "1",
+              "ArticleCaption": "（施行期日）",
+              "ArticleTitle": "第一条",
+              "Paragraph": {
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": [
+                    {
+                      "@Function": "main",
+                      "@Num": "1",
+                      "#text": "この法律は、公布の日から起算して六月を超えない範囲内において政令で定める日から施行する。"
+                    },
+                    {
+                      "@Function": "proviso",
+                      "@Num": "2",
+                      "#text": "ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。"
+                    }
+                  ]
+                },
+                "Item": [
+                  {
+                    "@Num": "1",
+                    "ItemTitle": "一",
+                    "ItemSentence": {
+                      "Sentence": "略"
+                    }
+                  },
+                  {
+                    "@Num": "2",
+                    "ItemTitle": "二",
+                    "ItemSentence": {
+                      "Column": [
+                        {
+                          "@Num": "1",
+                          "Sentence": "第二条、第五条及び第七条の規定並びに附則第十八条、第二十条、第二十四条、第二十六条、第二十八条及び第三十条の規定"
+                        },
+                        {
+                          "@Num": "2",
+                          "Sentence": "公布の日から起算して九月を超えない範囲内において政令で定める日"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "@Num": "2",
+              "ArticleCaption": "（見直し）",
+              "ArticleTitle": "第二条",
+              "Paragraph": {
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": "政府は、この法律の施行後三年を目途として、経済社会情勢の変化を勘案しつつ、この法律による改正後の規定の施行の状況について検討を加え、その結果に基づいて必要な措置を講ずるものとする。"
+                }
+              }
+            },
+            {
+              "@Num": "16",
+              "ArticleCaption": "（罰則に関する経過措置）",
+              "ArticleTitle": "第十六条",
+              "Paragraph": {
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": "この法律（附則第一条第二号に掲げる規定にあっては、当該規定。以下この条において同じ。）の施行前にした行為並びにこの附則の規定によりなお従前の例によることとされる場合及びなおその効力を有することとされる場合におけるこの法律の施行後にした行為に対する罰則の適用については、なお従前の例による。"
+                }
+              }
+            },
+            {
+              "@Num": "17",
+              "ArticleCaption": "（その他の経過措置の政令への委任）",
+              "ArticleTitle": "第十七条",
+              "Paragraph": {
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": "この附則に規定するもののほか、この法律の施行に伴い必要な経過措置（罰則に関する経過措置を含む。）は、政令で定める。"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@AmendLawNum": "平成三〇年一二月一二日法律第九一号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphCaption": "（施行期日）",
+            "ParagraphNum": "１",
+            "ParagraphSentence": {
+              "Sentence": "この法律は、公布の日から起算して一年を超えない範囲内において政令で定める日から施行する。"
+            }
+          }
+        }
+      ]
+    }
+  }
+}

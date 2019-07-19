@@ -1,0 +1,465 @@
+{
+  "Law": {
+    "@Era": "Heisei",
+    "@Lang": "ja",
+    "@LawType": "MinisterialOrdinance",
+    "@Num": "007",
+    "@Year": "20",
+    "LawNum": "平成二十年経済産業省令第七号",
+    "LawBody": {
+      "LawTitle": "石油製品需給動態統計調査規則",
+      "EnactStatement": "統計法（昭和二十二年法律第十八号）第三条第二項の規定に基づき、石油製品需給動態統計調査規則を次のように定める。",
+      "MainProvision": {
+        "Article": [
+          {
+            "@Num": "1",
+            "ArticleCaption": "（省令の目的）",
+            "ArticleTitle": "第一条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "統計法（平成十九年法律第五十三号）第二条第四項に規定する基幹統計である石油製品需給動態統計を作成するための調査（以下「石油製品調査」という。）の施行に関しては、この省令の定めるところによる。"
+              }
+            }
+          },
+          {
+            "@Num": "2",
+            "ArticleCaption": "（調査の目的）",
+            "ArticleTitle": "第二条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "石油製品調査は、石油製品の需給の実態を明らかにすることを目的とする。"
+              }
+            }
+          },
+          {
+            "@Num": "3",
+            "ArticleCaption": "（調査の期日）",
+            "ArticleTitle": "第三条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "石油製品調査は、毎月末日現在によって行う。"
+              }
+            }
+          },
+          {
+            "@Num": "4",
+            "ArticleCaption": "（調査の範囲）",
+            "ArticleTitle": "第四条",
+            "Paragraph": [
+              {
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": "石油製品調査は、別表第一に掲げる石油製品（以下「石油製品」という。）の製造業者、輸入業者若しくは特定石油販売業者又は原油受入業者に属する事業所であって、石油製品を輸入若しくは販売するもの又は輸入された原油若しくは国内で生産された原油を直接受け入れるもの（国家石油備蓄基地を除く。）について行う。"
+                }
+              },
+              {
+                "@Num": "2",
+                "ParagraphNum": "２",
+                "ParagraphSentence": {
+                  "Sentence": "「製造業者」とは、石油製品の製造を業とする者をいう。"
+                }
+              },
+              {
+                "@Num": "3",
+                "ParagraphNum": "３",
+                "ParagraphSentence": {
+                  "Sentence": "「輸入業者」とは、製造業者以外の者であって、石油製品の輸入を業とするものをいう。"
+                }
+              },
+              {
+                "@Num": "4",
+                "ParagraphNum": "４",
+                "ParagraphSentence": {
+                  "Sentence": "「特定石油販売業者」とは、石油の備蓄の確保等に関する法律（昭和五十年法律第九十六号）第二条第七項に定める者をいう。"
+                }
+              },
+              {
+                "@Num": "5",
+                "ParagraphNum": "５",
+                "ParagraphSentence": {
+                  "Sentence": "「原油受入業者」とは、製造業者、輸入業者及び特定石油販売業者以外の者であって、輸入された原油又は国内で生産された原油を直接受け入れることを業とするものをいう。"
+                }
+              }
+            ]
+          },
+          {
+            "@Num": "5",
+            "ArticleCaption": "（調査事項）",
+            "ArticleTitle": "第五条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "石油製品調査は、原油及び石油製品に関し、次に掲げる事項について行う。"
+              },
+              "Item": [
+                {
+                  "@Num": "1",
+                  "ItemTitle": "一",
+                  "ItemSentence": {
+                    "Sentence": "月間受入量"
+                  }
+                },
+                {
+                  "@Num": "2",
+                  "ItemTitle": "二",
+                  "ItemSentence": {
+                    "Sentence": "月間出荷量"
+                  }
+                },
+                {
+                  "@Num": "3",
+                  "ItemTitle": "三",
+                  "ItemSentence": {
+                    "Sentence": "月間消費量"
+                  }
+                },
+                {
+                  "@Num": "4",
+                  "ItemTitle": "四",
+                  "ItemSentence": {
+                    "Sentence": "月末在庫量"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "@Num": "6",
+            "ArticleCaption": "（調査の方法）",
+            "ArticleTitle": "第六条",
+            "Paragraph": [
+              {
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": "石油製品調査は、石油製品製造業者・輸入業者月報（以下「調査票」という。）によって行う。"
+                }
+              },
+              {
+                "@Num": "2",
+                "ParagraphNum": "２",
+                "ParagraphSentence": {
+                  "Sentence": "調査票の様式は、経済産業大臣が告示で定める。"
+                }
+              },
+              {
+                "@Num": "3",
+                "ParagraphNum": "３",
+                "ParagraphSentence": {
+                  "Sentence": "第四条第一項に規定する事業所の管理責任者（以下「報告義務者」という。）は、調査票により前条に規定する事項について報告しなければならない。"
+                }
+              },
+              {
+                "@Num": "4",
+                "ParagraphNum": "４",
+                "ParagraphSentence": {
+                  "Sentence": "石油製品調査は、別表第二の調査票の受理機関の欄に掲げる受理機関（以下「受理機関」という。）がその報告義務者に配布する調査票によって行う。"
+                }
+              },
+              {
+                "@Num": "5",
+                "ParagraphNum": "５",
+                "ParagraphSentence": {
+                  "Sentence": "報告義務者は、調査票の配布を受けなかったときは、受理機関にその旨を申し出て、調査票の配布を受けなければならない。"
+                }
+              },
+              {
+                "@Num": "6",
+                "ParagraphNum": "６",
+                "ParagraphSentence": {
+                  "Sentence": "報告義務者は、調査票に所定の事項を記入し、これに記名した上、受理機関に提出しなければならない。"
+                }
+              },
+              {
+                "@Num": "7",
+                "ParagraphNum": "７",
+                "ParagraphSentence": {
+                  "Sentence": "前項の場合において、調査票の提出部数、提出期限及び提出先は、別表第二の提出部数、提出期限及び調査票の受理機関の欄に掲げるところによらなければならない。"
+                }
+              }
+            ]
+          },
+          {
+            "@Num": "7",
+            "ArticleCaption": "（電子情報処理組織による提出）",
+            "ArticleTitle": "第七条",
+            "Paragraph": [
+              {
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": "行政手続等における情報通信の技術の利用に関する法律（平成十四年法律第百五十一号）第三条第一項の規定により同項に規定する電子情報処理組織を使用して前条第六項の規定による調査票の提出をするときは、経済産業省の所管する法令に係る行政手続等における情報通信の技術の利用に関する法律施行規則（平成十五年経済産業省令第八号）第三条第三項は適用しない。"
+                }
+              },
+              {
+                "@Num": "2",
+                "ParagraphNum": "２",
+                "ParagraphSentence": {
+                  "Sentence": "報告義務者が前項の規定による提出をする場合における前条第七項の規定の適用については、同項中「提出部数、提出期限及び提出先」とあるのは「提出期限及び提出先」と、「提出部数、提出期限及び調査票の受理機関の欄」とあるのは「提出期限及び調査票の受理機関の欄」とする。"
+                }
+              }
+            ]
+          },
+          {
+            "@Num": "8",
+            "ArticleCaption": "（集計の方法）",
+            "ArticleTitle": "第八条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "経済産業大臣は、受理した調査票を審査集計する。"
+              }
+            }
+          },
+          {
+            "@Num": "9",
+            "ArticleCaption": "（公表）",
+            "ArticleTitle": "第九条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "経済産業大臣は、前条の規定による集計の結果を調査月の翌々月末日までに公表する。"
+              }
+            }
+          },
+          {
+            "@Num": "10",
+            "ArticleTitle": "第十条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "削除"
+              }
+            }
+          },
+          {
+            "@Num": "11",
+            "ArticleTitle": "第十一条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "削除"
+              }
+            }
+          },
+          {
+            "@Num": "12",
+            "ArticleCaption": "（調査票及び集計表の保存）",
+            "ArticleTitle": "第十二条",
+            "Paragraph": [
+              {
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": "経済産業大臣の保存する調査票の保存期間は、一年とする。"
+                }
+              },
+              {
+                "@Num": "2",
+                "ParagraphNum": "２",
+                "ParagraphSentence": {
+                  "Sentence": "経済産業大臣は、調査票及び集計表の内容を収録した磁気媒体を永年保存する。"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      "SupplProvision": [
+        {
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この省令は、平成二十年二月一日から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成二一年三月一八日経済産業省令第一五号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Article": [
+            {
+              "@Num": "1",
+              "ArticleCaption": "（施行期日）",
+              "ArticleTitle": "第一条",
+              "Paragraph": {
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": "この省令は、統計法の施行の日（平成二十一年四月一日）から施行する。"
+                }
+              }
+            },
+            {
+              "@Num": "2",
+              "ArticleCaption": "（経過措置）",
+              "ArticleTitle": "第二条",
+              "Paragraph": {
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": "この省令の施行の際現にこの省令による改正前の工業統計調査規則第八条、ガス事業生産動態統計調査規則第五条第一項、経済産業省生産動態統計調査規則第八条第一項、商業動態統計調査規則第七条、特定サービス産業実態調査規則第七条、経済産業省特定業種石油等消費統計調査規則第七条、経済産業省企業活動基本調査規則第八条及び石油製品需給動態統計調査規則第六条第三項の規定により調査の申告を求められている者は、この省令による改正後のこれらの規定により調査の報告を求められた者とみなす。"
+                }
+              }
+            }
+          ]
+        }
+      ],
+      "AppdxTable": [
+        {
+          "AppdxTableTitle": "別表第一",
+          "RelatedArticleNum": "（第四条関係）",
+          "Item": [
+            {
+              "@Num": "1",
+              "ItemTitle": "一",
+              "ItemSentence": {
+                "Sentence": "ガソリン"
+              }
+            },
+            {
+              "@Num": "2",
+              "ItemTitle": "二",
+              "ItemSentence": {
+                "Sentence": "ナフサ"
+              }
+            },
+            {
+              "@Num": "3",
+              "ItemTitle": "三",
+              "ItemSentence": {
+                "Sentence": "ジェット燃料油"
+              }
+            },
+            {
+              "@Num": "4",
+              "ItemTitle": "四",
+              "ItemSentence": {
+                "Sentence": "灯油"
+              }
+            },
+            {
+              "@Num": "5",
+              "ItemTitle": "五",
+              "ItemSentence": {
+                "Sentence": "軽油"
+              }
+            },
+            {
+              "@Num": "6",
+              "ItemTitle": "六",
+              "ItemSentence": {
+                "Sentence": "重油"
+              }
+            },
+            {
+              "@Num": "7",
+              "ItemTitle": "七",
+              "ItemSentence": {
+                "Sentence": "潤滑油"
+              }
+            },
+            {
+              "@Num": "8",
+              "ItemTitle": "八",
+              "ItemSentence": {
+                "Sentence": "パラフィン"
+              }
+            },
+            {
+              "@Num": "9",
+              "ItemTitle": "九",
+              "ItemSentence": {
+                "Sentence": "グリース"
+              }
+            },
+            {
+              "@Num": "10",
+              "ItemTitle": "十",
+              "ItemSentence": {
+                "Sentence": "アスファルト"
+              }
+            },
+            {
+              "@Num": "11",
+              "ItemTitle": "十一",
+              "ItemSentence": {
+                "Sentence": "液化石油ガス"
+              }
+            },
+            {
+              "@Num": "12",
+              "ItemTitle": "十二",
+              "ItemSentence": {
+                "Sentence": "液化天然ガス"
+              }
+            }
+          ]
+        },
+        {
+          "AppdxTableTitle": "別表第二",
+          "RelatedArticleNum": "（第六条関係）",
+          "TableStruct": {
+            "Table": {
+              "TableRow": [
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "報告義務者"
+                    },
+                    {
+                      "Sentence": "調査票の種類"
+                    },
+                    {
+                      "Sentence": "提出部数"
+                    },
+                    {
+                      "Sentence": "提出期限"
+                    },
+                    {
+                      "Sentence": "調査票の受理機関"
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "製造業者、輸入業者、特定石油販売業者及び原油受入業者"
+                    },
+                    {
+                      "Sentence": "石油製品製造業者・輸入業者月報"
+                    },
+                    {
+                      "Sentence": "一部"
+                    },
+                    {
+                      "Sentence": "調査月の翌月十二日"
+                    },
+                    {
+                      "Sentence": "経済産業大臣"
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        }
+      ]
+    }
+  }
+}

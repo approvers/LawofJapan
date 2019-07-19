@@ -1,0 +1,866 @@
+{
+  "Law": {
+    "@Era": "Showa",
+    "@Lang": "ja",
+    "@LawType": "Act",
+    "@Num": "307",
+    "@Year": "26",
+    "LawNum": "昭和二十六年法律第三百七号",
+    "LawBody": {
+      "LawTitle": "旧令による共済組合等からの年金受給者のための特別措置法の規定による年金の額の改定に関する法律",
+      "MainProvision": {
+        "Paragraph": [
+          {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphNum": "１",
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "旧令による共済組合等からの年金受給者のための特別措置法（昭和二十五年法律第二百五十六号。以下本則及び別表中「特別措置法」という。）第六条第一項第一号の規定により改定された退職年金、障害年金及び遺族年金に相当する年金については、昭和二十六年十月分以後その年金額を、同号の規定により改定された年金額の算定の基準となつた同法別表の仮定俸給に対応する別表の仮定俸給を俸給とみなし、国家公務員共済組合法（昭和二十三年法律第六十九号。以下「共済組合法」という。）の規定を適用して算定した額に改定する。"
+              }
+            }
+          },
+          {
+            "@Hide": "false",
+            "@Num": "2",
+            "ParagraphNum": "２",
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "前項の場合において、同項の年金のうち、その支給の条件又は額の算定の基準が共済組合法の規定による退職年金、障害年金又は遺族年金と異なるものについては、大蔵大臣の定めるところにより、これを共済組合法の規定によるこれらの年金のうち当該条件又は基準の最も類似するものとみなして、同法の規定を適用する。"
+              }
+            }
+          },
+          {
+            "@Hide": "false",
+            "@Num": "3",
+            "ParagraphNum": "３",
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "特別措置法第六条第一項第二号の規定により改定された公務に起因する疾病、負傷又は死亡を給付事由とする年金については、昭和二十六年十月分以後その年金額を、同号の規定により改定された年金額の算定の基準となつた同法別表の仮定俸給に対応する別表の仮定俸給を俸給とみなし、且つ、それぞれ旧陸軍共済組合、同法第一条に規定する共済協会又は同法第二条に規定する外地関係共済組合が支給した年金の算定の例（その算定の際俸給月額に乗ずべき月数については、同法第六条第三項の規定により改定された月数によるものとする。）により算定した額に改定する。"
+              }
+            }
+          }
+        ]
+      },
+      "SupplProvision": [
+        {
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphNum": "１",
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この法律は、公布の日から施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "昭和五七年七月一六日法律第六六号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この法律は、昭和五十七年十月一日から施行する。"
+              }
+            }
+          }
+        }
+      ],
+      "AppdxTable": {
+        "AppdxTableTitle": {
+          "@WritingMode": "vertical",
+          "#text": "別表"
+        },
+        "TableStruct": {
+          "TableStructTitle": {
+            "@WritingMode": "vertical",
+            "#text": "年金額の改定のための仮定俸給表"
+          },
+          "Table": {
+            "@WritingMode": "vertical",
+            "TableRow": [
+              {
+                "TableColumn": [
+                  {
+                    "@BorderBottom": "solid",
+                    "@BorderLeft": "solid",
+                    "@BorderRight": "solid",
+                    "@BorderTop": "solid",
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "特別措置法別表の仮定俸給"
+                    }
+                  },
+                  {
+                    "@BorderBottom": "solid",
+                    "@BorderLeft": "solid",
+                    "@BorderRight": "solid",
+                    "@BorderTop": "solid",
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "仮定俸給"
+                    }
+                  },
+                  {
+                    "@BorderBottom": "solid",
+                    "@BorderLeft": "solid",
+                    "@BorderRight": "solid",
+                    "@BorderTop": "solid",
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "特別措置法別表の仮定俸給"
+                    }
+                  },
+                  {
+                    "@BorderBottom": "solid",
+                    "@BorderLeft": "solid",
+                    "@BorderRight": "solid",
+                    "@BorderTop": "solid",
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "仮定俸給"
+                    }
+                  }
+                ]
+              },
+              {
+                "TableColumn": [
+                  {
+                    "@BorderBottom": "solid",
+                    "@BorderLeft": "solid",
+                    "@BorderRight": "solid",
+                    "@BorderTop": "solid",
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "円"
+                    }
+                  },
+                  {
+                    "@BorderBottom": "solid",
+                    "@BorderLeft": "solid",
+                    "@BorderRight": "solid",
+                    "@BorderTop": "solid",
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "円"
+                    }
+                  },
+                  {
+                    "@BorderBottom": "solid",
+                    "@BorderLeft": "solid",
+                    "@BorderRight": "solid",
+                    "@BorderTop": "solid",
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "円"
+                    }
+                  },
+                  {
+                    "@BorderBottom": "solid",
+                    "@BorderLeft": "solid",
+                    "@BorderRight": "solid",
+                    "@BorderTop": "solid",
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "円"
+                    }
+                  }
+                ]
+              },
+              {
+                "TableColumn": [
+                  {
+                    "@BorderBottom": "solid",
+                    "@BorderLeft": "solid",
+                    "@BorderRight": "solid",
+                    "@BorderTop": "solid",
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "三、八五〇"
+                    }
+                  },
+                  {
+                    "@BorderBottom": "solid",
+                    "@BorderLeft": "solid",
+                    "@BorderRight": "solid",
+                    "@BorderTop": "solid",
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "四、六〇〇"
+                    }
+                  },
+                  {
+                    "@BorderBottom": "solid",
+                    "@BorderLeft": "solid",
+                    "@BorderRight": "solid",
+                    "@BorderTop": "solid",
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "九、九〇〇"
+                    }
+                  },
+                  {
+                    "@BorderBottom": "solid",
+                    "@BorderLeft": "solid",
+                    "@BorderRight": "solid",
+                    "@BorderTop": "solid",
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "一一、八〇〇"
+                    }
+                  }
+                ]
+              },
+              {
+                "TableColumn": [
+                  {
+                    "@BorderBottom": "solid",
+                    "@BorderLeft": "solid",
+                    "@BorderRight": "solid",
+                    "@BorderTop": "solid",
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "四、一五〇"
+                    }
+                  },
+                  {
+                    "@BorderBottom": "solid",
+                    "@BorderLeft": "solid",
+                    "@BorderRight": "solid",
+                    "@BorderTop": "solid",
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "四、九〇〇"
+                    }
+                  },
+                  {
+                    "@BorderBottom": "solid",
+                    "@BorderLeft": "solid",
+                    "@BorderRight": "solid",
+                    "@BorderTop": "solid",
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "一〇、五〇〇"
+                    }
+                  },
+                  {
+                    "@BorderBottom": "solid",
+                    "@BorderLeft": "solid",
+                    "@BorderRight": "solid",
+                    "@BorderTop": "solid",
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "一二、六〇〇"
+                    }
+                  }
+                ]
+              },
+              {
+                "TableColumn": [
+                  {
+                    "@BorderBottom": "solid",
+                    "@BorderLeft": "solid",
+                    "@BorderRight": "solid",
+                    "@BorderTop": "solid",
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "四、四五〇"
+                    }
+                  },
+                  {
+                    "@BorderBottom": "solid",
+                    "@BorderLeft": "solid",
+                    "@BorderRight": "solid",
+                    "@BorderTop": "solid",
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "五、二〇〇"
+                    }
+                  },
+                  {
+                    "@BorderBottom": "solid",
+                    "@BorderLeft": "solid",
+                    "@BorderRight": "solid",
+                    "@BorderTop": "solid",
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "一一、一〇〇"
+                    }
+                  },
+                  {
+                    "@BorderBottom": "solid",
+                    "@BorderLeft": "solid",
+                    "@BorderRight": "solid",
+                    "@BorderTop": "solid",
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "一三、五〇〇"
+                    }
+                  }
+                ]
+              },
+              {
+                "TableColumn": [
+                  {
+                    "@BorderBottom": "solid",
+                    "@BorderLeft": "solid",
+                    "@BorderRight": "solid",
+                    "@BorderTop": "solid",
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "四、七五〇"
+                    }
+                  },
+                  {
+                    "@BorderBottom": "solid",
+                    "@BorderLeft": "solid",
+                    "@BorderRight": "solid",
+                    "@BorderTop": "solid",
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "五、五〇〇"
+                    }
+                  },
+                  {
+                    "@BorderBottom": "solid",
+                    "@BorderLeft": "solid",
+                    "@BorderRight": "solid",
+                    "@BorderTop": "solid",
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "一一、七〇〇"
+                    }
+                  },
+                  {
+                    "@BorderBottom": "solid",
+                    "@BorderLeft": "solid",
+                    "@BorderRight": "solid",
+                    "@BorderTop": "solid",
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "一四、五〇〇"
+                    }
+                  }
+                ]
+              },
+              {
+                "TableColumn": [
+                  {
+                    "@BorderBottom": "solid",
+                    "@BorderLeft": "solid",
+                    "@BorderRight": "solid",
+                    "@BorderTop": "solid",
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "五、〇五〇"
+                    }
+                  },
+                  {
+                    "@BorderBottom": "solid",
+                    "@BorderLeft": "solid",
+                    "@BorderRight": "solid",
+                    "@BorderTop": "solid",
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "五、九〇〇"
+                    }
+                  },
+                  {
+                    "@BorderBottom": "solid",
+                    "@BorderLeft": "solid",
+                    "@BorderRight": "solid",
+                    "@BorderTop": "solid",
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "一二、五〇〇"
+                    }
+                  },
+                  {
+                    "@BorderBottom": "solid",
+                    "@BorderLeft": "solid",
+                    "@BorderRight": "solid",
+                    "@BorderTop": "solid",
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "一五、五〇〇"
+                    }
+                  }
+                ]
+              },
+              {
+                "TableColumn": [
+                  {
+                    "@BorderBottom": "solid",
+                    "@BorderLeft": "solid",
+                    "@BorderRight": "solid",
+                    "@BorderTop": "solid",
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "五、三五〇"
+                    }
+                  },
+                  {
+                    "@BorderBottom": "solid",
+                    "@BorderLeft": "solid",
+                    "@BorderRight": "solid",
+                    "@BorderTop": "solid",
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "六、三〇〇"
+                    }
+                  },
+                  {
+                    "@BorderBottom": "solid",
+                    "@BorderLeft": "solid",
+                    "@BorderRight": "solid",
+                    "@BorderTop": "solid",
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "一三、三〇〇"
+                    }
+                  },
+                  {
+                    "@BorderBottom": "solid",
+                    "@BorderLeft": "solid",
+                    "@BorderRight": "solid",
+                    "@BorderTop": "solid",
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "一六、六〇〇"
+                    }
+                  }
+                ]
+              },
+              {
+                "TableColumn": [
+                  {
+                    "@BorderBottom": "solid",
+                    "@BorderLeft": "solid",
+                    "@BorderRight": "solid",
+                    "@BorderTop": "solid",
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "五、七〇〇"
+                    }
+                  },
+                  {
+                    "@BorderBottom": "solid",
+                    "@BorderLeft": "solid",
+                    "@BorderRight": "solid",
+                    "@BorderTop": "solid",
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "六、七〇〇"
+                    }
+                  },
+                  {
+                    "@BorderBottom": "solid",
+                    "@BorderLeft": "solid",
+                    "@BorderRight": "solid",
+                    "@BorderTop": "solid",
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "一四、二〇〇"
+                    }
+                  },
+                  {
+                    "@BorderBottom": "solid",
+                    "@BorderLeft": "solid",
+                    "@BorderRight": "solid",
+                    "@BorderTop": "solid",
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "一七、八〇〇"
+                    }
+                  }
+                ]
+              },
+              {
+                "TableColumn": [
+                  {
+                    "@BorderBottom": "solid",
+                    "@BorderLeft": "solid",
+                    "@BorderRight": "solid",
+                    "@BorderTop": "solid",
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "六、一〇〇"
+                    }
+                  },
+                  {
+                    "@BorderBottom": "solid",
+                    "@BorderLeft": "solid",
+                    "@BorderRight": "solid",
+                    "@BorderTop": "solid",
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "七、一〇〇"
+                    }
+                  },
+                  {
+                    "@BorderBottom": "solid",
+                    "@BorderLeft": "solid",
+                    "@BorderRight": "solid",
+                    "@BorderTop": "solid",
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "一五、二〇〇"
+                    }
+                  },
+                  {
+                    "@BorderBottom": "solid",
+                    "@BorderLeft": "solid",
+                    "@BorderRight": "solid",
+                    "@BorderTop": "solid",
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "一九、〇〇〇"
+                    }
+                  }
+                ]
+              },
+              {
+                "TableColumn": [
+                  {
+                    "@BorderBottom": "solid",
+                    "@BorderLeft": "solid",
+                    "@BorderRight": "solid",
+                    "@BorderTop": "solid",
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "六、五〇〇"
+                    }
+                  },
+                  {
+                    "@BorderBottom": "solid",
+                    "@BorderLeft": "solid",
+                    "@BorderRight": "solid",
+                    "@BorderTop": "solid",
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "七、五五〇"
+                    }
+                  },
+                  {
+                    "@BorderBottom": "solid",
+                    "@BorderLeft": "solid",
+                    "@BorderRight": "solid",
+                    "@BorderTop": "solid",
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "一六、二〇〇"
+                    }
+                  },
+                  {
+                    "@BorderBottom": "solid",
+                    "@BorderLeft": "solid",
+                    "@BorderRight": "solid",
+                    "@BorderTop": "solid",
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "二〇、四〇〇"
+                    }
+                  }
+                ]
+              },
+              {
+                "TableColumn": [
+                  {
+                    "@BorderBottom": "solid",
+                    "@BorderLeft": "solid",
+                    "@BorderRight": "solid",
+                    "@BorderTop": "solid",
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "六、九〇〇"
+                    }
+                  },
+                  {
+                    "@BorderBottom": "solid",
+                    "@BorderLeft": "solid",
+                    "@BorderRight": "solid",
+                    "@BorderTop": "solid",
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "八、〇五〇"
+                    }
+                  },
+                  {
+                    "@BorderBottom": "solid",
+                    "@BorderLeft": "solid",
+                    "@BorderRight": "solid",
+                    "@BorderTop": "solid",
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "一七、二〇〇"
+                    }
+                  },
+                  {
+                    "@BorderBottom": "solid",
+                    "@BorderLeft": "solid",
+                    "@BorderRight": "solid",
+                    "@BorderTop": "solid",
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "二二、〇〇〇"
+                    }
+                  }
+                ]
+              },
+              {
+                "TableColumn": [
+                  {
+                    "@BorderBottom": "solid",
+                    "@BorderLeft": "solid",
+                    "@BorderRight": "solid",
+                    "@BorderTop": "solid",
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "七、三〇〇"
+                    }
+                  },
+                  {
+                    "@BorderBottom": "solid",
+                    "@BorderLeft": "solid",
+                    "@BorderRight": "solid",
+                    "@BorderTop": "solid",
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "八、六〇〇"
+                    }
+                  },
+                  {
+                    "@BorderBottom": "solid",
+                    "@BorderLeft": "solid",
+                    "@BorderRight": "solid",
+                    "@BorderTop": "solid",
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "一八、三〇〇"
+                    }
+                  },
+                  {
+                    "@BorderBottom": "solid",
+                    "@BorderLeft": "solid",
+                    "@BorderRight": "solid",
+                    "@BorderTop": "solid",
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "二三、六〇〇"
+                    }
+                  }
+                ]
+              },
+              {
+                "TableColumn": [
+                  {
+                    "@BorderBottom": "solid",
+                    "@BorderLeft": "solid",
+                    "@BorderRight": "solid",
+                    "@BorderTop": "solid",
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "七、五〇〇"
+                    }
+                  },
+                  {
+                    "@BorderBottom": "solid",
+                    "@BorderLeft": "solid",
+                    "@BorderRight": "solid",
+                    "@BorderTop": "solid",
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "八、九〇〇"
+                    }
+                  },
+                  {
+                    "@BorderBottom": "solid",
+                    "@BorderLeft": "solid",
+                    "@BorderRight": "solid",
+                    "@BorderTop": "solid",
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "二〇、一〇〇"
+                    }
+                  },
+                  {
+                    "@BorderBottom": "solid",
+                    "@BorderLeft": "solid",
+                    "@BorderRight": "solid",
+                    "@BorderTop": "solid",
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "二六、二〇〇"
+                    }
+                  }
+                ]
+              },
+              {
+                "TableColumn": [
+                  {
+                    "@BorderBottom": "solid",
+                    "@BorderLeft": "solid",
+                    "@BorderRight": "solid",
+                    "@BorderTop": "solid",
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "八、一〇〇"
+                    }
+                  },
+                  {
+                    "@BorderBottom": "solid",
+                    "@BorderLeft": "solid",
+                    "@BorderRight": "solid",
+                    "@BorderTop": "solid",
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "九、六〇〇"
+                    }
+                  },
+                  {
+                    "@BorderBottom": "solid",
+                    "@BorderLeft": "solid",
+                    "@BorderRight": "solid",
+                    "@BorderTop": "solid",
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "二一、五〇〇"
+                    }
+                  },
+                  {
+                    "@BorderBottom": "solid",
+                    "@BorderLeft": "solid",
+                    "@BorderRight": "solid",
+                    "@BorderTop": "solid",
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "二八、二〇〇"
+                    }
+                  }
+                ]
+              },
+              {
+                "TableColumn": [
+                  {
+                    "@BorderBottom": "solid",
+                    "@BorderLeft": "solid",
+                    "@BorderRight": "solid",
+                    "@BorderTop": "solid",
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "八、七〇〇"
+                    }
+                  },
+                  {
+                    "@BorderBottom": "solid",
+                    "@BorderLeft": "solid",
+                    "@BorderRight": "solid",
+                    "@BorderTop": "solid",
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "一〇、三〇〇"
+                    }
+                  },
+                  {
+                    "@BorderBottom": "solid",
+                    "@BorderLeft": "solid",
+                    "@BorderRight": "solid",
+                    "@BorderTop": "solid",
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "二二、九〇〇"
+                    }
+                  },
+                  {
+                    "@BorderBottom": "solid",
+                    "@BorderLeft": "solid",
+                    "@BorderRight": "solid",
+                    "@BorderTop": "solid",
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "三〇、三〇〇"
+                    }
+                  }
+                ]
+              },
+              {
+                "TableColumn": [
+                  {
+                    "@BorderBottom": "solid",
+                    "@BorderLeft": "solid",
+                    "@BorderRight": "solid",
+                    "@BorderTop": "solid",
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "九、三〇〇"
+                    }
+                  },
+                  {
+                    "@BorderBottom": "solid",
+                    "@BorderLeft": "solid",
+                    "@BorderRight": "solid",
+                    "@BorderTop": "solid",
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "一一、〇〇〇"
+                    }
+                  },
+                  {
+                    "@BorderBottom": "solid",
+                    "@BorderLeft": "solid",
+                    "@BorderRight": "solid",
+                    "@BorderTop": "solid",
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "二五、〇〇〇"
+                    }
+                  },
+                  {
+                    "@BorderBottom": "solid",
+                    "@BorderLeft": "solid",
+                    "@BorderRight": "solid",
+                    "@BorderTop": "solid",
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "三三、六〇〇"
+                    }
+                  }
+                ]
+              },
+              {
+                "TableColumn": {
+                  "@BorderBottom": "solid",
+                  "@BorderLeft": "solid",
+                  "@BorderRight": "solid",
+                  "@BorderTop": "solid",
+                  "@colspan": "4",
+                  "Sentence": [
+                    {
+                      "@WritingMode": "vertical",
+                      "#text": "備考"
+                    },
+                    {
+                      "@WritingMode": "vertical",
+                      "#text": "本則第一項の規定による年金額の改定の基準とする特別措置法別表の仮定俸給が三、八五〇円未満のときは、その仮定俸給の一・一九倍に相当する金額（円位未満の端数は、切り捨てる。）をこの表の仮定俸給とし、その特別措置法別表の仮定俸給が二五、〇〇〇円をこえるときは、その仮定俸給の一・三四倍に相当する金額（円位未満の端数は、切り捨てる。）をこの表の仮定俸給とする。"
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  }
+}

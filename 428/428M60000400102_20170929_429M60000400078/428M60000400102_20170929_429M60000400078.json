@@ -1,0 +1,2982 @@
+{
+  "Law": {
+    "@DataInfo": "180822e03k04m01",
+    "@Era": "Heisei",
+    "@Lang": "ja",
+    "@LawType": "MinisterialOrdinance",
+    "@Num": "102",
+    "@Year": "28",
+    "LawNum": "平成二十八年経済産業省令第百二号",
+    "LawBody": {
+      "LawTitle": "情報処理の促進に関する法律施行規則",
+      "EnactStatement": [
+        "サイバーセキュリティ基本法及び情報処理の促進に関する法律の一部を改正する法律（平成二十八年法律第三十一号）の施行に伴い、並びに情報処理の促進に関する法律（昭和四十五年法律第九十号）第七条、第九条第二項、第十一条第二項（同法第二十三条第二項及び第二十九条第三項において準用する場合を含む。）、第十五条、第二十六条、第二十八条、第二十九条第四項及び第四十三条第四項の規定に基づき、情報処理技術者試験規則等の全部を改正する省令を次のように定める。",
+        "情報処理技術者試験規則（昭和四十五年通商産業省令第五十九号）の全部を次のように改正する。"
+      ],
+      "TOC": {
+        "TOCLabel": "目次",
+        "TOCChapter": [
+          {
+            "@Delete": "false",
+            "@Num": "1",
+            "ChapterTitle": "第一章　情報処理安全確保支援士"
+          },
+          {
+            "@Delete": "false",
+            "@Num": "2",
+            "ChapterTitle": "第二章　情報処理技術者試験"
+          },
+          {
+            "@Delete": "false",
+            "@Num": "3",
+            "ChapterTitle": "第三章　独立行政法人情報処理推進機構の業務"
+          }
+        ],
+        "TOCSupplProvision": {
+          "SupplProvisionLabel": "附則"
+        }
+      },
+      "MainProvision": {
+        "Chapter": [
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "1",
+            "ChapterTitle": "第一章　情報処理安全確保支援士",
+            "Article": [
+              {
+                "@Num": "1",
+                "ArticleCaption": "（情報処理安全確保支援士の資格）",
+                "ArticleTitle": "第一条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "情報処理の促進に関する法律（昭和四十五年法律第九十号。以下「法」という。）第七条の経済産業省令で定めるものは、次の各号に定める者とする。"
+                  },
+                  "Item": [
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "1",
+                      "ItemTitle": "一",
+                      "ItemSentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "サイバーセキュリティに関する知識及び技能を要する事務に従事し、又は従事していた者であって、経済産業大臣の定めるところにより、経済産業大臣が認定した者"
+                        }
+                      }
+                    },
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "2",
+                      "ItemTitle": "二",
+                      "ItemSentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "法第九条第二項の規定に基づき情報処理安全確保支援士試験(以下「支援士試験」という。)の全部を免除した者"
+                        }
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "@Num": "2",
+                "ArticleCaption": "（試験の科目等）",
+                "ArticleTitle": "第二条",
+                "Paragraph": [
+                  {
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": "支援士試験の科目は、次のとおりとする。"
+                    },
+                    "Item": [
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "1",
+                        "ItemTitle": "一",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "情報処理システム（情報処理を目的として複数の要素が組み合わされた体系をいう。以下同じ。）に係る業務に関する共通的知識"
+                          }
+                        }
+                      },
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "2",
+                        "ItemTitle": "二",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "情報セキュリティシステムの開発並びに情報処理システム及びこれを用いる業務におけるセキュリティ管理に関する専門的知識"
+                          }
+                        }
+                      },
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "3",
+                        "ItemTitle": "三",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "情報セキュリティシステムの開発並びに情報処理システム及びこれを用いる業務におけるセキュリティ管理に関する専門的能力"
+                          }
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Hide": "false",
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "支援士試験の対象となる知識及び技能は、情報セキュリティシステムの開発並びに情報処理システム及びこれを用いる業務におけるセキュリティ管理に必要な専門的知識及び技能とする。"
+                      }
+                    }
+                  },
+                  {
+                    "@Hide": "false",
+                    "@Num": "3",
+                    "ParagraphNum": "３",
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "支援士試験は、筆記試験により行うものとする。"
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "3",
+                "ArticleCaption": "（情報処理安全確保支援士試験の免除）",
+                "ArticleTitle": "第三条",
+                "Paragraph": [
+                  {
+                    "@Hide": "false",
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "法第九条第二項の経済産業省令で定める支援士試験の全部を免除する資格を有する者は、独立行政法人情報処理推進機構（以下「機構」という。）が行うサイバーセキュリティ対策に資する知識及び技能の講習であって、前条第一項各号に規定する科目の合格に必要な知識及び能力を習得できるものとして経済産業大臣が指定したものを修了した者（修了した日の翌日から起算して一年以内に第三項又は第四項の申請をする場合に限る。）とする。"
+                      }
+                    }
+                  },
+                  {
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": "法第九条第二項の経済産業省令で定める支援士試験の一部を免除する資格を有する者は、次の各号のいずれかに該当する者とし、それぞれ当該各号に掲げる科目を免除する。"
+                    },
+                    "Item": [
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "1",
+                        "ItemTitle": "一",
+                        "ItemSentence": {
+                          "Column": [
+                            {
+                              "@LineBreak": "false",
+                              "@Num": "1",
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "支援士試験に合格した者（当該試験に係る第八条第二項の公示が行われた日から起算して二年以内に支援士試験を受ける場合に限る。）"
+                              }
+                            },
+                            {
+                              "@LineBreak": "false",
+                              "@Num": "2",
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "前条第一項第一号に規定する科目"
+                              }
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "2",
+                        "ItemTitle": "二",
+                        "ItemSentence": {
+                          "Column": [
+                            {
+                              "@LineBreak": "false",
+                              "@Num": "1",
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "支援士試験を受験した者であって、当該試験の情報処理システムに係る業務に関する共通的知識において経済産業大臣の定める基準に達する成績を得た者（当該試験に係る第八条第二項の公示が行われた日から起算して二年以内に支援士試験を受ける場合に限る。）"
+                              }
+                            },
+                            {
+                              "@LineBreak": "false",
+                              "@Num": "2",
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "前条第一項第一号に規定する科目"
+                              }
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "3",
+                        "ItemTitle": "三",
+                        "ItemSentence": {
+                          "Column": [
+                            {
+                              "@LineBreak": "false",
+                              "@Num": "1",
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "第三十七条第一項別表に定めるＩＴストラテジスト試験、システムアーキテクト試験、プロジェクトマネージャ試験、ネットワークスペシャリスト試験、データベーススペシャリスト試験、エンベデッドシステムスペシャリスト試験、ＩＴサービスマネージャ試験及びシステム監査技術者試験（以下「高度試験」という。）並びに応用情報技術者試験のいずれか一の試験に合格した者（当該試験に係る第三十九条により読み替えられた第八条第二項の公示が行われた日から起算して二年以内に支援士試験を受ける場合に限る。）"
+                              }
+                            },
+                            {
+                              "@LineBreak": "false",
+                              "@Num": "2",
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "前条第一項第一号に規定する科目"
+                              }
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "4",
+                        "ItemTitle": "四",
+                        "ItemSentence": {
+                          "Column": [
+                            {
+                              "@LineBreak": "false",
+                              "@Num": "1",
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "高度試験のいずれか一の試験を受験した者であって、当該試験の情報処理システムに係る業務に関する共通的知識において経済産業大臣が定める基準に達する成績を得た者（当該試験に係る第三十九条により読み替えられた第八条第二項の公示が行われた日から起算して二年以内に支援士試験を受ける場合に限る。）"
+                              }
+                            },
+                            {
+                              "@LineBreak": "false",
+                              "@Num": "2",
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "前条第一項第一号に規定する科目"
+                              }
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "5",
+                        "ItemTitle": "五",
+                        "ItemSentence": {
+                          "Column": [
+                            {
+                              "@LineBreak": "false",
+                              "@Num": "1",
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "前各号に掲げる者のほか、第二条各号に掲げる試験の科目に応じ情報処理安全確保支援士として必要な知識及び技能の一部を有する者として経済産業大臣が定める者"
+                              }
+                            },
+                            {
+                              "@LineBreak": "false",
+                              "@Num": "2",
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "経済産業大臣が定める科目"
+                              }
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Hide": "false",
+                    "@Num": "3",
+                    "ParagraphNum": "３",
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "法第九条第二項の免除（機構が支援士試験の実施に関する事務（以下「支援士試験事務」という。）を行うものを除く。）を受けようとする者は、前二項に規定する資格を有することを証する書類を添えて、経済産業大臣に申請しなければならない。"
+                      }
+                    }
+                  },
+                  {
+                    "@Hide": "false",
+                    "@Num": "4",
+                    "ParagraphNum": "４",
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "機構が支援士試験事務を行う支援士試験の免除を受けようとする者は、機構が定めるところにより、申請書を機構に提出しなければならない。"
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "4",
+                "ArticleCaption": "（試験の回数等）",
+                "ArticleTitle": "第四条",
+                "Paragraph": [
+                  {
+                    "@Hide": "false",
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "支援士試験は、毎年少なくとも一回行い、支援士試験を実施する期日、場所その他支援士試験の実施に関し必要な事項は、あらかじめ官報に公示する。"
+                      }
+                    }
+                  },
+                  {
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": "経済産業大臣（機構が支援士試験事務を行う場合にあっては、機構。）は、前項のほか、支援士試験の適切な実施の確保のために必要な措置を講ずるものとする。"
+                    }
+                  }
+                ]
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "5",
+                "ArticleCaption": "（試験事務規程の認可の申請）",
+                "ArticleTitle": "第五条",
+                "Paragraph": [
+                  {
+                    "@Hide": "false",
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "機構は、法第十一条第一項前段の認可を受けようとするときは、その旨を記載した申請書に支援士試験事務の実施に関する規程（以下「支援士試験事務規程」という。）を添えて、これを経済産業大臣に提出しなければならない。"
+                      }
+                    }
+                  },
+                  {
+                    "@Hide": "false",
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "機構は、法第十一条第一項後段の認可を受けようとするときは、次に掲げる事項を記載した申請書を経済産業大臣に提出しなければならない。"
+                      }
+                    },
+                    "Item": [
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "1",
+                        "ItemTitle": "一",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "変更しようとする事項"
+                          }
+                        }
+                      },
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "2",
+                        "ItemTitle": "二",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "変更しようとする年月日"
+                          }
+                        }
+                      },
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "3",
+                        "ItemTitle": "三",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "変更の理由"
+                          }
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "6",
+                "ArticleCaption": "（試験事務規程の記載事項）",
+                "ArticleTitle": "第六条",
+                "Paragraph": {
+                  "@Hide": "false",
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "法第十一条第二項の経済産業省令で定める事項は、次のとおりとする。"
+                    }
+                  },
+                  "Item": [
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "1",
+                      "ItemTitle": "一",
+                      "ItemSentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "支援士試験事務の実施の方法に関する事項"
+                        }
+                      }
+                    },
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "2",
+                      "ItemTitle": "二",
+                      "ItemSentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "受験手数料の収納の方法に関する事項"
+                        }
+                      }
+                    },
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "3",
+                      "ItemTitle": "三",
+                      "ItemSentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "支援士試験事務に関して知り得た秘密の保持に関する事項"
+                        }
+                      }
+                    },
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "4",
+                      "ItemTitle": "四",
+                      "ItemSentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "支援士試験事務に関する帳簿及び書類の保存に関する事項"
+                        }
+                      }
+                    },
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "5",
+                      "ItemTitle": "五",
+                      "ItemSentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "その他支援士試験事務の実施に関し必要な事項"
+                        }
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "7",
+                "ArticleCaption": "（受験手続）",
+                "ArticleTitle": "第七条",
+                "Paragraph": [
+                  {
+                    "@Hide": "false",
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "支援士試験（機構が支援士試験事務を行うものを除く。）を受けようとする者は、様式第一による受験願書を経済産業大臣に提出しなければならない。"
+                      }
+                    }
+                  },
+                  {
+                    "@Hide": "false",
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "機構が支援士試験事務を行う支援士試験を受けようとする者は、機構が定めるところにより、受験願書を機構に提出しなければならない。"
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "8",
+                "ArticleCaption": "（合格者台帳の記載）",
+                "ArticleTitle": "第八条",
+                "Paragraph": [
+                  {
+                    "@Hide": "false",
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "経済産業大臣は、支援士試験に合格した者の受験番号、氏名、生年月日及び合格証書番号を合格者台帳に記載しなければならない。"
+                      }
+                    }
+                  },
+                  {
+                    "@Hide": "false",
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "経済産業大臣は、前項の規定による記載を行ったときは、支援士試験に合格した者の受験番号を官報に公示するとともに、試験に合格した者に対し、様式第二による合格証書を交付する。"
+                      }
+                    }
+                  },
+                  {
+                    "@Hide": "false",
+                    "@Num": "3",
+                    "ParagraphNum": "３",
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "経済産業大臣は、機構が支援士試験事務を行う場合においては、第一項の合格者台帳の写しを機構に送付する。"
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "9",
+                "ArticleCaption": "（合格者台帳の写しの保存）",
+                "ArticleTitle": "第九条",
+                "Paragraph": {
+                  "@Hide": "false",
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "機構は、前条第三項の規定による合格者台帳の写しの送付を受けたときは、支援士試験事務を廃止するまで当該合格者台帳の写しを保存しなければならない。"
+                    }
+                  }
+                }
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "10",
+                "ArticleCaption": "（合格証明書の交付）",
+                "ArticleTitle": "第十条",
+                "Paragraph": [
+                  {
+                    "@Hide": "false",
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "支援士試験に合格した者は、様式第三による申請書を経済産業大臣（機構が支援士試験事務を行う場合にあっては、機構。）に提出して、様式第四による合格証明書の交付を受けることができる。"
+                      }
+                    }
+                  },
+                  {
+                    "@Hide": "false",
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "前項の規定により合格証明書の交付を受けようとする者は、交付手数料として一通につき七百円を国に納付しなければならない。"
+                      }
+                    }
+                  },
+                  {
+                    "@Hide": "false",
+                    "@Num": "3",
+                    "ParagraphNum": "３",
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "機構は、合格証明書を交付したときは、速やかに経済産業大臣に報告しなければならない。"
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "11",
+                "ArticleCaption": "（受験停止の処分等の報告）",
+                "ArticleTitle": "第十一条",
+                "Paragraph": {
+                  "@Hide": "false",
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "機構は、法第十二条第三項の規定により、支援士試験に関する不正行為に関係のある者に対して、その受験を停止させ、又はその支援士試験を無効としたときは、遅滞なく、次に掲げる事項を記載した報告書を経済産業大臣に提出しなければならない。"
+                    }
+                  },
+                  "Item": [
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "1",
+                      "ItemTitle": "一",
+                      "ItemSentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "処分を行った者の氏名、生年月日及び住所"
+                        }
+                      }
+                    },
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "2",
+                      "ItemTitle": "二",
+                      "ItemSentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "処分の内容及び処分を行った年月日"
+                        }
+                      }
+                    },
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "3",
+                      "ItemTitle": "三",
+                      "ItemSentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "不正の行為の内容"
+                        }
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "12",
+                "ArticleCaption": "（受験禁止の処分の通知）",
+                "ArticleTitle": "第十二条",
+                "Paragraph": {
+                  "@Hide": "false",
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "経済産業大臣は、機構が支援士試験事務を行う場合において、法第十二条第二項の処分を行ったときは、次に掲げる事項を機構に通知するものとする。"
+                    }
+                  },
+                  "Item": [
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "1",
+                      "ItemTitle": "一",
+                      "ItemSentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "処分を行った者の氏名、生年月日及び住所"
+                        }
+                      }
+                    },
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "2",
+                      "ItemTitle": "二",
+                      "ItemSentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "処分の内容及び処分を行った日"
+                        }
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "13",
+                "ArticleCaption": "（試験結果の報告）",
+                "ArticleTitle": "第十三条",
+                "Paragraph": {
+                  "@Hide": "false",
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "機構は、支援士試験を実施したときは、当該支援士試験を実施した日から三月以内に、様式第五による報告書並びに合格候補者の受験番号、氏名、生年月日及び支援士試験の成績を記載した合格候補者一覧表を、経済産業大臣に提出しなければならない。"
+                    }
+                  }
+                }
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "14",
+                "ArticleCaption": "（受験手数料等の納付）",
+                "ArticleTitle": "第十四条",
+                "Paragraph": [
+                  {
+                    "@Hide": "false",
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "法第十三条第一項に規定する受験手数料は、国に納付する場合にあっては第七条第一項に規定する受験願書に当該手数料の額に相当する額の収入印紙を貼ることにより、機構に納付する場合にあっては支援士試験事務規程で定めるところにより納付しなければならない。"
+                      }
+                    }
+                  },
+                  {
+                    "@Hide": "false",
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "第十条第二項に規定する交付手数料は、国に納付する場合にあっては第十条第一項に規定する申請書に当該手数料の額に相当する額の収入印紙を貼ることにより、機構に納付する場合にあっては支援士試験事務規程で定めるところにより納付しなければならない。"
+                      }
+                    }
+                  },
+                  {
+                    "@Hide": "false",
+                    "@Num": "3",
+                    "ParagraphNum": "３",
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "前項の規定により納付された手数料は、これを返還しない。"
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "15",
+                "ArticleCaption": "（経済産業大臣による支援士試験事務の実施等）",
+                "ArticleTitle": "第十五条",
+                "Paragraph": [
+                  {
+                    "@Hide": "false",
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "経済産業大臣は、機構が天災その他の事由により支援士試験事務の全部又は一部を実施することが困難となった場合において必要があると認めるときは、支援士試験事務の全部又は一部を自ら行うものとする。"
+                      }
+                    }
+                  },
+                  {
+                    "@Hide": "false",
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "機構は、経済産業大臣が前項の規定により支援士試験事務の全部又は一部を自ら行う場合には、次に掲げる事項を行わなければならない。"
+                      }
+                    },
+                    "Item": [
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "1",
+                        "ItemTitle": "一",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "支援士試験事務を経済産業大臣に引き継ぐこと"
+                          }
+                        }
+                      },
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "2",
+                        "ItemTitle": "二",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "支援士試験事務に関する帳簿及び書類を経済産業大臣に引き継ぐこと"
+                          }
+                        }
+                      },
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "3",
+                        "ItemTitle": "三",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "その他経済産業大臣が必要と認めること"
+                          }
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "16",
+                "ArticleCaption": "（公示）",
+                "ArticleTitle": "第十六条",
+                "Paragraph": {
+                  "@Hide": "false",
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "経済産業大臣は、前条第一項の規定により支援士試験事務の全部又は一部を自ら行う場合には、その旨を官報に公示しなければならない。"
+                    }
+                  }
+                }
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "17",
+                "ArticleCaption": "（登録事項等）",
+                "ArticleTitle": "第十七条",
+                "Paragraph": [
+                  {
+                    "@Hide": "false",
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "法第十五条の経済産業省令で定める事項は、次のとおりとする。"
+                      }
+                    },
+                    "Item": [
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "1",
+                        "ItemTitle": "一",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "登録番号及び登録年月日"
+                          }
+                        }
+                      },
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "2",
+                        "ItemTitle": "二",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "支援士試験に合格した年月日（支援士試験に合格した者と同等以上の能力を有すると認められる者で、第一条各号に定める者にあっては、支援士となる資格を取得した年月日）"
+                          }
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Hide": "false",
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "経済産業大臣は、機構から第三十六条の報告書の提出があったときは、講習を修了した者の修了した講習の修了年月日を情報処理安全確保支援士登録簿（以下「登録簿」という。）に記載するものとする。"
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "18",
+                "ArticleCaption": "（登録の申請）",
+                "ArticleTitle": "第十八条",
+                "Paragraph": {
+                  "@Hide": "false",
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "情報処理安全確保支援士の登録を受けようとする者は、様式第六による登録申請書に戸籍の謄本若しくは抄本又は住民票の写し（出入国管理及び難民認定法（昭和二十六年政令第三百十九号）第十九条の三各号に掲げる者については、旅券その他の身分を証する書類の写し。第二十一条第一項において同じ。）を添えて、これを経済産業大臣に提出しなければならない。"
+                    }
+                  }
+                }
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "19",
+                "ArticleCaption": "（登録）",
+                "ArticleTitle": "第十九条",
+                "Paragraph": [
+                  {
+                    "@Hide": "false",
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "経済産業大臣は、前条の申請があったときは、登録申請書の記載事項を審査し、当該申請者が情報処理安全確保支援士となる資格を有すると認めたときは、登録簿に登録し、かつ、当該申請者に様式第七による登録証を交付する。"
+                      }
+                    }
+                  },
+                  {
+                    "@Hide": "false",
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "経済産業大臣は、前項の審査の結果、当該申請者が情報処理安全確保支援士となる資格を有していないと認めたときは、その理由を付し、登録申請書を当該申請者に返却する。"
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "20",
+                "ArticleCaption": "（登録事項の変更の届出）",
+                "ArticleTitle": "第二十条",
+                "Paragraph": {
+                  "@Hide": "false",
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "情報処理安全確保支援士は、登録を受けた事項に変更があったときは、様式第八による届出書に戸籍の謄本若しくは抄本又は住民票の写し（出入国管理及び難民認定法第十九条の三各号に掲げる者については、旅券その他の身分を証する書類の写し及び当該変更が行われたことを証する書類。）を添えて、これを経済産業大臣に提出しなければならない。"
+                    }
+                  }
+                }
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "21",
+                "ArticleCaption": "（登録証再交付の申請等）",
+                "ArticleTitle": "第二十一条",
+                "Paragraph": [
+                  {
+                    "@Hide": "false",
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "情報処理安全確保支援士は、登録証を滅失し、汚損し、又は破損したときは、遅滞なく、様式第九による申請書及び戸籍の謄本若しくは抄本又は住民票の写しを、汚損又は破損した場合にあっては、当該登録証を添え、これを経済産業大臣に提出しなければならない。"
+                      }
+                    }
+                  },
+                  {
+                    "@Hide": "false",
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "情報処理安全確保支援士は、前項の申請をした後、滅失した登録証を発見したときは、速やかにこれを経済産業大臣に返納しなければならない。"
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "22",
+                "ArticleCaption": "（登録事項の変更の手数料等の納付）",
+                "ArticleTitle": "第二十二条",
+                "Paragraph": [
+                  {
+                    "@Hide": "false",
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "法第二十一条に規定する手数料は、国に納付する場合にあっては第二十条に規定する届出書又は前条第一項に規定する申請書にそれぞれ当該手数料の額に相当する額の収入印紙を貼ることにより、機構に納付する場合にあっては登録事務規程で定めるところにより納付しなければならない。"
+                      }
+                    }
+                  },
+                  {
+                    "@Hide": "false",
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "法第二十三条第三項に規定する手数料は、登録事務規程で定めるところにより納付しなければならない。"
+                      }
+                    }
+                  },
+                  {
+                    "@Hide": "false",
+                    "@Num": "3",
+                    "ParagraphNum": "３",
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "前二項の規定により納付された手数料は、これを返還しない。"
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "23",
+                "ArticleCaption": "（死亡等の届出）",
+                "ArticleTitle": "第二十三条",
+                "Paragraph": {
+                  "@Hide": "false",
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "情報処理安全確保支援士が次のいずれかに該当するに至った場合には、当該情報処理安全確保支援士又は戸籍法（昭和二十二年法律第二百二十四号）に規定する届出義務者若しくは法定代理人は、遅滞なく、登録証を添え、その旨を経済産業大臣に届け出なければならない。"
+                    }
+                  },
+                  "Item": [
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "1",
+                      "ItemTitle": "一",
+                      "ItemSentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "死亡し、又は失踪の宣告を受けた場合"
+                        }
+                      }
+                    },
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "2",
+                      "ItemTitle": "二",
+                      "ItemSentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "法第八条各号（第四号を除く。）のいずれかに該当するに至った場合"
+                        }
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "24",
+                "ArticleCaption": "（登録の消除の届出）",
+                "ArticleTitle": "第二十四条",
+                "Paragraph": {
+                  "@Hide": "false",
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "情報処理安全確保支援士は、その業を廃止しようとするときは、経済産業大臣に、その旨を届け出なければならない。"
+                    }
+                  }
+                }
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "25",
+                "ArticleCaption": "（登録の取消しの通知等）",
+                "ArticleTitle": "第二十五条",
+                "Paragraph": [
+                  {
+                    "@Hide": "false",
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "経済産業大臣は、法第十九条の規定により情報処理安全確保支援士の登録を取消し、又は期間を定めて情報処理安全確保支援士の名称の使用の停止を命じたときは、理由を付し、その旨を登録を取り消された者又は名称の使用を停止された者に通知しなければならない。"
+                      }
+                    }
+                  },
+                  {
+                    "@Hide": "false",
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "法第十九条の規定により情報処理安全確保支援士の登録を取り消された者は、前項の通知を受けた日から起算して十日以内に、登録証を経済産業大臣に返納しなければならない。"
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "26",
+                "ArticleCaption": "（機構への通知）",
+                "ArticleTitle": "第二十六条",
+                "Paragraph": {
+                  "@Hide": "false",
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "経済産業大臣は、機構が登録事務を行う場合において、法第十九条の規定により情報処理安全確保支援士の登録を取消し、又は期間を定めて情報処理安全確保支援士の名称の使用の停止を命じたときは、その旨を機構に通知しなければならない。"
+                    }
+                  }
+                }
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "27",
+                "ArticleCaption": "（登録簿の登録の訂正等）",
+                "ArticleTitle": "第二十七条",
+                "Paragraph": {
+                  "@Hide": "false",
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "経済産業大臣は、第二十条の届出があったとき、第二十三条の届出があったとき、第二十四条の届出があったとき、又は法第十九条の規定により情報処理安全確保支援士の登録を取消し、若しくは期間を定めて情報処理安全確保支援士の名称の使用の停止を命じたときは、登録簿の当該情報処理安全確保支援士に関する登録を訂正し、若しくは消除し、又は当該情報処理安全確保支援士の名称の使用の停止をした旨を登録簿に記載するとともに、それぞれ登録の訂正若しくは消除又は名称の使用の停止の年月日を記載するものとする。"
+                    }
+                  }
+                }
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "28",
+                "ArticleCaption": "（登録事務規程の記載事項）",
+                "ArticleTitle": "第二十八条",
+                "Paragraph": {
+                  "@Hide": "false",
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "法第二十三条第二項において準用する法第十一条第二項の経済産業省令で定める事項は、次に掲げるとおりとする。"
+                    }
+                  },
+                  "Item": [
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "1",
+                      "ItemTitle": "一",
+                      "ItemSentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "登録事務を行う時間及び休日に関する事項"
+                        }
+                      }
+                    },
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "2",
+                      "ItemTitle": "二",
+                      "ItemSentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "登録事務を行う場所に関する事項"
+                        }
+                      }
+                    },
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "3",
+                      "ItemTitle": "三",
+                      "ItemSentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "登録事務の実施の方法に関する事項"
+                        }
+                      }
+                    },
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "4",
+                      "ItemTitle": "四",
+                      "ItemSentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "手数料の収納の方法に関する事項"
+                        }
+                      }
+                    },
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "5",
+                      "ItemTitle": "五",
+                      "ItemSentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "登録事務に関して知り得た秘密の保持に関する事項"
+                        }
+                      }
+                    },
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "6",
+                      "ItemTitle": "六",
+                      "ItemSentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "登録事務に関する帳簿及び書類並びに登録簿の保存に関する事項"
+                        }
+                      }
+                    },
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "7",
+                      "ItemTitle": "七",
+                      "ItemSentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "講習の実施に関する事項"
+                        }
+                      }
+                    },
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "8",
+                      "ItemTitle": "八",
+                      "ItemSentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "その他登録事務の実施に関し必要な事項"
+                        }
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "29",
+                "ArticleCaption": "（帳簿の備付け等）",
+                "ArticleTitle": "第二十九条",
+                "Paragraph": {
+                  "@Hide": "false",
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "機構は、登録事務を実施したときは、各月における登録の件数、登録事項の変更の届出の件数、登録の消除の件数、登録証の訂正及び再交付の件数並びに各月の末日において登録を受けている者の人数を記載した帳簿を作成し、登録事務を廃止するまで保存しなければならない。"
+                    }
+                  }
+                }
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "30",
+                "ArticleCaption": "（登録状況の報告）",
+                "ArticleTitle": "第三十条",
+                "Paragraph": {
+                  "@Hide": "false",
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "機構は、登録事務を実施したときは、事業年度の半期ごとに、当該半期経過後遅滞なく、当該半期における登録の件数、登録事項の変更の届出の件数、登録の消除の件数、登録証の訂正及び再交付の件数並びに当該半期の末日において登録を受けている者の人数を記載した登録状況報告書を経済産業大臣に提出しなければならない。"
+                    }
+                  }
+                }
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "31",
+                "ArticleCaption": "（虚偽登録者等の報告）",
+                "ArticleTitle": "第三十一条",
+                "Paragraph": {
+                  "@Hide": "false",
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "機構は、登録事務を行う場合において、情報処理安全確保支援士が虚偽又は不正の事実に基づいて登録を受けたと思料するときは、直ちに、次に掲げる事項を記載した報告書を経済産業大臣に提出しなければならない。"
+                    }
+                  },
+                  "Item": [
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "1",
+                      "ItemTitle": "一",
+                      "ItemSentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "当該情報処理安全確保支援士に係る登録事項"
+                        }
+                      }
+                    },
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "2",
+                      "ItemTitle": "二",
+                      "ItemSentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "虚偽又は不正の事実"
+                        }
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "32",
+                "ArticleCaption": "（規定の適用）",
+                "ArticleTitle": "第三十二条",
+                "Paragraph": {
+                  "@Hide": "false",
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "機構が登録事務を行う場合における第十七条第二項、第十八条から第二十一条まで、第二十三条（同条第二号に該当する場合は除く。）、第二十四条、第二十五条第二項及び第二十七条の規定の適用については、これらの規定中「経済産業大臣」とあるのは「機構」と、第十七条第二項中「機構から第三十六条の報告書の提出があった」とあるのは「第三十五条の規定により講習の課程が修了したことを証する書面を交付した」と、第二十七条中「法第十九条の規定により」とあるのは「法第十九条の規定により経済産業大臣が」と、「停止をした」とあるのは「停止があった」とする。"
+                    }
+                  }
+                }
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "33",
+                "ArticleCaption": "（準用）",
+                "ArticleTitle": "第三十三条",
+                "Paragraph": {
+                  "@Hide": "false",
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": [
+                      {
+                        "@Num": "1",
+                        "@WritingMode": "vertical",
+                        "#text": "第五条、第十五条及び第十六条の規定は、機構が登録事務を行う場合について準用する。"
+                      },
+                      {
+                        "@Num": "2",
+                        "@WritingMode": "vertical",
+                        "#text": "この場合において、これらの規定中「支援士試験事務」とあるのは「登録事務」と、「支援士試験事務規程」とあるのは「登録事務規程」と、第五条（見出しを含む。）中「試験事務規程」とあるのは「登録事務規程」と、「法第十一条第一項」とあるのは「法第二十三条第二項において準用する法第十一条第一項」と、「支援士試験事務の実施に関する規程」とあるのは「登録の実施に関する事務（以下「登録事務」という。）の実施に関する規程」と、第十五条第二項第二号中「及び書類」とあるのは「、書類及び情報処理安全確保支援士登録簿」と読み替えるものとする。"
+                      }
+                    ]
+                  }
+                }
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "34",
+                "ArticleCaption": "（講習）",
+                "ArticleTitle": "第三十四条",
+                "Paragraph": {
+                  "@Hide": "false",
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "法第二十六条に基づき機構の行うサイバーセキュリティに関する講習（以下単に「講習」という。）を受講する情報処理安全確保支援士は、法第二十三条第二項において準用する法第十一条により定められた登録事務規程に従わなければならない。"
+                    }
+                  }
+                }
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "35",
+                "ArticleCaption": "（講習修了証）",
+                "ArticleTitle": "第三十五条",
+                "Paragraph": {
+                  "@Hide": "false",
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "機構は、講習を修了した者に対し、講習修了証を交付する。"
+                    }
+                  }
+                }
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "36",
+                "ArticleCaption": "（講習の実施結果の報告）",
+                "ArticleTitle": "第三十六条",
+                "Paragraph": {
+                  "@Hide": "false",
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "機構は、事業年度の半期ごとに、当該半期経過後遅滞なく、講習を修了した者の氏名、情報処理安全確保支援士の登録番号及び修了した講習の修了年月日を記載した報告書を経済産業大臣に提出しなければならない。"
+                    }
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "2",
+            "ChapterTitle": "第二章　情報処理技術者試験",
+            "Article": [
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "37",
+                "ArticleCaption": "（試験の区分等）",
+                "ArticleTitle": "第三十七条",
+                "Paragraph": [
+                  {
+                    "@Hide": "false",
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "法第二十九条第一項の情報処理技術者試験（以下「技術者試験」という。）の区分、科目並びに対象となる知識及び技能は、別表のとおりとする。"
+                      }
+                    }
+                  },
+                  {
+                    "@Hide": "false",
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "技術者試験は、筆記試験又は電子計算機その他の機器を使用して行う試験により行うものとする。"
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "38",
+                "ArticleCaption": "（情報処理技術者試験の一部免除）",
+                "ArticleTitle": "第三十八条",
+                "Paragraph": {
+                  "@Hide": "false",
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "次の各号のいずれかに該当する者に対しては、その申請により、それぞれ当該各号に掲げる科目を免除する。"
+                    }
+                  },
+                  "Item": [
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "1",
+                      "ItemTitle": "一",
+                      "ItemSentence": {
+                        "Column": [
+                          {
+                            "@LineBreak": "false",
+                            "@Num": "1",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "支援士試験に合格した者（当該試験に係る第八条第二項の公示が行われた日から起算して二年以内に高度試験を受ける場合に限る。）"
+                            }
+                          },
+                          {
+                            "@LineBreak": "false",
+                            "@Num": "2",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "前条第一項別表の高度試験の区分のうち第一号に規定する科目"
+                            }
+                          }
+                        ]
+                      }
+                    },
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "2",
+                      "ItemTitle": "二",
+                      "ItemSentence": {
+                        "Column": [
+                          {
+                            "@LineBreak": "false",
+                            "@Num": "1",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "支援士試験を受験した者であって、当該試験の情報処理システムに係る業務に関する共通的知識において経済産業大臣が定める基準に達する成績を得た者（当該試験に係る第八条第二項の公示が行われた日から起算して二年以内に高度試験を受ける場合に限る。）"
+                            }
+                          },
+                          {
+                            "@LineBreak": "false",
+                            "@Num": "2",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "前条第一項別表の高度試験の区分のうち第一号に規定する科目"
+                            }
+                          }
+                        ]
+                      }
+                    },
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "3",
+                      "ItemTitle": "三",
+                      "ItemSentence": {
+                        "Column": [
+                          {
+                            "@LineBreak": "false",
+                            "@Num": "1",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "応用情報技術者試験に合格した者（当該試験に係る第三十九条により読み替えられた第八条第二項の公示が行われた日から起算して二年以内に高度試験を受ける場合に限る。）"
+                            }
+                          },
+                          {
+                            "@LineBreak": "false",
+                            "@Num": "2",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "前条第一項別表の高度試験の区分のうち、第一号に規定する科目"
+                            }
+                          }
+                        ]
+                      }
+                    },
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "4",
+                      "ItemTitle": "四",
+                      "ItemSentence": {
+                        "Column": [
+                          {
+                            "@LineBreak": "false",
+                            "@Num": "1",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "高度試験のいずれか一の試験に合格した者（当該試験に係る第三十九条により読み替えられた第八条第二項の公示が行われた日から起算して二年以内に高度試験を受ける場合に限る。）"
+                            }
+                          },
+                          {
+                            "@LineBreak": "false",
+                            "@Num": "2",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "前条第一項別表の高度試験の区分のうち第一号に規定する科目"
+                            }
+                          }
+                        ]
+                      }
+                    },
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "5",
+                      "ItemTitle": "五",
+                      "ItemSentence": {
+                        "Column": [
+                          {
+                            "@LineBreak": "false",
+                            "@Num": "1",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "高度試験のいずれか一の試験を受験した者であって、当該試験の情報処理システムに係る業務に関する共通的知識において経済産業大臣の定める基準に達する成績を得た者（当該試験に係る第三十九条により読み替えられた第八条第二項の公示が行われた日から起算して二年以内に高度試験を受ける場合に限る。）"
+                            }
+                          },
+                          {
+                            "@LineBreak": "false",
+                            "@Num": "2",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "前条第一項別表の高度試験の区分のうち第一号に規定する科目"
+                            }
+                          }
+                        ]
+                      }
+                    },
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "6",
+                      "ItemTitle": "六",
+                      "ItemSentence": {
+                        "Column": [
+                          {
+                            "@LineBreak": "false",
+                            "@Num": "1",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "前各号に掲げる者のほか、前条第一項別表に掲げる試験の区分及び科目に応じ情報処理に関して必要な知識及び技能を有する者として経済産業大臣が定める者"
+                            }
+                          },
+                          {
+                            "@LineBreak": "false",
+                            "@Num": "2",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "経済産業大臣が定める科目"
+                            }
+                          }
+                        ]
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "@Num": "39",
+                "ArticleCaption": "（準用）",
+                "ArticleTitle": "第三十九条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": [
+                      {
+                        "@Num": "1",
+                        "#text": "第四条から第十六条までの規定は、情報処理技術者試験について準用する。"
+                      },
+                      {
+                        "@Num": "2",
+                        "#text": "この場合において、これら規定中「支援士試験」とあるのは「技術者試験」と、「支援士試験事務」とあるのは「技術者試験事務」と、「支援士試験事務規程」とあるのは「技術者試験事務規程」と、第五条中「法第十一条第一項」とあるのは「法第二十九条第三項により読み替えられた法第十一条第一項」と、第六条中「法第十一条第二項」とあるのは「法第二十九条第三項により読み替えられた法第十一条第二項」と、第七条中「様式第一」とあるのは「様式第十」と、第八条中「様式第二」とあるのは「様式第十一」と、第十条中「様式第三」とあるのは「様式第十二」と、「様式第四」とあるのは「様式第十三」と、第十一条中「法第十二条第三項」とあるのは「法第二十九条第三項により読み替えられた法第十二条第三項」と、第十二条中「法第十二条第二項」とあるのは「法第二十九条第三項により読み替えられた法第十二条第二項」と、第十三条中「様式第五」とあるのは「様式第十四」と、第十四条中「法第十三条第一項」とあるのは「法第二十九条第三項により読み替えられた法第十三条第一項」と読み替えるものとする。"
+                      }
+                    ]
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "3",
+            "ChapterTitle": "第三章　独立行政法人情報処理推進機構の業務",
+            "Article": [
+              {
+                "@Num": "40",
+                "ArticleCaption": "（公表の方法）",
+                "ArticleTitle": "第四十条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "法第四十三条第四項に規定する経済産業省令で定める公表の方法は、機構がインターネットの利用その他適切な手段により一般に公表する方法とする。"
+                  }
+                }
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "41",
+                "ArticleCaption": "（委任規定）",
+                "ArticleTitle": "第四十一条",
+                "Paragraph": {
+                  "@Hide": "false",
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "前条に定めるもののほか、公表の方法及び手続に必要な事項については、経済産業大臣の定めるところによる。"
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        ]
+      },
+      "SupplProvision": [
+        {
+          "SupplProvisionLabel": "附　則",
+          "Article": [
+            {
+              "@Delete": "false",
+              "@Hide": "false",
+              "@Num": "1",
+              "ArticleCaption": "（施行期日）",
+              "ArticleTitle": "第一条",
+              "Paragraph": {
+                "@Hide": "false",
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "この省令は、公布の日から施行する。"
+                  }
+                }
+              }
+            },
+            {
+              "@Delete": "false",
+              "@Hide": "false",
+              "@Num": "2",
+              "ArticleCaption": "（情報処理安全確保支援士試験の回数の経過措置）",
+              "ArticleTitle": "第二条",
+              "Paragraph": {
+                "@Hide": "false",
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "第四条第一項の規定は、平成二十八年度の情報処理安全確保支援士試験（以下「支援士試験」という。）の回数については、適用しない。"
+                  }
+                }
+              }
+            },
+            {
+              "@Delete": "false",
+              "@Hide": "false",
+              "@Num": "3",
+              "ArticleCaption": "（情報処理安全確保支援士試験科目免除の経過措置）",
+              "ArticleTitle": "第三条",
+              "Paragraph": {
+                "@Hide": "false",
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "この省令による改正後の情報処理の促進に関する法律施行規則（以下「新規則」という。）第三条第三号及び第四号の規定の適用については、この省令の施行の日から平成三十一年三月三十一日までの間、これらの規定中「第八条第二項」とあるのは「第八条第二項若しくは旧規則第六条第二項」と、第三条第三号中「並びに応用情報技術者試験」とあるのは「、応用情報技術者試験並びにこの省令による改正前の情報処理技術者試験規則（以下「旧規則」という。）の規定による情報セキュリティスペシャリスト試験」と、同条第四号中「高度試験の」とあるのは「高度試験及び旧規則の規定による情報セキュリティスペシャリスト試験の」とする。"
+                  }
+                }
+              }
+            },
+            {
+              "@Delete": "false",
+              "@Hide": "false",
+              "@Num": "4",
+              "ArticleCaption": "（情報処理安全確保支援士試験合格の特例）",
+              "ArticleTitle": "第四条",
+              "Paragraph": {
+                "@Hide": "false",
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "この省令による改正前の情報処理技術者試験規則（以下「旧規則」という。）の規定による情報セキュリティスペシャリスト試験又は情報処理技術者試験規則等の一部を改正する省令（平成十九年経済産業省令第七十九号）による改正前の情報処理技術者試験規則の規定によるテクニカルエンジニア（情報セキュリティ）試験に合格した者は、支援士試験に合格した者（ただし、この省令の施行の日から起算して二年を経過するまでの間に、法第十五条の登録を受ける場合に限る。）とみなす。"
+                  }
+                }
+              }
+            },
+            {
+              "@Delete": "false",
+              "@Hide": "false",
+              "@Num": "5",
+              "ArticleCaption": "（情報セキュリティスペシャリスト試験についての経過措置）",
+              "ArticleTitle": "第五条",
+              "Paragraph": {
+                "@Hide": "false",
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "この省令の施行の際現に実施された旧規則の規定による情報セキュリティスペシャリスト試験に係る事務に対する旧規則の規定の適用については、なお従前の例による。"
+                  }
+                }
+              }
+            },
+            {
+              "@Delete": "false",
+              "@Hide": "false",
+              "@Num": "6",
+              "ArticleTitle": "第六条",
+              "Paragraph": {
+                "@Hide": "false",
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "この省令の施行の日から平成三十一年三月三十一日までの間、新規則第三十八条第四号及び第五号の規定の適用については、これらの規定中「高度試験の」とあるのは「高度試験又は旧規則の規定による情報セキュリティスペシャリスト試験の」と、「法第四十一条により読み替えられた第八条第二項」とあるのは「法第四十一条により読み替えられた第八条第二項及び旧規則第六条第二項」と、第三十八条第五号中「情報処理システムに係る業務に関する共通的知識において」とあるのは「情報処理システムに係る業務に関する共通的知識又は旧規則第二条第三項に規定する免除対象科目において」とする。"
+                  }
+                }
+              }
+            },
+            {
+              "@Delete": "false",
+              "@Hide": "false",
+              "@Num": "7",
+              "ArticleCaption": "（基本情報技術者試験免除対象科目履修講座認定申請に係る経過措置）",
+              "ArticleTitle": "第七条",
+              "Paragraph": {
+                "@Hide": "false",
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "この省令の施行の際現になされている旧規則第三条第一項の規定に基づく認定の申請については、新規則第三十九条第一項の規定に基づく申請があったものとみなす。"
+                  }
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@AmendLawNum": "平成二九年九月二九日経済産業省令第七八号",
+          "@Extract": "true",
+          "@Type": "Amend",
+          "SupplProvisionLabel": "附　則",
+          "Article": [
+            {
+              "@Delete": "false",
+              "@Hide": "false",
+              "@Num": "1",
+              "ArticleCaption": "（施行期日）",
+              "ArticleTitle": "第一条",
+              "Paragraph": {
+                "@Hide": "false",
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "この省令は、公布の日から施行する。"
+                  }
+                }
+              }
+            },
+            {
+              "@Delete": "false",
+              "@Hide": "false",
+              "@Num": "2",
+              "ArticleCaption": "（講座認定者等に関する経過措置）",
+              "ArticleTitle": "第二条",
+              "Paragraph": {
+                "@Hide": "false",
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "この省令による改正前の情報処理の促進に関する法律施行規則（以下本条及び次条において「旧規則」という。）第三十八条第六号の規定に基づく経済産業大臣（独立行政法人情報処理推進機構（以下、本条において「機構」という。）が情報処理の促進に関する法律第二十九条第二項の規定により情報処理技術者試験の実施に関する事務を行う場合にあっては、機構。）の認定を受けた者は、この省令による改正後の情報処理の促進に関する法律施行規則（以下次条において「新規則」という。）第三十八条第六号の認定を受けたものとみなす。この場合において、当該認定に係る旧規則第三十九条第四項に規定する有効期間については、なお従前の例による。"
+                  }
+                }
+              }
+            },
+            {
+              "@Delete": "false",
+              "@Hide": "false",
+              "@Num": "3",
+              "ArticleTitle": "第三条",
+              "Paragraph": {
+                "@Hide": "false",
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "この省令の施行の際現になされている旧規則第三十八条第六号の規定に基づく認定の申請については、新規則第三十八条第六号の規定に基づく申請とみなす。"
+                  }
+                }
+              }
+            }
+          ]
+        }
+      ],
+      "AppdxTable": {
+        "AppdxTableTitle": {
+          "@WritingMode": "vertical",
+          "#text": "別表"
+        },
+        "RelatedArticleNum": "（第三十七条関係）",
+        "TableStruct": {
+          "Table": {
+            "@WritingMode": "vertical",
+            "TableRow": [
+              {
+                "TableColumn": [
+                  {
+                    "@Align": "center",
+                    "@BorderBottom": "solid",
+                    "@BorderLeft": "solid",
+                    "@BorderRight": "solid",
+                    "@BorderTop": "solid",
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "試験の区分"
+                    }
+                  },
+                  {
+                    "@Align": "center",
+                    "@BorderBottom": "solid",
+                    "@BorderLeft": "solid",
+                    "@BorderRight": "solid",
+                    "@BorderTop": "solid",
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "試験の科目"
+                    }
+                  },
+                  {
+                    "@Align": "center",
+                    "@BorderBottom": "solid",
+                    "@BorderLeft": "solid",
+                    "@BorderRight": "solid",
+                    "@BorderTop": "solid",
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "試験の対象となる知識及び技能"
+                    }
+                  }
+                ]
+              },
+              {
+                "TableColumn": [
+                  {
+                    "@BorderBottom": "solid",
+                    "@BorderLeft": "solid",
+                    "@BorderRight": "solid",
+                    "@BorderTop": "solid",
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "ＩＴストラテジスト試験"
+                    }
+                  },
+                  {
+                    "@BorderBottom": "solid",
+                    "@BorderLeft": "solid",
+                    "@BorderRight": "solid",
+                    "@BorderTop": "solid",
+                    "Paragraph": [
+                      {
+                        "@Hide": "false",
+                        "@Num": "1",
+                        "ParagraphNum": "一",
+                        "ParagraphSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "情報処理システムに係る業務に関する共通的知識"
+                          }
+                        }
+                      },
+                      {
+                        "@Hide": "false",
+                        "@Num": "2",
+                        "ParagraphNum": "二",
+                        "ParagraphSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "情報処理システムの開発及び情報処理システムを用いる業務その他の業務の一体的な企画に関する専門的知識"
+                          }
+                        }
+                      },
+                      {
+                        "@Hide": "false",
+                        "@Num": "3",
+                        "ParagraphNum": "三",
+                        "ParagraphSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "情報処理システムの開発及び情報処理システムを用いる業務その他の業務の一体的な企画に関する専門的能力"
+                          }
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@BorderBottom": "solid",
+                    "@BorderLeft": "solid",
+                    "@BorderRight": "solid",
+                    "@BorderTop": "solid",
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "情報処理システムの開発及び情報処理システムを用いる業務その他の活動の一体的な企画に必要な専門的知識及び技能"
+                    }
+                  }
+                ]
+              },
+              {
+                "TableColumn": [
+                  {
+                    "@BorderBottom": "solid",
+                    "@BorderLeft": "solid",
+                    "@BorderRight": "solid",
+                    "@BorderTop": "solid",
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "システムアーキテクト試験"
+                    }
+                  },
+                  {
+                    "@BorderBottom": "solid",
+                    "@BorderLeft": "solid",
+                    "@BorderRight": "solid",
+                    "@BorderTop": "solid",
+                    "Paragraph": [
+                      {
+                        "@Hide": "false",
+                        "@Num": "1",
+                        "ParagraphNum": "一",
+                        "ParagraphSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "情報処理システムに係る業務に関する共通的知識"
+                          }
+                        }
+                      },
+                      {
+                        "@Hide": "false",
+                        "@Num": "2",
+                        "ParagraphNum": "二",
+                        "ParagraphSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "情報処理システムの開発に係る企画及び情報処理システムの設計に関する専門的知識"
+                          }
+                        }
+                      },
+                      {
+                        "@Hide": "false",
+                        "@Num": "3",
+                        "ParagraphNum": "三",
+                        "ParagraphSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "情報処理システムの開発に係る企画及び情報処理システムの設計に関する専門的能力"
+                          }
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@BorderBottom": "solid",
+                    "@BorderLeft": "solid",
+                    "@BorderRight": "solid",
+                    "@BorderTop": "solid",
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "情報処理システムの開発に係る企画及び情報処理システムの設計に必要な専門的知識及び技能"
+                    }
+                  }
+                ]
+              },
+              {
+                "TableColumn": [
+                  {
+                    "@BorderBottom": "solid",
+                    "@BorderLeft": "solid",
+                    "@BorderRight": "solid",
+                    "@BorderTop": "solid",
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "プロジェクトマネージャ試験"
+                    }
+                  },
+                  {
+                    "@BorderBottom": "solid",
+                    "@BorderLeft": "solid",
+                    "@BorderRight": "solid",
+                    "@BorderTop": "solid",
+                    "Paragraph": [
+                      {
+                        "@Hide": "false",
+                        "@Num": "1",
+                        "ParagraphNum": "一",
+                        "ParagraphSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "情報処理システムに係る業務に関する共通的知識"
+                          }
+                        }
+                      },
+                      {
+                        "@Hide": "false",
+                        "@Num": "2",
+                        "ParagraphNum": "二",
+                        "ParagraphSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "情報処理システムの開発に係るプロジェクト管理に関する専門的知識"
+                          }
+                        }
+                      },
+                      {
+                        "@Hide": "false",
+                        "@Num": "3",
+                        "ParagraphNum": "三",
+                        "ParagraphSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "情報処理システムの開発に係るプロジェクト管理に関する専門的能力"
+                          }
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@BorderBottom": "solid",
+                    "@BorderLeft": "solid",
+                    "@BorderRight": "solid",
+                    "@BorderTop": "solid",
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "情報処理システムの開発に係るプロジェクト管理に必要な専門的知識及び技能"
+                    }
+                  }
+                ]
+              },
+              {
+                "TableColumn": [
+                  {
+                    "@BorderBottom": "solid",
+                    "@BorderLeft": "solid",
+                    "@BorderRight": "solid",
+                    "@BorderTop": "solid",
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "ネットワークスペシャリスト試験"
+                    }
+                  },
+                  {
+                    "@BorderBottom": "solid",
+                    "@BorderLeft": "solid",
+                    "@BorderRight": "solid",
+                    "@BorderTop": "solid",
+                    "Paragraph": [
+                      {
+                        "@Hide": "false",
+                        "@Num": "1",
+                        "ParagraphNum": "一",
+                        "ParagraphSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "情報処理システムに係る業務に関する共通的知識"
+                          }
+                        }
+                      },
+                      {
+                        "@Hide": "false",
+                        "@Num": "2",
+                        "ParagraphNum": "二",
+                        "ParagraphSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "ネットワークシステムの開発及び管理に関する専門的知識"
+                          }
+                        }
+                      },
+                      {
+                        "@Hide": "false",
+                        "@Num": "3",
+                        "ParagraphNum": "三",
+                        "ParagraphSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "ネットワークシステムの開発及び管理に関する専門的能力"
+                          }
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@BorderBottom": "solid",
+                    "@BorderLeft": "solid",
+                    "@BorderRight": "solid",
+                    "@BorderTop": "solid",
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "ネットワークシステムの開発及び管理に必要な専門的知識及び技能"
+                    }
+                  }
+                ]
+              },
+              {
+                "TableColumn": [
+                  {
+                    "@BorderBottom": "solid",
+                    "@BorderLeft": "solid",
+                    "@BorderRight": "solid",
+                    "@BorderTop": "solid",
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "データベーススペシャリスト試験"
+                    }
+                  },
+                  {
+                    "@BorderBottom": "solid",
+                    "@BorderLeft": "solid",
+                    "@BorderRight": "solid",
+                    "@BorderTop": "solid",
+                    "Paragraph": [
+                      {
+                        "@Hide": "false",
+                        "@Num": "1",
+                        "ParagraphNum": "一",
+                        "ParagraphSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "情報処理システムに係る業務に関する共通的知識"
+                          }
+                        }
+                      },
+                      {
+                        "@Hide": "false",
+                        "@Num": "2",
+                        "ParagraphNum": "二",
+                        "ParagraphSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "データベースシステムの開発及び管理に関する専門的知識"
+                          }
+                        }
+                      },
+                      {
+                        "@Hide": "false",
+                        "@Num": "3",
+                        "ParagraphNum": "三",
+                        "ParagraphSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "データベースシステムの開発及び管理に関する専門的能力"
+                          }
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@BorderBottom": "solid",
+                    "@BorderLeft": "solid",
+                    "@BorderRight": "solid",
+                    "@BorderTop": "solid",
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "データベースシステムの開発及び管理に必要な専門的知識及び技能"
+                    }
+                  }
+                ]
+              },
+              {
+                "TableColumn": [
+                  {
+                    "@BorderBottom": "solid",
+                    "@BorderLeft": "solid",
+                    "@BorderRight": "solid",
+                    "@BorderTop": "solid",
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "エンベデッドシステムスペシャリスト試験"
+                    }
+                  },
+                  {
+                    "@BorderBottom": "solid",
+                    "@BorderLeft": "solid",
+                    "@BorderRight": "solid",
+                    "@BorderTop": "solid",
+                    "Paragraph": [
+                      {
+                        "@Hide": "false",
+                        "@Num": "1",
+                        "ParagraphNum": "一",
+                        "ParagraphSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "情報処理システムに係る業務に関する共通的知識"
+                          }
+                        }
+                      },
+                      {
+                        "@Hide": "false",
+                        "@Num": "2",
+                        "ParagraphNum": "二",
+                        "ParagraphSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "エンベデッドシステムの開発に関する専門的知識"
+                          }
+                        }
+                      },
+                      {
+                        "@Hide": "false",
+                        "@Num": "3",
+                        "ParagraphNum": "三",
+                        "ParagraphSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "エンベデッドシステムの開発に関する専門的能力"
+                          }
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@BorderBottom": "solid",
+                    "@BorderLeft": "solid",
+                    "@BorderRight": "solid",
+                    "@BorderTop": "solid",
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "エンベデッドシステムの開発及び管理に必要な専門的知識及び技能"
+                    }
+                  }
+                ]
+              },
+              {
+                "TableColumn": [
+                  {
+                    "@BorderBottom": "solid",
+                    "@BorderLeft": "solid",
+                    "@BorderRight": "solid",
+                    "@BorderTop": "solid",
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "ＩＴサービスマネージャ試験"
+                    }
+                  },
+                  {
+                    "@BorderBottom": "solid",
+                    "@BorderLeft": "solid",
+                    "@BorderRight": "solid",
+                    "@BorderTop": "solid",
+                    "Paragraph": [
+                      {
+                        "@Hide": "false",
+                        "@Num": "1",
+                        "ParagraphNum": "一",
+                        "ParagraphSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "情報処理システムに係る業務に関する共通的知識"
+                          }
+                        }
+                      },
+                      {
+                        "@Hide": "false",
+                        "@Num": "2",
+                        "ParagraphNum": "二",
+                        "ParagraphSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "情報処理システムの管理に関する専門的知識"
+                          }
+                        }
+                      },
+                      {
+                        "@Hide": "false",
+                        "@Num": "3",
+                        "ParagraphNum": "三",
+                        "ParagraphSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "情報処理システムの管理に関する専門的能力"
+                          }
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@BorderBottom": "solid",
+                    "@BorderLeft": "solid",
+                    "@BorderRight": "solid",
+                    "@BorderTop": "solid",
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "情報処理システムの管理に必要な専門的知識及び技能"
+                    }
+                  }
+                ]
+              },
+              {
+                "TableColumn": [
+                  {
+                    "@BorderBottom": "solid",
+                    "@BorderLeft": "solid",
+                    "@BorderRight": "solid",
+                    "@BorderTop": "solid",
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "システム監査技術者試験"
+                    }
+                  },
+                  {
+                    "@BorderBottom": "solid",
+                    "@BorderLeft": "solid",
+                    "@BorderRight": "solid",
+                    "@BorderTop": "solid",
+                    "Paragraph": [
+                      {
+                        "@Hide": "false",
+                        "@Num": "1",
+                        "ParagraphNum": "一",
+                        "ParagraphSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "情報処理システムに係る業務に関する共通的知識"
+                          }
+                        }
+                      },
+                      {
+                        "@Hide": "false",
+                        "@Num": "2",
+                        "ParagraphNum": "二",
+                        "ParagraphSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "情報処理システムの監査に関する専門的知識"
+                          }
+                        }
+                      },
+                      {
+                        "@Hide": "false",
+                        "@Num": "3",
+                        "ParagraphNum": "三",
+                        "ParagraphSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "情報処理システムの監査に関する専門的能力"
+                          }
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@BorderBottom": "solid",
+                    "@BorderLeft": "solid",
+                    "@BorderRight": "solid",
+                    "@BorderTop": "solid",
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "情報処理システムの監査に必要な専門的知識及び技能"
+                    }
+                  }
+                ]
+              },
+              {
+                "TableColumn": [
+                  {
+                    "@BorderBottom": "solid",
+                    "@BorderLeft": "solid",
+                    "@BorderRight": "solid",
+                    "@BorderTop": "solid",
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "応用情報技術者試験"
+                    }
+                  },
+                  {
+                    "@BorderBottom": "solid",
+                    "@BorderLeft": "solid",
+                    "@BorderRight": "solid",
+                    "@BorderTop": "solid",
+                    "Paragraph": [
+                      {
+                        "@Hide": "false",
+                        "@Num": "1",
+                        "ParagraphNum": "一",
+                        "ParagraphSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "情報処理システムに係る業務に関する共通的知識"
+                          }
+                        }
+                      },
+                      {
+                        "@Hide": "false",
+                        "@Num": "2",
+                        "ParagraphNum": "二",
+                        "ParagraphSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "情報処理システムの開発及び活用に関する共通的知識"
+                          }
+                        }
+                      },
+                      {
+                        "@Hide": "false",
+                        "@Num": "3",
+                        "ParagraphNum": "三",
+                        "ParagraphSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "情報処理システムの開発及び活用に関する専門的能力"
+                          }
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@BorderBottom": "solid",
+                    "@BorderLeft": "solid",
+                    "@BorderRight": "solid",
+                    "@BorderTop": "solid",
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "情報処理システムの開発及び活用に必要な専門的知識及び技能"
+                    }
+                  }
+                ]
+              },
+              {
+                "TableColumn": [
+                  {
+                    "@BorderBottom": "solid",
+                    "@BorderLeft": "solid",
+                    "@BorderRight": "solid",
+                    "@BorderTop": "solid",
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "基本情報技術者試験"
+                    }
+                  },
+                  {
+                    "@BorderBottom": "solid",
+                    "@BorderLeft": "solid",
+                    "@BorderRight": "solid",
+                    "@BorderTop": "solid",
+                    "Paragraph": [
+                      {
+                        "@Hide": "false",
+                        "@Num": "1",
+                        "ParagraphNum": "一",
+                        "ParagraphSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "情報処理システムに係る業務に関する共通的基礎知識"
+                          }
+                        }
+                      },
+                      {
+                        "@Hide": "false",
+                        "@Num": "2",
+                        "ParagraphNum": "二",
+                        "ParagraphSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "情報処理システムの開発及び活用に関する共通的基礎知識"
+                          }
+                        }
+                      },
+                      {
+                        "@Hide": "false",
+                        "@Num": "3",
+                        "ParagraphNum": "三",
+                        "ParagraphSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "情報処理システムの開発及び活用に関する共通的基礎能力"
+                          }
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@BorderBottom": "solid",
+                    "@BorderLeft": "solid",
+                    "@BorderRight": "solid",
+                    "@BorderTop": "solid",
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "情報処理システムの開発及び活用に必要な共通的基礎知識及び基礎技能"
+                    }
+                  }
+                ]
+              },
+              {
+                "TableColumn": [
+                  {
+                    "@BorderBottom": "solid",
+                    "@BorderLeft": "solid",
+                    "@BorderRight": "solid",
+                    "@BorderTop": "solid",
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "情報セキュリティマネジメント試験"
+                    }
+                  },
+                  {
+                    "@BorderBottom": "solid",
+                    "@BorderLeft": "solid",
+                    "@BorderRight": "solid",
+                    "@BorderTop": "solid",
+                    "Paragraph": [
+                      {
+                        "@Hide": "false",
+                        "@Num": "1",
+                        "ParagraphNum": "一",
+                        "ParagraphSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "情報処理システムに係る業務に関する共通的基礎知識"
+                          }
+                        }
+                      },
+                      {
+                        "@Hide": "false",
+                        "@Num": "2",
+                        "ParagraphNum": "二",
+                        "ParagraphSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "情報処理システムを用いる業務におけるセキュリティ管理に関する共通的基礎知識"
+                          }
+                        }
+                      },
+                      {
+                        "@Hide": "false",
+                        "@Num": "3",
+                        "ParagraphNum": "三",
+                        "ParagraphSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "情報処理システムを用いる業務におけるセキュリティ管理に関する共通的基礎能力"
+                          }
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@BorderBottom": "solid",
+                    "@BorderLeft": "solid",
+                    "@BorderRight": "solid",
+                    "@BorderTop": "solid",
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "情報処理システムを用いる業務におけるセキュリティ管理に必要な共通的基礎知識及び基礎技能"
+                    }
+                  }
+                ]
+              },
+              {
+                "TableColumn": [
+                  {
+                    "@BorderBottom": "solid",
+                    "@BorderLeft": "solid",
+                    "@BorderRight": "solid",
+                    "@BorderTop": "solid",
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "ＩＴパスポート試験"
+                    }
+                  },
+                  {
+                    "@BorderBottom": "solid",
+                    "@BorderLeft": "solid",
+                    "@BorderRight": "solid",
+                    "@BorderTop": "solid",
+                    "Paragraph": {
+                      "@Hide": "false",
+                      "@Num": "1",
+                      "ParagraphNum": "一",
+                      "ParagraphSentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "情報処理システムに関する共通的基礎知識"
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "@BorderBottom": "solid",
+                    "@BorderLeft": "solid",
+                    "@BorderRight": "solid",
+                    "@BorderTop": "solid",
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "情報処理システムに関する共通的基礎知識"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      },
+      "AppdxStyle": [
+        {
+          "AppdxStyleTitle": {
+            "@WritingMode": "vertical",
+            "#text": "様式第１"
+          },
+          "RelatedArticleNum": "（第７条関係）",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/H28F15001000102_1808211808_001.pdf"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": {
+            "@WritingMode": "vertical",
+            "#text": "様式第２"
+          },
+          "RelatedArticleNum": "（第８条関係）",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/H28F15001000102_1808211808_002.pdf"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": {
+            "@WritingMode": "vertical",
+            "#text": "様式第３"
+          },
+          "RelatedArticleNum": "（第10条関係）",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/H28F15001000102_1808211808_003.pdf"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": {
+            "@WritingMode": "vertical",
+            "#text": "様式第４"
+          },
+          "RelatedArticleNum": "（第10条関係）",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/H28F15001000102_1808211808_004.pdf"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": {
+            "@WritingMode": "vertical",
+            "#text": "様式第５"
+          },
+          "RelatedArticleNum": "（第13条関係）",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/H28F15001000102_1808211808_005.pdf"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": {
+            "@WritingMode": "vertical",
+            "#text": "様式第６"
+          },
+          "RelatedArticleNum": "（第18条関係）",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/H28F15001000102_1808211808_006.pdf"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": {
+            "@WritingMode": "vertical",
+            "#text": "様式第７"
+          },
+          "RelatedArticleNum": "（第19条関係）",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/H28F15001000102_1808211808_007.pdf"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": {
+            "@WritingMode": "vertical",
+            "#text": "様式第８"
+          },
+          "RelatedArticleNum": "（第20条関係）",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/H28F15001000102_1808211808_008.pdf"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": {
+            "@WritingMode": "vertical",
+            "#text": "様式第９"
+          },
+          "RelatedArticleNum": "（第21条関係）",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/H28F15001000102_1808211808_009.pdf"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": "様式第10",
+          "RelatedArticleNum": "（第39条関係）",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/H28F15001000102_1808211808_010.pdf"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": "様式第11",
+          "RelatedArticleNum": "（第39条関係）",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/H28F15001000102_1808211808_011.pdf"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": "様式第12",
+          "RelatedArticleNum": "（第39条関係）",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/H28F15001000102_1808211808_012.pdf"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": "様式第13",
+          "RelatedArticleNum": "（第39条関係）",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/H28F15001000102_1808211808_013.pdf"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": {
+            "@WritingMode": "vertical",
+            "#text": "様式第14"
+          },
+          "RelatedArticleNum": "（第39条関係）",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/H28F15001000102_1808211808_014.pdf"
+              }
+            }
+          }
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "Law": {
+    "@Era": "Heisei",
+    "@Lang": "ja",
+    "@LawType": "Act",
+    "@Num": "45",
+    "@Year": "06",
+    "LawNum": "平成六年法律第四十五号",
+    "LawBody": {
+      "LawTitle": "裁判官の介護休暇に関する法律",
+      "MainProvision": {
+        "Article": [
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "1",
+            "ArticleCaption": "（裁判官の介護休暇）",
+            "ArticleTitle": "第一条",
+            "Paragraph": {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "裁判官の介護休暇については、次条に規定するもののほか、一般職の職員の勤務時間、休暇等に関する法律（平成六年法律第三十三号）の適用を受ける職員の例に準じ、最高裁判所規則で定める。"
+                }
+              }
+            }
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "2",
+            "ArticleCaption": "（介護休暇中の報酬）",
+            "ArticleTitle": "第二条",
+            "Paragraph": {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "裁判官は、介護休暇中は報酬を受けない。"
+                }
+              }
+            }
+          }
+        ]
+      },
+      "SupplProvision": {
+        "@Extract": "false",
+        "@Type": "New",
+        "SupplProvisionLabel": "附　則",
+        "Paragraph": {
+          "@Hide": "false",
+          "@Num": "1",
+          "ParagraphNum": null,
+          "ParagraphSentence": {
+            "Sentence": {
+              "@WritingMode": "vertical",
+              "#text": "この法律は、一般職の職員の勤務時間、休暇等に関する法律の施行の日から施行する。"
+            }
+          }
+        }
+      }
+    }
+  }
+}

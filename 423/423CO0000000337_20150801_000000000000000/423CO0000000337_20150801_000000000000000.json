@@ -1,0 +1,77 @@
+{
+  "Law": {
+    "@Era": "Heisei",
+    "@Lang": "ja",
+    "@LawType": "CabinetOrder",
+    "@Num": "337",
+    "@Year": "23",
+    "LawNum": "平成二十三年政令第三百三十七号",
+    "LawBody": {
+      "LawTitle": "調達価格等算定委員会令",
+      "EnactStatement": "内閣は、電気事業者による再生可能エネルギー電気の調達に関する特別措置法（平成二十三年法律第百八号）第三十七条の規定に基づき、この政令を制定する。",
+      "MainProvision": {
+        "Article": [
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "1",
+            "ArticleCaption": "（庶務）",
+            "ArticleTitle": "第一条",
+            "Paragraph": {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "調達価格等算定委員会（次条において「委員会」という。）の庶務は、資源エネルギー庁省エネルギー・新エネルギー部新エネルギー対策課において処理する。"
+                }
+              }
+            }
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "2",
+            "ArticleCaption": "（委員会の運営）",
+            "ArticleTitle": "第二条",
+            "Paragraph": {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "前条に定めるもののほか、議事の手続その他委員会の運営に関し必要な事項は、委員長が委員会に諮って定める。"
+                }
+              }
+            }
+          }
+        ]
+      },
+      "SupplProvision": {
+        "@Extract": "true",
+        "@Type": "New",
+        "SupplProvisionLabel": "附　則",
+        "Article": {
+          "@Delete": "false",
+          "@Hide": "false",
+          "@Num": "1",
+          "ArticleCaption": "（施行期日）",
+          "ArticleTitle": "第一条",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この政令は、電気事業者による再生可能エネルギー電気の調達に関する特別措置法附則第一条第二号に掲げる規定（附則第五条の規定を除く。）の施行の日（平成二十三年十一月十日）から施行する。"
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

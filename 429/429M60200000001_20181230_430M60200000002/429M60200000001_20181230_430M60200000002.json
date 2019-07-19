@@ -1,0 +1,1109 @@
+{
+  "Law": {
+    "@DataInfo": "1900319e04k07m03",
+    "@Era": "Heisei",
+    "@Lang": "ja",
+    "@LawType": "Rule",
+    "@Num": "001",
+    "@Year": "29",
+    "LawNum": "平成二十九年公正取引委員会規則第一号",
+    "LawBody": {
+      "LawTitle": "公正取引委員会の確約手続に関する規則",
+      "EnactStatement": "私的独占の禁止及び公正取引の確保に関する法律（昭和二十二年法律第五十四号）の規定に基づき、公正取引委員会の確約手続に関する規則を次のように定める。",
+      "TOC": {
+        "TOCLabel": "目次",
+        "TOCChapter": [
+          {
+            "@Num": "1",
+            "ChapterTitle": "第一章　総則",
+            "ArticleRange": "（第一条―第六条）"
+          },
+          {
+            "@Num": "2",
+            "ChapterTitle": "第二章　法第四十八条の二の規定による通知",
+            "ArticleRange": "（第七条）"
+          },
+          {
+            "@Num": "3",
+            "ChapterTitle": "第三章　排除措置計画",
+            "TOCSection": [
+              {
+                "@Num": "1",
+                "SectionTitle": "第一節　排除措置計画の認定の申請",
+                "ArticleRange": "（第八条―第十一条）"
+              },
+              {
+                "@Num": "2",
+                "SectionTitle": "第二節　認定",
+                "ArticleRange": "（第十二条）"
+              },
+              {
+                "@Num": "3",
+                "SectionTitle": "第三節　却下",
+                "ArticleRange": "（第十三条）"
+              },
+              {
+                "@Num": "4",
+                "SectionTitle": "第四節　認定排除措置計画の変更",
+                "ArticleRange": "（第十四条―第十九条）"
+              }
+            ]
+          },
+          {
+            "@Num": "4",
+            "ChapterTitle": "第四章　排除措置計画の認定の取消し",
+            "ArticleRange": "（第二十条）"
+          },
+          {
+            "@Num": "5",
+            "ChapterTitle": "第五章　法第四十八条の六の規定による通知",
+            "ArticleRange": "（第二十一条）"
+          },
+          {
+            "@Num": "6",
+            "ChapterTitle": "第六章　排除確保措置計画",
+            "TOCSection": [
+              {
+                "@Num": "1",
+                "SectionTitle": "第一節　排除確保措置計画の認定の申請",
+                "ArticleRange": "（第二十二条―第二十五条）"
+              },
+              {
+                "@Num": "2",
+                "SectionTitle": "第二節　認定",
+                "ArticleRange": "（第二十六条）"
+              },
+              {
+                "@Num": "3",
+                "SectionTitle": "第三節　却下",
+                "ArticleRange": "（第二十七条）"
+              },
+              {
+                "@Num": "4",
+                "SectionTitle": "第四節　認定排除確保措置計画の変更",
+                "ArticleRange": "（第二十八条―第三十三条）"
+              }
+            ]
+          },
+          {
+            "@Num": "7",
+            "ChapterTitle": "第七章　排除確保措置計画の認定の取消し",
+            "ArticleRange": "（第三十四条）"
+          },
+          {
+            "@Num": "8",
+            "ChapterTitle": "第八章　補則",
+            "ArticleRange": "（第三十五条―第三十七条）"
+          }
+        ],
+        "TOCSupplProvision": {
+          "SupplProvisionLabel": "附則"
+        }
+      },
+      "MainProvision": {
+        "Chapter": [
+          {
+            "@Num": "1",
+            "ChapterTitle": "第一章　総則",
+            "Article": [
+              {
+                "@Num": "1",
+                "ArticleCaption": "（この規則の趣旨・定義）",
+                "ArticleTitle": "第一条",
+                "Paragraph": [
+                  {
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": "公正取引委員会（以下「委員会」という。）が行う確約手続（私的独占の禁止及び公正取引の確保に関する法律（昭和二十二年法律第五十四号。以下「法」という。）第四十八条の二から第四十八条の九までの手続をいう。以下同じ。）については、法に定めるもののほか、この規則の定めるところによる。"
+                    }
+                  },
+                  {
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": "この規則において使用する用語であって、法において使用する用語と同一のものは、これと同一の意義において使用するものとする。"
+                    }
+                  }
+                ]
+              },
+              {
+                "@Num": "2",
+                "ArticleCaption": "（期間の計算）",
+                "ArticleTitle": "第二条",
+                "Paragraph": [
+                  {
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": "期間の計算については、民法（明治二十九年法律第八十九号）の期間に関する規定に従う。"
+                    }
+                  },
+                  {
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": "期間の末日が行政機関の休日に関する法律（昭和六十三年法律第九十一号）第一条第一項各号に掲げる日に当たるときは、期間は、その翌日に満了する。"
+                    }
+                  }
+                ]
+              },
+              {
+                "@Num": "3",
+                "ArticleCaption": "（用語）",
+                "ArticleTitle": "第三条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "確約手続においては、日本語を用いる。"
+                  }
+                }
+              },
+              {
+                "@Num": "4",
+                "ArticleCaption": "（公示送達の方法）",
+                "ArticleTitle": "第四条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": [
+                      {
+                        "@Num": "1",
+                        "#text": "委員会は、公示送達があったことを官報又は新聞紙に掲載することができる。"
+                      },
+                      {
+                        "@Num": "2",
+                        "#text": "外国においてすべき送達については、委員会は、官報又は新聞紙への掲載に代えて、公示送達があったことを通知することができる。"
+                      }
+                    ]
+                  }
+                }
+              },
+              {
+                "@Num": "5",
+                "ArticleCaption": "（文書の作成）",
+                "ArticleTitle": "第五条",
+                "Paragraph": [
+                  {
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": "確約手続において作成すべき文書には、特別の定めのある場合を除いて、年月日を記載して署名し、又は記名押印しなければならない。"
+                    }
+                  },
+                  {
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": "前項の文書が委員会において作成すべき謄本の場合には、当該謄本を作成した職員が、その記載に接続して当該謄本が原本と相違ない旨を付記し、かつ、これに記名押印して、毎葉に契印又はこれに準ずる措置をしなければならない。"
+                    }
+                  }
+                ]
+              },
+              {
+                "@Num": "6",
+                "ArticleCaption": "（文書の訂正）",
+                "ArticleTitle": "第六条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": [
+                      {
+                        "@Num": "1",
+                        "#text": "確約手続において文書を作成するには、文字を改変してはならない。"
+                      },
+                      {
+                        "@Num": "2",
+                        "#text": "文字を加え、削り、又は欄外に記載したときは、これに認印しなければならない。"
+                      },
+                      {
+                        "@Num": "3",
+                        "#text": "この場合において、削った部分は、これを読むことができるように字体を残さなければならない。"
+                      }
+                    ]
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "@Num": "2",
+            "ChapterTitle": "第二章　法第四十八条の二の規定による通知",
+            "Article": {
+              "@Num": "7",
+              "ArticleCaption": "（通知書の送達）",
+              "ArticleTitle": "第七条",
+              "Paragraph": {
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": "法第四十八条の二の規定による通知は、疑いの理由となった行為をしている者又はその代理人に対し、同条各号に掲げる事項を記載した文書を送達して行うものとする。"
+                }
+              }
+            }
+          },
+          {
+            "@Num": "3",
+            "ChapterTitle": "第三章　排除措置計画",
+            "Section": [
+              {
+                "@Num": "1",
+                "SectionTitle": "第一節　排除措置計画の認定の申請",
+                "Article": [
+                  {
+                    "@Num": "8",
+                    "ArticleCaption": "（排除措置計画の認定の申請方法）",
+                    "ArticleTitle": "第八条",
+                    "Paragraph": [
+                      {
+                        "@Num": "1",
+                        "ParagraphNum": null,
+                        "ParagraphSentence": {
+                          "Sentence": "法第四十八条の三第一項の規定による申請をしようとする者は、様式第一号による申請書を委員会に提出しなければならない。"
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "ParagraphNum": "２",
+                        "ParagraphSentence": {
+                          "Sentence": [
+                            {
+                              "@Num": "1",
+                              "#text": "前項の申請書には、次の各号に掲げる書類を添付するものとする。"
+                            },
+                            {
+                              "@Num": "2",
+                              "#text": "この場合において、当該書類が日本語で作成されていないものであるときは、当該書類に日本語の翻訳文を添えなければならない。"
+                            }
+                          ]
+                        },
+                        "Item": [
+                          {
+                            "@Num": "1",
+                            "ItemTitle": "一",
+                            "ItemSentence": {
+                              "Sentence": "排除措置が疑いの理由となった行為を排除するために十分なものであることを示す書類"
+                            }
+                          },
+                          {
+                            "@Num": "2",
+                            "ItemTitle": "二",
+                            "ItemSentence": {
+                              "Sentence": "排除措置が確実に実施されると見込まれるものであることを示す書類"
+                            }
+                          },
+                          {
+                            "@Num": "3",
+                            "ItemTitle": "三",
+                            "ItemSentence": {
+                              "Sentence": "その他委員会が法第四十八条の三第三項の認定をするため参考となるべき事項を記載した書類"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@Num": "9",
+                    "ArticleTitle": "第九条",
+                    "Paragraph": {
+                      "@Num": "1",
+                      "ParagraphNum": null,
+                      "ParagraphSentence": {
+                        "Sentence": [
+                          {
+                            "@Function": "main",
+                            "@Num": "1",
+                            "#text": "法第四十八条の三第一項の規定による申請をした者（以下この節から第三節までにおいて「申請者」という。）は、申請書類の記載事項に変更がある場合は、同項の期間が経過する日までに、変更内容を記載した報告書を委員会に提出することができる。"
+                          },
+                          {
+                            "@Function": "proviso",
+                            "@Num": "2",
+                            "#text": "ただし、既にその申請に係る処分がされているときは、この限りでない。"
+                          }
+                        ]
+                      }
+                    }
+                  },
+                  {
+                    "@Num": "10",
+                    "ArticleTitle": "第十条",
+                    "Paragraph": {
+                      "@Num": "1",
+                      "ParagraphNum": null,
+                      "ParagraphSentence": {
+                        "Sentence": "前二条の規定により文書を提出する場合には、次の各号に掲げるいずれかの方法により、又はそれらの方法の併用により委員会に提出しなければならない。"
+                      },
+                      "Item": [
+                        {
+                          "@Num": "1",
+                          "ItemTitle": "一",
+                          "ItemSentence": {
+                            "Sentence": "直接持参する方法"
+                          }
+                        },
+                        {
+                          "@Num": "2",
+                          "ItemTitle": "二",
+                          "ItemSentence": {
+                            "Sentence": "書留郵便、民間事業者による信書の送達に関する法律（平成十四年法律第九十九号）第二条第六項に規定する一般信書便事業者若しくは同条第九項に規定する特定信書便事業者による同条第二項に規定する信書便の役務であって当該一般信書便事業者若しくは当該特定信書便事業者において引受け及び配達の記録を行うもの又はこれらに準ずる方法により送付する方法"
+                          }
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "@Num": "11",
+                    "ArticleTitle": "第十一条",
+                    "Paragraph": {
+                      "@Num": "1",
+                      "ParagraphNum": null,
+                      "ParagraphSentence": {
+                        "Sentence": "申請者は、申請をした日からその申請に係る処分がされるまでの間、いつでも、第八条第二項第三号に規定する書類の提出を追加して行うことができる。"
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "@Num": "2",
+                "SectionTitle": "第二節　認定",
+                "Article": {
+                  "@Num": "12",
+                  "ArticleCaption": "（認定書の送達）",
+                  "ArticleTitle": "第十二条",
+                  "Paragraph": {
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": "法第四十八条の三第五項に規定する認定書の謄本は、申請者又はその代理人にこれを送達しなければならない。"
+                    }
+                  }
+                }
+              },
+              {
+                "@Num": "3",
+                "SectionTitle": "第三節　却下",
+                "Article": {
+                  "@Num": "13",
+                  "ArticleCaption": "（決定書の送達等）",
+                  "ArticleTitle": "第十三条",
+                  "Paragraph": [
+                    {
+                      "@Num": "1",
+                      "ParagraphNum": null,
+                      "ParagraphSentence": {
+                        "Sentence": "法第四十八条の三第七項において読み替えて準用する同条第五項に規定する決定書の謄本は、申請者又はその代理人にこれを送達しなければならない。"
+                      }
+                    },
+                    {
+                      "@Num": "2",
+                      "ParagraphNum": "２",
+                      "ParagraphSentence": {
+                        "Sentence": "前項の決定書には、次に掲げる事項を記載するものとする。"
+                      },
+                      "Item": [
+                        {
+                          "@Num": "1",
+                          "ItemTitle": "一",
+                          "ItemSentence": {
+                            "Sentence": "排除措置計画の認定の申請を却下した旨"
+                          }
+                        },
+                        {
+                          "@Num": "2",
+                          "ItemTitle": "二",
+                          "ItemSentence": {
+                            "Sentence": "却下の理由"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                }
+              },
+              {
+                "@Num": "4",
+                "SectionTitle": "第四節　認定排除措置計画の変更",
+                "Article": [
+                  {
+                    "@Num": "14",
+                    "ArticleCaption": "（認定排除措置計画の変更の認定の申請方法）",
+                    "ArticleTitle": "第十四条",
+                    "Paragraph": [
+                      {
+                        "@Num": "1",
+                        "ParagraphNum": null,
+                        "ParagraphSentence": {
+                          "Sentence": "法第四十八条の三第三項の認定を受けた者であって同条第八項の規定により当該認定に係る排除措置計画（以下この節において「認定排除措置計画」という。）を変更しようとする者は、様式第二号による申請書を委員会に提出しなければならない。"
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "ParagraphNum": "２",
+                        "ParagraphSentence": {
+                          "Sentence": [
+                            {
+                              "@Num": "1",
+                              "#text": "前項の申請書には、次の各号に掲げる書類を添付するものとする。"
+                            },
+                            {
+                              "@Num": "2",
+                              "#text": "この場合において、当該書類が日本語で作成されていないものであるときは、当該書類に日本語の翻訳文を添えなければならない。"
+                            }
+                          ]
+                        },
+                        "Item": [
+                          {
+                            "@Num": "1",
+                            "ItemTitle": "一",
+                            "ItemSentence": {
+                              "Sentence": "排除措置が疑いの理由となった行為を排除するために十分なものであることを示す書類"
+                            }
+                          },
+                          {
+                            "@Num": "2",
+                            "ItemTitle": "二",
+                            "ItemSentence": {
+                              "Sentence": "排除措置が確実に実施されると見込まれるものであることを示す書類"
+                            }
+                          },
+                          {
+                            "@Num": "3",
+                            "ItemTitle": "三",
+                            "ItemSentence": {
+                              "Sentence": "その他委員会が法第四十八条の三第八項の規定による変更の認定をするため参考となるべき事項を記載した書類"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@Num": "15",
+                    "ArticleTitle": "第十五条",
+                    "Paragraph": {
+                      "@Num": "1",
+                      "ParagraphNum": null,
+                      "ParagraphSentence": {
+                        "Sentence": "認定排除措置計画の変更の認定の申請をした者（以下この節において「申請者」という。）は、申請書類の記載事項に変更がある場合は、その申請に係る処分がされるまでの間に、変更内容を記載した報告書を委員会に提出することができる。"
+                      }
+                    }
+                  },
+                  {
+                    "@Num": "16",
+                    "ArticleTitle": "第十六条",
+                    "Paragraph": {
+                      "@Num": "1",
+                      "ParagraphNum": null,
+                      "ParagraphSentence": {
+                        "Sentence": "第十条の規定は、前二条の規定により文書を提出する場合について準用する。"
+                      }
+                    }
+                  },
+                  {
+                    "@Num": "17",
+                    "ArticleTitle": "第十七条",
+                    "Paragraph": {
+                      "@Num": "1",
+                      "ParagraphNum": null,
+                      "ParagraphSentence": {
+                        "Sentence": "申請者は、申請をした日からその申請に係る処分がされるまでの間、いつでも、第十四条第二項第三号に規定する書類の提出を追加して行うことができる。"
+                      }
+                    }
+                  },
+                  {
+                    "@Num": "18",
+                    "ArticleCaption": "（認定書の送達）",
+                    "ArticleTitle": "第十八条",
+                    "Paragraph": {
+                      "@Num": "1",
+                      "ParagraphNum": null,
+                      "ParagraphSentence": {
+                        "Sentence": "法第四十八条の三第九項において準用する同条第五項に規定する認定書の謄本は、申請者又はその代理人にこれを送達しなければならない。"
+                      }
+                    }
+                  },
+                  {
+                    "@Num": "19",
+                    "ArticleCaption": "（決定書の送達等）",
+                    "ArticleTitle": "第十九条",
+                    "Paragraph": [
+                      {
+                        "@Num": "1",
+                        "ParagraphNum": null,
+                        "ParagraphSentence": {
+                          "Sentence": "法第四十八条の三第九項において準用する同条第七項において読み替えて準用する同条第五項に規定する決定書の謄本は、申請者又はその代理人にこれを送達しなければならない。"
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "ParagraphNum": "２",
+                        "ParagraphSentence": {
+                          "Sentence": "前項の決定書には、次に掲げる事項を記載するものとする。"
+                        },
+                        "Item": [
+                          {
+                            "@Num": "1",
+                            "ItemTitle": "一",
+                            "ItemSentence": {
+                              "Sentence": "認定排除措置計画の変更の認定の申請を却下した旨"
+                            }
+                          },
+                          {
+                            "@Num": "2",
+                            "ItemTitle": "二",
+                            "ItemSentence": {
+                              "Sentence": "却下の理由"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "@Num": "4",
+            "ChapterTitle": "第四章　排除措置計画の認定の取消し",
+            "Article": {
+              "@Num": "20",
+              "ArticleCaption": "（決定書の送達等）",
+              "ArticleTitle": "第二十条",
+              "Paragraph": [
+                {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "法第四十八条の五第二項において読み替えて準用する法第四十八条の三第五項に規定する決定書の謄本は、当該認定を受けた者又はその代理人に送達しなければならない。"
+                  }
+                },
+                {
+                  "@Num": "2",
+                  "ParagraphNum": "２",
+                  "ParagraphSentence": {
+                    "Sentence": "前項の決定書には、次に掲げる事項を記載するものとする。"
+                  },
+                  "Item": [
+                    {
+                      "@Num": "1",
+                      "ItemTitle": "一",
+                      "ItemSentence": {
+                        "Sentence": "排除措置計画の認定を取り消した旨"
+                      }
+                    },
+                    {
+                      "@Num": "2",
+                      "ItemTitle": "二",
+                      "ItemSentence": {
+                        "Sentence": "取消しの理由"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          },
+          {
+            "@Num": "5",
+            "ChapterTitle": "第五章　法第四十八条の六の規定による通知",
+            "Article": {
+              "@Num": "21",
+              "ArticleCaption": "（通知書の送達）",
+              "ArticleTitle": "第二十一条",
+              "Paragraph": {
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": "法第四十八条の六の規定による通知は、同条第一号に掲げる者又はその代理人に対し、同条第二号に掲げる事項を記載した文書を送達して行うものとする。"
+                }
+              }
+            }
+          },
+          {
+            "@Num": "6",
+            "ChapterTitle": "第六章　排除確保措置計画",
+            "Section": [
+              {
+                "@Num": "1",
+                "SectionTitle": "第一節　排除確保措置計画の認定の申請",
+                "Article": [
+                  {
+                    "@Num": "22",
+                    "ArticleCaption": "（排除確保措置計画の認定の申請方法）",
+                    "ArticleTitle": "第二十二条",
+                    "Paragraph": [
+                      {
+                        "@Num": "1",
+                        "ParagraphNum": null,
+                        "ParagraphSentence": {
+                          "Sentence": "法第四十八条の七第一項の規定による申請をしようとする者は、様式第三号による申請書を委員会に提出しなければならない。"
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "ParagraphNum": "２",
+                        "ParagraphSentence": {
+                          "Sentence": [
+                            {
+                              "@Num": "1",
+                              "#text": "前項の申請書には、次の各号に掲げる書類を添付するものとする。"
+                            },
+                            {
+                              "@Num": "2",
+                              "#text": "この場合において、当該書類が日本語で作成されていないものであるときは、当該書類に日本語の翻訳文を添えなければならない。"
+                            }
+                          ]
+                        },
+                        "Item": [
+                          {
+                            "@Num": "1",
+                            "ItemTitle": "一",
+                            "ItemSentence": {
+                              "Sentence": "排除確保措置が疑いの理由となった行為が排除されたことを確保するために十分なものであることを示す書類"
+                            }
+                          },
+                          {
+                            "@Num": "2",
+                            "ItemTitle": "二",
+                            "ItemSentence": {
+                              "Sentence": "排除確保措置が確実に実施されると見込まれるものであることを示す書類"
+                            }
+                          },
+                          {
+                            "@Num": "3",
+                            "ItemTitle": "三",
+                            "ItemSentence": {
+                              "Sentence": "その他委員会が法第四十八条の七第三項の認定をするため参考となるべき事項を記載した書類"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@Num": "23",
+                    "ArticleTitle": "第二十三条",
+                    "Paragraph": {
+                      "@Num": "1",
+                      "ParagraphNum": null,
+                      "ParagraphSentence": {
+                        "Sentence": [
+                          {
+                            "@Function": "main",
+                            "@Num": "1",
+                            "#text": "法第四十八条の七第一項の規定による申請をした者（以下この節から第三節までにおいて「申請者」という。）は、申請書類の記載事項に変更がある場合は、同項の期間が経過する日までに、変更内容を記載した報告書を委員会に提出することができる。"
+                          },
+                          {
+                            "@Function": "proviso",
+                            "@Num": "2",
+                            "#text": "ただし、既にその申請に係る処分がされているときは、この限りでない。"
+                          }
+                        ]
+                      }
+                    }
+                  },
+                  {
+                    "@Num": "24",
+                    "ArticleTitle": "第二十四条",
+                    "Paragraph": {
+                      "@Num": "1",
+                      "ParagraphNum": null,
+                      "ParagraphSentence": {
+                        "Sentence": "第十条の規定は、前二条の規定により文書を提出する場合について準用する。"
+                      }
+                    }
+                  },
+                  {
+                    "@Num": "25",
+                    "ArticleTitle": "第二十五条",
+                    "Paragraph": {
+                      "@Num": "1",
+                      "ParagraphNum": null,
+                      "ParagraphSentence": {
+                        "Sentence": "申請者は、申請をした日からその申請に係る処分がされるまでの間、いつでも、第二十二条第二項第三号に規定する書類の提出を追加して行うことができる。"
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "@Num": "2",
+                "SectionTitle": "第二節　認定",
+                "Article": {
+                  "@Num": "26",
+                  "ArticleCaption": "（認定書の送達）",
+                  "ArticleTitle": "第二十六条",
+                  "Paragraph": {
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": "法第四十八条の七第四項において準用する法第四十八条の三第五項に規定する認定書の謄本は、申請者又はその代理人にこれを送達しなければならない。"
+                    }
+                  }
+                }
+              },
+              {
+                "@Num": "3",
+                "SectionTitle": "第三節　却下",
+                "Article": {
+                  "@Num": "27",
+                  "ArticleCaption": "（決定書の送達等）",
+                  "ArticleTitle": "第二十七条",
+                  "Paragraph": [
+                    {
+                      "@Num": "1",
+                      "ParagraphNum": null,
+                      "ParagraphSentence": {
+                        "Sentence": "法第四十八条の七第六項において読み替えて準用する法第四十八条の三第五項に規定する決定書の謄本は、申請者又はその代理人にこれを送達しなければならない。"
+                      }
+                    },
+                    {
+                      "@Num": "2",
+                      "ParagraphNum": "２",
+                      "ParagraphSentence": {
+                        "Sentence": "前項の決定書には、次に掲げる事項を記載するものとする。"
+                      },
+                      "Item": [
+                        {
+                          "@Num": "1",
+                          "ItemTitle": "一",
+                          "ItemSentence": {
+                            "Sentence": "排除確保措置計画の認定の申請を却下した旨"
+                          }
+                        },
+                        {
+                          "@Num": "2",
+                          "ItemTitle": "二",
+                          "ItemSentence": {
+                            "Sentence": "却下の理由"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                }
+              },
+              {
+                "@Num": "4",
+                "SectionTitle": "第四節　認定排除確保措置計画の変更",
+                "Article": [
+                  {
+                    "@Num": "28",
+                    "ArticleCaption": "（認定排除確保措置計画の変更の認定の申請方法）",
+                    "ArticleTitle": "第二十八条",
+                    "Paragraph": [
+                      {
+                        "@Num": "1",
+                        "ParagraphNum": null,
+                        "ParagraphSentence": {
+                          "Sentence": "法第四十八条の七第三項の認定を受けた者であって同条第七項の規定により当該認定に係る排除確保措置計画（以下この節において「認定排除確保措置計画」という。）を変更しようとする者は、様式第四号による申請書を委員会に提出しなければならない。"
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "ParagraphNum": "２",
+                        "ParagraphSentence": {
+                          "Sentence": [
+                            {
+                              "@Num": "1",
+                              "#text": "前項の申請書には、次の各号に掲げる書類を添付するものとする。"
+                            },
+                            {
+                              "@Num": "2",
+                              "#text": "この場合において、当該書類が日本語で作成されていないものであるときは、当該書類に日本語の翻訳文を添えなければならない。"
+                            }
+                          ]
+                        },
+                        "Item": [
+                          {
+                            "@Num": "1",
+                            "ItemTitle": "一",
+                            "ItemSentence": {
+                              "Sentence": "排除確保措置が疑いの理由となった行為が排除されたことを確保するために十分なものであることを示す書類"
+                            }
+                          },
+                          {
+                            "@Num": "2",
+                            "ItemTitle": "二",
+                            "ItemSentence": {
+                              "Sentence": "排除確保措置が確実に実施されると見込まれるものであることを示す書類"
+                            }
+                          },
+                          {
+                            "@Num": "3",
+                            "ItemTitle": "三",
+                            "ItemSentence": {
+                              "Sentence": "その他委員会が法第四十八条の七第七項の規定による変更の認定をするため参考となるべき事項を記載した書類"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@Num": "29",
+                    "ArticleTitle": "第二十九条",
+                    "Paragraph": {
+                      "@Num": "1",
+                      "ParagraphNum": null,
+                      "ParagraphSentence": {
+                        "Sentence": "認定排除確保措置計画の変更の認定の申請をした者（以下この節において「申請者」という。）は、申請書類の記載事項に変更がある場合は、その申請に係る処分がされるまでの間に、変更内容を記載した報告書を委員会に提出することができる。"
+                      }
+                    }
+                  },
+                  {
+                    "@Num": "30",
+                    "ArticleTitle": "第三十条",
+                    "Paragraph": {
+                      "@Num": "1",
+                      "ParagraphNum": null,
+                      "ParagraphSentence": {
+                        "Sentence": "第十条の規定は、前二条の規定により文書を提出する場合について準用する。"
+                      }
+                    }
+                  },
+                  {
+                    "@Num": "31",
+                    "ArticleTitle": "第三十一条",
+                    "Paragraph": {
+                      "@Num": "1",
+                      "ParagraphNum": null,
+                      "ParagraphSentence": {
+                        "Sentence": "申請者は、申請をした日からその申請に係る処分がされるまでの間、いつでも、第二十八条第二項第三号に規定する書類の提出を追加して行うことができる。"
+                      }
+                    }
+                  },
+                  {
+                    "@Num": "32",
+                    "ArticleCaption": "（認定書の送達）",
+                    "ArticleTitle": "第三十二条",
+                    "Paragraph": {
+                      "@Num": "1",
+                      "ParagraphNum": null,
+                      "ParagraphSentence": {
+                        "Sentence": "法第四十八条の七第八項において準用する同条第四項において準用する法第四十八条の三第五項に規定する認定書の謄本は、申請者又はその代理人にこれを送達しなければならない。"
+                      }
+                    }
+                  },
+                  {
+                    "@Num": "33",
+                    "ArticleCaption": "（決定書の送達等）",
+                    "ArticleTitle": "第三十三条",
+                    "Paragraph": [
+                      {
+                        "@Num": "1",
+                        "ParagraphNum": null,
+                        "ParagraphSentence": {
+                          "Sentence": "法第四十八条の七第八項において準用する同条第六項において読み替えて準用する法第四十八条の三第五項に規定する決定書の謄本は、申請者又はその代理人にこれを送達しなければならない。"
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "ParagraphNum": "２",
+                        "ParagraphSentence": {
+                          "Sentence": "前項の決定書には、次に掲げる事項を記載するものとする。"
+                        },
+                        "Item": [
+                          {
+                            "@Num": "1",
+                            "ItemTitle": "一",
+                            "ItemSentence": {
+                              "Sentence": "認定排除確保措置計画の変更の認定の申請を却下した旨"
+                            }
+                          },
+                          {
+                            "@Num": "2",
+                            "ItemTitle": "二",
+                            "ItemSentence": {
+                              "Sentence": "却下の理由"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "@Num": "7",
+            "ChapterTitle": "第七章　排除確保措置計画の認定の取消し",
+            "Article": {
+              "@Num": "34",
+              "ArticleCaption": "（決定書の送達等）",
+              "ArticleTitle": "第三十四条",
+              "Paragraph": [
+                {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "法第四十八条の九第二項において読み替えて準用する法第四十八条の三第五項に規定する決定書の謄本は、当該認定を受けた者又はその代理人に送達しなければならない。"
+                  }
+                },
+                {
+                  "@Num": "2",
+                  "ParagraphNum": "２",
+                  "ParagraphSentence": {
+                    "Sentence": "前項の決定書には、次に掲げる事項を記載するものとする。"
+                  },
+                  "Item": [
+                    {
+                      "@Num": "1",
+                      "ItemTitle": "一",
+                      "ItemSentence": {
+                        "Sentence": "排除確保措置計画の認定を取り消した旨"
+                      }
+                    },
+                    {
+                      "@Num": "2",
+                      "ItemTitle": "二",
+                      "ItemSentence": {
+                        "Sentence": "取消しの理由"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          },
+          {
+            "@Num": "8",
+            "ChapterTitle": "第八章　補則",
+            "Article": [
+              {
+                "@Num": "35",
+                "ArticleCaption": "（文書のファクシミリによる提出）",
+                "ArticleTitle": "第三十五条",
+                "Paragraph": [
+                  {
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": "確約手続において提出すべき文書は、次に掲げるものを除き、ファクシミリを利用して送信することにより提出することができる。"
+                    },
+                    "Item": [
+                      {
+                        "@Num": "1",
+                        "ItemTitle": "一",
+                        "ItemSentence": {
+                          "Sentence": "申請書"
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "ItemTitle": "二",
+                        "ItemSentence": {
+                          "Sentence": "申請書に添付する書類（第十一条、第十七条、第二十五条及び第三十一条の規定により提出するものを除く。）"
+                        }
+                      },
+                      {
+                        "@Num": "3",
+                        "ItemTitle": "三",
+                        "ItemSentence": {
+                          "Sentence": "報告書"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": "ファクシミリを利用して文書が提出された場合は、委員会が受信した時に、当該文書が委員会に提出されたものとみなす。"
+                    }
+                  },
+                  {
+                    "@Num": "3",
+                    "ParagraphNum": "３",
+                    "ParagraphSentence": {
+                      "Sentence": "委員会は、前項に規定する場合において、必要があると認めるときは、提出者に対し、送信に使用した文書を提出させることができる。"
+                    }
+                  }
+                ]
+              },
+              {
+                "@Num": "36",
+                "ArticleCaption": "（申請の取下げ）",
+                "ArticleTitle": "第三十六条",
+                "Paragraph": [
+                  {
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": "この規則の規定による申請は、当該申請に係る処分がされるまでは、いつでも取り下げることができる。"
+                    }
+                  },
+                  {
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": "前項の規定による申請の取下げは、書面でしなければならない。"
+                    }
+                  }
+                ]
+              },
+              {
+                "@Num": "37",
+                "ArticleCaption": "（更正決定）",
+                "ArticleTitle": "第三十七条",
+                "Paragraph": [
+                  {
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": "認定書又は決定書に誤記その他明白な誤りがあるときは、委員会は、職権又は申立てにより、更正決定をすることができる。"
+                    }
+                  },
+                  {
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": "更正決定に対しては、更正決定書の謄本の送達を受けた日から二週間以内に、委員会に対し、文書をもって異議の申立てをすることができる。"
+                    }
+                  },
+                  {
+                    "@Num": "3",
+                    "ParagraphNum": "３",
+                    "ParagraphSentence": {
+                      "Sentence": "委員会は、前項の異議申立てを却下したときは、これを申立人に通知しなければならない。"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "SupplProvision": [
+        {
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この規則は、環太平洋パートナーシップ協定の締結及び環太平洋パートナーシップに関する包括的及び先進的な協定の締結に伴う関係法律の整備に関する法律（平成二十八年法律第百八号）の施行の日から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成三〇年七月一八日公正取引委員会規則第二号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この規則は、公布の日から施行する。"
+            }
+          }
+        }
+      ]
+    }
+  }
+}

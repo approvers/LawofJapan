@@ -1,0 +1,794 @@
+{
+  "Law": {
+    "@Era": "Heisei",
+    "@Lang": "ja",
+    "@LawType": "CabinetOrder",
+    "@Num": "188",
+    "@Year": "24",
+    "LawNum": "平成二十四年政令第百八十八号",
+    "LawBody": {
+      "LawTitle": "国民年金及び企業年金等による高齢期における所得の確保を支援するための国民年金法等の一部を改正する法律の一部の施行に伴う経過措置に関する政令",
+      "EnactStatement": "内閣は、国民年金及び企業年金等による高齢期における所得の確保を支援するための国民年金法等の一部を改正する法律（平成二十三年法律第九十三号）附則第二条第一項、第八項及び第十一項並びに第六条の規定に基づき、この政令を制定する。",
+      "MainProvision": {
+        "Article": [
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "1",
+            "ArticleCaption": "（平成二十三年年金確保支援法附則第二条第一項に規定する政令で定める額）",
+            "ArticleTitle": "第一条",
+            "Paragraph": [
+              {
+                "@Hide": "false",
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "国民年金及び企業年金等による高齢期における所得の確保を支援するための国民年金法等の一部を改正する法律（以下「平成二十三年年金確保支援法」という。）附則第二条第一項に規定する政令で定める額は、同項の規定により同項に規定する後納保険料（以下「後納保険料」という。）を納付する月（以下この項において「納付対象月」という。）が次の表の上欄に掲げる年度に属する場合において、当該納付対象月に係る国民年金の保険料に相当する額にそれぞれ同表の下欄に定める率を乗じて得た額（この額に十円未満の端数がある場合においては、その端数金額が五円未満であるときは、これを切り捨て、その端数金額が五円以上であるときは、これを十円として計算する。）とする。"
+                  }
+                },
+                "TableStruct": {
+                  "Table": {
+                    "@WritingMode": "vertical",
+                    "TableRow": [
+                      {
+                        "TableColumn": [
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "平成十七年度"
+                            }
+                          },
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "〇・〇九六"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "TableColumn": [
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "平成十八年度"
+                            }
+                          },
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "〇・〇七七"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "TableColumn": [
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "平成十九年度"
+                            }
+                          },
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "〇・〇六一"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "TableColumn": [
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "平成二十年度"
+                            }
+                          },
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "〇・〇四七"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "TableColumn": [
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "平成二十一年度"
+                            }
+                          },
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "〇・〇三四"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "TableColumn": [
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "平成二十二年度"
+                            }
+                          },
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "〇・〇二二"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "TableColumn": [
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "平成二十三年度"
+                            }
+                          },
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "〇・〇一三"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "TableColumn": [
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "平成二十四年度"
+                            }
+                          },
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "〇・〇〇六"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                }
+              },
+              {
+                "@Hide": "false",
+                "@Num": "2",
+                "ParagraphNum": "２",
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "厚生労働大臣は、後納保険料の納付に係る期間の各月の国民年金の保険料に相当する額に前項に規定する額を加算した額（後納保険料を納付する場合に納付すべき額）を告示するものとする。"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "2",
+            "ArticleCaption": "（日本年金機構への厚生労働大臣の権限に係る事務の委任に関する国民年金法の技術的読替え）",
+            "ArticleTitle": "第二条",
+            "Paragraph": {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "平成二十三年年金確保支援法附則第二条第八項の規定により国民年金法（昭和三十四年法律第百四十一号）第百九条の四第三項、第四項、第六項及び第七項の規定を準用する場合においては、次の表の上欄に掲げる同条の規定中同表の中欄に掲げる字句は、それぞれ同表の下欄に掲げる字句に読み替えるものとする。"
+                }
+              },
+              "TableStruct": {
+                "Table": {
+                  "@WritingMode": "vertical",
+                  "TableRow": [
+                    {
+                      "TableColumn": [
+                        {
+                          "@BorderBottom": "solid",
+                          "@BorderLeft": "solid",
+                          "@BorderRight": "solid",
+                          "@BorderTop": "solid",
+                          "@rowspan": "5",
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "第百九条の四第三項"
+                          }
+                        },
+                        {
+                          "@BorderBottom": "solid",
+                          "@BorderLeft": "solid",
+                          "@BorderRight": "solid",
+                          "@BorderTop": "solid",
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "前項の規定による求めがあつた場合において必要があると認めるとき、又は機構"
+                          }
+                        },
+                        {
+                          "@BorderBottom": "solid",
+                          "@BorderLeft": "solid",
+                          "@BorderRight": "solid",
+                          "@BorderTop": "solid",
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "機構"
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "@BorderBottom": "solid",
+                          "@BorderLeft": "solid",
+                          "@BorderRight": "solid",
+                          "@BorderTop": "solid",
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "第一項各号に掲げる権限"
+                          }
+                        },
+                        {
+                          "@BorderBottom": "solid",
+                          "@BorderLeft": "solid",
+                          "@BorderRight": "solid",
+                          "@BorderTop": "solid",
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "国民年金及び企業年金等による高齢期における所得の確保を支援するための国民年金法等の一部を改正する法律附則第二条第一項の規定による厚生労働大臣の承認の権限（以下この条において「後納承認の権限」という。）"
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "@BorderBottom": "solid",
+                          "@BorderLeft": "solid",
+                          "@BorderRight": "solid",
+                          "@BorderTop": "solid",
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "の全部若しくは一部を行う"
+                          }
+                        },
+                        {
+                          "@BorderBottom": "solid",
+                          "@BorderLeft": "solid",
+                          "@BorderRight": "solid",
+                          "@BorderTop": "solid",
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "を行う"
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "@BorderBottom": "solid",
+                          "@BorderLeft": "solid",
+                          "@BorderRight": "solid",
+                          "@BorderTop": "solid",
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "若しくは不適当"
+                          }
+                        },
+                        {
+                          "@BorderBottom": "solid",
+                          "@BorderLeft": "solid",
+                          "@BorderRight": "solid",
+                          "@BorderTop": "solid",
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "又は不適当"
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "@BorderBottom": "solid",
+                          "@BorderLeft": "solid",
+                          "@BorderRight": "solid",
+                          "@BorderTop": "solid",
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "同項各号に掲げる権限の全部又は一部"
+                          }
+                        },
+                        {
+                          "@BorderBottom": "solid",
+                          "@BorderLeft": "solid",
+                          "@BorderRight": "solid",
+                          "@BorderTop": "solid",
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "後納承認の権限"
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "@BorderBottom": "solid",
+                          "@BorderLeft": "solid",
+                          "@BorderRight": "solid",
+                          "@BorderTop": "solid",
+                          "@rowspan": "3",
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "第百九条の四第四項"
+                          }
+                        },
+                        {
+                          "@BorderBottom": "solid",
+                          "@BorderLeft": "solid",
+                          "@BorderRight": "solid",
+                          "@BorderTop": "solid",
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "第一項各号に掲げる権限の全部若しくは一部"
+                          }
+                        },
+                        {
+                          "@BorderBottom": "solid",
+                          "@BorderLeft": "solid",
+                          "@BorderRight": "solid",
+                          "@BorderTop": "solid",
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "後納承認の権限"
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "@BorderBottom": "solid",
+                          "@BorderLeft": "solid",
+                          "@BorderRight": "solid",
+                          "@BorderTop": "solid",
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "又は前項"
+                          }
+                        },
+                        {
+                          "@BorderBottom": "solid",
+                          "@BorderLeft": "solid",
+                          "@BorderRight": "solid",
+                          "@BorderTop": "solid",
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "又は同項"
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "@BorderBottom": "solid",
+                          "@BorderLeft": "solid",
+                          "@BorderRight": "solid",
+                          "@BorderTop": "solid",
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "するとき（次項に規定する場合を除く。）"
+                          }
+                        },
+                        {
+                          "@BorderBottom": "solid",
+                          "@BorderLeft": "solid",
+                          "@BorderRight": "solid",
+                          "@BorderTop": "solid",
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "するとき"
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "@BorderBottom": "solid",
+                          "@BorderLeft": "solid",
+                          "@BorderRight": "solid",
+                          "@BorderTop": "solid",
+                          "@rowspan": "3",
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "第百九条の四第六項"
+                          }
+                        },
+                        {
+                          "@BorderBottom": "solid",
+                          "@BorderLeft": "solid",
+                          "@BorderRight": "solid",
+                          "@BorderTop": "solid",
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "第一項各号に掲げる権限の全部若しくは一部"
+                          }
+                        },
+                        {
+                          "@BorderBottom": "solid",
+                          "@BorderLeft": "solid",
+                          "@BorderRight": "solid",
+                          "@BorderTop": "solid",
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "後納承認の権限"
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "@BorderBottom": "solid",
+                          "@BorderLeft": "solid",
+                          "@BorderRight": "solid",
+                          "@BorderTop": "solid",
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "又は第三項"
+                          }
+                        },
+                        {
+                          "@BorderBottom": "solid",
+                          "@BorderLeft": "solid",
+                          "@BorderRight": "solid",
+                          "@BorderTop": "solid",
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "又は同項"
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "@BorderBottom": "solid",
+                          "@BorderLeft": "solid",
+                          "@BorderRight": "solid",
+                          "@BorderTop": "solid",
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "同項各号に掲げる権限"
+                          }
+                        },
+                        {
+                          "@BorderBottom": "solid",
+                          "@BorderLeft": "solid",
+                          "@BorderRight": "solid",
+                          "@BorderTop": "solid",
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "後納承認の権限"
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "@BorderBottom": "solid",
+                          "@BorderLeft": "solid",
+                          "@BorderRight": "solid",
+                          "@BorderTop": "solid",
+                          "@rowspan": "3",
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "第百九条の四第七項"
+                          }
+                        },
+                        {
+                          "@BorderBottom": "solid",
+                          "@BorderLeft": "solid",
+                          "@BorderRight": "solid",
+                          "@BorderTop": "solid",
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "前各項"
+                          }
+                        },
+                        {
+                          "@BorderBottom": "solid",
+                          "@BorderLeft": "solid",
+                          "@BorderRight": "solid",
+                          "@BorderTop": "solid",
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "第三項、第四項及び前項"
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "@BorderBottom": "solid",
+                          "@BorderLeft": "solid",
+                          "@BorderRight": "solid",
+                          "@BorderTop": "solid",
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "第一項各号に掲げる権限"
+                          }
+                        },
+                        {
+                          "@BorderBottom": "solid",
+                          "@BorderLeft": "solid",
+                          "@BorderRight": "solid",
+                          "@BorderTop": "solid",
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "後納承認の権限"
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "@BorderBottom": "solid",
+                          "@BorderLeft": "solid",
+                          "@BorderRight": "solid",
+                          "@BorderTop": "solid",
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "同項各号に掲げる権限"
+                          }
+                        },
+                        {
+                          "@BorderBottom": "solid",
+                          "@BorderLeft": "solid",
+                          "@BorderRight": "solid",
+                          "@BorderTop": "solid",
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "後納承認の権限"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "3",
+            "ArticleCaption": "（後納保険料の納付手続等）",
+            "ArticleTitle": "第三条",
+            "Paragraph": [
+              {
+                "@Hide": "false",
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "平成二十三年年金確保支援法附則第二条第一項の規定により後納保険料の納付の承認を受けようとする国民年金の被保険者又は被保険者であった者は、国民年金後納保険料納付申込書に、国民年金手帳を添えて、これを日本年金機構に提出しなければならない。"
+                  }
+                }
+              },
+              {
+                "@Hide": "false",
+                "@Num": "2",
+                "ParagraphNum": "２",
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "前項に定めるもののほか、後納保険料の納付の手続その他後納保険料の納付について必要な事項は、厚生労働省令で定める。"
+                  }
+                }
+              }
+            ]
+          }
+        ]
+      },
+      "SupplProvision": [
+        {
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": [
+            {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphCaption": "（施行期日）",
+              "ParagraphNum": "１",
+              "ParagraphSentence": {
+                "Sentence": [
+                  {
+                    "@Function": "main",
+                    "@Num": "1",
+                    "@WritingMode": "vertical",
+                    "#text": "この政令は、平成二十三年年金確保支援法附則第一条第三号に掲げる規定の施行の日（平成二十四年十月一日）から施行する。"
+                  },
+                  {
+                    "@Function": "proviso",
+                    "@Num": "2",
+                    "@WritingMode": "vertical",
+                    "#text": "ただし、次項の規定は、平成二十四年八月一日から施行する。"
+                  }
+                ]
+              }
+            },
+            {
+              "@Hide": "false",
+              "@Num": "2",
+              "ParagraphCaption": "（経過措置）",
+              "ParagraphNum": "２",
+              "ParagraphSentence": {
+                "Sentence": [
+                  {
+                    "@Num": "1",
+                    "@WritingMode": "vertical",
+                    "#text": "平成二十三年年金確保支援法附則第二条第一項の規定により後納保険料の納付の承認を受けようとする国民年金の被保険者又は被保険者であった者は、この政令の施行の日前においても、第三条の規定の例により、国民年金後納保険料納付申込書の提出を行うことができる。"
+                  },
+                  {
+                    "@Num": "2",
+                    "@WritingMode": "vertical",
+                    "#text": "この場合において、当該申込書の提出は、同日において同条の規定によりされたものとみなす。"
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "@AmendLawNum": "平成二五年三月二五日政令第七九号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この政令は、平成二十五年四月一日から施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成二六年三月三一日政令第一一二号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Article": {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "1",
+            "ArticleCaption": "（施行期日）",
+            "ArticleTitle": "第一条",
+            "Paragraph": {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "この政令は、平成二十六年四月一日から施行する。"
+                }
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成二七年三月二五日政令第八六号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Article": {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "1",
+            "ArticleCaption": "（施行期日）",
+            "ArticleTitle": "第一条",
+            "Paragraph": {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "この政令は、平成二十七年四月一日から施行する。"
+                }
+              }
+            }
+          }
+        }
+      ]
+    }
+  }
+}

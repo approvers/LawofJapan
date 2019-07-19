@@ -1,0 +1,67 @@
+{
+  "Law": {
+    "@Era": "Heisei",
+    "@Lang": "ja",
+    "@LawType": "Act",
+    "@Num": "29",
+    "@Year": "02",
+    "LawNum": "平成二年法律第二十九号",
+    "LawBody": {
+      "LawTitle": "天皇陛下御即位記念のための十万円の貨幣の発行に関する法律",
+      "MainProvision": {
+        "Article": [
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "1",
+            "ArticleTitle": "第一条",
+            "Paragraph": {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "政府は、天皇陛下御即位を記念するため、通貨の単位及び貨幣の発行等に関する法律（昭和六十二年法律第四十二号）第五条第二項に規定するもののほか、十万円の貨幣を発行することができる。"
+                }
+              }
+            }
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "2",
+            "ArticleTitle": "第二条",
+            "Paragraph": {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "前条の規定により発行する貨幣については、通貨の単位及び貨幣の発行等に関する法律第四条、第五条第三項及び第六条から第十条までの規定を適用する。"
+                }
+              }
+            }
+          }
+        ]
+      },
+      "SupplProvision": {
+        "@Extract": "false",
+        "@Type": "New",
+        "SupplProvisionLabel": "附　則",
+        "Paragraph": {
+          "@Hide": "false",
+          "@Num": "1",
+          "ParagraphNum": null,
+          "ParagraphSentence": {
+            "Sentence": {
+              "@WritingMode": "vertical",
+              "#text": "この法律は、公布の日から施行する。"
+            }
+          }
+        }
+      }
+    }
+  }
+}

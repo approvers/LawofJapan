@@ -1,0 +1,2139 @@
+{
+  "Law": {
+    "@Era": "Heisei",
+    "@Lang": "ja",
+    "@LawType": "MinisterialOrdinance",
+    "@Num": "025",
+    "@Year": "08",
+    "LawNum": "平成八年法務省令第二十五号",
+    "LawBody": {
+      "LawTitle": "更生保護事業法施行規則",
+      "EnactStatement": "更生保護事業法（平成七年法律第八十六号）の規定に基づき、及び同法を実施するため、更生保護事業法施行規則を次のように定める。",
+      "TOC": {
+        "TOCLabel": "目次",
+        "TOCChapter": [
+          {
+            "@Num": "1",
+            "ChapterTitle": "第一章　総則",
+            "ArticleRange": "（第一条―第六条）"
+          },
+          {
+            "@Num": "2",
+            "ChapterTitle": "第二章　更生保護法人",
+            "ArticleRange": "（第七条―第二十一条）"
+          },
+          {
+            "@Num": "3",
+            "ChapterTitle": "第三章　更生保護事業",
+            "ArticleRange": "（第二十二条―第二十九条）"
+          },
+          {
+            "@Num": "4",
+            "ChapterTitle": "第四章　雑則",
+            "ArticleRange": "（第三十条―第三十三条）"
+          }
+        ],
+        "TOCSupplProvision": {
+          "SupplProvisionLabel": "附則"
+        }
+      },
+      "MainProvision": {
+        "Chapter": [
+          {
+            "@Num": "1",
+            "ChapterTitle": "第一章　総則",
+            "Article": [
+              {
+                "@Num": "1",
+                "ArticleCaption": "（定義）",
+                "ArticleTitle": "第一条",
+                "Paragraph": [
+                  {
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": "この規則において「認可事業者」とは、更生保護事業法（以下「法」という。）第四十五条の認可を受けて継続保護事業を営む者をいう。"
+                    }
+                  },
+                  {
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": "この規則において「届出事業者」とは、法第四十七条の二の届出をして一時保護事業又は連絡助成事業を営む者をいう。"
+                    }
+                  },
+                  {
+                    "@Num": "3",
+                    "ParagraphNum": "３",
+                    "ParagraphSentence": {
+                      "Sentence": "この規則において「被保護者」とは、法第二条第五項に規定する被保護者をいう。"
+                    }
+                  },
+                  {
+                    "@Num": "4",
+                    "ParagraphNum": "４",
+                    "ParagraphSentence": {
+                      "Sentence": "この規則において「更生保護施設」とは、法第二条第七項に規定する更生保護施設をいう。"
+                    }
+                  },
+                  {
+                    "@Num": "5",
+                    "ParagraphNum": "５",
+                    "ParagraphSentence": {
+                      "Sentence": "この規則において「一時保護事業所」とは、法第二条第三項に規定する一時保護事業を行う事業所をいう。"
+                    }
+                  },
+                  {
+                    "@Num": "6",
+                    "ParagraphNum": "６",
+                    "ParagraphSentence": {
+                      "Sentence": "この規則において「連絡助成事業所」とは、法第二条第四項に規定する連絡助成事業を行う事業所をいう。"
+                    }
+                  },
+                  {
+                    "@Num": "7",
+                    "ParagraphNum": "７",
+                    "ParagraphSentence": {
+                      "Sentence": "この規則において「公益事業」とは、法第六条第一項に規定する公益を目的とする事業をいう。"
+                    }
+                  },
+                  {
+                    "@Num": "8",
+                    "ParagraphNum": "８",
+                    "ParagraphSentence": {
+                      "Sentence": "この規則において「収益事業」とは、法第六条第一項に規定する収益事業をいう。"
+                    }
+                  }
+                ]
+              },
+              {
+                "@Num": "2",
+                "ArticleCaption": "（所管庁）",
+                "ArticleTitle": "第二条",
+                "Paragraph": [
+                  {
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": "継続保護事業又は一時保護事業を営み、又は営もうとする者（連絡助成事業を併せ営み、又は営もうとする者を除く。）については、次に掲げるものを所管庁とし、このうち第一号に掲げるものを主たる所管庁とする。"
+                    },
+                    "Item": [
+                      {
+                        "@Num": "1",
+                        "ItemTitle": "一",
+                        "ItemSentence": {
+                          "Sentence": "主たる事務所の所在地を管轄する保護観察所の長"
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "ItemTitle": "二",
+                        "ItemSentence": {
+                          "Sentence": "更生保護施設又は一時保護事業所の所在地を管轄する保護観察所の長"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": "連絡助成事業を営み、又は営もうとする者（継続保護事業又は一時保護事業を併せ営み、又は営もうとする者を含む。）については、次に掲げるものを所管庁とし、このうち第一号又は第二号に掲げるものを主たる所管庁とする。"
+                    },
+                    "Item": [
+                      {
+                        "@Num": "1",
+                        "ItemTitle": "一",
+                        "ItemSentence": {
+                          "Sentence": "連絡助成事業の事業地域が一の保護観察所の管轄区域内である場合には、主たる事務所の所在地を管轄する保護観察所の長"
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "ItemTitle": "二",
+                        "ItemSentence": {
+                          "Sentence": "連絡助成事業の事業地域が一の地方更生保護委員会（以下「地方委員会」という。）の管轄区域内における二以上の保護観察所の管轄区域にまたがる場合には、主たる事務所の所在地を管轄する地方委員会"
+                        }
+                      },
+                      {
+                        "@Num": "3",
+                        "ItemTitle": "三",
+                        "ItemSentence": {
+                          "Sentence": "継続保護事業又は一時保護事業を併せ営み、又は営もうとする者にあっては、その更生保護施設又は一時保護事業所の所在地を管轄する保護観察所の長"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Num": "3",
+                    "ParagraphNum": "３",
+                    "ParagraphSentence": {
+                      "Sentence": "前二項の規定にかかわらず、法務大臣は、更生保護事業の態様に応じ、適当な地方委員会又は保護観察所の長を所管庁とし、及び所管庁のうち適当なものを主たる所管庁とすることができる。"
+                    }
+                  }
+                ]
+              },
+              {
+                "@Num": "3",
+                "ArticleCaption": "（会計の区分等）",
+                "ArticleTitle": "第三条",
+                "Paragraph": [
+                  {
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": [
+                        {
+                          "@Num": "1",
+                          "#text": "更生保護事業に関する会計は、他の事業に関する会計と区分して経理しなければならない。"
+                        },
+                        {
+                          "@Num": "2",
+                          "#text": "公益事業及び収益事業に関する会計についても、同様とする。"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": [
+                        {
+                          "@Num": "1",
+                          "#text": "更生保護事業に関する会計は、更生保護施設ごと、一時保護事業所ごと及び連絡助成事業所ごとの区分を明らかにして経理しなければならない。"
+                        },
+                        {
+                          "@Num": "2",
+                          "#text": "公益事業及び収益事業に関する会計についても、同様とする。"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "@Num": "3",
+                    "ParagraphNum": "３",
+                    "ParagraphSentence": {
+                      "Sentence": "更生保護事業、公益事業及び収益事業に関する会計の基準は、法務大臣が定める。"
+                    }
+                  }
+                ]
+              },
+              {
+                "@Num": "4",
+                "ArticleCaption": "（申請書等の提出）",
+                "ArticleTitle": "第四条",
+                "Paragraph": [
+                  {
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": "法の規定に基づき申請書その他の書類（以下「申請書等」という。）を法務大臣又は法第六十二条の規定により法務大臣の権限の委任を受けた地方委員会（以下「受任地方委員会」という。）に提出する場合において、主たる所管庁があるときは、これを経由しなければならない。"
+                    }
+                  },
+                  {
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": "前項の規定により主たる所管庁を経由して申請書等を提出する場合は、これを法務大臣に提出する場合にあっては、主たる所管庁が保護観察所の長であるときは所管庁の数に一を加えた数、地方委員会であるときは所管庁の数、受任地方委員会に提出する場合にあっては、これらの数からそれぞれ一を減じた数の写しを添付しなければならない。"
+                    }
+                  },
+                  {
+                    "@Num": "3",
+                    "ParagraphNum": "３",
+                    "ParagraphSentence": {
+                      "Sentence": "法務大臣又は受任地方委員会に対し同時に二以上の申請又は届出をする場合において、提出すべき申請書等の中に内容が同一である添付すべき書類があるときは、一の申請書又は届出書にこれを添付し、他の申請書又は届出書にはその旨を記載して当該書類の添付を省略することができる。"
+                    }
+                  },
+                  {
+                    "@Num": "4",
+                    "ParagraphNum": "４",
+                    "ParagraphSentence": {
+                      "Sentence": "第一項の場合において、主たる所管庁が申請書等を受け取ったときは、当該申請書等は、その受け取った日において法務大臣又は受任地方委員会に提出されたものとみなす。"
+                    }
+                  }
+                ]
+              },
+              {
+                "@Num": "5",
+                "ArticleCaption": "（申請書等の送付等）",
+                "ArticleTitle": "第五条",
+                "Paragraph": [
+                  {
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": [
+                        {
+                          "@Num": "1",
+                          "#text": "主たる所管庁は、前条第一項の規定により申請書等を受け取ったときは、速やかに、意見書を添付して、これを法務大臣（受任地方委員会がある場合は、受任地方委員会。以下「法務大臣等」という。）に送付しなければならない。"
+                        },
+                        {
+                          "@Num": "2",
+                          "#text": "この場合において、他に所管庁があるときは、その所管庁の意見書も添付しなければならない。"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": "主たる所管庁が保護観察所の長である場合において、前項の規定により申請書等を法務大臣に送付するときは、当該保護観察所の所在地を管轄する地方委員会を経由しなければならない。"
+                    }
+                  },
+                  {
+                    "@Num": "3",
+                    "ParagraphNum": "３",
+                    "ParagraphSentence": {
+                      "Sentence": "第一項前段の規定は、前項の規定により申請書等の送付を受けた地方委員会について準用する。"
+                    }
+                  }
+                ]
+              },
+              {
+                "@Num": "6",
+                "ArticleCaption": "（処分の通知等）",
+                "ArticleTitle": "第六条",
+                "Paragraph": [
+                  {
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": "法務大臣等は、申請により求められた許可、認可、承認若しくは認定をし、又はこれをしない処分をしたときは、申請者に対し、書面で通知しなければならない。"
+                    }
+                  },
+                  {
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": "法第四十一条第一項若しくは第二項、第四十二条、第四十三条、第五十三条、第五十四条、第五十六条の二第二項から第四項まで又は第五十七条の二第一項若しくは第二項の規定による処分は、書面でしなければならない。"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "@Num": "2",
+            "ChapterTitle": "第二章　更生保護法人",
+            "Article": [
+              {
+                "@Num": "7",
+                "ArticleCaption": "（公益事業及び収益事業）",
+                "ArticleTitle": "第七条",
+                "Paragraph": [
+                  {
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": "更生保護法人が法第六条第一項の規定により行う公益事業及び収益事業は、その営む更生保護事業の内容に照らし、その種類及び規模が適正なものでなければならない。"
+                    }
+                  },
+                  {
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": "法第六条第一項に規定する法務省令で定める公益事業は、次の各号に定める事業とする。"
+                    },
+                    "Item": [
+                      {
+                        "@Num": "1",
+                        "ItemTitle": "一",
+                        "ItemSentence": {
+                          "Sentence": "少年法（昭和二十三年法律第百六十八号）第二十五条第二項第三号の規定による委託を受けて補導を行う事業"
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "ItemTitle": "二",
+                        "ItemSentence": {
+                          "Sentence": "犯罪の予防又は青少年の健全育成に関し、相談に応じ、必要な助言その他の援助を行う事業"
+                        }
+                      },
+                      {
+                        "@Num": "3",
+                        "ItemTitle": "三",
+                        "ItemSentence": {
+                          "Sentence": "法第二条第二項各号に掲げる者の改善更生を助けるために、その者に対し、無料又は低額な料金で宿泊場所を供与する事業（継続保護事業として行うものを除く。）"
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "@Num": "8",
+                "ArticleCaption": "（設立の認可申請）",
+                "ArticleTitle": "第八条",
+                "Paragraph": [
+                  {
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": "法第十条の認可を受けようとする者は、様式第一号による申請書及び定款を法務大臣に提出するものとする。"
+                    }
+                  },
+                  {
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": "前項の申請書には、その設立しようとする更生保護法人に係る次に掲げる書類を添付しなければならない。"
+                    },
+                    "Item": [
+                      {
+                        "@Num": "1",
+                        "ItemTitle": "一",
+                        "ItemSentence": {
+                          "Sentence": "設立当初の財産の様式第二号による財産目録及びその財産の権利の帰属を証する書類"
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "ItemTitle": "二",
+                        "ItemSentence": {
+                          "Sentence": "設立当初の会計年度及び翌会計年度の様式第三号による事業計画書及び収支予算書"
+                        }
+                      },
+                      {
+                        "@Num": "3",
+                        "ItemTitle": "三",
+                        "ItemSentence": {
+                          "Sentence": "設立者の履歴書"
+                        }
+                      },
+                      {
+                        "@Num": "4",
+                        "ItemTitle": "四",
+                        "ItemSentence": {
+                          "Sentence": "設立代表者を定めた場合には、その権限を証する書類"
+                        }
+                      },
+                      {
+                        "@Num": "5",
+                        "ItemTitle": "五",
+                        "ItemSentence": {
+                          "Sentence": "設立についての意思の決定を証する議事録の謄本その他の書類"
+                        }
+                      },
+                      {
+                        "@Num": "6",
+                        "ItemTitle": "六",
+                        "ItemSentence": {
+                          "Sentence": "役員、評議員（評議員会を置く場合に限る。）及び職員の様式第四号による名簿"
+                        }
+                      },
+                      {
+                        "@Num": "7",
+                        "ItemTitle": "七",
+                        "ItemSentence": {
+                          "Sentence": "役員の就任承諾書及び履歴書並びに評議員の就任承諾書"
+                        }
+                      },
+                      {
+                        "@Num": "8",
+                        "ItemTitle": "八",
+                        "ItemSentence": {
+                          "Sentence": "役員が法第二十一条各号に掲げる者に該当しないことを証する書類"
+                        }
+                      },
+                      {
+                        "@Num": "9",
+                        "ItemTitle": "九",
+                        "ItemSentence": {
+                          "Sentence": "役員のうちに、それぞれの役員について、当該役員、その配偶者及び三親等内の親族が役員の総数の三分の一を超えて含まれないことを証する書類（それぞれの役員について、その配偶者又は三親等内の親族が他の役員のうちに含まれている場合には、その氏名及び続柄を併せて記載すること。）"
+                        }
+                      },
+                      {
+                        "@Num": "10",
+                        "ItemTitle": "十",
+                        "ItemSentence": {
+                          "Sentence": "法第六条第一項の規定により公益事業又は収益事業を行う場合には、当該事業の内容を明らかにする様式第五号による書類"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Num": "3",
+                    "ParagraphNum": "３",
+                    "ParagraphSentence": {
+                      "Sentence": "法務大臣は、前項に規定するもののほか、当該認可に関し必要と認める書類の提出を求めることができる。"
+                    }
+                  }
+                ]
+              },
+              {
+                "@Num": "9",
+                "ArticleCaption": "（設立時の財産目録の備付け等）",
+                "ArticleTitle": "第九条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "法第十四条の二の規定により、更生保護法人の設立の時に作成する財産目録は、様式第二号により作成し、設立当初の会計年度の翌会計年度の終了まで、主たる事務所に備え置かなければならない。"
+                  }
+                }
+              },
+              {
+                "@Num": "10",
+                "ArticleCaption": "（設立登記の届出）",
+                "ArticleTitle": "第十条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "更生保護法人は、法第十四条に規定する登記をしたときは、遅滞なく次に掲げる書類を添付した届出書を法務大臣に提出しなければならない。"
+                  },
+                  "Item": [
+                    {
+                      "@Num": "1",
+                      "ItemTitle": "一",
+                      "ItemSentence": {
+                        "Sentence": "当該登記をしたことを証する登記事項証明書"
+                      }
+                    },
+                    {
+                      "@Num": "2",
+                      "ItemTitle": "二",
+                      "ItemSentence": {
+                        "Sentence": "設立の時の様式第二号による財産目録"
+                      }
+                    },
+                    {
+                      "@Num": "3",
+                      "ItemTitle": "三",
+                      "ItemSentence": {
+                        "Sentence": "前号に掲げる財産目録に記載した土地、建物、預金及び有価証券の取得を証する書類"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "@Num": "11",
+                "ArticleCaption": "（定款の変更の認可申請）",
+                "ArticleTitle": "第十一条",
+                "Paragraph": [
+                  {
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": "更生保護法人は、法第二十七条第一項の認可を受けようとするときは、様式第六号による申請書を法務大臣等に提出するものとする。"
+                    }
+                  },
+                  {
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": "前項の申請書には、次に掲げる書類を添付しなければならない。"
+                    },
+                    "Item": [
+                      {
+                        "@Num": "1",
+                        "ItemTitle": "一",
+                        "ItemSentence": {
+                          "Sentence": "定款の変更を定めた手続を証する議事録の謄本その他の書類"
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "ItemTitle": "二",
+                        "ItemSentence": {
+                          "Sentence": "変更後の定款"
+                        }
+                      },
+                      {
+                        "@Num": "3",
+                        "ItemTitle": "三",
+                        "ItemSentence": {
+                          "Sentence": "新たな種類の公益事業又は収益事業を行う場合には、当該事業の用に供する財産の様式第二号による財産目録及びその財産の権利の帰属を証する書類、当該事業に係るその開始の日の属する会計年度及び翌会計年度の様式第三号による事業計画書及び収支予算書、当該事業に従事する職員の様式第四号による名簿並びに当該事業の内容を明らかにする様式第五号による書類"
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "@Num": "12",
+                "ArticleCaption": "（定款の変更の届出）",
+                "ArticleTitle": "第十二条",
+                "Paragraph": [
+                  {
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": "法第二十七条第一項に規定する法務省令で定める事項は、次に掲げる事項とする。"
+                    },
+                    "Item": [
+                      {
+                        "@Num": "1",
+                        "ItemTitle": "一",
+                        "ItemSentence": {
+                          "Sentence": "法第十一条第一項第三号に掲げる事項（変更前の定款に継続保護事業を行う旨の記載がある場合において、新たに一時保護事業を行う旨の記載を追加するときに限る。）"
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "ItemTitle": "二",
+                        "ItemSentence": {
+                          "Sentence": "法第十一条第一項第四号に掲げる事項（主たる事務所以外の事務所の所在地の変更の場合に限る。）"
+                        }
+                      },
+                      {
+                        "@Num": "3",
+                        "ItemTitle": "三",
+                        "ItemSentence": {
+                          "Sentence": "法第十一条第一項第七号に掲げる事項（資産の単純な増加の場合に限る。）"
+                        }
+                      },
+                      {
+                        "@Num": "4",
+                        "ItemTitle": "四",
+                        "ItemSentence": {
+                          "Sentence": "法第十一条第一項第十四号に掲げる事項"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": "法第二十七条第三項の規定による届出は、変更後の定款を添付した様式第七号による届出書を法務大臣等に提出してするものとする。"
+                    }
+                  }
+                ]
+              },
+              {
+                "@Num": "13",
+                "ArticleCaption": "（役員等の異動の届出）",
+                "ArticleTitle": "第十三条",
+                "Paragraph": [
+                  {
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": "更生保護法人は、役員又は評議員の就任、退任、住所の異動、改姓又は改名があったときは、遅滞なく様式第八号による届出書を法務大臣等に提出しなければならない。"
+                    }
+                  },
+                  {
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": "役員又は評議員が新たに就任した場合（任期満了と同時に再任した場合を除く。）には、前項の届出書には、当該役員に係る第八条第二項第七号及び第八号に掲げる書類又は当該評議員に係る同項第七号に掲げる書類を添付しなければならない。"
+                    }
+                  }
+                ]
+              },
+              {
+                "@Num": "14",
+                "ArticleCaption": "（財産目録等の備付け等）",
+                "ArticleTitle": "第十四条",
+                "Paragraph": [
+                  {
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": "法第二十九条第一項の規定により作成する書類のうち、事業成績書は様式第九号により、財産目録は様式第二号によりそれぞれ作成するものとする。"
+                    }
+                  },
+                  {
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": "法第二十九条第一項に規定する書類は、当該会計年度の翌々会計年度の終了まで、主たる事務所に備え置かなければならない。"
+                    }
+                  },
+                  {
+                    "@Num": "3",
+                    "ParagraphNum": "３",
+                    "ParagraphSentence": {
+                      "Sentence": "更生保護法人は、法第二十九条第三項の規定による請求があったときは、請求者に対し様式第九号の二による閲覧請求書の提出を求めるものとする。"
+                    }
+                  }
+                ]
+              },
+              {
+                "@Num": "15",
+                "ArticleCaption": "（解散の認可等の申請）",
+                "ArticleTitle": "第十五条",
+                "Paragraph": [
+                  {
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": "更生保護法人は、法第三十一条第二項の認可又は認定を受けようとするときは、様式第十号による申請書を法務大臣に提出するものとする。"
+                    }
+                  },
+                  {
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": "前項の申請書には、次に掲げる書類を添付しなければならない。"
+                    },
+                    "Item": [
+                      {
+                        "@Num": "1",
+                        "ItemTitle": "一",
+                        "ItemSentence": {
+                          "Sentence": "法第三十一条第一項第一号又は第三号に掲げる事由を証する議事録の謄本その他の書類"
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "ItemTitle": "二",
+                        "ItemSentence": {
+                          "Sentence": "様式第二号による財産目録及び貸借対照表"
+                        }
+                      },
+                      {
+                        "@Num": "3",
+                        "ItemTitle": "三",
+                        "ItemSentence": {
+                          "Sentence": "負債がある場合には、その内容を明らかにする書類"
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "@Num": "16",
+                "ArticleCaption": "（解散の届出等）",
+                "ArticleTitle": "第十六条",
+                "Paragraph": [
+                  {
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": "法第三十一条第三項の規定による届出は、解散及び清算人の登記をしたことを証する登記事項証明書を添付した様式第十一号による届出書を法務大臣等に提出してするものとする。"
+                    }
+                  },
+                  {
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": "法第三十一条の七の規定による届出は、当該清算人の登記をしたことを証する登記事項証明書を添付した届出書を法務大臣等に提出してするものとする。"
+                    }
+                  }
+                ]
+              },
+              {
+                "@Num": "17",
+                "ArticleCaption": "（残余財産の処分の認可申請）",
+                "ArticleTitle": "第十七条",
+                "Paragraph": [
+                  {
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": "清算人は、法第三十二条第二項の認可を受けようとするときは、様式第十二号による申請書を法務大臣等に提出するものとする。"
+                    }
+                  },
+                  {
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": "前項の申請書には、次に掲げる書類を添付しなければならない。"
+                    },
+                    "Item": [
+                      {
+                        "@Num": "1",
+                        "ItemTitle": "一",
+                        "ItemSentence": {
+                          "Sentence": "残余財産の処分の方法を定めた手続を証する議事録の謄本その他の書類"
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "ItemTitle": "二",
+                        "ItemSentence": {
+                          "Sentence": "当該財産の譲渡を受ける者の意思を明らかにする書類"
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "@Num": "18",
+                "ArticleCaption": "（清算結了の届出）",
+                "ArticleTitle": "第十八条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "法第三十二条の三の規定による届出は、次に掲げる書類を添付した届出書を法務大臣等に提出してするものとする。"
+                  },
+                  "Item": [
+                    {
+                      "@Num": "1",
+                      "ItemTitle": "一",
+                      "ItemSentence": {
+                        "Sentence": "清算結了の登記をしたことを証する登記事項証明書"
+                      }
+                    },
+                    {
+                      "@Num": "2",
+                      "ItemTitle": "二",
+                      "ItemSentence": {
+                        "Sentence": "清算に関する決算報告書"
+                      }
+                    },
+                    {
+                      "@Num": "3",
+                      "ItemTitle": "三",
+                      "ItemSentence": {
+                        "Sentence": "残余財産をその帰属先に引き渡したことを証する書類"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "@Num": "19",
+                "ArticleCaption": "（合併の認可申請）",
+                "ArticleTitle": "第十九条",
+                "Paragraph": [
+                  {
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": "更生保護法人は、法第三十四条第二項の認可を受けようとするときは、様式第十三号による申請書及び合併後存続する更生保護法人又は合併によって設立する更生保護法人の定款を法務大臣に提出するものとする。"
+                    }
+                  },
+                  {
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": "前項の申請書には、次に掲げる書類を添付しなければならない。"
+                    },
+                    "Item": [
+                      {
+                        "@Num": "1",
+                        "ItemTitle": "一",
+                        "ItemSentence": {
+                          "Sentence": "合併する各更生保護法人に係る次の書類"
+                        },
+                        "Subitem1": [
+                          {
+                            "@Num": "1",
+                            "Subitem1Title": "イ",
+                            "Subitem1Sentence": {
+                              "Sentence": "法第三十四条第一項に規定する手続を経たことを証する議事録の謄本その他の書類"
+                            }
+                          },
+                          {
+                            "@Num": "2",
+                            "Subitem1Title": "ロ",
+                            "Subitem1Sentence": {
+                              "Sentence": "様式第二号による財産目録及び貸借対照表"
+                            }
+                          },
+                          {
+                            "@Num": "3",
+                            "Subitem1Title": "ハ",
+                            "Subitem1Sentence": {
+                              "Sentence": "負債がある場合には、その内容を明らかにする書類"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "@Num": "2",
+                        "ItemTitle": "二",
+                        "ItemSentence": {
+                          "Sentence": "合併後存続する更生保護法人又は合併によって設立する更生保護法人に係る第八条第二項第一号、第二号及び第六号から第十号までに掲げる書類（合併後存続する更生保護法人については、同項第一号及び第二号に掲げる書類において「設立当初」とあるのは「合併当初」とし、引き続き役員又は評議員となる者に係る同項第七号及び第八号に掲げる書類を除く。）"
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "@Num": "20",
+                "ArticleCaption": "（合併の場合の財産目録等の備付け等）",
+                "ArticleTitle": "第二十条",
+                "Paragraph": [
+                  {
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": "法第三十五条第一項に規定する財産目録及び貸借対照表は、合併する各更生保護法人について作成し、同条第二項の規定により債権者が異議を述べることができる期間が満了するまで、それぞれの主たる事務所に備え置かなければならない。"
+                    }
+                  },
+                  {
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": "前項の財産目録は、様式第二号により作成するものとする。"
+                    }
+                  }
+                ]
+              },
+              {
+                "@Num": "21",
+                "ArticleCaption": "（合併登記の届出）",
+                "ArticleTitle": "第二十一条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "更生保護法人は、法第三十九条に規定する登記をしたときは、次に掲げる書類を添付した届出書を法務大臣に提出しなければならない。"
+                  },
+                  "Item": [
+                    {
+                      "@Num": "1",
+                      "ItemTitle": "一",
+                      "ItemSentence": {
+                        "Sentence": "当該登記をしたことを証する登記事項証明書"
+                      }
+                    },
+                    {
+                      "@Num": "2",
+                      "ItemTitle": "二",
+                      "ItemSentence": {
+                        "Sentence": "合併の時の様式第二号による財産目録"
+                      }
+                    },
+                    {
+                      "@Num": "3",
+                      "ItemTitle": "三",
+                      "ItemSentence": {
+                        "Sentence": "前号に掲げる財産目録に記載した土地、建物、預金及び有価証券（合併後存続する更生保護法人が引き続き所有するものを除く。）の取得を証する書類"
+                      }
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "@Num": "3",
+            "ChapterTitle": "第三章　更生保護事業",
+            "Article": [
+              {
+                "@Num": "22",
+                "ArticleCaption": "（継続保護事業の認可申請）",
+                "ArticleTitle": "第二十二条",
+                "Paragraph": [
+                  {
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": "法第四十五条の認可を受けようとする者は、様式第十四号による申請書を法務大臣に提出するものとする。"
+                    }
+                  },
+                  {
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": "前項の申請書には、次に掲げる書類を添付しなければならない。"
+                    },
+                    "Item": [
+                      {
+                        "@Num": "1",
+                        "ItemTitle": "一",
+                        "ItemSentence": {
+                          "Sentence": "継続保護事業の用に供する財産の様式第二号による財産目録及びその財産の権利の帰属を証する書類"
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "ItemTitle": "二",
+                        "ItemSentence": {
+                          "Sentence": "継続保護事業に係るその開始当初の会計年度及び翌会計年度の様式第三号による事業計画書及び収支予算書"
+                        }
+                      },
+                      {
+                        "@Num": "3",
+                        "ItemTitle": "三",
+                        "ItemSentence": {
+                          "Sentence": "継続保護事業を営むことについての意思の決定を証する議事録の謄本その他の書類"
+                        }
+                      },
+                      {
+                        "@Num": "4",
+                        "ItemTitle": "四",
+                        "ItemSentence": {
+                          "Sentence": "継続保護事業に従事する職員の様式第四号による名簿"
+                        }
+                      },
+                      {
+                        "@Num": "5",
+                        "ItemTitle": "五",
+                        "ItemSentence": {
+                          "Sentence": "被保護者を職業訓練その他の作業に従事させる場合には、その作業の内容を明らかにする書類"
+                        }
+                      },
+                      {
+                        "@Num": "6",
+                        "ItemTitle": "六",
+                        "ItemSentence": {
+                          "Sentence": "職業紹介事業その他行政庁の許可、認可等を必要とする事業を行う場合には、その許可、認可等を受けていることを証する書類又はその許可、認可等の申請の状況を明らかにする書類"
+                        }
+                      },
+                      {
+                        "@Num": "7",
+                        "ItemTitle": "七",
+                        "ItemSentence": {
+                          "Sentence": "更生保護法人以外の者にあっては、前各号に掲げる書類のほか、次に掲げる書類"
+                        },
+                        "Subitem1": [
+                          {
+                            "@Num": "1",
+                            "Subitem1Title": "イ",
+                            "Subitem1Sentence": {
+                              "Sentence": "法人にあっては、当該法人の登記事項証明書並びに役員及び評議員（評議員会が置かれている場合に限る。）の様式第四号による名簿"
+                            }
+                          },
+                          {
+                            "@Num": "2",
+                            "Subitem1Title": "ロ",
+                            "Subitem1Sentence": {
+                              "Sentence": "法人以外の者にあっては、その代表者又は管理人の権限を証する書類及び様式第四号による名簿"
+                            }
+                          },
+                          {
+                            "@Num": "3",
+                            "Subitem1Title": "ハ",
+                            "Subitem1Sentence": {
+                              "Sentence": "収益事業を行う場合には、当該事業の用に供する財産の様式第二号による財産目録及びその財産の権利の帰属を証する書類、当該事業に係るその開始の日の属する会計年度及び翌会計年度の様式第三号による事業計画書及び収支予算書並びに当該事業の内容を明らかにする様式第五号による書類"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@Num": "3",
+                    "ParagraphNum": "３",
+                    "ParagraphSentence": {
+                      "Sentence": "第八条第三項の規定は、第一項の申請があった場合について準用する。"
+                    }
+                  }
+                ]
+              },
+              {
+                "@Num": "23",
+                "ArticleCaption": "（処遇の基準等）",
+                "ArticleTitle": "第二十三条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "法第四十六条第一項第二号の更生保護施設の規模及び構造の基準、同項第三号の幹部職員の資格又は経験並びに第四十九条の二第四号の更生保護施設における処遇の基準は、別に法務省令で定める。"
+                  }
+                }
+              },
+              {
+                "@Num": "24",
+                "ArticleCaption": "（認可に係る事項の変更の認可申請）",
+                "ArticleTitle": "第二十四条",
+                "Paragraph": [
+                  {
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": "認可事業者が、法第四十七条第一項の認可を受けようとするときは、様式第十五号による申請書を法務大臣等に提出するものとする。"
+                    }
+                  },
+                  {
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": "前項の申請書には、その変更しようとする事項に係る第二十二条第二項第一号、第二号及び第四号から第七号までに掲げる書類並びに当該事項を変更することを定めた手続を証する議事録の謄本その他の書類を添付しなければならない。"
+                    }
+                  }
+                ]
+              },
+              {
+                "@Num": "25",
+                "ArticleCaption": "（認可に係る事項等の変更の届出）",
+                "ArticleTitle": "第二十五条",
+                "Paragraph": [
+                  {
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": "法第四十七条第一項に規定する法務省令で定める事項は、次に掲げる事項とする。"
+                    },
+                    "Item": [
+                      {
+                        "@Num": "1",
+                        "ItemTitle": "一",
+                        "ItemSentence": {
+                          "Sentence": "法第四十五条第二号に掲げる事項（主たる事務所以外の事務所の所在地の変更の場合に限る。）"
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "ItemTitle": "二",
+                        "ItemSentence": {
+                          "Sentence": "法第四十五条第七号に掲げる事項（継続保護事業の用に供する資産の単純な増加の場合に限る。）"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": "認可事業者は、前項に規定する事項を変更したときは、遅滞なく様式第十六号による届出書を法務大臣等に提出しなければならない。"
+                    }
+                  }
+                ]
+              },
+              {
+                "@Num": "26",
+                "ArticleTitle": "第二十六条",
+                "Paragraph": [
+                  {
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": [
+                        {
+                          "@Num": "1",
+                          "#text": "認可事業者は、事務所若しくは更生保護施設の所在地の表示に変更があったとき、又は実務に当たる幹部職員の改姓若しくは改名があったときは、遅滞なく様式第十六号による届出書を法務大臣等に提出しなければならない。"
+                        },
+                        {
+                          "@Num": "2",
+                          "#text": "更生保護法人以外の認可事業者の経営の責任者の住所の異動、改姓又は改名があったときも、同様とする。"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": "第十三条第一項の規定は、更生保護法人以外の法人である認可事業者の役員（経営の責任者を除く。）及び評議員について準用する。"
+                    }
+                  }
+                ]
+              },
+              {
+                "@Num": "27",
+                "ArticleCaption": "（継続保護事業の廃止の時期の承認申請）",
+                "ArticleTitle": "第二十七条",
+                "Paragraph": [
+                  {
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": "認可事業者が、法第四十七条第三項の承認を受けようとするときは、様式第十七号による申請書を法務大臣等に提出するものとする。"
+                    }
+                  },
+                  {
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": "前項の申請書には、次に掲げる書類を添付しなければならない。"
+                    },
+                    "Item": [
+                      {
+                        "@Num": "1",
+                        "ItemTitle": "一",
+                        "ItemSentence": {
+                          "Sentence": "事業を廃止することを定めた手続を証する議事録の謄本その他の書類"
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "ItemTitle": "二",
+                        "ItemSentence": {
+                          "Sentence": "廃止しようとする事業に係る様式第二号による財産目録及び貸借対照表"
+                        }
+                      },
+                      {
+                        "@Num": "3",
+                        "ItemTitle": "三",
+                        "ItemSentence": {
+                          "Sentence": "廃止しようとする事業に係る負債がある場合には、その内容を明らかにする書類"
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "@Num": "27_2",
+                "ArticleCaption": "（一時保護事業及び連絡助成事業の届出）",
+                "ArticleTitle": "第二十七条の二",
+                "Paragraph": [
+                  {
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": "法第四十七条の二の規定による届出をして一時保護事業又は連絡助成事業を営もうとする者は、様式第十四号の二による届出書を法務大臣等に提出するものとする。"
+                    }
+                  },
+                  {
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": [
+                        {
+                          "@Num": "1",
+                          "#text": "前項の届出書に添付する書類に関しては、第二十二条第二項（同項第四号及び第五号を除く。）を準用する。"
+                        },
+                        {
+                          "@Num": "2",
+                          "#text": "この場合において、同項中「継続保護事業」とあるのは、「一時保護事業又は連絡助成事業」と読み替えるものとする。"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "@Num": "27_3",
+                "ArticleCaption": "（届出事項の変更の届出）",
+                "ArticleTitle": "第二十七条の三",
+                "Paragraph": [
+                  {
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": "届出事業者が、法第四十七条の二の規定により届出事項を変更しようとするときは、様式第十六号の二による届出書を法務大臣等に提出するものとする。"
+                    }
+                  },
+                  {
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": "前項の届出書には、その変更しようとする事項に係る前条第二項において準用する第二十二条第二項に掲げる書類（同項第三号から第五号までに掲げる書類を除く。）及び当該事項を変更することを定めた手続を証する議事録の謄本その他の書類を添付しなければならない。"
+                    }
+                  }
+                ]
+              },
+              {
+                "@Num": "27_4",
+                "ArticleTitle": "第二十七条の四",
+                "Paragraph": [
+                  {
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": [
+                        {
+                          "@Num": "1",
+                          "#text": "届出事業者は、事務所又は一時保護事業所若しくは連絡助成事業所の所在地の表示に変更があったときは、遅滞なく様式第十六号の二による届出書を法務大臣等に提出しなければならない。"
+                        },
+                        {
+                          "@Num": "2",
+                          "#text": "更生保護法人以外の届出事業者の経営の責任者の住所の異動、改姓又は改名があったときも、同様とする。"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": "第十三条第一項の規定は、更生保護法人以外の法人である届出事業者の役員（経営の責任者を除く。）及び評議員について準用する。"
+                    }
+                  }
+                ]
+              },
+              {
+                "@Num": "27_5",
+                "ArticleCaption": "（一時保護事業及び連絡助成事業の廃止の届出）",
+                "ArticleTitle": "第二十七条の五",
+                "Paragraph": [
+                  {
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": "届出事業者が、法第四十七条の二の規定により事業の廃止の届出をしようとするときは、様式第十七号の二による届出書を法務大臣等に提出するものとする。"
+                    }
+                  },
+                  {
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": "前項の届出書に添付する書類に関しては、第二十七条第二項を準用する。"
+                    }
+                  }
+                ]
+              },
+              {
+                "@Num": "28",
+                "ArticleCaption": "（事業成績等の報告）",
+                "ArticleTitle": "第二十八条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "法第五十一条（法第五十六条の二第一項において準用する場合を含む。）の規定による報告は、次に掲げる書類（届出事業者については、第三号に掲げる書類を除く。）を添付した様式第十八号による報告書を法務大臣に提出してするものとする。"
+                  },
+                  "Item": [
+                    {
+                      "@Num": "1",
+                      "ItemTitle": "一",
+                      "ItemSentence": {
+                        "Sentence": "様式第二号による財産目録及び貸借対照表"
+                      }
+                    },
+                    {
+                      "@Num": "2",
+                      "ItemTitle": "二",
+                      "ItemSentence": {
+                        "Sentence": "収支計算書（収益事業については損益計算書）"
+                      }
+                    },
+                    {
+                      "@Num": "3",
+                      "ItemTitle": "三",
+                      "ItemSentence": {
+                        "Sentence": "継続保護事業に従事する職員の様式第十九号による職員給与等一覧表"
+                      }
+                    },
+                    {
+                      "@Num": "4",
+                      "ItemTitle": "四",
+                      "ItemSentence": {
+                        "Sentence": "様式第九号による事業成績書"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "@Num": "29",
+                "ArticleCaption": "（帳簿の備付け等）",
+                "ArticleTitle": "第二十九条",
+                "Paragraph": [
+                  {
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": "法第五十二条に規定する帳簿は、同条各号に掲げる帳簿の区分に応じて次の各号に定める帳簿とする。"
+                    },
+                    "Item": [
+                      {
+                        "@Num": "1",
+                        "ItemTitle": "一",
+                        "ItemSentence": {
+                          "Column": [
+                            {
+                              "@Num": "1",
+                              "Sentence": "法第五十二条第一号に掲げる帳簿"
+                            },
+                            {
+                              "@Num": "2",
+                              "Sentence": "様式第二十号による保護簿及び様式第二十一号による金品給貸与簿"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "ItemTitle": "二",
+                        "ItemSentence": {
+                          "Column": [
+                            {
+                              "@Num": "1",
+                              "Sentence": "法第五十二条第二号に掲げる帳簿"
+                            },
+                            {
+                              "@Num": "2",
+                              "Sentence": "様式第二十二号による被保護者名簿"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "@Num": "3",
+                        "ItemTitle": "三",
+                        "ItemSentence": {
+                          "Column": [
+                            {
+                              "@Num": "1",
+                              "Sentence": "法第五十二条第三号に掲げる帳簿"
+                            },
+                            {
+                              "@Num": "2",
+                              "Sentence": "様式第二十三号による保管金品台帳"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "@Num": "4",
+                        "ItemTitle": "四",
+                        "ItemSentence": {
+                          "Column": [
+                            {
+                              "@Num": "1",
+                              "Sentence": "法第五十二条第四号に掲げる帳簿"
+                            },
+                            {
+                              "@Num": "2",
+                              "Sentence": "次に掲げるもの"
+                            }
+                          ]
+                        },
+                        "Subitem1": [
+                          {
+                            "@Num": "1",
+                            "Subitem1Title": "イ",
+                            "Subitem1Sentence": {
+                              "Sentence": "不動産台帳"
+                            }
+                          },
+                          {
+                            "@Num": "2",
+                            "Subitem1Title": "ロ",
+                            "Subitem1Sentence": {
+                              "Sentence": "備品台帳"
+                            }
+                          },
+                          {
+                            "@Num": "3",
+                            "Subitem1Title": "ハ",
+                            "Subitem1Sentence": {
+                              "Sentence": "仕訳帳"
+                            }
+                          },
+                          {
+                            "@Num": "4",
+                            "Subitem1Title": "ニ",
+                            "Subitem1Sentence": {
+                              "Sentence": "総勘定元帳"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "@Num": "5",
+                        "ItemTitle": "五",
+                        "ItemSentence": {
+                          "Column": [
+                            {
+                              "@Num": "1",
+                              "Sentence": "法第五十二条第五号に掲げる帳簿"
+                            },
+                            {
+                              "@Num": "2",
+                              "Sentence": "様式第二十四号による寄附金収納簿"
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": "法第五十六条の二において法第五十二条を準用する場合には、前項に定めるほか、次の各号に掲げる方法によることができる。"
+                    },
+                    "Item": [
+                      {
+                        "@Num": "1",
+                        "ItemTitle": "一",
+                        "ItemSentence": {
+                          "Sentence": "一時保護事業を営む者にあっては、前項第二号に定める帳簿につき、「一時保護事業用（乙）」を用いることにより、同項第一号の帳簿を省略すること。"
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "ItemTitle": "二",
+                        "ItemSentence": {
+                          "Sentence": "連絡助成事業を営む者にあっては、前項第一号から第三号までの帳簿を省略すること。"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Num": "3",
+                    "ParagraphNum": "３",
+                    "ParagraphSentence": {
+                      "Sentence": "第一項の帳簿は、その処理が終わった会計年度の翌会計年度の終了まで、次の各号に掲げる事務所に当該各号に定めるものを備え付けなければならない。"
+                    },
+                    "Item": [
+                      {
+                        "@Num": "1",
+                        "ItemTitle": "一",
+                        "ItemSentence": {
+                          "Column": [
+                            {
+                              "@Num": "1",
+                              "Sentence": "主たる事務所"
+                            },
+                            {
+                              "@Num": "2",
+                              "Sentence": "第一項第四号イの帳簿並びにその事務所に係る同号ロからニまで及び同項第五号の帳簿"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "ItemTitle": "二",
+                        "ItemSentence": {
+                          "Column": [
+                            {
+                              "@Num": "1",
+                              "Sentence": "更生保護施設及び一時保護事業所の事務所"
+                            },
+                            {
+                              "@Num": "2",
+                              "Sentence": "その施設又は事業所に係る第一項の帳簿（同項第四号イの帳簿を除く。）"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "@Num": "3",
+                        "ItemTitle": "三",
+                        "ItemSentence": {
+                          "Column": [
+                            {
+                              "@Num": "1",
+                              "Sentence": "前二号に掲げる事務所以外の事務所"
+                            },
+                            {
+                              "@Num": "2",
+                              "Sentence": "その事務所に係る第一項第四号ロからニまで及び同項第五号の帳簿"
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Num": "4",
+                    "ParagraphNum": "４",
+                    "ParagraphSentence": {
+                      "Sentence": "第一項の帳簿は、その処理が終わった会計年度の翌会計年度から起算して、次の各号に定める期間、保存しなければならない。"
+                    },
+                    "Item": [
+                      {
+                        "@Num": "1",
+                        "ItemTitle": "一",
+                        "ItemSentence": {
+                          "Sentence": "第一項第一号の帳簿については、三年"
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "ItemTitle": "二",
+                        "ItemSentence": {
+                          "Sentence": "第一項第四号ロからニまで及び同項第五号の帳簿については、五年（収益事業に係るものについては、七年）"
+                        }
+                      },
+                      {
+                        "@Num": "3",
+                        "ItemTitle": "三",
+                        "ItemSentence": {
+                          "Sentence": "第一項第二号及び第三号の帳簿については、十年"
+                        }
+                      },
+                      {
+                        "@Num": "4",
+                        "ItemTitle": "四",
+                        "ItemSentence": {
+                          "Sentence": "第一項第四号イの帳簿については、二十年"
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "@Num": "4",
+            "ChapterTitle": "第四章　雑則",
+            "Article": [
+              {
+                "@Num": "30",
+                "ArticleCaption": "（寄附金の募集の許可申請）",
+                "ArticleTitle": "第三十条",
+                "Paragraph": [
+                  {
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": "法第六十条第一項の許可を受けようとする者（以下「寄附金募集者」という。）は、様式第二十五号による申請書を法務大臣等に提出するものとする。"
+                    }
+                  },
+                  {
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": "寄附金募集者が認可事業者又は届出事業者である場合は、前項の申請書には、次に掲げる書類を添付しなければならない。"
+                    },
+                    "Item": [
+                      {
+                        "@Num": "1",
+                        "ItemTitle": "一",
+                        "ItemSentence": {
+                          "Sentence": "寄附金を募集することを定めた手続を証する議事録の謄本その他の書類"
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "ItemTitle": "二",
+                        "ItemSentence": {
+                          "Sentence": "申請前一年以内における社会福祉法（昭和二十六年法律第四十五号）第百十二条に規定する共同募金の配分を受けた事実の有無を証する書類"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Num": "3",
+                    "ParagraphNum": "３",
+                    "ParagraphSentence": {
+                      "Sentence": "寄附金募集者が認可事業者又は届出事業者以外の者である場合は、第一項の申請書には、次に掲げる書類を添付しなければならない。"
+                    },
+                    "Item": [
+                      {
+                        "@Num": "1",
+                        "ItemTitle": "一",
+                        "ItemSentence": {
+                          "Sentence": "法人又は法人でない団体で代表者若しくは管理人の定めのあるものにあっては、前項各号に掲げる書類のほか、定款その他の基本約款、経理の方針及び資産の状況を明らかにする書類並びに役員（法人でない団体にあっては、代表者又は管理人）の名簿"
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "ItemTitle": "二",
+                        "ItemSentence": {
+                          "Sentence": "前号に規定する者以外の者にあっては、前項第二号に掲げる書類のほか、寄附金募集者の履歴書、戸籍謄本及びその資産の状況を明らかにする書類"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Num": "4",
+                    "ParagraphNum": "４",
+                    "ParagraphSentence": {
+                      "Sentence": "第八条第三項の規定は、第一項の申請があった場合について準用する。"
+                    }
+                  }
+                ]
+              },
+              {
+                "@Num": "31",
+                "ArticleCaption": "（寄附金募集従事証）",
+                "ArticleTitle": "第三十一条",
+                "Paragraph": [
+                  {
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": "法務大臣等は、法第六十条第一項の許可をしたときは、当該寄附金の募集に従事する者（次項において「寄附金募集従事者」という。）に対して、様式第二十六号による寄附金募集従事証を交付するものとする。"
+                    }
+                  },
+                  {
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": "寄附金募集従事者は、当該寄附金の募集に従事するときは、常に前項の寄附金募集従事証を携帯し、関係人から要求があったときは、これを提示しなければならない。"
+                    }
+                  }
+                ]
+              },
+              {
+                "@Num": "32",
+                "ArticleCaption": "（寄附金募集の結果報告）",
+                "ArticleTitle": "第三十二条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "法第六十条第三項の規定による報告は、様式第二十七号による報告書を法務大臣等に提出してするものとする。"
+                  }
+                }
+              },
+              {
+                "@Num": "33",
+                "ArticleCaption": "（地方委員会への委任）",
+                "ArticleTitle": "第三十三条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "法第六十二条の規定により地方委員会に委任することができる法務大臣の権限は、次に掲げるものを除き、主たる所管庁が地方委員会である場合は当該地方委員会に、主たる所管庁が保護観察所の長である場合は当該保護観察所の所在地を管轄する地方委員会に委任する。"
+                  },
+                  "Item": [
+                    {
+                      "@Num": "1",
+                      "ItemTitle": "一",
+                      "ItemSentence": {
+                        "Sentence": "法第十三条に規定する権限"
+                      }
+                    },
+                    {
+                      "@Num": "2",
+                      "ItemTitle": "二",
+                      "ItemSentence": {
+                        "Sentence": "法第四十八条第二項又は第三項の規定による届出を受ける権限"
+                      }
+                    },
+                    {
+                      "@Num": "3",
+                      "ItemTitle": "三",
+                      "ItemSentence": {
+                        "Sentence": "法第五十一条（法第五十六条の二第一項及び第五十七条において準用する場合を含む。）の規定による報告を受ける権限"
+                      }
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      "SupplProvision": [
+        {
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": [
+            {
+              "@Num": "1",
+              "ParagraphCaption": "（施行期日）",
+              "ParagraphNum": "１",
+              "ParagraphSentence": {
+                "Sentence": "この省令は、平成八年四月一日から施行する。"
+              }
+            },
+            {
+              "@Num": "2",
+              "ParagraphCaption": "（更生保護会の監督等に関する規則の廃止）",
+              "ParagraphNum": "２",
+              "ParagraphSentence": {
+                "Sentence": "更生保護会の監督等に関する規則（昭和四十四年法務省令第三十七号）は、廃止する。"
+              }
+            },
+            {
+              "@Num": "3",
+              "ParagraphCaption": "（経過措置）",
+              "ParagraphNum": "３",
+              "ParagraphSentence": {
+                "Sentence": "この省令の施行の際現に更生保護事業法の施行及びこれに伴う関係法律の整備等に関する法律（平成七年法律第八十七号）第一条の規定による廃止前の更生緊急保護法（昭和二十五年法律第二百三号）又はこれに基づく命令の規定に基づいて備え付け、又は保存している帳簿は、法又はこの省令の相当規定に基づいて備え付け、又は保存しているものとみなす。"
+              }
+            }
+          ]
+        },
+        {
+          "@AmendLawNum": "平成一四年六月五日法務省令第三六号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この省令は、更生保護事業法等の一部を改正する法律（平成十四年法律第四十六号）施行の日（平成十四年六月十日）から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成一七年二月二四日法務省令第一九号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Article": {
+            "@Num": "1",
+            "ArticleCaption": "（施行期日）",
+            "ArticleTitle": "第一条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "この省令は、平成十七年三月七日から施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成二〇年四月二三日法務省令第三〇号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この省令は、更生保護法（平成十九年法律第八十八号）の施行の日（平成二十年六月一日）から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成二〇年一一月二八日法務省令第六五号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この省令は、一般社団法人及び一般財団法人に関する法律及び公益社団法人及び公益財団法人の認定等に関する法律の施行に伴う関係法律の整備等に関する法律（平成十八年法律第五十号）の施行の日（平成二十年十二月一日）から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成二三年五月二〇日法務省令第一七号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この省令は、公布の日から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成二八年六月一日法務省令第三六号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この省令は、刑法等の一部を改正する法律の施行の日（平成二十八年六月一日）から施行する。"
+            }
+          }
+        }
+      ],
+      "AppdxStyle": [
+        {
+          "AppdxStyleTitle": "様式第一号",
+          "RelatedArticleNum": "（第八条関係）",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/H08F03201000025-001.pdf"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": "様式第二号",
+          "RelatedArticleNum": "（第八条、第九条、第十条、第十一条、第十四条、第十五条、第十九条、第二十条、第二十一条、第二十二条、第二十四条、第二十七条、第二十七条の二、第二十七条の三、第二十七条の五、第二十八条関係）",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/H08F03201000025-002.pdf"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": "様式第三号",
+          "RelatedArticleNum": "（第八条、第十一条、第十九条、第二十二条、第二十四条、第二十七条の二、第二十七条の三関係）",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/H08F03201000025-003.pdf"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": "様式第四号",
+          "RelatedArticleNum": "（第八条、第十一条、第十九条、第二十二条、第二十四条、第二十七条の二、第二十七条の三関係）",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/H08F03201000025-004.pdf"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": "様式第五号",
+          "RelatedArticleNum": "（第八条、第十一条、第十九条、第二十二条、第二十四条、第二十七条の二、第二十七条の三関係）",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/H08F03201000025-005.pdf"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": "様式第六号",
+          "RelatedArticleNum": "（第十一条関係）",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/H08F03201000025-006.pdf"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": "様式第七号",
+          "RelatedArticleNum": "（第十二条関係）",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/H08F03201000025-007.pdf"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": "様式第八号",
+          "RelatedArticleNum": "（第十三条、第二十六条、第二十七条の四関係）",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/H08F03201000025-008.pdf"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": "様式第九号",
+          "RelatedArticleNum": "（第十四条、第二十八条関係）",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/H08F03201000025-009.pdf"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": "様式第九号の二",
+          "RelatedArticleNum": "（第十四条関係）",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/H08F03201000025-010.pdf"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": "様式第十号",
+          "RelatedArticleNum": "（第十五条関係）",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/H08F03201000025-011.pdf"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": "様式第十一号",
+          "RelatedArticleNum": "（第十六条関係）",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/H08F03201000025-012.pdf"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": "様式第十二号",
+          "RelatedArticleNum": "（第十七条関係）",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/H08F03201000025-013.pdf"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": "様式第十三号",
+          "RelatedArticleNum": "（第十九条関係）",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/H08F03201000025-014.pdf"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": "様式第十四号",
+          "RelatedArticleNum": "（第二十二条関係）",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/H08F03201000025-015.pdf"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": "様式第十四号の二",
+          "RelatedArticleNum": "（第二十七条の二関係）",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/H08F03201000025-016.pdf"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": "様式第十五号",
+          "RelatedArticleNum": "（第二十四条関係）",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/H08F03201000025-017.pdf"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": "様式第十六号",
+          "RelatedArticleNum": "（第二十五条、第二十六条関係）",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/H08F03201000025-018.pdf"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": "様式第十六号の二",
+          "RelatedArticleNum": "（第二十七条の三、第二十七条の四関係）",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/H08F03201000025-019.pdf"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": "様式第十七号",
+          "RelatedArticleNum": "（第二十七条関係）",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/H08F03201000025-020.pdf"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": "様式第十七号の二",
+          "RelatedArticleNum": "（第二十七条の五関係）",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/H08F03201000025-021.pdf"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": "様式第十八号",
+          "RelatedArticleNum": "（第二十八条関係）",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/H08F03201000025-022.pdf"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": "様式第十九号",
+          "RelatedArticleNum": "（第二十八条関係）",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/H08F03201000025-023.pdf"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": "様式第２０号",
+          "RelatedArticleNum": "（第２９条関係）",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/H08F03201000025-024.pdf"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": "様式第２１号",
+          "RelatedArticleNum": "（第２９条関係）",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/H08F03201000025-025.pdf"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": "様式第２２号",
+          "RelatedArticleNum": "（第２９条関係）",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/H08F03201000025-026.pdf"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": "様式第二十三号",
+          "RelatedArticleNum": "（第二十九条関係）",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/H08F03201000025-027.pdf"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": "様式第二十四号",
+          "RelatedArticleNum": "（第二十九条関係）",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/H08F03201000025-028.pdf"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": "様式二十五号",
+          "RelatedArticleNum": "（第三十条関係）",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/H08F03201000025-029.pdf"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": "様式第二十六号",
+          "RelatedArticleNum": "（第三十一条関係）",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/H08F03201000025-030.pdf"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": "様式第二十七号",
+          "RelatedArticleNum": "（第三十二条関係）",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/H08F03201000025-031.pdf"
+              }
+            }
+          }
+        }
+      ]
+    }
+  }
+}

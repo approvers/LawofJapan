@@ -1,0 +1,739 @@
+{
+  "Law": {
+    "@DataInfo": "180814e80k10m02",
+    "@Era": "Showa",
+    "@Lang": "ja",
+    "@LawType": "Act",
+    "@Num": "108",
+    "@Year": "29",
+    "LawNum": "昭和二十九年法律第百八号",
+    "LawBody": {
+      "LawTitle": "軍事郵便貯金等特別処理法",
+      "MainProvision": {
+        "Article": [
+          {
+            "@Num": "1",
+            "ArticleCaption": "（この法律の趣旨）",
+            "ArticleTitle": "第一条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "この法律は、軍事郵便貯金、軍事郵便為替、外地郵便貯金、外地郵便為替、外地郵便振替貯金等の特別処理に関し、必要な事項を定めるものとする。"
+              }
+            }
+          },
+          {
+            "@Num": "2",
+            "ArticleCaption": "（定義）",
+            "ArticleTitle": "第二条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "この法律において、左の各号に掲げる用語は、当該各号に定める定義に従うものとする。"
+              },
+              "Item": [
+                {
+                  "@Num": "1",
+                  "ItemTitle": "一",
+                  "ItemSentence": {
+                    "Sentence": "「軍事郵便貯金」とは、旧野戦郵便局又は旧海軍軍用郵便所で預入された郵便貯金をいう。"
+                  }
+                },
+                {
+                  "@Num": "2",
+                  "ItemTitle": "二",
+                  "ItemSentence": {
+                    "Sentence": "「軍事郵便為替」とは、旧野戦郵便局又は旧海軍軍用郵便所に振出の請求があつた郵便為替をいう。"
+                  }
+                },
+                {
+                  "@Num": "3",
+                  "ItemTitle": "三",
+                  "ItemSentence": {
+                    "Sentence": "「外地郵便貯金」とは、旧外地等にあつた郵便局で預入された郵便貯金をいう。"
+                  }
+                },
+                {
+                  "@Num": "4",
+                  "ItemTitle": "四",
+                  "ItemSentence": {
+                    "Sentence": "「外地郵便為替」とは、旧外地等にあつた郵便局に振出の請求があつた郵便為替をいう。"
+                  }
+                },
+                {
+                  "@Num": "5",
+                  "ItemTitle": "五",
+                  "ItemSentence": {
+                    "Sentence": "「外地郵便振替貯金」とは、旧外地等にあつた郵便局で払い込まれた郵便振替貯金の払込金（口座に受け入れられたものを含む。）をいう。"
+                  }
+                },
+                {
+                  "@Num": "6",
+                  "ItemTitle": "六",
+                  "ItemSentence": {
+                    "Sentence": "「旧外地等」とは、朝鮮、台湾、関東州、樺太、千島列島、南洋群島、小笠原諸島、硫黄列島、硫黄鳥島、伊平屋島及び北緯二十七度以南の南西諸島（大東諸島を含む。）をいう。"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "@Num": "3",
+            "ArticleCaption": "（軍事郵便貯金の換算）",
+            "ArticleTitle": "第三条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "昭和二十年八月十六日以後預入された軍事郵便貯金の現在高（この法律の施行前に本邦にある郵便局で払いもどしがあつた軍事郵便貯金については、その払いもどし前の現在高）の金額は、左に掲げる換算率により換算した金額の合計額とする。"
+              },
+              "Item": [
+                {
+                  "@Num": "1",
+                  "ItemTitle": "一",
+                  "ItemSentence": {
+                    "Column": [
+                      {
+                        "@Num": "1",
+                        "Sentence": "表示金額千五百円までの部分につき"
+                      },
+                      {
+                        "@Num": "2",
+                        "Sentence": "別表甲欄に掲げる換算率"
+                      }
+                    ]
+                  }
+                },
+                {
+                  "@Num": "2",
+                  "ItemTitle": "二",
+                  "ItemSentence": {
+                    "Column": [
+                      {
+                        "@Num": "1",
+                        "Sentence": "表示金額千五百円をこえる部分のうち、別表乙欄に掲げる換算率により換算した金額が三千五百円となるまでの部分につき"
+                      },
+                      {
+                        "@Num": "2",
+                        "Sentence": "別表乙欄に掲げる換算率"
+                      }
+                    ]
+                  }
+                },
+                {
+                  "@Num": "3",
+                  "ItemTitle": "三",
+                  "ItemSentence": {
+                    "Column": [
+                      {
+                        "@Num": "1",
+                        "Sentence": "表示金額千五百円をこえる部分のうち、別表乙欄に掲げる換算率により換算した金額が三千五百円をこえることとなる部分につき"
+                      },
+                      {
+                        "@Num": "2",
+                        "Sentence": "別表丙欄に掲げる換算率"
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "@Num": "4",
+            "ArticleCaption": "（軍事郵便為替の換算）",
+            "ArticleTitle": "第四条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "昭和二十年八月十六日以後振出の請求があつた軍事郵便為替の金額（この法律の施行前に本邦にある郵便局で払渡があつた軍事郵便為替については、その払渡前の金額）は、左に掲げる換算率により換算した金額の合計額とする。"
+              },
+              "Item": [
+                {
+                  "@Num": "1",
+                  "ItemTitle": "一",
+                  "ItemSentence": {
+                    "Column": [
+                      {
+                        "@Num": "1",
+                        "Sentence": "表示金額千円までの部分につき"
+                      },
+                      {
+                        "@Num": "2",
+                        "Sentence": "別表甲欄に掲げる換算率"
+                      }
+                    ]
+                  }
+                },
+                {
+                  "@Num": "2",
+                  "ItemTitle": "二",
+                  "ItemSentence": {
+                    "Column": [
+                      {
+                        "@Num": "1",
+                        "Sentence": "表示金額千円をこえる部分につき"
+                      },
+                      {
+                        "@Num": "2",
+                        "Sentence": "別表乙欄に掲げる換算率"
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "@Num": "5",
+            "ArticleCaption": "（外地郵便貯金の換算）",
+            "ArticleTitle": "第五条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "昭和二十年十月一日以後預入された外地郵便貯金の現在高の金額は、左に掲げる換算率により換算した金額の合計額とする。"
+              },
+              "Item": [
+                {
+                  "@Num": "1",
+                  "ItemTitle": "一",
+                  "ItemSentence": {
+                    "Column": [
+                      {
+                        "@Num": "1",
+                        "Sentence": "表示金額を別表乙欄に掲げる換算率により換算した金額が五千円となるまでの部分につき"
+                      },
+                      {
+                        "@Num": "2",
+                        "Sentence": "別表乙欄に掲げる換算率"
+                      }
+                    ]
+                  }
+                },
+                {
+                  "@Num": "2",
+                  "ItemTitle": "二",
+                  "ItemSentence": {
+                    "Column": [
+                      {
+                        "@Num": "1",
+                        "Sentence": "表示金額を別表乙欄に掲げる換算率により換算した金額が五千円をこえることとなる部分につき"
+                      },
+                      {
+                        "@Num": "2",
+                        "Sentence": "別表丙欄に掲げる換算率"
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "@Num": "6",
+            "ArticleCaption": "（外地郵便為替の換算）",
+            "ArticleTitle": "第六条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "昭和二十年十月一日以後振出の請求があつた外地郵便為替の金額は、左に掲げる換算率により換算した金額の合計額とする。"
+              },
+              "Item": [
+                {
+                  "@Num": "1",
+                  "ItemTitle": "一",
+                  "ItemSentence": {
+                    "Column": [
+                      {
+                        "@Num": "1",
+                        "Sentence": "表示金額千円までの部分につき"
+                      },
+                      {
+                        "@Num": "2",
+                        "Sentence": "別表甲欄に掲げる換算率"
+                      }
+                    ]
+                  }
+                },
+                {
+                  "@Num": "2",
+                  "ItemTitle": "二",
+                  "ItemSentence": {
+                    "Column": [
+                      {
+                        "@Num": "1",
+                        "Sentence": "表示金額千円をこえる部分につき"
+                      },
+                      {
+                        "@Num": "2",
+                        "Sentence": "別表乙欄に掲げる換算率"
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "@Num": "7",
+            "ArticleCaption": "（外地郵便振替貯金の換算）",
+            "ArticleTitle": "第七条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "昭和二十年十月一日以後払い込まれた外地郵便振替貯金（口座に受け入れられたものは、その現在高）の金額は、左に掲げる換算率により換算した金額の合計額とする。"
+              },
+              "Item": [
+                {
+                  "@Num": "1",
+                  "ItemTitle": "一",
+                  "ItemSentence": {
+                    "Column": [
+                      {
+                        "@Num": "1",
+                        "Sentence": "表示金額を別表乙欄に掲げる換算率により換算した金額が五千円となるまでの部分につき"
+                      },
+                      {
+                        "@Num": "2",
+                        "Sentence": "別表乙欄に掲げる換算率"
+                      }
+                    ]
+                  }
+                },
+                {
+                  "@Num": "2",
+                  "ItemTitle": "二",
+                  "ItemSentence": {
+                    "Column": [
+                      {
+                        "@Num": "1",
+                        "Sentence": "表示金額を別表乙欄に掲げる換算率により換算した金額が五千円をこえることとなる部分につき"
+                      },
+                      {
+                        "@Num": "2",
+                        "Sentence": "別表丙欄に掲げる換算率"
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "@Num": "8",
+            "ArticleCaption": "（軍事郵便貯金及び外地郵便貯金の取扱いの制限）",
+            "ArticleTitle": "第八条",
+            "Paragraph": [
+              {
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": "独立行政法人郵便貯金簡易生命保険管理・郵便局ネットワーク支援機構は、軍事郵便貯金又は外地郵便貯金の貯金通帳によつては、払戻証書による全部払戻しの取扱いを除いて、貯金の預入及び払戻しの取扱いをしない。"
+                }
+              },
+              {
+                "@Num": "2",
+                "ParagraphNum": "２",
+                "ParagraphSentence": {
+                  "Sentence": "独立行政法人郵便貯金簡易生命保険管理・郵便局ネットワーク支援機構は、外地郵便貯金である定額郵便貯金の貯金証書によつては、払戻証書による払戻しの取扱いを除いて、貯金の払戻しの取扱いをしない。"
+                }
+              }
+            ]
+          },
+          {
+            "@Num": "9",
+            "ArticleCaption": "（払いもどし証書等の有効期間に関する特例）",
+            "ArticleTitle": "第九条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "軍事郵便貯金又は外地郵便貯金の払いもどし証書、軍事郵便為替又は外地郵便為替の為替証書及び旧外地等にあつた郵便振替貯金の口座所管庁の発行した払出証書で昭和十七年四月十七日以後この法律の施行前に発行されたものは、有効期間の計算については、この法律の施行の日に発行されたものとみなす。"
+              }
+            }
+          }
+        ]
+      },
+      "SupplProvision": [
+        {
+          "@Extract": "false",
+          "@Type": "New",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この法律は、公布の日から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成一一年一二月二二日法律第一六〇号",
+          "@Extract": "true",
+          "@Type": "Amend",
+          "SupplProvisionLabel": "附　則",
+          "Article": {
+            "@Num": "1",
+            "ArticleCaption": "（施行期日）",
+            "ArticleTitle": "第一条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": [
+                  {
+                    "@Function": "main",
+                    "@Num": "1",
+                    "#text": "この法律（第二条及び第三条を除く。）は、平成十三年一月六日から施行する。"
+                  },
+                  {
+                    "@Function": "proviso",
+                    "@Num": "2",
+                    "#text": "ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。"
+                  }
+                ]
+              },
+              "Item": {
+                "@Num": "1",
+                "ItemTitle": "一",
+                "ItemSentence": {
+                  "Column": [
+                    {
+                      "@Num": "1",
+                      "Sentence": "第九百九十五条（核原料物質、核燃料物質及び原子炉の規制に関する法律の一部を改正する法律附則の改正規定に係る部分に限る。）、第千三百五条、第千三百六条、第千三百二十四条第二項、第千三百二十六条第二項及び第千三百四十四条の規定"
+                    },
+                    {
+                      "@Num": "2",
+                      "Sentence": "公布の日"
+                    }
+                  ]
+                }
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成一四年七月三一日法律第九八号",
+          "@Extract": "true",
+          "@Type": "Amend",
+          "SupplProvisionLabel": "附　則",
+          "Article": [
+            {
+              "@Num": "1",
+              "ArticleCaption": "（施行期日）",
+              "ArticleTitle": "第一条",
+              "Paragraph": {
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": [
+                    {
+                      "@Function": "main",
+                      "@Num": "1",
+                      "#text": "この法律は、公社法の施行の日から施行する。"
+                    },
+                    {
+                      "@Function": "proviso",
+                      "@Num": "2",
+                      "#text": "ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。"
+                    }
+                  ]
+                },
+                "Item": {
+                  "@Num": "1",
+                  "ItemTitle": "一",
+                  "ItemSentence": {
+                    "Column": [
+                      {
+                        "@Num": "1",
+                        "Sentence": "第一章第一節（別表第一から別表第四までを含む。）並びに附則第二十八条第二項、第三十三条第二項及び第三項並びに第三十九条の規定"
+                      },
+                      {
+                        "@Num": "2",
+                        "Sentence": "公布の日"
+                      }
+                    ]
+                  }
+                }
+              }
+            },
+            {
+              "@Num": "39",
+              "ArticleCaption": "（その他の経過措置の政令への委任）",
+              "ArticleTitle": "第三十九条",
+              "Paragraph": {
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": "この法律に規定するもののほか、公社法及びこの法律の施行に関し必要な経過措置（罰則に関する経過措置を含む。）は、政令で定める。"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@AmendLawNum": "平成一七年一〇月二一日法律第一〇二号",
+          "@Extract": "true",
+          "@Type": "Amend",
+          "SupplProvisionLabel": "附　則",
+          "Article": {
+            "@Num": "1",
+            "ArticleCaption": "（施行期日）",
+            "ArticleTitle": "第一条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "この法律は、郵政民営化法の施行の日から施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成三〇年六月八日法律第四一号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Article": [
+            {
+              "@Num": "1",
+              "ArticleCaption": "（施行期日）",
+              "ArticleTitle": "第一条",
+              "Paragraph": {
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": [
+                    {
+                      "@Function": "main",
+                      "@Num": "1",
+                      "#text": "この法律は、公布の日から起算して六月を超えない範囲内において政令で定める日から施行する。"
+                    },
+                    {
+                      "@Function": "proviso",
+                      "@Num": "2",
+                      "#text": "ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。"
+                    }
+                  ]
+                },
+                "Item": [
+                  {
+                    "@Num": "1",
+                    "ItemTitle": "一",
+                    "ItemSentence": {
+                      "Column": [
+                        {
+                          "@Num": "1",
+                          "Sentence": "第三条の改正規定（「独立行政法人郵便貯金・簡易生命保険管理機構」を「独立行政法人郵便貯金簡易生命保険管理・郵便局ネットワーク支援機構」に改める部分を除く。）、第六条第二項の改正規定、第九条第一項の改正規定、第十条の改正規定、第十三条第一項の改正規定、第十四条第二項の改正規定及び同条第三項の改正規定、第十九条に一号を加える改正規定、第二十五条の改正規定、第二十六条の改正規定並びに第三十二条の次に一条を加える改正規定並びに附則第二条第三項の改正規定並びに附則第三条、第十二条（郵政民営化法等の一部を改正する等の法律（平成二十四年法律第三十号）附則第十九条第一項第一号の改正規定中「第四条の規定による改正後の独立行政法人郵便貯金・簡易生命保険管理機構法（」を「独立行政法人郵便貯金簡易生命保険管理・郵便局ネットワーク支援機構法（平成十七年法律第百一号。」に改める部分を除く。）及び第十三条の規定"
+                        },
+                        {
+                          "@Num": "2",
+                          "Sentence": "公布の日から起算して三月を超えない範囲内において政令で定める日"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "@Num": "2",
+                    "ItemTitle": "二",
+                    "ItemSentence": {
+                      "Column": [
+                        {
+                          "@Num": "1",
+                          "Sentence": "題名の改正規定、第一条及び第二条の改正規定、第三条の改正規定（「独立行政法人郵便貯金・簡易生命保険管理機構」を「独立行政法人郵便貯金簡易生命保険管理・郵便局ネットワーク支援機構」に改める部分に限る。）、第九条第二項の改正規定並びに第十四条第四項の改正規定並びに附則第四条から第八条まで、第九条（日本郵便株式会社法（平成十七年法律第百号）附則第二条第一項の改正規定に限る。）、第十一条及び第十二条（郵政民営化法等の一部を改正する等の法律附則第十九条第一項第一号の改正規定中「第四条の規定による改正後の独立行政法人郵便貯金・簡易生命保険管理機構法（」を「独立行政法人郵便貯金簡易生命保険管理・郵便局ネットワーク支援機構法（平成十七年法律第百一号。」に改める部分に限る。）の規定"
+                        },
+                        {
+                          "@Num": "2",
+                          "Sentence": "平成三十一年四月一日"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "@Num": "13",
+              "ArticleCaption": "（政令への委任）",
+              "ArticleTitle": "第十三条",
+              "Paragraph": {
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": "この附則に定めるもののほか、この法律の施行に関して必要な経過措置は、政令で定める。"
+                }
+              }
+            }
+          ]
+        }
+      ],
+      "AppdxTable": {
+        "AppdxTableTitle": "別表",
+        "TableStruct": {
+          "Table": {
+            "TableRow": [
+              {
+                "TableColumn": [
+                  {
+                    "@rowspan": "2",
+                    "Sentence": "取扱機関の所在地域（旧野戦郵便局及び旧海軍軍用郵便所にあつては、その最後の所在地域）"
+                  },
+                  {
+                    "@colspan": "3",
+                    "Sentence": "換算率（１円に対する表示金額）"
+                  }
+                ]
+              },
+              {
+                "TableColumn": [
+                  {
+                    "Sentence": "甲"
+                  },
+                  {
+                    "Sentence": "乙"
+                  },
+                  {
+                    "Sentence": "丙"
+                  }
+                ]
+              },
+              {
+                "TableColumn": [
+                  {
+                    "Sentence": "朝鮮及び台湾"
+                  },
+                  {
+                    "Sentence": "１円"
+                  },
+                  {
+                    "Sentence": "１円"
+                  },
+                  {
+                    "Sentence": "１.５円"
+                  }
+                ]
+              },
+              {
+                "TableColumn": [
+                  {
+                    "Sentence": "関東州"
+                  },
+                  {
+                    "Sentence": "１円"
+                  },
+                  {
+                    "Sentence": "１円"
+                  },
+                  {
+                    "Sentence": "１.６円"
+                  }
+                ]
+              },
+              {
+                "TableColumn": [
+                  {
+                    "Sentence": "華北"
+                  },
+                  {
+                    "Sentence": "１円"
+                  },
+                  {
+                    "Sentence": "１１円"
+                  },
+                  {
+                    "Sentence": "１００円"
+                  }
+                ]
+              },
+              {
+                "TableColumn": [
+                  {
+                    "Sentence": "華中及び華南"
+                  },
+                  {
+                    "Sentence": "１円"
+                  },
+                  {
+                    "Sentence": "１１円"
+                  },
+                  {
+                    "Sentence": "４３２円"
+                  }
+                ]
+              },
+              {
+                "TableColumn": [
+                  {
+                    "Sentence": "香港及び海南島"
+                  },
+                  {
+                    "Sentence": "１円"
+                  },
+                  {
+                    "Sentence": "１０円"
+                  },
+                  {
+                    "Sentence": "１０円"
+                  }
+                ]
+              },
+              {
+                "TableColumn": [
+                  {
+                    "Sentence": "マライ及びビルマ"
+                  },
+                  {
+                    "Sentence": "１円"
+                  },
+                  {
+                    "Sentence": "１１円"
+                  },
+                  {
+                    "Sentence": "４３２円"
+                  }
+                ]
+              },
+              {
+                "TableColumn": [
+                  {
+                    "Sentence": "旧蘭領東印度諸島（北ボルネオを含む。）"
+                  },
+                  {
+                    "Sentence": "１円"
+                  },
+                  {
+                    "Sentence": "１円"
+                  },
+                  {
+                    "Sentence": "６円"
+                  }
+                ]
+              },
+              {
+                "TableColumn": [
+                  {
+                    "Sentence": "その他の地域"
+                  },
+                  {
+                    "Sentence": "１円"
+                  },
+                  {
+                    "Sentence": "１円"
+                  },
+                  {
+                    "Sentence": "１円"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    }
+  }
+}

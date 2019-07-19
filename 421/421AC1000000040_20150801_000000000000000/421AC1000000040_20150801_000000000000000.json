@@ -1,0 +1,368 @@
+{
+  "Law": {
+    "@Era": "Heisei",
+    "@Lang": "ja",
+    "@LawType": "Act",
+    "@Num": "40",
+    "@Year": "21",
+    "LawNum": "平成二十一年法律第四十号",
+    "LawBody": {
+      "LawTitle": "公共サービス基本法",
+      "TOC": {
+        "TOCLabel": "目次",
+        "TOCChapter": [
+          {
+            "@Delete": "false",
+            "@Num": "1",
+            "ChapterTitle": "第一章　総則",
+            "ArticleRange": "（第一条―第七条）"
+          },
+          {
+            "@Delete": "false",
+            "@Num": "2",
+            "ChapterTitle": "第二章　基本的施策",
+            "ArticleRange": "（第八条―第十一条）"
+          }
+        ],
+        "TOCSupplProvision": {
+          "SupplProvisionLabel": "附則"
+        }
+      },
+      "MainProvision": {
+        "Chapter": [
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "1",
+            "ChapterTitle": "第一章　総則",
+            "Article": [
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "1",
+                "ArticleCaption": "（目的）",
+                "ArticleTitle": "第一条",
+                "Paragraph": {
+                  "@Hide": "false",
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "この法律は、公共サービスが国民生活の基盤となるものであることにかんがみ、公共サービスに関し、基本理念を定め、及び国等の責務を明らかにするとともに、公共サービスに関する施策の基本となる事項を定めることにより、公共サービスに関する施策を推進し、もって国民が安心して暮らすことのできる社会の実現に寄与することを目的とする。"
+                    }
+                  }
+                }
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "2",
+                "ArticleCaption": "（定義）",
+                "ArticleTitle": "第二条",
+                "Paragraph": {
+                  "@Hide": "false",
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "この法律において「公共サービス」とは、次に掲げる行為であって、国民が日常生活及び社会生活を円滑に営むために必要な基本的な需要を満たすものをいう。"
+                    }
+                  },
+                  "Item": [
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "1",
+                      "ItemTitle": "一",
+                      "ItemSentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "国（独立行政法人（独立行政法人通則法（平成十一年法律第百三号）第二条第一項に規定する独立行政法人をいう。）を含む。第十一条を除き、以下同じ。）又は地方公共団体（地方独立行政法人（地方独立行政法人法（平成十五年法律第百十八号）第二条第一項に規定する地方独立行政法人をいう。）を含む。第十一条を除き、以下同じ。）の事務又は事業であって、特定の者に対して行われる金銭その他の物の給付又は役務の提供"
+                        }
+                      }
+                    },
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "2",
+                      "ItemTitle": "二",
+                      "ItemSentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "前号に掲げるもののほか、国又は地方公共団体が行う規制、監督、助成、広報、公共施設の整備その他の公共の利益の増進に資する行為"
+                        }
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "3",
+                "ArticleCaption": "（基本理念）",
+                "ArticleTitle": "第三条",
+                "Paragraph": {
+                  "@Hide": "false",
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "公共サービスの実施並びに公共サービスに関する施策の策定及び実施（以下「公共サービスの実施等」という。）は、次に掲げる事項が公共サービスに関する国民の権利であることが尊重され、国民が健全な生活環境の中で日常生活及び社会生活を円滑に営むことができるようにすることを基本として、行われなければならない。"
+                    }
+                  },
+                  "Item": [
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "1",
+                      "ItemTitle": "一",
+                      "ItemSentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "安全かつ良質な公共サービスが、確実、効率的かつ適正に実施されること。"
+                        }
+                      }
+                    },
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "2",
+                      "ItemTitle": "二",
+                      "ItemSentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "社会経済情勢の変化に伴い多様化する国民の需要に的確に対応するものであること。"
+                        }
+                      }
+                    },
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "3",
+                      "ItemTitle": "三",
+                      "ItemSentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "公共サービスについて国民の自主的かつ合理的な選択の機会が確保されること。"
+                        }
+                      }
+                    },
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "4",
+                      "ItemTitle": "四",
+                      "ItemSentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "公共サービスに関する必要な情報及び学習の機会が国民に提供されるとともに、国民の意見が公共サービスの実施等に反映されること。"
+                        }
+                      }
+                    },
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "5",
+                      "ItemTitle": "五",
+                      "ItemSentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "公共サービスの実施により苦情又は紛争が生じた場合には、適切かつ迅速に処理され、又は解決されること。"
+                        }
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "4",
+                "ArticleCaption": "（国の責務）",
+                "ArticleTitle": "第四条",
+                "Paragraph": {
+                  "@Hide": "false",
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "国は、前条の基本理念（以下「基本理念」という。）にのっとり、国民生活の安定と向上のために国が本来果たすべき役割を踏まえ、公共サービスに関する施策を策定し、及び実施するとともに、国に係る公共サービスを実施する責務を有する。"
+                    }
+                  }
+                }
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "5",
+                "ArticleCaption": "（地方公共団体の責務）",
+                "ArticleTitle": "第五条",
+                "Paragraph": {
+                  "@Hide": "false",
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "地方公共団体は、基本理念にのっとり、公共サービスの実施等に関し、国との適切な役割分担を踏まえつつ、その地方公共団体の実情に応じた施策を策定し、及び実施するとともに、地方公共団体に係る公共サービスを実施する責務を有する。"
+                    }
+                  }
+                }
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "6",
+                "ArticleCaption": "（公共サービスの実施に従事する者の責務）",
+                "ArticleTitle": "第六条",
+                "Paragraph": {
+                  "@Hide": "false",
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "公共サービスの実施に従事する者は、国民の立場に立ち、責任を自覚し、誇りを持って誠実に職務を遂行する責務を有する。"
+                    }
+                  }
+                }
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "7",
+                "ArticleCaption": "（必要な措置）",
+                "ArticleTitle": "第七条",
+                "Paragraph": {
+                  "@Hide": "false",
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "政府は、この法律の目的を達成するため、必要な措置を講ずるよう努めるものとする。"
+                    }
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "2",
+            "ChapterTitle": "第二章　基本的施策",
+            "Article": [
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "8",
+                "ArticleCaption": "（公共サービスを委託した場合の役割分担と責任の明確化）",
+                "ArticleTitle": "第八条",
+                "Paragraph": {
+                  "@Hide": "false",
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "国及び地方公共団体は、公共サービスの実施に関する業務を委託した場合には、当該公共サービスの実施に関し、当該委託を受けた者との間で、それぞれの役割の分担及び責任の所在を明確化するものとする。"
+                    }
+                  }
+                }
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "9",
+                "ArticleCaption": "（国民の意見の反映等）",
+                "ArticleTitle": "第九条",
+                "Paragraph": [
+                  {
+                    "@Hide": "false",
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "国及び地方公共団体は、公共サービスに関する施策の策定の過程の透明性を確保し、及び公共サービスの実施等に国民の意見を反映するため、公共サービスに関する情報を適時かつ適切な方法で公表するとともに、公共サービスに関し広く国民の意見を求めるために必要な措置を講ずるものとする。"
+                      }
+                    }
+                  },
+                  {
+                    "@Hide": "false",
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "国及び地方公共団体は、前項の国民の意見を踏まえ、公共サービスの実施等について不断の見直しを行うものとする。"
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "10",
+                "ArticleCaption": "（公共サービスの実施に関する配慮）",
+                "ArticleTitle": "第十条",
+                "Paragraph": {
+                  "@Hide": "false",
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "国及び地方公共団体は、公共サービスの実施が公共サービスによる利益を享受する国民の立場に立ったものとなるよう、配慮するものとする。"
+                    }
+                  }
+                }
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "11",
+                "ArticleCaption": "（公共サービスの実施に従事する者の労働環境の整備）",
+                "ArticleTitle": "第十一条",
+                "Paragraph": {
+                  "@Hide": "false",
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "国及び地方公共団体は、安全かつ良質な公共サービスが適正かつ確実に実施されるようにするため、公共サービスの実施に従事する者の適正な労働条件の確保その他の労働環境の整備に関し必要な施策を講ずるよう努めるものとする。"
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        ]
+      },
+      "SupplProvision": {
+        "@Extract": "false",
+        "@Type": "New",
+        "SupplProvisionLabel": "附　則",
+        "Paragraph": {
+          "@Hide": "false",
+          "@Num": "1",
+          "ParagraphNum": null,
+          "ParagraphSentence": {
+            "Sentence": {
+              "@WritingMode": "vertical",
+              "#text": "この法律は、公布の日から起算して六月を超えない範囲内において政令で定める日から施行する。"
+            }
+          }
+        }
+      }
+    }
+  }
+}

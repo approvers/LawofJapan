@@ -1,0 +1,1105 @@
+{
+  "Law": {
+    "@Era": "Showa",
+    "@Lang": "ja",
+    "@LawType": "MinisterialOrdinance",
+    "@Num": "25",
+    "@Year": "28",
+    "LawNum": "昭和二十八年厚生省令第二十五号",
+    "LawBody": {
+      "LawTitle": "医療施設調査規則",
+      "EnactStatement": "統計法（昭和二十二年法律第十八号）第三条第二項の規定に基き、医療施設調査規則を次のように定める。",
+      "MainProvision": {
+        "Article": [
+          {
+            "@Num": "1",
+            "ArticleCaption": "（省令の趣旨）",
+            "ArticleTitle": "第一条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "統計法（平成十九年法律第五十三号）第二条第四項に規定する基幹統計である医療施設統計を作成するための調査（以下「医療施設調査」という。）の施行に関しては、この省令の定めるところによる。"
+              }
+            }
+          },
+          {
+            "@Num": "2",
+            "ArticleCaption": "（調査の目的）",
+            "ArticleTitle": "第二条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "医療施設調査は、医療施設の分布及び整備の実態を明らかにするとともに、医療施設の診療機能をは握し、医療行政の基礎資料を得ることを目的とする。"
+              }
+            }
+          },
+          {
+            "@Num": "3",
+            "ArticleCaption": "（定義）",
+            "ArticleTitle": "第三条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": [
+                  {
+                    "@Function": "main",
+                    "@Num": "1",
+                    "#text": "この省令において「医療施設」とは、医療法（昭和二十三年法律第二百五号）に定める病院及び診療所（同法第五条の規定により診療所とみなされたものを含む。）をいう。"
+                  },
+                  {
+                    "@Function": "proviso",
+                    "@Num": "2",
+                    "#text": "但し、保健所を除く。"
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "@Num": "3_2",
+            "ArticleCaption": "（調査の種類）",
+            "ArticleTitle": "第三条の二",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "医療施設調査は、医療施設静態調査（以下「静態調査」という。）及び医療施設動態調査（以下「動態調査」という。）とする。"
+              }
+            }
+          },
+          {
+            "@Num": "4",
+            "ArticleCaption": "（調査の範囲）",
+            "ArticleTitle": "第四条",
+            "Paragraph": [
+              {
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": "静態調査は、すべての医療施設について行う。"
+                }
+              },
+              {
+                "@Num": "2",
+                "ParagraphNum": "２",
+                "ParagraphSentence": {
+                  "Sentence": "動態調査は、次の医療施設について行う。"
+                },
+                "Item": [
+                  {
+                    "@Num": "1",
+                    "ItemTitle": "一",
+                    "ItemSentence": {
+                      "Sentence": "病院であつて、次に掲げるもの"
+                    },
+                    "Subitem1": [
+                      {
+                        "@Num": "1",
+                        "Subitem1Title": "イ",
+                        "Subitem1Sentence": {
+                          "Sentence": "医療法施行令（昭和二十三年政令第三百二十六号。以下「令」という。）第四条の二第一項に基づき開設後の届出をしたもの"
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "Subitem1Title": "ロ",
+                        "Subitem1Sentence": {
+                          "Sentence": "医療法施行規則（昭和二十三年厚生省令第五十号。以下「施行規則」という。）第一条の十四第一項第十四号に掲げる事項について医療法第七条第二項に基づき変更の許可を受けたもの若しくは令第四条第一項に基づき変更の届出をしたもの又は施行規則第一条の十四第一項第二号若しくは第四号に掲げる事項について令第四条第一項に基づき変更の届出をしたもの"
+                        }
+                      },
+                      {
+                        "@Num": "3",
+                        "Subitem1Title": "ハ",
+                        "Subitem1Sentence": {
+                          "Sentence": {
+                            "Ruby": [
+                              {
+                                "Rt": "ヽ",
+                                "#text": "そ"
+                              },
+                              {
+                                "Rt": "ヽ",
+                                "#text": "う"
+                              }
+                            ],
+                            "#text": "医療法第八条の二第二項に基づき休止若しくは再開の届出をしたもの若しくは同法第九条第一項に基づき廃止の届出をしたもの又は同条第二項に基づき死亡若しくは失\nの届出をしたもの"
+                          }
+                        }
+                      },
+                      {
+                        "@Num": "4",
+                        "Subitem1Title": "ニ",
+                        "Subitem1Sentence": {
+                          "Sentence": "医療法第二十九条第一項第二号から第四号までに該当する場合において同項に基づく開設許可の取消しを受けたもの"
+                        }
+                      },
+                      {
+                        "@Num": "5",
+                        "Subitem1Title": "ホ",
+                        "Subitem1Sentence": {
+                          "Sentence": "医療法第四条第一項に基づく地域医療支援病院の承認を受けたもの又は同法第二十九条第三項に基づく地域医療支援病院の承認の取消しを受けたもの"
+                        }
+                      },
+                      {
+                        "@Num": "6",
+                        "Subitem1Title": "ヘ",
+                        "Subitem1Sentence": {
+                          "Sentence": "救急病院等を定める省令（昭和三十九年厚生省令第八号）第二条に基づき告示されたもの"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Num": "2",
+                    "ItemTitle": "二",
+                    "ItemSentence": {
+                      "Sentence": "診療所であつて、次に掲げるもの"
+                    },
+                    "Subitem1": [
+                      {
+                        "@Num": "1",
+                        "Subitem1Title": "イ",
+                        "Subitem1Sentence": {
+                          "Sentence": "医療法第八条に基づき開設の届出をしたもの"
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "Subitem1Title": "ロ",
+                        "Subitem1Sentence": {
+                          "Sentence": "施行規則第一条の十四第一項第十四号に掲げる事項について医療法第七条第二項に基づき変更の許可を受けたもの若しくは令第四条第一項若しくは第三項に基づき変更の届出をしたもの、施行規則第一条の十四第五項第三号に掲げる事項について同法第七条第三項に基づき設置若しくは変更の許可を受けたもの若しくは令第四条第二項に基づき変更の届出をしたもの又は施行規則第一条の十四第一項第二号に掲げる事項について令第四条第一項若しくは第三項に基づき変更の届出をしたもの"
+                        }
+                      },
+                      {
+                        "@Num": "3",
+                        "Subitem1Title": "ハ",
+                        "Subitem1Sentence": {
+                          "Sentence": "前号イ、ハ又はニに該当するもの"
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "@Num": "5",
+            "ArticleCaption": "（調査の期日）",
+            "ArticleTitle": "第五条",
+            "Paragraph": [
+              {
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": [
+                    {
+                      "@Function": "main",
+                      "@Num": "1",
+                      "#text": "静態調査は、三年目ごとの各年の厚生労働大臣の定める日現在によつて行なう。"
+                    },
+                    {
+                      "@Function": "proviso",
+                      "@Num": "2",
+                      "#text": "ただし、厚生労働大臣が必要と認めた場合には、その中間の時期において臨時の静態調査を行なうことができる。"
+                    }
+                  ]
+                }
+              },
+              {
+                "@Num": "2",
+                "ParagraphNum": "２",
+                "ParagraphSentence": {
+                  "Sentence": "動態調査は、前条第二項に規定する届出の受理又は処分（以下「処分等」という。）をしたときに行なう。"
+                }
+              }
+            ]
+          },
+          {
+            "@Num": "6",
+            "ArticleCaption": "（調査事項）",
+            "ArticleTitle": "第六条",
+            "Paragraph": [
+              {
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": "静態調査は、次に掲げる事項について行う。"
+                },
+                "Item": [
+                  {
+                    "@Num": "1",
+                    "ItemTitle": "一",
+                    "ItemSentence": {
+                      "Sentence": "名称"
+                    }
+                  },
+                  {
+                    "@Num": "2",
+                    "ItemTitle": "二",
+                    "ItemSentence": {
+                      "Sentence": "所在地"
+                    }
+                  },
+                  {
+                    "@Num": "3",
+                    "ItemTitle": "三",
+                    "ItemSentence": {
+                      "Sentence": "開設者"
+                    }
+                  },
+                  {
+                    "@Num": "4",
+                    "ItemTitle": "四",
+                    "ItemSentence": {
+                      "Sentence": "診療科目"
+                    }
+                  },
+                  {
+                    "@Num": "5",
+                    "ItemTitle": "五",
+                    "ItemSentence": {
+                      "Sentence": "設備"
+                    }
+                  },
+                  {
+                    "@Num": "6",
+                    "ItemTitle": "六",
+                    "ItemSentence": {
+                      "Sentence": "従事者の数及びその勤務の状況"
+                    }
+                  },
+                  {
+                    "@Num": "7",
+                    "ItemTitle": "七",
+                    "ItemSentence": {
+                      "Sentence": "許可病床数"
+                    }
+                  },
+                  {
+                    "@Num": "8",
+                    "ItemTitle": "八",
+                    "ItemSentence": {
+                      "Sentence": "社会保険診療の状況"
+                    }
+                  },
+                  {
+                    "@Num": "9",
+                    "ItemTitle": "九",
+                    "ItemSentence": {
+                      "Sentence": "救急病院・診療所の告示の有無"
+                    }
+                  },
+                  {
+                    "@Num": "10",
+                    "ItemTitle": "十",
+                    "ItemSentence": {
+                      "Sentence": "診療及び検査の実施の状況"
+                    }
+                  },
+                  {
+                    "@Num": "11",
+                    "ItemTitle": "十一",
+                    "ItemSentence": {
+                      "Sentence": "その他前各号に関連する事項"
+                    }
+                  }
+                ]
+              },
+              {
+                "@Num": "2",
+                "ParagraphNum": "２",
+                "ParagraphSentence": {
+                  "Sentence": "動態調査は、次の各号に掲げる医療施設の区分に応じて、当該各号に掲げる事項について行う。"
+                },
+                "Item": [
+                  {
+                    "@Num": "1",
+                    "ItemTitle": "一",
+                    "ItemSentence": {
+                      "Sentence": "第四条第二項第一号イ又は同項第二号イ若しくは同号ハ（同項第一号イに該当するものに限る。）に規定するもの"
+                    },
+                    "Subitem1": [
+                      {
+                        "@Num": "1",
+                        "Subitem1Title": "イ",
+                        "Subitem1Sentence": {
+                          "Sentence": "名称"
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "Subitem1Title": "ロ",
+                        "Subitem1Sentence": {
+                          "Sentence": "開設年月日"
+                        }
+                      },
+                      {
+                        "@Num": "3",
+                        "Subitem1Title": "ハ",
+                        "Subitem1Sentence": {
+                          "Sentence": "所在地"
+                        }
+                      },
+                      {
+                        "@Num": "4",
+                        "Subitem1Title": "ニ",
+                        "Subitem1Sentence": {
+                          "Sentence": "開設者"
+                        }
+                      },
+                      {
+                        "@Num": "5",
+                        "Subitem1Title": "ホ",
+                        "Subitem1Sentence": {
+                          "Sentence": "診療科目"
+                        }
+                      },
+                      {
+                        "@Num": "6",
+                        "Subitem1Title": "ヘ",
+                        "Subitem1Sentence": {
+                          "Sentence": "許可病床数"
+                        }
+                      },
+                      {
+                        "@Num": "7",
+                        "Subitem1Title": "ト",
+                        "Subitem1Sentence": {
+                          "Sentence": "従事者数"
+                        }
+                      },
+                      {
+                        "@Num": "8",
+                        "Subitem1Title": "チ",
+                        "Subitem1Sentence": {
+                          "Sentence": "社会保険診療の状況"
+                        }
+                      },
+                      {
+                        "@Num": "9",
+                        "Subitem1Title": "リ",
+                        "Subitem1Sentence": {
+                          "Sentence": "その他イからチまでに関連する事項"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Num": "2",
+                    "ItemTitle": "二",
+                    "ItemSentence": {
+                      "Sentence": "第四条第二項第一号ロ、ホ若しくはヘ又は同項第二号ロに規定するもの"
+                    },
+                    "Subitem1": [
+                      {
+                        "@Num": "1",
+                        "Subitem1Title": "イ",
+                        "Subitem1Sentence": {
+                          "Sentence": "名称"
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "Subitem1Title": "ロ",
+                        "Subitem1Sentence": {
+                          "Sentence": "変更年月日"
+                        }
+                      },
+                      {
+                        "@Num": "3",
+                        "Subitem1Title": "ハ",
+                        "Subitem1Sentence": {
+                          "Sentence": "診療科目"
+                        }
+                      },
+                      {
+                        "@Num": "4",
+                        "Subitem1Title": "ニ",
+                        "Subitem1Sentence": {
+                          "Sentence": "許可病床数"
+                        }
+                      },
+                      {
+                        "@Num": "5",
+                        "Subitem1Title": "ホ",
+                        "Subitem1Sentence": {
+                          "Sentence": "その他イからニまでに関連する事項"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Num": "3",
+                    "ItemTitle": "三",
+                    "ItemSentence": {
+                      "Sentence": "第四条第二項第一号及び第二号に規定するもののうち前二号に掲げるもの以外のもの"
+                    },
+                    "Subitem1": [
+                      {
+                        "@Num": "1",
+                        "Subitem1Title": "イ",
+                        "Subitem1Sentence": {
+                          "Sentence": "名称"
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "Subitem1Title": "ロ",
+                        "Subitem1Sentence": {
+                          "Sentence": "処分等の年月日"
+                        }
+                      },
+                      {
+                        "@Num": "3",
+                        "Subitem1Title": "ハ",
+                        "Subitem1Sentence": {
+                          "Sentence": "処分等の種類"
+                        }
+                      },
+                      {
+                        "@Num": "4",
+                        "Subitem1Title": "ニ",
+                        "Subitem1Sentence": {
+                          "Sentence": "その他イからハまでに関連する事項"
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "@Num": "3",
+                "ParagraphNum": "３",
+                "ParagraphSentence": {
+                  "Sentence": "前二項の調査事項の細目は、別に厚生労働大臣が定める調査票に記載するところによる。"
+                }
+              }
+            ]
+          },
+          {
+            "@Num": "7",
+            "ArticleTitle": "第七条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "削除"
+              }
+            }
+          },
+          {
+            "@Num": "8",
+            "ArticleTitle": "第八条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "削除"
+              }
+            }
+          },
+          {
+            "@Num": "9",
+            "ArticleCaption": "（静態調査の報告の義務）",
+            "ArticleTitle": "第九条",
+            "Paragraph": [
+              {
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": "医療施設（保健所を設置する市（地方自治法（昭和二十二年法律第六十七号）第二百五十二条の十九第一項に規定する指定都市（以下「指定都市」という。）を除く。以下同じ。）の市長又は特別区の区長の管轄区域内の診療所を除く。以下この項において同じ。）の管理者は、第六条第一項各号に掲げる事項について、静態調査の調査票に記入し、都道府県知事（指定都市の市長の管轄区域内の医療施設にあつては、当該指定都市の市長。次条第一項において同じ。）の定める期限までにその医療施設の所在地を管轄する保健所長に提出しなければならない。"
+                }
+              },
+              {
+                "@Num": "2",
+                "ParagraphNum": "２",
+                "ParagraphSentence": {
+                  "Sentence": "保健所を設置する市の市長又は特別区の区長の管轄区域内の診療所の管理者は、第六条第一項各号に掲げる事項について、静態調査の調査票に記入し、保健所を設置する市の市長又は特別区の区長の定める期限までにその診療所の所在地を管轄する保健所長に提出しなければならない。"
+                }
+              }
+            ]
+          },
+          {
+            "@Num": "10",
+            "ArticleCaption": "（静態調査の調査票の提出）",
+            "ArticleTitle": "第十条",
+            "Paragraph": [
+              {
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": [
+                    {
+                      "@Function": "main",
+                      "@Num": "1",
+                      "#text": "保健所長は、前条第一項の調査票を審査整理し、都道府県知事の定める期限までに都道府県知事に提出しなければならない。"
+                    },
+                    {
+                      "@Function": "proviso",
+                      "@Num": "2",
+                      "#text": "ただし、保健所を設置する市の市長又は特別区の区長の管轄区域内の病院に係る調査票の提出については、保健所を設置する市の市長又は特別区の区長を経由して行うものとする。"
+                    }
+                  ]
+                }
+              },
+              {
+                "@Num": "2",
+                "ParagraphNum": "２",
+                "ParagraphSentence": {
+                  "Sentence": "保健所を設置する市又は特別区の保健所長は、前条第二項の調査票を審査整理し、保健所を設置する市の市長又は特別区の区長の定める期限までに保健所を設置する市の市長又は特別区の区長に提出しなければならない。"
+                }
+              },
+              {
+                "@Num": "3",
+                "ParagraphNum": "３",
+                "ParagraphSentence": {
+                  "Sentence": "保健所を設置する市の市長又は特別区の区長は、前項の規定により提出された調査票を審査整理し、都道府県知事の定める期限までに都道府県知事に提出しなければならない。"
+                }
+              },
+              {
+                "@Num": "4",
+                "ParagraphNum": "４",
+                "ParagraphSentence": {
+                  "Sentence": "指定都市の市長は、第一項の規定により提出された調査票を審査整理し、都道府県知事の定める期限までに都道府県知事に提出しなければならない。"
+                }
+              },
+              {
+                "@Num": "5",
+                "ParagraphNum": "５",
+                "ParagraphSentence": {
+                  "Sentence": "都道府県知事は、第一項、第三項及び第四項の規定により提出された調査票を審査整理し、厚生労働大臣の定める期限までに厚生労働大臣に提出しなければならない。"
+                }
+              }
+            ]
+          },
+          {
+            "@Num": "10_2",
+            "ArticleCaption": "（動態調査の調査票の提出）",
+            "ArticleTitle": "第十条の二",
+            "Paragraph": [
+              {
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": "保健所を設置する市の市長又は特別区の区長は、その管轄区域内の診療所について、第四条第二項第二号に掲げる区分に応じて、第六条第二項各号に掲げる事項を動態調査の調査票に記入し、毎月一日から月末までの分を取りまとめ、都道府県知事の定める日までに都道府県知事に提出しなければならない。"
+                }
+              },
+              {
+                "@Num": "2",
+                "ParagraphNum": "２",
+                "ParagraphSentence": {
+                  "Sentence": "指定都市の市長は、その管轄区域内の病院（第四条第二項第一号ホ及びヘに掲げるものを除く。）及び診療所について、第四条第二項第一号及び第二号に掲げる区分に応じて、第六条第二項各号に掲げる事項を動態調査の調査票に記入し、毎月一日から月末までの分を取りまとめ、都道府県知事の定める日までに都道府県知事に提出しなければならない。"
+                }
+              },
+              {
+                "@Num": "3",
+                "ParagraphNum": "３",
+                "ParagraphSentence": {
+                  "Sentence": "都道府県知事は、その管轄区域内の次に掲げる病院及び診療所について、当該各号に定める区分に応じて、第六条第二項各号に掲げる事項を動態調査の調査票に記入し、毎月一日から月末までの分を取りまとめ、前二項の規定により提出された調査票とともに、翌月二十日までに厚生労働大臣に提出しなければならない。"
+                },
+                "Item": [
+                  {
+                    "@Num": "1",
+                    "ItemTitle": "一",
+                    "ItemSentence": {
+                      "Column": [
+                        {
+                          "@Num": "1",
+                          "Sentence": "指定都市の市長の管轄区域内の病院"
+                        },
+                        {
+                          "@Num": "2",
+                          "Sentence": "第四条第二項第一号ホ及びヘ"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "@Num": "2",
+                    "ItemTitle": "二",
+                    "ItemSentence": {
+                      "Column": [
+                        {
+                          "@Num": "1",
+                          "Sentence": "指定都市の市長の管轄区域外の病院"
+                        },
+                        {
+                          "@Num": "2",
+                          "Sentence": "第四条第二項第一号"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "@Num": "3",
+                    "ItemTitle": "三",
+                    "ItemSentence": {
+                      "Column": [
+                        {
+                          "@Num": "1",
+                          "Sentence": "指定都市の市長、保健所を設置する市の市長及び特別区の区長の管轄区域外の診療所"
+                        },
+                        {
+                          "@Num": "2",
+                          "Sentence": "第四条第二項第二号"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "@Num": "11",
+            "ArticleCaption": "（結果の公表）",
+            "ArticleTitle": "第十一条",
+            "Paragraph": [
+              {
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": "厚生労働大臣は、第十条第五項の規定により、提出された調査票を審査集計して結果表を作成し、集計完了後すみやかに公表する。"
+                }
+              },
+              {
+                "@Num": "2",
+                "ParagraphNum": "２",
+                "ParagraphSentence": {
+                  "Sentence": "厚生労働大臣は、前条第三項の規定により提出された調査票を審査集計して結果表を作成し、毎月分をすみやかに公表する。"
+                }
+              },
+              {
+                "@Num": "3",
+                "ParagraphNum": "３",
+                "ParagraphSentence": {
+                  "Sentence": "厚生労働大臣は、第一項の結果に前項の結果のうち必要と認める結果を順次加減して毎月の結果表を作成し、すみやかに公表する。"
+                }
+              }
+            ]
+          },
+          {
+            "@Num": "12",
+            "ArticleCaption": "（保存期間）",
+            "ArticleTitle": "第十二条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "厚生労働大臣の保存する調査票の保存期間は一年とし、調査票及び結果原表を収録した磁気媒体の保存期間は永年とする。"
+              }
+            }
+          },
+          {
+            "@Num": "13",
+            "ArticleCaption": "（事故のときの処置）",
+            "ArticleTitle": "第十三条",
+            "Paragraph": [
+              {
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": "保健所を設置する市の市長又は特別区の区長は、天災事変その他の避けることのできない事故のため、第十条第三項又は第十条の二第一項に定める期限までに調査票を提出することができないときは、その旨を直ちに都道府県知事に報告しなければならない。"
+                }
+              },
+              {
+                "@Num": "2",
+                "ParagraphNum": "２",
+                "ParagraphSentence": {
+                  "Sentence": "指定都市の市長は、天災事変その他の避けることのできない事故のため、第十条第四項又は第十条の二第二項に定める期限までに調査票を提出することができないときは、その旨を直ちに都道府県知事に報告しなければならない。"
+                }
+              },
+              {
+                "@Num": "3",
+                "ParagraphNum": "３",
+                "ParagraphSentence": {
+                  "Sentence": "都道府県知事は、天災事変その他の避けることのできない事故のため、第十条第五項又は第十条の二第三項に定める期限までに調査票を提出することができないときは、その旨を直ちに厚生労働大臣に報告しなければならない。"
+                }
+              }
+            ]
+          },
+          {
+            "@Num": "14",
+            "ArticleCaption": "（電子情報処理組織による報告）",
+            "ArticleTitle": "第十四条",
+            "Paragraph": [
+              {
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": "第九条に規定する調査票については、第六条第三項に基づき厚生労働大臣が定める調査票の各欄に記載する事項を厚生労働省の使用に係る電子計算機（入出力装置を含む。以下同じ。）で明確に判別できるように記録する場合には、厚生労働省の使用に係る電子計算機と報告しようとする者の使用に係る電子計算機とを電気通信回線で接続した電子情報処理組織を使用して提出することができる。"
+                }
+              },
+              {
+                "@Num": "2",
+                "ParagraphNum": "２",
+                "ParagraphSentence": {
+                  "Sentence": "第十条の二に規定する調査票については、第六条第三項に基づき厚生労働大臣が定める調査票の各欄に記載する事項を厚生労働省の使用に係る電子計算機で明確に判別できるように記録し、厚生労働省の使用に係る電子計算機と報告しようとする者の使用に係る電子計算機とを電気通信回線で接続した電子情報処理組織を使用して提出しなければならない。"
+                }
+              }
+            ]
+          },
+          {
+            "@Num": "15",
+            "ArticleTitle": "第十五条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "削除"
+              }
+            }
+          }
+        ]
+      },
+      "SupplProvision": [
+        {
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": "１",
+            "ParagraphSentence": {
+              "Sentence": "この省令は、公布の日から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "昭和二九年六月三〇日厚生省令第二九号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この省令は、公布の日から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "昭和四二年一一月二八日厚生省令第五一号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この省令は、公布の日から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "昭和四八年一〇月二六日厚生省令第四三号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": [
+            {
+              "@Num": "1",
+              "ParagraphNum": "１",
+              "ParagraphSentence": {
+                "Sentence": "この省令は、昭和四十八年十一月一日から施行する。"
+              }
+            },
+            {
+              "@Num": "3",
+              "ParagraphNum": "３",
+              "ParagraphSentence": {
+                "Sentence": "新規則に規定する最初の静態調査は、昭和五十年に行なうものとする。"
+              }
+            },
+            {
+              "@Num": "4",
+              "ParagraphNum": "４",
+              "ParagraphSentence": {
+                "Sentence": "改正前の医療施設調査規則に規定する医療施設調査は、新規則に規定する静態調査とみなす。"
+              }
+            }
+          ]
+        },
+        {
+          "@AmendLawNum": "昭和五〇年一一月二六日厚生省令第四二号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": [
+                {
+                  "@Function": "main",
+                  "@Num": "1",
+                  "#text": "この省令は、昭和五十一年一月一日から施行する。"
+                },
+                {
+                  "@Function": "proviso",
+                  "@Num": "2",
+                  "#text": "ただし、この省令の施行前の期間に係る報告については、なお従前の例による。"
+                }
+              ]
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "昭和五三年一一月一三日厚生省令第七〇号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この省令は、公布の日から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "昭和五五年一一月四日厚生省令第四三号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": [
+                {
+                  "@Function": "main",
+                  "@Num": "1",
+                  "#text": "この省令は、昭和五十六年一月一日から施行する。"
+                },
+                {
+                  "@Function": "proviso",
+                  "@Num": "2",
+                  "#text": "ただし、この省令の施行前の期間に係る報告については、なお従前の例による。"
+                }
+              ]
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "昭和五六年一〇月二一日厚生省令第六四号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この省令は、公布の日から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "昭和五八年一月二二日厚生省令第一号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この省令は、昭和五十八年一月二十三日から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "昭和五八年一二月一〇日厚生省令第四三号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": [
+            {
+              "@Num": "1",
+              "ParagraphNum": "１",
+              "ParagraphSentence": {
+                "Sentence": "この省令は、昭和五十九年一月一日から施行する。"
+              }
+            },
+            {
+              "@Num": "2",
+              "ParagraphNum": "２",
+              "ParagraphSentence": {
+                "Sentence": "調査の期日がこの省令施行前の期間に係る報告については、なお従前の例による。"
+              }
+            }
+          ]
+        },
+        {
+          "@AmendLawNum": "昭和六一年二月二五日厚生省令第四号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この省令は、公布の日から施行し、昭和六十年十二月一日から同月三十一日までの間に係る報告から適用する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成九年三月三一日厚生省令第三四号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": [
+                {
+                  "@Function": "main",
+                  "@Num": "1",
+                  "#text": "この省令は、平成九年四月一日から施行する。"
+                },
+                {
+                  "@Function": "proviso",
+                  "@Num": "2",
+                  "#text": "ただし、この省令の施行前の期間に係る報告については、なお従前の例による。"
+                }
+              ]
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成一〇年四月二八日厚生省令第五四号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この省令は、公布の日から施行し、改正後の第四条の規定は、平成十年四月分の動態調査から適用する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成一一年八月五日厚生省令第七七号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この省令は、平成十一年十月一日から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成一二年三月三一日厚生省令第八五号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この省令は、平成十二年四月一日から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成一二年一〇月二〇日厚生省令第一二七号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphCaption": "（施行期日）",
+            "ParagraphNum": "１",
+            "ParagraphSentence": {
+              "Sentence": "この省令は、内閣法の一部を改正する法律（平成十一年法律第八十八号）の施行の日（平成十三年一月六日）から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成一三年一月三一日厚生労働省令第八号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Article": {
+            "@Num": "1",
+            "ArticleCaption": "（施行期日）",
+            "ArticleTitle": "第一条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "この省令は、医療法等の一部を改正する法律（平成十二年法律第百四十一号）の施行の日（平成十三年三月一日）から施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成一四年八月二六日厚生労働省令第一〇九号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この省令は、平成十四年十月一日から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成一七年七月六日厚生労働省令第一一五号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この省令は、公布の日から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成一九年三月三〇日厚生労働省令第三九号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Article": {
+            "@Num": "1",
+            "ArticleCaption": "（施行期日）",
+            "ArticleTitle": "第一条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "この省令は、平成十九年四月一日（以下「施行日」という。）から施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成二一年三月一九日厚生労働省令第四一号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": [
+            {
+              "@Num": "1",
+              "ParagraphNum": "１",
+              "ParagraphSentence": {
+                "Sentence": "この省令は、統計法の施行の日（平成二十一年四月一日）から施行する。"
+              }
+            },
+            {
+              "@Num": "2",
+              "ParagraphNum": "２",
+              "ParagraphSentence": {
+                "Sentence": "この省令の施行の際現にこの省令による改正前の薬事工業生産動態統計調査規則第七条、医療施設調査規則第九条、患者調査規則第九条、毎月勤労統計調査規則第十六条、賃金構造基本統計調査規則第八条又は国民生活基礎調査規則第十条の規定により調査の申告を求められている者は、それぞれこの省令による改正後の薬事工業生産動態統計調査規則第七条、医療施設調査規則第九条、患者調査規則第九条、毎月勤労統計調査規則第十六条、賃金構造基本統計調査規則第八条又は国民生活基礎調査規則第十条の規定により調査の報告を求められた者とみなす。"
+              }
+            }
+          ]
+        },
+        {
+          "@AmendLawNum": "平成二七年四月三〇日厚生労働省令第九七号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Article": {
+            "@Num": "1",
+            "ArticleCaption": "（施行期日）",
+            "ArticleTitle": "第一条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "この省令は、公布の日から施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成二九年六月二〇日厚生労働省令第六四号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この省令は、平成二十九年十月一日から施行する。"
+            }
+          }
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,3587 @@
+{
+  "Law": {
+    "@DataInfo": "180601e01k01m01",
+    "@Era": "Heisei",
+    "@Lang": "ja",
+    "@LawType": "CabinetOrder",
+    "@Num": "2",
+    "@Year": "16",
+    "LawNum": "平成十六年政令第二号",
+    "LawBody": {
+      "LawTitle": "独立行政法人日本学生支援機構法施行令",
+      "EnactStatement": "内閣は、独立行政法人日本学生支援機構法（平成十五年法律第九十四号）第十四条第三項から第五項まで、第十五条、第十六条、第十九条第七項及び第二十七条並びに附則第二条、第八条第一項及び第二項、同条第四項（附則第十条第六項において準用する場合を含む。）、第九条、第十条第三項及び第七項、第十一条並びに第二十条の規定に基づき、並びに同法を実施するため、この政令を制定する。",
+      "MainProvision": {
+        "Article": [
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "1",
+            "ArticleCaption": "（第一種学資貸与金の額）",
+            "ArticleTitle": "第一条",
+            "Paragraph": [
+              {
+                "@Hide": "false",
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "独立行政法人日本学生支援機構法（以下「法」という。）第十四条第一項の第一種学資貸与金（以下単に「第一種学資貸与金」という。）の月額は、次の表の上欄に掲げる学校に在学する者について、同欄に掲げる学校等及び通学形態の区分に応じ、それぞれ同表の下欄に定める額のうち貸与を受ける学生又は生徒が選択する額とする。"
+                  }
+                },
+                "TableStruct": {
+                  "Table": {
+                    "@WritingMode": "vertical",
+                    "TableRow": [
+                      {
+                        "TableColumn": [
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "@colspan": "4",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "区分"
+                            }
+                          },
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "月額"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "TableColumn": [
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "@rowspan": "6",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "大学"
+                            }
+                          },
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "@colspan": "2",
+                            "@rowspan": "2",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "地方公共団体、国立大学法人（国立大学法人法（平成十五年法律第百十二号）第二条第一項に規定する国立大学法人をいう。以下同じ。）及び公立大学法人（地方独立行政法人法（平成十五年法律第百十八号）第六十八条第一項に規定する公立大学法人をいう。以下同じ。）が設置する大学"
+                            }
+                          },
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "自宅通学のとき"
+                            }
+                          },
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "二〇、〇〇〇円、三〇、〇〇〇円又は四五、〇〇〇円"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "TableColumn": [
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "自宅外通学のとき"
+                            }
+                          },
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "二〇、〇〇〇円、三〇、〇〇〇円、四〇、〇〇〇円又は五一、〇〇〇円"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "TableColumn": [
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "@rowspan": "4",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "私立の大学"
+                            }
+                          },
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "@rowspan": "2",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "学部"
+                            }
+                          },
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "自宅通学のとき"
+                            }
+                          },
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "二〇、〇〇〇円、三〇、〇〇〇円、四〇、〇〇〇円又は五四、〇〇〇円"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "TableColumn": [
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "自宅外通学のとき"
+                            }
+                          },
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "二〇、〇〇〇円、三〇、〇〇〇円、四〇、〇〇〇円、五〇、〇〇〇円又は六四、〇〇〇円"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "TableColumn": [
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "@rowspan": "2",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "短期大学"
+                            }
+                          },
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "自宅通学のとき"
+                            }
+                          },
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "二〇、〇〇〇円、三〇、〇〇〇円、四〇、〇〇〇円又は五三、〇〇〇円"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "TableColumn": [
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "自宅外通学のとき"
+                            }
+                          },
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "二〇、〇〇〇円、三〇、〇〇〇円、四〇、〇〇〇円、五〇、〇〇〇円又は六〇、〇〇〇円"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "TableColumn": [
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "@rowspan": "2",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "大学院"
+                            }
+                          },
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "@colspan": "3",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "修士課程及び専門職大学院の課程"
+                            }
+                          },
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "五〇、〇〇〇円又は八八、〇〇〇円"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "TableColumn": [
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "@colspan": "3",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "博士課程"
+                            }
+                          },
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "八〇、〇〇〇円又は一二二、〇〇〇円"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "TableColumn": [
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "@rowspan": "8",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "高等専門学校"
+                            }
+                          },
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "@rowspan": "4",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "地方公共団体、独立行政法人国立高等専門学校機構及び公立大学法人が設置する高等専門学校"
+                            }
+                          },
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "@rowspan": "2",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "第一学年から第三学年まで"
+                            }
+                          },
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "自宅通学のとき"
+                            }
+                          },
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "一〇、〇〇〇円又は二一、〇〇〇円"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "TableColumn": [
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "自宅外通学のとき"
+                            }
+                          },
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "一〇、〇〇〇円又は二二、五〇〇円"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "TableColumn": [
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "@rowspan": "2",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "第四学年及び第五学年"
+                            }
+                          },
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "自宅通学のとき"
+                            }
+                          },
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "二〇、〇〇〇円、三〇、〇〇〇円又は四五、〇〇〇円"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "TableColumn": [
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "自宅外通学のとき"
+                            }
+                          },
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "二〇、〇〇〇円、三〇、〇〇〇円、四〇、〇〇〇円又は五一、〇〇〇円"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "TableColumn": [
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "@rowspan": "4",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "私立の高等専門学校"
+                            }
+                          },
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "@rowspan": "2",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "第一学年から第三学年まで"
+                            }
+                          },
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "自宅通学のとき"
+                            }
+                          },
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "一〇、〇〇〇円又は三二、〇〇〇円"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "TableColumn": [
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "自宅外通学のとき"
+                            }
+                          },
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "一〇、〇〇〇円又は三五、〇〇〇円"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "TableColumn": [
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "@rowspan": "2",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "第四学年及び第五学年"
+                            }
+                          },
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "自宅通学のとき"
+                            }
+                          },
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "二〇、〇〇〇円、三〇、〇〇〇円、四〇、〇〇〇円又は五三、〇〇〇円"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "TableColumn": [
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "自宅外通学のとき"
+                            }
+                          },
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "二〇、〇〇〇円、三〇、〇〇〇円、四〇、〇〇〇円、五〇、〇〇〇円又は六〇、〇〇〇円"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "TableColumn": [
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "@rowspan": "4",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "専修学校"
+                            }
+                          },
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "@colspan": "2",
+                            "@rowspan": "2",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "国、地方公共団体、独立行政法人（独立行政法人通則法（平成十一年法律第百三号）第二条第一項に規定する独立行政法人をいう。第八条の二第一項の表において同じ。）、国立大学法人及び地方独立行政法人（地方独立行政法人法第二条第一項に規定する地方独立行政法人をいう。同表において同じ。）が設置する専修学校（専門課程に限る。附則第十一条第一項を除き、以下同じ。）"
+                            }
+                          },
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "自宅通学のとき"
+                            }
+                          },
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "二〇、〇〇〇円、三〇、〇〇〇円又は四五、〇〇〇円"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "TableColumn": [
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "自宅外通学のとき"
+                            }
+                          },
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "二〇、〇〇〇円、三〇、〇〇〇円、四〇、〇〇〇円又は五一、〇〇〇円"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "TableColumn": [
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "@colspan": "2",
+                            "@rowspan": "2",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "私立の専修学校"
+                            }
+                          },
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "自宅通学のとき"
+                            }
+                          },
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "二〇、〇〇〇円、三〇、〇〇〇円、四〇、〇〇〇円又は五三、〇〇〇円"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "TableColumn": [
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "自宅外通学のとき"
+                            }
+                          },
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "二〇、〇〇〇円、三〇、〇〇〇円、四〇、〇〇〇円、五〇、〇〇〇円又は六〇、〇〇〇円"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "TableColumn": {
+                          "@BorderBottom": "solid",
+                          "@BorderLeft": "solid",
+                          "@BorderRight": "solid",
+                          "@BorderTop": "solid",
+                          "@colspan": "5",
+                          "Sentence": [
+                            {
+                              "@WritingMode": "vertical",
+                              "#text": "備考"
+                            },
+                            {
+                              "@WritingMode": "vertical",
+                              "#text": "一　「大学」には、別科（機械又は装置の修理、保守又は操作、製造、加工、建設、医療、栄養の指導、保育、経理その他これらに類する職業に必要な技術（第五号において「特定技術」という。）の教授を目的とするもので文部科学省令で定めるもの（次号において「特定別科」という。）を除く。）を含まない（第六条を除き、以下同じ。）。"
+                            },
+                            {
+                              "@WritingMode": "vertical",
+                              "#text": "二　「学部」には、専攻科及び特定別科を含む。"
+                            },
+                            {
+                              "@WritingMode": "vertical",
+                              "#text": "三　「修士課程」には、博士課程のうち、修士課程として取り扱われる課程及び修士課程に相当すると認められるものを含む。"
+                            },
+                            {
+                              "@WritingMode": "vertical",
+                              "#text": "四　「第四学年及び第五学年」には、専攻科を含む（以下同じ。）。"
+                            },
+                            {
+                              "@WritingMode": "vertical",
+                              "#text": "五　「専門課程」は、特定技術の教授を目的とする専門課程で文部科学省令で定めるものに限る。"
+                            },
+                            {
+                              "@WritingMode": "vertical",
+                              "#text": "六　「自宅通学のとき」とは、その者の生計を維持する者と同居するとき、又はこれに準ずると認められるときをいう（第八条の二第一項の表において同じ。）。"
+                            },
+                            {
+                              "@WritingMode": "vertical",
+                              "#text": "七　「自宅外通学のとき」とは、前号の自宅通学のとき以外のときをいう（第八条の二第一項の表において同じ。）。"
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  }
+                }
+              },
+              {
+                "@Hide": "false",
+                "@Num": "2",
+                "ParagraphNum": "２",
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "大学、高等専門学校（第四学年及び第五学年に限る。）又は専修学校に在学する者のうち、その者の生計を維持する者の所得が文部科学大臣の認可を受けて独立行政法人日本学生支援機構（以下「機構」という。）の定める額以上であるものに対する第一種学資貸与金の月額については、前項の表大学の項下欄、高等専門学校の項下欄又は専修学校の項下欄の規定にかかわらず、同表の上欄に掲げる学校等及び通学形態の区分に応じ、それぞれ同表の下欄に定める額（そのうち最も高い額を除く。）のうち貸与を受ける学生又は生徒が選択する額とする。"
+                  }
+                }
+              },
+              {
+                "@Hide": "false",
+                "@Num": "3",
+                "ParagraphNum": "３",
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "大学又は専修学校において通信による教育を受ける者のうち、教員に面接して授業を受ける期間が夏季等の特別の時期に集中する者その他文部科学省令で定める者（第八条の二第三項において「特定通信教育受講者」という。）に対する第一種学資貸与金の月額については、第一項の表大学の項下欄若しくは専修学校の項下欄又は前項の規定にかかわらず、年当たりの合計額が八八、〇〇〇円を超えない額の範囲内で学校等の種別及び通学形態の別を考慮して機構の定める額とする。"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "2",
+            "ArticleCaption": "（第二種学資貸与金の貸与並びにその額及び利率）",
+            "ArticleTitle": "第二条",
+            "Paragraph": [
+              {
+                "@Hide": "false",
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "法第十四条第一項の第二種学資貸与金（以下単に「第二種学資貸与金」という。）の月額は、次の各号に掲げる学校に在学する者（通信による教育を受ける者を除く。）について、それぞれ当該各号に定める額のうち貸与を受ける学生又は生徒が選択する額とし、その利率は、年三パーセントとする。"
+                  }
+                },
+                "Item": [
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "1",
+                    "ItemTitle": "一",
+                    "ItemSentence": {
+                      "Column": [
+                        {
+                          "@LineBreak": "false",
+                          "@Num": "1",
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "大学"
+                          }
+                        },
+                        {
+                          "@LineBreak": "false",
+                          "@Num": "2",
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "二〇、〇〇〇円、三〇、〇〇〇円、四〇、〇〇〇円、五〇、〇〇〇円、六〇、〇〇〇円、七〇、〇〇〇円、八〇、〇〇〇円、九〇、〇〇〇円、一〇〇、〇〇〇円、一一〇、〇〇〇円又は一二〇、〇〇〇円"
+                          }
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "2",
+                    "ItemTitle": "二",
+                    "ItemSentence": {
+                      "Column": [
+                        {
+                          "@LineBreak": "false",
+                          "@Num": "1",
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "大学院"
+                          }
+                        },
+                        {
+                          "@LineBreak": "false",
+                          "@Num": "2",
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "五〇、〇〇〇円、八〇、〇〇〇円、一〇〇、〇〇〇円、一三〇、〇〇〇円又は一五〇、〇〇〇円"
+                          }
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "3",
+                    "ItemTitle": "三",
+                    "ItemSentence": {
+                      "Column": [
+                        {
+                          "@LineBreak": "false",
+                          "@Num": "1",
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "高等専門学校（第四学年及び第五学年に限る。）"
+                          }
+                        },
+                        {
+                          "@LineBreak": "false",
+                          "@Num": "2",
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "二〇、〇〇〇円、三〇、〇〇〇円、四〇、〇〇〇円、五〇、〇〇〇円、六〇、〇〇〇円、七〇、〇〇〇円、八〇、〇〇〇円、九〇、〇〇〇円、一〇〇、〇〇〇円、一一〇、〇〇〇円又は一二〇、〇〇〇円"
+                          }
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "4",
+                    "ItemTitle": "四",
+                    "ItemSentence": {
+                      "Column": [
+                        {
+                          "@LineBreak": "false",
+                          "@Num": "1",
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "専修学校"
+                          }
+                        },
+                        {
+                          "@LineBreak": "false",
+                          "@Num": "2",
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "二〇、〇〇〇円、三〇、〇〇〇円、四〇、〇〇〇円、五〇、〇〇〇円、六〇、〇〇〇円、七〇、〇〇〇円、八〇、〇〇〇円、九〇、〇〇〇円、一〇〇、〇〇〇円、一一〇、〇〇〇円又は一二〇、〇〇〇円"
+                          }
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "@Hide": "false",
+                "@Num": "2",
+                "ParagraphNum": "２",
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "私立の大学の医学、歯学、薬学若しくは獣医学を履修する課程又は法科大学院（専門職大学院であって、法曹に必要な学識及び能力を培うことを目的とするものをいう。以下この項において同じ。）の法学を履修する課程に在学する者に対する第二種学資貸与金については、前項の規定にかかわらず、その月額を、次の表の上欄に掲げる課程の区分に応じ、それぞれ同表の中欄に定める額（機構の定める額が二以上あるときは、そのうち貸与を受ける学生が選択する額）とすることができるものとし、その場合における利率は、年当たり同表の下欄に掲げる算式により算定した利率とする。"
+                  }
+                },
+                "TableStruct": {
+                  "Table": {
+                    "@WritingMode": "vertical",
+                    "TableRow": [
+                      {
+                        "TableColumn": [
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "区分"
+                            }
+                          },
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "月額"
+                            }
+                          },
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "利率（パーセント）"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "TableColumn": [
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "私立の大学の医学又は歯学を履修する課程"
+                            }
+                          },
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "一二〇、〇〇〇円を超え一六〇、〇〇〇円以内で機構の定める額"
+                            }
+                          },
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "@rowspan": "3",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "（Ａ×３＋（Ｂ－Ａ）×ｒ）／Ｂ"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "TableColumn": [
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "私立の大学の薬学又は獣医学を履修する課程"
+                            }
+                          },
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "一二〇、〇〇〇円を超え一四〇、〇〇〇円以内で機構の定める額"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "TableColumn": [
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "法科大学院の法学を履修する課程"
+                            }
+                          },
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "一五〇、〇〇〇円を超え二二〇、〇〇〇円以内で機構の定める額"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "TableColumn": {
+                          "@BorderBottom": "solid",
+                          "@BorderLeft": "solid",
+                          "@BorderRight": "solid",
+                          "@BorderTop": "solid",
+                          "@colspan": "3",
+                          "Sentence": [
+                            {
+                              "@Num": "1",
+                              "@WritingMode": "vertical",
+                              "#text": "備考　この表の下欄に掲げる算式中次に掲げる記号の意義は、それぞれ次に定めるとおりとする。"
+                            },
+                            {
+                              "@Num": "2",
+                              "@WritingMode": "vertical",
+                              "#text": "Ａ　私立の大学の医学又は歯学を履修する課程及び薬学又は獣医学を履修する課程にあっては一二〇、〇〇〇円、法科大学院の法学を履修する課程にあっては一五〇、〇〇〇円"
+                            },
+                            {
+                              "@Num": "3",
+                              "@WritingMode": "vertical",
+                              "#text": "Ｂ　この表の中欄の機構の定める額（その額が二以上あるときは、そのうち貸与を受ける学生が選択した額）"
+                            },
+                            {
+                              "@Num": "4",
+                              "@WritingMode": "vertical",
+                              "#text": "ｒ　年三パーセントを超える利率で機構の定める利率に相当する数"
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  }
+                }
+              },
+              {
+                "@Hide": "false",
+                "@Num": "3",
+                "ParagraphNum": "３",
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "第一項各号に掲げる学校（以下この項及び次条第一項において「貸与対象校」という。）に在学する者が当該貸与対象校に入学した月又は当該貸与対象校（学校教育法（昭和二十二年法律第二十六号）の規定により設置されたものに限る。同条第一項において「貸与対象日本校」という。）に在学する者が外国の大学若しくは大学院に留学した月に貸与される第二種学資貸与金の月額については、前二項の規定にかかわらず、第一項の場合にあっては同項各号に定める額のうち学生又は生徒が選択する額に、前項の場合にあっては同項の表の中欄に掲げる機構の定める額（その額が二以上あるときは、そのうち貸与を受ける学生が選択する額）に、それぞれ一〇〇、〇〇〇円、二〇〇、〇〇〇円、三〇〇、〇〇〇円、四〇〇、〇〇〇円又は五〇〇、〇〇〇円（貸与を受ける学生又は生徒が当該入学をした月に当該留学をした場合においては、一〇〇、〇〇〇円、二〇〇、〇〇〇円、三〇〇、〇〇〇円、四〇〇、〇〇〇円、五〇〇、〇〇〇円、六〇〇、〇〇〇円、七〇〇、〇〇〇円、八〇〇、〇〇〇円、九〇〇、〇〇〇円又は一、〇〇〇、〇〇〇円）のうち貸与を受ける学生又は生徒が選択する額を加えた額とすることができるものとし、その場合における利率は、年当たり次の算式により算定した利率とする。"
+                  }
+                },
+                "TableStruct": {
+                  "Table": {
+                    "@WritingMode": "vertical",
+                    "TableRow": {
+                      "TableColumn": {
+                        "@BorderBottom": "none",
+                        "@BorderLeft": "none",
+                        "@BorderRight": "none",
+                        "@BorderTop": "none",
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "ArithFormula": "利率（パーセント）＝（Ｃ×３＋（Ｄ－Ｃ）×ｒ）／Ｄ"
+                        }
+                      }
+                    }
+                  },
+                  "Remarks": {
+                    "RemarksLabel": {
+                      "@LineBreak": "false",
+                      "#text": "備考"
+                    },
+                    "Item": {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "1",
+                      "ItemTitle": null,
+                      "ItemSentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "この算式中次に掲げる記号の意義は、それぞれ次に定めるとおりとする。"
+                        }
+                      },
+                      "Subitem1": [
+                        {
+                          "@Delete": "false",
+                          "@Hide": "false",
+                          "@Num": "1",
+                          "Subitem1Title": "Ｃ",
+                          "Subitem1Sentence": {
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "第一項の場合にあっては同項各号に定める額のうち学生又は生徒が選択した額、前項の場合にあっては同項の表の備考に規定するＡの額"
+                            }
+                          }
+                        },
+                        {
+                          "@Delete": "false",
+                          "@Hide": "false",
+                          "@Num": "2",
+                          "Subitem1Title": "Ｄ",
+                          "Subitem1Sentence": {
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "第一項の場合にあっては同項各号に定める額のうち学生又は生徒が選択した額に、前項の場合にあっては同項の表の中欄に掲げる機構の定める額（その額が二以上あるときは、そのうち貸与を受ける学生が選択した額）に、それぞれ貸与を受ける学生又は生徒がこの項の規定により選択した額を加えた額"
+                            }
+                          }
+                        },
+                        {
+                          "@Delete": "false",
+                          "@Hide": "false",
+                          "@Num": "3",
+                          "Subitem1Title": "ｒ",
+                          "Subitem1Sentence": {
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "年三パーセントを超える利率で機構の定める利率に相当する数"
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "3",
+            "ArticleCaption": "（第一種学資貸与金に併せて貸与する第二種学資貸与金の額及び利率）",
+            "ArticleTitle": "第三条",
+            "Paragraph": [
+              {
+                "@Hide": "false",
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "法第十四条第五項の規定により第一種学資貸与金に併せて貸与する第二種学資貸与金については、月額第二種学資貸与金（貸与対象校に在学する者に対し、機構の定める期間において毎月貸与する第二種学資貸与金をいう。次項において同じ。）又は一時金額第二種学資貸与金（貸与対象校に入学した者に対しその入学の際に一時金として貸与する第二種学資貸与金及び貸与対象日本校に在学する者に対しその者が外国の大学又は大学院に留学する際に一時金として貸与する第二種学資貸与金をいう。第三項において同じ。）のうち、貸与を受ける学生又は生徒が機構の定めるところにより選択するいずれか一の第二種学資貸与金とする。"
+                  }
+                }
+              },
+              {
+                "@Hide": "false",
+                "@Num": "2",
+                "ParagraphNum": "２",
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "月額第二種学資貸与金の額及び利率については、前条の規定の例による。"
+                  }
+                }
+              },
+              {
+                "@Hide": "false",
+                "@Num": "3",
+                "ParagraphNum": "３",
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "一時金額第二種学資貸与金の額は、一〇〇、〇〇〇円、二〇〇、〇〇〇円、三〇〇、〇〇〇円、四〇〇、〇〇〇円又は五〇〇、〇〇〇円（貸与を受ける学生又は生徒が当該入学をした月に当該留学をした場合においては、一〇〇、〇〇〇円、二〇〇、〇〇〇円、三〇〇、〇〇〇円、四〇〇、〇〇〇円、五〇〇、〇〇〇円、六〇〇、〇〇〇円、七〇〇、〇〇〇円、八〇〇、〇〇〇円、九〇〇、〇〇〇円又は一、〇〇〇、〇〇〇円）のうち貸与を受ける学生又は生徒が選択する額とし、その利率は、年三パーセントを超える利率で機構の定める利率とする。"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "4",
+            "ArticleCaption": "（第二種学資貸与金の利息の特例）",
+            "ArticleTitle": "第四条",
+            "Paragraph": [
+              {
+                "@Hide": "false",
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "前二条の規定にかかわらず、第二種学資貸与金は、その貸与を受けている間並びに法第十五条第二項の規定によりその返還の期限を猶予される場合における同項及び第六条に規定する事由がある間は無利息とする。"
+                  }
+                }
+              },
+              {
+                "@Hide": "false",
+                "@Num": "2",
+                "ParagraphNum": "２",
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "次条第四項の規定による学資貸与金の返還の期限及び返還の方法の変更が行われる場合には、当該変更の時以後の期間に係る第二種学資貸与金の利率は、前二条の規定にかかわらず、これらの規定による利率以下の利率で文部科学大臣の認可を受けて機構の定めるところにより算定した利率とする。"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "5",
+            "ArticleCaption": "（学資貸与金の返還の期限等）",
+            "ArticleTitle": "第五条",
+            "Paragraph": [
+              {
+                "@Hide": "false",
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": [
+                    {
+                      "@Function": "main",
+                      "@Num": "1",
+                      "@WritingMode": "vertical",
+                      "#text": "法第十四条第一項の学資貸与金（以下単に「学資貸与金」という。）の返還の期限は、貸与期間の終了した月の翌月から起算して六月を経過した日（第三項において「六月経過日」という。）以後二十年以内で機構の定める期日とし、その返還は、年賦、半年賦、月賦その他の機構の定める割賦の方法によるものとする。"
+                    },
+                    {
+                      "@Function": "proviso",
+                      "@Num": "2",
+                      "@WritingMode": "vertical",
+                      "#text": "ただし、学資貸与金の貸与を受けた者は、いつでも繰上返還をすることができる。"
+                    }
+                  ]
+                }
+              },
+              {
+                "@Hide": "false",
+                "@Num": "2",
+                "ParagraphNum": "２",
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "第二種学資貸与金についての前項の規定による年賦、半年賦、月賦その他の割賦による返還は、元利均等返還の方法によるものとする。"
+                  }
+                }
+              },
+              {
+                "@Hide": "false",
+                "@Num": "3",
+                "ParagraphNum": "３",
+                "ParagraphSentence": {
+                  "Sentence": [
+                    {
+                      "@Num": "1",
+                      "@WritingMode": "vertical",
+                      "#text": "機構が、第一種学資貸与金の貸与を受けた者について、その者の所得が少ない場合においても学資貸与金の継続的な返還を可能とするため、文部科学大臣の認可を受けて機構の定めるところによりその者の所得を基礎として算定される額を割賦金の額とする方法により当該第一種学資貸与金を返還させる場合には、その返還の期限は、第一項の規定にかかわらず、六月経過日以後二十年以内とすることを要しない。"
+                    },
+                    {
+                      "@Num": "2",
+                      "@WritingMode": "vertical",
+                      "#text": "この場合において、その返還の期限は、六月経過日以後の日であって、文部科学大臣の認可を受けて機構の定める日とする。"
+                    }
+                  ]
+                }
+              },
+              {
+                "@Hide": "false",
+                "@Num": "4",
+                "ParagraphNum": "４",
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "機構が、災害、傷病その他文部科学大臣の認めるやむを得ない事由により学資貸与金を返還することが困難となった者について、文部科学大臣の認可を受けて定める基準に従って、割賦金の減額及び支払回数の変更その他の学資貸与金の返還の期限及び返還の方法の変更を行う場合（前項に規定する場合を除く。）には、第一項中「二十年」とあるのは、「文部科学大臣の認可を受けて機構の定める二十年以上の期間」とし、第二項の規定は、適用しない。"
+                  }
+                }
+              },
+              {
+                "@Hide": "false",
+                "@Num": "5",
+                "ParagraphNum": "５",
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "学資貸与金の貸与を受けた者が、支払能力があるにもかかわらず割賦金の返還を著しく怠ったと認められるときは、前各項の規定にかかわらず、その者は、機構の請求に基づき、その指定する日までに返還未済額の全部を返還しなければならない。"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "6",
+            "ArticleCaption": "（学資貸与金の返還期限の猶予）",
+            "ArticleTitle": "第六条",
+            "Paragraph": {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "法第十五条第二項の政令で定める事由は、大学、大学院、高等専門学校又は専修学校に在学することその他文部科学大臣の認めるやむを得ない事由があることとする。"
+                }
+              }
+            }
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "7",
+            "ArticleCaption": "（死亡等による学資貸与金の返還免除）",
+            "ArticleTitle": "第七条",
+            "Paragraph": [
+              {
+                "@Hide": "false",
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "死亡した者又は精神若しくは身体の障害により労働能力を喪失した者については、その学資貸与金の返還未済額の全部又は一部を免除することができる。"
+                  }
+                }
+              },
+              {
+                "@Hide": "false",
+                "@Num": "2",
+                "ParagraphNum": "２",
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "精神又は身体の障害により労働能力に高度の制限を有する者については、その学資貸与金の返還未済額の一部の返還を免除することができる。"
+                  }
+                }
+              },
+              {
+                "@Hide": "false",
+                "@Num": "3",
+                "ParagraphNum": "３",
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "機構は、前二項の規定による学資貸与金の返還の免除につき必要な事項を定め、文部科学大臣の認可を受けなければならない。"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "8",
+            "ArticleCaption": "（特に優れた業績による学資貸与金の返還免除）",
+            "ArticleTitle": "第八条",
+            "Paragraph": [
+              {
+                "@Hide": "false",
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "大学院において第一種学資貸与金の貸与を受けた学生であって、在学中に特に優れた業績を挙げた者として機構が認定したものには、貸与期間終了の時において、その学資貸与金の全部又は一部の返還を免除することができる。"
+                  }
+                }
+              },
+              {
+                "@Hide": "false",
+                "@Num": "2",
+                "ParagraphNum": "２",
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "前項の認定は、大学院において第一種学資貸与金の貸与を受けた学生のうち、当該大学院を置く大学の学長が学内選考委員会（機構に対して同項の認定を受ける候補者として推薦すべき者の選考に関する事項を調査審議する機関として文部科学省令で定めるところにより当該大学に設置されるものをいう。）の議に基づき推薦する者その他文部科学省令で定める者について、その専攻分野に関する論文その他の文部科学省令で定める業績を総合的に評価することにより行うものとする。"
+                  }
+                }
+              },
+              {
+                "@Hide": "false",
+                "@Num": "3",
+                "ParagraphNum": "３",
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "機構は、前項に規定するもののほか、第一項の規定による学資貸与金の返還の免除につき必要な事項を定め、文部科学大臣の認可を受けなければならない。"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "8_2",
+            "ArticleCaption": "（学資支給金の額）",
+            "ArticleTitle": "第八条の二",
+            "Paragraph": [
+              {
+                "@Hide": "false",
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "法第十七条の二第一項の学資支給金（以下この条において単に「学資支給金」という。）の月額は、次の表の上欄に掲げる学校（第四項において「支給対象校」という。）に在学する者について、同欄に掲げる学校等及び通学形態の区分に応じ、それぞれ同表の下欄に定める額とする。"
+                  }
+                },
+                "TableStruct": {
+                  "Table": {
+                    "@WritingMode": "vertical",
+                    "TableRow": [
+                      {
+                        "TableColumn": [
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "@colspan": "3",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "区分"
+                            }
+                          },
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "月額"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "TableColumn": [
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "@rowspan": "4",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "大学"
+                            }
+                          },
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "@rowspan": "2",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "地方公共団体、国立大学法人及び公立大学法人が設置する大学"
+                            }
+                          },
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "自宅通学のとき"
+                            }
+                          },
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "二〇、〇〇〇円"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "TableColumn": [
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "自宅外通学のとき"
+                            }
+                          },
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "三〇、〇〇〇円"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "TableColumn": [
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "@rowspan": "2",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "私立の大学"
+                            }
+                          },
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "自宅通学のとき"
+                            }
+                          },
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "三〇、〇〇〇円"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "TableColumn": [
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "自宅外通学のとき"
+                            }
+                          },
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "四〇、〇〇〇円"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "TableColumn": [
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "@rowspan": "4",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "高等専門学校"
+                            }
+                          },
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "@rowspan": "2",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "地方公共団体、独立行政法人国立高等専門学校機構及び公立大学法人が設置する高等専門学校（第四学年及び第五学年に限る。以下この表及び次項において同じ。）"
+                            }
+                          },
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "自宅通学のとき"
+                            }
+                          },
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "二〇、〇〇〇円"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "TableColumn": [
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "自宅外通学のとき"
+                            }
+                          },
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "三〇、〇〇〇円"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "TableColumn": [
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "@rowspan": "2",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "私立の高等専門学校"
+                            }
+                          },
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "自宅通学のとき"
+                            }
+                          },
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "三〇、〇〇〇円"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "TableColumn": [
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "自宅外通学のとき"
+                            }
+                          },
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "四〇、〇〇〇円"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "TableColumn": [
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "@rowspan": "4",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "専修学校"
+                            }
+                          },
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "@rowspan": "2",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "国、地方公共団体、独立行政法人、国立大学法人及び地方独立行政法人が設置する専修学校"
+                            }
+                          },
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "自宅通学のとき"
+                            }
+                          },
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "二〇、〇〇〇円"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "TableColumn": [
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "自宅外通学のとき"
+                            }
+                          },
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "三〇、〇〇〇円"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "TableColumn": [
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "@rowspan": "2",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "私立の専修学校"
+                            }
+                          },
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "自宅通学のとき"
+                            }
+                          },
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "三〇、〇〇〇円"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "TableColumn": [
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "自宅外通学のとき"
+                            }
+                          },
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "四〇、〇〇〇円"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                }
+              },
+              {
+                "@Hide": "false",
+                "@Num": "2",
+                "ParagraphNum": "２",
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "国立大学法人が設置する大学、独立行政法人国立高等専門学校機構が設置する高等専門学校又は国若しくは国立大学法人が設置する専修学校に在学する者が授業料の減免を受けた場合におけるその者に対する学資支給金の月額については、前項の表各項の下欄の規定にかかわらず、同表の上欄に掲げる学校等及び通学形態の区分に応じ、それぞれ同表の下欄に定める額の範囲内で機構の定める額とする。"
+                  }
+                }
+              },
+              {
+                "@Hide": "false",
+                "@Num": "3",
+                "ParagraphNum": "３",
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "特定通信教育受講者に対する学資支給金の月額については、第一項の表大学の項下欄又は専修学校の項下欄の規定にかかわらず、年当たりの合計額が五〇、〇〇〇円を超えない額の範囲内で学校等の種別及び通学形態の別を考慮して機構の定める額とする。"
+                  }
+                }
+              },
+              {
+                "@Hide": "false",
+                "@Num": "4",
+                "ParagraphNum": "４",
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "支給対象校に在学する者（その者が満十八歳となる日の前日において児童福祉法（昭和二十二年法律第百六十四号）第二十七条第一項第三号の規定により同法第六条の四に規定する里親に委託されていた者又は同号の規定により入所措置が採られて同法第四十一条に規定する児童養護施設に入所していた者その他これらに類するものとして文部科学省令で定める者であるものに限る。）が当該支給対象校に入学した月に支給される学資支給金の月額については、第一項の表各項の下欄又は前二項の規定にかかわらず、同表各項の下欄に定める額又は前二項の規定により機構の定める額にそれぞれ二四〇、〇〇〇円を加えた額とする。"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "9",
+            "ArticleCaption": "（日本学生支援債券の形式）",
+            "ArticleTitle": "第九条",
+            "Paragraph": {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "日本学生支援債券は、無記名利札付きとする。"
+                }
+              }
+            }
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "10",
+            "ArticleCaption": "（日本学生支援債券の発行の方法）",
+            "ArticleTitle": "第十条",
+            "Paragraph": {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "日本学生支援債券の発行は、募集の方法による。"
+                }
+              }
+            }
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "11",
+            "ArticleCaption": "（日本学生支援債券申込証）",
+            "ArticleTitle": "第十一条",
+            "Paragraph": [
+              {
+                "@Hide": "false",
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "日本学生支援債券の募集に応じようとする者は、日本学生支援債券申込証にその引き受けようとする日本学生支援債券の数及び住所を記載し、これに署名し、又は記名押印しなければならない。"
+                  }
+                }
+              },
+              {
+                "@Hide": "false",
+                "@Num": "2",
+                "ParagraphNum": "２",
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "社債、株式等の振替に関する法律（平成十三年法律第七十五号。以下「社債等振替法」という。）の規定の適用がある日本学生支援債券（次条第二項において「振替日本学生支援債券」という。）の募集に応じようとする者は、前項の記載事項のほか、自己のために開設された当該日本学生支援債券の振替を行うための口座（同条第二項において「振替口座」という。）を日本学生支援債券申込証に記載しなければならない。"
+                  }
+                }
+              },
+              {
+                "@Hide": "false",
+                "@Num": "3",
+                "ParagraphNum": "３",
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "日本学生支援債券申込証は、機構が作成し、これに次に掲げる事項を記載しなければならない。"
+                  }
+                },
+                "Item": [
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "1",
+                    "ItemTitle": "一",
+                    "ItemSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "日本学生支援債券の名称"
+                      }
+                    }
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "2",
+                    "ItemTitle": "二",
+                    "ItemSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "日本学生支援債券の総額"
+                      }
+                    }
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "3",
+                    "ItemTitle": "三",
+                    "ItemSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "各日本学生支援債券の金額"
+                      }
+                    }
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "4",
+                    "ItemTitle": "四",
+                    "ItemSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "日本学生支援債券の利率"
+                      }
+                    }
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "5",
+                    "ItemTitle": "五",
+                    "ItemSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "日本学生支援債券の償還の方法及び期限"
+                      }
+                    }
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "6",
+                    "ItemTitle": "六",
+                    "ItemSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "利息の支払の方法及び期限"
+                      }
+                    }
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "7",
+                    "ItemTitle": "七",
+                    "ItemSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "日本学生支援債券の発行の価額"
+                      }
+                    }
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "8",
+                    "ItemTitle": "八",
+                    "ItemSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "社債等振替法の規定の適用があるときは、その旨"
+                      }
+                    }
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "9",
+                    "ItemTitle": "九",
+                    "ItemSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "社債等振替法の規定の適用がないときは、無記名式である旨"
+                      }
+                    }
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "10",
+                    "ItemTitle": "十",
+                    "ItemSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "応募額が日本学生支援債券の総額を超える場合の措置"
+                      }
+                    }
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "11",
+                    "ItemTitle": "十一",
+                    "ItemSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "募集又は管理の委託を受けた会社があるときは、その商号"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "12",
+            "ArticleCaption": "（日本学生支援債券の引受け）",
+            "ArticleTitle": "第十二条",
+            "Paragraph": [
+              {
+                "@Hide": "false",
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "前条の規定は、政府若しくは地方公共団体が日本学生支援債券を引き受ける場合又は日本学生支援債券の募集の委託を受けた会社が自ら日本学生支援債券を引き受ける場合におけるその引き受ける部分については、適用しない。"
+                  }
+                }
+              },
+              {
+                "@Hide": "false",
+                "@Num": "2",
+                "ParagraphNum": "２",
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "前項の場合において、振替日本学生支援債券を引き受ける政府若しくは地方公共団体又は振替日本学生支援債券の募集の委託を受けた会社は、その引受けの際に、振替口座を機構に示さなければならない。"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "13",
+            "ArticleCaption": "（日本学生支援債券の成立の特則）",
+            "ArticleTitle": "第十三条",
+            "Paragraph": {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "日本学生支援債券の応募総額が日本学生支援債券の総額に達しないときでも、日本学生支援債券を成立させる旨を日本学生支援債券申込証に記載したときは、その応募総額をもって日本学生支援債券の総額とする。"
+                }
+              }
+            }
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "14",
+            "ArticleCaption": "（日本学生支援債券の払込み）",
+            "ArticleTitle": "第十四条",
+            "Paragraph": {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "日本学生支援債券の募集が完了したときは、機構は、遅滞なく、各日本学生支援債券についてその全額の払込みをさせなければならない。"
+                }
+              }
+            }
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "15",
+            "ArticleCaption": "（債券の発行）",
+            "ArticleTitle": "第十五条",
+            "Paragraph": [
+              {
+                "@Hide": "false",
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": [
+                    {
+                      "@Function": "main",
+                      "@Num": "1",
+                      "@WritingMode": "vertical",
+                      "#text": "機構は、前条の払込みがあったときは、遅滞なく、債券を発行しなければならない。"
+                    },
+                    {
+                      "@Function": "proviso",
+                      "@Num": "2",
+                      "@WritingMode": "vertical",
+                      "#text": "ただし、日本学生支援債券につき社債等振替法の規定の適用があるときは、この限りでない。"
+                    }
+                  ]
+                }
+              },
+              {
+                "@Hide": "false",
+                "@Num": "2",
+                "ParagraphNum": "２",
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "各債券には、第十一条第三項第一号から第六号まで、第九号及び第十一号に掲げる事項並びに番号を記載し、機構の理事長がこれに記名押印しなければならない。"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "16",
+            "ArticleCaption": "（日本学生支援債券原簿）",
+            "ArticleTitle": "第十六条",
+            "Paragraph": [
+              {
+                "@Hide": "false",
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "機構は、主たる事務所に日本学生支援債券原簿を備えて置かなければならない。"
+                  }
+                }
+              },
+              {
+                "@Hide": "false",
+                "@Num": "2",
+                "ParagraphNum": "２",
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "日本学生支援債券原簿には、次に掲げる事項を記載しなければならない。"
+                  }
+                },
+                "Item": [
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "1",
+                    "ItemTitle": "一",
+                    "ItemSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "債券の発行の年月日"
+                      }
+                    }
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "2",
+                    "ItemTitle": "二",
+                    "ItemSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "債券の数（社債等振替法の規定の適用がないときは、債券の数及び番号）"
+                      }
+                    }
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "3",
+                    "ItemTitle": "三",
+                    "ItemSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "第十一条第三項第一号から第六号まで、第八号及び第十一号に掲げる事項"
+                      }
+                    }
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "4",
+                    "ItemTitle": "四",
+                    "ItemSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "元利金の支払に関する事項"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "17",
+            "ArticleCaption": "（利札が欠けている場合）",
+            "ArticleTitle": "第十七条",
+            "Paragraph": [
+              {
+                "@Hide": "false",
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": [
+                    {
+                      "@Function": "main",
+                      "@Num": "1",
+                      "@WritingMode": "vertical",
+                      "#text": "日本学生支援債券を償還する場合において、欠けている利札があるときは、これに相当する金額を償還額から控除する。"
+                    },
+                    {
+                      "@Function": "proviso",
+                      "@Num": "2",
+                      "@WritingMode": "vertical",
+                      "#text": "ただし、既に支払期が到来した利札については、この限りでない。"
+                    }
+                  ]
+                }
+              },
+              {
+                "@Hide": "false",
+                "@Num": "2",
+                "ParagraphNum": "２",
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "前項の利札の所持人がこれと引換えに控除金額の支払を請求したときは、機構は、これに応じなければならない。"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "18",
+            "ArticleCaption": "（日本学生支援債券の発行の認可）",
+            "ArticleTitle": "第十八条",
+            "Paragraph": [
+              {
+                "@Hide": "false",
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "機構は、法第十九条第一項の規定により日本学生支援債券の発行の認可を受けようとするときは、日本学生支援債券の募集の日の二十日前までに次に掲げる事項を記載した申請書を文部科学大臣に提出しなければならない。"
+                  }
+                },
+                "Item": [
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "1",
+                    "ItemTitle": "一",
+                    "ItemSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "発行を必要とする理由"
+                      }
+                    }
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "2",
+                    "ItemTitle": "二",
+                    "ItemSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "第十一条第三項第一号から第八号までに掲げる事項"
+                      }
+                    }
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "3",
+                    "ItemTitle": "三",
+                    "ItemSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "日本学生支援債券の募集の方法"
+                      }
+                    }
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "4",
+                    "ItemTitle": "四",
+                    "ItemSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "発行に要する費用の概算額"
+                      }
+                    }
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "5",
+                    "ItemTitle": "五",
+                    "ItemSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "第二号に掲げるもののほか、日本学生支援債券に記載しようとする事項"
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "@Hide": "false",
+                "@Num": "2",
+                "ParagraphNum": "２",
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "前項の申請書には、次に掲げる書類を添付しなければならない。"
+                  }
+                },
+                "Item": [
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "1",
+                    "ItemTitle": "一",
+                    "ItemSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "作成しようとする日本学生支援債券申込証"
+                      }
+                    }
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "2",
+                    "ItemTitle": "二",
+                    "ItemSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "日本学生支援債券の発行により調達する資金の使途を記載した書面"
+                      }
+                    }
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "3",
+                    "ItemTitle": "三",
+                    "ItemSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "日本学生支援債券の引受けの見込みを記載した書面"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "19",
+            "ArticleCaption": "（政府貸付金の償還免除）",
+            "ArticleTitle": "第十九条",
+            "Paragraph": {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "法第二十二条第二項の規定による政府の機構に対する貸付金の償還の免除は、毎年度その前年度において機構が返還を免除した第一種学資貸与金の額に相当する額につき、償還期限の早い貸付金から順次行うものとする。"
+                }
+              }
+            }
+          }
+        ]
+      },
+      "SupplProvision": [
+        {
+          "SupplProvisionLabel": "附　則",
+          "Article": [
+            {
+              "@Delete": "false",
+              "@Hide": "false",
+              "@Num": "1",
+              "ArticleCaption": "（施行期日）",
+              "ArticleTitle": "第一条",
+              "Paragraph": {
+                "@Hide": "false",
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": [
+                    {
+                      "@Function": "main",
+                      "@Num": "1",
+                      "@WritingMode": "vertical",
+                      "#text": "この政令は、公布の日から施行する。"
+                    },
+                    {
+                      "@Function": "proviso",
+                      "@Num": "2",
+                      "@WritingMode": "vertical",
+                      "#text": "ただし、附則第十条第一項及び第三項並びに第十三条から第二十八条までの規定は、平成十六年四月一日から施行する。"
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "@Delete": "false",
+              "@Hide": "false",
+              "@Num": "2",
+              "ArticleCaption": "（第二種学資貸与金の利率の特例）",
+              "ArticleTitle": "第二条",
+              "Paragraph": [
+                {
+                  "@Hide": "false",
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "第二種学資貸与金に係る第二条及び第三条第三項の規定の適用については、当分の間、第二条第一項中「年三パーセント」とあるのは「年三パーセント（法第十九条第一項の規定による財政融資資金からの借入金の利率及び同項の規定による日本学生支援債券の利率を加重平均する方法であって文部科学省令で定めるもののうち、貸与を受ける学生又は生徒が選択した方法により算定した利率が年三パーセント未満の場合にあっては、当該利率）」と、同条第二項の表利率の欄中「３」とあるのは「附則第二条第一項の規定により読み替えられた前項に規定する利率（パーセント）に相当する数」と、同表備考中「年三パーセント」とあるのは「附則第二条第一項の規定により読み替えられた前項に規定する利率」と、同条第三項に掲げる算式中「３」とあるのは「附則第二条第一項の規定により読み替えられた第一項に規定する利率（パーセント）に相当する数」と、同項の備考中「年三パーセント」とあるのは「附則第二条第一項の規定により読み替えられた第一項に規定する利率」と、第三条第三項中「年三パーセント」とあるのは「附則第二条第一項の規定により読み替えられた前条第一項に規定する利率」とする。"
+                    }
+                  }
+                },
+                {
+                  "@Hide": "false",
+                  "@Num": "2",
+                  "ParagraphNum": "２",
+                  "ParagraphSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "文部科学大臣は、前項の規定により読み替えられた第二条第一項に規定する文部科学省令を定めようとするときは、あらかじめ、財務大臣に協議しなければならない。"
+                    }
+                  }
+                }
+              ]
+            },
+            {
+              "@Delete": "false",
+              "@Hide": "false",
+              "@Num": "3",
+              "ArticleCaption": "（職員の引継ぎに係る政令で定める部局又は機関）",
+              "ArticleTitle": "第三条",
+              "Paragraph": {
+                "@Hide": "false",
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "法附則第二条の政令で定める文部科学省の部局又は機関は、次に掲げるものとする。"
+                  }
+                },
+                "Item": [
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "1",
+                    "ItemTitle": "一",
+                    "ItemSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "高等教育局学生課及び留学生課"
+                      }
+                    }
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "2",
+                    "ItemTitle": "二",
+                    "ItemSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "国立大学法人法等の施行に伴う関係法律の整備等に関する法律（平成十五年法律第百十七号）第二条の規定による廃止前の国立学校設置法（昭和二十四年法律第百五十号）第三条第一項の表及び第三条の三第一項に掲げる国立大学の内部組織のうち文部科学大臣が定めるもの"
+                      }
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "@Delete": "false",
+              "@Hide": "false",
+              "@Num": "4",
+              "ArticleCaption": "（機構の成立の時において承継される国の権利及び義務）",
+              "ArticleTitle": "第四条",
+              "Paragraph": {
+                "@Hide": "false",
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "法附則第八条第一項の政令で定める権利及び義務は、次に掲げる権利及び義務とする。"
+                  }
+                },
+                "Item": [
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "1",
+                    "ItemTitle": "一",
+                    "ItemSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "文部科学大臣の所管に属する物品のうち文部科学大臣が指定するものに関する権利及び義務"
+                      }
+                    }
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "2",
+                    "ItemTitle": "二",
+                    "ItemSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "法第十三条第一項第二号、第八号及び第九号に規定する業務に関し国が有する権利及び義務のうち前号に掲げるもの以外のものであって、文部科学大臣が指定するもの"
+                      }
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "@Delete": "false",
+              "@Hide": "false",
+              "@Num": "5",
+              "ArticleCaption": "（国の有する権利及び義務の承継の際出資があったものとされる財産）",
+              "ArticleTitle": "第五条",
+              "Paragraph": {
+                "@Hide": "false",
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "法附則第八条第二項の政令で定める財産は、前条第二号の規定により指定された権利に係る財産のうち文部科学大臣が指定するものとする。"
+                  }
+                }
+              }
+            },
+            {
+              "@Delete": "false",
+              "@Hide": "false",
+              "@Num": "6",
+              "ArticleCaption": "（機構が承継する資産に係る評価委員の任命等）",
+              "ArticleTitle": "第六条",
+              "Paragraph": [
+                {
+                  "@Hide": "false",
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "法附則第八条第三項（法附則第十条第六項において準用する場合を含む。次項及び第三項において同じ。）の評価委員は、次に掲げる者につき文部科学大臣が任命する。"
+                    }
+                  },
+                  "Item": [
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "1",
+                      "ItemTitle": "一",
+                      "ItemSentence": {
+                        "Column": [
+                          {
+                            "@LineBreak": "false",
+                            "@Num": "1",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "財務省の職員"
+                            }
+                          },
+                          {
+                            "@LineBreak": "false",
+                            "@Num": "2",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "一人"
+                            }
+                          }
+                        ]
+                      }
+                    },
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "2",
+                      "ItemTitle": "二",
+                      "ItemSentence": {
+                        "Column": [
+                          {
+                            "@LineBreak": "false",
+                            "@Num": "1",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "文部科学省の職員"
+                            }
+                          },
+                          {
+                            "@LineBreak": "false",
+                            "@Num": "2",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "一人"
+                            }
+                          }
+                        ]
+                      }
+                    },
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "3",
+                      "ItemTitle": "三",
+                      "ItemSentence": {
+                        "Column": [
+                          {
+                            "@LineBreak": "false",
+                            "@Num": "1",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "機構の役員（機構が成立するまでの間は、機構に係る独立行政法人通則法第十五条第一項の設立委員）"
+                            }
+                          },
+                          {
+                            "@LineBreak": "false",
+                            "@Num": "2",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "一人"
+                            }
+                          }
+                        ]
+                      }
+                    },
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "4",
+                      "ItemTitle": "四",
+                      "ItemSentence": {
+                        "Column": [
+                          {
+                            "@LineBreak": "false",
+                            "@Num": "1",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "学識経験のある者"
+                            }
+                          },
+                          {
+                            "@LineBreak": "false",
+                            "@Num": "2",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "二人"
+                            }
+                          }
+                        ]
+                      }
+                    }
+                  ]
+                },
+                {
+                  "@Hide": "false",
+                  "@Num": "2",
+                  "ParagraphNum": "２",
+                  "ParagraphSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "法附則第八条第三項の規定による評価は、同項の評価委員の過半数の一致によるものとする。"
+                    }
+                  }
+                },
+                {
+                  "@Hide": "false",
+                  "@Num": "3",
+                  "ParagraphNum": "３",
+                  "ParagraphSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "法附則第八条第三項の規定による評価に関する庶務は、文部科学省高等教育局学生支援課において処理する。"
+                    }
+                  }
+                }
+              ]
+            },
+            {
+              "@Delete": "false",
+              "@Hide": "false",
+              "@Num": "7",
+              "ArticleCaption": "（国有財産の無償使用）",
+              "ArticleTitle": "第七条",
+              "Paragraph": {
+                "@Hide": "false",
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "法附則第九条の規定により国が機構に無償で使用させることができる国有財産及び当該国有財産の使用に関し必要な手続は、文部科学大臣が財務大臣に協議して定める。"
+                  }
+                }
+              }
+            },
+            {
+              "@Delete": "false",
+              "@Hide": "false",
+              "@Num": "8",
+              "ArticleCaption": "（国が承継する資産の範囲等）",
+              "ArticleTitle": "第八条",
+              "Paragraph": [
+                {
+                  "@Hide": "false",
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "法附則第十条第二項の規定により国が承継する資産は、文部科学大臣が財務大臣に協議して定める。"
+                    }
+                  }
+                },
+                {
+                  "@Hide": "false",
+                  "@Num": "2",
+                  "ParagraphNum": "２",
+                  "ParagraphSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "前項の規定により国が承継する資産は、一般会計に帰属する。"
+                    }
+                  }
+                }
+              ]
+            },
+            {
+              "@Delete": "false",
+              "@Hide": "false",
+              "@Num": "9",
+              "ArticleCaption": "（日本育英会の解散の登記の嘱託等）",
+              "ArticleTitle": "第九条",
+              "Paragraph": [
+                {
+                  "@Hide": "false",
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "法附則第十条第一項の規定により日本育英会（以下「育英会」という。）が解散したときは、文部科学大臣は、遅滞なく、その解散の登記を登記所に嘱託しなければならない。"
+                    }
+                  }
+                },
+                {
+                  "@Hide": "false",
+                  "@Num": "2",
+                  "ParagraphNum": "２",
+                  "ParagraphSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "登記官は、前項の規定による嘱託に係る解散の登記をしたときは、その登記用紙を閉鎖しなければならない。"
+                    }
+                  }
+                }
+              ]
+            },
+            {
+              "@Delete": "false",
+              "@Hide": "false",
+              "@Num": "10",
+              "ArticleCaption": "（免除するものとする債権の額等）",
+              "ArticleTitle": "第十条",
+              "Paragraph": [
+                {
+                  "@Hide": "false",
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "法附則第十一条の規定により免除するものとする債権の額は、機構が育英会から承継する負債のうち法附則第十五条の規定による廃止前の日本育英会法（昭和五十九年法律第六十四号。以下「旧育英会法」という。）第二十一条第一項第一号に規定する業務に係るものの金額から、機構が育英会から承継する資産のうち当該業務に係るものの価額を差し引いた額の範囲内で文部科学大臣が定める額とする。"
+                    }
+                  }
+                },
+                {
+                  "@Hide": "false",
+                  "@Num": "2",
+                  "ParagraphNum": "２",
+                  "ParagraphSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "文部科学大臣は、前項の規定により額を定めようとするときは、財務大臣に協議しなければならない。"
+                    }
+                  }
+                },
+                {
+                  "@Hide": "false",
+                  "@Num": "3",
+                  "ParagraphNum": "３",
+                  "ParagraphSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "法附則第十一条の規定による債権の免除は、第一項に規定する額につき、償還期限の早い貸付金から順次行うものとする。"
+                    }
+                  }
+                }
+              ]
+            },
+            {
+              "@Delete": "false",
+              "@Hide": "false",
+              "@Num": "11",
+              "ArticleCaption": "（業務の特例に関する経過措置）",
+              "ArticleTitle": "第十一条",
+              "Paragraph": [
+                {
+                  "@Hide": "false",
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": [
+                      {
+                        "@Num": "1",
+                        "@WritingMode": "vertical",
+                        "#text": "法附則第十四条第一項の規定により機構が行う業務については、旧育英会法施行令（附則第十三条の規定による廃止前の日本育英会法施行令（昭和五十九年政令第二百五十三号）をいう。以下同じ。）第二条第一項（高等学校及び専修学校の高等課程に係る部分に限る。）、第六条第一項及び第三項、第七条並びに第八条の規定は、附則第十三条の規定の施行後も、なおその効力を有する。"
+                      },
+                      {
+                        "@Num": "2",
+                        "@WritingMode": "vertical",
+                        "#text": "この場合において、旧育英会法施行令第二条第一項の表中「国立及び公立の高等学校」とあるのは「地方公共団体及び国立大学法人法（平成十五年法律第百十二号）第二条第一項に規定する国立大学法人が設置する高等学校」と、「国立及び公立の専修学校」とあるのは「国、地方公共団体及び国立大学法人法第二条第一項に規定する国立大学法人が設置する専修学校」と、旧育英会法施行令第六条第三項及び第八条第三項中「育英会」とあるのは「独立行政法人日本学生支援機構」とする。"
+                      }
+                    ]
+                  }
+                },
+                {
+                  "@Hide": "false",
+                  "@Num": "2",
+                  "ParagraphNum": "２",
+                  "ParagraphSentence": {
+                    "Sentence": [
+                      {
+                        "@Num": "1",
+                        "@WritingMode": "vertical",
+                        "#text": "第五条第四項の規定は、機構が法附則第十四条第一項に規定する業務を行う場合における同項に規定する第一種学資金の返還について準用する。"
+                      },
+                      {
+                        "@Num": "2",
+                        "@WritingMode": "vertical",
+                        "#text": "この場合において、第五条第四項中「学資貸与金を」とあるのは「法附則第十四条第一項に規定する第一種学資金を」と、「学資貸与金の」とあるのは「同項に規定する第一種学資金の」と、「第一項」とあるのは「附則第十一条第一項の規定によりなおその効力を有することとされる附則第十三条の規定による廃止前の日本育英会法施行令（昭和五十九年政令第二百五十三号）第六条第一項」と、「機構の」とあるのは「独立行政法人日本学生支援機構の」と、「とし、第二項の規定は、適用しない」とあるのは「とする」と読み替えるものとする。"
+                      }
+                    ]
+                  }
+                },
+                {
+                  "@Hide": "false",
+                  "@Num": "3",
+                  "ParagraphNum": "３",
+                  "ParagraphSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "機構が法附則第十四条第一項に規定する業務を行う場合における第十九条の規定の適用については、同条中「法第二十二条第二項」とあるのは「法附則第十四条第三項の規定により読み替えられた法第二十二条第二項」と、「第一種学資貸与金」とあるのは「第一種学資貸与金（法附則第十四条第一項に規定する第一種学資金を含む。）」とする。"
+                    }
+                  }
+                }
+              ]
+            },
+            {
+              "@Delete": "false",
+              "@Hide": "false",
+              "@Num": "11_2",
+              "ArticleTitle": "第十一条の二",
+              "Paragraph": {
+                "@Hide": "false",
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "機構は、当分の間、法附則第十四条第一項に規定する業務において回収される同項に規定する第一種学資金の額に相当する額について、平成十七年度以降に同項に規定する高等学校又は専修学校の高等課程に入学する者に学資の貸与を行う都道府県に対して、当該貸与に供する資金として支給するものとする。"
+                  }
+                }
+              }
+            },
+            {
+              "@Delete": "false",
+              "@Hide": "false",
+              "@Num": "12",
+              "ArticleCaption": "（独立行政法人等の保有する情報の公開に関する法律の適用に関する経過措置）",
+              "ArticleTitle": "第十二条",
+              "Paragraph": {
+                "@Hide": "false",
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "機構の成立前に行政機関の保有する情報の公開に関する法律（平成十一年法律第四十二号。同法第二条第二項に規定する行政文書の開示に係る部分に限る。）の規定に基づき法第十三条第一項第二号、第八号及び第九号に規定する機構の業務に係る行政文書に関して文部科学大臣（行政機関の保有する情報の公開に関する法律第十七条の規定により委任を受けた職員を含む。以下この条において同じ。）がした行為及び文部科学大臣に対してされた行為は、機構の成立後は、独立行政法人等の保有する情報の公開に関する法律（平成十三年法律第百四十号。同法第二条第二項に規定する法人文書の開示に係る部分に限る。）の規定に基づき機構がした行為及び機構に対してされた行為とみなす。"
+                  }
+                }
+              }
+            },
+            {
+              "@Delete": "false",
+              "@Hide": "false",
+              "@Num": "13",
+              "ArticleCaption": "（日本育英会法施行令の廃止）",
+              "ArticleTitle": "第十三条",
+              "Paragraph": {
+                "@Hide": "false",
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "日本育英会法施行令は、廃止する。"
+                  }
+                }
+              }
+            },
+            {
+              "@Delete": "false",
+              "@Hide": "false",
+              "@Num": "14",
+              "ArticleCaption": "（従前の被貸与者に関する経過措置）",
+              "ArticleTitle": "第十四条",
+              "Paragraph": [
+                {
+                  "@Hide": "false",
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": [
+                      {
+                        "@Num": "1",
+                        "@WritingMode": "vertical",
+                        "#text": "第四条第二項及び第五条第四項の規定は、法附則第十六条第一項の規定によりなお従前の例によることとされる貸与金の返還（旧育英会法第二十二条第一項に規定する学資金に係るものに限る。）について準用する。"
+                      },
+                      {
+                        "@Num": "2",
+                        "@WritingMode": "vertical",
+                        "#text": "この場合において、第四条第二項中「学資貸与金の返還」とあるのは「法附則第十五条の規定による廃止前の日本育英会法（昭和五十九年法律第六十四号。以下「旧育英会法」という。）第二十二条第一項に規定する学資金の返還」と、「第二種学資貸与金」とあるのは「同項に規定する第二種学資金」と、「前二条」とあるのは「法附則第十六条第一項の規定によりなお従前の例によることとされる場合における附則第十三条の規定による廃止前の日本育英会法施行令（昭和五十九年政令第二百五十三号。以下「旧育英会法施行令」という。）第三条及び第四条」と、第五条第四項中「学資貸与金を」とあるのは「旧育英会法第二十二条第一項に規定する学資金を」と、「学資貸与金の」とあるのは「同項に規定する学資金の」と、「第一項」とあるのは「法附則第十六条第一項の規定によりなお従前の例によることとされる場合における旧育英会法施行令第六条第一項」と、「機構の」とあるのは「独立行政法人日本学生支援機構の」と、「第二項」とあるのは「同条第二項」と読み替えるものとする。"
+                      }
+                    ]
+                  }
+                },
+                {
+                  "@Hide": "false",
+                  "@Num": "2",
+                  "ParagraphNum": "２",
+                  "ParagraphSentence": {
+                    "Sentence": [
+                      {
+                        "@Num": "1",
+                        "@WritingMode": "vertical",
+                        "#text": "第五条第四項の規定は、法附則第十六条第一項の規定によりなお従前の例によることとされる貸与金の返還（旧育英会法による改正前の日本育英会法（昭和十九年法律第三十号）第十六条第一項第一号の規定による貸与金に係るものに限る。）について準用する。"
+                      },
+                      {
+                        "@Num": "2",
+                        "@WritingMode": "vertical",
+                        "#text": "この場合において、第五条第四項中「学資貸与金を」とあるのは「法附則第十五条の規定による廃止前の日本育英会法（昭和五十九年法律第六十四号）による改正前の日本育英会法（昭和十九年法律第三十号）第十六条第一項第一号の規定による貸与金を」と、「学資貸与金の」とあるのは「同号の規定による貸与金の」と、「第一項」とあるのは「法附則第十六条第一項の規定によりなお従前の例によることとされる場合における附則第十三条の規定による廃止前の日本育英会法施行令（昭和五十九年政令第二百五十三号）による改正前の日本育英会法施行令（昭和十九年勅令第二百七十一号）第十五条第一項」と、「文部科学大臣の認可を受けて機構の定める二十年以上の期間」とし、第二項の規定は、適用しない」とあるのは「文部科学大臣ノ認可ヲ受ケテ独立行政法人日本学生支援機構ノ定ムル二十年以上ノ期間」とする」と読み替えるものとする。"
+                      }
+                    ]
+                  }
+                },
+                {
+                  "@Hide": "false",
+                  "@Num": "3",
+                  "ParagraphNum": "３",
+                  "ParagraphSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "第十九条の規定は、法附則第十六条第二項の規定による政府の機構に対する貸付金の償還の免除について準用する。"
+                    }
+                  }
+                }
+              ]
+            },
+            {
+              "@Delete": "false",
+              "@Hide": "false",
+              "@Num": "15",
+              "ArticleCaption": "（日本育英会債券原簿等に係る経過措置）",
+              "ArticleTitle": "第十五条",
+              "Paragraph": {
+                "@Hide": "false",
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": [
+                    {
+                      "@Num": "1",
+                      "@WritingMode": "vertical",
+                      "#text": "育英会が旧育英会法第三十二条第一項の規定により発行した日本育英会債券に係る日本育英会債券原簿及び利札の取扱いについては、附則第十三条の規定の施行後においても、旧育英会法施行令第二十条及び第二十一条の規定は、なおその効力を有する。"
+                    },
+                    {
+                      "@Num": "2",
+                      "@WritingMode": "vertical",
+                      "#text": "この場合において、旧育英会法施行令第二十条第一項中「育英会は、主たる事務所に」とあるのは「独立行政法人日本学生支援機構は、独立行政法人日本学生支援機構法（平成十五年法律第九十四号）附則第十条第一項の規定による解散前の日本育英会が作成した日本育英会債券原簿に係る日本育英会債券の償還及びその利息の支払を完了するまでの間、主たる事務所にその」と、同条第二項第三号中「第十五条第三項第一号」とあるのは「独立行政法人日本学生支援機構法施行令附則第十三条の規定による廃止前の日本育英会法施行令第十五条第三項第一号」と、旧育英会法施行令第二十一条第二項中「育英会」とあるのは「独立行政法人日本学生支援機構」とする。"
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@AmendLawNum": "平成一六年三月三一日政令第八四号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この政令は、平成十六年四月一日から施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成一六年四月一日政令第一二八号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Article": {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "1",
+            "ArticleCaption": "（施行期日）",
+            "ArticleTitle": "第一条",
+            "Paragraph": {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "この政令は、公布の日から施行する。"
+                }
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成一七年三月三〇日政令第八〇号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": [
+            {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphCaption": "（施行期日）",
+              "ParagraphNum": "１",
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "この政令は、平成十七年四月一日から施行する。"
+                }
+              }
+            },
+            {
+              "@Hide": "false",
+              "@Num": "2",
+              "ParagraphCaption": "（経過措置）",
+              "ParagraphNum": "２",
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "この政令の施行の日（以下「施行日」という。）前の貸与契約による第一種学資金の月額については、なお従前の例による。"
+                }
+              }
+            },
+            {
+              "@Hide": "false",
+              "@Num": "3",
+              "ParagraphNum": "３",
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "施行日前から引き続き大学、大学院（専門職大学院を除く。）の修士課程（博士課程のうち、修士課程として取り扱われる課程及び修士課程に相当すると認められるものを含む。）若しくは博士課程（修士課程として取り扱われる課程及び修士課程に相当すると認められるものを除く。）、専門職大学院の課程、高等専門学校又は専修学校の専門課程（独立行政法人日本学生支援機構法施行令第一条第一項の表備考第五号に規定する専門課程に限る。）に在学する者（大学において通信による教育を受ける者を除く。）に係る施行日以後の貸与契約による当該在学中の第一種学資金の月額については、なお従前の例による。"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@AmendLawNum": "平成一七年四月一日政令第一一八号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Article": {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "1",
+            "ArticleCaption": "（施行期日）",
+            "ArticleTitle": "第一条",
+            "Paragraph": {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "この政令は、公布の日から施行する。"
+                }
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成一八年三月三一日政令第一一八号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この政令は、平成十八年四月一日から施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成一九年三月二六日政令第六〇号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": [
+            {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphCaption": "（施行期日）",
+              "ParagraphNum": "１",
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "この政令は、平成十九年四月一日から施行する。"
+                }
+              }
+            },
+            {
+              "@Hide": "false",
+              "@Num": "2",
+              "ParagraphCaption": "（経過措置）",
+              "ParagraphNum": "２",
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "この政令の施行の日前の貸与契約による第二種学資金の利率については、なお従前の例による。"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@AmendLawNum": "平成一九年一二月一二日政令第三六三号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この政令は、学校教育法等の一部を改正する法律の施行の日（平成十九年十二月二十六日）から施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成一九年一二月一四日政令第三六九号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Article": [
+            {
+              "@Delete": "false",
+              "@Hide": "false",
+              "@Num": "1",
+              "ArticleCaption": "（施行期日）",
+              "ArticleTitle": "第一条",
+              "Paragraph": {
+                "@Hide": "false",
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "この政令は、平成二十年一月四日から施行する。"
+                  }
+                }
+              }
+            },
+            {
+              "@Delete": "false",
+              "@Hide": "false",
+              "@Num": "39",
+              "ArticleCaption": "（独立行政法人日本学生支援機構法施行令の一部改正に伴う経過措置）",
+              "ArticleTitle": "第三十九条",
+              "Paragraph": {
+                "@Hide": "false",
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "証券市場整備法附則第三条の規定によりなお効力を有することとされる旧社債等登録法の規定が準用される日本学生支援債券に係る日本学生支援債券原簿については、第五十六条の規定による改正後の独立行政法人日本学生支援機構法施行令第十六条第二項の規定にかかわらず、なお従前の例による。"
+                  }
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@AmendLawNum": "平成二〇年三月三一日政令第九九号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": [
+            {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphCaption": "（施行期日）",
+              "ParagraphNum": "１",
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "この政令は、平成二十年四月一日から施行する。"
+                }
+              }
+            },
+            {
+              "@Hide": "false",
+              "@Num": "2",
+              "ParagraphCaption": "（経過措置）",
+              "ParagraphNum": "２",
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "この政令の施行の日前の貸与契約による第二種学資金の月額及び利率については、なお従前の例による。"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@AmendLawNum": "平成二〇年七月四日政令第二一九号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Article": {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "1",
+            "ArticleCaption": "（施行期日）",
+            "ArticleTitle": "第一条",
+            "Paragraph": {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "この政令は、株式等の取引に係る決済の合理化を図るための社債等の振替に関する法律等の一部を改正する法律（以下「改正法」という。）の施行の日から施行する。"
+                }
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成二一年三月三一日政令第七四号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この政令は、平成二十一年四月一日から施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成二二年一二月二七日政令第二五二号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この政令は、平成二十三年一月一日から施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成二五年三月二九日政令第九六号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この政令は、平成二十五年四月一日から施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成二七年五月一五日政令第二三一号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この政令は、公布の日から施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成二八年一二月二六日政令第三九〇号",
+          "@Type": "Amend",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": [
+            {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphCaption": "（施行期日）",
+              "ParagraphNum": "１",
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "この政令は、平成二十九年四月一日から施行する。"
+                }
+              }
+            },
+            {
+              "@Hide": "false",
+              "@Num": "2",
+              "ParagraphCaption": "（経過措置）",
+              "ParagraphNum": "２",
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "この政令の施行の日前の貸与契約による第一種学資金の返還については、なお従前の例による。"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@AmendLawNum": "平成二九年三月三一日政令第一二五号",
+          "@Type": "Amend",
+          "SupplProvisionLabel": "附　則",
+          "Article": [
+            {
+              "@Delete": "false",
+              "@Hide": "false",
+              "@Num": "1",
+              "ArticleCaption": "（施行期日）",
+              "ArticleTitle": "第一条",
+              "Paragraph": {
+                "@Hide": "false",
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": [
+                    {
+                      "@Function": "main",
+                      "@Num": "1",
+                      "@WritingMode": "vertical",
+                      "#text": "この政令は、平成二十九年四月一日から施行する。"
+                    },
+                    {
+                      "@Function": "proviso",
+                      "@Num": "2",
+                      "@WritingMode": "vertical",
+                      "#text": "ただし、第一条第一項の表大学の項の改正規定（「この表において」を削る部分を除く。）、同表高等専門学校の項の改正規定、同表専修学校の項の改正規定（「三〇、〇〇〇円又は四五、〇〇〇円」を「二〇、〇〇〇円、三〇、〇〇〇円又は四五、〇〇〇円」に、「三〇、〇〇〇円又は五一、〇〇〇円」を「二〇、〇〇〇円、三〇、〇〇〇円、四〇、〇〇〇円又は五一、〇〇〇円」に、「三〇、〇〇〇円又は五三、〇〇〇円」を「二〇、〇〇〇円、三〇、〇〇〇円、四〇、〇〇〇円又は五三、〇〇〇円」に、「三〇、〇〇〇円又は六〇、〇〇〇円」を「二〇、〇〇〇円、三〇、〇〇〇円、四〇、〇〇〇円、五〇、〇〇〇円又は六〇、〇〇〇円」に改める部分に限る。）、同条第二項の改正規定（「前項の表大学の項下欄又は専修学校の項下欄」を「第一項の表大学の項下欄若しくは専修学校の項下欄又は前項」に、「独立行政法人日本学生支援機構（以下「機構」という。）」を「機構」に改める部分に限る。）、同項を同条第三項とし、同条第一項の次に一項を加える改正規定及び附則第三条の規定は、平成三十年四月一日から施行する。"
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "@Delete": "false",
+              "@Hide": "false",
+              "@Num": "2",
+              "ArticleCaption": "（経過措置）",
+              "ArticleTitle": "第二条",
+              "Paragraph": [
+                {
+                  "@Hide": "false",
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "この政令の施行の日（次項において「施行日」という。）前の貸与契約による第一種学資貸与金の月額については、なお従前の例による。"
+                    }
+                  }
+                },
+                {
+                  "@Hide": "false",
+                  "@Num": "2",
+                  "ParagraphNum": "２",
+                  "ParagraphSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "施行日前から引き続き大学、高等専門学校又は専修学校（独立行政法人日本学生支援機構法施行令第一条第一項の表備考第五号に規定する専門課程に限る。以下同じ。）に在学する者（大学又は専修学校において通信による教育を受ける者を除く。次条第二項において同じ。）に係る施行日以後の貸与契約による当該在学中の第一種学資貸与金の月額については、なお従前の例による。"
+                    }
+                  }
+                }
+              ]
+            },
+            {
+              "@Delete": "false",
+              "@Hide": "false",
+              "@Num": "3",
+              "ArticleTitle": "第三条",
+              "Paragraph": [
+                {
+                  "@Hide": "false",
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "附則第一条ただし書に規定する規定の施行の日（次項において「一部施行日」という。）前の貸与契約による第一種学資貸与金の月額については、なお従前の例による。"
+                    }
+                  }
+                },
+                {
+                  "@Hide": "false",
+                  "@Num": "2",
+                  "ParagraphNum": "２",
+                  "ParagraphSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "一部施行日前から引き続き大学、高等専門学校又は専修学校に在学する者に係る一部施行日以後の貸与契約による当該在学中の第一種学資貸与金の月額については、なお従前の例による。"
+                    }
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "@AmendLawNum": "平成三〇年三月三〇日政令第九〇号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この政令は、平成三十年四月一日から施行する。"
+            }
+          }
+        }
+      ]
+    }
+  }
+}

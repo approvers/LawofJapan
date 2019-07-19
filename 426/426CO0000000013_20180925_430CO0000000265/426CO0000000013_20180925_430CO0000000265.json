@@ -1,0 +1,1914 @@
+{
+  "Law": {
+    "@DataInfo": "190425e04k03m02",
+    "@Era": "Heisei",
+    "@Lang": "ja",
+    "@LawType": "CabinetOrder",
+    "@Num": "13",
+    "@Year": "26",
+    "LawNum": "平成二十六年政令第十三号",
+    "LawBody": {
+      "LawTitle": "産業競争力強化法施行令",
+      "EnactStatement": "内閣は、産業競争力強化法（平成二十五年法律第九十八号）第二条第十四項、第十七項第五号及び第八号並びに第二十六項、第二十八条第一項、第三十四条第一項及び第三項、第三十五条第一項、第三十九条第一項各号、第四十一条第一項第一号及び第四項第一号、第五十四条第三項、第五十五条第三項、第六十一条第一項、第七十五条、第九十九条第二項ただし書、第百十五条第四項及び第五項、第百二十一条第三項及び第八項、第百二十八条第六項並びに第百三十三条第一号の規定に基づき、並びに同法を実施するため、この政令を制定する。",
+      "MainProvision": {
+        "Article": [
+          {
+            "@Num": "1",
+            "ArticleCaption": "（事業再生から除外する手続）",
+            "ArticleTitle": "第一条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "産業競争力強化法（第十二条第十三号を除き、以下「法」という。）第二条第十四項の政令で定める法律は、金融機関等の更生手続の特例等に関する法律（平成八年法律第九十五号）とする。"
+              }
+            }
+          },
+          {
+            "@Num": "2",
+            "ArticleCaption": "（中小企業者の範囲）",
+            "ArticleTitle": "第二条",
+            "Paragraph": [
+              {
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": "法第二条第十七項第五号の政令で定める業種並びにその業種ごとの資本金の額又は出資の総額及び常時使用する従業員の数は、次の表のとおりとする。"
+                },
+                "TableStruct": {
+                  "Table": {
+                    "TableRow": [
+                      {
+                        "TableColumn": [
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "Sentence": null
+                          },
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "Sentence": "業種"
+                          },
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "Sentence": "資本金の額又は出資の総額"
+                          },
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "Sentence": "常時使用する従業員の数"
+                          }
+                        ]
+                      },
+                      {
+                        "TableColumn": [
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "Sentence": "一"
+                          },
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "Sentence": "ゴム製品製造業（自動車又は航空機用タイヤ及びチューブ製造業並びに工業用ベルト製造業を除く。）"
+                          },
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "Sentence": "三億円"
+                          },
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "Sentence": "九百人"
+                          }
+                        ]
+                      },
+                      {
+                        "TableColumn": [
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "Sentence": "二"
+                          },
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "Sentence": "ソフトウェア業又は情報処理サービス業"
+                          },
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "Sentence": "三億円"
+                          },
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "Sentence": "三百人"
+                          }
+                        ]
+                      },
+                      {
+                        "TableColumn": [
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "Sentence": "三"
+                          },
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "Sentence": "旅館業"
+                          },
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "Sentence": "五千万円"
+                          },
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "Sentence": "二百人"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                }
+              },
+              {
+                "@Num": "2",
+                "ParagraphNum": "２",
+                "ParagraphSentence": {
+                  "Sentence": "法第二条第十七項第八号の政令で定める組合及び連合会は、次のとおりとする。"
+                },
+                "Item": [
+                  {
+                    "@Num": "1",
+                    "ItemTitle": "一",
+                    "ItemSentence": {
+                      "Sentence": "事業協同組合及び事業協同小組合並びに協同組合連合会"
+                    }
+                  },
+                  {
+                    "@Num": "2",
+                    "ItemTitle": "二",
+                    "ItemSentence": {
+                      "Sentence": "水産加工業協同組合及び水産加工業協同組合連合会"
+                    }
+                  },
+                  {
+                    "@Num": "3",
+                    "ItemTitle": "三",
+                    "ItemSentence": {
+                      "Sentence": "商工組合及び商工組合連合会"
+                    }
+                  },
+                  {
+                    "@Num": "4",
+                    "ItemTitle": "四",
+                    "ItemSentence": {
+                      "Sentence": "商店街振興組合及び商店街振興組合連合会"
+                    }
+                  },
+                  {
+                    "@Num": "5",
+                    "ItemTitle": "五",
+                    "ItemSentence": {
+                      "Sentence": "生活衛生同業組合、生活衛生同業小組合及び生活衛生同業組合連合会であって、その直接又は間接の構成員の三分の二以上が五千万円（卸売業を主たる事業とする事業者については、一億円）以下の金額をその資本金の額若しくは出資の総額とする法人又は常時五十人（卸売業又はサービス業を主たる事業とする事業者については、百人）以下の従業員を使用する者であるもの"
+                    }
+                  },
+                  {
+                    "@Num": "6",
+                    "ItemTitle": "六",
+                    "ItemSentence": {
+                      "Sentence": "酒造組合、酒造組合連合会及び酒造組合中央会であって、その直接又は間接の構成員たる酒類製造業者の三分の二以上が三億円以下の金額をその資本金の額若しくは出資の総額とする法人又は常時三百人以下の従業員を使用する者であるもの並びに酒販組合、酒販組合連合会及び酒販組合中央会であって、その直接又は間接の構成員たる酒類販売業者の三分の二以上が五千万円（酒類卸売業者については、一億円）以下の金額をその資本金の額若しくは出資の総額とする法人又は常時五十人（酒類卸売業者については、百人）以下の従業員を使用する者であるもの"
+                    }
+                  },
+                  {
+                    "@Num": "7",
+                    "ItemTitle": "七",
+                    "ItemSentence": {
+                      "Sentence": "内航海運組合及び内航海運組合連合会であって、その直接又は間接の構成員たる内航海運事業を営む者の三分の二以上が三億円以下の金額をその資本金の額若しくは出資の総額とする法人又は常時三百人以下の従業員を使用する者であるもの"
+                    }
+                  },
+                  {
+                    "@Num": "8",
+                    "ItemTitle": "八",
+                    "ItemSentence": {
+                      "Sentence": "技術研究組合であって、その直接又は間接の構成員の三分の二以上が法第二条第十七項第一号から第七号までに規定する中小企業者であるもの"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "@Num": "3",
+            "ArticleCaption": "（特定信用状の発行に係る金融機関）",
+            "ArticleTitle": "第三条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "法第二条第二十七項の政令で定める金融機関は、次のとおりとする。"
+              },
+              "Item": [
+                {
+                  "@Num": "1",
+                  "ItemTitle": "一",
+                  "ItemSentence": {
+                    "Sentence": "銀行"
+                  }
+                },
+                {
+                  "@Num": "2",
+                  "ItemTitle": "二",
+                  "ItemSentence": {
+                    "Sentence": "株式会社商工組合中央金庫"
+                  }
+                },
+                {
+                  "@Num": "3",
+                  "ItemTitle": "三",
+                  "ItemSentence": {
+                    "Sentence": "株式会社日本政策投資銀行"
+                  }
+                },
+                {
+                  "@Num": "4",
+                  "ItemTitle": "四",
+                  "ItemSentence": {
+                    "Sentence": "信用金庫及び信用金庫連合会"
+                  }
+                },
+                {
+                  "@Num": "5",
+                  "ItemTitle": "五",
+                  "ItemSentence": {
+                    "Sentence": "労働金庫及び労働金庫連合会"
+                  }
+                },
+                {
+                  "@Num": "6",
+                  "ItemTitle": "六",
+                  "ItemSentence": {
+                    "Sentence": "信用協同組合及び信用協同組合連合会"
+                  }
+                },
+                {
+                  "@Num": "7",
+                  "ItemTitle": "七",
+                  "ItemSentence": {
+                    "Sentence": "農業協同組合及び農業協同組合連合会"
+                  }
+                },
+                {
+                  "@Num": "8",
+                  "ItemTitle": "八",
+                  "ItemSentence": {
+                    "Sentence": "漁業協同組合及び漁業協同組合連合会"
+                  }
+                },
+                {
+                  "@Num": "9",
+                  "ItemTitle": "九",
+                  "ItemSentence": {
+                    "Sentence": "農林中央金庫"
+                  }
+                },
+                {
+                  "@Num": "10",
+                  "ItemTitle": "十",
+                  "ItemSentence": {
+                    "Sentence": "保険会社"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "@Num": "4",
+            "ArticleCaption": "（資金決済に関する法律施行令第四条第二項の規定に係る規制の特例措置）",
+            "ArticleTitle": "第四条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "新事業活動（法第二条第三項に規定する新事業活動をいう。以下この条において同じ。）として商工会議所、商工会又は都道府県商工会連合会（新事業活動を遂行するために必要と認められる内閣府令・経済産業省令で定める基準に適合する財産的基礎を有するものに限り、資金決済に関する法律（平成二十一年法律第五十九号）第十条第一項第四号、第七号、第八号又は第九号に該当するものを除く。）によりその発行が行われる同法第三条第一項に規定する前払式支払手段（その対価を上回る金額を代価の弁済に充てることができる金額として定めているものであることその他内閣府令・経済産業省令で定める要件を満たすものに限る。）についての資金決済に関する法律施行令（平成二十二年政令第十九号）第四条第二項の規定の適用については、同項中「六月」とあるのは、「三年」とする。"
+              }
+            }
+          },
+          {
+            "@Num": "5",
+            "ArticleCaption": "（公正取引委員会との協議）",
+            "ArticleTitle": "第五条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "法第二十七条第一項の政令で定める場合は、次に掲げる場合とする。"
+              },
+              "Item": [
+                {
+                  "@Num": "1",
+                  "ItemTitle": "一",
+                  "ItemSentence": {
+                    "Sentence": "当該事業再編関連措置（法第二十七条第一項に規定する事業再編関連措置をいう。以下この条において同じ。）が、事業者が当該事業再編関連措置を行うに際して、私的独占の禁止及び公正取引の確保に関する法律（昭和二十二年法律第五十四号）第十条第二項（同条第五項の規定により適用される場合を含む。）、第十五条第二項、第十五条の二第二項若しくは第三項、第十五条の三第二項又は第十六条第二項の規定により届け出なければならないものである場合"
+                  }
+                },
+                {
+                  "@Num": "2",
+                  "ItemTitle": "二",
+                  "ItemSentence": {
+                    "Sentence": "当該事業再編関連措置が、二以上の事業者により共同して行われるものであって、当該事業者のうち、いずれか一の事業者に係る国内売上高合計額（私的独占の禁止及び公正取引の確保に関する法律第十条第二項に規定する国内売上高合計額をいう。以下この号において同じ。）が二百億円を超え、かつ、他のいずれか一の事業者に係る国内売上高合計額が五十億円を超える場合（当該事業再編関連措置を行おうとする全ての事業者が同一の企業結合集団（同項に規定する企業結合集団をいう。）に属する場合を除く。）"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "@Num": "6",
+            "ArticleCaption": "（認定事業者が行う株式等売渡請求について会社法の規定を適用する場合の技術的読替え）",
+            "ArticleTitle": "第六条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "法第三十条第五項の規定により会社法（平成十七年法律第八十六号）の規定を適用する場合における同項の規定による同法の規定の技術的読替えは、次の表のとおりとする。"
+              },
+              "TableStruct": {
+                "Table": {
+                  "TableRow": [
+                    {
+                      "TableColumn": [
+                        {
+                          "@Align": "left",
+                          "@Valign": "top",
+                          "Sentence": "読み替える会社法の規定"
+                        },
+                        {
+                          "@Align": "left",
+                          "@Valign": "top",
+                          "Sentence": "読み替えられる字句"
+                        },
+                        {
+                          "@Align": "left",
+                          "@Valign": "top",
+                          "Sentence": "読み替える字句"
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "@Align": "left",
+                          "@Valign": "top",
+                          "Sentence": "第百七十九条の五第一項第四\n            号"
+                        },
+                        {
+                          "@Align": "left",
+                          "@Valign": "top",
+                          "Sentence": "法務省令"
+                        },
+                        {
+                          "@Align": "left",
+                          "@Valign": "top",
+                          "Sentence": "産業競争力強化法第百四十七条第二項に規定する主務省令（以下単に「主務省令」という。）"
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "@Align": "left",
+                          "@Valign": "top",
+                          "Sentence": "第百七十九条の十第一項及び第百八十九条第二項第六号"
+                        },
+                        {
+                          "@Align": "left",
+                          "@Valign": "top",
+                          "Sentence": "法務省令"
+                        },
+                        {
+                          "@Align": "left",
+                          "@Valign": "top",
+                          "Sentence": "主務省令"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          {
+            "@Num": "7",
+            "ArticleCaption": "（認定事業者である株式会社が行う株式の発行又は自己株式の処分について会社法の規定を適用する場合の技術的読替え）",
+            "ArticleTitle": "第七条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "法第三十二条第一項の規定により会社法の規定を適用する場合における同項の規定による同法の規定の技術的読替えは、次の表のとおりとする。"
+              },
+              "TableStruct": {
+                "Table": {
+                  "TableRow": [
+                    {
+                      "TableColumn": [
+                        {
+                          "@BorderBottom": "solid",
+                          "@BorderLeft": "solid",
+                          "@BorderRight": "solid",
+                          "@BorderTop": "solid",
+                          "Sentence": "読み替える会社法の規定"
+                        },
+                        {
+                          "@BorderBottom": "solid",
+                          "@BorderLeft": "solid",
+                          "@BorderRight": "solid",
+                          "@BorderTop": "solid",
+                          "Sentence": "読み替えられる字句"
+                        },
+                        {
+                          "@BorderBottom": "solid",
+                          "@BorderLeft": "solid",
+                          "@BorderRight": "solid",
+                          "@BorderTop": "solid",
+                          "Sentence": "読み替える字句"
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "@BorderBottom": "solid",
+                          "@BorderLeft": "solid",
+                          "@BorderRight": "solid",
+                          "@BorderTop": "solid",
+                          "Sentence": "第百九十九条第二項"
+                        },
+                        {
+                          "@BorderBottom": "solid",
+                          "@BorderLeft": "solid",
+                          "@BorderRight": "solid",
+                          "@BorderTop": "solid",
+                          "Sentence": "前項各号"
+                        },
+                        {
+                          "@BorderBottom": "solid",
+                          "@BorderLeft": "solid",
+                          "@BorderRight": "solid",
+                          "@BorderTop": "solid",
+                          "Sentence": "前項各号（第三号を除く。）"
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "@BorderBottom": "solid",
+                          "@BorderLeft": "solid",
+                          "@BorderRight": "solid",
+                          "@BorderTop": "solid",
+                          "Sentence": "第二百一条第三項"
+                        },
+                        {
+                          "@BorderBottom": "solid",
+                          "@BorderLeft": "solid",
+                          "@BorderRight": "solid",
+                          "@BorderTop": "solid",
+                          "Sentence": "同条第一項第四号"
+                        },
+                        {
+                          "@BorderBottom": "solid",
+                          "@BorderLeft": "solid",
+                          "@BorderRight": "solid",
+                          "@BorderTop": "solid",
+                          "Sentence": "同法第三十二条第一項の規定により読み替えて適用する第百九十九条第一項第四号"
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "@BorderBottom": "solid",
+                          "@BorderLeft": "solid",
+                          "@BorderRight": "solid",
+                          "@BorderTop": "solid",
+                          "Sentence": "第二百八条第二項"
+                        },
+                        {
+                          "@BorderBottom": "solid",
+                          "@BorderLeft": "solid",
+                          "@BorderRight": "solid",
+                          "@BorderTop": "solid",
+                          "Sentence": "第百九十九条第一項第四号"
+                        },
+                        {
+                          "@BorderBottom": "solid",
+                          "@BorderLeft": "solid",
+                          "@BorderRight": "solid",
+                          "@BorderTop": "solid",
+                          "Sentence": "産業競争力強化法第三十二条第一項の規定により読み替えて適用する第百九十九条第一項第四号"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          {
+            "@Num": "8",
+            "ArticleCaption": "（認定事業者である株式会社が行う株式の発行又は自己株式の処分について会社法の規定を準用する場合の技術的読替え）",
+            "ArticleTitle": "第八条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "法第三十二条第三項の規定により会社法の規定を準用する場合における同項の規定による同法の規定の技術的読替えは、次の表のとおりとする。"
+              },
+              "TableStruct": {
+                "Table": {
+                  "TableRow": [
+                    {
+                      "TableColumn": [
+                        {
+                          "@Align": "left",
+                          "@Valign": "top",
+                          "Sentence": "読み替える会社法の規定"
+                        },
+                        {
+                          "@Align": "left",
+                          "@Valign": "top",
+                          "Sentence": "読み替えられる字句"
+                        },
+                        {
+                          "@Align": "left",
+                          "@Valign": "top",
+                          "Sentence": "読み替える字句"
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "@Align": "left",
+                          "@Valign": "top",
+                          "Sentence": "第三百九条第二項第十二号"
+                        },
+                        {
+                          "@Align": "left",
+                          "@Valign": "top",
+                          "Sentence": "第五編"
+                        },
+                        {
+                          "@Align": "left",
+                          "@Valign": "top",
+                          "Sentence": "第五編（第七百九十六条第三項の規定を産業競争力強化法第三十二条第三項の規定により読み替えて準用する場合を含む。）"
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "@Align": "left",
+                          "@Valign": "top",
+                          "Sentence": "第七百九十七条第一項"
+                        },
+                        {
+                          "@Align": "left",
+                          "@Valign": "top",
+                          "Sentence": "第七百九十五条第二項各号に掲げる場合及び第七百九十六条第一項ただし書"
+                        },
+                        {
+                          "@Align": "left",
+                          "@Valign": "top",
+                          "Sentence": "産業競争力強化法第三十二条第三項の規定により読み替えて準用する第七百九十六条第二項ただし書"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          {
+            "@Num": "9",
+            "ArticleCaption": "（認定事業再編関連措置等）",
+            "ArticleTitle": "第九条",
+            "Paragraph": [
+              {
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": "法第三十七条第一項第一号の政令で定める措置は、生産性向上設備等（法第二条第十三項に規定する生産性向上設備等をいう。）の導入と併せて行う事業再編（法第二条第十一項に規定する事業再編をいう。第三十一条第一項第二号において同じ。）のための措置であって、その実施に長期資金（資金需要の期間が五年以上の資金をいう。次項において同じ。）の借入れを必要とするものとする。"
+                }
+              },
+              {
+                "@Num": "2",
+                "ParagraphNum": "２",
+                "ParagraphSentence": {
+                  "Sentence": "法第三十七条第一項第二号の政令で定める措置は、その実施に長期資金の借入れを必要とするものとする。"
+                }
+              }
+            ]
+          },
+          {
+            "@Num": "10",
+            "ArticleCaption": "（株式会社日本政策金融公庫法施行令の適用）",
+            "ArticleTitle": "第十条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "事業再編促進円滑化業務（法第三十七条第一項に規定する事業再編促進円滑化業務をいう。）が行われる場合には、株式会社日本政策金融公庫法施行令（平成二十年政令第百四十三号）第三十条第一項並びに第三十一条第一項各号及び第二項中「法第五十九条第一項」とあるのは、「産業競争力強化法（平成二十五年法律第九十八号）第三十七条第二項の規定により読み替えて適用する法第五十九条第一項」とする。"
+              }
+            }
+          },
+          {
+            "@Num": "11",
+            "ArticleCaption": "（指定金融機関）",
+            "ArticleTitle": "第十一条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "法第三十九条第一項第一号の政令で定める金融機関は、次のとおりとする。"
+              },
+              "Item": [
+                {
+                  "@Num": "1",
+                  "ItemTitle": "一",
+                  "ItemSentence": {
+                    "Sentence": "銀行"
+                  }
+                },
+                {
+                  "@Num": "2",
+                  "ItemTitle": "二",
+                  "ItemSentence": {
+                    "Sentence": "長期信用銀行"
+                  }
+                },
+                {
+                  "@Num": "3",
+                  "ItemTitle": "三",
+                  "ItemSentence": {
+                    "Sentence": "株式会社商工組合中央金庫"
+                  }
+                },
+                {
+                  "@Num": "4",
+                  "ItemTitle": "四",
+                  "ItemSentence": {
+                    "Sentence": "株式会社日本政策投資銀行"
+                  }
+                },
+                {
+                  "@Num": "5",
+                  "ItemTitle": "五",
+                  "ItemSentence": {
+                    "Sentence": "信用金庫及び信用金庫連合会"
+                  }
+                },
+                {
+                  "@Num": "6",
+                  "ItemTitle": "六",
+                  "ItemSentence": {
+                    "Sentence": "労働金庫及び労働金庫連合会"
+                  }
+                },
+                {
+                  "@Num": "7",
+                  "ItemTitle": "七",
+                  "ItemSentence": {
+                    "Sentence": "信用協同組合及び協同組合連合会（中小企業等協同組合法（昭和二十四年法律第百八十一号）第九条の九第一項第一号及び第二号の事業を併せ行うものに限る。第十三条第一号において同じ。）"
+                  }
+                },
+                {
+                  "@Num": "8",
+                  "ItemTitle": "八",
+                  "ItemSentence": {
+                    "Sentence": "農業協同組合（農業協同組合法（昭和二十二年法律第百三十二号）第十条第一項第二号及び第三号の事業を併せ行うものに限る。第十三条第三号において同じ。）及び農業協同組合連合会（同項第二号及び第三号の事業を併せ行うものに限る。同条第三号において同じ。）"
+                  }
+                },
+                {
+                  "@Num": "9",
+                  "ItemTitle": "九",
+                  "ItemSentence": {
+                    "Sentence": "漁業協同組合（水産業協同組合法（昭和二十三年法律第二百四十二号）第十一条第一項第三号及び第四号の事業を併せ行うものに限る。第十三条第三号において同じ。）、漁業協同組合連合会（同法第八十七条第一項第三号及び第四号の事業を併せ行うものに限る。第十三条第三号において同じ。）、水産加工業協同組合（同法第九十三条第一項第一号及び第二号の事業を併せ行うものに限る。第十三条第三号において同じ。）及び水産加工業協同組合連合会（同法第九十七条第一項第一号及び第二号の事業を併せ行うものに限る。第十三条第三号において同じ。）"
+                  }
+                },
+                {
+                  "@Num": "10",
+                  "ItemTitle": "十",
+                  "ItemSentence": {
+                    "Sentence": "農林中央金庫"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "@Num": "12",
+            "ArticleCaption": "（指定金融機関の指定の基準となる法律）",
+            "ArticleTitle": "第十二条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "法第三十九条第四項第一号の政令で定める法律は、次のとおりとする。"
+              },
+              "Item": [
+                {
+                  "@Num": "1",
+                  "ItemTitle": "一",
+                  "ItemSentence": {
+                    "Sentence": "農業協同組合法"
+                  }
+                },
+                {
+                  "@Num": "2",
+                  "ItemTitle": "二",
+                  "ItemSentence": {
+                    "Sentence": "水産業協同組合法"
+                  }
+                },
+                {
+                  "@Num": "3",
+                  "ItemTitle": "三",
+                  "ItemSentence": {
+                    "Sentence": "中小企業等協同組合法"
+                  }
+                },
+                {
+                  "@Num": "4",
+                  "ItemTitle": "四",
+                  "ItemSentence": {
+                    "Sentence": "協同組合による金融事業に関する法律（昭和二十四年法律第百八十三号）"
+                  }
+                },
+                {
+                  "@Num": "5",
+                  "ItemTitle": "五",
+                  "ItemSentence": {
+                    "Sentence": "信用金庫法（昭和二十六年法律第二百三十八号）"
+                  }
+                },
+                {
+                  "@Num": "6",
+                  "ItemTitle": "六",
+                  "ItemSentence": {
+                    "Sentence": "長期信用銀行法（昭和二十七年法律第百八十七号）"
+                  }
+                },
+                {
+                  "@Num": "7",
+                  "ItemTitle": "七",
+                  "ItemSentence": {
+                    "Sentence": "労働金庫法（昭和二十八年法律第二百二十七号）"
+                  }
+                },
+                {
+                  "@Num": "8",
+                  "ItemTitle": "八",
+                  "ItemSentence": {
+                    "Sentence": "銀行法（昭和五十六年法律第五十九号）"
+                  }
+                },
+                {
+                  "@Num": "9",
+                  "ItemTitle": "九",
+                  "ItemSentence": {
+                    "Sentence": "農林中央金庫法（平成十三年法律第九十三号）"
+                  }
+                },
+                {
+                  "@Num": "10",
+                  "ItemTitle": "十",
+                  "ItemSentence": {
+                    "Sentence": "株式会社日本政策金融公庫法（平成十九年法律第五十七号）"
+                  }
+                },
+                {
+                  "@Num": "11",
+                  "ItemTitle": "十一",
+                  "ItemSentence": {
+                    "Sentence": "株式会社商工組合中央金庫法（平成十九年法律第七十四号）"
+                  }
+                },
+                {
+                  "@Num": "12",
+                  "ItemTitle": "十二",
+                  "ItemSentence": {
+                    "Sentence": "株式会社日本政策投資銀行法（平成十九年法律第八十五号）"
+                  }
+                },
+                {
+                  "@Num": "13",
+                  "ItemTitle": "十三",
+                  "ItemSentence": {
+                    "Sentence": "産業競争力強化法"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "@Num": "13",
+            "ArticleCaption": "（内閣総理大臣等への通知）",
+            "ArticleTitle": "第十三条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "主務大臣は、法第三十九条第一項の規定による指定（以下この条において単に「指定」という。）、法第四十一条第一項の認可、同条第二項若しくは法第四十四条の規定による命令若しくは法第四十六条第一項若しくは第二項の規定による指定の取消し（以下この条において「処分」と総称する。）をしたとき、又は法第四十五条第一項の規定による届出（以下この条において単に「届出」という。）を受理したときは、速やかに、その旨を、当該処分を受け、又は届出を行った指定金融機関（法第三十九条第一項の規定により指定された指定金融機関をいう。）が次の各号に掲げるものである場合の区分に応じ、それぞれ当該各号に定める大臣に通知するものとする。"
+              },
+              "Item": [
+                {
+                  "@Num": "1",
+                  "ItemTitle": "一",
+                  "ItemSentence": {
+                    "Column": [
+                      {
+                        "@Num": "1",
+                        "Sentence": "銀行、長期信用銀行、信用金庫、信用金庫連合会、信用協同組合及び協同組合連合会"
+                      },
+                      {
+                        "@Num": "2",
+                        "Sentence": "内閣総理大臣"
+                      }
+                    ]
+                  }
+                },
+                {
+                  "@Num": "2",
+                  "ItemTitle": "二",
+                  "ItemSentence": {
+                    "Column": [
+                      {
+                        "@Num": "1",
+                        "Sentence": "労働金庫及び労働金庫連合会"
+                      },
+                      {
+                        "@Num": "2",
+                        "Sentence": "内閣総理大臣及び厚生労働大臣"
+                      }
+                    ]
+                  }
+                },
+                {
+                  "@Num": "3",
+                  "ItemTitle": "三",
+                  "ItemSentence": {
+                    "Column": [
+                      {
+                        "@Num": "1",
+                        "Sentence": "農業協同組合、農業協同組合連合会、漁業協同組合、漁業協同組合連合会、水産加工業協同組合、水産加工業協同組合連合会及び農林中央金庫"
+                      },
+                      {
+                        "@Num": "2",
+                        "Sentence": "農林水産大臣及び内閣総理大臣"
+                      }
+                    ]
+                  }
+                },
+                {
+                  "@Num": "4",
+                  "ItemTitle": "四",
+                  "ItemSentence": {
+                    "Column": [
+                      {
+                        "@Num": "1",
+                        "Sentence": "株式会社商工組合中央金庫"
+                      },
+                      {
+                        "@Num": "2",
+                        "Sentence": "経済産業大臣、財務大臣及び内閣総理大臣"
+                      }
+                    ]
+                  }
+                },
+                {
+                  "@Num": "5",
+                  "ItemTitle": "五",
+                  "ItemSentence": {
+                    "Column": [
+                      {
+                        "@Num": "1",
+                        "Sentence": "株式会社日本政策投資銀行"
+                      },
+                      {
+                        "@Num": "2",
+                        "Sentence": "財務大臣（株式会社日本政策投資銀行が株式会社日本政策投資銀行法第九条第一項の承認を受けた場合にあっては、財務大臣及び内閣総理大臣）"
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "@Num": "14",
+            "ArticleCaption": "（事業再生円滑化関連保証に係る保険料率）",
+            "ArticleTitle": "第十四条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "法第五十二条第三項の政令で定める率は、保証をした借入れの期間（中小企業信用保険法施行令（昭和二十五年政令第三百五十号）第二条第一項に規定する借入れの期間をいう。次条及び第二十六条において同じ。）一年につき、普通保険（中小企業信用保険法（昭和二十五年法律第二百六十四号）第三条第一項に規定する普通保険をいう。次条において同じ。）及び無担保保険（同法第三条の二第一項に規定する無担保保険をいう。次条及び第二十五条において同じ。）にあっては一・六九パーセント（手形割引等特殊保証（同令第二条第一項に規定する手形割引等特殊保証をいう。以下この条、次条及び第二十六条において同じ。）及び当座貸越し特殊保証（同令第二条第一項に規定する当座貸越し特殊保証をいう。以下この条、次条及び第二十六条において同じ。）の場合は、一・四四パーセント）、特別小口保険（同法第三条の三第一項に規定する特別小口保険をいう。次条において同じ。）にあっては〇・四パーセント（手形割引等特殊保証及び当座貸越し特殊保証の場合は、〇・三四パーセント）とする。"
+              }
+            }
+          },
+          {
+            "@Num": "15",
+            "ArticleCaption": "（事業再生計画実施関連保証に係る保険料率）",
+            "ArticleTitle": "第十五条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "法第五十三条第三項の政令で定める率は、保証をした借入れの期間一年につき、普通保険及び無担保保険にあっては〇・四一パーセント（手形割引等特殊保証及び当座貸越し特殊保証の場合は、〇・三五パーセント）、特別小口保険にあっては〇・一九パーセント（手形割引等特殊保証及び当座貸越し特殊保証の場合は、〇・一五パーセント）とする。"
+              }
+            }
+          },
+          {
+            "@Num": "16",
+            "ArticleCaption": "（特許料の軽減等の要件）",
+            "ArticleTitle": "第十六条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "法第六十六条第一項の政令で定める要件は、次のとおりとする。"
+              },
+              "Item": [
+                {
+                  "@Num": "1",
+                  "ItemTitle": "一",
+                  "ItemSentence": {
+                    "Sentence": "個人にあっては、次のいずれかに該当すること。"
+                  },
+                  "Subitem1": [
+                    {
+                      "@Num": "1",
+                      "Subitem1Title": "イ",
+                      "Subitem1Sentence": {
+                        "Sentence": "常時使用する従業員の数が二十人（商業又はサービス業に属する事業を主たる事業として営む者にあっては、五人。次号イにおいて同じ。）以下であること。"
+                      }
+                    },
+                    {
+                      "@Num": "2",
+                      "Subitem1Title": "ロ",
+                      "Subitem1Sentence": {
+                        "Sentence": "その事業を開始した日以後十年を経過していないこと。"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "@Num": "2",
+                  "ItemTitle": "二",
+                  "ItemSentence": {
+                    "Sentence": "法人にあっては、次のいずれかに該当すること及び当該法人に対し、その発行済株式の総数、出資口数の総数又は出資価額の総額の二分の一以上に相当する数又は額の株式又は出資を単独で所有する関係その他その事業活動を実質的に支配することが可能なものとして経済産業省令で定める関係を有する法人がないこと。"
+                  },
+                  "Subitem1": [
+                    {
+                      "@Num": "1",
+                      "Subitem1Title": "イ",
+                      "Subitem1Sentence": {
+                        "Sentence": "常時使用する従業員の数が二十人以下であること。"
+                      }
+                    },
+                    {
+                      "@Num": "2",
+                      "Subitem1Title": "ロ",
+                      "Subitem1Sentence": {
+                        "Sentence": "資本金の額又は出資の総額（資本金又は出資を有しない法人にあっては、経済産業省令で定める額）が三億円以下であって、その設立の日以後十年を経過していないこと。"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          },
+          {
+            "@Num": "17",
+            "ArticleCaption": "（特許料の軽減）",
+            "ArticleTitle": "第十七条",
+            "Paragraph": [
+              {
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": "法第六十六条第一項の規定により特許料の軽減を受けようとする者は、次に掲げる事項を記載した申請書に、申請人が前条第一号又は第二号に掲げる要件に該当する者であることを証する書面を添付して、特許庁長官に提出しなければならない。"
+                },
+                "Item": [
+                  {
+                    "@Num": "1",
+                    "ItemTitle": "一",
+                    "ItemSentence": {
+                      "Sentence": "申請人の氏名又は名称及び住所又は居所"
+                    }
+                  },
+                  {
+                    "@Num": "2",
+                    "ItemTitle": "二",
+                    "ItemSentence": {
+                      "Sentence": "申請に係る特許発明の特許出願の番号又は特許番号"
+                    }
+                  },
+                  {
+                    "@Num": "3",
+                    "ItemTitle": "三",
+                    "ItemSentence": {
+                      "Sentence": "特許料の軽減を受けようとする旨"
+                    }
+                  }
+                ]
+              },
+              {
+                "@Num": "2",
+                "ParagraphNum": "２",
+                "ParagraphSentence": {
+                  "Sentence": "特許庁長官は、前項の申請書の提出があったときは、特許法（昭和三十四年法律第百二十一号）第百七条第一項の規定による第一年から第十年までの各年分の特許料の金額の三分の二に相当する額を軽減するものとする。"
+                }
+              },
+              {
+                "@Num": "3",
+                "ParagraphNum": "３",
+                "ParagraphSentence": {
+                  "Sentence": "前項の規定により算定した特許料の金額に十円未満の端数があるときは、その端数は、切り捨てる。"
+                }
+              }
+            ]
+          },
+          {
+            "@Num": "18",
+            "ArticleCaption": "（出願審査の請求の手数料の軽減）",
+            "ArticleTitle": "第十八条",
+            "Paragraph": [
+              {
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": "法第六十六条第二項の規定により出願審査の請求の手数料の軽減を受けようとする者は、次に掲げる事項を記載した申請書に、申請人が第十六条第一号又は第二号に掲げる要件に該当する者であることを証する書面を添付して、特許庁長官に提出しなければならない。"
+                },
+                "Item": [
+                  {
+                    "@Num": "1",
+                    "ItemTitle": "一",
+                    "ItemSentence": {
+                      "Sentence": "申請人の氏名又は名称及び住所又は居所"
+                    }
+                  },
+                  {
+                    "@Num": "2",
+                    "ItemTitle": "二",
+                    "ItemSentence": {
+                      "Sentence": "申請に係る発明の特許出願の表示"
+                    }
+                  },
+                  {
+                    "@Num": "3",
+                    "ItemTitle": "三",
+                    "ItemSentence": {
+                      "Sentence": "出願審査の請求の手数料の軽減を受けようとする旨"
+                    }
+                  }
+                ]
+              },
+              {
+                "@Num": "2",
+                "ParagraphNum": "２",
+                "ParagraphSentence": {
+                  "Sentence": "特許庁長官は、前項の申請書の提出があったときは、特許法等関係手数料令（昭和三十五年政令第二十号）第一条第二項の表第九号の規定により計算される出願審査の請求の手数料の金額の三分の二に相当する額を軽減するものとする。"
+                }
+              },
+              {
+                "@Num": "3",
+                "ParagraphNum": "３",
+                "ParagraphSentence": {
+                  "Sentence": "前項の規定により算定した出願審査の請求の手数料の金額に十円未満の端数があるときは、その端数は、切り捨てる。"
+                }
+              }
+            ]
+          },
+          {
+            "@Num": "19",
+            "ArticleCaption": "（国際出願に係る手数料の軽減）",
+            "ArticleTitle": "第十九条",
+            "Paragraph": [
+              {
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": "法第六十六条第三項の規定により国際出願（特許協力条約に基づく国際出願等に関する法律（昭和五十三年法律第三十号）第二条に規定する国際出願をいう。以下この条において同じ。）に係る手数料の軽減を受けようとする者は、次に掲げる事項を記載した申請書に、申請人が第十六条第一号又は第二号に掲げる要件に該当する者であることを証する書面を添付して、特許庁長官に提出しなければならない。"
+                },
+                "Item": [
+                  {
+                    "@Num": "1",
+                    "ItemTitle": "一",
+                    "ItemSentence": {
+                      "Sentence": "申請人の氏名又は名称及び住所又は居所"
+                    }
+                  },
+                  {
+                    "@Num": "2",
+                    "ItemTitle": "二",
+                    "ItemSentence": {
+                      "Sentence": "申請に係る発明の国際出願の表示"
+                    }
+                  },
+                  {
+                    "@Num": "3",
+                    "ItemTitle": "三",
+                    "ItemSentence": {
+                      "Sentence": "国際出願に係る手数料の軽減を受けようとする旨"
+                    }
+                  }
+                ]
+              },
+              {
+                "@Num": "2",
+                "ParagraphNum": "２",
+                "ParagraphSentence": {
+                  "Sentence": "特許庁長官は、前項の申請書の提出があったときは、特許協力条約に基づく国際出願等に関する法律施行令（昭和五十三年政令第二百九十一号）第二条第二項第一号及び第三号の規定による手数料の金額の三分の二に相当する額を軽減するものとする。"
+                }
+              },
+              {
+                "@Num": "3",
+                "ParagraphNum": "３",
+                "ParagraphSentence": {
+                  "Sentence": "前項の規定により算定した国際出願に係る手数料の金額に十円未満の端数があるときは、その端数は、切り捨てる。"
+                }
+              }
+            ]
+          },
+          {
+            "@Num": "20",
+            "ArticleCaption": "（認定技術等情報漏えい防止措置認証機関の認定の有効期間）",
+            "ArticleTitle": "第二十条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "法第六十九条第一項の政令で定める期間は、三年とする。"
+              }
+            }
+          },
+          {
+            "@Num": "21",
+            "ArticleCaption": "（機構による支援決定）",
+            "ArticleTitle": "第二十一条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "法第百八条第二項ただし書の政令で定める出資は、次の各号のいずれにも該当するものとする。"
+              },
+              "Item": [
+                {
+                  "@Num": "1",
+                  "ItemTitle": "一",
+                  "ItemSentence": {
+                    "Sentence": "自らの経営資源以外の経営資源を活用し、新たな事業の開拓を行うことを目指した事業活動を行う事業者に対するものであること。"
+                  }
+                },
+                {
+                  "@Num": "2",
+                  "ItemTitle": "二",
+                  "ItemSentence": {
+                    "Sentence": "その額（株式会社産業革新投資機構（以下「機構」という。）が当該直接資金供給（法第九十五条第一項第四号に規定する直接資金供給をいう。）の対象となる事業者に対し、当該直接資金供給に係る特定事業活動（法第二条第二十項に規定する特定事業活動をいう。）に関して既に出資（法第百八条第二項ただし書の規定により経済産業大臣に意見を述べる機会を与えないで決定したものに限る。次号において同じ。）を行った場合にあっては、その既に行った出資の額とその行おうとする出資の額との合計額）が十億円を超えないものであること。"
+                  }
+                },
+                {
+                  "@Num": "3",
+                  "ItemTitle": "三",
+                  "ItemSentence": {
+                    "Sentence": "その額と機構が既に行った出資（その出資に係る株式について法第百一条第一項第十三号の譲渡その他の処分を行ったものを除く。）の額との合計額が、九百億円を超えないものであること。"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "@Num": "22",
+            "ArticleCaption": "（評価委員の任命及び機構が譲受けを行う特定株式の評価等）",
+            "ArticleTitle": "第二十二条",
+            "Paragraph": [
+              {
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": "法第百十二条第三項の評価委員（次項及び第二十四条第一項において単に「評価委員」という。）は、次に掲げる者につき経済産業大臣が任命する。"
+                },
+                "Item": [
+                  {
+                    "@Num": "1",
+                    "ItemTitle": "一",
+                    "ItemSentence": {
+                      "Column": [
+                        {
+                          "@Num": "1",
+                          "Sentence": "財務省の職員"
+                        },
+                        {
+                          "@Num": "2",
+                          "Sentence": "一人"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "@Num": "2",
+                    "ItemTitle": "二",
+                    "ItemSentence": {
+                      "Column": [
+                        {
+                          "@Num": "1",
+                          "Sentence": "経済産業省の職員"
+                        },
+                        {
+                          "@Num": "2",
+                          "Sentence": "一人"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "@Num": "3",
+                    "ItemTitle": "三",
+                    "ItemSentence": {
+                      "Column": [
+                        {
+                          "@Num": "1",
+                          "Sentence": "対象会社（機構が法第百十二条第一項の規定により譲受けを行い、又は法第百十四条第一項の規定により譲渡を行おうとする法第百十一条に規定する特定株式に係る法第二条第二十二項に規定する特定政府出資会社をいう。第三項及び第二十四条第二項において同じ。）の設立を認可した大臣の分担管理する行政事務をつかさどる機関たる各省（当該大臣が内閣総理大臣である場合にあっては、内閣府。第三項及び第二十四条第二項において「担当府省」という。）の職員"
+                        },
+                        {
+                          "@Num": "2",
+                          "Sentence": "一人"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "@Num": "4",
+                    "ItemTitle": "四",
+                    "ItemSentence": {
+                      "Column": [
+                        {
+                          "@Num": "1",
+                          "Sentence": "機構の取締役"
+                        },
+                        {
+                          "@Num": "2",
+                          "Sentence": "一人"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "@Num": "5",
+                    "ItemTitle": "五",
+                    "ItemSentence": {
+                      "Column": [
+                        {
+                          "@Num": "1",
+                          "Sentence": "学識経験のある者"
+                        },
+                        {
+                          "@Num": "2",
+                          "Sentence": "三人"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "@Num": "2",
+                "ParagraphNum": "２",
+                "ParagraphSentence": {
+                  "Sentence": "法第百十二条第三項の評価は、評価委員の過半数の一致によるものとする。"
+                }
+              },
+              {
+                "@Num": "3",
+                "ParagraphNum": "３",
+                "ParagraphSentence": {
+                  "Sentence": "法第百十二条第三項の評価に関する庶務は、経済産業省経済産業政策局産業創造課並びに担当府省の部局に置かれる対象会社の組織及び運営一般に関する事務を所掌する課（担当府省が内閣府である場合にあっては、内閣府本府に置かれる政策統括官）において処理する。"
+                }
+              }
+            ]
+          },
+          {
+            "@Num": "23",
+            "ArticleCaption": "（機構の株主のうち政府以外のものが行う株式買取請求について会社法の規定を準用する場合の技術的読替え）",
+            "ArticleTitle": "第二十三条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "法第百十三条の規定により会社法の規定を準用する場合における同条の規定による同法の規定の技術的読替えは、次の表のとおりとする。"
+              },
+              "TableStruct": {
+                "Table": {
+                  "TableRow": [
+                    {
+                      "TableColumn": [
+                        {
+                          "Sentence": "読み替える会社法の規定"
+                        },
+                        {
+                          "Sentence": "読み替えられる字句"
+                        },
+                        {
+                          "Sentence": "読み替える字句"
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "Sentence": "第四百七十条第一項"
+                        },
+                        {
+                          "Sentence": "ならない。"
+                        },
+                        {
+                          "Sentence": "ならない。ただし、機構は、特定株式譲受けの対価として株式の発行又は自己株式の処分をするときは、産業競争力強化法第百十二条第二項において読み替えて適用する第百九十九条第二項ただし書の規定による決定において踏まえるべき同法第百十二条第三項の評価委員の評価を踏まえて協議をしなければならない。"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          {
+            "@Num": "24",
+            "ArticleCaption": "（機構が譲渡を行おうとする特定株式の評価等）",
+            "ArticleTitle": "第二十四条",
+            "Paragraph": [
+              {
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": "法第百十四条第二項の評価は、評価委員の過半数の一致によるものとする。"
+                }
+              },
+              {
+                "@Num": "2",
+                "ParagraphNum": "２",
+                "ParagraphSentence": {
+                  "Sentence": "法第百十四条第二項の評価に関する庶務は、経済産業省経済産業政策局産業創造課並びに担当府省の部局に置かれる対象会社の組織及び運営一般に関する事務を所掌する課（担当府省が内閣府である場合にあっては、内閣府本府に置かれる政策統括官）において処理する。"
+                }
+              }
+            ]
+          },
+          {
+            "@Num": "25",
+            "ArticleCaption": "（創業関連保証に係る中小企業信用保険法の特例）",
+            "ArticleTitle": "第二十五条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "法第百二十九条第四項の政令で指定する無担保保険の保険関係は、中小企業信用保険法第三条の二第一項に規定する債務の保証（同法以外の法律に規定するもの並びに同法第十二条に規定する経営安定関連保証及び同法第十五条に規定する危機関連保証を除く。）に係る保険関係、中小企業等経営強化法（平成十一年法律第十八号）第四条第一項に規定する創業等関連保証に係る保険関係及び法第百二十九条第一項に規定する創業関連保証に係る保険関係とし、同条第四項の政令で定める限度額は、八千万円とする。"
+              }
+            }
+          },
+          {
+            "@Num": "26",
+            "ArticleTitle": "第二十六条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "法第百二十九条第五項の政令で定める率は、保証をした借入れの期間一年につき、〇・二九パーセント（手形割引等特殊保証及び当座貸越し特殊保証の場合は、〇・二五パーセント）とする。"
+              }
+            }
+          },
+          {
+            "@Num": "27",
+            "ArticleCaption": "（中小企業再生支援協議会の組織）",
+            "ArticleTitle": "第二十七条",
+            "Paragraph": [
+              {
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": "法第百三十五条第一項に規定する中小企業再生支援協議会（以下この条及び第三十条において「協議会」という。）の委員は、五人以上でなければならない。"
+                }
+              },
+              {
+                "@Num": "2",
+                "ParagraphNum": "２",
+                "ParagraphSentence": {
+                  "Sentence": "協議会に会長一人を置き、委員のうちから、委員の互選によってこれを定める。"
+                }
+              },
+              {
+                "@Num": "3",
+                "ParagraphNum": "３",
+                "ParagraphSentence": {
+                  "Sentence": "会長は、協議会の会務を総理する。"
+                }
+              },
+              {
+                "@Num": "4",
+                "ParagraphNum": "４",
+                "ParagraphSentence": {
+                  "Sentence": "協議会は、あらかじめ、委員のうちから、会長に事故がある場合における会長の職務を代理する者を定めておかなければならない。"
+                }
+              },
+              {
+                "@Num": "5",
+                "ParagraphNum": "５",
+                "ParagraphSentence": {
+                  "Sentence": "認定支援機関（法第百三十四条第二項に規定する認定支援機関をいう。第二十九条及び第三十条において同じ。）に、協議会の事務局を置く。"
+                }
+              }
+            ]
+          },
+          {
+            "@Num": "28",
+            "ArticleCaption": "（委員の任期）",
+            "ArticleTitle": "第二十八条",
+            "Paragraph": [
+              {
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": [
+                    {
+                      "@Function": "main",
+                      "@Num": "1",
+                      "#text": "委員の任期は、三年とする。"
+                    },
+                    {
+                      "@Function": "proviso",
+                      "@Num": "2",
+                      "#text": "ただし、委員が欠けた場合における補欠の委員の任期は、前任者の残任期間とする。"
+                    }
+                  ]
+                }
+              },
+              {
+                "@Num": "2",
+                "ParagraphNum": "２",
+                "ParagraphSentence": {
+                  "Sentence": "委員は、再任されることができる。"
+                }
+              }
+            ]
+          },
+          {
+            "@Num": "29",
+            "ArticleCaption": "（委員の解任）",
+            "ArticleTitle": "第二十九条",
+            "Paragraph": [
+              {
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": "認定支援機関の長は、委員が破産手続開始の決定を受け、又は禁錮以上の刑に処せられたときは、その委員を解任しなければならない。"
+                }
+              },
+              {
+                "@Num": "2",
+                "ParagraphNum": "２",
+                "ParagraphSentence": {
+                  "Sentence": "認定支援機関の長は、委員が心身の故障のため職務の執行ができないと認めるとき、又は委員に職務上の義務違反その他委員たるに適しない非行があると認めるときは、これを解任することができる。"
+                }
+              }
+            ]
+          },
+          {
+            "@Num": "30",
+            "ArticleCaption": "（定足数及び議決の方法）",
+            "ArticleTitle": "第三十条",
+            "Paragraph": [
+              {
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": "協議会は、委員及び認定支援機関の長の過半数が出席しなければ、会議を開き、議決をすることができない。"
+                }
+              },
+              {
+                "@Num": "2",
+                "ParagraphNum": "２",
+                "ParagraphSentence": {
+                  "Sentence": [
+                    {
+                      "@Num": "1",
+                      "#text": "協議会の決議は、出席した委員及び認定支援機関の長の過半数をもって行う。"
+                    },
+                    {
+                      "@Num": "2",
+                      "#text": "可否同数のときは、会長が決する。"
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "@Num": "31",
+            "ArticleCaption": "（独立行政法人中小企業基盤整備機構が出資する投資事業有限責任組合の範囲）",
+            "ArticleTitle": "第三十一条",
+            "Paragraph": [
+              {
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": "法第百四十条第一号の政令で定める投資事業有限責任組合は、次に掲げる者に対して投資事業有限責任組合契約に関する法律（平成十年法律第九十号）第三条第一項各号に掲げる事業の全部又は一部を営むことを約した投資事業有限責任組合とする。"
+                },
+                "Item": [
+                  {
+                    "@Num": "1",
+                    "ItemTitle": "一",
+                    "ItemSentence": {
+                      "Sentence": "法第二十四条第一項に規定する認定事業再編事業者又は法第二十六条第一項に規定する認定特別事業再編事業者"
+                    }
+                  },
+                  {
+                    "@Num": "2",
+                    "ItemTitle": "二",
+                    "ItemSentence": {
+                      "Sentence": "事業再編を実施する事業者であって、次のいずれかに該当するもの"
+                    },
+                    "Subitem1": [
+                      {
+                        "@Num": "1",
+                        "Subitem1Title": "イ",
+                        "Subitem1Sentence": {
+                          "Sentence": "次の（１）から（３）までのいずれかに掲げる額の前事業年度終了の日における純資産の額に対する割合が百分の二を超えるものであること。"
+                        },
+                        "Subitem2": [
+                          {
+                            "@Num": "1",
+                            "Subitem2Title": "（１）",
+                            "Subitem2Sentence": {
+                              "Sentence": "前事業年度において生じた純損失の額"
+                            }
+                          },
+                          {
+                            "@Num": "2",
+                            "Subitem2Title": "（２）",
+                            "Subitem2Sentence": {
+                              "Sentence": "前事業年度前三年度のいずれかの事業年度から前事業年度までの各年度に生じた純損失の額の合計額"
+                            }
+                          },
+                          {
+                            "@Num": "3",
+                            "Subitem2Title": "（３）",
+                            "Subitem2Sentence": {
+                              "Sentence": "前事業年度終了の日における欠損の額"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "@Num": "2",
+                        "Subitem1Title": "ロ",
+                        "Subitem1Sentence": {
+                          "Sentence": "前事業年度終了の日における貸借対照表上の負債の額が資産の額を超えるものであること。"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Num": "3",
+                    "ItemTitle": "三",
+                    "ItemSentence": {
+                      "Sentence": "前二号に掲げる事業者の関係事業者"
+                    }
+                  }
+                ]
+              },
+              {
+                "@Num": "2",
+                "ParagraphNum": "２",
+                "ParagraphSentence": {
+                  "Sentence": "前項第二号イに規定する純資産、純損失及び欠損の額並びに同号ロに規定する負債及び資産の額の算定の方法は、経済産業省令で定める。"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      "SupplProvision": [
+        {
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Article": [
+            {
+              "@Num": "1",
+              "ArticleCaption": "（施行期日）",
+              "ArticleTitle": "第一条",
+              "Paragraph": {
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": [
+                    {
+                      "@Function": "main",
+                      "@Num": "1",
+                      "#text": "この政令は、法の施行の日（平成二十六年一月二十日）から施行する。"
+                    },
+                    {
+                      "@Function": "proviso",
+                      "@Num": "2",
+                      "#text": "ただし、第十六条から第十九条までの規定及び附則第十三条中経済産業省組織令（平成十二年政令第二百五十四号）第五十七条の改正規定は、法附則第一条第二号に掲げる規定の施行の日（同年四月一日）から施行する。"
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "@Num": "2",
+              "ArticleCaption": "（産業活力の再生及び産業活動の革新に関する特別措置法施行令の廃止）",
+              "ArticleTitle": "第二条",
+              "Paragraph": {
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": "産業活力の再生及び産業活動の革新に関する特別措置法施行令（平成十一年政令第二百五十八号）は、廃止する。"
+                }
+              }
+            },
+            {
+              "@Num": "3",
+              "ArticleCaption": "（公庫の行う損失補填業務に関する経過措置）",
+              "ArticleTitle": "第三条",
+              "Paragraph": {
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": [
+                    {
+                      "@Num": "1",
+                      "#text": "法附則第十二条の規定によりなおその効力を有することとされた法附則第四条の規定による廃止前の産業活力の再生及び産業活動の革新に関する特別措置法（平成十一年法律第百三十一号。次条及び附則第五条において「旧産活法」という。）第二十四条の二第一項の損失の補填に係る株式会社日本政策金融公庫（次条において「公庫」という。）の業務については、前条の規定による廃止前の産業活力の再生及び産業活動の革新に関する特別措置法施行令（以下この条、次条及び附則第五条において「旧産活法施行令」という。）第九条（同条の表中第十六条第三項の項及び第二十二条第三項の項を除く。）の規定は、この政令の施行後も、なおその効力を有する。"
+                    },
+                    {
+                      "@Num": "2",
+                      "#text": "この場合において、旧産活法施行令第九条中「法第二十四条の二第二項」とあるのは「産業競争力強化法（平成二十五年法律第九十八号）附則第十二条の規定によりなおその効力を有することとされた同法附則第四条の規定による廃止前の産業活力の再生及び産業活動の革新に関する特別措置法（平成十一年法律第百三十一号）第二十四条の二第二項」と、同条の表第二十一条第一項第二号の項中「産業活力の再生及び産業活動の革新に関する特別措置法」とあるのは「産業競争力強化法（平成二十五年法律第九十八号）附則第十二条の規定によりなおその効力を有することとされた同法附則第四条の規定による廃止前の産業活力の再生及び産業活動の革新に関する特別措置法（平成十一年法律第百三十一号。第二十二条第一項において「旧産活法」という。）」と、同表第二十二条第一項の項中「産業活力の再生及び産業活動の革新に関する特別措置法」とあるのは「旧産活法」とする。"
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "@Num": "4",
+              "ArticleCaption": "（公庫の行う事業再構築等促進円滑化業務に関する経過措置）",
+              "ArticleTitle": "第四条",
+              "Paragraph": {
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": [
+                    {
+                      "@Num": "1",
+                      "#text": "法附則第十三条の規定によりなおその効力を有することとされた旧産活法第二十四条の三第一項に規定する公庫の事業再構築等促進円滑化業務については、旧産活法施行令第十一条の規定は、この政令の施行後も、なおその効力を有する。"
+                    },
+                    {
+                      "@Num": "2",
+                      "#text": "この場合において、同条中「法第二十四条の三第一項」とあるのは「産業競争力強化法（平成二十五年法律第九十八号）附則第十三条の規定によりなおその効力を有することとされた同法附則第四条の規定による廃止前の産業活力の再生及び産業活動の革新に関する特別措置法（平成十一年法律第百三十一号）第二十四条の三第一項」と、「産業活力の再生及び産業活動の革新に関する特別措置法（平成十一年法律第百三十一号）第二十四条の三第二項」とあるのは「産業競争力強化法（平成二十五年法律第九十八号）附則第十三条の規定によりなおその効力を有することとされた同法附則第四条の規定による廃止前の産業活力の再生及び産業活動の革新に関する特別措置法（平成十一年法律第百三十一号）第二十四条の三第二項」とする。"
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "@Num": "5",
+              "ArticleCaption": "（旧産活法第二十四条の五第一項に規定する指定金融機関の行う事業再構築等促進業務に関する経過措置）",
+              "ArticleTitle": "第五条",
+              "Paragraph": {
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": [
+                    {
+                      "@Num": "1",
+                      "#text": "法附則第十四条の規定によりなおその効力を有することとされた旧産活法第二十四条の五第一項に規定する指定金融機関の行う同項に規定する事業再構築等促進業務については、旧産活法施行令第十四条の規定は、この政令の施行後も、なおその効力を有する。"
+                    },
+                    {
+                      "@Num": "2",
+                      "#text": "この場合において、同条中「法第二十四条の五第一項」とあるのは「産業競争力強化法（平成二十五年法律第九十八号）附則第十四条の規定によりなおその効力を有することとされた同法附則第四条の規定による廃止前の産業活力の再生及び産業活動の革新に関する特別措置法（平成十一年法律第百三十一号。以下この条において「旧産活法」という。）第二十四条の五第一項」と、「法第二十四条の七第一項」とあるのは「旧産活法第二十四条の七第一項」と、「法第二十四条の十」とあるのは「旧産活法第二十四条の十」と、「法第二十四条の十二第一項」とあるのは「旧産活法第二十四条の十二第一項」と、「法第二十四条の十一第一項」とあるのは「旧産活法第二十四条の十一第一項」とする。"
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@AmendLawNum": "平成二七年四月一日政令第一六九号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この政令は、公布の日から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成二七年四月三〇日政令第二二五号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この政令は、会社法の一部を改正する法律の施行の日（平成二十七年五月一日）から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成二八年一月二二日政令第一八号",
+          "@Extract": "true",
+          "@Type": "Amend",
+          "SupplProvisionLabel": "附　則",
+          "Article": {
+            "@Num": "1",
+            "ArticleCaption": "（施行期日）",
+            "ArticleTitle": "第一条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "この政令は、特許法等の一部を改正する法律の施行の日（平成二十八年四月一日）から施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成二八年二月二四日政令第四八号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Article": {
+            "@Num": "1",
+            "ArticleCaption": "（施行期日）",
+            "ArticleTitle": "第一条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "この政令は、電気事業法等の一部を改正する等の法律（以下「改正法」という。）附則第一条第三号に掲げる規定の施行の日（平成二十八年四月一日）から施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成二八年六月三〇日政令第二四八号",
+          "@Type": "Amend",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この政令は、中小企業の新たな事業活動の促進に関する法律の一部を改正する法律の施行の日（平成二十八年七月一日）から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成二九年三月二三日政令第四〇号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Article": {
+            "@Num": "1",
+            "ArticleCaption": "（施行期日）",
+            "ArticleTitle": "第一条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "この政令は、第五号施行日（平成二十九年四月一日）から施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成二九年一〇月二五日政令第二六二号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この政令は、中小企業の経営の改善発達を促進するための中小企業信用保険法等の一部を改正する法律の施行の日（平成三十年四月一日）から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成三〇年七月六日政令第一九九号",
+          "SupplProvisionLabel": "附　則",
+          "Article": [
+            {
+              "@Num": "1",
+              "ArticleCaption": "（施行期日）",
+              "ArticleTitle": "第一条",
+              "Paragraph": {
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": "この政令は、改正法の施行の日（平成三十年七月九日）から施行する。"
+                }
+              }
+            },
+            {
+              "@Num": "2",
+              "ArticleCaption": "（処分、手続等に関する経過措置）",
+              "ArticleTitle": "第二条",
+              "Paragraph": [
+                {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "この政令の施行前に環境大臣に対してされた中小企業等経営強化法（以下この条において「中小強化法」という。）第八条第一項の承認若しくは中小強化法第九条第一項の変更の承認（第一種動物取扱業（動物の愛護及び管理に関する法律（昭和四十八年法律第百五号）第十条第一項に規定する第一種動物取扱業をいう。以下この項及び第三項において同じ。）及び第二種動物取扱業（同法第二十四条の二に規定する第二種動物取扱業をいう。以下この項及び第三項において同じ。）に係る経営革新（中小強化法第二条第七項に規定する経営革新をいう。第三項において同じ。）に係る事業に係るものを除く。以下この項及び次項において同じ。）、中小強化法第十条第一項の認定若しくは中小強化法第十一条第一項の変更の認定（第一種動物取扱業及び第二種動物取扱業に係る異分野連携新事業分野開拓（中小強化法第二条第九項に規定する異分野連携新事業分野開拓をいう。第三項において同じ。）に係る事業に係るものを除く。以下この項及び次項において同じ。）又は中小強化法第十三条第一項の認定若しくは中小強化法第十四条第一項の変更の認定（第一種動物取扱業及び第二種動物取扱業に係る経営力向上（中小強化法第二条第十項に規定する経営力向上をいう。第三項において同じ。）に係る事業に係るものを除く。以下この項及び次項において同じ。）の申請であって、この政令の施行前に承認若しくは変更の承認又は認定若しくは変更の認定をするかどうかの処分がされていないものについてのこれらの処分については、なお従前の例による。"
+                  }
+                },
+                {
+                  "@Num": "2",
+                  "ParagraphNum": "２",
+                  "ParagraphSentence": {
+                    "Sentence": "この政令の施行前に環境大臣がした中小強化法第八条第一項の承認若しくは中小強化法第九条第一項の変更の承認、中小強化法第十条第一項の認定若しくは中小強化法第十一条第一項の変更の認定又は中小強化法第十三条第一項の認定若しくは中小強化法第十四条第一項の変更の認定（それぞれ前項の規定によりなお従前の例によりされたものを含む。）は、地方環境事務所長がした中小強化法第八条第一項の承認若しくは中小強化法第九条第一項の変更の承認、中小強化法第十条第一項の認定若しくは中小強化法第十一条第一項の変更の認定又は中小強化法第十三条第一項の認定若しくは中小強化法第十四条第一項の変更の認定とみなす。"
+                  }
+                },
+                {
+                  "@Num": "3",
+                  "ParagraphNum": "３",
+                  "ParagraphSentence": {
+                    "Sentence": "この政令の施行前に改正法第三条の規定による改正前の中小強化法第四十七条第一項（中小強化法第九条第二項に規定する承認経営革新計画、中小強化法第十一条第三項に規定する認定異分野連携新事業分野開拓計画及び中小強化法第十四条第二項に規定する認定経営力向上計画の実施状況に係るものに限る。）の規定により環境大臣に対して報告しなければならない事項（第一種動物取扱業及び第二種動物取扱業に係る経営革新、異分野連携新事業分野開拓又は経営力向上に係る事業に係るものを除く。）又は中小強化法第十一条第二項の規定により環境大臣に対して届け出なければならない事項であって、この政令の施行前に報告又は届出がされていないものについての報告又は届出については、なお従前の例による。"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "@AmendLawNum": "平成三〇年九月二一日政令第二六五号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": [
+            {
+              "@Num": "1",
+              "ParagraphCaption": "（施行期日）",
+              "ParagraphNum": "１",
+              "ParagraphSentence": {
+                "Sentence": "この政令は、産業競争力強化法等の一部を改正する法律附則第一条第二号に掲げる規定の施行の日（平成三十年九月二十五日）から施行する。"
+              }
+            },
+            {
+              "@Num": "2",
+              "ParagraphCaption": "（罰則に関する経過措置）",
+              "ParagraphNum": "２",
+              "ParagraphSentence": {
+                "Sentence": "この政令の施行前にした行為に対する罰則の適用については、なお従前の例による。"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

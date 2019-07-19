@@ -1,0 +1,2836 @@
+{
+  "Law": {
+    "@Era": "Heisei",
+    "@Lang": "ja",
+    "@LawType": "CabinetOrder",
+    "@Num": "221",
+    "@Year": "23",
+    "LawNum": "平成二十三年政令第二百二十一号",
+    "LawBody": {
+      "LawTitle": "株式会社国際協力銀行法施行令",
+      "EnactStatement": "内閣は、株式会社国際協力銀行法（平成二十三年法律第三十九号）第二条第三号及び第六号、第十二条第一項第二号、第六項第一号及び第七項、第三十一条第一項及び第三項、第三十三条第四項及び第五項、第三十五条第三項、第四十条第一項及び第四項並びに附則第十条第二項、第十二条第二項及び第七項、第十三条第三項並びに第二十一条の規定に基づき、並びに同法を実施するため、この政令を制定する。",
+      "MainProvision": {
+        "Article": [
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "1",
+            "ArticleCaption": "（金融機関の範囲）",
+            "ArticleTitle": "第一条",
+            "Paragraph": {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "株式会社国際協力銀行法（以下「法」という。）第二条第三号に規定する政令で定める金融機関は、株式会社商工組合中央金庫、株式会社日本政策投資銀行、信用金庫、全国を地区とする信用金庫連合会及び農林中央金庫並びに保険会社及び農業協同組合法（昭和二十二年法律第百三十二号）第十条第一項第十号の事業を行う全国の区域を地区とする農業協同組合連合会とする。"
+                }
+              }
+            }
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "2",
+            "ArticleCaption": "（中小企業者の範囲）",
+            "ArticleTitle": "第二条",
+            "Paragraph": [
+              {
+                "@Hide": "false",
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "法第二条第六号イに規定する政令で定める業種は、次に掲げる業種以外の業種とする。"
+                  }
+                },
+                "Item": [
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "1",
+                    "ItemTitle": "一",
+                    "ItemSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "農業"
+                      }
+                    }
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "2",
+                    "ItemTitle": "二",
+                    "ItemSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "林業"
+                      }
+                    }
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "3",
+                    "ItemTitle": "三",
+                    "ItemSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "漁業"
+                      }
+                    }
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "4",
+                    "ItemTitle": "四",
+                    "ItemSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "金融・保険業（保険媒介代理業及び保険サービス業を除く。）"
+                      }
+                    }
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "5",
+                    "ItemTitle": "五",
+                    "ItemSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "不動産業（住宅及び住宅用の土地の賃貸業に限る。）"
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "@Hide": "false",
+                "@Num": "2",
+                "ParagraphNum": "２",
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "法第二条第六号ロに規定する政令で定める業種並びにその業種ごとの資本金の額又は出資の総額及び従業員の数は、次の表のとおりとする。"
+                  }
+                },
+                "TableStruct": {
+                  "Table": {
+                    "@WritingMode": "vertical",
+                    "TableRow": [
+                      {
+                        "TableColumn": [
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "Sentence": {
+                              "@WritingMode": "vertical"
+                            }
+                          },
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "業種"
+                            }
+                          },
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "資本金の額又は出資の総額"
+                            }
+                          },
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "従業員の数"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "TableColumn": [
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "一"
+                            }
+                          },
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "ゴム製品製造業（自動車又は航空機用タイヤ及びチューブ製造業並びに工業用ベルト製造業を除く。）"
+                            }
+                          },
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "三億円"
+                            }
+                          },
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "九百人"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "TableColumn": [
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "二"
+                            }
+                          },
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "ソフトウェア業又は情報処理サービス業"
+                            }
+                          },
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "三億円"
+                            }
+                          },
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "三百人"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "TableColumn": [
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "三"
+                            }
+                          },
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "旅館業"
+                            }
+                          },
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "五千万円"
+                            }
+                          },
+                          {
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "二百人"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "3",
+            "ArticleCaption": "（開発途上地域以外の地域を仕向地とする設備の輸出等に関して行うことができる業務）",
+            "ArticleTitle": "第三条",
+            "Paragraph": {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "法第十二条第一項第二号に規定する政令で定める場合は、法第十一条第一号に規定する資金の対象となる設備の輸出等であって次に掲げる設備に係るものである場合とする。"
+                }
+              },
+              "Item": [
+                {
+                  "@Delete": "false",
+                  "@Hide": "false",
+                  "@Num": "1",
+                  "ItemTitle": "一",
+                  "ItemSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "次に掲げる設備"
+                    }
+                  },
+                  "Subitem1": [
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "1",
+                      "Subitem1Title": "イ",
+                      "Subitem1Sentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "船舶（水域において使用される浮遊式の生産用のプラットホーム、石油貯蔵タンクその他の浮き構造物を含む。次条第二項において同じ。）"
+                        }
+                      }
+                    },
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "2",
+                      "Subitem1Title": "ロ",
+                      "Subitem1Sentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "人工衛星並びにその追跡及び運用に必要な設備"
+                        }
+                      }
+                    },
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "3",
+                      "Subitem1Title": "ハ",
+                      "Subitem1Sentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "航空機"
+                        }
+                      }
+                    },
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "4",
+                      "Subitem1Title": "ニ",
+                      "Subitem1Sentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "医療機器（陽子線、重イオン線又は中性子線を照射する装置及びその運用に必要な設備に限る。）"
+                        }
+                      }
+                    }
+                  ]
+                },
+                {
+                  "@Delete": "false",
+                  "@Hide": "false",
+                  "@Num": "2",
+                  "ItemTitle": "二",
+                  "ItemSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "次に掲げる事業の実施に不可欠な機器又は装置が含まれる設備（ニ及びヲに掲げる事業については、これらの事業を一体的に行うよう構成された複数の種類の機器又は装置からなる設備に限る。）"
+                    }
+                  },
+                  "Subitem1": [
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "1",
+                      "Subitem1Title": "イ",
+                      "Subitem1Sentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "原子力による発電に関する事業"
+                        }
+                      }
+                    },
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "2",
+                      "Subitem1Title": "ロ",
+                      "Subitem1Sentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "鉄道（軌道を含む。以下この号において同じ。）に関する事業（主要都市を連絡する高速鉄道又は主要都市における鉄道に係るものに限る。）"
+                        }
+                      }
+                    },
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "3",
+                      "Subitem1Title": "ハ",
+                      "Subitem1Sentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "道路の建設、修繕及び運営に関する事業"
+                        }
+                      }
+                    },
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "4",
+                      "Subitem1Title": "ニ",
+                      "Subitem1Sentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "水道、下水道その他汚水処理施設及び工業用水道に関する事業"
+                        }
+                      }
+                    },
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "5",
+                      "Subitem1Title": "ホ",
+                      "Subitem1Sentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "動植物に由来する有機物であってエネルギー源として利用することができるもの（原油、石油ガス、可燃性天然ガス及び石炭並びにこれらから製造される製品を除く。）を原材料とする燃料の製造に関する事業"
+                        }
+                      }
+                    },
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "6",
+                      "Subitem1Title": "ヘ",
+                      "Subitem1Sentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "再生可能エネルギー源（永続的に利用することができると認められるエネルギー源をいう。）による発電に関する事業（当該事業が行われる地域において当該事業のために通常利用される技術よりも高度な技術を利用するものに限る。）"
+                        }
+                      }
+                    },
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "7",
+                      "Subitem1Title": "ト",
+                      "Subitem1Sentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "変電、送電及び配電に関する事業（当該事業が行われる地域において当該事業のために通常利用される技術よりも高度な技術を利用するものに限る。）"
+                        }
+                      }
+                    },
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "8",
+                      "Subitem1Title": "チ",
+                      "Subitem1Sentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "石炭による発電に関する事業（石炭の効率的な利用を行うものに限る。）"
+                        }
+                      }
+                    },
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "9",
+                      "Subitem1Title": "リ",
+                      "Subitem1Sentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "石炭から発生させるガスを原料とする燃料製品その他の製品の製造に関する事業（石炭の効率的な利用を行うものに限る。）"
+                        }
+                      }
+                    },
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "10",
+                      "Subitem1Title": "ヌ",
+                      "Subitem1Sentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "石炭による発電のための設備その他の設備から排出される大量の二酸化炭素の回収及び貯蔵に関する事業"
+                        }
+                      }
+                    },
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "11",
+                      "Subitem1Title": "ル",
+                      "Subitem1Sentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "ガスによる発電に関する事業（ガスの効率的な利用を行うものに限る。）"
+                        }
+                      }
+                    },
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "12",
+                      "Subitem1Title": "ヲ",
+                      "Subitem1Sentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "電気又は熱の効率的な使用に関する事業（電気又は熱をその供給の状況に応じて使用するものであって、かつ、当該事業が行われる地域において当該事業のために通常利用される情報通信の技術その他の技術よりも高度な技術を利用するものに限る。）"
+                        }
+                      }
+                    },
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "13",
+                      "Subitem1Title": "ワ",
+                      "Subitem1Sentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "原油又はガスを原料とする化学製品（化学肥料及び有機化学工業製品並びにこれらの製造に伴い副次的に製造される製品に限り、リに規定する製品に該当するものを除く。）の製造に関する事業"
+                        }
+                      }
+                    },
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "14",
+                      "Subitem1Title": "カ",
+                      "Subitem1Sentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "廃棄物の焼却及び熱分解（物を処分するために、燃焼を伴わずに加熱により分解することをいう。）に関する事業"
+                        }
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "4",
+            "ArticleCaption": "（我が国の法人等に対する貸付けであって、中小企業者等以外のものに対して行うことができる場合）",
+            "ArticleTitle": "第四条",
+            "Paragraph": [
+              {
+                "@Hide": "false",
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "法第十二条第六項第一号に規定する政令で定める場合は、同号に規定する出資等（以下「出資等」という。）のうち、次に掲げる外国の法人の経営を支配することを目的とし、又は当該法人に関し事業上の提携を伴うもののために必要な資金の貸付けを行う場合とする。"
+                  }
+                },
+                "Item": [
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "1",
+                    "ItemTitle": "一",
+                    "ItemSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "社会資本の整備に関する事業を行う外国の法人"
+                      }
+                    }
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "2",
+                    "ItemTitle": "二",
+                    "ItemSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "一定の地域において行われる事業のために通常利用される技術よりも高度な技術を有する外国の法人"
+                      }
+                    }
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "3",
+                    "ItemTitle": "三",
+                    "ItemSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "一定の地域において広く販売され、又は提供されている商品又は役務に関し蓄積された技術上又は営業上の情報であって出資等を行う法人等が有していないものを有する外国の法人"
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "@Hide": "false",
+                "@Num": "2",
+                "ParagraphNum": "２",
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "法第十二条第六項第三号に規定する政令で定める場合は、船舶又は航空機を賃貸する事業に係るものである場合とする。"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "5",
+            "ArticleCaption": "（開発途上地域以外の地域における事業に関して行うことができる業務）",
+            "ArticleTitle": "第五条",
+            "Paragraph": {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "法第十二条第七項に規定する政令で定める場合は、次に掲げる場合とする。"
+                }
+              },
+              "Item": [
+                {
+                  "@Delete": "false",
+                  "@Hide": "false",
+                  "@Num": "1",
+                  "ItemTitle": "一",
+                  "ItemSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "法第十一条第三号に掲げる業務のうち、次に掲げる事業に係るものを行う場合"
+                    }
+                  },
+                  "Subitem1": [
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "1",
+                      "Subitem1Title": "イ",
+                      "Subitem1Sentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "原子力による発電に関する事業"
+                        }
+                      }
+                    },
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "2",
+                      "Subitem1Title": "ロ",
+                      "Subitem1Sentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "鉄道（軌道を含む。以下この号において同じ。）に関する事業（主要都市を連絡する高速鉄道又は主要都市における鉄道に係るものに限る。）"
+                        }
+                      }
+                    },
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "3",
+                      "Subitem1Title": "ハ",
+                      "Subitem1Sentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "道路の建設、修繕及び運営に関する事業"
+                        }
+                      }
+                    },
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "4",
+                      "Subitem1Title": "ニ",
+                      "Subitem1Sentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "水道、下水道その他汚水処理施設及び工業用水道に関する事業"
+                        }
+                      }
+                    },
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "5",
+                      "Subitem1Title": "ホ",
+                      "Subitem1Sentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "動植物に由来する有機物であってエネルギー源として利用することができるもの（原油、石油ガス、可燃性天然ガス及び石炭並びにこれらから製造される製品を除く。）を原材料とする燃料の製造に関する事業"
+                        }
+                      }
+                    },
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "6",
+                      "Subitem1Title": "ヘ",
+                      "Subitem1Sentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "再生可能エネルギー源（永続的に利用することができると認められるエネルギー源をいう。）による発電に関する事業（当該事業が行われる地域において当該事業のために通常利用される技術よりも高度な技術を利用するものに限る。）"
+                        }
+                      }
+                    },
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "7",
+                      "Subitem1Title": "ト",
+                      "Subitem1Sentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "変電、送電及び配電に関する事業（当該事業が行われる地域において当該事業のために通常利用される技術よりも高度な技術を利用するものに限る。）"
+                        }
+                      }
+                    },
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "8",
+                      "Subitem1Title": "チ",
+                      "Subitem1Sentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "石炭による発電に関する事業（石炭の効率的な利用を行うものに限る。）"
+                        }
+                      }
+                    },
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "9",
+                      "Subitem1Title": "リ",
+                      "Subitem1Sentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "石炭から発生させるガスを原料とする燃料製品その他の製品の製造に関する事業（石炭の効率的な利用を行うものに限る。）"
+                        }
+                      }
+                    },
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "10",
+                      "Subitem1Title": "ヌ",
+                      "Subitem1Sentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "石炭による発電のための設備その他の設備から排出される大量の二酸化炭素の回収及び貯蔵に関する事業"
+                        }
+                      }
+                    },
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "11",
+                      "Subitem1Title": "ル",
+                      "Subitem1Sentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "ガスによる発電に関する事業（ガスの効率的な利用を行うものに限る。）"
+                        }
+                      }
+                    },
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "12",
+                      "Subitem1Title": "ヲ",
+                      "Subitem1Sentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "電気又は熱の効率的な使用に関する事業（電気又は熱をその供給の状況に応じて使用するものであって、かつ、当該事業が行われる地域において当該事業のために通常利用される情報通信の技術その他の技術よりも高度な技術を利用するものに限る。）"
+                        }
+                      }
+                    },
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "13",
+                      "Subitem1Title": "ワ",
+                      "Subitem1Sentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "インターネットその他の高度情報通信ネットワークの整備に関する事業（当該事業が行われる地域において当該事業のために通常利用される技術よりも高度な技術を利用するものに限る。）"
+                        }
+                      }
+                    },
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "14",
+                      "Subitem1Title": "カ",
+                      "Subitem1Sentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "船舶（水域において使用される浮遊式の生産用のプラットホーム、石油貯蔵タンクその他の浮き構造物を含む。）の製造、整備、運用及びリース取引に関する事業"
+                        }
+                      }
+                    },
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "15",
+                      "Subitem1Title": "ヨ",
+                      "Subitem1Sentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "人工衛星の打上げ、追跡及び運用に関する事業"
+                        }
+                      }
+                    },
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "16",
+                      "Subitem1Title": "タ",
+                      "Subitem1Sentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "航空機の整備、改造、販売及びリース取引に関する事業"
+                        }
+                      }
+                    },
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "17",
+                      "Subitem1Title": "レ",
+                      "Subitem1Sentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "医療に関する事業（陽子線、重イオン線又は中性子線を照射する装置及びその運用に必要な設備を利用するものに限る。）"
+                        }
+                      }
+                    },
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "18",
+                      "Subitem1Title": "ソ",
+                      "Subitem1Sentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "原油又はガスを原料とする化学製品（化学肥料及び有機化学工業製品並びにこれらの製造に伴い副次的に製造される製品に限り、リに規定する製品に該当するものを除く。）の製造に関する事業"
+                        }
+                      }
+                    },
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "19",
+                      "Subitem1Title": "ツ",
+                      "Subitem1Sentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "廃棄物の焼却及び熱分解（物を処分するために、燃焼を伴わずに加熱により分解することをいう。）に関する事業"
+                        }
+                      }
+                    }
+                  ]
+                },
+                {
+                  "@Delete": "false",
+                  "@Hide": "false",
+                  "@Num": "2",
+                  "ItemTitle": "二",
+                  "ItemSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "法第十一条第三号に掲げる業務のうち、前条第一項各号に掲げる外国の法人の経営を支配することを目的とし、又は当該法人に関し事業上の提携を伴う出資等のために必要な資金の貸付けを行う場合"
+                    }
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "5_2",
+            "ArticleCaption": "（区分経理に係る会社法の規定の技術的読替え）",
+            "ArticleTitle": "第五条の二",
+            "Paragraph": {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "法第二十六条の三第二項において法第二十六条の二の規定により株式会社国際協力銀行（以下「会社」という。）が区分して行う経理について会社法（平成十七年法律第八十六号）の規定を準用する場合における同法の規定に係る技術的読替えは、次の表のとおりとする。"
+                }
+              },
+              "TableStruct": {
+                "Table": {
+                  "@WritingMode": "vertical",
+                  "TableRow": [
+                    {
+                      "TableColumn": [
+                        {
+                          "@BorderBottom": "solid",
+                          "@BorderLeft": "solid",
+                          "@BorderRight": "solid",
+                          "@BorderTop": "solid",
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "読み替える会社法の規定"
+                          }
+                        },
+                        {
+                          "@BorderBottom": "solid",
+                          "@BorderLeft": "solid",
+                          "@BorderRight": "solid",
+                          "@BorderTop": "solid",
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "読み替えられる字句"
+                          }
+                        },
+                        {
+                          "@BorderBottom": "solid",
+                          "@BorderLeft": "solid",
+                          "@BorderRight": "solid",
+                          "@BorderTop": "solid",
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "読み替える字句"
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "@BorderBottom": "solid",
+                          "@BorderLeft": "solid",
+                          "@BorderRight": "solid",
+                          "@BorderTop": "solid",
+                          "@colspan": "1",
+                          "@rowspan": "3",
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "第四百四十九条第一項"
+                          }
+                        },
+                        {
+                          "@BorderBottom": "solid",
+                          "@BorderLeft": "solid",
+                          "@BorderRight": "solid",
+                          "@BorderTop": "solid",
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "が資本金"
+                          }
+                        },
+                        {
+                          "@BorderBottom": "solid",
+                          "@BorderLeft": "solid",
+                          "@BorderRight": "solid",
+                          "@BorderTop": "solid",
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "が株式会社国際協力銀行法第二十六条の二の規定により設けられた勘定に属する資本金"
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "@BorderBottom": "solid",
+                          "@BorderLeft": "solid",
+                          "@BorderRight": "solid",
+                          "@BorderTop": "solid",
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "準備金の"
+                          }
+                        },
+                        {
+                          "@BorderBottom": "solid",
+                          "@BorderLeft": "solid",
+                          "@BorderRight": "solid",
+                          "@BorderTop": "solid",
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "同法第二十六条の二の規定により設けられた勘定に属する準備金の"
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "@BorderBottom": "solid",
+                          "@BorderLeft": "solid",
+                          "@BorderRight": "solid",
+                          "@BorderTop": "solid",
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "を資本金"
+                          }
+                        },
+                        {
+                          "@BorderBottom": "solid",
+                          "@BorderLeft": "solid",
+                          "@BorderRight": "solid",
+                          "@BorderTop": "solid",
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "を同条の規定により設けられた勘定に属する資本金"
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "@BorderBottom": "solid",
+                          "@BorderLeft": "solid",
+                          "@BorderRight": "solid",
+                          "@BorderTop": "solid",
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "第四百四十九条第六項第一号"
+                          }
+                        },
+                        {
+                          "@BorderBottom": "solid",
+                          "@BorderLeft": "solid",
+                          "@BorderRight": "solid",
+                          "@BorderTop": "solid",
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "資本金"
+                          }
+                        },
+                        {
+                          "@BorderBottom": "solid",
+                          "@BorderLeft": "solid",
+                          "@BorderRight": "solid",
+                          "@BorderTop": "solid",
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "株式会社国際協力銀行法第二十六条の二の規定により設けられた勘定に属する資本金"
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "@BorderBottom": "solid",
+                          "@BorderLeft": "solid",
+                          "@BorderRight": "solid",
+                          "@BorderTop": "solid",
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "第四百四十九条第六項第二号"
+                          }
+                        },
+                        {
+                          "@BorderBottom": "solid",
+                          "@BorderLeft": "solid",
+                          "@BorderRight": "solid",
+                          "@BorderTop": "solid",
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "準備金"
+                          }
+                        },
+                        {
+                          "@BorderBottom": "solid",
+                          "@BorderLeft": "solid",
+                          "@BorderRight": "solid",
+                          "@BorderTop": "solid",
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "株式会社国際協力銀行法第二十六条の二の規定により設けられた勘定に属する準備金"
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "@BorderBottom": "solid",
+                          "@BorderLeft": "solid",
+                          "@BorderRight": "solid",
+                          "@BorderTop": "solid",
+                          "@colspan": "1",
+                          "@rowspan": "2",
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "第八百二十八条第一項第五号"
+                          }
+                        },
+                        {
+                          "@BorderBottom": "solid",
+                          "@BorderLeft": "solid",
+                          "@BorderRight": "solid",
+                          "@BorderTop": "solid",
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "おける資本金"
+                          }
+                        },
+                        {
+                          "@BorderBottom": "solid",
+                          "@BorderLeft": "solid",
+                          "@BorderRight": "solid",
+                          "@BorderTop": "solid",
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "おける株式会社国際協力銀行法第二十六条の二の規定により設けられた勘定に属する資本金"
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "@BorderBottom": "solid",
+                          "@BorderLeft": "solid",
+                          "@BorderRight": "solid",
+                          "@BorderTop": "solid",
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "資本金の額の減少の"
+                          }
+                        },
+                        {
+                          "@BorderBottom": "solid",
+                          "@BorderLeft": "solid",
+                          "@BorderRight": "solid",
+                          "@BorderTop": "solid",
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "当該資本金の額の減少の"
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "@BorderBottom": "solid",
+                          "@BorderLeft": "solid",
+                          "@BorderRight": "solid",
+                          "@BorderTop": "solid",
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "第八百二十八条第二項第五号"
+                          }
+                        },
+                        {
+                          "@BorderBottom": "solid",
+                          "@BorderLeft": "solid",
+                          "@BorderRight": "solid",
+                          "@BorderTop": "solid",
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "資本金"
+                          }
+                        },
+                        {
+                          "@BorderBottom": "solid",
+                          "@BorderLeft": "solid",
+                          "@BorderRight": "solid",
+                          "@BorderTop": "solid",
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "株式会社国際協力銀行法第二十六条の二の規定により設けられた勘定に属する資本金"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "6",
+            "ArticleCaption": "（剰余金のうち準備金として積み立てる額等）",
+            "ArticleTitle": "第六条",
+            "Paragraph": [
+              {
+                "@Hide": "false",
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "法第三十一条第一項に規定する政令で定める基準により計算した額は、次の各号に掲げる勘定の区分に応じ、当該各号に定める額とする。"
+                  }
+                },
+                "Item": [
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "1",
+                    "ItemTitle": "一",
+                    "ItemSentence": {
+                      "Column": [
+                        {
+                          "@LineBreak": "false",
+                          "@Num": "1",
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "一般業務（法第二十六条の二第一号に規定する一般業務をいう。以下同じ。）に係る勘定"
+                          }
+                        },
+                        {
+                          "@LineBreak": "false",
+                          "@Num": "2",
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "毎事業年度の決算において計上した剰余金の額の百分の五十に相当する額"
+                          }
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "2",
+                    "ItemTitle": "二",
+                    "ItemSentence": {
+                      "Column": [
+                        {
+                          "@LineBreak": "false",
+                          "@Num": "1",
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "特別業務（法第十三条の二第一項に規定する特別業務をいう。以下同じ。）に係る勘定"
+                          }
+                        },
+                        {
+                          "@LineBreak": "false",
+                          "@Num": "2",
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "毎事業年度の決算において計上した剰余金の額の百分の五十に相当する額"
+                          }
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "@Hide": "false",
+                "@Num": "2",
+                "ParagraphNum": "２",
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "法第三十一条第一項に規定する政令で定める額は、次の各号に掲げる勘定の区分に応じ、当該各号に定める額とする。"
+                  }
+                },
+                "Item": [
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "1",
+                    "ItemTitle": "一",
+                    "ItemSentence": {
+                      "Column": [
+                        {
+                          "@LineBreak": "false",
+                          "@Num": "1",
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "一般業務に係る勘定"
+                          }
+                        },
+                        {
+                          "@LineBreak": "false",
+                          "@Num": "2",
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "一般業務に係る勘定に整理された資本金の額に相当する額"
+                          }
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "2",
+                    "ItemTitle": "二",
+                    "ItemSentence": {
+                      "Column": [
+                        {
+                          "@LineBreak": "false",
+                          "@Num": "1",
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "特別業務に係る勘定"
+                          }
+                        },
+                        {
+                          "@LineBreak": "false",
+                          "@Num": "2",
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "特別業務に係る勘定に整理された資本金の額に相当する額"
+                          }
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "7",
+            "ArticleCaption": "（国庫納付の手続）",
+            "ArticleTitle": "第七条",
+            "Paragraph": {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "会社は、一般業務及び特別業務に係るそれぞれの勘定において、毎事業年度の決算において計上した剰余金の額が零を上回るときは、法第三十一条第一項の規定に基づいて計算した当該事業年度の国庫納付金の計算書に、当該事業年度末の貸借対照表、当該事業年度の損益計算書その他当該国庫納付金の計算の基礎を明らかにした書類を添付して、翌事業年度の六月二十日までに、これを財務大臣に提出しなければならない。"
+                }
+              }
+            }
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "8",
+            "ArticleCaption": "（国庫納付金の帰属する会計）",
+            "ArticleTitle": "第八条",
+            "Paragraph": [
+              {
+                "@Hide": "false",
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "Ruby": {
+                      "Rt": "あん",
+                      "#text": "按"
+                    },
+                    "#text": "一般業務及び特別業務に係るそれぞれの勘定における国庫納付金については、法第三十一条第一項に規定する残余の額を当該それぞれの勘定における一般会計又は財政投融資特別会計の投資勘定からの出資の額に応じて分した額を、それぞれ一般会計又は財政投融資特別会計の投資勘定に帰属させるものとする。"
+                  }
+                }
+              },
+              {
+                "@Hide": "false",
+                "@Num": "2",
+                "ParagraphNum": "２",
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "前項に規定する出資の額は、同項に規定する残余の額を生じた事業年度の開始の日における政府の一般会計又は財政投融資特別会計の投資勘定からの出資の額（同日後当該事業年度中に政府の一般会計又は財政投融資特別会計の投資勘定からの出資の額の増加又は減少があったときは、当該増加又は減少のあった日から当該事業年度の末日までの日数を当該事業年度の日数で除して得た数を当該増加し、又は減少した出資の額に乗じて得た額に相当する額をそれぞれ加え、又は減じた額）とする。"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "9",
+            "ArticleCaption": "（社債の発行及び外国通貨長期借入金の借入れに係る基本方針の認可）",
+            "ArticleTitle": "第九条",
+            "Paragraph": [
+              {
+                "@Hide": "false",
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "会社は、法第三十三条第四項の規定による認可を受けようとするときは、毎事業年度、財務大臣の定める日までに、当該事業年度の社債の発行及び外国通貨長期借入金（同条第一項に規定する外国通貨長期借入金をいう。以下同じ。）の借入れに係る基本方針を作成し、財務大臣に提出しなければならない。"
+                  }
+                }
+              },
+              {
+                "@Hide": "false",
+                "@Num": "2",
+                "ParagraphNum": "２",
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "前項の基本方針には、次に掲げる事項を一般業務及び特別業務に係る勘定ごとに記載しなければならない。"
+                  }
+                },
+                "Item": [
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "1",
+                    "ItemTitle": "一",
+                    "ItemSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "社債についての次に掲げる事項"
+                      }
+                    },
+                    "Subitem1": [
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "1",
+                        "Subitem1Title": "イ",
+                        "Subitem1Sentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "発行時期"
+                          }
+                        }
+                      },
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "2",
+                        "Subitem1Title": "ロ",
+                        "Subitem1Sentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "発行金額"
+                          }
+                        }
+                      },
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "3",
+                        "Subitem1Title": "ハ",
+                        "Subitem1Sentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "表示通貨"
+                          }
+                        }
+                      },
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "4",
+                        "Subitem1Title": "ニ",
+                        "Subitem1Sentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "発行市場"
+                          }
+                        }
+                      },
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "5",
+                        "Subitem1Title": "ホ",
+                        "Subitem1Sentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "利回り"
+                          }
+                        }
+                      },
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "6",
+                        "Subitem1Title": "ヘ",
+                        "Subitem1Sentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "その他財務大臣が定める事項"
+                          }
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "2",
+                    "ItemTitle": "二",
+                    "ItemSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "外国通貨長期借入金についての次に掲げる事項"
+                      }
+                    },
+                    "Subitem1": [
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "1",
+                        "Subitem1Title": "イ",
+                        "Subitem1Sentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "借入時期"
+                          }
+                        }
+                      },
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "2",
+                        "Subitem1Title": "ロ",
+                        "Subitem1Sentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "借入金額"
+                          }
+                        }
+                      },
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "3",
+                        "Subitem1Title": "ハ",
+                        "Subitem1Sentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "表示通貨"
+                          }
+                        }
+                      },
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "4",
+                        "Subitem1Title": "ニ",
+                        "Subitem1Sentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "利率"
+                          }
+                        }
+                      },
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "5",
+                        "Subitem1Title": "ホ",
+                        "Subitem1Sentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "その他財務大臣が定める事項"
+                          }
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "10",
+            "ArticleCaption": "（国内社債の発行の届出）",
+            "ArticleTitle": "第十条",
+            "Paragraph": {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "会社は、国内社債（会社の社債のうち我が国において発行するものをいう。以下この条において同じ。）の発行について法第三十三条第五項の規定による届出をしようとするときは、当該国内社債についての次に掲げる事項を記載した書面を財務大臣に提出しなければならない。"
+                }
+              },
+              "Item": [
+                {
+                  "@Delete": "false",
+                  "@Hide": "false",
+                  "@Num": "1",
+                  "ItemTitle": "一",
+                  "ItemSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "調達した資金の使途"
+                    }
+                  }
+                },
+                {
+                  "@Delete": "false",
+                  "@Hide": "false",
+                  "@Num": "2",
+                  "ItemTitle": "二",
+                  "ItemSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "名称"
+                    }
+                  }
+                },
+                {
+                  "@Delete": "false",
+                  "@Hide": "false",
+                  "@Num": "3",
+                  "ItemTitle": "三",
+                  "ItemSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "発行の年月日"
+                    }
+                  }
+                },
+                {
+                  "@Delete": "false",
+                  "@Hide": "false",
+                  "@Num": "4",
+                  "ItemTitle": "四",
+                  "ItemSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "発行総額"
+                    }
+                  }
+                },
+                {
+                  "@Delete": "false",
+                  "@Hide": "false",
+                  "@Num": "5",
+                  "ItemTitle": "五",
+                  "ItemSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "各社債の金額"
+                    }
+                  }
+                },
+                {
+                  "@Delete": "false",
+                  "@Hide": "false",
+                  "@Num": "6",
+                  "ItemTitle": "六",
+                  "ItemSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "利率"
+                    }
+                  }
+                },
+                {
+                  "@Delete": "false",
+                  "@Hide": "false",
+                  "@Num": "7",
+                  "ItemTitle": "七",
+                  "ItemSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "償還の方法及び期限"
+                    }
+                  }
+                },
+                {
+                  "@Delete": "false",
+                  "@Hide": "false",
+                  "@Num": "8",
+                  "ItemTitle": "八",
+                  "ItemSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "利息の支払の方法及び期限"
+                    }
+                  }
+                },
+                {
+                  "@Delete": "false",
+                  "@Hide": "false",
+                  "@Num": "9",
+                  "ItemTitle": "九",
+                  "ItemSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "発行の価額"
+                    }
+                  }
+                },
+                {
+                  "@Delete": "false",
+                  "@Hide": "false",
+                  "@Num": "10",
+                  "ItemTitle": "十",
+                  "ItemSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "調達した資金を整理する勘定"
+                    }
+                  }
+                },
+                {
+                  "@Delete": "false",
+                  "@Hide": "false",
+                  "@Num": "11",
+                  "ItemTitle": "十一",
+                  "ItemSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "社債、株式等の振替に関する法律（平成十三年法律第七十五号）の規定の適用があるときは、その旨"
+                    }
+                  }
+                },
+                {
+                  "@Delete": "false",
+                  "@Hide": "false",
+                  "@Num": "12",
+                  "ItemTitle": "十二",
+                  "ItemSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "募集の方法"
+                    }
+                  }
+                },
+                {
+                  "@Delete": "false",
+                  "@Hide": "false",
+                  "@Num": "13",
+                  "ItemTitle": "十三",
+                  "ItemSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "利回り"
+                    }
+                  }
+                },
+                {
+                  "@Delete": "false",
+                  "@Hide": "false",
+                  "@Num": "14",
+                  "ItemTitle": "十四",
+                  "ItemSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "第二号から第十一号までに掲げるもののほか、国内社債の社債券に記載した事項"
+                    }
+                  }
+                },
+                {
+                  "@Delete": "false",
+                  "@Hide": "false",
+                  "@Num": "15",
+                  "ItemTitle": "十五",
+                  "ItemSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "その他財務大臣が定める事項"
+                    }
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "11",
+            "ArticleCaption": "（国外社債の発行の届出）",
+            "ArticleTitle": "第十一条",
+            "Paragraph": {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "会社は、国外社債（会社の社債のうち我が国以外の地域において発行するものをいう。以下同じ。）の発行について法第三十三条第五項の規定による届出をしようとするときは、当該国外社債についての次に掲げる事項を記載した書面を財務大臣に提出しなければならない。"
+                }
+              },
+              "Item": [
+                {
+                  "@Delete": "false",
+                  "@Hide": "false",
+                  "@Num": "1",
+                  "ItemTitle": "一",
+                  "ItemSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "前条第一号から第十号までに掲げる事項に相当する事項"
+                    }
+                  }
+                },
+                {
+                  "@Delete": "false",
+                  "@Hide": "false",
+                  "@Num": "2",
+                  "ItemTitle": "二",
+                  "ItemSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "種類"
+                    }
+                  }
+                },
+                {
+                  "@Delete": "false",
+                  "@Hide": "false",
+                  "@Num": "3",
+                  "ItemTitle": "三",
+                  "ItemSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "発行の方法"
+                    }
+                  }
+                },
+                {
+                  "@Delete": "false",
+                  "@Hide": "false",
+                  "@Num": "4",
+                  "ItemTitle": "四",
+                  "ItemSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "表示通貨"
+                    }
+                  }
+                },
+                {
+                  "@Delete": "false",
+                  "@Hide": "false",
+                  "@Num": "5",
+                  "ItemTitle": "五",
+                  "ItemSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "発行市場"
+                    }
+                  }
+                },
+                {
+                  "@Delete": "false",
+                  "@Hide": "false",
+                  "@Num": "6",
+                  "ItemTitle": "六",
+                  "ItemSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "利回り"
+                    }
+                  }
+                },
+                {
+                  "@Delete": "false",
+                  "@Hide": "false",
+                  "@Num": "7",
+                  "ItemTitle": "七",
+                  "ItemSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "第一号に掲げるもののほか、国外社債の社債券に記載した事項"
+                    }
+                  }
+                },
+                {
+                  "@Delete": "false",
+                  "@Hide": "false",
+                  "@Num": "8",
+                  "ItemTitle": "八",
+                  "ItemSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "その他財務大臣が定める事項"
+                    }
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "11_2",
+            "ArticleCaption": "（外国通貨長期借入金の借入れの届出）",
+            "ArticleTitle": "第十一条の二",
+            "Paragraph": {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "会社は、外国通貨長期借入金の借入れについて法第三十三条第五項の規定による届出をしようとするときは、当該外国通貨長期借入金についての次に掲げる事項を記載した書面を財務大臣に提出しなければならない。"
+                }
+              },
+              "Item": [
+                {
+                  "@Delete": "false",
+                  "@Hide": "false",
+                  "@Num": "1",
+                  "ItemTitle": "一",
+                  "ItemSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "調達した資金の使途"
+                    }
+                  }
+                },
+                {
+                  "@Delete": "false",
+                  "@Hide": "false",
+                  "@Num": "2",
+                  "ItemTitle": "二",
+                  "ItemSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "借入れの年月日"
+                    }
+                  }
+                },
+                {
+                  "@Delete": "false",
+                  "@Hide": "false",
+                  "@Num": "3",
+                  "ItemTitle": "三",
+                  "ItemSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "借入金額"
+                    }
+                  }
+                },
+                {
+                  "@Delete": "false",
+                  "@Hide": "false",
+                  "@Num": "4",
+                  "ItemTitle": "四",
+                  "ItemSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "表示通貨"
+                    }
+                  }
+                },
+                {
+                  "@Delete": "false",
+                  "@Hide": "false",
+                  "@Num": "5",
+                  "ItemTitle": "五",
+                  "ItemSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "借入先"
+                    }
+                  }
+                },
+                {
+                  "@Delete": "false",
+                  "@Hide": "false",
+                  "@Num": "6",
+                  "ItemTitle": "六",
+                  "ItemSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "利率"
+                    }
+                  }
+                },
+                {
+                  "@Delete": "false",
+                  "@Hide": "false",
+                  "@Num": "7",
+                  "ItemTitle": "七",
+                  "ItemSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "償還の方法及び期限"
+                    }
+                  }
+                },
+                {
+                  "@Delete": "false",
+                  "@Hide": "false",
+                  "@Num": "8",
+                  "ItemTitle": "八",
+                  "ItemSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "利息の支払の方法及び期限"
+                    }
+                  }
+                },
+                {
+                  "@Delete": "false",
+                  "@Hide": "false",
+                  "@Num": "9",
+                  "ItemTitle": "九",
+                  "ItemSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "調達した資金を整理する勘定"
+                    }
+                  }
+                },
+                {
+                  "@Delete": "false",
+                  "@Hide": "false",
+                  "@Num": "10",
+                  "ItemTitle": "十",
+                  "ItemSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "その他財務大臣が定める事項"
+                    }
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "12",
+            "ArticleCaption": "（社債券の滅失等の場合の代わり社債券等の発行）",
+            "ArticleTitle": "第十二条",
+            "Paragraph": [
+              {
+                "@Hide": "false",
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "法第三十三条第五項ただし書に規定する社債券の発行は、会社が、国外社債の社債券（以下この条において「国外社債券」という。）に限り行うものとする。"
+                  }
+                }
+              },
+              {
+                "@Hide": "false",
+                "@Num": "2",
+                "ParagraphNum": "２",
+                "ParagraphSentence": {
+                  "Sentence": [
+                    {
+                      "@Num": "1",
+                      "@WritingMode": "vertical",
+                      "#text": "前項の国外社債券の発行は、国外社債券を盗取され、滅失し、又は紛失した者からその再交付の請求があった場合において、当該盗取、滅失又は紛失に係る国外社債券につき、会社が適当と認める者によるその番号の確認があり、かつ、その盗取され、滅失し、又は紛失した証拠の提出があったときに限り、することができる。"
+                    },
+                    {
+                      "@Num": "2",
+                      "@WritingMode": "vertical",
+                      "#text": "この場合において、必要があるときは、会社は、当該盗取、滅失若しくは紛失に係る国外社債券に対し償還をし、又は消却のための買入れをしたときは会社が適当と認める者がその償還金額又は買入価額に相当する金額を会社に対し補填することとなることが確実と認められる保証状を徴するものとする。"
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "13",
+            "ArticleTitle": "第十三条",
+            "Paragraph": {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": [
+                  {
+                    "@Num": "1",
+                    "@WritingMode": "vertical",
+                    "#text": "前条の規定は、法第三十五条第三項の規定により政府が保証契約をすることができる債務に係る社債券又はその利札の発行について準用する。"
+                  },
+                  {
+                    "@Num": "2",
+                    "@WritingMode": "vertical",
+                    "#text": "この場合において、前条第一項中「第三十三条第五項」とあるのは「第三十五条第三項」と、「社債券の」とあるのは「社債券又はその利札の」と、「社債券（以下「国外社債券」という。）」とあるのは「社債券若しくはその利札」と、同条第二項中「国外社債券の」とあるのは「社債券又はその利札の」と、「国外社債券を」とあるのは「社債券又はその利札を」と、「国外社債券につき」とあるのは「社債券又はその利札につき」と、「国外社債券に対し」とあるのは「社債券に対し」と、「又は消却のための買入れ」とあるのは「若しくは消却のための買入れをし、又は当該盗取、滅失若しくは紛失に係る利札に対し利子の支払」と、「は会社」とあるのは「は会社及び保証人である政府」と、「又は買入価額」とあるのは「若しくは買入価額又は利子の支払金額」と読み替えるものとする。"
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "14",
+            "ArticleCaption": "（国外社債及び外国通貨長期借入金に係る政府の保証に関する事務の取扱い）",
+            "ArticleTitle": "第十四条",
+            "Paragraph": {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "国際復興開発銀行等からの外資の受入に関する特別措置に関する法律（昭和二十八年法律第五十一号）第二条第二項若しくは第三項又は法第三十五条の規定により、政府が国外社債又は外国通貨長期借入金に係る債務の保証を行う場合における保証に関する認証その他の事務は、本邦又は外国において銀行業（銀行法（昭和五十六年法律第五十九号）第二条第二項に規定する銀行業をいう。附則第六条第三項において同じ。）、信託業（信託業法（平成十六年法律第百五十四号）第二条第一項に規定する信託業をいう。附則第六条第三項において同じ。）又は金融商品取引業（金融商品取引法（昭和二十三年法律第二十五号）第二条第八項に規定する金融商品取引業をいう。附則第六条第三項において同じ。）を行う者であって、財務大臣が指定するものを財務大臣の代理人として取り扱わせることができる。"
+                }
+              }
+            }
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "15",
+            "ArticleCaption": "（財務省令への委任）",
+            "ArticleTitle": "第十五条",
+            "Paragraph": {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "第十一条から前条までに定めるもののほか、国外社債及び外国通貨長期借入金に関し必要な事項は、財務省令で定める。"
+                }
+              }
+            }
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "16",
+            "ArticleCaption": "（内閣総理大臣への権限の委任）",
+            "ArticleTitle": "第十六条",
+            "Paragraph": {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": [
+                  {
+                    "@Function": "main",
+                    "@Num": "1",
+                    "@WritingMode": "vertical",
+                    "#text": "法第三十九条第一項の規定による財務大臣の立入検査の権限のうち会社の業務に係る損失の危険の管理に係るものは、内閣総理大臣に委任する。"
+                  },
+                  {
+                    "@Function": "proviso",
+                    "@Num": "2",
+                    "@WritingMode": "vertical",
+                    "#text": "ただし、財務大臣がその権限を自ら行うことを妨げない。"
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "17",
+            "ArticleCaption": "（財務局長等への権限の委任）",
+            "ArticleTitle": "第十七条",
+            "Paragraph": [
+              {
+                "@Hide": "false",
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": [
+                    {
+                      "@Function": "main",
+                      "@Num": "1",
+                      "@WritingMode": "vertical",
+                      "#text": "法第四十条第三項の規定により金融庁長官に委任された権限のうち次に掲げるものは、会社の本店の所在地を管轄する財務局長（当該所在地が福岡財務支局の管轄区域内にある場合にあっては、福岡財務支局長）に委任する。"
+                    },
+                    {
+                      "@Function": "proviso",
+                      "@Num": "2",
+                      "@WritingMode": "vertical",
+                      "#text": "ただし、金融庁長官がその権限を自ら行うことを妨げない。"
+                    }
+                  ]
+                },
+                "Item": [
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "1",
+                    "ItemTitle": "一",
+                    "ItemSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "法第三十九条第一項の規定による立入検査"
+                      }
+                    }
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "2",
+                    "ItemTitle": "二",
+                    "ItemSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "法第四十条第二項の規定による報告"
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "@Hide": "false",
+                "@Num": "2",
+                "ParagraphNum": "２",
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "前項第一号の規定による権限で会社の本店以外の支店その他の施設又は法第三十九条第一項の受託法人の事務所その他の施設（以下この条において「会社の支店等」という。）に関するものについては、前項に規定する財務局長又は福岡財務支局長のほか、当該会社の支店等の所在地を管轄する財務局長（当該所在地が福岡財務支局の管轄区域内にある場合にあっては、福岡財務支局長）も行うことができる。"
+                  }
+                }
+              },
+              {
+                "@Hide": "false",
+                "@Num": "3",
+                "ParagraphNum": "３",
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "前項の規定により会社の支店等に対して立入検査を行った財務局長又は福岡財務支局長は、会社の本店又は当該会社の支店等以外の会社の支店等に対する立入検査の必要を認めたときは、当該立入検査を行うことができる。"
+                  }
+                }
+              }
+            ]
+          }
+        ]
+      },
+      "SupplProvision": [
+        {
+          "@Type": "New",
+          "SupplProvisionLabel": "附　則",
+          "Article": [
+            {
+              "@Delete": "false",
+              "@Hide": "false",
+              "@Num": "1",
+              "ArticleCaption": "（施行期日）",
+              "ArticleTitle": "第一条",
+              "Paragraph": {
+                "@Hide": "false",
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": [
+                    {
+                      "@Num": "1",
+                      "@WritingMode": "vertical",
+                      "#text": "この政令は、公布の日から施行する。"
+                    },
+                    {
+                      "@Num": "2",
+                      "@WritingMode": "vertical",
+                      "#text": "ただし、第十六条及び第十七条の規定は、平成二十四年四月一日から施行する。"
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "@Delete": "false",
+              "@Hide": "false",
+              "@Num": "2",
+              "ArticleCaption": "（会社の株式の帰属する会計）",
+              "ArticleTitle": "第二条",
+              "Paragraph": {
+                "@Hide": "false",
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "法附則第十条第一項の規定により政府に無償譲渡される会社の株式に係る権利については、当該株式の総数を一般会計又は財政投融資特別会計からの出資金の額に応じて按分した数の株式に係る権利を、それぞれ一般会計又は財政投融資特別会計に帰属させるものとする。"
+                  }
+                }
+              }
+            },
+            {
+              "@Delete": "false",
+              "@Hide": "false",
+              "@Num": "3",
+              "ArticleCaption": "（承継計画書の作成基準）",
+              "ArticleTitle": "第三条",
+              "Paragraph": {
+                "@Hide": "false",
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "法附則第十二条第一項の承継計画書は、同条第六項の規定により国が承継する資産を除き、会社の成立の時において現に株式会社日本政策金融公庫が有する権利及び義務について、法附則第四十六条の規定による改正前の株式会社日本政策金融公庫法（平成十九年法律第五十七号）附則第三十七条第二項の規定により読み替えて適用する同法第四十一条第六号に掲げる業務に係る権利及び義務並びに法附則第四十七条の規定による改正前の駐留軍等の再編の円滑な実施に関する特別措置法（平成十九年法律第六十七号）第十六条に規定する駐留軍再編促進金融業務に係る権利及び義務を会社が承継することを基準として定めるものとする。"
+                  }
+                }
+              }
+            },
+            {
+              "@Delete": "false",
+              "@Hide": "false",
+              "@Num": "4",
+              "ArticleCaption": "（株式会社日本政策金融公庫から国が承継する資産の範囲等）",
+              "ArticleTitle": "第四条",
+              "Paragraph": [
+                {
+                  "@Hide": "false",
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "法附則第十二条第六項の規定により国が承継する資産は、財務大臣が定める。"
+                    }
+                  }
+                },
+                {
+                  "@Hide": "false",
+                  "@Num": "2",
+                  "ParagraphNum": "２",
+                  "ParagraphSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "前項の資産は、財務大臣が定めるところにより、一般会計又は財政投融資特別会計の投資勘定に帰属する。"
+                    }
+                  }
+                },
+                {
+                  "@Hide": "false",
+                  "@Num": "3",
+                  "ParagraphNum": "３",
+                  "ParagraphSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "前項の規定により国が財政投融資特別会計の投資勘定において現金を承継する場合においては、当該現金は、財政投融資特別会計の投資勘定の歳入とする。"
+                    }
+                  }
+                }
+              ]
+            },
+            {
+              "@Delete": "false",
+              "@Hide": "false",
+              "@Num": "5",
+              "ArticleCaption": "（会社が承継する資産に係る評価委員の任命等）",
+              "ArticleTitle": "第五条",
+              "Paragraph": [
+                {
+                  "@Hide": "false",
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "法附則第十三条第一項の評価委員は、次に掲げる者につき財務大臣が任命する。"
+                    }
+                  },
+                  "Item": [
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "1",
+                      "ItemTitle": "一",
+                      "ItemSentence": {
+                        "Column": [
+                          {
+                            "@LineBreak": "false",
+                            "@Num": "1",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "財務省の職員"
+                            }
+                          },
+                          {
+                            "@LineBreak": "false",
+                            "@Num": "2",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "二人"
+                            }
+                          }
+                        ]
+                      }
+                    },
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "2",
+                      "ItemTitle": "二",
+                      "ItemSentence": {
+                        "Column": [
+                          {
+                            "@LineBreak": "false",
+                            "@Num": "1",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "法第六条第一項に規定する会社の役員等（会社が成立するまでの間は、法附則第二条の設立委員）"
+                            }
+                          },
+                          {
+                            "@LineBreak": "false",
+                            "@Num": "2",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "一人"
+                            }
+                          }
+                        ]
+                      }
+                    },
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "3",
+                      "ItemTitle": "三",
+                      "ItemSentence": {
+                        "Column": [
+                          {
+                            "@LineBreak": "false",
+                            "@Num": "1",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "学識経験のある者"
+                            }
+                          },
+                          {
+                            "@LineBreak": "false",
+                            "@Num": "2",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "二人"
+                            }
+                          }
+                        ]
+                      }
+                    }
+                  ]
+                },
+                {
+                  "@Hide": "false",
+                  "@Num": "2",
+                  "ParagraphNum": "２",
+                  "ParagraphSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "法附則第十三条第一項の規定による評価は、同項に規定する評価委員の過半数の一致によるものとする。"
+                    }
+                  }
+                },
+                {
+                  "@Hide": "false",
+                  "@Num": "3",
+                  "ParagraphNum": "３",
+                  "ParagraphSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "法附則第十三条第一項の規定による評価に関する庶務は、財務省大臣官房政策金融課において処理する。"
+                    }
+                  }
+                }
+              ]
+            },
+            {
+              "@Delete": "false",
+              "@Hide": "false",
+              "@Num": "6",
+              "ArticleCaption": "（債券を失った者に交付するために発行する債券等に関する経過措置）",
+              "ArticleTitle": "第六条",
+              "Paragraph": [
+                {
+                  "@Hide": "false",
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "法附則第十二条第一項の規定により、法附則第四十六条の規定による改正前の株式会社日本政策金融公庫法第五十条第二項の社債、同法附則第四十二条第四号の規定による廃止前の国際協力銀行法（平成十一年法律第三十五号）第四十五条第一項の国際協力銀行債券及び同法附則第十五条の規定による廃止前の日本輸出入銀行法（昭和二十五年法律第二百六十八号）第三十九条の二第一項の外貨債券等（以下この項において「社債等」という。）に係る債務の全部又は一部を承継した会社が、社債等を失った者に交付するために社債券を発行する場合には、法第三十三条第五項中「社債券を失った者」とあるのは「株式会社国際協力銀行法施行令（平成二十三年政令第二百二十一号）附則第六条第一項に規定する社債等を失った者」と、法第三十五条第三項中「社債券又はその利札を失った者」とあるのは「株式会社国際協力銀行法施行令附則第六条第一項に規定する社債等又はその利札を失った者」と、第十二条第二項中「国外社債券を」とあるのは「社債等（附則第六条第一項に規定する社債等をいう。）のうち我が国以外の地域において発行したもの（以下この項において「国外社債等」という。）を」と、「係る国外社債券」とあるのは「係る国外社債等」と、第十三条中「「国外社債券を」とあるのは「社債券又はその利札を」と、「国外社債券につき」とあるのは「社債券又はその利札につき」と、「国外社債券に対し」とあるのは「社債券に対し」」とあるのは「「国外社債券を」とあるのは「社債等（附則第六条第一項に規定する社債等をいう。）のうち我が国以外の地域において発行したもの（以下この項において「国外社債等」という。）又はその利札を」と、「国外社債券につき」とあるのは「国外社債等又はその利札につき」と、「国外社債券に対し」とあるのは「国外社債等に対し」」とする。"
+                    }
+                  }
+                },
+                {
+                  "@Hide": "false",
+                  "@Num": "2",
+                  "ParagraphNum": "２",
+                  "ParagraphSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "前項に規定する国際協力銀行債券及び外貨債券等を失った者に交付するために発行する同項の社債券に係る債務については、会社が承継した同項に規定する国際協力銀行債券及び外貨債券等に係る債務とみなして法附則第十七条の規定を適用する。"
+                    }
+                  }
+                },
+                {
+                  "@Hide": "false",
+                  "@Num": "3",
+                  "ParagraphNum": "３",
+                  "ParagraphSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "次の表の上欄に掲げる規定により同表の中欄に掲げる者から同表の下欄に掲げる債券の発行に関する事務の委託を受けた銀行業、信託業又は金融商品取引業を行う者の権限及び責任については、なお従前の例による。"
+                    }
+                  },
+                  "TableStruct": {
+                    "Table": {
+                      "@WritingMode": "vertical",
+                      "TableRow": [
+                        {
+                          "TableColumn": [
+                            {
+                              "@BorderBottom": "solid",
+                              "@BorderLeft": "solid",
+                              "@BorderRight": "solid",
+                              "@BorderTop": "solid",
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "株式会社日本政策金融公庫法附則第四十二条第四号の規定による廃止前の国際協力銀行法第四十五条第十一項"
+                              }
+                            },
+                            {
+                              "@BorderBottom": "solid",
+                              "@BorderLeft": "solid",
+                              "@BorderRight": "solid",
+                              "@BorderTop": "solid",
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "株式会社日本政策金融公庫法附則第十八条第一項の規定による解散前の国際協力銀行"
+                              }
+                            },
+                            {
+                              "@BorderBottom": "solid",
+                              "@BorderLeft": "solid",
+                              "@BorderRight": "solid",
+                              "@BorderTop": "solid",
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "第一項に規定する国際協力銀行債券"
+                              }
+                            }
+                          ]
+                        },
+                        {
+                          "TableColumn": [
+                            {
+                              "@BorderBottom": "solid",
+                              "@BorderLeft": "solid",
+                              "@BorderRight": "solid",
+                              "@BorderTop": "solid",
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "株式会社日本政策金融公庫法附則第四十二条第四号の規定による廃止前の国際協力銀行法附則第十五条の規定による廃止前の日本輸出入銀行法第三十九条の二第三項"
+                              }
+                            },
+                            {
+                              "@BorderBottom": "solid",
+                              "@BorderLeft": "solid",
+                              "@BorderRight": "solid",
+                              "@BorderTop": "solid",
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "株式会社日本政策金融公庫法附則第四十二条第四号の規定による廃止前の国際協力銀行法附則第六条の規定による解散前の日本輸出入銀行"
+                              }
+                            },
+                            {
+                              "@BorderBottom": "solid",
+                              "@BorderLeft": "solid",
+                              "@BorderRight": "solid",
+                              "@BorderTop": "solid",
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "第一項に規定する外貨債券等"
+                              }
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "@AmendLawNum": "平成二八年五月一八日政令第二二二号",
+          "@Type": "Amend",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この政令は、公布の日から施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成二八年九月三〇日政令第三二一号",
+          "@Extract": "true",
+          "@Type": "Amend",
+          "SupplProvisionLabel": "附　則",
+          "Article": [
+            {
+              "@Delete": "false",
+              "@Hide": "false",
+              "@Num": "1",
+              "ArticleCaption": "（施行期日）",
+              "ArticleTitle": "第一条",
+              "Paragraph": {
+                "@Hide": "false",
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": [
+                    {
+                      "@Function": "main",
+                      "@Num": "1",
+                      "@WritingMode": "vertical",
+                      "#text": "この政令は、株式会社国際協力銀行法の一部を改正する法律（次条第一項において「改正法」という。）附則第一条ただし書に規定する規定の施行の日（平成二十八年十月一日）から施行する。"
+                    },
+                    {
+                      "@Function": "proviso",
+                      "@Num": "2",
+                      "@WritingMode": "vertical",
+                      "#text": "ただし、第三条第二号及び第五条第一号の改正規定並びに次条の規定は、公布の日から施行する。"
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "@Delete": "false",
+              "@Hide": "false",
+              "@Num": "2",
+              "ArticleCaption": "（株式会社国際協力銀行の資産等の各勘定への帰属に係る計画書の作成基準）",
+              "ArticleTitle": "第二条",
+              "Paragraph": [
+                {
+                  "@Hide": "false",
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "改正法附則第三条第一項の計画書は、この政令の施行の日における株式会社国際協力銀行（以下「会社」という。）の資産及び負債並びに資本金、準備金及び剰余金を、次の各号に掲げる勘定科目の区分に応じ、当該各号に定める勘定に属するものとして整理することを基準として定めるものとする。"
+                    }
+                  },
+                  "Item": [
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "1",
+                      "ItemTitle": "一",
+                      "ItemSentence": {
+                        "Column": [
+                          {
+                            "@LineBreak": "false",
+                            "@Num": "1",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "会社の資産"
+                            }
+                          },
+                          {
+                            "@LineBreak": "false",
+                            "@Num": "2",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "一般業務（株式会社国際協力銀行法第二十六条の二第一号に規定する一般業務をいう。以下この項において同じ。）に係る勘定及び特別業務（同法第十三条の二第一項に規定する特別業務をいう。第四号において同じ。）に係る勘定"
+                            }
+                          }
+                        ]
+                      }
+                    },
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "2",
+                      "ItemTitle": "二",
+                      "ItemSentence": {
+                        "Column": [
+                          {
+                            "@LineBreak": "false",
+                            "@Num": "1",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "会社の負債"
+                            }
+                          },
+                          {
+                            "@LineBreak": "false",
+                            "@Num": "2",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "一般業務に係る勘定"
+                            }
+                          }
+                        ]
+                      }
+                    },
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "3",
+                      "ItemTitle": "三",
+                      "ItemSentence": {
+                        "Column": [
+                          {
+                            "@LineBreak": "false",
+                            "@Num": "1",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "会社の資本金"
+                            }
+                          },
+                          {
+                            "@LineBreak": "false",
+                            "@Num": "2",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "一般業務に係る勘定"
+                            }
+                          }
+                        ]
+                      }
+                    },
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "4",
+                      "ItemTitle": "四",
+                      "ItemSentence": {
+                        "Column": [
+                          {
+                            "@LineBreak": "false",
+                            "@Num": "1",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "会社の準備金"
+                            }
+                          },
+                          {
+                            "@LineBreak": "false",
+                            "@Num": "2",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "一般業務に係る勘定及び特別業務に係る勘定"
+                            }
+                          }
+                        ]
+                      }
+                    },
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "5",
+                      "ItemTitle": "五",
+                      "ItemSentence": {
+                        "Column": [
+                          {
+                            "@LineBreak": "false",
+                            "@Num": "1",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "会社の剰余金"
+                            }
+                          },
+                          {
+                            "@LineBreak": "false",
+                            "@Num": "2",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "一般業務に係る勘定"
+                            }
+                          }
+                        ]
+                      }
+                    }
+                  ]
+                },
+                {
+                  "@Hide": "false",
+                  "@Num": "2",
+                  "ParagraphNum": "２",
+                  "ParagraphSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "前項に規定する計画書の内容は、会社の債権者を害するおそれがないものでなければならない。"
+                    }
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

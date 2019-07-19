@@ -1,0 +1,138 @@
+{
+  "Law": {
+    "@Era": "Heisei",
+    "@Lang": "ja",
+    "@LawType": "MinisterialOrdinance",
+    "@Num": "003",
+    "@Year": "21",
+    "LawNum": "平成二十一年内閣府・経済産業省令第三号",
+    "LawBody": {
+      "LawTitle": "家庭用品品質表示法に基づく申出の手続等を定める命令",
+      "EnactStatement": "家庭用品品質表示法（昭和三十七年法律第百四号）を実施するため、家庭用品品質表示法に基づく申出の手続等を定める命令を次のように定める。",
+      "MainProvision": {
+        "Article": [
+          {
+            "@Num": "1",
+            "ArticleCaption": "（内閣総理大臣又は経済産業大臣に対する申出の手続）",
+            "ArticleTitle": "第一条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "家庭用品品質表示法（以下「法」という。）第十条第一項の規定により内閣総理大臣又は経済産業大臣に対して申出をしようとする者は、次に掲げる事項を記載した申出書を提出しなければならない。"
+              },
+              "Item": [
+                {
+                  "@Num": "1",
+                  "ItemTitle": "一",
+                  "ItemSentence": {
+                    "Sentence": "申出人の氏名又は名称及び住所"
+                  }
+                },
+                {
+                  "@Num": "2",
+                  "ItemTitle": "二",
+                  "ItemSentence": {
+                    "Sentence": "申出に係る家庭用品の品目"
+                  }
+                },
+                {
+                  "@Num": "3",
+                  "ItemTitle": "三",
+                  "ItemSentence": {
+                    "Sentence": "申出の趣旨"
+                  }
+                },
+                {
+                  "@Num": "4",
+                  "ItemTitle": "四",
+                  "ItemSentence": {
+                    "Sentence": "その他参考となる事項"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "@Num": "2",
+            "ArticleCaption": "（身分を示す証明書）",
+            "ArticleTitle": "第二条",
+            "Paragraph": [
+              {
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": "法第十九条第三項に規定する職員の身分を示す証明書は、様式第一によるものとする。"
+                }
+              },
+              {
+                "@Num": "2",
+                "ParagraphNum": "２",
+                "ParagraphSentence": {
+                  "Sentence": "法第二十条第五項に規定する独立行政法人製品評価技術基盤機構の職員の身分を示す証明書は、様式第二によるものとする。"
+                }
+              }
+            ]
+          },
+          {
+            "@Num": "3",
+            "ArticleCaption": "（条例等に係る適用除外）",
+            "ArticleTitle": "第三条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "前条第一項（都道府県知事又は市長の事務に係る部分に限る。）の規定は、都道府県又は市の条例、規則その他の定めに別段の定めがあるときは、その限度において適用しない。"
+              }
+            }
+          }
+        ]
+      },
+      "SupplProvision": [
+        {
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この命令は、消費者庁及び消費者委員会設置法（平成二十一年法律第四十八号）の施行の日（平成二十一年九月一日）から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成二三年一二月二六日内閣府・経済産業省令第二号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この命令は、平成二十四年四月一日から施行する。"
+            }
+          }
+        }
+      ],
+      "AppdxStyle": [
+        {
+          "AppdxStyleTitle": "様式第一",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/H21F10002008003-001.pdf"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": "様式第二",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/H21F10002008003-002.pdf"
+              }
+            }
+          }
+        }
+      ]
+    }
+  }
+}

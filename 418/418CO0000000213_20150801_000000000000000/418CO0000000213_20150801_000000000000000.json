@@ -1,0 +1,70 @@
+{
+  "Law": {
+    "@Era": "Heisei",
+    "@Lang": "ja",
+    "@LawType": "CabinetOrder",
+    "@Num": "213",
+    "@Year": "18",
+    "LawNum": "平成十八年政令第二百十三号",
+    "LawBody": {
+      "LawTitle": "住生活基本法施行令",
+      "EnactStatement": "内閣は、住生活基本法（平成十八年法律第六十一号）第十五条第二項第五号の規定に基づき、この政令を制定する。",
+      "MainProvision": {
+        "Paragraph": {
+          "@Hide": "false",
+          "@Num": "1",
+          "ParagraphNum": null,
+          "ParagraphSentence": {
+            "Sentence": {
+              "@WritingMode": "vertical",
+              "#text": "住生活基本法第十五条第二項第五号の政令で定める都道府県は、茨城県、埼玉県、千葉県、東京都、神奈川県、愛知県、三重県、京都府、大阪府、兵庫県及び奈良県とする。"
+            }
+          }
+        }
+      },
+      "SupplProvision": {
+        "@Extract": "true",
+        "@Type": "New",
+        "SupplProvisionLabel": "附　則",
+        "Article": [
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "1",
+            "ArticleCaption": "（施行期日）",
+            "ArticleTitle": "第一条",
+            "Paragraph": {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "この政令は、公布の日から施行する。"
+                }
+              }
+            }
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "2",
+            "ArticleCaption": "（住宅建設計画法第五条第一項の地方を定める政令の廃止）",
+            "ArticleTitle": "第二条",
+            "Paragraph": {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "住宅建設計画法第五条第一項の地方を定める政令（昭和四十一年政令第二百三十一号）は、廃止する。"
+                }
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

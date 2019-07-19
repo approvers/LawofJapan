@@ -1,0 +1,53 @@
+{
+  "Law": {
+    "@Era": "Showa",
+    "@Lang": "ja",
+    "@LawType": "CabinetOrder",
+    "@Num": "14",
+    "@Year": "22",
+    "LawNum": "昭和二十二年政令第十四号",
+    "LawBody": {
+      "LawTitle": "昭和二十二年政令第十四号（日本国憲法施行の際現に効力を有する勅令の規定の効力等に関する政令）",
+      "MainProvision": {
+        "Paragraph": [
+          {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphNum": "○１",
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "日本国憲法施行の際現に効力を有する勅令の規定は、昭和二十二年法律第七十二号第一条に規定するものを除くの外、政令と同一の効力を有するものとする。"
+              }
+            }
+          },
+          {
+            "@Hide": "false",
+            "@Num": "2",
+            "ParagraphNum": "○２",
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "昭和二十二年法律第七十二号第一条に規定するものを除くの外、日本国憲法施行の際現に効力を有する命令の規定中「勅令」とあるのは「法律又は政令」、「閣令」とあるのは「総理庁令」と読み替えるものとする。"
+              }
+            }
+          }
+        ]
+      },
+      "SupplProvision": {
+        "SupplProvisionLabel": "附　則",
+        "Paragraph": {
+          "@Hide": "false",
+          "@Num": "1",
+          "ParagraphNum": null,
+          "ParagraphSentence": {
+            "Sentence": {
+              "@WritingMode": "vertical",
+              "#text": "この政令は、公布の日から、これを施行する。"
+            }
+          }
+        }
+      }
+    }
+  }
+}

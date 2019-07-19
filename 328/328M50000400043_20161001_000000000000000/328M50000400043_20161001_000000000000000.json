@@ -1,0 +1,3706 @@
+{
+  "Law": {
+    "@Era": "Showa",
+    "@Lang": "ja",
+    "@LawType": "MinisterialOrdinance",
+    "@Num": "043",
+    "@Year": "28",
+    "LawNum": "昭和二十八年通商産業省令第四十三号",
+    "LawBody": {
+      "LawTitle": "武器等製造法施行規則",
+      "EnactStatement": "武器等製造法（昭和二十八年法律第百四十五号）に基き、および同法を実施するため、武器等製造法施行規則を次のように制定する。",
+      "TOC": {
+        "TOCLabel": "目次",
+        "TOCChapter": [
+          {
+            "@Num": "1",
+            "ChapterTitle": "第一章　総則",
+            "ArticleRange": "（第一条・第二条）"
+          },
+          {
+            "@Num": "2",
+            "ChapterTitle": "第二章　武器",
+            "ArticleRange": "（第三条―第十六条）"
+          },
+          {
+            "@Num": "3",
+            "ChapterTitle": "第三章　猟銃等",
+            "ArticleRange": "（第十七条―第二十一条）"
+          },
+          {
+            "@Num": "4",
+            "ChapterTitle": "第四章　雑則",
+            "ArticleRange": "（第二十二条―第三十八条）"
+          }
+        ],
+        "TOCSupplProvision": {
+          "SupplProvisionLabel": "附則"
+        }
+      },
+      "MainProvision": {
+        "Chapter": [
+          {
+            "@Num": "1",
+            "ChapterTitle": "第一章　総則",
+            "Article": [
+              {
+                "@Num": "1",
+                "ArticleCaption": "（用語）",
+                "ArticleTitle": "第一条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "この省令において使用する用語は、武器等製造法（昭和二十八年法律第百四十五号。以下「法」という。）において使用する用語の例による。"
+                  }
+                }
+              },
+              {
+                "@Num": "2",
+                "ArticleCaption": "（武器等の種類）",
+                "ArticleTitle": "第二条",
+                "Paragraph": [
+                  {
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": "武器の種類は、次のとおりとする。"
+                    },
+                    "Item": [
+                      {
+                        "@Num": "1",
+                        "ItemTitle": "一",
+                        "ItemSentence": {
+                          "Sentence": "次に掲げる銃砲"
+                        },
+                        "Subitem1": [
+                          {
+                            "@Num": "1",
+                            "Subitem1Title": "イ",
+                            "Subitem1Sentence": {
+                              "Sentence": "次に掲げる銃"
+                            },
+                            "Subitem2": [
+                              {
+                                "@Num": "1",
+                                "Subitem2Title": "（１）",
+                                "Subitem2Sentence": {
+                                  "Sentence": "けん銃（機関けん銃を含む。以下同じ。）"
+                                }
+                              },
+                              {
+                                "@Num": "2",
+                                "Subitem2Title": "（２）",
+                                "Subitem2Sentence": {
+                                  "Sentence": "小銃"
+                                }
+                              },
+                              {
+                                "@Num": "3",
+                                "Subitem2Title": "（３）",
+                                "Subitem2Sentence": {
+                                  "Sentence": "機関銃（口径が二〇ミリメートル未満のものをいい、機関けん銃を除く。以下同じ。）"
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "@Num": "2",
+                            "Subitem1Title": "ロ",
+                            "Subitem1Sentence": {
+                              "Sentence": "次に掲げる砲"
+                            },
+                            "Subitem2": [
+                              {
+                                "@Num": "1",
+                                "Subitem2Title": "（１）",
+                                "Subitem2Sentence": {
+                                  "Sentence": "小口径砲（口径が二〇ミリメートル以上四〇ミリメートル以下の銃砲をいう。以下同じ。）"
+                                }
+                              },
+                              {
+                                "@Num": "2",
+                                "Subitem2Title": "（２）",
+                                "Subitem2Sentence": {
+                                  "Sentence": "中口径砲（口径が四〇ミリメートルを超え、九〇ミリメートル未満の銃砲をいい、迫撃砲を除く。以下同じ。）"
+                                }
+                              },
+                              {
+                                "@Num": "3",
+                                "Subitem2Title": "（３）",
+                                "Subitem2Sentence": {
+                                  "Sentence": "大口径砲（口径が九〇ミリメートル以上の銃砲をいい、迫撃砲を除く。以下同じ。）"
+                                }
+                              },
+                              {
+                                "@Num": "4",
+                                "Subitem2Title": "（４）",
+                                "Subitem2Sentence": {
+                                  "Sentence": "迫撃砲"
+                                }
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "@Num": "2",
+                        "ItemTitle": "二",
+                        "ItemSentence": {
+                          "Sentence": "次に掲げる銃砲弾"
+                        },
+                        "Subitem1": [
+                          {
+                            "@Num": "1",
+                            "Subitem1Title": "イ",
+                            "Subitem1Sentence": {
+                              "Sentence": "銃弾"
+                            }
+                          },
+                          {
+                            "@Num": "2",
+                            "Subitem1Title": "ロ",
+                            "Subitem1Sentence": {
+                              "Sentence": "次に掲げる砲弾"
+                            },
+                            "Subitem2": [
+                              {
+                                "@Num": "1",
+                                "Subitem2Title": "（１）",
+                                "Subitem2Sentence": {
+                                  "Sentence": "第一種砲弾（小口径砲用の砲弾であつて、弾丸と薬きようとが自動的な方法によつて結合されるものをいう。以下同じ。）"
+                                }
+                              },
+                              {
+                                "@Num": "2",
+                                "Subitem2Title": "（２）",
+                                "Subitem2Sentence": {
+                                  "Sentence": "第二種砲弾（圧搾の方法によつて弾体に爆薬が充てんされる砲弾をいい、第一種砲弾を除く。以下同じ。）"
+                                }
+                              },
+                              {
+                                "@Num": "3",
+                                "Subitem2Title": "（３）",
+                                "Subitem2Sentence": {
+                                  "Sentence": "第三種砲弾（溶融して注入する方法によつて弾体に爆薬が充てんされる砲弾をいい、第一種砲弾を除く。以下同じ。）"
+                                }
+                              },
+                              {
+                                "@Num": "4",
+                                "Subitem2Title": "（４）",
+                                "Subitem2Sentence": {
+                                  "Sentence": "第四種砲弾（燃焼若しくは殺傷又は発光若しくは発煙のために使用される砲弾であつて、弾体に爆薬が充てんされないものをいい、第一種砲弾を除く。以下同じ。）"
+                                }
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "@Num": "3",
+                        "ItemTitle": "三",
+                        "ItemSentence": {
+                          "Sentence": "次に掲げる爆発物"
+                        },
+                        "Subitem1": [
+                          {
+                            "@Num": "1",
+                            "Subitem1Title": "イ",
+                            "Subitem1Sentence": {
+                              "Sentence": "第一種爆発物（圧搾の方法によつて弾体又は外殻に爆薬が充てんされる爆発物をいう。以下同じ。）"
+                            }
+                          },
+                          {
+                            "@Num": "2",
+                            "Subitem1Title": "ロ",
+                            "Subitem1Sentence": {
+                              "Sentence": "第二種爆発物（溶融して注入する方法によつて弾体又は外殻に爆薬が充てんされる爆発物をいう。以下同じ。）"
+                            }
+                          },
+                          {
+                            "@Num": "3",
+                            "Subitem1Title": "ハ",
+                            "Subitem1Sentence": {
+                              "Sentence": "第三種爆発物（燃焼若しくは殺傷又は発光若しくは発煙のために使用される爆発物であつて、弾体又は外殻に爆薬が充てんされないものをいう。以下同じ。）"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "@Num": "4",
+                        "ItemTitle": "四",
+                        "ItemSentence": {
+                          "Sentence": "爆発物を投下し、又は発射する機械器具であつて、次に掲げるもの"
+                        },
+                        "Subitem1": [
+                          {
+                            "@Num": "1",
+                            "Subitem1Title": "イ",
+                            "Subitem1Sentence": {
+                              "Sentence": "ロケット弾発射機"
+                            }
+                          },
+                          {
+                            "@Num": "2",
+                            "Subitem1Title": "ロ",
+                            "Subitem1Sentence": {
+                              "Sentence": "爆雷投射機"
+                            }
+                          },
+                          {
+                            "@Num": "3",
+                            "Subitem1Title": "ハ",
+                            "Subitem1Sentence": {
+                              "Sentence": "魚雷発射管"
+                            }
+                          },
+                          {
+                            "@Num": "4",
+                            "Subitem1Title": "ニ",
+                            "Subitem1Sentence": {
+                              "Sentence": "爆弾投下器"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "@Num": "5",
+                        "ItemTitle": "五",
+                        "ItemSentence": {
+                          "Sentence": "銃剣"
+                        }
+                      },
+                      {
+                        "@Num": "6",
+                        "ItemTitle": "六",
+                        "ItemSentence": {
+                          "Sentence": "火炎発射機"
+                        }
+                      },
+                      {
+                        "@Num": "7",
+                        "ItemTitle": "七",
+                        "ItemSentence": {
+                          "Sentence": "銃砲を搭載する構造を有する装甲車両であつて、無限軌道装置により走行するもの"
+                        }
+                      },
+                      {
+                        "@Num": "8",
+                        "ItemTitle": "八",
+                        "ItemSentence": {
+                          "Sentence": "銃砲の部品であつて、次に掲げるもの"
+                        },
+                        "Subitem1": [
+                          {
+                            "@Num": "1",
+                            "Subitem1Title": "イ",
+                            "Subitem1Sentence": {
+                              "Sentence": "次に掲げる銃身"
+                            },
+                            "Subitem2": [
+                              {
+                                "@Num": "1",
+                                "Subitem2Title": "（１）",
+                                "Subitem2Sentence": {
+                                  "Sentence": "けん銃の銃身"
+                                }
+                              },
+                              {
+                                "@Num": "2",
+                                "Subitem2Title": "（２）",
+                                "Subitem2Sentence": {
+                                  "Sentence": "小銃の銃身"
+                                }
+                              },
+                              {
+                                "@Num": "3",
+                                "Subitem2Title": "（３）",
+                                "Subitem2Sentence": {
+                                  "Sentence": "機関銃の銃身"
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "@Num": "2",
+                            "Subitem1Title": "ロ",
+                            "Subitem1Sentence": {
+                              "Sentence": "けん銃の機関部体"
+                            }
+                          },
+                          {
+                            "@Num": "3",
+                            "Subitem1Title": "ハ",
+                            "Subitem1Sentence": {
+                              "Sentence": "けん銃の回転弾倉"
+                            }
+                          },
+                          {
+                            "@Num": "4",
+                            "Subitem1Title": "ニ",
+                            "Subitem1Sentence": {
+                              "Sentence": "けん銃のスライド"
+                            }
+                          },
+                          {
+                            "@Num": "5",
+                            "Subitem1Title": "ホ",
+                            "Subitem1Sentence": {
+                              "Sentence": "機関銃の銃架"
+                            }
+                          },
+                          {
+                            "@Num": "6",
+                            "Subitem1Title": "ヘ",
+                            "Subitem1Sentence": {
+                              "Sentence": "次に掲げる砲身"
+                            },
+                            "Subitem2": [
+                              {
+                                "@Num": "1",
+                                "Subitem2Title": "（１）",
+                                "Subitem2Sentence": {
+                                  "Sentence": "小口径砲の砲身"
+                                }
+                              },
+                              {
+                                "@Num": "2",
+                                "Subitem2Title": "（２）",
+                                "Subitem2Sentence": {
+                                  "Sentence": "中口径砲の砲身"
+                                }
+                              },
+                              {
+                                "@Num": "3",
+                                "Subitem2Title": "（３）",
+                                "Subitem2Sentence": {
+                                  "Sentence": "大口径砲の砲身"
+                                }
+                              },
+                              {
+                                "@Num": "4",
+                                "Subitem2Title": "（４）",
+                                "Subitem2Sentence": {
+                                  "Sentence": "迫撃砲の砲身"
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "@Num": "7",
+                            "Subitem1Title": "ト",
+                            "Subitem1Sentence": {
+                              "Sentence": "次に掲げる砲架"
+                            },
+                            "Subitem2": [
+                              {
+                                "@Num": "1",
+                                "Subitem2Title": "（１）",
+                                "Subitem2Sentence": {
+                                  "Sentence": "小口径砲の砲架"
+                                }
+                              },
+                              {
+                                "@Num": "2",
+                                "Subitem2Title": "（２）",
+                                "Subitem2Sentence": {
+                                  "Sentence": "中口径砲の砲架"
+                                }
+                              },
+                              {
+                                "@Num": "3",
+                                "Subitem2Title": "（３）",
+                                "Subitem2Sentence": {
+                                  "Sentence": "大口径砲の砲架"
+                                }
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "@Num": "9",
+                        "ItemTitle": "九",
+                        "ItemSentence": {
+                          "Sentence": "銃砲弾の部品であつて、次に掲げるもの"
+                        },
+                        "Subitem1": [
+                          {
+                            "@Num": "1",
+                            "Subitem1Title": "イ",
+                            "Subitem1Sentence": {
+                              "Sentence": "銃弾の弾丸"
+                            }
+                          },
+                          {
+                            "@Num": "2",
+                            "Subitem1Title": "ロ",
+                            "Subitem1Sentence": {
+                              "Sentence": "砲弾の弾体であつて、次に掲げるもの"
+                            },
+                            "Subitem2": [
+                              {
+                                "@Num": "1",
+                                "Subitem2Title": "（１）",
+                                "Subitem2Sentence": {
+                                  "Sentence": "切削弾体（切削の方法によつて製造される弾体をいう。以下同じ。）"
+                                }
+                              },
+                              {
+                                "@Num": "2",
+                                "Subitem2Title": "（２）",
+                                "Subitem2Sentence": {
+                                  "Sentence": "小型搾出弾体（小口径砲用の砲弾の弾体であつて、搾出の方法によつて製造されるものをいう。以下同じ。）"
+                                }
+                              },
+                              {
+                                "@Num": "3",
+                                "Subitem2Title": "（３）",
+                                "Subitem2Sentence": {
+                                  "Sentence": "中型搾出弾体（中口径砲用及び口径が四〇ミリメートルを超え、九〇ミリメートル未満の迫撃砲用の砲弾の弾体であつて、搾出の方法によつて製造されるものをいう。以下同じ。）"
+                                }
+                              },
+                              {
+                                "@Num": "4",
+                                "Subitem2Title": "（４）",
+                                "Subitem2Sentence": {
+                                  "Sentence": "大型搾出弾体（大口径砲用及び口径が九〇ミリメートル以上の迫撃砲用の砲弾の弾体であつて、搾出の方法によつて製造されるものをいう。以下同じ。）"
+                                }
+                              },
+                              {
+                                "@Num": "5",
+                                "Subitem2Title": "（５）",
+                                "Subitem2Sentence": {
+                                  "Sentence": "溶接弾体（溶接の方法によつて製造される弾体をいう。以下同じ。）"
+                                }
+                              },
+                              {
+                                "@Num": "6",
+                                "Subitem2Title": "（６）",
+                                "Subitem2Sentence": {
+                                  "Sentence": "鋳造弾体（鋳造の方法によつて製造される弾体をいう。以下同じ。）"
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "@Num": "3",
+                            "Subitem1Title": "ハ",
+                            "Subitem1Sentence": {
+                              "Sentence": "次に掲げる薬きよう"
+                            },
+                            "Subitem2": [
+                              {
+                                "@Num": "1",
+                                "Subitem2Title": "（１）",
+                                "Subitem2Sentence": {
+                                  "Sentence": "小型薬きよう（銃弾の薬きようをいい、口径が二〇ミリメートルの小口径砲用の砲弾の薬きようを含む。以下同じ。）"
+                                }
+                              },
+                              {
+                                "@Num": "2",
+                                "Subitem2Title": "（２）",
+                                "Subitem2Sentence": {
+                                  "Sentence": "中型薬きよう（小口径砲用の砲弾の薬きよう（口径が二〇ミリメートルの小口径砲用の砲弾の薬きようを除く。）及び中口径砲用の砲弾の薬きよう（口径が六〇ミリメートル以上の中口径砲用の砲弾の鉄薬きようを除く。）をいう。以下同じ。）"
+                                }
+                              },
+                              {
+                                "@Num": "3",
+                                "Subitem2Title": "（３）",
+                                "Subitem2Sentence": {
+                                  "Sentence": "大型薬きよう（大口径砲用の砲弾の薬きようをいい、口径が六〇ミリメートル以上の中口径砲用の鉄薬きようを含む。以下同じ。）"
+                                }
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "@Num": "10",
+                        "ItemTitle": "十",
+                        "ItemSentence": {
+                          "Sentence": "砲弾及び爆発物の部品であつて、次に掲げるもの"
+                        },
+                        "Subitem1": [
+                          {
+                            "@Num": "1",
+                            "Subitem1Title": "イ",
+                            "Subitem1Sentence": {
+                              "Sentence": "火薬類が入つていない機械信管（主として機械的な機構によつて発火する信管をいう。以下同じ。）"
+                            }
+                          },
+                          {
+                            "@Num": "2",
+                            "Subitem1Title": "ロ",
+                            "Subitem1Sentence": {
+                              "Sentence": "火薬類が入つていない電気信管（主として電気的な機構によつて発火する信管をいう。以下同じ。）"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "@Num": "11",
+                        "ItemTitle": "十一",
+                        "ItemSentence": {
+                          "Sentence": "爆発物の部品であつて、次に掲げるもの"
+                        },
+                        "Subitem1": [
+                          {
+                            "@Num": "1",
+                            "Subitem1Title": "イ",
+                            "Subitem1Sentence": {
+                              "Sentence": "ロケット弾の弾体"
+                            }
+                          },
+                          {
+                            "@Num": "2",
+                            "Subitem1Title": "ロ",
+                            "Subitem1Sentence": {
+                              "Sentence": "手りゆう弾の弾体"
+                            }
+                          },
+                          {
+                            "@Num": "3",
+                            "Subitem1Title": "ハ",
+                            "Subitem1Sentence": {
+                              "Sentence": "地雷の外殻"
+                            }
+                          },
+                          {
+                            "@Num": "4",
+                            "Subitem1Title": "ニ",
+                            "Subitem1Sentence": {
+                              "Sentence": "爆雷の外殻"
+                            }
+                          },
+                          {
+                            "@Num": "5",
+                            "Subitem1Title": "ホ",
+                            "Subitem1Sentence": {
+                              "Sentence": "機雷の本体の外殻"
+                            }
+                          },
+                          {
+                            "@Num": "6",
+                            "Subitem1Title": "ヘ",
+                            "Subitem1Sentence": {
+                              "Sentence": "魚雷の気室"
+                            }
+                          },
+                          {
+                            "@Num": "7",
+                            "Subitem1Title": "ト",
+                            "Subitem1Sentence": {
+                              "Sentence": "爆弾の弾体"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": "猟銃等の種類は、法第二条第二項各号に掲げる物の別によるものとする。"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "@Num": "2",
+            "ChapterTitle": "第二章　武器",
+            "Article": [
+              {
+                "@Num": "3",
+                "ArticleCaption": "（製造事業の許可申請）",
+                "ArticleTitle": "第三条",
+                "Paragraph": [
+                  {
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": "法第三条の規定により武器の製造の事業の許可を受けようとする者は、様式第一の武器製造事業許可申請書を、工場または事業場の所在地を管轄する経済産業局長を経由して、経済産業大臣に提出しなければならない。"
+                    }
+                  },
+                  {
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": "前項の申請書には、左に掲げる書類を添附しなければならない。"
+                    },
+                    "Item": [
+                      {
+                        "@Num": "1",
+                        "ItemTitle": "一",
+                        "ItemSentence": {
+                          "Sentence": "左に掲げる事項を記載した事業計画書"
+                        },
+                        "Subitem1": [
+                          {
+                            "@Num": "1",
+                            "Subitem1Title": "イ",
+                            "Subitem1Sentence": {
+                              "Sentence": "武器の種類別の製造計画"
+                            }
+                          },
+                          {
+                            "@Num": "2",
+                            "Subitem1Title": "ロ",
+                            "Subitem1Sentence": {
+                              "Sentence": "武器の種類別の製造のための設備の明細"
+                            }
+                          },
+                          {
+                            "@Num": "3",
+                            "Subitem1Title": "ハ",
+                            "Subitem1Sentence": {
+                              "Sentence": "武器の保管のための設備の明細"
+                            }
+                          },
+                          {
+                            "@Num": "4",
+                            "Subitem1Title": "ニ",
+                            "Subitem1Sentence": {
+                              "Sentence": "武器の製造に要する資金の額およびその調達方法"
+                            }
+                          },
+                          {
+                            "@Num": "5",
+                            "Subitem1Title": "ホ",
+                            "Subitem1Sentence": {
+                              "Sentence": "武器の製造の事業の収支見積"
+                            }
+                          },
+                          {
+                            "@Num": "6",
+                            "Subitem1Title": "ヘ",
+                            "Subitem1Sentence": {
+                              "Sentence": "武器の主たる材料、部品または附属品の製造を他に請け負わせ、または委託する場合にあつては、その計画"
+                            }
+                          },
+                          {
+                            "@Num": "7",
+                            "Subitem1Title": "ト",
+                            "Subitem1Sentence": {
+                              "Sentence": "武器の製造の事業以外の事業を兼営する場合にあつては、その事業の概要"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "@Num": "2",
+                        "ItemTitle": "二",
+                        "ItemSentence": {
+                          "Sentence": "工場または事業場の図面ならびに武器の種類別の製造のための設備および武器の保管のための設備の配置図"
+                        }
+                      },
+                      {
+                        "@Num": "3",
+                        "ItemTitle": "三",
+                        "ItemSentence": {
+                          "Sentence": "現に行つている事業の概要を説明した書類"
+                        }
+                      },
+                      {
+                        "@Num": "4",
+                        "ItemTitle": "四",
+                        "ItemSentence": {
+                          "Sentence": "法人にあつては、定款ならびに最近の財産目録、貸借対照表および損益計算書"
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "@Num": "4",
+                "ArticleCaption": "（製造の許可を受けうる場合）",
+                "ArticleTitle": "第四条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "法第四条但書の経済産業省令で定める場合は、武器たる部品の交換を伴わない軽微な改造または修理を行う場合とする。"
+                  }
+                }
+              },
+              {
+                "@Num": "5",
+                "ArticleCaption": "（製造の許可申請）",
+                "ArticleTitle": "第五条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "法第四条但書の規定により武器の製造の許可を受けようとする者は、様式第二の武器製造許可申請書に、当該武器の製造のための設備および保管のための設備の概要を記載した書類を添附し、武器の製造を行う場所を管轄する経済産業局長を経由して、経済産業大臣に提出しなければならない。"
+                  }
+                }
+              },
+              {
+                "@Num": "6",
+                "ArticleCaption": "（技術上の基準）",
+                "ArticleTitle": "第六条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "法第五条第一項第一号の経済産業省令で定める技術上の基準は、別表の通りとする。"
+                  }
+                }
+              },
+              {
+                "@Num": "7",
+                "ArticleCaption": "（保管の要件）",
+                "ArticleTitle": "第七条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "法第五条第一項第二号の経済産業省令で定める要件は、左の通りとする。"
+                  },
+                  "Item": [
+                    {
+                      "@Num": "1",
+                      "ItemTitle": "一",
+                      "ItemSentence": {
+                        "Sentence": "管理上支障がない場所にあること。"
+                      }
+                    },
+                    {
+                      "@Num": "2",
+                      "ItemTitle": "二",
+                      "ItemSentence": {
+                        "Sentence": "武器の製造数に応じた収容能力を有すること。"
+                      }
+                    },
+                    {
+                      "@Num": "3",
+                      "ItemTitle": "三",
+                      "ItemSentence": {
+                        "Sentence": "出入口に鉄製その他の堅固な扉が設けられている等盗難の防止のために適当な構造を有すること。"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "@Num": "8",
+                "ArticleCaption": "（承継の届出）",
+                "ArticleTitle": "第八条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "法第七条第二項の規定により武器製造事業者の地位の承継を届け出ようとする者は、様式第三の武器製造事業承継届出書に、事業の全部の譲渡し又は相続、合併若しくは事業の全部を承継させた分割があつた事実を証する書面（相続人が二人以上ある場合において、その全員の同意により事業を承継すべき相続人を選定したときは、その全員の同意書を含む。）を添付し、工場又は事業場の所在地を管轄する経済産業局長を経由して、経済産業大臣に提出しなければならない。"
+                  }
+                }
+              },
+              {
+                "@Num": "9",
+                "ArticleCaption": "（種類変更の許可申請）",
+                "ArticleTitle": "第九条",
+                "Paragraph": [
+                  {
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": "法第八条第一項の規定により種類の変更の許可を受けようとする者は、様式第四の武器種類変更許可申請書を、工場または事業場の所在地を管轄する経済産業局長を経由して、経済産業大臣に提出しなければならない。"
+                    }
+                  },
+                  {
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": "前項の申請書には、左に掲げる書類を添附しなければならない。"
+                    },
+                    "Item": [
+                      {
+                        "@Num": "1",
+                        "ItemTitle": "一",
+                        "ItemSentence": {
+                          "Sentence": "左に掲げる事項を記載した種類変更計画書"
+                        },
+                        "Subitem1": [
+                          {
+                            "@Num": "1",
+                            "Subitem1Title": "イ",
+                            "Subitem1Sentence": {
+                              "Sentence": "当該申請にかかわる武器の種類別の製造計画"
+                            }
+                          },
+                          {
+                            "@Num": "2",
+                            "Subitem1Title": "ロ",
+                            "Subitem1Sentence": {
+                              "Sentence": "当該申請にかかわる武器の種類別の製造のための設備の明細"
+                            }
+                          },
+                          {
+                            "@Num": "3",
+                            "Subitem1Title": "ハ",
+                            "Subitem1Sentence": {
+                              "Sentence": "当該申請にかかわる武器の保管のための設備の明細"
+                            }
+                          },
+                          {
+                            "@Num": "4",
+                            "Subitem1Title": "ニ",
+                            "Subitem1Sentence": {
+                              "Sentence": "当該申請にかかわる武器の製造に要する資金の額およびその調達方法"
+                            }
+                          },
+                          {
+                            "@Num": "5",
+                            "Subitem1Title": "ホ",
+                            "Subitem1Sentence": {
+                              "Sentence": "当該申請にかかわる武器の製造に関する収支見積"
+                            }
+                          },
+                          {
+                            "@Num": "6",
+                            "Subitem1Title": "ヘ",
+                            "Subitem1Sentence": {
+                              "Sentence": "当該申請にかかわる武器の主たる材料、部品または附属品の製造を他に請け負わせ、または委託する場合にあつては、その計画"
+                            }
+                          },
+                          {
+                            "@Num": "7",
+                            "Subitem1Title": "ト",
+                            "Subitem1Sentence": {
+                              "Sentence": "現に行つている事業に変更をきたす場合にあつては、その変更の概要"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "@Num": "2",
+                        "ItemTitle": "二",
+                        "ItemSentence": {
+                          "Sentence": "当該申請にかかわる武器の種類別の製造のための設備および武器の保管のための設備の配置図"
+                        }
+                      },
+                      {
+                        "@Num": "3",
+                        "ItemTitle": "三",
+                        "ItemSentence": {
+                          "Sentence": "現に行つている事業の概要を記載した書類"
+                        }
+                      },
+                      {
+                        "@Num": "4",
+                        "ItemTitle": "四",
+                        "ItemSentence": {
+                          "Sentence": "法人にあつては、最近の財産目録、貸借対照表および損益計算書"
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "@Num": "10",
+                "ArticleCaption": "（特定設備）",
+                "ArticleTitle": "第十条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "法第十条第一項の経済産業省令で定める設備（以下「特定設備」という。）は、別表の工作のための設備の特定設備の項に掲げるものとする。"
+                  }
+                }
+              },
+              {
+                "@Num": "11",
+                "ArticleCaption": "（特定設備の新設等の許可申請）",
+                "ArticleTitle": "第十一条",
+                "Paragraph": [
+                  {
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": "法第十条第一項の規定により特定設備の新設、増設または改造の許可を受けようとする者は、様式第五の特定設備新設等許可申請書を、工場または事業場の所在地を管轄する経済産業局長を経由して、経済産業大臣に提出しなければならない。"
+                    }
+                  },
+                  {
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": "前項の申請書には、左に掲げる書類を添附しなければならない。"
+                    },
+                    "Item": [
+                      {
+                        "@Num": "1",
+                        "ItemTitle": "一",
+                        "ItemSentence": {
+                          "Sentence": "左に掲げる事項を記載した特定設備新設等計画書"
+                        },
+                        "Subitem1": [
+                          {
+                            "@Num": "1",
+                            "Subitem1Title": "イ",
+                            "Subitem1Sentence": {
+                              "Sentence": "当該申請にかかわる武器の種類別の製造計画"
+                            }
+                          },
+                          {
+                            "@Num": "2",
+                            "Subitem1Title": "ロ",
+                            "Subitem1Sentence": {
+                              "Sentence": "当該申請にかかわる特定設備の明細（改造にあつては、改造前と改造後とを対照しやすいように記載すること。）"
+                            }
+                          },
+                          {
+                            "@Num": "3",
+                            "Subitem1Title": "ハ",
+                            "Subitem1Sentence": {
+                              "Sentence": "当該申請にかかわる武器の種類別の製造のための設備（特定設備を除く。）に変更をきたす場合にあつては、その変更の概要"
+                            }
+                          },
+                          {
+                            "@Num": "4",
+                            "Subitem1Title": "ニ",
+                            "Subitem1Sentence": {
+                              "Sentence": "当該申請にかかわる武器の保管のための設備に変更をきたす場合にあつては、その変更の概要"
+                            }
+                          },
+                          {
+                            "@Num": "5",
+                            "Subitem1Title": "ホ",
+                            "Subitem1Sentence": {
+                              "Sentence": "特定設備の新設、増設または改造に要する資金の額およびその調達方法"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "@Num": "2",
+                        "ItemTitle": "二",
+                        "ItemSentence": {
+                          "Sentence": "当該申請にかかわる武器の種類別の製造のための設備の配置図"
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "@Num": "12",
+                "ArticleCaption": "（保管規程の認可申請）",
+                "ArticleTitle": "第十二条",
+                "Paragraph": [
+                  {
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": "法第十一条第一項の規定により保管規程の認可を受けようとする者は、様式第六の保管規程認可申請書に、保管規程（変更する場合にあつては、変更の箇所についての明細を記載した書類）を添附し、工場または事業場の所在地を管轄する経済産業局長を経由して、経済産業大臣に提出しなければならない。"
+                    }
+                  },
+                  {
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": "保管規程は、工場または事業場の事情に応じて、第七条に掲げる事項その他武器の亡失または盗難の防止に関する必要な事項の細目について定めるものとする。"
+                    }
+                  }
+                ]
+              },
+              {
+                "@Num": "13",
+                "ArticleCaption": "（移転の許可申請）",
+                "ArticleTitle": "第十三条",
+                "Paragraph": [
+                  {
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": "法第十二条第一項の規定により工場または事業場の移転の許可を受けようとする者は、様式第七の武器工場等移転許可申請書を、移転後の工場または事業場の所在地を管轄する経済産業局長を経由して、経済産業大臣に提出しなければならない。"
+                    }
+                  },
+                  {
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": "前項の申請書には、左に掲げる書類を添附しなければならない。"
+                    },
+                    "Item": [
+                      {
+                        "@Num": "1",
+                        "ItemTitle": "一",
+                        "ItemSentence": {
+                          "Sentence": "移転後の工場または事業場における武器の種類別の製造のための設備の明細を記載した書類"
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "ItemTitle": "二",
+                        "ItemSentence": {
+                          "Sentence": "移転後の工場または事業場における武器の保管のための設備の明細を記載した書類"
+                        }
+                      },
+                      {
+                        "@Num": "3",
+                        "ItemTitle": "三",
+                        "ItemSentence": {
+                          "Sentence": "移転後の工場または事業場の図面ならびに移転後の工場または事業場における武器の種類別の製造のための設備および武器の保管のための設備の配置図"
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "@Num": "14",
+                "ArticleCaption": "（廃止の届出）",
+                "ArticleTitle": "第十四条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "法第十三条の規定により事業の廃止を届け出ようとする者は、様式第八の武器製造事業廃止届出書を、工場または事業場の所在地を管轄する経済産業局長を経由して、経済産業大臣に提出しなければならない。"
+                  }
+                }
+              },
+              {
+                "@Num": "15",
+                "ArticleCaption": "（契約の届出事項）",
+                "ArticleTitle": "第十五条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "法第十六条第一項の経済産業省令で定める事項は、左の通りとする。"
+                  },
+                  "Item": [
+                    {
+                      "@Num": "1",
+                      "ItemTitle": "一",
+                      "ItemSentence": {
+                        "Sentence": "契約の相手方の氏名または名称および住所"
+                      }
+                    },
+                    {
+                      "@Num": "2",
+                      "ItemTitle": "二",
+                      "ItemSentence": {
+                        "Sentence": "武器の種類別および規格別の数（分割して引き渡す場合にあつては、引渡の期日ごとの数）"
+                      }
+                    },
+                    {
+                      "@Num": "3",
+                      "ItemTitle": "三",
+                      "ItemSentence": {
+                        "Sentence": "対価または報酬の計算の基礎"
+                      }
+                    },
+                    {
+                      "@Num": "4",
+                      "ItemTitle": "四",
+                      "ItemSentence": {
+                        "Sentence": "対価または報酬の改訂ならびに支払の方法および条件に関する契約の条項"
+                      }
+                    },
+                    {
+                      "@Num": "5",
+                      "ItemTitle": "五",
+                      "ItemSentence": {
+                        "Sentence": "契約を履行するために武器の製造にかかわる請負または委託の契約を締結する場合にあつては、左に掲げる事項"
+                      },
+                      "Subitem1": [
+                        {
+                          "@Num": "1",
+                          "Subitem1Title": "イ",
+                          "Subitem1Sentence": {
+                            "Sentence": "契約の相手方の氏名または名称および住所"
+                          }
+                        },
+                        {
+                          "@Num": "2",
+                          "Subitem1Title": "ロ",
+                          "Subitem1Sentence": {
+                            "Sentence": "仕事の内容"
+                          }
+                        },
+                        {
+                          "@Num": "3",
+                          "Subitem1Title": "ハ",
+                          "Subitem1Sentence": {
+                            "Sentence": "報酬ならびに支払の方法および条件"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                }
+              },
+              {
+                "@Num": "16",
+                "ArticleCaption": "（写の提出）",
+                "ArticleTitle": "第十六条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "第三条第一項、第五条、第八条、第九条第一項、第十一条第一項、第十二条第一項、第十三条第一項または第十四条の規定により経済産業局長を経由して経済産業大臣に申請書または届出書を提出する者は、申請書または届出書およびその添附書類の写を工場もしくは事業場の所在地または武器の製造を行う場所を管轄する経済産業局長（第十三条第一項の場合にあつては、移転前および移転後の工場または事業場の所在地を管轄する経済産業局長）に提出しなければならない。"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "@Num": "3",
+            "ChapterTitle": "第三章　猟銃等",
+            "Article": [
+              {
+                "@Num": "17",
+                "ArticleCaption": "（製造事業の許可申請）",
+                "ArticleTitle": "第十七条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "法第十七条第一項の規定により猟銃等の製造の事業の許可を受けようとする者は、様式第九の猟銃等製造事業許可申請書に、工場または事業場の図面を添附し、工場または事業場の所在地を管轄する都道府県知事に提出しなければならない。"
+                  }
+                }
+              },
+              {
+                "@Num": "18",
+                "ArticleCaption": "（製造の許可申請）",
+                "ArticleTitle": "第十八条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "法第十八条但書の規定により猟銃等の製造の許可を受けようとする者は、様式第十の猟銃等製造許可申請書を猟銃等の製造を行う場所を管轄する都道府県知事に提出しなければならない。"
+                  }
+                }
+              },
+              {
+                "@Num": "19",
+                "ArticleCaption": "（販売事業の許可申請）",
+                "ArticleTitle": "第十九条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "法第十九条第一項の規定により猟銃等の販売の事業の許可を受けようとする者は、様式第十一の猟銃等販売事業許可申請書を店舗の所在地を管轄する都道府県知事に提出しなければならない。"
+                  }
+                }
+              },
+              {
+                "@Num": "20",
+                "ArticleCaption": "（保管の要件）",
+                "ArticleTitle": "第二十条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "法第十七条第二項および第十九条第二項において準用する法第五条第一項第二号の経済産業省令で定める要件は、左のとおりとする。"
+                  },
+                  "Item": [
+                    {
+                      "@Num": "1",
+                      "ItemTitle": "一",
+                      "ItemSentence": {
+                        "Sentence": "管理上支障がない場所にあること。"
+                      }
+                    },
+                    {
+                      "@Num": "2",
+                      "ItemTitle": "二",
+                      "ItemSentence": {
+                        "Sentence": "左のイまたはロに該当するものであること。"
+                      },
+                      "Subitem1": [
+                        {
+                          "@Num": "1",
+                          "Subitem1Title": "イ",
+                          "Subitem1Sentence": {
+                            "Sentence": "金属製のロッカーその他堅固な構造を有する収納設備であつて、確実に施錠できる錠を備えているもの"
+                          }
+                        },
+                        {
+                          "@Num": "2",
+                          "Subitem1Title": "ロ",
+                          "Subitem1Sentence": {
+                            "Sentence": "くさり等によつて猟銃等を堅固に固定しうる設備であつて、当該くさり等に確実に施錠できる錠を備えているもの"
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "@Num": "3",
+                      "ItemTitle": "三",
+                      "ItemSentence": {
+                        "Sentence": "保管する猟銃等の数量に応じた収容能力を有すること。"
+                      }
+                    },
+                    {
+                      "@Num": "4",
+                      "ItemTitle": "四",
+                      "ItemSentence": {
+                        "Sentence": "容易に持ち運びできないこと。"
+                      }
+                    },
+                    {
+                      "@Num": "5",
+                      "ItemTitle": "五",
+                      "ItemSentence": {
+                        "Sentence": [
+                          {
+                            "@Function": "main",
+                            "@Num": "1",
+                            "#text": "非常の際外部に通報することのできる装置を備えていること。"
+                          },
+                          {
+                            "@Function": "proviso",
+                            "@Num": "2",
+                            "#text": "ただし、当該保管設備の附近に当該装置を備えている場合は、この限りでない。"
+                          }
+                        ]
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "@Num": "21",
+                "ArticleCaption": "（準用）",
+                "ArticleTitle": "第二十一条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": [
+                      {
+                        "@Num": "1",
+                        "#text": "第八条、第九条第一項、第十三条第一項および第十四条の規定は、猟銃等の製造または販売の事業に準用する。"
+                      },
+                      {
+                        "@Num": "2",
+                        "#text": "この場合において、第八条中「武器製造事業者」とあるのは「猟銃等製造事業者または猟銃等販売事業者」と、「様式第三の武器製造事業承継届出書」とあるのは「様式第十二の猟銃等製造（販売）事業承継届出書」と、「工場または事業場の所在地を管轄する経済産業局長を経由して、経済産業大臣」とあるのは「工場もしくは事業場または店舗の所在地を管轄する都道府県知事」と、第九条第一項中「様式第四の武器種類変更許可申請書」とあるのは「様式第十三の猟銃等種類変更許可申請書」と、「工場または事業場の所在地を管轄する経済産業局長を経由して、経済産業大臣」とあるのは「工場もしくは事業場または店舗の所在地を管轄する都道府県知事」と、第十三条第一項中「工場または事業場」とあるのは「工場もしくは事業場または店舗」と、「様式第七の武器工場等移転許可申請書」とあるのは「様式第十四の猟銃等工場等移転許可申請書」と、「工場または事業場の所在地を管轄する経済産業局長を経由して、経済産業大臣」とあるのは「工場もしくは事業場または店舗の所在地を管轄する都道府県知事」と、第十四条中「様式第八の武器製造事業廃止届出書」とあるのは「様式第十五の猟銃等製造（販売）事業廃止届出書」と、「工場または事業場の所在地を管轄する経済産業局長を経由して、経済産業大臣」とあるのは「工場もしくは事業場または店舗の所在地を管轄する都道府県知事」と読み替えるものとする。"
+                      }
+                    ]
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "@Num": "4",
+            "ChapterTitle": "第四章　雑則",
+            "Article": [
+              {
+                "@Num": "22",
+                "ArticleCaption": "（帳簿の記載事項）",
+                "ArticleTitle": "第二十二条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "法第二十三条の経済産業省令で定める事項は、武器又は猟銃等の種類別及び規格別に次に掲げるものとする。"
+                  },
+                  "Item": [
+                    {
+                      "@Num": "1",
+                      "ItemTitle": "一",
+                      "ItemSentence": {
+                        "Sentence": "製造をし、引き渡し、又は引渡を受けた武器又は猟銃等の数"
+                      }
+                    },
+                    {
+                      "@Num": "2",
+                      "ItemTitle": "二",
+                      "ItemSentence": {
+                        "Sentence": "武器又は猟銃等を製造し、引き渡し、又はその引渡を受けた年月日"
+                      }
+                    },
+                    {
+                      "@Num": "3",
+                      "ItemTitle": "三",
+                      "ItemSentence": {
+                        "Sentence": "武器又は猟銃等を引き渡し、又はその引渡を受けた相手方の氏名又は名称及び住所"
+                      }
+                    },
+                    {
+                      "@Num": "4",
+                      "ItemTitle": "四",
+                      "ItemSentence": {
+                        "Sentence": "引き渡し、又は引渡を受けた猟銃等の製造番号"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "@Num": "22_2",
+                "ArticleCaption": "（電磁的方法による記録）",
+                "ArticleTitle": "第二十二条の二",
+                "Paragraph": [
+                  {
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": "前条各号に掲げる事項が、電磁的方法（電子的方法、磁気的方法その他の人の知覚によつて認識することができない方法をいう。）により記録され、必要に応じ電子計算機その他の機器を用いて直ちに表示されることができるときは、当該記録をもつて法第二十三条に規定する当該事項が記載された帳簿に代えることができる。"
+                    }
+                  },
+                  {
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": "前項の規定による記録をする場合には、経済産業大臣が定める基準を確保するよう努めなければならない。"
+                    }
+                  }
+                ]
+              },
+              {
+                "@Num": "23",
+                "ArticleCaption": "（証票）",
+                "ArticleTitle": "第二十三条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "法第二十五条第三項の証票の様式は、様式第十六の通りとする。"
+                  }
+                }
+              },
+              {
+                "@Num": "24",
+                "ArticleCaption": "（意見の聴取）",
+                "ArticleTitle": "第二十四条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "法第三十条第一項の意見の聴取（経済産業大臣がした処分に係るものに限る。）は、行政不服審査法（平成二十六年法律第六十八号）第十一条第二項に規定する審理員が議長として主宰する意見聴取会によつて行う。"
+                  }
+                }
+              },
+              {
+                "@Num": "25",
+                "ArticleTitle": "第二十五条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "議長は、前条の意見聴取会を開こうとするときは、その期日の一週間前までに、意見聴取会の期日、場所及び事案の内容を審査請求人及び参加人に通知し、かつ、公示する。"
+                  }
+                }
+              },
+              {
+                "@Num": "26",
+                "ArticleTitle": "第二十六条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "議長は、必要があると認めるときは、関係行政庁の職員、学識経験のある者その他の参考人に意見聴取会への出席を求めることができる。"
+                  }
+                }
+              },
+              {
+                "@Num": "27",
+                "ArticleTitle": "第二十七条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "利害関係人（参加人を除く。以下第三十二条において同じ。）又はその代理人として意見聴取会に出席しようとする者は、文書をもつて、当該事案について利害関係があることを疎明しなければならない。"
+                  }
+                }
+              },
+              {
+                "@Num": "28",
+                "ArticleTitle": "第二十八条",
+                "Paragraph": [
+                  {
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": "意見聴取会においては、議長は、最初に審査請求人又はその代理人に審査請求の要旨及び理由を陳述させなければならない。"
+                    }
+                  },
+                  {
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": "意見聴取会においては、審査請求人又はその代理人が出席しないときは、議長は、審査請求書の朗読をもつて前項の規定による陳述に代えることができる。"
+                    }
+                  }
+                ]
+              },
+              {
+                "@Num": "29",
+                "ArticleTitle": "第二十九条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "議長は、意見聴取会の秩序を維持するために必要があるときは、その秩序を乱し、又は不穏な言動をする者を退去させることができる。"
+                  }
+                }
+              },
+              {
+                "@Num": "30",
+                "ArticleTitle": "第三十条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": [
+                      {
+                        "@Num": "1",
+                        "#text": "議長は、必要があると認めるときは、意見聴取会を延期し、又は続行することができる。"
+                      },
+                      {
+                        "@Num": "2",
+                        "#text": "この場合においては、議長は、次回の期日及び場所を定め、関係人に通知しなければならない。"
+                      }
+                    ]
+                  }
+                }
+              },
+              {
+                "@Num": "31",
+                "ArticleTitle": "第三十一条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "意見聴取会においては、次に掲げる事項を記載した調書を作成し、当該調書に議長が記名押印しなければならない。"
+                  },
+                  "Item": [
+                    {
+                      "@Num": "1",
+                      "ItemTitle": "一",
+                      "ItemSentence": {
+                        "Sentence": "事案の表示"
+                      }
+                    },
+                    {
+                      "@Num": "2",
+                      "ItemTitle": "二",
+                      "ItemSentence": {
+                        "Sentence": "意見聴取会の期日及び場所"
+                      }
+                    },
+                    {
+                      "@Num": "3",
+                      "ItemTitle": "三",
+                      "ItemSentence": {
+                        "Sentence": "議長の職名及び氏名"
+                      }
+                    },
+                    {
+                      "@Num": "4",
+                      "ItemTitle": "四",
+                      "ItemSentence": {
+                        "Sentence": "審査請求人又は出席したその代理人の氏名及び住所"
+                      }
+                    },
+                    {
+                      "@Num": "5",
+                      "ItemTitle": "五",
+                      "ItemSentence": {
+                        "Sentence": "出席した利害関係人又はその代理人の氏名及び住所"
+                      }
+                    },
+                    {
+                      "@Num": "6",
+                      "ItemTitle": "六",
+                      "ItemSentence": {
+                        "Sentence": "出席した参考人の氏名及び住所"
+                      }
+                    },
+                    {
+                      "@Num": "7",
+                      "ItemTitle": "七",
+                      "ItemSentence": {
+                        "Sentence": "陳述の要旨"
+                      }
+                    },
+                    {
+                      "@Num": "8",
+                      "ItemTitle": "八",
+                      "ItemSentence": {
+                        "Sentence": "証拠が提示されたときは、その旨及び証拠の標目"
+                      }
+                    },
+                    {
+                      "@Num": "9",
+                      "ItemTitle": "九",
+                      "ItemSentence": {
+                        "Sentence": "前各号に掲げる事項のほか、意見聴取会の経過に関する主要な事項"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "@Num": "32",
+                "ArticleTitle": "第三十二条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "審査請求人、参加人若しくは第二十七条の規定による疎明をした利害関係人又はこれらの代理人は、当該事案に関する調書を閲覧することができる。"
+                  }
+                }
+              },
+              {
+                "@Num": "33",
+                "ArticleTitle": "第三十三条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "削除"
+                  }
+                }
+              },
+              {
+                "@Num": "34",
+                "ArticleCaption": "（フレキシブルディスクによる手続）",
+                "ArticleTitle": "第三十四条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "次の表の上欄に掲げる書類の提出については、当該書類に記載すべきこととされている事項を同表の下欄に掲げる様式により記録したフレキシブルディスク及び様式第十七のフレキシブルディスク提出票を提出することにより行うことができる。"
+                  },
+                  "TableStruct": {
+                    "Table": {
+                      "TableRow": [
+                        {
+                          "TableColumn": [
+                            {
+                              "Sentence": "第三条第一項の武器製造事業許可申請書並びに同条第二項第一号、第三号及び第四号に掲げる添付書類（同号に掲げる定款を除く。）"
+                            },
+                            {
+                              "Sentence": "様式第十八"
+                            }
+                          ]
+                        },
+                        {
+                          "TableColumn": [
+                            {
+                              "Sentence": "第五条の武器製造許可申請書及び添付書類"
+                            },
+                            {
+                              "Sentence": "様式第十九"
+                            }
+                          ]
+                        },
+                        {
+                          "TableColumn": [
+                            {
+                              "Sentence": "第八条の武器製造事業承継届出書"
+                            },
+                            {
+                              "Sentence": "様式第二十"
+                            }
+                          ]
+                        },
+                        {
+                          "TableColumn": [
+                            {
+                              "Sentence": "第九条第一項の武器種類変更許可申請書並びに同条第二項第一号、第三号及び第四号に掲げる添付書類"
+                            },
+                            {
+                              "Sentence": "様式第二十一"
+                            }
+                          ]
+                        },
+                        {
+                          "TableColumn": [
+                            {
+                              "Sentence": "第十一条第一項の特定設備新設等許可申請書及び同条第二項第一号に掲げる添付書類"
+                            },
+                            {
+                              "Sentence": "様式第二十二"
+                            }
+                          ]
+                        },
+                        {
+                          "TableColumn": [
+                            {
+                              "Sentence": "第十二条第一項の保管規程認可申請書及び保管規程"
+                            },
+                            {
+                              "Sentence": "様式第二十三"
+                            }
+                          ]
+                        },
+                        {
+                          "TableColumn": [
+                            {
+                              "Sentence": "第十三条第一項の武器工場等移転許可申請書並びに同条第二項第一号及び第二号に掲げる添付書類"
+                            },
+                            {
+                              "Sentence": "様式第二十四"
+                            }
+                          ]
+                        },
+                        {
+                          "TableColumn": [
+                            {
+                              "Sentence": "第十四条の武器製造事業廃止届出書"
+                            },
+                            {
+                              "Sentence": "様式第二十五"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                }
+              },
+              {
+                "@Num": "35",
+                "ArticleCaption": "（フレキシブルディスクの構造）",
+                "ArticleTitle": "第三十五条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "前条のフレキシブルディスクは、次の各号のいずれかに該当するものでなければならない。"
+                  },
+                  "Item": [
+                    {
+                      "@Num": "1",
+                      "ItemTitle": "一",
+                      "ItemSentence": {
+                        "Sentence": "工業標準化法（昭和二十四年法律第百八十五号）に基づく日本工業規格（以下「日本工業規格」という。）Ｘ六二二一に適合する九十ミリメートルフレキシブルディスクカートリッジ"
+                      }
+                    },
+                    {
+                      "@Num": "2",
+                      "ItemTitle": "二",
+                      "ItemSentence": {
+                        "Sentence": "日本工業規格Ｘ六二二三に適合する九十ミリメートルフレキシブルディスクカートリッジ"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "@Num": "36",
+                "ArticleCaption": "（フレキシブルディスクの記録方式）",
+                "ArticleTitle": "第三十六条",
+                "Paragraph": [
+                  {
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": "第三十四条の規定によるフレキシブルディスクへの記録は、次に掲げる方式に従つてしなければならない。"
+                    },
+                    "Item": [
+                      {
+                        "@Num": "1",
+                        "ItemTitle": "一",
+                        "ItemSentence": {
+                          "Sentence": "トラックフォーマットについては、前条第一号のフレキシブルディスクに記録する場合にあつては日本工業規格Ｘ六二二二に、同条第二号のフレキシブルディスクに記録する場合にあつては日本工業規格Ｘ六二二五に規定する方式"
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "ItemTitle": "二",
+                        "ItemSentence": {
+                          "Sentence": "ボリューム及びファイル構成については、日本工業規格Ｘ〇六〇五に規定する方式"
+                        }
+                      },
+                      {
+                        "@Num": "3",
+                        "ItemTitle": "三",
+                        "ItemSentence": {
+                          "Sentence": "文字の符号化表現については、日本工業規格Ｘ〇二〇八附属書一に規定する方式"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": "第三十四条の規定によるフレキシブルディスクへの記録は、日本工業規格Ｘ〇二〇一及びＸ〇二〇八に規定する図形文字並びに日本工業規格Ｘ〇二一一に規定する制御文字のうち「復帰」及び「改行」を用いてしなければならない。"
+                    }
+                  }
+                ]
+              },
+              {
+                "@Num": "37",
+                "ArticleCaption": "（フレキシブルディスクにはり付ける書面）",
+                "ArticleTitle": "第三十七条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "第三十四条のフレキシブルディスクには、日本工業規格Ｘ六二二一又はＸ六二二三に規定するラベル領域に、次に掲げる事項を記載した書面をはり付けなければならない。"
+                  },
+                  "Item": [
+                    {
+                      "@Num": "1",
+                      "ItemTitle": "一",
+                      "ItemSentence": {
+                        "Sentence": "提出者の氏名又は名称"
+                      }
+                    },
+                    {
+                      "@Num": "2",
+                      "ItemTitle": "二",
+                      "ItemSentence": {
+                        "Sentence": "提出年月日"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "@Num": "38",
+                "ArticleCaption": "（条例等に係る適用除外）",
+                "ArticleTitle": "第三十八条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "第十七条から第十九条まで、第二十一条及び第二十三条（都道府県知事の事務に係る部分に限る。）の規定は、都道府県の条例、規則その他の定めがあるときは、その限度において適用しない。"
+                  }
+                }
+              }
+            ]
+          }
+        ]
+      },
+      "SupplProvision": [
+        {
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この省令は、法の施行の日（昭和二十八年九月一日）から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "昭和二九年七月一五日通商産業省令第四〇号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この省令は、公布の日から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "昭和三七年一〇月一日通商産業省令第一一三号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": [
+            {
+              "@Num": "1",
+              "ParagraphNum": "１",
+              "ParagraphSentence": {
+                "Sentence": "この省令は、公布の日から施行する。"
+              }
+            },
+            {
+              "@Num": "2",
+              "ParagraphNum": "２",
+              "ParagraphSentence": {
+                "Sentence": [
+                  {
+                    "@Function": "main",
+                    "@Num": "1",
+                    "#text": "この省令による改正後の規定は、この省令の施行前にされた行政庁の処分その他この省令の施行前に生じた事項についても、適用する。"
+                  },
+                  {
+                    "@Function": "proviso",
+                    "@Num": "2",
+                    "#text": "ただし、この省令による改正前の規定によつて生じた効力を妨げない。"
+                  }
+                ]
+              }
+            },
+            {
+              "@Num": "3",
+              "ParagraphNum": "３",
+              "ParagraphSentence": {
+                "Sentence": "この省令の施行前にされた異議の申立その他の不服申立てについては、この省令の施行後も、なお従前の例による。"
+              }
+            }
+          ]
+        },
+        {
+          "@AmendLawNum": "昭和三八年五月一一日通商産業省令第五九号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": [
+            {
+              "@Num": "1",
+              "ParagraphNum": "１",
+              "ParagraphSentence": {
+                "Sentence": "この省令は、公布の日から施行する。"
+              }
+            },
+            {
+              "@Num": "2",
+              "ParagraphNum": "２",
+              "ParagraphSentence": {
+                "Sentence": "この省令の施行の際現に火薬類が入つていない普通信管または火薬類が入つていない時計信管をその製造する武器の種類として製造の許可を受けている者は、火薬類が入つていない機械信管を武器の種類として許可を受けた者とみなす。"
+              }
+            }
+          ]
+        },
+        {
+          "@AmendLawNum": "昭和三九年八月二二日通商産業省令第八一号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この省令は、公布の日から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "昭和四二年一月一二日通商産業省令第一号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この省令は、公布の日から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "昭和四三年二月一四日通商産業省令第一五号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この省令は、公布の日から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "昭和四六年五月一日通商産業省令第四七号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この省令は、昭和四十六年十月二十日から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成四年一月三一日通商産業省令第四号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この省令は、平成四年二月一日から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成六年九月三〇日通商産業省令第六六号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphCaption": "（施行期日）",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この省令は、行政手続法の施行の日（平成六年十月一日）から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成八年三月一五日通商産業省令第一四号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": [
+                {
+                  "@Function": "main",
+                  "@Num": "1",
+                  "#text": "この省令は、平成八年四月一日から施行する。"
+                },
+                {
+                  "@Function": "proviso",
+                  "@Num": "2",
+                  "#text": "ただし、様式第一から様式第一五までの改正規定は、公布の日から施行する。"
+                }
+              ]
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成九年三月二七日通商産業省令第三九号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この省令は、公布の日から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成九年四月九日通商産業省令第六七号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この省令は、公布の日から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成一〇年三月三〇日通商産業省令第三四号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Article": {
+            "@Num": "1",
+            "ArticleTitle": "第一条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "この省令は、平成十年四月一日から施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成一二年三月三〇日通商産業省令第五三号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": [
+            {
+              "@Num": "1",
+              "ParagraphNum": "１",
+              "ParagraphSentence": {
+                "Sentence": "この省令は、平成十二年四月一日から施行する。"
+              }
+            },
+            {
+              "@Num": "2",
+              "ParagraphNum": "２",
+              "ParagraphSentence": {
+                "Sentence": "この省令の施行前にされた武器等製造法第三十条の規定による審査請求に係る意見の聴取に関する手続については、この省令の施行後も、なお従前の例による。"
+              }
+            }
+          ]
+        },
+        {
+          "@AmendLawNum": "平成一二年一〇月一三日通商産業省令第二二二号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この省令は、平成十三年一月六日から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成一三年三月二九日経済産業省令第九九号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphCaption": "（施行期日）",
+            "ParagraphNum": "１",
+            "ParagraphSentence": {
+              "Sentence": "この省令は、商法等の一部を改正する法律及び商法等の一部を改正する法律の施行に伴う関係法律の整備に関する法律の施行の日（平成十三年四月一日）から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成一四年三月二六日経済産業省令第四二号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": [
+            {
+              "@Num": "1",
+              "ParagraphNum": "１",
+              "ParagraphSentence": {
+                "Sentence": "この省令は、平成十四年三月二十六日から施行する。"
+              }
+            },
+            {
+              "@Num": "2",
+              "ParagraphNum": "２",
+              "ParagraphSentence": {
+                "Sentence": "この省令の施行の際現に武器等製造法第三条の許可を受けている武器製造事業者の製造のための設備に係る技術上の基準の適用については、この省令の施行の日から三月間は、なお従前の例によることができる。"
+              }
+            }
+          ]
+        },
+        {
+          "@AmendLawNum": "平成二八年三月二九日経済産業省令第四三号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この省令は、平成二十八年四月一日から施行する。"
+            }
+          }
+        }
+      ],
+      "AppdxTable": {
+        "AppdxTableTitle": "別表",
+        "Item": {
+          "@Num": "1",
+          "ItemTitle": null,
+          "ItemSentence": {
+            "Sentence": "武器の製造のための設備についての技術上の基準"
+          },
+          "Subitem1": [
+            {
+              "@Num": "1",
+              "Subitem1Title": "（１）",
+              "Subitem1Sentence": {
+                "Sentence": "次表の武器の種類の項に掲げる武器の製造のための設備は、同表の工作のための設備及び検査のための設備の項に掲げる機械、器具若しくは装置（以下「基準設備」という。）又は基準設備と異なる設備であつて、これと同様な機能を有する旨の経済産業大臣の承認を受けたものを含むこと。"
+              }
+            },
+            {
+              "@Num": "2",
+              "Subitem1Title": "（２）",
+              "Subitem1Sentence": {
+                "Sentence": "基準設備は、次表の武器の種類の項に掲げる武器の製造を行うのに適当な性能を有するものであること。"
+              },
+              "TableStruct": {
+                "Table": {
+                  "TableRow": [
+                    {
+                      "TableColumn": [
+                        {
+                          "@rowspan": "2",
+                          "Sentence": "武器の種類"
+                        },
+                        {
+                          "@colspan": "2",
+                          "Sentence": "工作のための設備"
+                        },
+                        {
+                          "@rowspan": "2",
+                          "Sentence": "検査のための設備"
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "Sentence": "特定設備"
+                        },
+                        {
+                          "Sentence": "一般設備"
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "Sentence": "けん銃"
+                        },
+                        {
+                          "Sentence": [
+                            "深孔ボール盤",
+                            "銃身リーマ盤",
+                            "銃身ライフル盤",
+                            "銃身ラップ盤"
+                          ]
+                        },
+                        {
+                          "Sentence": [
+                            "旋盤",
+                            "ボール盤",
+                            "フライス盤",
+                            "研削盤",
+                            "形削盤"
+                          ]
+                        },
+                        {
+                          "Sentence": [
+                            "かたさ試験機",
+                            "衝撃値試験機",
+                            "引張強さ試験機",
+                            "ブロックゲージ",
+                            "精密比較測長機",
+                            "ばね試験機",
+                            "銃孔測定器"
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "Sentence": "小銃"
+                        },
+                        {
+                          "@rowspan": "2",
+                          "Sentence": [
+                            "深孔ボール盤",
+                            "銃身リーマ盤",
+                            "銃身ライフル盤（切削により製造する場合に限る。）",
+                            "銃身旋盤",
+                            "銃身ラップ盤（切削により製造する場合に限る。）",
+                            "冷間鍛造機（鍛造により製造する場合に限る。）"
+                          ]
+                        },
+                        {
+                          "Sentence": [
+                            "旋盤",
+                            "ボール盤",
+                            "中ぐり盤",
+                            "フライス盤",
+                            "研削盤",
+                            "立削盤",
+                            "形削盤"
+                          ]
+                        },
+                        {
+                          "@rowspan": "2",
+                          "Sentence": [
+                            "かたさ試験機",
+                            "衝撃値試験機",
+                            "引張強さ試験機",
+                            "ブロックゲージ",
+                            "精密比較測長機",
+                            "ばね試験機",
+                            "銃孔測定器",
+                            "銃孔検査器"
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "Sentence": "機関銃"
+                        },
+                        {
+                          "Sentence": [
+                            "旋盤",
+                            "ボール盤",
+                            "中ぐり盤",
+                            "フライス盤",
+                            "研削盤",
+                            "立削盤",
+                            "形削盤",
+                            "溶接装置"
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "Sentence": "小口径砲"
+                        },
+                        {
+                          "Sentence": [
+                            "砲身中ぐり盤又は深孔ボール盤",
+                            "砲身ホーニング盤又は銃身リーマ盤",
+                            "砲身ライフル盤"
+                          ]
+                        },
+                        {
+                          "@rowspan": "3",
+                          "Sentence": [
+                            "旋盤",
+                            "ボール盤",
+                            "中ぐり盤",
+                            "フライス盤",
+                            "研削盤",
+                            "立削盤",
+                            "形削盤",
+                            "平削盤",
+                            "溶接装置"
+                          ]
+                        },
+                        {
+                          "@rowspan": "3",
+                          "Sentence": [
+                            "金属顕微鏡",
+                            "かたさ試験機",
+                            "衝撃値試験機",
+                            "引張強さ試験機",
+                            "ブロックゲージ",
+                            "精密比較測長機",
+                            "ばね試験機",
+                            "砲孔測定器",
+                            "砲孔検査器"
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "Sentence": "中口径砲"
+                        },
+                        {
+                          "@rowspan": "2",
+                          "Sentence": [
+                            "砲身中ぐり盤",
+                            "砲身ホーニング盤",
+                            "砲身ライフル盤",
+                            "砲身旋盤"
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": {
+                        "Sentence": "大口径砲"
+                      }
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "Sentence": "迫撃砲"
+                        },
+                        {
+                          "Sentence": [
+                            "砲身中ぐり盤",
+                            "砲身ホーニング盤"
+                          ]
+                        },
+                        {
+                          "Sentence": [
+                            "旋盤",
+                            "ボール盤",
+                            "中ぐり盤",
+                            "フライス盤",
+                            "研削盤",
+                            "形削盤"
+                          ]
+                        },
+                        {
+                          "Sentence": [
+                            "かたさ試験機",
+                            "衝撃値試験機",
+                            "引張強さ試験機",
+                            "ブロックゲージ",
+                            "精密比較測長機",
+                            "砲孔測定器",
+                            "砲孔検査器"
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "Sentence": "銃弾"
+                        },
+                        {
+                          "Sentence": "てん薬装弾機"
+                        },
+                        {
+                          "Sentence": [
+                            "雷管かん入機",
+                            "雷管かしめ機",
+                            "雷管塗装機",
+                            "口締め機",
+                            "きよう口塗装機"
+                          ]
+                        },
+                        {
+                          "Sentence": [
+                            "感度試験機",
+                            "安定度試験機",
+                            "銃弾重量検査機",
+                            "銃弾全長検査機",
+                            "銃弾全形検査機",
+                            "抜弾抗力試験機"
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "Sentence": "第１種砲弾"
+                        },
+                        {
+                          "Sentence": [
+                            "装薬自動ひよう量機",
+                            "弾丸薬きよう結合機"
+                          ]
+                        },
+                        {
+                          "Sentence": [
+                            "爆薬用ひよう量機",
+                            "爆薬圧搾機",
+                            "雷管かん入機",
+                            "雷管かしめ機",
+                            "雷管塗装機",
+                            "口締め機",
+                            "きよう口塗装機"
+                          ]
+                        },
+                        {
+                          "Sentence": [
+                            "化学分析装置",
+                            "感度試験機",
+                            "安定度試験機",
+                            "発火試験装置",
+                            "銃弾重量検査機",
+                            "銃弾全長検査機",
+                            "銃弾全形検査機",
+                            "抜弾抗力試験機"
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "Sentence": "第２種砲弾"
+                        },
+                        {
+                          "Sentence": "防護装置を施した圧搾プレス"
+                        },
+                        {
+                          "Sentence": "爆薬用ひよう量機"
+                        },
+                        {
+                          "@rowspan": "3",
+                          "Sentence": [
+                            "化学分析装置",
+                            "感度試験機",
+                            "安定度試験機",
+                            "信管衝撃振動試験機",
+                            "発火試験装置",
+                            "はかり"
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "Sentence": "第３種砲弾"
+                        },
+                        {
+                          "Sentence": "爆薬溶融装置"
+                        },
+                        {
+                          "Sentence": "爆薬注入装置"
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "Sentence": "第４種砲弾"
+                        },
+                        {
+                          "Sentence": "充てん装置"
+                        },
+                        {
+                          "Sentence": "充てん物用ひよう量機"
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "Sentence": "第１種爆発物"
+                        },
+                        {
+                          "Sentence": "防護装置を施した圧搾プレス"
+                        },
+                        {
+                          "Sentence": "爆薬用ひよう量機"
+                        },
+                        {
+                          "@rowspan": "3",
+                          "Sentence": [
+                            "化学分析装置",
+                            "感度試験機",
+                            "安定度試験機",
+                            "発火試験装置",
+                            "はかり"
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "Sentence": "第２種爆発物"
+                        },
+                        {
+                          "Sentence": "爆薬溶融装置"
+                        },
+                        {
+                          "Sentence": "爆薬注入装置"
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "Sentence": "第３種爆発物"
+                        },
+                        {
+                          "Sentence": "充てん装置"
+                        },
+                        {
+                          "Sentence": "充てん物用ひよう量機"
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "Sentence": "ロケット弾発射機"
+                        },
+                        {
+                          "Sentence": null
+                        },
+                        {
+                          "Sentence": [
+                            "旋盤",
+                            "ボール盤",
+                            "中ぐり盤（金属製発射筒を有する発射機を製造する場合に限る。）",
+                            "フライス盤",
+                            "溶接装置（組立構造の金属製発射筒を有する発射機を製造する場合に限る。）"
+                          ]
+                        },
+                        {
+                          "Sentence": [
+                            "かたさ試験機",
+                            "衝撃値試験機",
+                            "引張強さ試験機",
+                            "ブロックゲージ",
+                            "精密比較測長機",
+                            "発射筒内面検査装置（発射筒（組立構造のものを除く。）を有する発射機を製造する場合に限る。）"
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "Sentence": "爆雷投射機"
+                        },
+                        {
+                          "Sentence": null
+                        },
+                        {
+                          "Sentence": [
+                            "旋盤",
+                            "ボール盤",
+                            "中ぐり盤",
+                            "フライス盤"
+                          ]
+                        },
+                        {
+                          "Sentence": [
+                            "かたさ試験機",
+                            "衝撃値試験機",
+                            "引張強さ試験機",
+                            "ブロックゲージ",
+                            "精密比較測長機"
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "Sentence": "魚雷発射管"
+                        },
+                        {
+                          "Sentence": "案内みぞ切削機（切削により製造する場合に限る。）"
+                        },
+                        {
+                          "Sentence": [
+                            "旋盤",
+                            "ボール盤",
+                            "中ぐり盤",
+                            "フライス盤",
+                            "立削盤",
+                            "形削盤",
+                            "平削盤",
+                            "溶接装置"
+                          ]
+                        },
+                        {
+                          "Sentence": [
+                            "かたさ試験機",
+                            "衝撃値試験機",
+                            "引張強さ試験機",
+                            "ブロックゲージ",
+                            "精密比較測長機"
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "Sentence": "爆弾投下器"
+                        },
+                        {
+                          "Sentence": null
+                        },
+                        {
+                          "Sentence": [
+                            "旋盤",
+                            "ボール盤",
+                            "フライス盤",
+                            "立削盤",
+                            "形削盤",
+                            "溶接装置"
+                          ]
+                        },
+                        {
+                          "Sentence": [
+                            "かたさ試験機",
+                            "衝撃値試験機",
+                            "引張強さ試験機",
+                            "ブロックゲージ",
+                            "精密比較測長機",
+                            "ばね試験機",
+                            "振動試験機"
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "Sentence": "銃剣"
+                        },
+                        {
+                          "Sentence": null
+                        },
+                        {
+                          "Sentence": [
+                            "ボール盤",
+                            "フライス盤",
+                            "研削盤"
+                          ]
+                        },
+                        {
+                          "Sentence": [
+                            "かたさ試験機",
+                            "衝撃値試験機",
+                            "引張強さ試験機"
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "Sentence": "火炎発射機"
+                        },
+                        {
+                          "Sentence": null
+                        },
+                        {
+                          "Sentence": [
+                            "旋盤",
+                            "ボール盤",
+                            "フライス盤",
+                            "立削盤",
+                            "形削盤",
+                            "溶接装置"
+                          ]
+                        },
+                        {
+                          "Sentence": [
+                            "かたさ試験機",
+                            "衝撃値試験機",
+                            "引張強さ試験機",
+                            "ブロックゲージ",
+                            "精密比較測長機"
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "Sentence": "銃砲を搭載する構造を有する車両であつて、無限軌道装置により走行するもの"
+                        },
+                        {
+                          "Sentence": [
+                            "車台工作用フライス盤",
+                            "車台工作用平削盤"
+                          ]
+                        },
+                        {
+                          "Sentence": [
+                            "旋盤",
+                            "ボール盤",
+                            "中ぐり盤",
+                            "フライス盤",
+                            "研削盤",
+                            "立削盤",
+                            "形削盤",
+                            "溶接装置"
+                          ]
+                        },
+                        {
+                          "Sentence": [
+                            "金属顕微鏡",
+                            "かたさ試験機",
+                            "衝撃値試験機",
+                            "引張強さ試験機",
+                            "ブロックゲージ",
+                            "精密比較測長機"
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "Sentence": "けん銃の銃身"
+                        },
+                        {
+                          "Sentence": [
+                            "深孔ボール盤",
+                            "銃身リーマ盤",
+                            "銃身ライフル盤",
+                            "銃身ラップ盤"
+                          ]
+                        },
+                        {
+                          "@rowspan": "3",
+                          "Sentence": [
+                            "旋盤",
+                            "ボール盤",
+                            "フライス盤",
+                            "研削盤"
+                          ]
+                        },
+                        {
+                          "Sentence": [
+                            "かたさ試験機",
+                            "衝撃値試験機",
+                            "引張強さ試験機",
+                            "ブロックゲージ",
+                            "精密比較測長機",
+                            "銃孔測定器"
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "Sentence": "小銃の銃身"
+                        },
+                        {
+                          "@rowspan": "2",
+                          "Sentence": [
+                            "深孔ボール盤",
+                            "銃身リーマ盤",
+                            "銃身ライフル盤（切削により製造する場合に限る。）",
+                            "銃身旋盤",
+                            "銃身ラップ盤（切削により製造する場合に限る。）",
+                            "冷間鍛造機（鍛造により製造する場合に限る。）"
+                          ]
+                        },
+                        {
+                          "@rowspan": "2",
+                          "Sentence": [
+                            "かたさ試験機",
+                            "衝撃値試験機",
+                            "引張強さ試験機",
+                            "ブロックゲージ",
+                            "精密比較測長機",
+                            "銃孔測定器",
+                            "銃孔検査器"
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": {
+                        "Sentence": "機関銃の銃身"
+                      }
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "Sentence": "けん銃の機関部体"
+                        },
+                        {
+                          "@rowspan": "3",
+                          "Sentence": null
+                        },
+                        {
+                          "Sentence": [
+                            "旋盤",
+                            "ボール盤",
+                            "フライス盤",
+                            "研削盤",
+                            "形削盤",
+                            "陽極酸化被膜処理設備"
+                          ]
+                        },
+                        {
+                          "@rowspan": "3",
+                          "Sentence": [
+                            "かたさ試験機",
+                            "衝撃値試験機",
+                            "引張強さ試験機",
+                            "ブロックゲージ",
+                            "精密比較測長機"
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "Sentence": "けん銃の回転弾倉"
+                        },
+                        {
+                          "Sentence": [
+                            "旋盤",
+                            "ボール盤",
+                            "フライス盤",
+                            "研削盤",
+                            "形削盤"
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "Sentence": "けん銃のスライド"
+                        },
+                        {
+                          "Sentence": [
+                            "旋盤",
+                            "ボール盤",
+                            "フライス盤",
+                            "研削盤",
+                            "形削盤",
+                            "熱処理設備"
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "Sentence": "機関銃の銃架"
+                        },
+                        {
+                          "Sentence": null
+                        },
+                        {
+                          "Sentence": [
+                            "旋盤",
+                            "ボール盤",
+                            "フライス盤",
+                            "研削盤（しゆう動面を有するものを製造する場合に限る。）",
+                            "立削盤",
+                            "形削盤",
+                            "溶接装置"
+                          ]
+                        },
+                        {
+                          "Sentence": [
+                            "かたさ試験機",
+                            "衝撃値試験機",
+                            "引張強さ試験機",
+                            "ブロックゲージ",
+                            "精密比較測長機"
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "Sentence": "小口径砲の砲身"
+                        },
+                        {
+                          "Sentence": [
+                            "砲身中ぐり盤又は深孔ボール盤",
+                            "砲身ホーニング盤又は銃身リーマ盤",
+                            "砲身ライフル盤"
+                          ]
+                        },
+                        {
+                          "Sentence": [
+                            "旋盤",
+                            "ボール盤",
+                            "フライス盤",
+                            "研削盤",
+                            "立削盤",
+                            "形削盤"
+                          ]
+                        },
+                        {
+                          "@rowspan": "3",
+                          "Sentence": [
+                            "金属顕微鏡",
+                            "かたさ試験機",
+                            "衝撃値試験機",
+                            "引張強さ試験機",
+                            "ブロックゲージ",
+                            "精密比較測長機",
+                            "砲孔測定器",
+                            "砲孔検査器"
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "Sentence": "中口径砲の砲身"
+                        },
+                        {
+                          "@rowspan": "2",
+                          "Sentence": [
+                            "砲身中ぐり盤",
+                            "砲身ホーニング盤",
+                            "砲身ライフル盤",
+                            "砲身旋盤"
+                          ]
+                        },
+                        {
+                          "@rowspan": "2",
+                          "Sentence": [
+                            "旋盤",
+                            "ボール盤",
+                            "フライス盤",
+                            "研削盤",
+                            "立削盤",
+                            "形削盤",
+                            "平削盤"
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": {
+                        "Sentence": "大口径砲の砲身"
+                      }
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "Sentence": "迫撃砲の砲身"
+                        },
+                        {
+                          "Sentence": [
+                            "砲身中ぐり盤",
+                            "砲身ホーニング盤"
+                          ]
+                        },
+                        {
+                          "Sentence": [
+                            "旋盤",
+                            "ボール盤",
+                            "フライス盤",
+                            "研削盤"
+                          ]
+                        },
+                        {
+                          "Sentence": [
+                            "かたさ試験機",
+                            "衝撃値試験機",
+                            "引張強さ試験機",
+                            "ブロックゲージ",
+                            "精密比較測長機",
+                            "砲孔測定器",
+                            "砲孔検査器"
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "Sentence": "小口径砲の砲架"
+                        },
+                        {
+                          "@rowspan": "3",
+                          "Sentence": null
+                        },
+                        {
+                          "Sentence": [
+                            "旋盤",
+                            "ボール盤",
+                            "中ぐり盤",
+                            "フライス盤",
+                            "研削盤（しゆう動面を有するものを製造する場合に限る。）",
+                            "立削盤",
+                            "形削盤",
+                            "溶接装置"
+                          ]
+                        },
+                        {
+                          "@rowspan": "3",
+                          "Sentence": [
+                            "金属顕微鏡",
+                            "かたさ試験機",
+                            "衝撃値試験機",
+                            "引張強さ試験機",
+                            "ブロックゲージ",
+                            "精密比較測長機",
+                            "ばね試験機"
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "Sentence": "中口径砲の砲架"
+                        },
+                        {
+                          "@rowspan": "2",
+                          "Sentence": [
+                            "旋盤",
+                            "ボール盤",
+                            "中ぐり盤",
+                            "フライス盤",
+                            "研削盤（しゆう動面を有するものを製造する場合に限る。）",
+                            "立削盤",
+                            "形削盤",
+                            "平削盤",
+                            "溶接装置"
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": {
+                        "Sentence": "大口径砲の砲架"
+                      }
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "Sentence": "銃弾の弾丸"
+                        },
+                        {
+                          "Sentence": [
+                            "先付け機",
+                            "弾丸結合機"
+                          ]
+                        },
+                        {
+                          "Sentence": [
+                            "熱処理設備",
+                            "圧伸機",
+                            "鉛しん圧成機",
+                            "定長機",
+                            "面取り機",
+                            "みぞ付け機"
+                          ]
+                        },
+                        {
+                          "Sentence": [
+                            "かたさ試験機",
+                            "引張強さ試験機",
+                            "ブロックゲージ",
+                            "精密比較測長機",
+                            "被甲寸法検査機",
+                            "被甲重量検査機",
+                            "鉛しん重量検査機",
+                            "弾丸寸法検査機",
+                            "弾丸重量検査機"
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "Sentence": "切削弾体"
+                        },
+                        {
+                          "Sentence": null
+                        },
+                        {
+                          "Sentence": [
+                            "熱処理設備",
+                            "銅環締付け機",
+                            "旋盤"
+                          ]
+                        },
+                        {
+                          "@rowspan": "6",
+                          "Sentence": [
+                            "かたさ試験機",
+                            "衝撃値試験機",
+                            "引張強さ試験機",
+                            "ブロックゲージ",
+                            "精密比較測長機",
+                            "はかり"
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "Sentence": "小型搾出弾体"
+                        },
+                        {
+                          "@rowspan": "3",
+                          "Sentence": "搾出プレス"
+                        },
+                        {
+                          "@rowspan": "3",
+                          "Sentence": [
+                            "加熱炉",
+                            "機械プレス又は液圧プレス",
+                            "熱処理設備",
+                            "旋盤",
+                            "銅環締付け機"
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": {
+                        "Sentence": "中型搾出弾体"
+                      }
+                    },
+                    {
+                      "TableColumn": {
+                        "Sentence": "大型搾出弾体"
+                      }
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "Sentence": "溶接弾体"
+                        },
+                        {
+                          "Sentence": null
+                        },
+                        {
+                          "Sentence": [
+                            "機械プレス又は液圧プレス",
+                            "旋盤",
+                            "溶接装置"
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "Sentence": "鋳造弾体"
+                        },
+                        {
+                          "Sentence": "鋳造設備"
+                        },
+                        {
+                          "Sentence": [
+                            "熱処理設備",
+                            "旋盤",
+                            "銅環締付け機"
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "Sentence": "小型薬きよう"
+                        },
+                        {
+                          "Sentence": [
+                            "圧底機（金属製のものを製造する場合に限る。）",
+                            "きよう口絞り機（金属製のものを製造する場合に限る。）",
+                            "射出成形機（合成樹脂製のものを製造する場合に限る。）"
+                          ]
+                        },
+                        {
+                          "Sentence": [
+                            "熱処理設備（金属製のものを製造する場合に限る。）",
+                            "圧伸機（金属製のものを製造する場合に限る。）",
+                            "きよう口焼鈍機（金属製のものを製造する場合に限る。）",
+                            "点火口打抜き機（金属製のものを製造する場合に限る。）",
+                            "定長機（金属製のものを製造する場合に限る。）",
+                            "面取り機（金属製のものを製造する場合に限る。）",
+                            "起縁加工機（金属製のものを製造する場合に限る。）",
+                            "金型温度調節機（合成樹脂製のものを製造する場合に限る。）"
+                          ]
+                        },
+                        {
+                          "Sentence": [
+                            "かたさ試験機（金属製のものを製造する場合に限る。）",
+                            "引張強さ試験機（金属製のものを製造する場合に限る。）",
+                            "ブロックゲージ（金属製のものを製造する場合に限る。）",
+                            "精密比較測長機（金属製のものを製造する場合に限る。）",
+                            "薬きよう寸法検査機"
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "Sentence": "中型薬きよう"
+                        },
+                        {
+                          "@rowspan": "2",
+                          "Sentence": [
+                            "圧底プレス（金属製のものを製造する場合に限る。）",
+                            "きよう口絞りプレス（金属製のものを製造する場合に限る。）"
+                          ]
+                        },
+                        {
+                          "@rowspan": "2",
+                          "Sentence": [
+                            "熱処理設備（金属製のものを製造する場合に限る。）",
+                            "機械プレス又は液圧プレス（金属製のものを製造する場合に限る。）",
+                            "きよう口焼鈍炉（金属製のものを製造する場合に限る。）",
+                            "薬きよう旋盤（金属製のものを製造する場合に限る。）",
+                            "圧搾装置（焼尽製のものを製造する場合に限る。）"
+                          ]
+                        },
+                        {
+                          "@rowspan": "2",
+                          "Sentence": [
+                            "かたさ試験機（金属製のものを製造する場合に限る。）",
+                            "引張強さ試験機（金属製のものを製造する場合に限る。）",
+                            "ブロックゲージ",
+                            "精密比較測長機"
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": {
+                        "Sentence": "大型薬きよう"
+                      }
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "Sentence": "火薬類が入つていない機械信管"
+                        },
+                        {
+                          "Sentence": null
+                        },
+                        {
+                          "Sentence": [
+                            "旋盤",
+                            "ボール盤",
+                            "フライス盤",
+                            "治具中ぐり盤（時計信管を製造する場合に限る。）",
+                            "歯切り盤（時計信管を製造する場合に限る。）",
+                            "機械プレス（時計信管を製造する場合に限る。）"
+                          ]
+                        },
+                        {
+                          "Sentence": [
+                            "かたさ試験機",
+                            "衝撃値試験機又は加速度試験機",
+                            "引張強さ試験機",
+                            "ブロックゲージ",
+                            "精密比較測長機",
+                            "ばね試験機（ばねを有する構造のものを製造する場合に限る。）",
+                            "振動試験機",
+                            "信管衝撃試験機",
+                            "測秒試験機（時計信管を製造する場合に限る。）",
+                            "水密試験装置（水中武器用機械信管を製造する場合に限る。）",
+                            "水圧試験装置（水中武器用機械信管を製造する場合に限る。）"
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "Sentence": "火薬類が入つていない電気信管"
+                        },
+                        {
+                          "Sentence": null
+                        },
+                        {
+                          "Sentence": null
+                        },
+                        {
+                          "Sentence": [
+                            "かたさ試験機",
+                            "衝撃値試験機又は加速度試験機",
+                            "引張強さ試験機",
+                            "ブロックゲージ",
+                            "精密比較測長機",
+                            "振動試験機",
+                            "水密試験装置（水中武器用電気信管を製造する場合に限る。）",
+                            "水圧試験装置（水中武器用電気信管を製造する場合に限る。）"
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "Sentence": "ロケット弾の弾体"
+                        },
+                        {
+                          "Sentence": null
+                        },
+                        {
+                          "Sentence": [
+                            "旋盤",
+                            "ボール盤",
+                            "フライス盤",
+                            "機械プレス若しくは液圧プレス又はベンディングロール（溶接により製造する場合に限る。）",
+                            "溶接装置（溶接により製造する場合に限る。）",
+                            "回転塑性加工装置（回転塑性加工により製造する場合に限る。）",
+                            "熱処理設備"
+                          ]
+                        },
+                        {
+                          "Sentence": [
+                            "かたさ試験機",
+                            "衝撃値試験機",
+                            "ブロックゲージ",
+                            "精密比較測長機",
+                            "引張強さ試験機",
+                            "重心測定装置",
+                            "水圧試験装置（溶接により製造する場合に限る。）",
+                            "探傷装置（溶接により製造する場合に限る。）"
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "Sentence": "手りゆう弾の弾体"
+                        },
+                        {
+                          "Sentence": "シーミング機"
+                        },
+                        {
+                          "Sentence": [
+                            "スプリング機",
+                            "旋盤",
+                            "ボール盤"
+                          ]
+                        },
+                        {
+                          "Sentence": [
+                            "かたさ試験機",
+                            "引張強さ試験機"
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "Sentence": "地雷の外殻"
+                        },
+                        {
+                          "Sentence": null
+                        },
+                        {
+                          "Sentence": [
+                            "旋盤",
+                            "ボール盤",
+                            "機械プレス又は液圧プレス"
+                          ]
+                        },
+                        {
+                          "Sentence": [
+                            "かたさ試験機",
+                            "引張強さ試験機"
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "Sentence": "爆雷の外殻"
+                        },
+                        {
+                          "Sentence": null
+                        },
+                        {
+                          "Sentence": [
+                            "旋盤",
+                            "ボール盤",
+                            "機械プレス又は液圧プレス",
+                            "ベンディングロール",
+                            "溶接装置"
+                          ]
+                        },
+                        {
+                          "Sentence": [
+                            "かたさ試験機",
+                            "引張強さ試験機",
+                            "水圧試験装置"
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "Sentence": "機雷の本体の外殻"
+                        },
+                        {
+                          "Sentence": null
+                        },
+                        {
+                          "Sentence": [
+                            "旋盤",
+                            "ボール盤",
+                            "機械プレス又は液圧プレス",
+                            "溶接装置"
+                          ]
+                        },
+                        {
+                          "Sentence": [
+                            "かたさ試験機",
+                            "引張強さ試験機",
+                            "水圧試験装置"
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "Sentence": "魚雷の気室"
+                        },
+                        {
+                          "Sentence": "搾出プレス（搾出により製造する場合に限る。）"
+                        },
+                        {
+                          "Sentence": [
+                            "旋盤",
+                            "中ぐり盤",
+                            "加熱炉（搾出により製造する場合に限る。）",
+                            "熱処理設備"
+                          ]
+                        },
+                        {
+                          "Sentence": [
+                            "金属顕微鏡",
+                            "かたさ試験機",
+                            "衝撃値試験機",
+                            "引張強さ試験機",
+                            "水圧試験装置"
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "Sentence": "爆弾の弾体"
+                        },
+                        {
+                          "Sentence": null
+                        },
+                        {
+                          "Sentence": [
+                            "旋盤",
+                            "ボール盤",
+                            "ベンディングロール又は機械プレス若しくは液圧プレス",
+                            "溶接装置"
+                          ]
+                        },
+                        {
+                          "Sentence": [
+                            "かたさ試験機",
+                            "引張強さ試験機"
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        }
+      },
+      "AppdxStyle": [
+        {
+          "AppdxStyleTitle": "様式第１",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/S28F03801000043-001.pdf"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": "様式第２",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/S28F03801000043-002.pdf"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": "様式第３",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/S28F03801000043-003.pdf"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": "様式第４",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/S28F03801000043-004.pdf"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": "様式第５",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/S28F03801000043-005.pdf"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": "様式第６",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/S28F03801000043-006.pdf"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": "様式第７",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/S28F03801000043-007.pdf"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": "様式第８",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/S28F03801000043-008.pdf"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": "様式第９",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/S28F03801000043-009.pdf"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": "様式第１０",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/S28F03801000043-010.pdf"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": "様式第１１",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/S28F03801000043-011.pdf"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": "様式第１２",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/S28F03801000043-012.pdf"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": "様式第１３",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/S28F03801000043-013.pdf"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": "様式第１４",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/S28F03801000043-014.pdf"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": "様式第１５",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/S28F03801000043-015.pdf"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": "様式第１６",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/S28F03801000043-016.pdf"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": "様式第１７",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/S28F03801000043-017.pdf"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": "様式第１８",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/S28F03801000043-018.pdf"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": "様式第１９",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/S28F03801000043-019.pdf"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": "様式第２０",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/S28F03801000043-020.pdf"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": "様式第２１",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/S28F03801000043-021.pdf"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": "様式第２２",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/S28F03801000043-022.pdf"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": "様式第２３",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/S28F03801000043-023.pdf"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": "様式第２４",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/S28F03801000043-024.pdf"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": "様式第２５",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/S28F03801000043-025.pdf"
+              }
+            }
+          }
+        }
+      ]
+    }
+  }
+}

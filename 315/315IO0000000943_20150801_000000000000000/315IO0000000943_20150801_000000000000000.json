@@ -1,0 +1,91 @@
+{
+  "Law": {
+    "@Era": "Showa",
+    "@Lang": "ja",
+    "@LawType": "ImperialOrder",
+    "@Num": "943",
+    "@Year": "15",
+    "LawNum": "昭和十五年勅令第九百四十三号",
+    "LawBody": {
+      "LawTitle": "昭和十五年勅令第九百四十三号（農村負債整理組合法第八条ノ規定ニ依リ同法第十一条ノ事業ヲ行フコトヲ得ル法人ヲ定ムルノ件）",
+      "MainProvision": {
+        "Paragraph": {
+          "@Hide": "false",
+          "@Num": "1",
+          "ParagraphNum": null,
+          "ParagraphSentence": {
+            "Sentence": {
+              "@WritingMode": "vertical",
+              "#text": "農村負債整理組合法第八条ノ規定ニ依リ同法第十一条ノ事業ヲ行フコトヲ得ル法人左ノ通定ム"
+            }
+          },
+          "List": [
+            {
+              "ListSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "農事実行組合"
+                }
+              }
+            },
+            {
+              "ListSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "漁業協同組合"
+                }
+              }
+            },
+            {
+              "ListSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "出資漁業会"
+                }
+              }
+            }
+          ]
+        }
+      },
+      "SupplProvision": [
+        {
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "本令ハ公布ノ日ヨリ之ヲ施行ス"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "昭和一八年九月一〇日勅令第七〇五号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "第六章　附則",
+          "Article": {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "84",
+            "ArticleCaption": "第一節　施行期日",
+            "ArticleTitle": "第八十四条",
+            "Paragraph": {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "本令ハ昭和十八年九月十一日ヨリ之ヲ施行ス"
+                }
+              }
+            }
+          }
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,702 @@
+{
+  "Law": {
+    "@Era": "Heisei",
+    "@Lang": "ja",
+    "@LawType": "Act",
+    "@Num": "38",
+    "@Year": "23",
+    "LawNum": "平成二十三年法律第三十八号",
+    "LawBody": {
+      "LawTitle": "国と地方の協議の場に関する法律",
+      "MainProvision": {
+        "Article": [
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "1",
+            "ArticleCaption": "（目的）",
+            "ArticleTitle": "第一条",
+            "Paragraph": {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "国と地方の協議の場（以下「協議の場」という。）は、地方自治に影響を及ぼす国の政策の企画及び立案並びに実施について、関係各大臣並びに都道府県知事、都道府県議会の議長、市長、市議会の議長、町村長及び町村議会の議長の全国的連合組織の代表者が協議を行い、もって内閣府設置法（平成十一年法律第八十九号）第四条第一項第十二号の改革の推進並びに国及び地方公共団体の政策の効果的かつ効率的な推進を図ることを目的とする。"
+                }
+              }
+            }
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "2",
+            "ArticleCaption": "（構成及び運営）",
+            "ArticleTitle": "第二条",
+            "Paragraph": [
+              {
+                "@Hide": "false",
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "協議の場は、次に掲げる者をもって構成する。"
+                  }
+                },
+                "Item": [
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "1",
+                    "ItemTitle": "一",
+                    "ItemSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "内閣官房長官"
+                      }
+                    }
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "2",
+                    "ItemTitle": "二",
+                    "ItemSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "内閣府設置法第九条第一項の規定により置かれた特命担当大臣のうち、同法第四条第一項第十二号の改革に関する事務を掌理する職にある者"
+                      }
+                    }
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "3",
+                    "ItemTitle": "三",
+                    "ItemSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "総務大臣"
+                      }
+                    }
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "4",
+                    "ItemTitle": "四",
+                    "ItemSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "財務大臣"
+                      }
+                    }
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "5",
+                    "ItemTitle": "五",
+                    "ItemSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "前各号に掲げる者のほか、国務大臣のうちから内閣総理大臣が指定する者"
+                      }
+                    }
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "6",
+                    "ItemTitle": "六",
+                    "ItemSentence": {
+                      "Column": [
+                        {
+                          "@LineBreak": "false",
+                          "@Num": "1",
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "都道府県知事の全国的連合組織（地方自治法（昭和二十二年法律第六十七号）第二百六十三条の三第一項に規定する全国的連合組織で同項の規定による届出をしたものをいう。以下同じ。）を代表する者"
+                          }
+                        },
+                        {
+                          "@LineBreak": "false",
+                          "@Num": "2",
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "一人"
+                          }
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "7",
+                    "ItemTitle": "七",
+                    "ItemSentence": {
+                      "Column": [
+                        {
+                          "@LineBreak": "false",
+                          "@Num": "1",
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "都道府県議会の議長の全国的連合組織を代表する者"
+                          }
+                        },
+                        {
+                          "@LineBreak": "false",
+                          "@Num": "2",
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "一人"
+                          }
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "8",
+                    "ItemTitle": "八",
+                    "ItemSentence": {
+                      "Column": [
+                        {
+                          "@LineBreak": "false",
+                          "@Num": "1",
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "市長の全国的連合組織を代表する者"
+                          }
+                        },
+                        {
+                          "@LineBreak": "false",
+                          "@Num": "2",
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "一人"
+                          }
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "9",
+                    "ItemTitle": "九",
+                    "ItemSentence": {
+                      "Column": [
+                        {
+                          "@LineBreak": "false",
+                          "@Num": "1",
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "市議会の議長の全国的連合組織を代表する者"
+                          }
+                        },
+                        {
+                          "@LineBreak": "false",
+                          "@Num": "2",
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "一人"
+                          }
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "10",
+                    "ItemTitle": "十",
+                    "ItemSentence": {
+                      "Column": [
+                        {
+                          "@LineBreak": "false",
+                          "@Num": "1",
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "町村長の全国的連合組織を代表する者"
+                          }
+                        },
+                        {
+                          "@LineBreak": "false",
+                          "@Num": "2",
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "一人"
+                          }
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "11",
+                    "ItemTitle": "十一",
+                    "ItemSentence": {
+                      "Column": [
+                        {
+                          "@LineBreak": "false",
+                          "@Num": "1",
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "町村議会の議長の全国的連合組織を代表する者"
+                          }
+                        },
+                        {
+                          "@LineBreak": "false",
+                          "@Num": "2",
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "一人"
+                          }
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "@Hide": "false",
+                "@Num": "2",
+                "ParagraphNum": "２",
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "協議の場に、議長、議長代行及び副議長を置く。"
+                  }
+                }
+              },
+              {
+                "@Hide": "false",
+                "@Num": "3",
+                "ParagraphNum": "３",
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "議長及び議長代行は、第一項第一号から第五号までに掲げる者のうちから、内閣総理大臣が指定する者をもって充てる。"
+                  }
+                }
+              },
+              {
+                "@Hide": "false",
+                "@Num": "4",
+                "ParagraphNum": "４",
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "副議長は、第一項第六号から第十一号までに掲げる者が互選した者をもって充てる。"
+                  }
+                }
+              },
+              {
+                "@Hide": "false",
+                "@Num": "5",
+                "ParagraphNum": "５",
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "議長は、協議の場を主宰するほか、この法律の規定によりその権限に属させられた事項を処理するものとする。"
+                  }
+                }
+              },
+              {
+                "@Hide": "false",
+                "@Num": "6",
+                "ParagraphNum": "６",
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "議長代行は、議長に事故があるとき又は議長の委任を受けたときは、その職務を代行する。"
+                  }
+                }
+              },
+              {
+                "@Hide": "false",
+                "@Num": "7",
+                "ParagraphNum": "７",
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "副議長は、議長及び議長代行を補佐し、議長及び議長代行に事故があるときは、その職務を代行する。"
+                  }
+                }
+              },
+              {
+                "@Hide": "false",
+                "@Num": "8",
+                "ParagraphNum": "８",
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "議長は、必要があると認めるときは、国務大臣又は全国的連合組織の指定する地方公共団体の長若しくは議会の議長であって議員（第一項各号に掲げる者をいう。以下同じ。）でないものを、議案を限って、臨時に協議の場に参加させることができる。"
+                  }
+                }
+              },
+              {
+                "@Hide": "false",
+                "@Num": "9",
+                "ParagraphNum": "９",
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "副議長は、必要があると認めるときは、議長に対し、全国的連合組織の指定する地方公共団体の長又は議会の議長であって議員でないものを、議案を限って、臨時に協議の場に参加させるよう求めることができる。"
+                  }
+                }
+              },
+              {
+                "@Hide": "false",
+                "@Num": "10",
+                "ParagraphNum": "10",
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "内閣総理大臣は、いつでも協議の場に出席し発言することができる。"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "3",
+            "ArticleCaption": "（協議の対象）",
+            "ArticleTitle": "第三条",
+            "Paragraph": {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "協議の場において協議の対象となる事項は、次に掲げる事項のうち重要なものとする。"
+                }
+              },
+              "Item": [
+                {
+                  "@Delete": "false",
+                  "@Hide": "false",
+                  "@Num": "1",
+                  "ItemTitle": "一",
+                  "ItemSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "国と地方公共団体との役割分担に関する事項"
+                    }
+                  }
+                },
+                {
+                  "@Delete": "false",
+                  "@Hide": "false",
+                  "@Num": "2",
+                  "ItemTitle": "二",
+                  "ItemSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "地方行政、地方財政、地方税制その他の地方自治に関する事項"
+                    }
+                  }
+                },
+                {
+                  "@Delete": "false",
+                  "@Hide": "false",
+                  "@Num": "3",
+                  "ItemTitle": "三",
+                  "ItemSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "経済財政政策、社会保障に関する政策、教育に関する政策、社会資本整備に関する政策その他の国の政策に関する事項のうち、地方自治に影響を及ぼすと考えられるもの"
+                    }
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "4",
+            "ArticleCaption": "（招集等）",
+            "ArticleTitle": "第四条",
+            "Paragraph": [
+              {
+                "@Hide": "false",
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": [
+                    {
+                      "@Function": "main",
+                      "@Num": "1",
+                      "@WritingMode": "vertical",
+                      "#text": "内閣総理大臣は、毎年度、議長が協議の場に諮って定める回数、協議の場を招集する。"
+                    },
+                    {
+                      "@Function": "proviso",
+                      "@Num": "2",
+                      "@WritingMode": "vertical",
+                      "#text": "ただし、内閣総理大臣は、協議の必要があると認めるときは、臨時に協議の場を招集することができる。"
+                    }
+                  ]
+                }
+              },
+              {
+                "@Hide": "false",
+                "@Num": "2",
+                "ParagraphNum": "２",
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "前項の協議の場の招集は、協議すべき具体的事項を示してしなければならない。"
+                  }
+                }
+              },
+              {
+                "@Hide": "false",
+                "@Num": "3",
+                "ParagraphNum": "３",
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "議員は、前条に規定する事項について協議する必要があると思料するときは、内閣総理大臣に対し、協議すべき具体的事項を示して、協議の場の招集を求めることができる。"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "5",
+            "ArticleCaption": "（分科会）",
+            "ArticleTitle": "第五条",
+            "Paragraph": [
+              {
+                "@Hide": "false",
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "議長は、協議の場における協議に資するため、分科会を開催し、特定の事項に関する調査及び検討を行わせることができる。"
+                  }
+                }
+              },
+              {
+                "@Hide": "false",
+                "@Num": "2",
+                "ParagraphNum": "２",
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "議員（議長である議員を除く。）は、協議の場における協議に資するため必要があると思料するときは、議長に対し、前項の分科会の開催を求めることができる。"
+                  }
+                }
+              },
+              {
+                "@Hide": "false",
+                "@Num": "3",
+                "ParagraphNum": "３",
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "第一項の分科会の開催、構成及び運営に関し必要な事項は、議長が協議の場に諮って定める。"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "6",
+            "ArticleCaption": "（資料提出の要求等）",
+            "ArticleTitle": "第六条",
+            "Paragraph": [
+              {
+                "@Hide": "false",
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "議長は、協議の場における協議又は分科会における調査及び検討のため必要があると認めるときは、関係行政機関の長並びに関係地方公共団体の長及び議会の議長に対し、資料の提出、意見の開陳、説明その他必要な協力を求めることができる。"
+                  }
+                }
+              },
+              {
+                "@Hide": "false",
+                "@Num": "2",
+                "ParagraphNum": "２",
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "前項に定めるもののほか、議長は、協議の場における協議又は分科会における調査及び検討のため特に必要があると認めるときは、協議の対象となる事項に関し識見を有する者に対し、必要な協力を依頼することができる。"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "7",
+            "ArticleCaption": "（国会への報告）",
+            "ArticleTitle": "第七条",
+            "Paragraph": [
+              {
+                "@Hide": "false",
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "議長は、協議の場の終了後遅滞なく、協議の場における協議の概要を記載した報告書を作成し、国会に提出しなければならない。"
+                  }
+                }
+              },
+              {
+                "@Hide": "false",
+                "@Num": "2",
+                "ParagraphNum": "２",
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "前項の報告書の作成に関し必要な事項は、議長が協議の場に諮って定める。"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "8",
+            "ArticleCaption": "（協議の結果の尊重）",
+            "ArticleTitle": "第八条",
+            "Paragraph": {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "協議の場において協議が調った事項については、議員及び第二条第八項の規定により協議の場に参加した者は、その協議の結果を尊重しなければならない。"
+                }
+              }
+            }
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "9",
+            "ArticleCaption": "（経費の負担）",
+            "ArticleTitle": "第九条",
+            "Paragraph": {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "協議の場の運営に要する経費は、政府及び全国的連合組織の負担とする。"
+                }
+              }
+            }
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "10",
+            "ArticleCaption": "（雑則）",
+            "ArticleTitle": "第十条",
+            "Paragraph": {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "この法律に定めるもののほか、協議の場の運営に関し必要な事項は、議長が協議の場に諮って定める。"
+                }
+              }
+            }
+          }
+        ]
+      },
+      "SupplProvision": [
+        {
+          "@Type": "New",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この法律は、公布の日から施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成二五年一二月一三日法律第一〇七号",
+          "@Extract": "true",
+          "@Type": "Amend",
+          "SupplProvisionLabel": "附　則",
+          "Article": {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "1",
+            "ArticleCaption": "（施行期日）",
+            "ArticleTitle": "第一条",
+            "Paragraph": {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "この法律は、公布の日から施行する。"
+                }
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成二七年九月一一日法律第六六号",
+          "@Type": "Amend",
+          "SupplProvisionLabel": "附　則",
+          "Article": {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "1",
+            "ArticleCaption": "（施行期日）",
+            "ArticleTitle": "第一条",
+            "Paragraph": {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "この法律は、平成二十八年四月一日から施行する。"
+                }
+              }
+            }
+          }
+        }
+      ]
+    }
+  }
+}

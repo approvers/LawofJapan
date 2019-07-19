@@ -1,0 +1,70 @@
+{
+  "Law": {
+    "@Era": "Heisei",
+    "@Lang": "ja",
+    "@LawType": "CabinetOrder",
+    "@Num": "320",
+    "@Year": "04",
+    "LawNum": "平成四年政令第三百二十号",
+    "LawBody": {
+      "LawTitle": "老人福祉法等の一部を改正する法律の一部の施行に伴う経過措置に関する政令",
+      "EnactStatement": "内閣は、老人福祉法等の一部を改正する法律（平成二年法律第五十八号）附則第二十二条の規定に基づき、この政令を制定する。",
+      "MainProvision": {
+        "Article": [
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "1",
+            "ArticleCaption": "（身体障害者福祉法の一部改正に伴う経過措置）",
+            "ArticleTitle": "第一条",
+            "Paragraph": {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "平成四年度以前の年度の老人福祉法等の一部を改正する法律第四条の規定による改正前の身体障害者福祉法（昭和二十四年法律第二百八十三号）第三十七条第一項又は第三十七条の二第一項第五号の規定による都道府県又は国の負担については、なお従前の例による。"
+                }
+              }
+            }
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "2",
+            "ArticleCaption": "（精神薄弱者福祉法の一部改正に伴う経過措置）",
+            "ArticleTitle": "第二条",
+            "Paragraph": {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "平成四年度以前の年度の老人福祉法等の一部を改正する法律第六条の規定による改正前の精神薄弱者福祉法（昭和三十五年法律第三十七号）第二十五条第一項又は第二十六条第二項の規定による都道府県又は国の負担については、なお従前の例による。"
+                }
+              }
+            }
+          }
+        ]
+      },
+      "SupplProvision": {
+        "@Extract": "false",
+        "@Type": "New",
+        "SupplProvisionLabel": "附　則",
+        "Paragraph": {
+          "@Hide": "false",
+          "@Num": "1",
+          "ParagraphNum": null,
+          "ParagraphSentence": {
+            "Sentence": {
+              "@WritingMode": "vertical",
+              "#text": "この政令は、平成五年四月一日から施行する。"
+            }
+          }
+        }
+      }
+    }
+  }
+}

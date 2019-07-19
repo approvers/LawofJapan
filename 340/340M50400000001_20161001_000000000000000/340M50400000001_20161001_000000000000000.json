@@ -1,0 +1,64 @@
+{
+  "Law": {
+    "@Era": "Showa",
+    "@Lang": "ja",
+    "@LawType": "Rule",
+    "@Num": "1",
+    "@Year": "40",
+    "LawNum": "昭和四十年国家公安委員会規則第一号",
+    "LawBody": {
+      "LawTitle": "国家公安委員会公印規則",
+      "EnactStatement": "国家公安委員会公印規則を次のように定める。",
+      "MainProvision": {
+        "Paragraph": [
+          {
+            "@Num": "1",
+            "ParagraphNum": "１",
+            "ParagraphSentence": {
+              "Sentence": "国家公安委員会委員長および国家公安委員会の公印の制式は、次のとおりとする。"
+            },
+            "FigStruct": {
+              "FigStructTitle": "図",
+              "Fig": {
+                "@src": "./pict/S40F30301000001-001.pdf"
+              }
+            }
+          },
+          {
+            "@Num": "2",
+            "ParagraphNum": "２",
+            "ParagraphSentence": {
+              "Sentence": "国家公安委員会委員長および国家公安委員会の公印の保管その他必要な事項は、警察庁長官が定める。"
+            }
+          }
+        ]
+      },
+      "SupplProvision": {
+        "SupplProvisionLabel": "附　則",
+        "Paragraph": [
+          {
+            "@Num": "1",
+            "ParagraphNum": "１",
+            "ParagraphSentence": {
+              "Sentence": "この規則は、昭和四十年四月一日から施行する。"
+            }
+          },
+          {
+            "@Num": "2",
+            "ParagraphNum": "２",
+            "ParagraphSentence": {
+              "Sentence": "国家公安委員会公印規程（昭和三十二年国家公安委員会規程第一号）は、廃止する。"
+            }
+          },
+          {
+            "@Num": "3",
+            "ParagraphNum": "３",
+            "ParagraphSentence": {
+              "Sentence": "この規則の施行の際現に使用している国家公安委員会の公印については、この規則の規定にかかわらず、当分の間なおこれを使用することができる。"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

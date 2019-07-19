@@ -1,0 +1,62 @@
+{
+  "Law": {
+    "@Era": "Showa",
+    "@Lang": "ja",
+    "@LawType": "Rule",
+    "@Num": "",
+    "@Year": "24",
+    "LawNum": "昭和二十四年人事院規則二―〇",
+    "LawBody": {
+      "LawTitle": "人事院規則二―〇（人事官の宣誓）",
+      "EnactStatement": "人事院は、国家公務員法に基き、人事官の宣誓に関し次の人事院規則を制定する。",
+      "MainProvision": {
+        "Paragraph": [
+          {
+            "@Num": "1",
+            "ParagraphNum": "１",
+            "ParagraphSentence": {
+              "Sentence": "法第六条第一項の規定による宣誓は、次の通りとする。"
+            },
+            "StyleStruct": {
+              "Style": {
+                "Table": {
+                  "TableRow": {
+                    "TableColumn": {
+                      "@BorderBottom": "none",
+                      "@BorderLeft": "none",
+                      "@BorderRight": "none",
+                      "@BorderTop": "none",
+                      "Sentence": [
+                        "宣　誓",
+                        "私は、ここに主権が国民に存することを認める日本国憲法に服従し、且つ、これを擁護することを厳かに宣言します。",
+                        "私は、国民全体の奉仕者として公務を民主的且つ能率的に運営すべき責務を深く自覚し、国民の意志によつて制定された法律を尊重し、誠実且つ公正に職務を執行することを固く誓います。",
+                        "年　月　日"
+                      ]
+                    }
+                  }
+                }
+              }
+            }
+          },
+          {
+            "@Num": "2",
+            "ParagraphNum": "２",
+            "ParagraphSentence": {
+              "Sentence": "最高裁判所事務総長及び人事院事務総長は、前項の宣誓に立ち会わなければならない。"
+            }
+          }
+        ]
+      },
+      "SupplProvision": {
+        "SupplProvisionLabel": "附　則",
+        "Paragraph": {
+          "@Num": "3",
+          "ParagraphNum": "３",
+          "ParagraphSentence": {
+            "Sentence": "人事委員の宣誓に関する人事委員会規則（昭和二十三年人事委員会規則第一号）は、廃止する。"
+          }
+        }
+      }
+    }
+  }
+}

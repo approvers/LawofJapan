@@ -1,0 +1,71 @@
+{
+  "Law": {
+    "@Era": "Showa",
+    "@Lang": "ja",
+    "@LawType": "Rule",
+    "@Num": "",
+    "@Year": "24",
+    "LawNum": "昭和二十四年人事院規則一四―五",
+    "LawBody": {
+      "LawTitle": "人事院規則一四―五（公選による公職）",
+      "EnactStatement": "人事院は、国家公務員法に基き、公選による公職に関し次の人事院規則を制定する。",
+      "MainProvision": {
+        "Paragraph": {
+          "@Num": "1",
+          "ParagraphNum": null,
+          "ParagraphSentence": {
+            "Sentence": "法及び規則中公選による公職とは、次に掲げるものの職とする。"
+          },
+          "Item": [
+            {
+              "@Num": "1",
+              "ItemTitle": "一",
+              "ItemSentence": {
+                "Sentence": "衆議院議員"
+              }
+            },
+            {
+              "@Num": "2",
+              "ItemTitle": "二",
+              "ItemSentence": {
+                "Sentence": "参議院議員"
+              }
+            },
+            {
+              "@Num": "3",
+              "ItemTitle": "三",
+              "ItemSentence": {
+                "Sentence": "地方公共団体の長"
+              }
+            },
+            {
+              "@Num": "4",
+              "ItemTitle": "四",
+              "ItemSentence": {
+                "Sentence": "地方公共団体の議会の議員"
+              }
+            },
+            {
+              "@Num": "5",
+              "ItemTitle": "五",
+              "ItemSentence": {
+                "Sentence": "海区漁業調整委員会の委員（選挙によることなく選任される委員を除く。）"
+              }
+            }
+          ]
+        }
+      },
+      "SupplProvision": {
+        "@AmendLawNum": "平成二七年一〇月二八日人事院規則一四―五―五",
+        "SupplProvisionLabel": "附　則",
+        "Paragraph": {
+          "@Num": "1",
+          "ParagraphNum": null,
+          "ParagraphSentence": {
+            "Sentence": "この規則は、平成二十八年四月一日から施行する。"
+          }
+        }
+      }
+    }
+  }
+}

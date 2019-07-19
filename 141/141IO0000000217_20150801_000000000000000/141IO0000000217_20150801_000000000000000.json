@@ -1,0 +1,53 @@
+{
+  "Law": {
+    "@Era": "Meiji",
+    "@Lang": "ja",
+    "@LawType": "ImperialOrder",
+    "@Num": "217",
+    "@Year": "41",
+    "LawNum": "明治四十一年勅令第二百十七号",
+    "LawBody": {
+      "LawTitle": "明治四十一年勅令第二百十七号（刑法施行前ニ公布シタル命令ニ関スル件）",
+      "MainProvision": {
+        "Paragraph": {
+          "@Hide": "false",
+          "@Num": "1",
+          "ParagraphNum": null,
+          "ParagraphSentence": {
+            "Sentence": {
+              "@WritingMode": "vertical",
+              "#text": "刑法施行法中他ノ法律ニ関スル規定ハ刑法施行前ニ公布シタル命令ニ之ヲ準用ス"
+            }
+          }
+        }
+      },
+      "SupplProvision": {
+        "SupplProvisionLabel": "附　則",
+        "Paragraph": [
+          {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphNum": "○１",
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "本令ハ明治四十一年十月一日ヨリ之ヲ施行ス"
+              }
+            }
+          },
+          {
+            "@Hide": "false",
+            "@Num": "2",
+            "ParagraphNum": "○２",
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "明治三十九年勅令第百五十五号ハ之ヲ廃止ス"
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

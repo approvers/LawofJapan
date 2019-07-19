@@ -1,0 +1,2479 @@
+{
+  "Law": {
+    "@DataInfo": "181226e04k03m01",
+    "@Era": "Showa",
+    "@Lang": "ja",
+    "@LawType": "Act",
+    "@Num": "110",
+    "@Year": "45",
+    "LawNum": "昭和四十五年法律第百十号",
+    "LawBody": {
+      "LawTitle": "交通安全対策基本法",
+      "TOC": {
+        "TOCLabel": "目次",
+        "TOCChapter": [
+          {
+            "@Delete": "false",
+            "@Num": "1",
+            "ChapterTitle": "第一章　総則",
+            "ArticleRange": "（第一条―第十三条）"
+          },
+          {
+            "@Delete": "false",
+            "@Num": "2",
+            "ChapterTitle": "第二章　交通安全対策会議等",
+            "ArticleRange": "（第十四条―第二十一条）"
+          },
+          {
+            "@Delete": "false",
+            "@Num": "3",
+            "ChapterTitle": "第三章　交通安全計画",
+            "ArticleRange": "（第二十二条―第二十八条）"
+          },
+          {
+            "@Delete": "false",
+            "@Num": "4",
+            "ChapterTitle": "第四章　交通の安全に関する基本的施策",
+            "TOCSection": [
+              {
+                "@Delete": "false",
+                "@Num": "1",
+                "SectionTitle": "第一節　国の施策",
+                "ArticleRange": "（第二十九条―第三十七条）"
+              },
+              {
+                "@Delete": "false",
+                "@Num": "2",
+                "SectionTitle": "第二節　地方公共団体の施策",
+                "ArticleRange": "（第三十八条）"
+              }
+            ]
+          },
+          {
+            "@Delete": "false",
+            "@Num": "5",
+            "ChapterTitle": "第五章　雑則",
+            "ArticleRange": "（第三十九条）"
+          }
+        ],
+        "TOCSupplProvision": {
+          "SupplProvisionLabel": "附則"
+        }
+      },
+      "MainProvision": {
+        "Chapter": [
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "1",
+            "ChapterTitle": "第一章　総則",
+            "Article": [
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "1",
+                "ArticleCaption": "（目的）",
+                "ArticleTitle": "第一条",
+                "Paragraph": {
+                  "@Hide": "false",
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "この法律は、交通の安全に関し、国及び地方公共団体、車両、船舶及び航空機の使用者、車両の運転者、船員及び航空機乗組員等の責務を明らかにするとともに、国及び地方公共団体を通じて必要な体制を確立し、並びに交通安全計画の策定その他国及び地方公共団体の施策の基本を定めることにより、交通安全対策の総合的かつ計画的な推進を図り、もつて公共の福祉の増進に寄与することを目的とする。"
+                    }
+                  }
+                }
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "2",
+                "ArticleCaption": "（定義）",
+                "ArticleTitle": "第二条",
+                "Paragraph": {
+                  "@Hide": "false",
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "この法律において、次の各号に掲げる用語の意義は、それぞれ当該各号に定めるところによる。"
+                    }
+                  },
+                  "Item": [
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "1",
+                      "ItemTitle": "一",
+                      "ItemSentence": {
+                        "Column": [
+                          {
+                            "@LineBreak": "false",
+                            "@Num": "1",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "道路"
+                            }
+                          },
+                          {
+                            "@LineBreak": "false",
+                            "@Num": "2",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "道路交通法（昭和三十五年法律第百五号）第二条第一項第一号に規定する道路をいう。"
+                            }
+                          }
+                        ]
+                      }
+                    },
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "2",
+                      "ItemTitle": "二",
+                      "ItemSentence": {
+                        "Column": [
+                          {
+                            "@LineBreak": "false",
+                            "@Num": "1",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "車両"
+                            }
+                          },
+                          {
+                            "@LineBreak": "false",
+                            "@Num": "2",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "道路交通法第二条第一項第八号に規定する車両及び鉄道又は軌道による交通の用に供する車両をいう。"
+                            }
+                          }
+                        ]
+                      }
+                    },
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "3",
+                      "ItemTitle": "三",
+                      "ItemSentence": {
+                        "Column": [
+                          {
+                            "@LineBreak": "false",
+                            "@Num": "1",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "船舶"
+                            }
+                          },
+                          {
+                            "@LineBreak": "false",
+                            "@Num": "2",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "水上又は水中の航行の用に供する船舟類をいう。"
+                            }
+                          }
+                        ]
+                      }
+                    },
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "4",
+                      "ItemTitle": "四",
+                      "ItemSentence": {
+                        "Column": [
+                          {
+                            "@LineBreak": "false",
+                            "@Num": "1",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "航空機"
+                            }
+                          },
+                          {
+                            "@LineBreak": "false",
+                            "@Num": "2",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "航空法（昭和二十七年法律第二百三十一号）第二条第一項に規定する航空機をいう。"
+                            }
+                          }
+                        ]
+                      }
+                    },
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "5",
+                      "ItemTitle": "五",
+                      "ItemSentence": {
+                        "Column": [
+                          {
+                            "@LineBreak": "false",
+                            "@Num": "1",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "陸上交通"
+                            }
+                          },
+                          {
+                            "@LineBreak": "false",
+                            "@Num": "2",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "道路又は一般交通の用に供する鉄道若しくは軌道による交通をいう。"
+                            }
+                          }
+                        ]
+                      }
+                    },
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "6",
+                      "ItemTitle": "六",
+                      "ItemSentence": {
+                        "Column": [
+                          {
+                            "@LineBreak": "false",
+                            "@Num": "1",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "海上交通"
+                            }
+                          },
+                          {
+                            "@LineBreak": "false",
+                            "@Num": "2",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "船舶による交通をいう。"
+                            }
+                          }
+                        ]
+                      }
+                    },
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "7",
+                      "ItemTitle": "七",
+                      "ItemSentence": {
+                        "Column": [
+                          {
+                            "@LineBreak": "false",
+                            "@Num": "1",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "航空交通"
+                            }
+                          },
+                          {
+                            "@LineBreak": "false",
+                            "@Num": "2",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "航空機による交通をいう。"
+                            }
+                          }
+                        ]
+                      }
+                    },
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "8",
+                      "ItemTitle": "八",
+                      "ItemSentence": {
+                        "Column": [
+                          {
+                            "@LineBreak": "false",
+                            "@Num": "1",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "船員"
+                            }
+                          },
+                          {
+                            "@LineBreak": "false",
+                            "@Num": "2",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "船舶に乗り組んでその運航に従事する者をいい、水先法（昭和二十四年法律第百二十一号）第二条第二項に規定する水先人を含むものとする。"
+                            }
+                          }
+                        ]
+                      }
+                    },
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "9",
+                      "ItemTitle": "九",
+                      "ItemSentence": {
+                        "Column": [
+                          {
+                            "@LineBreak": "false",
+                            "@Num": "1",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "航空機乗組員"
+                            }
+                          },
+                          {
+                            "@LineBreak": "false",
+                            "@Num": "2",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "航空法第六十九条に規定する航空機乗組員をいう。"
+                            }
+                          }
+                        ]
+                      }
+                    },
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "10",
+                      "ItemTitle": "十",
+                      "ItemSentence": {
+                        "Column": [
+                          {
+                            "@LineBreak": "false",
+                            "@Num": "1",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "指定行政機関"
+                            }
+                          },
+                          {
+                            "@LineBreak": "false",
+                            "@Num": "2",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "次に掲げる機関で内閣総理大臣が指定するものをいう。"
+                            }
+                          }
+                        ]
+                      },
+                      "Subitem1": [
+                        {
+                          "@Delete": "false",
+                          "@Hide": "false",
+                          "@Num": "1",
+                          "Subitem1Title": "イ",
+                          "Subitem1Sentence": {
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "内閣府並びに内閣府設置法（平成十一年法律第八十九号）第四十九条第一項及び第二項に規定する機関並びに国家行政組織法（昭和二十三年法律第百二十号）第三条第二項に規定する機関"
+                            }
+                          }
+                        },
+                        {
+                          "@Delete": "false",
+                          "@Hide": "false",
+                          "@Num": "2",
+                          "Subitem1Title": "ロ",
+                          "Subitem1Sentence": {
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "内閣府設置法第三十七条及び第五十四条並びに国家行政組織法第八条に規定する機関"
+                            }
+                          }
+                        },
+                        {
+                          "@Delete": "false",
+                          "@Hide": "false",
+                          "@Num": "3",
+                          "Subitem1Title": "ハ",
+                          "Subitem1Sentence": {
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "内閣府設置法第三十九条及び第五十五条並びに国家行政組織法第八条の二に規定する機関"
+                            }
+                          }
+                        },
+                        {
+                          "@Delete": "false",
+                          "@Hide": "false",
+                          "@Num": "4",
+                          "Subitem1Title": "ニ",
+                          "Subitem1Sentence": {
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "内閣府設置法第四十条及び第五十六条並びに国家行政組織法第八条の三に規定する機関"
+                            }
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "11",
+                      "ItemTitle": "十一",
+                      "ItemSentence": {
+                        "Column": [
+                          {
+                            "@LineBreak": "false",
+                            "@Num": "1",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "指定地方行政機関"
+                            }
+                          },
+                          {
+                            "@LineBreak": "false",
+                            "@Num": "2",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "指定行政機関の地方支分部局（内閣府設置法第四十三条及び第五十七条並びに国家行政組織法第九条に規定する地方支分部局をいう。）その他の国の地方行政機関で、内閣総理大臣が指定するものをいう。"
+                            }
+                          }
+                        ]
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "3",
+                "ArticleCaption": "（国の責務）",
+                "ArticleTitle": "第三条",
+                "Paragraph": {
+                  "@Hide": "false",
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "国は、国民の生命、身体及び財産を保護する使命を有することにかんがみ、陸上交通、海上交通及び航空交通の安全（以下「交通の安全」という。）に関する総合的な施策を策定し、及びこれを実施する責務を有する。"
+                    }
+                  }
+                }
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "4",
+                "ArticleCaption": "（地方公共団体の責務）",
+                "ArticleTitle": "第四条",
+                "Paragraph": {
+                  "@Hide": "false",
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "地方公共団体は、住民の生命、身体及び財産を保護するため、その区域における交通の安全に関し、国の施策に準じて施策を講ずるとともに、当該区域の実情に応じた施策を策定し、及びこれを実施する責務を有する。"
+                    }
+                  }
+                }
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "5",
+                "ArticleCaption": "（道路等の設置者等の責務）",
+                "ArticleTitle": "第五条",
+                "Paragraph": {
+                  "@Hide": "false",
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "道路、鉄道、軌道、港湾施設、漁港施設、飛行場又は航空保安施設を設置し、又は管理する者は、法令の定めるところにより、その設置し、又は管理するこれらの施設に関し、交通の安全を確保するため必要な措置を講じなければならない。"
+                    }
+                  }
+                }
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "6",
+                "ArticleCaption": "（車両等の製造事業者の責務）",
+                "ArticleTitle": "第六条",
+                "Paragraph": {
+                  "@Hide": "false",
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "車両、船舶又は航空機（以下「車両等」という。）の製造の事業を営む者は、その製造する車両等の構造、設備及び装置の安全性の向上に努めなければならない。"
+                    }
+                  }
+                }
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "7",
+                "ArticleCaption": "（車両等の使用者の責務）",
+                "ArticleTitle": "第七条",
+                "Paragraph": {
+                  "@Hide": "false",
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "車両等を使用する者は、法令の定めるところにより、その使用する車両等の安全な運転又は運航を確保するため必要な措置を講じなければならない。"
+                    }
+                  }
+                }
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "8",
+                "ArticleCaption": "（車両の運転者等の責務）",
+                "ArticleTitle": "第八条",
+                "Paragraph": [
+                  {
+                    "@Hide": "false",
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "車両を運転する者（以下「車両の運転者」という。）は、法令の定めるところにより仕業点検等を行なうとともに、歩行者に危害を及ぼさないようにする等車両の安全な運転に努めなければならない。"
+                      }
+                    }
+                  },
+                  {
+                    "@Hide": "false",
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "船員は、法令の定めるところにより発航前の検査、異常な気象、海象等の通報、航路標識の事故の通報、遭難船舶の救助等を行なうとともに、船舶の安全な運航に努めなければならない。"
+                      }
+                    }
+                  },
+                  {
+                    "@Hide": "false",
+                    "@Num": "3",
+                    "ParagraphNum": "３",
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "航空機乗組員は、法令の定めるところにより出発前の確認、航空保安施設の機能の障害の報告等を行なうとともに、航空機の安全な運航に努めなければならない。"
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "9",
+                "ArticleCaption": "（歩行者の責務）",
+                "ArticleTitle": "第九条",
+                "Paragraph": {
+                  "@Hide": "false",
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "歩行者は、道路を通行するに当たつては、法令を励行するとともに、陸上交通に危険を生じさせないように努めなければならない。"
+                    }
+                  }
+                }
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "10",
+                "ArticleCaption": "（住民の責務）",
+                "ArticleTitle": "第十条",
+                "Paragraph": {
+                  "@Hide": "false",
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "住民は、国及び地方公共団体が実施する交通の安全に関する施策に協力する等交通の安全に寄与するように努めなければならない。"
+                    }
+                  }
+                }
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "11",
+                "ArticleCaption": "（施策における交通安全のための配慮）",
+                "ArticleTitle": "第十一条",
+                "Paragraph": {
+                  "@Hide": "false",
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "国及び地方公共団体は、その施策が、直接的なものであると間接的なものであるとを問わず、一体として交通の安全に寄与することとなるように配慮しなければならない。"
+                    }
+                  }
+                }
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "12",
+                "ArticleCaption": "（財政措置等）",
+                "ArticleTitle": "第十二条",
+                "Paragraph": {
+                  "@Hide": "false",
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "政府は、交通の安全に関する施策の実施に必要な財政上又は金融上の措置その他の措置を講じなければならない。"
+                    }
+                  }
+                }
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "13",
+                "ArticleCaption": "（国会に対する報告）",
+                "ArticleTitle": "第十三条",
+                "Paragraph": {
+                  "@Hide": "false",
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "政府は、毎年、国会に、交通事故の状況、交通の安全に関する施策に係る計画及び交通の安全に関して講じた施策の概況に関する報告を提出しなければならない。"
+                    }
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "2",
+            "ChapterTitle": "第二章　交通安全対策会議等",
+            "Article": [
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "14",
+                "ArticleCaption": "（中央交通安全対策会議の設置及び所掌事務）",
+                "ArticleTitle": "第十四条",
+                "Paragraph": [
+                  {
+                    "@Hide": "false",
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "内閣府に、中央交通安全対策会議を置く。"
+                      }
+                    }
+                  },
+                  {
+                    "@Hide": "false",
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "中央交通安全対策会議は、次の各号に掲げる事務をつかさどる。"
+                      }
+                    },
+                    "Item": [
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "1",
+                        "ItemTitle": "一",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "交通安全基本計画を作成し、及びその実施を推進すること。"
+                          }
+                        }
+                      },
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "2",
+                        "ItemTitle": "二",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "前号に掲げるもののほか、交通の安全に関する総合的な施策で重要なものの企画に関して審議し、及びその施策の実施を推進すること。"
+                          }
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "15",
+                "ArticleCaption": "（中央交通安全対策会議の組織等）",
+                "ArticleTitle": "第十五条",
+                "Paragraph": [
+                  {
+                    "@Hide": "false",
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "中央交通安全対策会議は、会長及び委員をもつて組織する。"
+                      }
+                    }
+                  },
+                  {
+                    "@Hide": "false",
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "会長は、内閣総理大臣をもつて充てる。"
+                      }
+                    }
+                  },
+                  {
+                    "@Hide": "false",
+                    "@Num": "3",
+                    "ParagraphNum": "３",
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "委員は、次に掲げる者をもつて充てる。"
+                      }
+                    },
+                    "Item": [
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "1",
+                        "ItemTitle": "一",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "内閣官房長官"
+                          }
+                        }
+                      },
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "2",
+                        "ItemTitle": "二",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "国家公安委員会委員長"
+                          }
+                        }
+                      },
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "3",
+                        "ItemTitle": "三",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "国土交通大臣"
+                          }
+                        }
+                      },
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "4",
+                        "ItemTitle": "四",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "前二号に掲げる者のほか、指定行政機関の長及び内閣府設置法第九条第一項に規定する特命担当大臣のうちから内閣総理大臣が任命する者"
+                          }
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Hide": "false",
+                    "@Num": "4",
+                    "ParagraphNum": "４",
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "中央交通安全対策会議に、専門の事項を調査させるため必要があるときは、専門委員を置くことができる。"
+                      }
+                    }
+                  },
+                  {
+                    "@Hide": "false",
+                    "@Num": "5",
+                    "ParagraphNum": "５",
+                    "ParagraphSentence": {
+                      "Sentence": [
+                        {
+                          "@Function": "main",
+                          "@Num": "1",
+                          "@WritingMode": "vertical",
+                          "#text": "中央交通安全対策会議の庶務は、内閣府本府において警察庁及び国土交通省の協力を得て総括し、及び処理する。"
+                        },
+                        {
+                          "@Function": "proviso",
+                          "@Num": "2",
+                          "@WritingMode": "vertical",
+                          "#text": "ただし、海上交通及び航空交通の安全に関する事項に係るものについては、内閣府本府と国土交通省において共同して処理する。"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "@Hide": "false",
+                    "@Num": "6",
+                    "ParagraphNum": "６",
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "前各項に定めるもののほか、中央交通安全対策会議の組織及び運営に関し必要な事項は、政令で定める。"
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "16",
+                "ArticleCaption": "（都道府県交通安全対策会議の設置及び所掌事務）",
+                "ArticleTitle": "第十六条",
+                "Paragraph": [
+                  {
+                    "@Hide": "false",
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "都道府県に、都道府県交通安全対策会議を置く。"
+                      }
+                    }
+                  },
+                  {
+                    "@Hide": "false",
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "都道府県交通安全対策会議は、次の各号に掲げる事務をつかさどる。"
+                      }
+                    },
+                    "Item": [
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "1",
+                        "ItemTitle": "一",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "都道府県交通安全計画を作成し、及びその実施を推進すること。"
+                          }
+                        }
+                      },
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "2",
+                        "ItemTitle": "二",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "前号に掲げるもののほか、都道府県の区域における陸上交通の安全に関する総合的な施策の企画に関して審議し、及びその施策の実施を推進すること。"
+                          }
+                        }
+                      },
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "3",
+                        "ItemTitle": "三",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "都道府県の区域における陸上交通の安全に関する総合的な施策の実施に関し、都道府県並びに関係指定地方行政機関及び関係市町村相互間の連絡調整を図ること。"
+                          }
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "17",
+                "ArticleCaption": "（都道府県交通安全対策会議の組織等）",
+                "ArticleTitle": "第十七条",
+                "Paragraph": [
+                  {
+                    "@Hide": "false",
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "都道府県交通安全対策会議は、会長及び委員をもつて組織する。"
+                      }
+                    }
+                  },
+                  {
+                    "@Hide": "false",
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "会長は、都道府県知事をもつて充てる。"
+                      }
+                    }
+                  },
+                  {
+                    "@Hide": "false",
+                    "@Num": "3",
+                    "ParagraphNum": "３",
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "委員は、次に掲げる者をもつて充てる。"
+                      }
+                    },
+                    "Item": [
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "1",
+                        "ItemTitle": "一",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "都道府県の区域の全部又は一部を管轄する指定地方行政機関の長又はその指名する職員"
+                          }
+                        }
+                      },
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "2",
+                        "ItemTitle": "二",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "都道府県教育委員会の教育長"
+                          }
+                        }
+                      },
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "3",
+                        "ItemTitle": "三",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "警視総監又は道府県警察本部長"
+                          }
+                        }
+                      },
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "4",
+                        "ItemTitle": "四",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "都道府県知事が都道府県の部内の職員のうちから指名する者"
+                          }
+                        }
+                      },
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "5",
+                        "ItemTitle": "五",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "地方自治法（昭和二十二年法律第六十七号）第二百五十二条の十九第一項の指定都市を包括する都道府県にあつては、指定都市の長又はその指名する職員"
+                          }
+                        }
+                      },
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "6",
+                        "ItemTitle": "六",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "都道府県の区域内の市町村の市町村長及び消防機関の長のうちから都道府県知事が任命する者"
+                          }
+                        }
+                      },
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "7",
+                        "ItemTitle": "七",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "その他都道府県知事が必要と認めて任命する者"
+                          }
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Hide": "false",
+                    "@Num": "4",
+                    "ParagraphNum": "４",
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "都道府県交通安全対策会議に、特別の事項を審議させるため必要があるときは、特別委員を置くことができる。"
+                      }
+                    }
+                  },
+                  {
+                    "@Hide": "false",
+                    "@Num": "5",
+                    "ParagraphNum": "５",
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "前各項に定めるもののほか、都道府県交通安全対策会議の組織及び運営に関し必要な事項は、政令で定める基準に従い、都道府県の条例で定める。"
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "18",
+                "ArticleCaption": "（市町村交通安全対策会議）",
+                "ArticleTitle": "第十八条",
+                "Paragraph": [
+                  {
+                    "@Hide": "false",
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "市町村は、市町村交通安全計画を作成し、及びその実施を推進させるため、条例で定めるところにより、市町村交通安全対策会議を置くことができる。"
+                      }
+                    }
+                  },
+                  {
+                    "@Hide": "false",
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "前項に規定するもののほか、市町村は、協議により規約を定め、共同して市町村交通安全対策会議を置くことができる。"
+                      }
+                    }
+                  },
+                  {
+                    "@Hide": "false",
+                    "@Num": "3",
+                    "ParagraphNum": "３",
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "市町村交通安全対策会議の組織及び所掌事務は、都道府県交通安全対策会議の組織及び所掌事務の例に準じて、市町村の条例（前項の規定により置かれる市町村交通安全対策会議にあつては、規約）で定める。"
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "19",
+                "ArticleCaption": "（関係行政機関等に対する協力要求）",
+                "ArticleTitle": "第十九条",
+                "Paragraph": {
+                  "@Hide": "false",
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "中央交通安全対策会議、都道府県交通安全対策会議及び市町村交通安全対策会議（市町村交通安全対策会議を置かない市町村にあつては、市町村の長。次条並びに第二十六条第一項及び第五項において同じ。）は、その所掌事務を遂行するため必要があると認めるときは、関係行政機関の長（関係行政機関が委員会である場合にあつては、関係行政機関）及び関係地方行政機関の長、関係地方公共団体の長その他の執行機関並びに政令で定めるその他の関係者に対し、資料の提供その他必要な協力を求めることができる。"
+                    }
+                  }
+                }
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "20",
+                "ArticleCaption": "（交通安全対策会議相互の関係）",
+                "ArticleTitle": "第二十条",
+                "Paragraph": [
+                  {
+                    "@Hide": "false",
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "都道府県交通安全対策会議及び市町村交通安全対策会議は、その所掌事務の遂行について、相互に、又はそれぞれ他の都道府県の都道府県交通安全対策会議若しくは他の市町村の市町村交通安全対策会議と協力しなければならない。"
+                      }
+                    }
+                  },
+                  {
+                    "@Hide": "false",
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "中央交通安全対策会議は、その所掌事務を遂行するため必要があると認めるときは、都道府県交通安全対策会議及び市町村交通安全対策会議に対し、必要な勧告をすることができる。"
+                      }
+                    }
+                  },
+                  {
+                    "@Hide": "false",
+                    "@Num": "3",
+                    "ParagraphNum": "３",
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "都道府県交通安全対策会議は、その所掌事務を遂行するため必要があると認めるときは、市町村交通安全対策会議に対し、必要な勧告をすることができる。"
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "21",
+                "ArticleCaption": "（都道府県交通安全連絡協議会）",
+                "ArticleTitle": "第二十一条",
+                "Paragraph": [
+                  {
+                    "@Hide": "false",
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "都道府県は、その区域における海上交通又は航空交通の安全に関し、関係地方行政機関との連絡及び協議を行なうため必要があると認めるときは、条例で定めるところにより、都道府県交通安全連絡協議会を置くことができる。"
+                      }
+                    }
+                  },
+                  {
+                    "@Hide": "false",
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "都道府県交通安全連絡協議会の組織及び運営に関し必要な事項は、都道府県の条例で定める。"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "3",
+            "ChapterTitle": "第三章　交通安全計画",
+            "Article": [
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "22",
+                "ArticleCaption": "（交通安全基本計画の作成及び公表等）",
+                "ArticleTitle": "第二十二条",
+                "Paragraph": [
+                  {
+                    "@Hide": "false",
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "中央交通安全対策会議は、交通安全基本計画を作成しなければならない。"
+                      }
+                    }
+                  },
+                  {
+                    "@Hide": "false",
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "交通安全基本計画は、次に掲げる事項について定めるものとする。"
+                      }
+                    },
+                    "Item": [
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "1",
+                        "ItemTitle": "一",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "交通の安全に関する総合的かつ長期的な施策の大綱"
+                          }
+                        }
+                      },
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "2",
+                        "ItemTitle": "二",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "前号に掲げるもののほか、交通の安全に関する施策を総合的かつ計画的に推進するために必要な事項"
+                          }
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Hide": "false",
+                    "@Num": "3",
+                    "ParagraphNum": "３",
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "国家公安委員会及び国土交通大臣は、中央交通安全対策会議が第一項の規定により交通安全基本計画を作成するに当たり、前項各号に掲げる事項のうちそれぞれの所掌に属するものに関する部分の交通安全基本計画の案を作成し、中央交通安全対策会議に提出しなければならない。"
+                      }
+                    }
+                  },
+                  {
+                    "@Hide": "false",
+                    "@Num": "4",
+                    "ParagraphNum": "４",
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "中央交通安全対策会議は、第一項の規定により交通安全基本計画を作成したときは、速やかに、これを内閣総理大臣に報告し、並びに指定行政機関の長（指定行政機関が委員会である場合にあつては、指定行政機関。以下同じ。）及び都道府県知事に通知するとともに、その要旨を公表しなければならない。"
+                      }
+                    }
+                  },
+                  {
+                    "@Hide": "false",
+                    "@Num": "5",
+                    "ParagraphNum": "５",
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "前二項の規定は、交通安全基本計画の変更について準用する。"
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "23",
+                "ArticleCaption": "（内閣総理大臣の勧告等）",
+                "ArticleTitle": "第二十三条",
+                "Paragraph": [
+                  {
+                    "@Hide": "false",
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "内閣総理大臣は、必要があると認めるときは、指定行政機関の長に対し、交通安全基本計画の実施に関して必要な勧告をし、又はその勧告の結果とられた措置について報告を求めることができる。"
+                      }
+                    }
+                  },
+                  {
+                    "@Hide": "false",
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "内閣総理大臣は、前項の規定により勧告をする場合においては、あらかじめ、中央交通安全対策会議の意見をきかなければならない。"
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "24",
+                "ArticleCaption": "（交通安全業務計画）",
+                "ArticleTitle": "第二十四条",
+                "Paragraph": [
+                  {
+                    "@Hide": "false",
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "指定行政機関の長は、交通安全基本計画に基づき、その所掌事務に関し、毎年度、交通安全業務計画を作成しなければならない。"
+                      }
+                    }
+                  },
+                  {
+                    "@Hide": "false",
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "交通安全業務計画は、次の各号に掲げる事項について定めるものとする。"
+                      }
+                    },
+                    "Item": [
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "1",
+                        "ItemTitle": "一",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "交通の安全に関し、当該年度において指定行政機関が講ずべき施策"
+                          }
+                        }
+                      },
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "2",
+                        "ItemTitle": "二",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "前号に掲げるもののほか、都道府県の区域における陸上交通の安全に関し、当該年度において指定地方行政機関及び都道府県が講ずべき施策に関する計画の作成の基準となるべき事項"
+                          }
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Hide": "false",
+                    "@Num": "3",
+                    "ParagraphNum": "３",
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "指定行政機関の長は、第一項の規定により交通安全業務計画を作成したときは、すみやかに、これを内閣総理大臣に報告するとともに、都道府県知事に通知しなければならない。"
+                      }
+                    }
+                  },
+                  {
+                    "@Hide": "false",
+                    "@Num": "4",
+                    "ParagraphNum": "４",
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "前項の規定は、交通安全業務計画の変更について準用する。"
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "25",
+                "ArticleCaption": "（都道府県交通安全計画等）",
+                "ArticleTitle": "第二十五条",
+                "Paragraph": [
+                  {
+                    "@Hide": "false",
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "都道府県交通安全対策会議は、交通安全基本計画（陸上交通の安全に関する部分に限る。）に基づき、都道府県交通安全計画を作成しなければならない。"
+                      }
+                    }
+                  },
+                  {
+                    "@Hide": "false",
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "都道府県交通安全計画は、次の各号に掲げる事項について定めるものとする。"
+                      }
+                    },
+                    "Item": [
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "1",
+                        "ItemTitle": "一",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "都道府県の区域における陸上交通の安全に関する総合的かつ長期的な施策の大綱"
+                          }
+                        }
+                      },
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "2",
+                        "ItemTitle": "二",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "前号に掲げるもののほか、都道府県の区域における陸上交通の安全に関する施策を総合的かつ計画的に推進するために必要な事項"
+                          }
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Hide": "false",
+                    "@Num": "3",
+                    "ParagraphNum": "３",
+                    "ParagraphSentence": {
+                      "Sentence": [
+                        {
+                          "@Num": "1",
+                          "@WritingMode": "vertical",
+                          "#text": "都道府県交通安全対策会議は、毎年度、都道府県の区域における陸上交通の安全に関し、当該区域の全部又は一部を管轄する指定地方行政機関及び都道府県が講ずべき施策に関する計画（以下「都道府県交通安全実施計画」という。）を作成しなければならない。"
+                        },
+                        {
+                          "@Num": "2",
+                          "@WritingMode": "vertical",
+                          "#text": "この場合において、都道府県交通安全実施計画は、交通安全業務計画（陸上交通の安全に関する部分に限る。）に抵触するものであつてはならない。"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "@Hide": "false",
+                    "@Num": "4",
+                    "ParagraphNum": "４",
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "都道府県交通安全対策会議は、第一項の規定により都道府県交通安全計画を作成したときは、すみやかに、これを内閣総理大臣及び指定行政機関の長に報告し、並びに都道府県の区域内の市町村の長に通知するとともに、その要旨を公表しなければならない。"
+                      }
+                    }
+                  },
+                  {
+                    "@Hide": "false",
+                    "@Num": "5",
+                    "ParagraphNum": "５",
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "都道府県交通安全対策会議は、第三項の規定により都道府県交通安全実施計画を作成したときは、すみやかに、これを内閣総理大臣及び指定行政機関の長に報告するとともに、都道府県の区域内の市町村の長に通知しなければならない。"
+                      }
+                    }
+                  },
+                  {
+                    "@Hide": "false",
+                    "@Num": "6",
+                    "ParagraphNum": "６",
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "第四項の規定は都道府県交通安全計画の変更について、前項の規定は都道府県交通安全実施計画の変更について準用する。"
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "26",
+                "ArticleCaption": "（市町村交通安全計画等）",
+                "ArticleTitle": "第二十六条",
+                "Paragraph": [
+                  {
+                    "@Hide": "false",
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "市町村交通安全対策会議は、都道府県交通安全計画に基づき、市町村交通安全計画を作成するよう努めるものとする。"
+                      }
+                    }
+                  },
+                  {
+                    "@Hide": "false",
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "市町村交通安全対策会議を置かない市町村の長は、前項の規定により市町村交通安全計画を作成しようとするときは、あらかじめ、関係指定地方行政機関の長及び関係地方公共団体の長その他の執行機関の意見を聴かなければならない。"
+                      }
+                    }
+                  },
+                  {
+                    "@Hide": "false",
+                    "@Num": "3",
+                    "ParagraphNum": "３",
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "市町村交通安全計画は、おおむね次に掲げる事項について定めるものとする。"
+                      }
+                    },
+                    "Item": [
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "1",
+                        "ItemTitle": "一",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "市町村の区域における陸上交通の安全に関する総合的かつ長期的な施策の大綱"
+                          }
+                        }
+                      },
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "2",
+                        "ItemTitle": "二",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "前号に掲げるもののほか、市町村の区域における陸上交通の安全に関する施策を総合的かつ計画的に推進するために必要な事項"
+                          }
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Hide": "false",
+                    "@Num": "4",
+                    "ParagraphNum": "４",
+                    "ParagraphSentence": {
+                      "Sentence": [
+                        {
+                          "@Num": "1",
+                          "@WritingMode": "vertical",
+                          "#text": "市町村長は、市町村の区域における陸上交通の安全に関し、当該年度において市町村が講ずべき施策に関する計画（以下「市町村交通安全実施計画」という。）を作成するよう努めるものとする。"
+                        },
+                        {
+                          "@Num": "2",
+                          "@WritingMode": "vertical",
+                          "#text": "この場合において、市町村交通安全実施計画は、都道府県交通安全実施計画に抵触するものであつてはならない。"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "@Hide": "false",
+                    "@Num": "5",
+                    "ParagraphNum": "５",
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "市町村交通安全対策会議は、第一項の規定により市町村交通安全計画を作成したときは、速やかに、その要旨を公表するよう努めるとともに、市町村交通安全計画を都道府県知事に報告しなければならない。"
+                      }
+                    }
+                  },
+                  {
+                    "@Hide": "false",
+                    "@Num": "6",
+                    "ParagraphNum": "６",
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "市町村長は、第四項の規定により市町村交通安全実施計画を作成したときは、速やかに、これを都道府県知事に報告しなければならない。"
+                      }
+                    }
+                  },
+                  {
+                    "@Hide": "false",
+                    "@Num": "7",
+                    "ParagraphNum": "７",
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "第二項及び第五項の規定は市町村交通安全計画の変更について、前項の規定は市町村交通安全実施計画の変更について準用する。"
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "27",
+                "ArticleCaption": "（地方公共団体の長の要請等）",
+                "ArticleTitle": "第二十七条",
+                "Paragraph": {
+                  "@Hide": "false",
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "地方公共団体の長は、都道府県交通安全計画又は市町村交通安全計画の的確かつ円滑な実施を図るため必要があると認めるときは、当該地方公共団体の区域の全部又は一部を管轄する指定地方行政機関の長及び関係地方公共団体の長その他の執行機関に対し、これらの者が陸上交通の安全に関し処理すべき事務について、必要な要請をし、又は法令の定めるところにより必要な勧告若しくは指示をすることができる。"
+                    }
+                  }
+                }
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "28",
+                "ArticleTitle": "第二十八条",
+                "Paragraph": {
+                  "@Hide": "false",
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "地方公共団体の長は、当該地方公共団体の区域における海上交通又は航空交通の安全に関し必要があると認めるときは、交通安全基本計画又は交通安全業務計画（これらの計画のうち、陸上交通の安全に関する部分を除く。）の作成又は実施に関し、中央交通安全対策会議及び関係指定行政機関の長に対し、必要な要請をすることができる。"
+                    }
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "4",
+            "ChapterTitle": "第四章　交通の安全に関する基本的施策",
+            "Section": [
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "1",
+                "SectionTitle": "第一節　国の施策",
+                "Article": [
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "29",
+                    "ArticleCaption": "（交通環境の整備）",
+                    "ArticleTitle": "第二十九条",
+                    "Paragraph": [
+                      {
+                        "@Hide": "false",
+                        "@Num": "1",
+                        "ParagraphNum": null,
+                        "ParagraphSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "国は、交通環境の整備を図るため、交通安全施設及び航空交通管制施設の整備、交通の規制及び管制の合理化、道路及び公共用水域の使用の適正化等必要な措置を講ずるものとする。"
+                          }
+                        }
+                      },
+                      {
+                        "@Hide": "false",
+                        "@Num": "2",
+                        "ParagraphNum": "２",
+                        "ParagraphSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "国は、陸上交通の安全に関し、住宅地、商店街等について前項に規定する措置を講ずるに当たつては、特に歩行者の保護が図られるように配慮するものとする。"
+                          }
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "30",
+                    "ArticleCaption": "（交通の安全に関する知識の普及等）",
+                    "ArticleTitle": "第三十条",
+                    "Paragraph": [
+                      {
+                        "@Hide": "false",
+                        "@Num": "1",
+                        "ParagraphNum": null,
+                        "ParagraphSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "国は、交通の安全に関する知識の普及及び交通安全思想の高揚を図るため、交通の安全に関する教育の振興、交通の安全に関する広報活動の充実等必要な措置を講ずるものとする。"
+                          }
+                        }
+                      },
+                      {
+                        "@Hide": "false",
+                        "@Num": "2",
+                        "ParagraphNum": "２",
+                        "ParagraphSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "国は、交通の安全に関する民間の健全かつ自主的な組織活動が促進されるよう必要な措置を講ずるものとする。"
+                          }
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "31",
+                    "ArticleCaption": "（車両等の安全な運転又は運航の確保）",
+                    "ArticleTitle": "第三十一条",
+                    "Paragraph": [
+                      {
+                        "@Hide": "false",
+                        "@Num": "1",
+                        "ParagraphNum": null,
+                        "ParagraphSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "国は、車両等の安全な運転又は運航の確保を図るため、車両の運転者、船員及び航空機乗組員（以下この項においてこれらの者を「運転者等」という。）の教育の充実、運転者等の資格に関する制度の合理化、車両等の運転又は運航の管理の改善、運転者等の労働条件の適正化等必要な措置を講ずるものとする。"
+                          }
+                        }
+                      },
+                      {
+                        "@Hide": "false",
+                        "@Num": "2",
+                        "ParagraphNum": "２",
+                        "ParagraphSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "国は、交通の安全に関し、気象情報その他の情報の迅速な収集及び周知を図るため、気象観測網の充実、通信施設の整備等必要な措置を講ずるものとする。"
+                          }
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "32",
+                    "ArticleCaption": "（車両等の安全性の確保）",
+                    "ArticleTitle": "第三十二条",
+                    "Paragraph": {
+                      "@Hide": "false",
+                      "@Num": "1",
+                      "ParagraphNum": null,
+                      "ParagraphSentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "国は、車両等の安全性の確保を図るため、車両等の構造、設備、装置等に関する保安上の技術的基準の改善、車両等の検査の充実等必要な措置を講ずるものとする。"
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "33",
+                    "ArticleCaption": "（交通秩序の維持）",
+                    "ArticleTitle": "第三十三条",
+                    "Paragraph": {
+                      "@Hide": "false",
+                      "@Num": "1",
+                      "ParagraphNum": null,
+                      "ParagraphSentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "国は、交通秩序の維持を図るため、交通の取締り等必要な措置を講ずるものとする。"
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "34",
+                    "ArticleCaption": "（緊急時における救助体制の整備等）",
+                    "ArticleTitle": "第三十四条",
+                    "Paragraph": [
+                      {
+                        "@Hide": "false",
+                        "@Num": "1",
+                        "ParagraphNum": null,
+                        "ParagraphSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "国は、交通事故による負傷者に対する応急手当及び医療の充実を図るため、救急業務に関する体制の整備、救急医療施設の充実等必要な措置を講ずるものとする。"
+                          }
+                        }
+                      },
+                      {
+                        "@Hide": "false",
+                        "@Num": "2",
+                        "ParagraphNum": "２",
+                        "ParagraphSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "国は、海難救助の充実を図るため、海難発生情報の収集体制及び海難救助体制の整備等必要な措置を講ずるものとする。"
+                          }
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "35",
+                    "ArticleCaption": "（損害賠償の適正化）",
+                    "ArticleTitle": "第三十五条",
+                    "Paragraph": {
+                      "@Hide": "false",
+                      "@Num": "1",
+                      "ParagraphNum": null,
+                      "ParagraphSentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "国は、交通事故による被害者（その遺族を含む。以下この条において同じ。）に対する損害賠償の適正化を図るため、自動車損害賠償保障制度の充実、交通事故による被害者の行なう損害賠償の請求についての援助等必要な措置を講ずるものとする。"
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "36",
+                    "ArticleCaption": "（科学技術の振興等）",
+                    "ArticleTitle": "第三十六条",
+                    "Paragraph": [
+                      {
+                        "@Hide": "false",
+                        "@Num": "1",
+                        "ParagraphNum": null,
+                        "ParagraphSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "国は、交通の安全に関する科学技術の振興を図るため、試験研究に関する体制の整備、研究開発の推進及びその成果の普及等必要な措置を講ずるものとする。"
+                          }
+                        }
+                      },
+                      {
+                        "@Hide": "false",
+                        "@Num": "2",
+                        "ParagraphNum": "２",
+                        "ParagraphSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "国は、交通事故の原因の科学的究明を図るため、総合的な研究調査の実施等必要な措置を講ずるものとする。"
+                          }
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "37",
+                    "ArticleCaption": "（交通の安全に関する施策の実施についての配慮）",
+                    "ArticleTitle": "第三十七条",
+                    "Paragraph": {
+                      "@Hide": "false",
+                      "@Num": "1",
+                      "ParagraphNum": null,
+                      "ParagraphSentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "国は、前八条に規定する措置を講ずるに当たつては、国民の生活を不当に侵害することとならないように配慮するものとする。"
+                        }
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "2",
+                "SectionTitle": "第二節　地方公共団体の施策",
+                "Article": {
+                  "@Delete": "false",
+                  "@Hide": "false",
+                  "@Num": "38",
+                  "ArticleCaption": "（地方公共団体の施策）",
+                  "ArticleTitle": "第三十八条",
+                  "Paragraph": {
+                    "@Hide": "false",
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "地方公共団体は、法令に違反しない限りにおいて、前節に規定する国の施策に準ずる施策を講ずるものとする。"
+                      }
+                    }
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "5",
+            "ChapterTitle": "第五章　雑則",
+            "Article": {
+              "@Delete": "false",
+              "@Hide": "false",
+              "@Num": "39",
+              "ArticleCaption": "（特別区についてのこの法律の適用）",
+              "ArticleTitle": "第三十九条",
+              "Paragraph": {
+                "@Hide": "false",
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "この法律の適用については、特別区は、市とみなす。"
+                  }
+                }
+              }
+            }
+          }
+        ]
+      },
+      "SupplProvision": [
+        {
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphNum": "１",
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この法律は、公布の日から施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "昭和四六年六月二日法律第九八号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Article": {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "1",
+            "ArticleCaption": "（施行期日）",
+            "ArticleTitle": "第一条",
+            "Paragraph": {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "この法律は、公布の日から起算して六月をこえない範囲内において政令で定める日から施行する。"
+                }
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "昭和五〇年七月一〇日法律第五八号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphCaption": "（施行期日）",
+            "ParagraphNum": "１",
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この法律は、公布の日から起算して三月を経過した日から施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "昭和五八年一二月二日法律第八〇号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": [
+            {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphCaption": "（施行期日）",
+              "ParagraphNum": "１",
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "この法律は、総務庁設置法（昭和五十八年法律第七十九号）の施行の日から施行する。"
+                }
+              }
+            },
+            {
+              "@Hide": "false",
+              "@Num": "6",
+              "ParagraphCaption": "（経過措置）",
+              "ParagraphNum": "６",
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "この法律に定めるもののほか、この法律の施行に関し必要な経過措置は、政令で定めることができる。"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@AmendLawNum": "平成一一年七月一六日法律第一〇二号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Article": [
+            {
+              "@Delete": "false",
+              "@Hide": "false",
+              "@Num": "1",
+              "ArticleCaption": "（施行期日）",
+              "ArticleTitle": "第一条",
+              "Paragraph": {
+                "@Hide": "false",
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": [
+                    {
+                      "@Num": "1",
+                      "@WritingMode": "vertical",
+                      "#text": "この法律は、内閣法の一部を改正する法律（平成十一年法律第八十八号）の施行の日から施行する。"
+                    },
+                    {
+                      "@Num": "2",
+                      "@WritingMode": "vertical",
+                      "#text": "ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。"
+                    }
+                  ]
+                },
+                "Item": [
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "1",
+                    "ItemTitle": "一",
+                    "ItemSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "略"
+                      }
+                    }
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "2",
+                    "ItemTitle": "二",
+                    "ItemSentence": {
+                      "Column": [
+                        {
+                          "@LineBreak": "false",
+                          "@Num": "1",
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "附則第十条第一項及び第五項、第十四条第三項、第二十三条、第二十八条並びに第三十条の規定"
+                          }
+                        },
+                        {
+                          "@LineBreak": "false",
+                          "@Num": "2",
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "公布の日"
+                          }
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "@Delete": "false",
+              "@Hide": "false",
+              "@Num": "3",
+              "ArticleCaption": "（職員の身分引継ぎ）",
+              "ArticleTitle": "第三条",
+              "Paragraph": {
+                "@Hide": "false",
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "この法律の施行の際現に従前の総理府、法務省、外務省、大蔵省、文部省、厚生省、農林水産省、通商産業省、運輸省、郵政省、労働省、建設省又は自治省（以下この条において「従前の府省」という。）の職員（国家行政組織法（昭和二十三年法律第百二十号）第八条の審議会等の会長又は委員長及び委員、中央防災会議の委員、日本工業標準調査会の会長及び委員並びに　これらに類する者として政令で定めるものを除く。）である者は、別に辞令を発せられない限り、同一の勤務条件をもって、この法律の施行後の内閣府、総務省、法務省、外務省、財務省、文部科学省、厚生労働省、農林水産省、経済産業省、国土交通省若しくは環境省（以下この条において「新府省」という。）又はこれに置かれる部局若しくは機関のうち、この法律の施行の際現に当該職員が属する従前の府省又はこれに置かれる部局若しくは機関の相当の新府省又はこれに置かれる部局若しくは機関として政令で定めるものの相当の職員となるものとする。"
+                  }
+                }
+              }
+            },
+            {
+              "@Delete": "false",
+              "@Hide": "false",
+              "@Num": "30",
+              "ArticleCaption": "（別に定める経過措置）",
+              "ArticleTitle": "第三十条",
+              "Paragraph": {
+                "@Hide": "false",
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "第二条から前条までに規定するもののほか、この法律の施行に伴い必要となる経過措置は、別に法律で定める。"
+                  }
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@AmendLawNum": "平成一一年一二月二二日法律第一六〇号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Article": {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "1",
+            "ArticleCaption": "（施行期日）",
+            "ArticleTitle": "第一条",
+            "Paragraph": {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": [
+                  {
+                    "@Num": "1",
+                    "@WritingMode": "vertical",
+                    "#text": "この法律（第二条及び第三条を除く。）は、平成十三年一月六日から施行する。"
+                  },
+                  {
+                    "@Num": "2",
+                    "@WritingMode": "vertical",
+                    "#text": "ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。"
+                  }
+                ]
+              },
+              "Item": {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "1",
+                "ItemTitle": "一",
+                "ItemSentence": {
+                  "Column": [
+                    {
+                      "@LineBreak": "false",
+                      "@Num": "1",
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "第九百九十五条（核原料物質、核燃料物質及び原子炉の規制に関する法律の一部を改正する法律附則の改正規定に係る部分に限る。）、第千三百五条、第千三百六条、第千三百二十四条第二項、第千三百二十六条第二項及び第千三百四十四条の規定"
+                      }
+                    },
+                    {
+                      "@LineBreak": "false",
+                      "@Num": "2",
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "公布の日"
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成一八年五月一七日法律第三八号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Article": {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "1",
+            "ArticleCaption": "（施行期日）",
+            "ArticleTitle": "第一条",
+            "Paragraph": {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": [
+                  {
+                    "@Num": "1",
+                    "@WritingMode": "vertical",
+                    "#text": "この法律は、平成十八年十月一日から施行する。"
+                  },
+                  {
+                    "@Num": "2",
+                    "@WritingMode": "vertical",
+                    "#text": "ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。"
+                  }
+                ]
+              },
+              "Item": [
+                {
+                  "@Delete": "false",
+                  "@Hide": "false",
+                  "@Num": "1",
+                  "ItemTitle": "一",
+                  "ItemSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "略"
+                    }
+                  }
+                },
+                {
+                  "@Delete": "false",
+                  "@Hide": "false",
+                  "@Num": "2",
+                  "ItemTitle": "二",
+                  "ItemSentence": {
+                    "Column": [
+                      {
+                        "@LineBreak": "false",
+                        "@Num": "1",
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "第一条中港湾法第五十六条の二の二の改正規定、同条の次に十八条を加える改正規定並びに同法第五十六条の三第二項及び第四項並びに第六十一条から第六十三条までの改正規定並びに第三条の規定並びに附則第六条、第八条、第九条、第十条第一項、第十一条、第十二条、第十七条、第十九条及び第二十条の規定"
+                        }
+                      },
+                      {
+                        "@LineBreak": "false",
+                        "@Num": "2",
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "平成十九年四月一日"
+                        }
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成二三年八月三〇日法律第一〇五号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Article": [
+            {
+              "@Delete": "false",
+              "@Hide": "false",
+              "@Num": "1",
+              "ArticleCaption": "（施行期日）",
+              "ArticleTitle": "第一条",
+              "Paragraph": {
+                "@Hide": "false",
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "この法律は、公布の日から施行する。"
+                  }
+                }
+              }
+            },
+            {
+              "@Delete": "false",
+              "@Hide": "false",
+              "@Num": "82",
+              "ArticleCaption": "（政令への委任）",
+              "ArticleTitle": "第八十二条",
+              "Paragraph": {
+                "@Hide": "false",
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "この附則に規定するもののほか、この法律の施行に関し必要な経過措置（罰則に関する経過措置を含む。）は、政令で定める。"
+                  }
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@AmendLawNum": "平成二五年六月一四日法律第四四号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Article": [
+            {
+              "@Delete": "false",
+              "@Hide": "false",
+              "@Num": "1",
+              "ArticleCaption": "（施行期日）",
+              "ArticleTitle": "第一条",
+              "Paragraph": {
+                "@Hide": "false",
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "この法律は、公布の日から施行する。"
+                  }
+                }
+              }
+            },
+            {
+              "@Delete": "false",
+              "@Hide": "false",
+              "@Num": "11",
+              "ArticleCaption": "（政令への委任）",
+              "ArticleTitle": "第十一条",
+              "Paragraph": {
+                "@Hide": "false",
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "この附則に規定するもののほか、この法律の施行に関し必要な経過措置（罰則に関する経過措置を含む。）は、政令で定める。"
+                  }
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@AmendLawNum": "平成二七年九月一一日法律第六六号",
+          "@Extract": "true",
+          "@Type": "Amend",
+          "SupplProvisionLabel": "附　則",
+          "Article": [
+            {
+              "@Delete": "false",
+              "@Hide": "false",
+              "@Num": "1",
+              "ArticleCaption": "（施行期日）",
+              "ArticleTitle": "第一条",
+              "Paragraph": {
+                "@Hide": "false",
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": [
+                    {
+                      "@Function": "main",
+                      "@Num": "1",
+                      "@WritingMode": "vertical",
+                      "#text": "この法律は、平成二十八年四月一日から施行する。"
+                    },
+                    {
+                      "@Function": "proviso",
+                      "@Num": "2",
+                      "@WritingMode": "vertical",
+                      "#text": "ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。"
+                    }
+                  ]
+                },
+                "Item": {
+                  "@Delete": "false",
+                  "@Hide": "false",
+                  "@Num": "1",
+                  "ItemTitle": "一",
+                  "ItemSentence": {
+                    "Column": [
+                      {
+                        "@LineBreak": "false",
+                        "@Num": "1",
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "附則第七条の規定"
+                        }
+                      },
+                      {
+                        "@LineBreak": "false",
+                        "@Num": "2",
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "公布の日"
+                        }
+                      }
+                    ]
+                  }
+                }
+              }
+            },
+            {
+              "@Delete": "false",
+              "@Hide": "false",
+              "@Num": "7",
+              "ArticleCaption": "（政令への委任）",
+              "ArticleTitle": "第七条",
+              "Paragraph": {
+                "@Hide": "false",
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "附則第二条から前条までに定めるもののほか、この法律の施行に関し必要な経過措置は、政令で定める。"
+                  }
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

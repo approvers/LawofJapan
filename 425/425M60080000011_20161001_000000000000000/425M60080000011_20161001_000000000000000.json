@@ -1,0 +1,1135 @@
+{
+  "Law": {
+    "@Era": "Heisei",
+    "@Lang": "ja",
+    "@LawType": "Rule",
+    "@Num": "11",
+    "@Year": "25",
+    "LawNum": "平成二十五年原子力規制委員会規則第十一号",
+    "LawBody": {
+      "LawTitle": "研究開発段階発電用原子炉に使用する燃料体の技術基準に関する規則",
+      "EnactStatement": "核原料物質、核燃料物質及び原子炉の規制に関する法律（昭和三十二年法律第百六十六号）第四十三条の三の十二第三項第二号の規定に基づき、研究開発段階発電用原子炉に使用する燃料体の技術基準に関する規則を次のように定める。",
+      "MainProvision": {
+        "Article": [
+          {
+            "@Num": "1",
+            "ArticleCaption": "（適用範囲）",
+            "ArticleTitle": "第一条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "この規則は、研究開発段階発電用原子炉に使用する燃料体について適用する。"
+              }
+            }
+          },
+          {
+            "@Num": "2",
+            "ArticleCaption": "（定義）",
+            "ArticleTitle": "第二条",
+            "Paragraph": [
+              {
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": "この規則において使用する用語は、核原料物質、核燃料物質及び原子炉の規制に関する法律において使用する用語の例による。"
+                }
+              },
+              {
+                "@Num": "2",
+                "ParagraphNum": "２",
+                "ParagraphSentence": {
+                  "Sentence": "この規則において、次に掲げる用語の意義は、それぞれ当該各号に定めるところによる。"
+                },
+                "Item": [
+                  {
+                    "@Num": "1",
+                    "ItemTitle": "一",
+                    "ItemSentence": {
+                      "Sentence": "「燃料材」とは、熱を発生させるために成形された核燃料物質をいう。"
+                    }
+                  },
+                  {
+                    "@Num": "2",
+                    "ItemTitle": "二",
+                    "ItemSentence": {
+                      "Sentence": "「燃料被覆材」とは、原子核分裂生成物の飛散を防ぎ、かつ、冷却材による侵食を防ぐために燃料材を覆う金属管をいう。"
+                    }
+                  },
+                  {
+                    "@Num": "3",
+                    "ItemTitle": "三",
+                    "ItemSentence": {
+                      "Sentence": "「端栓」とは、燃料被覆材の両端を密封するために成形された金属部品をいう。"
+                    }
+                  },
+                  {
+                    "@Num": "4",
+                    "ItemTitle": "四",
+                    "ItemSentence": {
+                      "Sentence": "「燃料要素」とは、燃料材、燃料被覆材及び端栓からなる炉心の構成要素であって、構造上独立の最小単位であるものをいう。"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "@Num": "3",
+            "ArticleCaption": "（特殊な加工による発電用原子炉に燃料体として使用する核燃料物質）",
+            "ArticleTitle": "第三条",
+            "Paragraph": [
+              {
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": "特別の理由により原子力規制委員会の認可を受けた場合は、この規則の規定によらないで燃料体の加工をすることができる。"
+                }
+              },
+              {
+                "@Num": "2",
+                "ParagraphNum": "２",
+                "ParagraphSentence": {
+                  "Sentence": "前項の認可を受けようとする者は、その理由及び燃料体の加工の方法について記載した申請書に関係図面を添付して申請しなければならない。"
+                }
+              }
+            ]
+          },
+          {
+            "@Num": "4",
+            "ArticleCaption": "（二酸化ウラン燃料材）",
+            "ArticleTitle": "第四条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "二酸化ウラン燃料材は、次のいずれにも適合するものでなければならない。"
+              },
+              "Item": [
+                {
+                  "@Num": "1",
+                  "ItemTitle": "一",
+                  "ItemSentence": {
+                    "Sentence": "高速増殖炉以外の発電用原子炉に用いる場合にあっては、次の表の上欄に掲げる元素を含有する場合における当該元素の含有量のウランの含有量に対する百分率の値は、それぞれ同表の下欄に掲げる値であること。"
+                  },
+                  "TableStruct": {
+                    "Table": {
+                      "TableRow": [
+                        {
+                          "TableColumn": [
+                            {
+                              "Sentence": "炭素"
+                            },
+                            {
+                              "Sentence": "〇・〇一〇以下"
+                            }
+                          ]
+                        },
+                        {
+                          "TableColumn": [
+                            {
+                              "Sentence": "ふっ素"
+                            },
+                            {
+                              "Sentence": "〇・〇〇一五以下"
+                            }
+                          ]
+                        },
+                        {
+                          "TableColumn": [
+                            {
+                              "Sentence": "水素"
+                            },
+                            {
+                              "Sentence": "〇・〇〇〇二以下"
+                            }
+                          ]
+                        },
+                        {
+                          "TableColumn": [
+                            {
+                              "Sentence": "窒素"
+                            },
+                            {
+                              "Sentence": "〇・〇〇七五以下"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "@Num": "2",
+                  "ItemTitle": "二",
+                  "ItemSentence": {
+                    "Sentence": "高速増殖炉に用いる場合にあっては、当該燃料材に含まれる不純物の含有量の全重量に対する百分率の値は、実用上差し支えがないものであること。"
+                  }
+                },
+                {
+                  "@Num": "3",
+                  "ItemTitle": "三",
+                  "ItemSentence": {
+                    "Sentence": "ウラン二三五の含有量のウランの含有量に対する百分率の値の偏差は、著しく大きくないこと。"
+                  }
+                },
+                {
+                  "@Num": "4",
+                  "ItemTitle": "四",
+                  "ItemSentence": {
+                    "Sentence": "ペレット型燃料材にあっては、ペレットが次に適合すること。"
+                  },
+                  "Subitem1": [
+                    {
+                      "@Num": "1",
+                      "Subitem1Title": "イ",
+                      "Subitem1Sentence": {
+                        "Sentence": "各部分の寸法の偏差は、著しく大きくないこと。"
+                      }
+                    },
+                    {
+                      "@Num": "2",
+                      "Subitem1Title": "ロ",
+                      "Subitem1Sentence": {
+                        "Sentence": "密度の偏差は、著しく大きくないこと。"
+                      }
+                    },
+                    {
+                      "@Num": "3",
+                      "Subitem1Title": "ハ",
+                      "Subitem1Sentence": {
+                        "Sentence": "表面に割れ、傷等で有害なものがないこと。"
+                      }
+                    },
+                    {
+                      "@Num": "4",
+                      "Subitem1Title": "ニ",
+                      "Subitem1Sentence": {
+                        "Sentence": "表面に油脂、酸化物等で有害な付着物がないこと。"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "@Num": "5",
+                  "ItemTitle": "五",
+                  "ItemSentence": {
+                    "Sentence": "ガドリニウムを添加していないものにあっては、次に適合すること。"
+                  },
+                  "Subitem1": [
+                    {
+                      "@Num": "1",
+                      "Subitem1Title": "イ",
+                      "Subitem1Sentence": {
+                        "Sentence": "ウランの含有量の全重量に対する百分率の値は、八十七・七以上であること。"
+                      }
+                    },
+                    {
+                      "@Num": "2",
+                      "Subitem1Title": "ロ",
+                      "Subitem1Sentence": {
+                        "Sentence": "酸素の原子数のウランの原子数に対する比率の値は、一・九九以上二・〇二以下であること。"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "@Num": "6",
+                  "ItemTitle": "六",
+                  "ItemSentence": {
+                    "Sentence": "ガドリニウムを添加したものにあっては、次に適合すること。"
+                  },
+                  "Subitem1": [
+                    {
+                      "@Num": "1",
+                      "Subitem1Title": "イ",
+                      "Subitem1Sentence": {
+                        "Sentence": "ウランの含有量の全重量に対する百分率の値は、実用上差し支えがないものであること。"
+                      }
+                    },
+                    {
+                      "@Num": "2",
+                      "Subitem1Title": "ロ",
+                      "Subitem1Sentence": {
+                        "Sentence": "酸素の原子数のウランの原子数に対する比率の値は、実用上差し支えがないものであること。"
+                      }
+                    },
+                    {
+                      "@Num": "3",
+                      "Subitem1Title": "ハ",
+                      "Subitem1Sentence": {
+                        "Sentence": "ガドリニウムの含有量の全重量に対する百分率の値の偏差は、著しく大きくないこと。"
+                      }
+                    },
+                    {
+                      "@Num": "4",
+                      "Subitem1Title": "ニ",
+                      "Subitem1Sentence": {
+                        "Sentence": "ガドリニウムの均一度は、実用上差し支えがないものであること。"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          },
+          {
+            "@Num": "5",
+            "ArticleCaption": "（ウラン・プルトニウム混合酸化物燃料材）",
+            "ArticleTitle": "第五条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "ウラン・プルトニウム混合酸化物燃料材は、次のいずれにも適合するものでなければならない。"
+              },
+              "Item": [
+                {
+                  "@Num": "1",
+                  "ItemTitle": "一",
+                  "ItemSentence": {
+                    "Sentence": "各元素の含有量の全重量に対する百分率の値の偏差は、著しく大きくないこと。"
+                  }
+                },
+                {
+                  "@Num": "2",
+                  "ItemTitle": "二",
+                  "ItemSentence": {
+                    "Sentence": "酸素の原子数のウラン及びプルトニウムの原子数の合計に対する比率の値は、実用上差し支えがないものであること。"
+                  }
+                },
+                {
+                  "@Num": "3",
+                  "ItemTitle": "三",
+                  "ItemSentence": {
+                    "Sentence": "ウラン二三五、プルトニウム二三九及びプルトニウム二四一の含有量の合計のウラン及びプルトニウムの含有量の合計に対する百分率の値の偏差は、著しく大きくないこと。"
+                  }
+                },
+                {
+                  "@Num": "4",
+                  "ItemTitle": "四",
+                  "ItemSentence": {
+                    "Sentence": "プルトニウムの均一度は、実用上差し支えがないものであること。"
+                  }
+                },
+                {
+                  "@Num": "5",
+                  "ItemTitle": "五",
+                  "ItemSentence": {
+                    "Sentence": "ペレット型燃料材にあっては、ペレットが次に適合すること。"
+                  },
+                  "Subitem1": [
+                    {
+                      "@Num": "1",
+                      "Subitem1Title": "イ",
+                      "Subitem1Sentence": {
+                        "Sentence": "各部分の寸法の偏差は、著しく大きくないこと。"
+                      }
+                    },
+                    {
+                      "@Num": "2",
+                      "Subitem1Title": "ロ",
+                      "Subitem1Sentence": {
+                        "Sentence": "密度の偏差は、著しく大きくないこと。"
+                      }
+                    },
+                    {
+                      "@Num": "3",
+                      "Subitem1Title": "ハ",
+                      "Subitem1Sentence": {
+                        "Sentence": "表面に割れ、傷等で有害なものがないこと。"
+                      }
+                    },
+                    {
+                      "@Num": "4",
+                      "Subitem1Title": "ニ",
+                      "Subitem1Sentence": {
+                        "Sentence": "表面に油脂、酸化物等で有害な付着物がないこと。"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          },
+          {
+            "@Num": "6",
+            "ArticleCaption": "（ジルコニウム合金燃料被覆材）",
+            "ArticleTitle": "第六条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "ジルコニウム合金燃料被覆材は、次のいずれにも適合するものでなければならない。"
+              },
+              "Item": [
+                {
+                  "@Num": "1",
+                  "ItemTitle": "一",
+                  "ItemSentence": {
+                    "Sentence": "各部分の寸法の偏差は、著しく大きくないこと。"
+                  }
+                },
+                {
+                  "@Num": "2",
+                  "ItemTitle": "二",
+                  "ItemSentence": {
+                    "Sentence": "被覆材の軸は、著しく湾曲していないこと。"
+                  }
+                },
+                {
+                  "@Num": "3",
+                  "ItemTitle": "三",
+                  "ItemSentence": {
+                    "Column": [
+                      {
+                        "@Num": "1",
+                        "Sentence": "各元素の含有量の全重量に対する百分率の値は、日本工業規格Ｈ四七五一（一九九八）「ジルコニウム合金管」の「四"
+                      },
+                      {
+                        "@Num": "2",
+                        "Sentence": "品質」の表二及び表三に規定する値であること。"
+                      }
+                    ]
+                  }
+                },
+                {
+                  "@Num": "4",
+                  "ItemTitle": "四",
+                  "ItemSentence": {
+                    "Column": [
+                      {
+                        "@Num": "1",
+                        "Sentence": "日本工業規格Ｈ四七五一（一九九八）「ジルコニウム合金管」の「附属書三"
+                      },
+                      {
+                        "@Num": "2",
+                        "Sentence": "水素化物方位試験方法」又はこれと同等の方法によって水素化物方位試験を行ったとき、水素化物方向性係数が〇・四五を超えないこと。"
+                      }
+                    ]
+                  }
+                },
+                {
+                  "@Num": "5",
+                  "ItemTitle": "五",
+                  "ItemSentence": {
+                    "Column": [
+                      {
+                        "@Num": "1",
+                        "Sentence": "日本工業規格Ｈ四七五一（一九九八）「ジルコニウム合金管」の「附属書四"
+                      },
+                      {
+                        "@Num": "2",
+                        "Sentence": "超音波探傷試験方法」又はこれと同等の方法によって超音波探傷試験を行ったとき、対比試験片の人工傷からの欠陥信号と同等以上の欠陥信号がないこと。"
+                      }
+                    ]
+                  }
+                },
+                {
+                  "@Num": "6",
+                  "ItemTitle": "六",
+                  "ItemSentence": {
+                    "Sentence": "表面に割れ、傷等で有害なものがないこと。"
+                  }
+                },
+                {
+                  "@Num": "7",
+                  "ItemTitle": "七",
+                  "ItemSentence": {
+                    "Sentence": "表面に油脂、酸化物等で有害な付着物がないこと。"
+                  }
+                },
+                {
+                  "@Num": "8",
+                  "ItemTitle": "八",
+                  "ItemSentence": {
+                    "Sentence": "表面の粗さの程度は、実用上差し支えがないものであること。"
+                  }
+                },
+                {
+                  "@Num": "9",
+                  "ItemTitle": "九",
+                  "ItemSentence": {
+                    "Column": [
+                      {
+                        "@Num": "1",
+                        "Sentence": "日本工業規格Ｈ四七五一（一九九八）「ジルコニウム合金管」の「附属書二"
+                      },
+                      {
+                        "@Num": "2",
+                        "Sentence": "腐食試験方法」又はこれと同等の方法によって腐食試験を行ったとき、表面に著しい白色又は褐色の酸化物が付着せず、かつ、腐食質量増加が三日間で二十二ミリグラム毎平方デシメートル以下又は十四日間で三十八ミリグラム毎平方デシメートル以下であること。"
+                      }
+                    ]
+                  }
+                },
+                {
+                  "@Num": "10",
+                  "ItemTitle": "十",
+                  "ItemSentence": {
+                    "Sentence": "再結晶焼きなましを行ったものにあっては、次に適合すること。"
+                  },
+                  "Subitem1": [
+                    {
+                      "@Num": "1",
+                      "Subitem1Title": "イ",
+                      "Subitem1Sentence": {
+                        "Column": [
+                          {
+                            "@Num": "1",
+                            "Sentence": "日本工業規格Ｈ四七五一（一九九八）「ジルコニウム合金管」の「附属書一"
+                          },
+                          {
+                            "@Num": "2",
+                            "Sentence": "結晶粒度試験方法」又はこれと同等の方法によって結晶粒度試験を行ったとき、結晶粒度が結晶粒度番号七と同等又はそれより細かいこと。"
+                          }
+                        ]
+                      }
+                    },
+                    {
+                      "@Num": "2",
+                      "Subitem1Title": "ロ",
+                      "Subitem1Sentence": {
+                        "Column": [
+                          {
+                            "@Num": "1",
+                            "Sentence": "日本工業規格Ｚ二二四一（一九九八）「金属材料引張試験方法」又はこれと同等の方法によって引張試験を行ったとき、引張強さ、耐力及び伸びが日本工業規格Ｈ四七五一（一九九八）「ジルコニウム合金管」の「四"
+                          },
+                          {
+                            "@Num": "2",
+                            "Sentence": "品質」の表四に規定する値であること。"
+                          }
+                        ]
+                      }
+                    }
+                  ]
+                },
+                {
+                  "@Num": "11",
+                  "ItemTitle": "十一",
+                  "ItemSentence": {
+                    "Sentence": "応力除去焼きなましを行ったものにあっては、日本工業規格Ｚ二二四一（一九九八）「金属材料引張試験方法」又はこれと同等の方法によって引張試験を行ったとき、引張強さ、耐力及び伸びが必要な値であること。"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "@Num": "7",
+            "ArticleCaption": "（ステンレス鋼燃料被覆材）",
+            "ArticleTitle": "第七条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "ステンレス鋼燃料被覆材は、次のいずれにも適合するものでなければならない。"
+              },
+              "Item": [
+                {
+                  "@Num": "1",
+                  "ItemTitle": "一",
+                  "ItemSentence": {
+                    "Sentence": "各部分の寸法の偏差は、著しく大きくないこと。"
+                  }
+                },
+                {
+                  "@Num": "2",
+                  "ItemTitle": "二",
+                  "ItemSentence": {
+                    "Sentence": "被覆材の軸は、著しく湾曲していないこと。"
+                  }
+                },
+                {
+                  "@Num": "3",
+                  "ItemTitle": "三",
+                  "ItemSentence": {
+                    "Sentence": "次の表の上欄に掲げる元素を含有する場合における当該元素の含有量の全重量に対する百分率の値は、それぞれ同表の下欄に掲げる値であること。"
+                  },
+                  "TableStruct": {
+                    "Table": {
+                      "TableRow": [
+                        {
+                          "TableColumn": [
+                            {
+                              "Sentence": "炭素"
+                            },
+                            {
+                              "Sentence": "〇・〇八以下"
+                            }
+                          ]
+                        },
+                        {
+                          "TableColumn": [
+                            {
+                              "Sentence": "けい素"
+                            },
+                            {
+                              "Sentence": "一・〇〇以下"
+                            }
+                          ]
+                        },
+                        {
+                          "TableColumn": [
+                            {
+                              "Sentence": "マンガン"
+                            },
+                            {
+                              "Sentence": "二・〇〇以下"
+                            }
+                          ]
+                        },
+                        {
+                          "TableColumn": [
+                            {
+                              "Sentence": "リン"
+                            },
+                            {
+                              "Sentence": "〇・〇四〇以下"
+                            }
+                          ]
+                        },
+                        {
+                          "TableColumn": [
+                            {
+                              "Sentence": "硫黄"
+                            },
+                            {
+                              "Sentence": "〇・〇三〇以下"
+                            }
+                          ]
+                        },
+                        {
+                          "TableColumn": [
+                            {
+                              "Sentence": "ニッケル"
+                            },
+                            {
+                              "Sentence": "一〇・〇〇以上一四・〇〇以下"
+                            }
+                          ]
+                        },
+                        {
+                          "TableColumn": [
+                            {
+                              "Sentence": "クロム"
+                            },
+                            {
+                              "Sentence": "一六・〇〇以上一八・〇〇以下"
+                            }
+                          ]
+                        },
+                        {
+                          "TableColumn": [
+                            {
+                              "Sentence": "モリブデン"
+                            },
+                            {
+                              "Sentence": "二・〇〇以上三・〇〇以下"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "@Num": "4",
+                  "ItemTitle": "四",
+                  "ItemSentence": {
+                    "Sentence": "ニオブ、チタン及びほう素の含有量の全重量に対する百分率の値は、それぞれ実用上差し支えがないものであること。"
+                  }
+                },
+                {
+                  "@Num": "5",
+                  "ItemTitle": "五",
+                  "ItemSentence": {
+                    "Sentence": "日本工業規格Ｚ二三四四（一九九三）「金属材料のパルス反射法による超音波探傷試験方法通則」又はこれと同等の方法によって超音波探傷試験を行ったとき、対比試験片の人工傷からの欠陥信号と同等以上の欠陥信号がないこと。"
+                  }
+                },
+                {
+                  "@Num": "6",
+                  "ItemTitle": "六",
+                  "ItemSentence": {
+                    "Sentence": "表面に割れ、傷等で有害なものがないこと。"
+                  }
+                },
+                {
+                  "@Num": "7",
+                  "ItemTitle": "七",
+                  "ItemSentence": {
+                    "Sentence": "表面に油脂、酸化物等で有害な付着物がないこと。"
+                  }
+                },
+                {
+                  "@Num": "8",
+                  "ItemTitle": "八",
+                  "ItemSentence": {
+                    "Sentence": "表面の粗さの程度は、実用上差し支えがないものであること。"
+                  }
+                },
+                {
+                  "@Num": "9",
+                  "ItemTitle": "九",
+                  "ItemSentence": {
+                    "Sentence": "結晶粒度は、実用上差し支えがないものであること。"
+                  }
+                },
+                {
+                  "@Num": "10",
+                  "ItemTitle": "十",
+                  "ItemSentence": {
+                    "Sentence": "日本工業規格Ｚ二二四一（一九九八）「金属材料引張試験方法」又はこれと同等の方法によって引張試験を行ったとき、引張強さ、耐力及び伸びが必要な値であること。"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "@Num": "8",
+            "ArticleCaption": "（ジルコニウム合金端栓）",
+            "ArticleTitle": "第八条",
+            "Paragraph": [
+              {
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": "再結晶焼きなましを行ったジルコニウム合金端栓は、日本工業規格Ｚ二二四一（一九九八）「金属材料引張試験方法」又はこれと同等の方法によって次の表の上欄に掲げるいずれかの試験温度において引張試験を行ったとき、引張強さ、耐力及び伸びが同欄に掲げる試験温度の区分に応じ、それぞれ同表の下欄に掲げる値であるものでなければならない。"
+                },
+                "TableStruct": {
+                  "Table": {
+                    "TableRow": [
+                      {
+                        "TableColumn": [
+                          {
+                            "@rowspan": "2",
+                            "Sentence": "温度"
+                          },
+                          {
+                            "@colspan": "3",
+                            "Sentence": "引張試験"
+                          }
+                        ]
+                      },
+                      {
+                        "TableColumn": [
+                          {
+                            "Sentence": [
+                              "引張強さ",
+                              "ニュートン毎平方ミリメートル"
+                            ]
+                          },
+                          {
+                            "Sentence": [
+                              "耐力",
+                              "ニュートン毎平方ミリメートル"
+                            ]
+                          },
+                          {
+                            "Sentence": [
+                              "伸び",
+                              "パーセント"
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "TableColumn": [
+                          {
+                            "Sentence": [
+                              "十度以上",
+                              "三十五度以下"
+                            ]
+                          },
+                          {
+                            "Sentence": "四百十五以上"
+                          },
+                          {
+                            "Sentence": "二百四十以上"
+                          },
+                          {
+                            "Sentence": "十四以上"
+                          }
+                        ]
+                      },
+                      {
+                        "TableColumn": [
+                          {
+                            "Sentence": "三百十六度"
+                          },
+                          {
+                            "Sentence": "二百十五以上"
+                          },
+                          {
+                            "Sentence": "百五以上"
+                          },
+                          {
+                            "Sentence": "二十四以上"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                }
+              },
+              {
+                "@Num": "2",
+                "ParagraphNum": "２",
+                "ParagraphSentence": {
+                  "Sentence": "応力除去焼きなましを行ったジルコニウム合金端栓は、日本工業規格Ｚ二二四一（一九九八）「金属材料引張試験方法」又はこれと同等の方法によって引張試験を行ったとき、引張強さ、耐力及び伸びが必要な値であること。"
+                }
+              },
+              {
+                "@Num": "3",
+                "ParagraphNum": "３",
+                "ParagraphSentence": {
+                  "Sentence": [
+                    {
+                      "@Function": "main",
+                      "@Num": "1",
+                      "#text": "第六条（第二号、第四号、第五号、第八号、第十号及び第十一号を除く。）の規定は、ジルコニウム合金端栓に準用する。"
+                    },
+                    {
+                      "@Function": "proviso",
+                      "@Num": "2",
+                      "#text": "ただし、第六条第三号の日本工業規格Ｈ四七五一（一九九八）「ジルコニウム合金管」の「四　品質」の表三に掲げるニオブ及びカルシウムを除く。"
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "@Num": "9",
+            "ArticleCaption": "（ステンレス鋼端栓）",
+            "ArticleTitle": "第九条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "第七条（第二号、第五号、第八号及び第九号を除く。）の規定は、ステンレス鋼端栓に準用する。"
+              }
+            }
+          },
+          {
+            "@Num": "10",
+            "ArticleCaption": "（その他の部品）",
+            "ArticleTitle": "第十条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "燃料材、燃料被覆材、端栓以外の燃料体の部品は、次のいずれにも適合するものでなければならない。"
+              },
+              "Item": [
+                {
+                  "@Num": "1",
+                  "ItemTitle": "一",
+                  "ItemSentence": {
+                    "Sentence": "各部分の寸法の偏差は、著しく大きくないこと。"
+                  }
+                },
+                {
+                  "@Num": "2",
+                  "ItemTitle": "二",
+                  "ItemSentence": {
+                    "Sentence": "表面に割れ、傷等で有害なものがないこと。"
+                  }
+                },
+                {
+                  "@Num": "3",
+                  "ItemTitle": "三",
+                  "ItemSentence": {
+                    "Sentence": "表面に油脂、酸化物等で有害な付着物がないこと。"
+                  }
+                },
+                {
+                  "@Num": "4",
+                  "ItemTitle": "四",
+                  "ItemSentence": {
+                    "Sentence": "支持格子、上部支持板、下部支持板、ワイヤスペーサ、ラッパ管、ハンドリングヘッド及びエントランスノズルにあっては、次に適合すること。"
+                  },
+                  "Subitem1": [
+                    {
+                      "@Num": "1",
+                      "Subitem1Title": "イ",
+                      "Subitem1Sentence": {
+                        "Sentence": "各元素の含有量の全重量に対する百分率の値の偏差は、著しく大きくないこと。"
+                      }
+                    },
+                    {
+                      "@Num": "2",
+                      "Subitem1Title": "ロ",
+                      "Subitem1Sentence": {
+                        "Sentence": "日本工業規格Ｚ二二四一（一九九八）「金属材料引張試験方法」又はこれと同等の方法によって引張試験を行ったとき、引張強さ、耐力及び伸びが必要な値であること。"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          },
+          {
+            "@Num": "11",
+            "ArticleCaption": "（燃料要素）",
+            "ArticleTitle": "第十一条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "燃料要素は、次のいずれにも適合するものでなければならない。"
+              },
+              "Item": [
+                {
+                  "@Num": "1",
+                  "ItemTitle": "一",
+                  "ItemSentence": {
+                    "Sentence": "各部分の寸法の偏差は、著しく大きくないこと。"
+                  }
+                },
+                {
+                  "@Num": "2",
+                  "ItemTitle": "二",
+                  "ItemSentence": {
+                    "Sentence": "燃料要素の軸は、著しく湾曲していないこと。"
+                  }
+                },
+                {
+                  "@Num": "3",
+                  "ItemTitle": "三",
+                  "ItemSentence": {
+                    "Sentence": "表面に割れ、傷等で有害なものがないこと。"
+                  }
+                },
+                {
+                  "@Num": "4",
+                  "ItemTitle": "四",
+                  "ItemSentence": {
+                    "Sentence": "表面に油脂、酸化物等で有害な付着物がないこと。"
+                  }
+                },
+                {
+                  "@Num": "5",
+                  "ItemTitle": "五",
+                  "ItemSentence": {
+                    "Sentence": "日本工業規格Ｚ四五〇四（一九九三）「放射線表面汚染の測定方法」における間接測定法又はこれと同等の方法によって測定したとき、表面に付着している核燃料物質の量が〇・〇〇〇〇四ベクレル毎平方ミリメートルを超えないこと。"
+                  }
+                },
+                {
+                  "@Num": "6",
+                  "ItemTitle": "六",
+                  "ItemSentence": {
+                    "Sentence": "ヘリウム漏えい試験を行ったとき、漏えい量が一億分の三百四メガパスカル立方ミリメートル毎秒を超えないこと。"
+                  }
+                },
+                {
+                  "@Num": "7",
+                  "ItemTitle": "七",
+                  "ItemSentence": {
+                    "Sentence": "溶接部にブローホール、アンダーカット等で有害なものがないこと。"
+                  }
+                },
+                {
+                  "@Num": "8",
+                  "ItemTitle": "八",
+                  "ItemSentence": {
+                    "Sentence": "部品の欠如がないこと。"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "@Num": "12",
+            "ArticleCaption": "（燃料集合体）",
+            "ArticleTitle": "第十二条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "燃料要素の集合体である燃料体は、次のいずれにも適合するものでなければならない。"
+              },
+              "Item": [
+                {
+                  "@Num": "1",
+                  "ItemTitle": "一",
+                  "ItemSentence": {
+                    "Sentence": "各部分の寸法の偏差は、著しく大きくないこと。"
+                  }
+                },
+                {
+                  "@Num": "2",
+                  "ItemTitle": "二",
+                  "ItemSentence": {
+                    "Sentence": "表面に割れ、傷等で有害なものがないこと。"
+                  }
+                },
+                {
+                  "@Num": "3",
+                  "ItemTitle": "三",
+                  "ItemSentence": {
+                    "Sentence": "表面に油脂、酸化物等で有害な付着物がないこと。"
+                  }
+                },
+                {
+                  "@Num": "4",
+                  "ItemTitle": "四",
+                  "ItemSentence": {
+                    "Sentence": "部品の欠如がないこと。"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "@Num": "13",
+            "ArticleCaption": "（フレキシブルディスクによる手続）",
+            "ArticleTitle": "第十三条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "第三条第二項の申請書の申請については、当該申請書に記載すべきこととされている事項を記録したフレキシブルディスク及び別記様式のフレキシブルディスク提出票を提出することにより行うことができる。"
+              }
+            }
+          },
+          {
+            "@Num": "14",
+            "ArticleCaption": "（フレキシブルディスクの構造）",
+            "ArticleTitle": "第十四条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "前条のフレキシブルディスクは、次のいずれかに該当するものでなければならない。"
+              },
+              "Item": [
+                {
+                  "@Num": "1",
+                  "ItemTitle": "一",
+                  "ItemSentence": {
+                    "Sentence": "日本工業規格Ｘ六二二一に適合する九十ミリメートルフレキシブルディスクカートリッジ"
+                  }
+                },
+                {
+                  "@Num": "2",
+                  "ItemTitle": "二",
+                  "ItemSentence": {
+                    "Sentence": "日本工業規格Ｘ六二二三に適合する九十ミリメートルフレキシブルディスクカートリッジ"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "@Num": "15",
+            "ArticleCaption": "（フレキシブルディスクの記録方式）",
+            "ArticleTitle": "第十五条",
+            "Paragraph": [
+              {
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": "第十三条の規定によるフレキシブルディスクへの記録は、次に掲げる方式に従ってしなければならない。"
+                },
+                "Item": [
+                  {
+                    "@Num": "1",
+                    "ItemTitle": "一",
+                    "ItemSentence": {
+                      "Sentence": "トラックフォーマットについては、前条第一号のフレキシブルディスクに記録する場合にあっては日本工業規格Ｘ六二二二に、同条第二号のフレキシブルディスクに記録する場合にあっては日本工業規格Ｘ六二二五に規定する方式"
+                    }
+                  },
+                  {
+                    "@Num": "2",
+                    "ItemTitle": "二",
+                    "ItemSentence": {
+                      "Sentence": "ボリューム及びファイル構成については、日本工業規格Ｘ〇六〇五に規定する方式"
+                    }
+                  },
+                  {
+                    "@Num": "3",
+                    "ItemTitle": "三",
+                    "ItemSentence": {
+                      "Sentence": "文字の符号化表現については、日本工業規格Ｘ〇二〇八附属書一に規定する方式"
+                    }
+                  }
+                ]
+              },
+              {
+                "@Num": "2",
+                "ParagraphNum": "２",
+                "ParagraphSentence": {
+                  "Sentence": "第十三条の規定によるフレキシブルディスクへの記録は、日本工業規格Ｘ〇二〇一及びＸ〇二〇八に規定する図形文字並びに日本工業規格Ｘ〇二一一に規定する制御文字のうち「復帰」及び「改行」を用いてしなければならない。"
+                }
+              }
+            ]
+          },
+          {
+            "@Num": "16",
+            "ArticleCaption": "（フレキシブルディスクに貼り付ける書面）",
+            "ArticleTitle": "第十六条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "第十三条のフレキシブルディスクには、日本工業規格Ｘ六二二一又はＸ六二二三に規定するラベル領域に、次に掲げる事項を記載した書面を貼り付けなければならない。"
+              },
+              "Item": [
+                {
+                  "@Num": "1",
+                  "ItemTitle": "一",
+                  "ItemSentence": {
+                    "Sentence": "提出者の氏名又は名称"
+                  }
+                },
+                {
+                  "@Num": "2",
+                  "ItemTitle": "二",
+                  "ItemSentence": {
+                    "Sentence": "提出年月日"
+                  }
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "SupplProvision": {
+        "SupplProvisionLabel": "附　則",
+        "Paragraph": [
+          {
+            "@Num": "1",
+            "ParagraphNum": "１",
+            "ParagraphSentence": {
+              "Sentence": "この規則は、原子力規制委員会設置法（平成二十四年法律第四十七号）附則第一条第四号に掲げる規定の施行の日（平成二十五年七月八日）から施行する。"
+            }
+          },
+          {
+            "@Num": "2",
+            "ParagraphNum": "２",
+            "ParagraphSentence": {
+              "Sentence": "この規則の施行の際現に発電用核燃料物質に関する技術基準を定める省令（昭和四十年通商産業省令第六十三号）第二条第一項の規定によりされている認可は、第三条第一項の規定によりされた認可とみなす。"
+            }
+          },
+          {
+            "@Num": "3",
+            "ParagraphNum": "３",
+            "ParagraphSentence": {
+              "Sentence": "この規則の施行の際現に発電用核燃料物質に関する技術基準を定める省令第二条第二項の規定による認可についてされている申請は、第三条第二項の規定による認可についてされた申請とみなす。"
+            }
+          }
+        ]
+      },
+      "AppdxStyle": {
+        "AppdxStyleTitle": "別記様式",
+        "RelatedArticleNum": "（第十三条関係）",
+        "StyleStruct": {
+          "Style": {
+            "Fig": {
+              "@src": "./pict/H25F31901000011-001.pdf"
+            }
+          }
+        }
+      }
+    }
+  }
+}

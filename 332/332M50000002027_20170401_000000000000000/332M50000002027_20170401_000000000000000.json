@@ -1,0 +1,446 @@
+{
+  "Law": {
+    "@Era": "Showa",
+    "@Lang": "ja",
+    "@LawType": "MinisterialOrdinance",
+    "@Num": "27",
+    "@Year": "32",
+    "LawNum": "昭和三十二年総理府令第二十七号",
+    "LawBody": {
+      "LawTitle": "法人企業投資実績統計調査規則",
+      "EnactStatement": "統計法第三条第二項の規定に基き、法人企業投資実績統計調査規則を次のように定める。",
+      "MainProvision": {
+        "Article": [
+          {
+            "@Num": "1",
+            "ArticleCaption": "（目的）",
+            "ArticleTitle": "第一条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "統計法（昭和二十二年法律第十八号）に基く指定統計である法人企業投資実績統計調査（指定統計第九十一号）の施行に関しては、この府令の定めるところによる。"
+              }
+            }
+          },
+          {
+            "@Num": "2",
+            "ArticleCaption": "（調査の目的）",
+            "ArticleTitle": "第二条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "法人企業投資実績統計調査は、法人の設備投資及び在庫投資の実績を調査し、経済の動向をは握するための基礎資料を作成することを目的とする。"
+              }
+            }
+          },
+          {
+            "@Num": "3",
+            "ArticleCaption": "（用語の意義）",
+            "ArticleTitle": "第三条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "この府令において、次の各号に掲げる用語の意義は、それぞれ当該各号に定めるところによる。"
+              },
+              "Item": [
+                {
+                  "@Num": "1",
+                  "ItemTitle": "一",
+                  "ItemSentence": {
+                    "Column": [
+                      {
+                        "@Num": "1",
+                        "Sentence": "有形固定資産"
+                      },
+                      {
+                        "@Num": "2",
+                        "Sentence": "事業用として法人が所有している土地並びに耐用年数一年以上の建物、構築物、機械及び装置、船舶、車両及び運搬具、器具及び備品、建設仮勘定その他の有形固定資産をいう。"
+                      }
+                    ]
+                  }
+                },
+                {
+                  "@Num": "2",
+                  "ItemTitle": "二",
+                  "ItemSentence": {
+                    "Column": [
+                      {
+                        "@Num": "1",
+                        "Sentence": "設備投資"
+                      },
+                      {
+                        "@Num": "2",
+                        "Sentence": "有形固定資産の価額の過去一年間における増加額をいう。"
+                      }
+                    ]
+                  }
+                },
+                {
+                  "@Num": "3",
+                  "ItemTitle": "三",
+                  "ItemSentence": {
+                    "Column": [
+                      {
+                        "@Num": "1",
+                        "Sentence": "在庫投資"
+                      },
+                      {
+                        "@Num": "2",
+                        "Sentence": "完成品及び商品、仕掛品及び半製品、原材料並びに貯蔵品の評価額の過去一年間における増減額をいう。"
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "@Num": "4",
+            "ArticleCaption": "（調査の期日）",
+            "ArticleTitle": "第四条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "法人企業投資実績統計調査は、毎年三月三十一日現在によつて行う。"
+              }
+            }
+          },
+          {
+            "@Num": "5",
+            "ArticleCaption": "（調査の客体）",
+            "ArticleTitle": "第五条",
+            "Paragraph": [
+              {
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": "法人企業投資実績統計調査は、内閣総理大臣が選定する法人（以下「調査法人」という。）について行う。"
+                }
+              },
+              {
+                "@Num": "2",
+                "ParagraphNum": "２",
+                "ParagraphSentence": {
+                  "Sentence": "内閣総理大臣は、前項の調査法人の名称を関係都道府県知事に通知するものとする。"
+                }
+              },
+              {
+                "@Num": "3",
+                "ParagraphNum": "３",
+                "ParagraphSentence": {
+                  "Sentence": "都道府県知事は、前項の通知を受けたときは、すみやかに関係市町村長（特別区の区長を含む。以下同じ。）に通知するものとする。"
+                }
+              }
+            ]
+          },
+          {
+            "@Num": "6",
+            "ArticleCaption": "（調査事項）",
+            "ArticleTitle": "第六条",
+            "Paragraph": [
+              {
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": "法人企業投資実績統計調査は、次の各号に掲げる事項について行う。"
+                },
+                "Item": [
+                  {
+                    "@Num": "1",
+                    "ItemTitle": "一",
+                    "ItemSentence": {
+                      "Sentence": "名称"
+                    }
+                  },
+                  {
+                    "@Num": "2",
+                    "ItemTitle": "二",
+                    "ItemSentence": {
+                      "Sentence": "本店又は主たる事務所の所在地"
+                    }
+                  },
+                  {
+                    "@Num": "3",
+                    "ItemTitle": "三",
+                    "ItemSentence": {
+                      "Sentence": "資本、出資又は基本財産の額"
+                    }
+                  },
+                  {
+                    "@Num": "4",
+                    "ItemTitle": "四",
+                    "ItemSentence": {
+                      "Sentence": "決算の時期及び回数"
+                    }
+                  },
+                  {
+                    "@Num": "5",
+                    "ItemTitle": "五",
+                    "ItemSentence": {
+                      "Sentence": "事業の内容"
+                    }
+                  },
+                  {
+                    "@Num": "6",
+                    "ItemTitle": "六",
+                    "ItemSentence": {
+                      "Sentence": "主要品目の売上高"
+                    }
+                  },
+                  {
+                    "@Num": "7",
+                    "ItemTitle": "七",
+                    "ItemSentence": {
+                      "Sentence": "有形固定資産の帳簿価額"
+                    }
+                  },
+                  {
+                    "@Num": "8",
+                    "ItemTitle": "八",
+                    "ItemSentence": {
+                      "Sentence": "設備投資"
+                    }
+                  },
+                  {
+                    "@Num": "9",
+                    "ItemTitle": "九",
+                    "ItemSentence": {
+                      "Sentence": "在庫投資"
+                    }
+                  }
+                ]
+              },
+              {
+                "@Num": "2",
+                "ParagraphNum": "２",
+                "ParagraphSentence": {
+                  "Sentence": "前項の調査事項の細目については、内閣総理大臣が定める調査票による。"
+                }
+              }
+            ]
+          },
+          {
+            "@Num": "7",
+            "ArticleCaption": "（申告の義務）",
+            "ArticleTitle": "第七条",
+            "Paragraph": [
+              {
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": "都道府県知事又は市町村長は、内閣総理大臣の定めるところにより、その管轄区域内に本店又は主たる事務所を有する調査法人に調査票を配布するものとする。"
+                }
+              },
+              {
+                "@Num": "2",
+                "ParagraphNum": "２",
+                "ParagraphSentence": {
+                  "Sentence": "前項の規定により調査票を配布された調査法人の代表者は、前条に規定する事項について申告しなければならない。"
+                }
+              },
+              {
+                "@Num": "3",
+                "ParagraphNum": "３",
+                "ParagraphSentence": {
+                  "Sentence": "前項の規定による申告は、配布された調査票に所定の事項を記入した上、内閣総理大臣の定める期日までに、当該調査票を配布した都道府県知事又は市町村長に提出してしなければならない。"
+                }
+              }
+            ]
+          },
+          {
+            "@Num": "8",
+            "ArticleCaption": "（統計調査員）",
+            "ArticleTitle": "第八条",
+            "Paragraph": [
+              {
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": "法人企業投資実績統計調査の事務に従事させるため、統計法第十二条第一項の統計調査員（以下「法人企業投資実績統計調査員」という。）を置く。"
+                }
+              },
+              {
+                "@Num": "2",
+                "ParagraphNum": "２",
+                "ParagraphSentence": {
+                  "Sentence": "法人企業投資実績統計調査員は、都道府県知事が命ずる。"
+                }
+              },
+              {
+                "@Num": "3",
+                "ParagraphNum": "３",
+                "ParagraphSentence": {
+                  "Sentence": "法人企業投資実績統計調査員は、都道府県知事又は市町村長の指揮監督を受けて、調査票の配布、取集その他法人企業投資実績統計調査の事務に従事する。"
+                }
+              }
+            ]
+          },
+          {
+            "@Num": "9",
+            "ArticleCaption": "（統計従事者）",
+            "ArticleTitle": "第九条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "法人企業投資実績統計調査には、統計法第十条第三項ただし書の規定により、統計官及び統計主事以外の者も従事させることができる。"
+              }
+            }
+          },
+          {
+            "@Num": "10",
+            "ArticleCaption": "（調査の報告）",
+            "ArticleTitle": "第十条",
+            "Paragraph": [
+              {
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": "市町村長は、第七条第三項の規定により提出された調査票を点検し、整理して、都道府県知事にその定める期日までに送付しなければならない。"
+                }
+              },
+              {
+                "@Num": "2",
+                "ParagraphNum": "２",
+                "ParagraphSentence": {
+                  "Sentence": "都道府県知事は、第七条第三項の規定により提出された調査票及び前項の規定により送付された調査票を点検し、整理して、内閣総理大臣にその定める期日までに送付しなければならない。"
+                }
+              }
+            ]
+          },
+          {
+            "@Num": "11",
+            "ArticleCaption": "（結果表の作成）",
+            "ArticleTitle": "第十一条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "内閣総理大臣は、前条第二項の規定により送付された調査票を審査集計し、所要の推計を行つて結果表を作成する。"
+              }
+            }
+          },
+          {
+            "@Num": "12",
+            "ArticleCaption": "（結果の公表）",
+            "ArticleTitle": "第十二条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "内閣総理大臣は、前条の規定により結果表を作成したときは、すみやかに公表するものとする。"
+              }
+            }
+          },
+          {
+            "@Num": "13",
+            "ArticleCaption": "（調査票の使用）",
+            "ArticleTitle": "第十三条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "調査票は、統計法第十五条第一項の規定により、統計上の目的以外に使用してはならない。"
+              }
+            }
+          },
+          {
+            "@Num": "14",
+            "ArticleCaption": "（関係書類の保存）",
+            "ArticleTitle": "第十四条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "法人企業投資実績統計調査の関係書類は、次の表の区分により保存しなければならない。"
+              },
+              "TableStruct": {
+                "Table": {
+                  "TableRow": [
+                    {
+                      "TableColumn": [
+                        {
+                          "Sentence": "書類名"
+                        },
+                        {
+                          "Sentence": "保存期間"
+                        },
+                        {
+                          "Sentence": "保存責任者"
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "Sentence": "調査票"
+                        },
+                        {
+                          "Sentence": "二年"
+                        },
+                        {
+                          "Sentence": "内閣総理大臣"
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "Sentence": "結果表"
+                        },
+                        {
+                          "Sentence": "永年"
+                        },
+                        {
+                          "Sentence": "同右"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            }
+          }
+        ]
+      },
+      "SupplProvision": [
+        {
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この府令は、公布の日から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "昭和四〇年四月二八日総理府令第一七号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この府令は、公布の日から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成一二年八月一四日総理府令第九三号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この府令は、内閣法の一部を改正する法律（平成十一年法律第八十八号）の施行の日（平成十三年一月六日）から施行する。"
+            }
+          }
+        }
+      ]
+    }
+  }
+}

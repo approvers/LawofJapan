@@ -1,0 +1,2625 @@
+{
+  "Law": {
+    "@Era": "Showa",
+    "@Lang": "ja",
+    "@LawType": "MinisterialOrdinance",
+    "@Num": "51",
+    "@Year": "28",
+    "LawNum": "昭和二十八年運輸省令第五十一号",
+    "LawBody": {
+      "LawTitle": "外航船舶建造融資利子補給臨時措置法施行規則",
+      "EnactStatement": "外航船舶建造融資利子補給及び損失補償法施行規則を次のように定める。",
+      "MainProvision": {
+        "Article": [
+          {
+            "@Num": "1",
+            "ArticleCaption": "（規格）",
+            "ArticleTitle": "第一条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "外航船舶建造融資利子補給臨時措置法（昭和二十八年法律第一号。以下「法」という。）第二条の規格は、次のとおりとする。"
+              },
+              "Item": [
+                {
+                  "@Num": "1",
+                  "ItemTitle": "一",
+                  "ItemSentence": {
+                    "Sentence": "総トン数四千五百トン以上であること。"
+                  }
+                },
+                {
+                  "@Num": "2",
+                  "ItemTitle": "二",
+                  "ItemSentence": {
+                    "Sentence": "満載航海速力十二ノツト以上であること。"
+                  }
+                },
+                {
+                  "@Num": "3",
+                  "ItemTitle": "三",
+                  "ItemSentence": {
+                    "Sentence": "液化天然ガス運搬船（専らばら積みの液化天然ガスを輸送するための構造を有する船舶をいう。以下同じ。）以外の船舶にあつては、船橋に設置された主機の遠隔操縦装置その他の船内作業の省力化に著しい効果がある設備を有すること。"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "@Num": "2",
+            "ArticleCaption": "（対象融資）",
+            "ArticleTitle": "第二条",
+            "Paragraph": [
+              {
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": [
+                    {
+                      "@Function": "main",
+                      "@Num": "1",
+                      "#text": "法第二条の対象融資は、コンテナ船（専らコンテナ貨物を輸送するための構造を有する船舶をいう。以下同じ。）及び液化天然ガス運搬船については船舶の建造価額以内の額、コンテナ船及び液化天然ガス運搬船以外の船舶については船舶の建造価額の八割五分以内の額で当該船舶に係る第四条第四項の通知を受けた会社が同条第五項の規定により申請した場合の当該申請に係る各金融機関ごとの融資とする。"
+                    },
+                    {
+                      "@Function": "proviso",
+                      "@Num": "2",
+                      "#text": "ただし、当該船舶が造船事業者から引き渡された日から二月を経過した日以後になされた融資は、含まないものとする。"
+                    }
+                  ]
+                }
+              },
+              {
+                "@Num": "2",
+                "ParagraphNum": "２",
+                "ParagraphSentence": {
+                  "Sentence": [
+                    {
+                      "@Function": "main",
+                      "@Num": "1",
+                      "#text": "前項の船舶の建造価額は、造船契約により定められた船舶の建造代価とする。"
+                    },
+                    {
+                      "@Function": "proviso",
+                      "@Num": "2",
+                      "#text": "ただし、造船契約により船舶の建造代価が法第二条の契約の締結の申請及び申込の後に定められることとされているときは、船舶の建造代価について造船契約に定められた範囲内において、運輸大臣が認定する額とする。"
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "@Num": "3",
+            "ArticleCaption": "（予定しゆん工日前の融資残高の計算方法）",
+            "ArticleTitle": "第三条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "予定しゆん工日前の期間についての融資残高は、第五条の申込書に記載された融資の日及び額に従つて融資が行なわれたものとして計算するものとする。"
+              }
+            }
+          },
+          {
+            "@Num": "4",
+            "ArticleCaption": "（契約申請）",
+            "ArticleTitle": "第四条",
+            "Paragraph": [
+              {
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": "法第二条の申請をしようとする会社は、運輸大臣の定める日までに、当該申請に係る船舶について、次に掲げる事項の概要を記載した船舶建造計画書を運輸大臣に提出するものとする。"
+                },
+                "Item": [
+                  {
+                    "@Num": "1",
+                    "ItemTitle": "一",
+                    "ItemSentence": {
+                      "Sentence": "船種"
+                    }
+                  },
+                  {
+                    "@Num": "2",
+                    "ItemTitle": "二",
+                    "ItemSentence": {
+                      "Sentence": "総トン数"
+                    }
+                  },
+                  {
+                    "@Num": "3",
+                    "ItemTitle": "三",
+                    "ItemSentence": {
+                      "Sentence": "載貨重量トン数"
+                    }
+                  },
+                  {
+                    "@Num": "4",
+                    "ItemTitle": "四",
+                    "ItemSentence": {
+                      "Sentence": "主要寸法"
+                    }
+                  },
+                  {
+                    "@Num": "5",
+                    "ItemTitle": "五",
+                    "ItemSentence": {
+                      "Sentence": "満載航海速力"
+                    }
+                  },
+                  {
+                    "@Num": "6",
+                    "ItemTitle": "六",
+                    "ItemSentence": {
+                      "Sentence": "乗組員数"
+                    }
+                  },
+                  {
+                    "@Num": "7",
+                    "ItemTitle": "七",
+                    "ItemSentence": {
+                      "Sentence": "予定契約船価"
+                    }
+                  },
+                  {
+                    "@Num": "8",
+                    "ItemTitle": "八",
+                    "ItemSentence": {
+                      "Sentence": "予定工事工程"
+                    }
+                  },
+                  {
+                    "@Num": "9",
+                    "ItemTitle": "九",
+                    "ItemSentence": {
+                      "Sentence": "就航予定航路又は就航予定地域"
+                    }
+                  },
+                  {
+                    "@Num": "10",
+                    "ItemTitle": "十",
+                    "ItemSentence": {
+                      "Sentence": "主なる予定貨物"
+                    }
+                  },
+                  {
+                    "@Num": "11",
+                    "ItemTitle": "十一",
+                    "ItemSentence": {
+                      "Sentence": "長期の積荷保証契約がある場合には、その荷主、期間、輸送量及び運賃"
+                    }
+                  },
+                  {
+                    "@Num": "12",
+                    "ItemTitle": "十二",
+                    "ItemSentence": {
+                      "Sentence": {
+                        "Ruby": [
+                          {
+                            "Rt": "よう",
+                            "#text": "傭"
+                          },
+                          {
+                            "Rt": "よう",
+                            "#text": "傭"
+                          },
+                          {
+                            "Rt": "よう",
+                            "#text": "傭"
+                          }
+                        ],
+                        "#text": "長期の船契約がある場合には、その船者、期間及び船料"
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "@Num": "2",
+                "ParagraphNum": "２",
+                "ParagraphSentence": {
+                  "Sentence": "前項の船舶建造計画書を提出した会社は、当該船舶の建造の計画が確定したときは、直ちに、当該船舶について、前項各号に掲げる事項の細目を記載した船舶建造計画明細書に、次に掲げる書類を添え運輸大臣に提出するものとする。"
+                },
+                "Item": [
+                  {
+                    "@Num": "1",
+                    "ItemTitle": "一",
+                    "ItemSentence": {
+                      "Sentence": "造船契約書の写"
+                    }
+                  },
+                  {
+                    "@Num": "2",
+                    "ItemTitle": "二",
+                    "ItemSentence": {
+                      "Sentence": "航海計算書"
+                    }
+                  },
+                  {
+                    "@Num": "3",
+                    "ItemTitle": "三",
+                    "ItemSentence": {
+                      "Sentence": "船舶経費計算書"
+                    }
+                  },
+                  {
+                    "@Num": "4",
+                    "ItemTitle": "四",
+                    "ItemSentence": {
+                      "Sentence": "運航採算計算書"
+                    }
+                  },
+                  {
+                    "@Num": "5",
+                    "ItemTitle": "五",
+                    "ItemSentence": {
+                      "Sentence": "海運国際収支改善効果計算書"
+                    }
+                  }
+                ]
+              },
+              {
+                "@Num": "3",
+                "ParagraphNum": "３",
+                "ParagraphSentence": {
+                  "Sentence": "前項第二号から第五号までに掲げる書類の様式は、別に告示で定める。"
+                }
+              },
+              {
+                "@Num": "4",
+                "ParagraphNum": "４",
+                "ParagraphSentence": {
+                  "Sentence": [
+                    {
+                      "@Num": "1",
+                      "#text": "運輸大臣は、第一項の船舶建造計画書及び第二項の船舶建造計画明細書による船舶の建造の計画が法第一条の目的に適合すると認めるときは、遅滞なく、当該船舶建造計画書及び船舶建造計画明細書を提出した会社に対し、当該船舶の建造に係る日本政策投資銀行及び一般金融機関の融資について法第二条の申請をすることができる旨通知するものとする。"
+                    },
+                    {
+                      "@Num": "2",
+                      "#text": "この場合において、当該船舶建造計画書及び船舶建造計画明細書に係る船舶の建造価額について第二条第二項ただし書の規定により認定を行つたときは、その認定した額を合わせて通知するものとする。"
+                    }
+                  ]
+                }
+              },
+              {
+                "@Num": "5",
+                "ParagraphNum": "５",
+                "ParagraphSentence": {
+                  "Sentence": "前項の通知を受けた会社は、様式第一の申請書を運輸大臣に提出することができる。"
+                }
+              },
+              {
+                "@Num": "6",
+                "ParagraphNum": "６",
+                "ParagraphSentence": {
+                  "Sentence": "前項の申請書には、次に掲げる書類を添付するものとする。"
+                },
+                "Item": [
+                  {
+                    "@Num": "1",
+                    "ItemTitle": "一",
+                    "ItemSentence": {
+                      "Sentence": "日本政策投資銀行の融資承諾書及び一般金融機関の融資確約書の写"
+                    }
+                  },
+                  {
+                    "@Num": "2",
+                    "ItemTitle": "二",
+                    "ItemSentence": {
+                      "Sentence": "船舶要目書（様式第二）"
+                    }
+                  },
+                  {
+                    "@Num": "3",
+                    "ItemTitle": "三",
+                    "ItemSentence": {
+                      "Sentence": "契約船価内訳書（様式第三）"
+                    }
+                  },
+                  {
+                    "@Num": "4",
+                    "ItemTitle": "四",
+                    "ItemSentence": {
+                      "Sentence": "造船契約書の写"
+                    }
+                  },
+                  {
+                    "@Num": "5",
+                    "ItemTitle": "五",
+                    "ItemSentence": {
+                      "Sentence": "外航船舶建造融資利子補給金計算書（様式第四）"
+                    }
+                  }
+                ]
+              },
+              {
+                "@Num": "7",
+                "ParagraphNum": "７",
+                "ParagraphSentence": {
+                  "Sentence": "第五項の申請書を提出した会社は、前項の添付書類に記載した事項に変更があつたときは、遅滞なく、その旨を運輸大臣に報告するものとする。"
+                }
+              }
+            ]
+          },
+          {
+            "@Num": "5",
+            "ArticleCaption": "（契約申込）",
+            "ArticleTitle": "第五条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "運輸大臣と法第二条の契約を結ぼうとする日本政策投資銀行及び一般金融機関は、様式第五の申込書に、様式第四（その二）及び様式第六の書類を添え運輸大臣に提出するものとする。"
+              }
+            }
+          },
+          {
+            "@Num": "6",
+            "ArticleCaption": "（契約締結）",
+            "ArticleTitle": "第六条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "運輸大臣は、第四条第五項の申請書及び前条の申込書を受理したときは、当該申請及び申込に関し充分な調査を行い、妥当と認めたときは、遅滞なく、当該契約を締結するものとする。"
+              }
+            }
+          },
+          {
+            "@Num": "7",
+            "ArticleCaption": "（船舶受取報告）",
+            "ArticleTitle": "第七条",
+            "Paragraph": [
+              {
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": "法第二条の契約に係る融資を受けた会社は、造船事業者から当該契約に係る船舶の引渡を受けたときは、当該引渡の場所を管轄する地方運輸局長（海運監理部長を含むものとし、当該引渡の場所が本邦以外の場所である場合にあつては、当該場所を管轄する領事官とする。）の証明を添えて、その日から十日以内にその旨を運輸大臣に報告するものとする。"
+                }
+              },
+              {
+                "@Num": "2",
+                "ParagraphNum": "２",
+                "ParagraphSentence": {
+                  "Sentence": [
+                    {
+                      "@Num": "1",
+                      "#text": "法第二条の契約に係る融資を受けた会社が、当該契約に係る船舶の引渡を受けたときは、その日から二箇月以内に、左に掲げる報告書を運輸大臣に提出するものとする。"
+                    },
+                    {
+                      "@Num": "2",
+                      "#text": "この場合において、第三号に掲げる報告書にあつては、告示で定める確定速力算出明細書を、第五号に掲げる報告書にあつては、仕様の変更を明示した完成図面を添付するものとする。"
+                    }
+                  ]
+                },
+                "Item": [
+                  {
+                    "@Num": "1",
+                    "ItemTitle": "一",
+                    "ItemSentence": {
+                      "Sentence": "確定建造船価報告書（様式第七）"
+                    }
+                  },
+                  {
+                    "@Num": "2",
+                    "ItemTitle": "二",
+                    "ItemSentence": {
+                      "Sentence": "乗出費用明細報告書（様式第八）"
+                    }
+                  },
+                  {
+                    "@Num": "3",
+                    "ItemTitle": "三",
+                    "ItemSentence": {
+                      "Sentence": "確定速力、確定重量トン数及び確定就航航路報告書（確定速力は、告示で定める要領により算出したものを記入すること。）"
+                    }
+                  },
+                  {
+                    "@Num": "4",
+                    "ItemTitle": "四",
+                    "ItemSentence": {
+                      "Sentence": "建造資金受払明細報告書（様式第九）"
+                    }
+                  },
+                  {
+                    "@Num": "5",
+                    "ItemTitle": "五",
+                    "ItemSentence": {
+                      "Sentence": "変更した仕様の概要報告書"
+                    }
+                  }
+                ]
+              },
+              {
+                "@Num": "3",
+                "ParagraphNum": "３",
+                "ParagraphSentence": {
+                  "Sentence": "前項第五号の報告書には、左に掲げる事項を記載するものとする。"
+                },
+                "Item": [
+                  {
+                    "@Num": "1",
+                    "ItemTitle": "一",
+                    "ItemSentence": {
+                      "Sentence": "変更した仕様の項目及びその概要"
+                    }
+                  },
+                  {
+                    "@Num": "2",
+                    "ItemTitle": "二",
+                    "ItemSentence": {
+                      "Sentence": "項目ごとの変更理由"
+                    }
+                  },
+                  {
+                    "@Num": "3",
+                    "ItemTitle": "三",
+                    "ItemSentence": {
+                      "Sentence": "項目ごとの変更時期"
+                    }
+                  },
+                  {
+                    "@Num": "4",
+                    "ItemTitle": "四",
+                    "ItemSentence": {
+                      "Sentence": "項目ごとの変更に伴い必要となる経費又は不必要となる経費の額"
+                    }
+                  },
+                  {
+                    "@Num": "5",
+                    "ItemTitle": "五",
+                    "ItemSentence": {
+                      "Sentence": "変更した仕様に伴い第四条第六項第二号の船舶要目書に記載した契約船価に変更があつたときは、その額及び内訳"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "@Num": "7_2",
+            "ArticleCaption": "（利子補給金の限度額及び支給額の計算方法）",
+            "ArticleTitle": "第七条の二",
+            "Paragraph": [
+              {
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": "法第五条第一項の規定により利子補給金の限度額を計算する場合及び法第七条の規定により利子補給金の支給額を計算する場合は、これらの規定の適用に係る期間における融資残高の存する日数に一日当たりの利子補給率を乗じてするものとする。"
+                }
+              },
+              {
+                "@Num": "2",
+                "ParagraphNum": "２",
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "Ruby": {
+                      "Rt": "じゆん",
+                      "#text": "閏"
+                    },
+                    "#text": "法第五条第二項の規定による利子補給率は、年当たりの率として告示で定めるものとし、当該利子補給率は、年の日を含む期間についても、三百六十五日当たりの率とする。"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "@Num": "8",
+            "ArticleCaption": "（単位期間）",
+            "ArticleTitle": "第八条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "法第七条の単位期間は、一月一日から六月三十日までの期間及び七月一日から十二月三十一日までの期間とする。"
+              }
+            }
+          },
+          {
+            "@Num": "9",
+            "ArticleCaption": "（利子補給金の請求）",
+            "ArticleTitle": "第九条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "政府に利子補給金を請求しようとする日本政策投資銀行及び一般金融機関は、各単位期間終了後一月以内（法第二条の契約の締結の遅延その他運輸大臣が正当な事由があると認めたときは、その定める日まで）に、様式第十の外航船舶建造融資利子補給金請求書を運輸大臣に提出するものとする。"
+              }
+            }
+          },
+          {
+            "@Num": "10",
+            "ArticleCaption": "（利子補給金の支給）",
+            "ArticleTitle": "第十条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": [
+                  {
+                    "@Function": "main",
+                    "@Num": "1",
+                    "#text": "運輸大臣は、前条の請求書の提出があつた日から二月以内に、当該請求書に係る利子補給金を支給するものとする。"
+                  },
+                  {
+                    "@Function": "proviso",
+                    "@Num": "2",
+                    "#text": "ただし、法第二条の契約に係る融資を受けた会社であつてその決算期の末日が当該請求書に係る単位期間の末日であるものに係る利子補給金については、当該請求書の提出があつた日から三月以内に支給するものとする。"
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "@Num": "10_2",
+            "ArticleCaption": "（積立金充当対象船舶）",
+            "ArticleTitle": "第十条の二",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "外航船舶建造融資利子補給臨時措置法施行令（昭和四十四年政令第百九十五号。以下「令」という。）第四条第一項第四号の運輸省令で定める船舶は、外航船舶（船舶安全法（昭和八年法律第十一号）にいう遠洋区域を航行区域とする船舶をいう。）であつて、その建造につき日本政策投資銀行及び一般金融機関がともに資金を融通するもの（以下「積立金充当対象船舶」という。）とする。"
+              }
+            }
+          },
+          {
+            "@Num": "11",
+            "ArticleCaption": "（費用として計上することができる引当金等）",
+            "ArticleTitle": "第十一条",
+            "Paragraph": [
+              {
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": "令第四条第二項第四号の運輸省令で定める引当金勘定又は準備金勘定は、次の各号に掲げるとおりとする。"
+                },
+                "Item": [
+                  {
+                    "@Num": "1",
+                    "ItemTitle": "一",
+                    "ItemSentence": {
+                      "Sentence": "法人税法（昭和四十年法律第三十四号）及び租税特別措置法（昭和三十二年法律第二十六号）に定める引当金勘定"
+                    }
+                  },
+                  {
+                    "@Num": "2",
+                    "ItemTitle": "二",
+                    "ItemSentence": {
+                      "Sentence": "事業税引当金勘定"
+                    }
+                  },
+                  {
+                    "@Num": "3",
+                    "ItemTitle": "三",
+                    "ItemSentence": {
+                      "Sentence": "事業所税引当金勘定"
+                    }
+                  },
+                  {
+                    "@Num": "4",
+                    "ItemTitle": "四",
+                    "ItemSentence": {
+                      "Sentence": "租税特別措置法に定める準備金を積み立てる準備金勘定"
+                    }
+                  }
+                ]
+              },
+              {
+                "@Num": "2",
+                "ParagraphNum": "２",
+                "ParagraphSentence": {
+                  "Sentence": "令第四条第二項第四号の運輸省令で定める金額は、次の各号に掲げるとおりとする。"
+                },
+                "Item": [
+                  {
+                    "@Num": "1",
+                    "ItemTitle": "一",
+                    "ItemSentence": {
+                      "Sentence": "固定資産の減価償却額に相当する金額については、当該固定資産について、法人税法の規定により所得の金額の計算上損金の額に算入することとされる金額の限度額（租税特別措置法の規定の適用がある場合には、同法の規定により所得の金額の計算上損金の額に算入することとされる金額の限度額）"
+                    }
+                  },
+                  {
+                    "@Num": "2",
+                    "ItemTitle": "二",
+                    "ItemSentence": {
+                      "Sentence": "圧縮記帳により固定資産の帳簿価額を減額する額に相当する金額については、当該固定資産について、法人税法の規定により所得の金額の計算上損金の額に算入することとされる金額の限度額と租税特別措置法の規定により所得の金額の計算上損金の額に算入することとされる金額の限度額との合計額"
+                    }
+                  },
+                  {
+                    "@Num": "3",
+                    "ItemTitle": "三",
+                    "ItemSentence": {
+                      "Sentence": "前項第一号に掲げる引当金勘定（退職給与引当金勘定を除く。）に繰り入れるための金額については、同号の引当金勘定の区分に応じ、法人税法及び租税特別措置法の規定により所得の金額の計算上損金の額に算入することとされる金額の限度額"
+                    }
+                  },
+                  {
+                    "@Num": "4",
+                    "ItemTitle": "四",
+                    "ItemSentence": {
+                      "Sentence": "退職給与引当金勘定に繰り入れるための金額については、法人税法施行令（昭和四十年政令第九十七号）第百六条第一項第一号イに掲げる金額の百分の五十に相当する金額から、当該決算期の終了の時における当該決算期前の決算期から繰り越された退職給与引当金勘定の金額を控除した金額"
+                    }
+                  },
+                  {
+                    "@Num": "5",
+                    "ItemTitle": "五",
+                    "ItemSentence": {
+                      "Sentence": "事業税引当金勘定に繰り入れるための金額については、地方税法（昭和二十五年法律第二百二十六号）第七十二条の二十五第一項若しくは第六項又は第七十二条の二十八第一項若しくは第三項の規定により提出した申告書に記載した事業税の額に相当する金額"
+                    }
+                  },
+                  {
+                    "@Num": "6",
+                    "ItemTitle": "六",
+                    "ItemSentence": {
+                      "Sentence": "事業所税引当金勘定に繰り入れるための金額については、地方税法第七百一条の四十六第一項又は第三項の規定により提出した申告書に記載した事業所税の額に相当する金額"
+                    }
+                  },
+                  {
+                    "@Num": "7",
+                    "ItemTitle": "七",
+                    "ItemSentence": {
+                      "Sentence": "前項第四号に掲げる準備金勘定に積み立てるための金額については、同号の準備金勘定の区分に応じ、租税特別措置法の規定により所得の金額の計算上損金の額に算入することとされる金額の限度額"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "@Num": "12",
+            "ArticleCaption": "（費用として計上しなかつたものとされた引当金等の費用計算等）",
+            "ArticleTitle": "第十二条",
+            "Paragraph": [
+              {
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": "令第四条第二項第六号の運輸省令で定める経理は、次の各号に掲げるとおりとする。"
+                },
+                "Item": [
+                  {
+                    "@Num": "1",
+                    "ItemTitle": "一",
+                    "ItemSentence": {
+                      "Sentence": "当該固定資産の売却益その他の処分益又は売却損その他の処分損の計上"
+                    }
+                  },
+                  {
+                    "@Num": "2",
+                    "ItemTitle": "二",
+                    "ItemSentence": {
+                      "Sentence": "当該固定資産の前条第二項第一号の金額に達しない減価償却額に相当する金額の費用への計上"
+                    }
+                  },
+                  {
+                    "@Num": "3",
+                    "ItemTitle": "三",
+                    "ItemSentence": {
+                      "Sentence": "当該固定資産について令第四条第二項第四号に該当することとなつた費用の計上を修正するための収益の計上"
+                    }
+                  },
+                  {
+                    "@Num": "4",
+                    "ItemTitle": "四",
+                    "ItemSentence": {
+                      "Sentence": "当該引当金勘定又は準備金勘定の金額の取崩し"
+                    }
+                  }
+                ]
+              },
+              {
+                "@Num": "2",
+                "ParagraphNum": "２",
+                "ParagraphSentence": {
+                  "Sentence": "令第四条第二項第六号の運輸省令で定める金額は、同項第四号の固定資産、引当金勘定又は準備金勘定の区分に応じ、同項第四号又は第五号の規定により当該決算期前の各決算期に係る決算においてそれぞれ費用として計上しなかつたものとされた金額の合計額（同項第六号の規定により当該決算期前の各決算期に係る決算においてそれぞれ費用として計上したものとされた金額がある場合には、その金額の合計額を控除した金額）の範囲内で次の各号に掲げる金額とする。"
+                },
+                "Item": [
+                  {
+                    "@Num": "1",
+                    "ItemTitle": "一",
+                    "ItemSentence": {
+                      "Sentence": "前項第一号に掲げる経理をした場合には、当該固定資産について令第四条第二項第四号の規定により当該決算期前の各決算期に係る決算において費用として計上しなかつたものとされた金額の合計額"
+                    }
+                  },
+                  {
+                    "@Num": "2",
+                    "ItemTitle": "二",
+                    "ItemSentence": {
+                      "Sentence": "前項第二号に掲げる経理をした場合には、前条第二項第一号の金額から当該決算期に係る費用に計上した金額を控除した金額"
+                    }
+                  },
+                  {
+                    "@Num": "3",
+                    "ItemTitle": "三",
+                    "ItemSentence": {
+                      "Sentence": "前項第三号に掲げる経理をした場合には、当該収益の計上額に相当する金額"
+                    }
+                  },
+                  {
+                    "@Num": "4",
+                    "ItemTitle": "四",
+                    "ItemSentence": {
+                      "Sentence": "前項第四号に掲げる経理をした場合には、その取り崩した金額に相当する金額"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "@Num": "12_2",
+            "ArticleCaption": "（船舶建造積立金の充当）",
+            "ArticleTitle": "第十二条の二",
+            "Paragraph": [
+              {
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": "令第四条第四項第一号の運輸省令で定める期間は、三年とする。"
+                }
+              },
+              {
+                "@Num": "2",
+                "ParagraphNum": "２",
+                "ParagraphSentence": {
+                  "Sentence": [
+                    {
+                      "@Function": "main",
+                      "@Num": "1",
+                      "#text": "令第四条第四項第一号の運輸省令で定める金額は、同号の船舶建造積立金の額に相当する金額から、その積立てを行つた決算期の終了の日から前項の期間を経過した日までの間に積立金充当対象船舶の建造に要する自己資金（積立金充当対象船舶の建造価額に相当する金額から当該積立金充当対象船舶の建造のために金融機関その他の者から融通された資金の額に相当する金額を控除した金額（当該積立金充当対象船舶の建造価額の一割に相当する金額以下の金額に限る。）をいう。以下同じ。）として支出した金額を控除した金額とする。"
+                    },
+                    {
+                      "@Function": "proviso",
+                      "@Num": "2",
+                      "#text": "ただし、積立金充当対象船舶の建造に要する自己資金として支出した金額の累計額が、会社の所有する積立金充当対象船舶の建造価額の合計額の一割に相当する金額を超える場合には、その超える金額を、当該自己資金として支出した金額を限度として当該控除した金額に加算した金額とする。"
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "@Num": "13",
+            "ArticleCaption": "（会社の報告）",
+            "ArticleTitle": "第十三条",
+            "Paragraph": [
+              {
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": "法第二条の契約に係る融資を受けた会社は、日本政策投資銀行又は一般金融機関が利子補給金の支給を受けることとなつている単位期間の終了後十五日以内に、当該単位期間における当該融資の償還状況に係る償還状況報告書（様式第十一）を運輸大臣に提出するものとする。"
+                }
+              },
+              {
+                "@Num": "2",
+                "ParagraphNum": "２",
+                "ParagraphSentence": {
+                  "Sentence": "法第十条第一項の会社は、毎決算期終了後三月以内に、当該決算期に係る決算計上利益等報告書（様式第十二）を運輸大臣に提出するものとする。"
+                }
+              },
+              {
+                "@Num": "3",
+                "ParagraphNum": "３",
+                "ParagraphSentence": {
+                  "Sentence": "船舶建造積立金を積み立てた会社は、その積立てを行つた決算期から当該決算期の終了の日以後三年を経過した日を含む決算期までの毎決算期終了後三月以内に、その積立てを行つた決算期に係る船舶建造積立金報告書（様式第十二の二）を運輸大臣に提出するものとする。"
+                }
+              }
+            ]
+          },
+          {
+            "@Num": "14",
+            "ArticleCaption": "（合併等の承認）",
+            "ArticleTitle": "第十四条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "法第十条第一項の会社は、次に掲げる事項を実施しようとするときは、その内容についてあらかじめ運輸大臣の承認を受けなければならない。"
+              },
+              "Item": [
+                {
+                  "@Num": "1",
+                  "ItemTitle": "一",
+                  "ItemSentence": {
+                    "Sentence": "合併"
+                  }
+                },
+                {
+                  "@Num": "2",
+                  "ItemTitle": "二",
+                  "ItemSentence": {
+                    "Sentence": "営業の譲渡又は譲受"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "@Num": "15",
+            "ArticleCaption": "（資本金額の増加又は減少の報告等）",
+            "ArticleTitle": "第十五条",
+            "Paragraph": [
+              {
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": [
+                    {
+                      "@Function": "main",
+                      "@Num": "1",
+                      "#text": "法第十条第一項の会社は、次に掲げる事項を実施しようとするときは、その内容についてあらかじめ運輸大臣に報告しなければならない。"
+                    },
+                    {
+                      "@Function": "proviso",
+                      "@Num": "2",
+                      "#text": "ただし、第二号から第四号までに掲げる事項でそれぞれ当該各号の額が十億円未満である場合におけるものであつて運輸大臣が定めるものについては、事後において、四半期ごとに、その内容について報告すれば足りる。"
+                    }
+                  ]
+                },
+                "Item": [
+                  {
+                    "@Num": "1",
+                    "ItemTitle": "一",
+                    "ItemSentence": {
+                      "Sentence": "資本金額の増加又は減少"
+                    }
+                  },
+                  {
+                    "@Num": "2",
+                    "ItemTitle": "二",
+                    "ItemSentence": {
+                      "Sentence": "固定資産の取得、改造又は売却、交換その他の処分（固定資産の取得又は改造にあつては対価の額、固定資産の売却又は交換にあつては当該処分に係る固定資産の帳簿価額又は対価の額のうちいずれか多い額、その他の処分にあつては当該処分に係る固定資産の帳簿価額がそれぞれ一億円以上である場合におけるものであつて運輸大臣が定めるものに限る。）"
+                    }
+                  },
+                  {
+                    "@Num": "3",
+                    "ItemTitle": "三",
+                    "ItemSentence": {
+                      "Sentence": "投資又は長期資金の貸付け（それぞれ金額が一億円以上である場合におけるものであつて運輸大臣が定めるものに限る。）"
+                    }
+                  },
+                  {
+                    "@Num": "4",
+                    "ItemTitle": "四",
+                    "ItemSentence": {
+                      "Sentence": "債務保証、専ら他人のためにする連帯債務の負担、他人の債務を担保するための質権若しくは抵当権の設定又は他人の債務の担保の用に供するためにする有価証券の貸付け（債務保証又は専ら他人のためにする連帯債務の負担にあつてはその債務の額、他人の債務を担保するための質権の設定にあつては質権の目的物の帳簿価額又は被担保債権の額のうちいずれか多い額、他人の債務を担保するための抵当権の設定にあつては被担保債権の額、他人の債務の担保の用に供するためにする有価証券の貸付けにあつてはその有価証券の帳簿価額がそれぞれ一億円以上である場合におけるものであつて運輸大臣が定めるものに限る。）"
+                    }
+                  },
+                  {
+                    "@Num": "5",
+                    "ItemTitle": "五",
+                    "ItemSentence": {
+                      "Sentence": "利益の配当及び商法（明治三十二年法律第四十八号）第二百九十三条ノ五第一項の金銭の分配"
+                    }
+                  }
+                ]
+              },
+              {
+                "@Num": "2",
+                "ParagraphNum": "２",
+                "ParagraphSentence": {
+                  "Sentence": "法第十条第一項の会社は、毎決算期終了後三月以内に左に掲げる書類を運輸大臣に提出しなければならない。"
+                },
+                "Item": [
+                  {
+                    "@Num": "1",
+                    "ItemTitle": "一",
+                    "ItemSentence": {
+                      "Sentence": "財務諸表"
+                    },
+                    "Subitem1": [
+                      {
+                        "@Num": "1",
+                        "Subitem1Title": "イ",
+                        "Subitem1Sentence": {
+                          "Sentence": "損益計算書"
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "Subitem1Title": "ロ",
+                        "Subitem1Sentence": {
+                          "Sentence": "利益金処分計算書又は損失金処理計算書"
+                        }
+                      },
+                      {
+                        "@Num": "3",
+                        "Subitem1Title": "ハ",
+                        "Subitem1Sentence": {
+                          "Sentence": "貸借対照表"
+                        }
+                      },
+                      {
+                        "@Num": "4",
+                        "Subitem1Title": "ニ",
+                        "Subitem1Sentence": {
+                          "Sentence": "附属明細表"
+                        },
+                        "Subitem2": [
+                          {
+                            "@Num": "1",
+                            "Subitem2Title": "（１）",
+                            "Subitem2Sentence": {
+                              "Sentence": "海運業収益及び費用明細表"
+                            }
+                          },
+                          {
+                            "@Num": "2",
+                            "Subitem2Title": "（２）",
+                            "Subitem2Sentence": {
+                              "Sentence": "有価証券明細表"
+                            }
+                          },
+                          {
+                            "@Num": "3",
+                            "Subitem2Title": "（３）",
+                            "Subitem2Sentence": {
+                              "Sentence": "有形固定資産明細表"
+                            }
+                          },
+                          {
+                            "@Num": "4",
+                            "Subitem2Title": "（４）",
+                            "Subitem2Sentence": {
+                              "Sentence": "無形固定資産明細表"
+                            }
+                          },
+                          {
+                            "@Num": "5",
+                            "Subitem2Title": "（５）",
+                            "Subitem2Sentence": {
+                              "Sentence": "関係会社有価証券明細表"
+                            }
+                          },
+                          {
+                            "@Num": "6",
+                            "Subitem2Title": "（６）",
+                            "Subitem2Sentence": {
+                              "Sentence": "関係会社出資金明細表"
+                            }
+                          },
+                          {
+                            "@Num": "7",
+                            "Subitem2Title": "（７）",
+                            "Subitem2Sentence": {
+                              "Sentence": "関係会社貸付金明細表"
+                            }
+                          },
+                          {
+                            "@Num": "8",
+                            "Subitem2Title": "（８）",
+                            "Subitem2Sentence": {
+                              "Sentence": "社債明細表"
+                            }
+                          },
+                          {
+                            "@Num": "9",
+                            "Subitem2Title": "（９）",
+                            "Subitem2Sentence": {
+                              "Sentence": "長期借入金明細表"
+                            }
+                          },
+                          {
+                            "@Num": "10",
+                            "Subitem2Title": "（１０）",
+                            "Subitem2Sentence": {
+                              "Sentence": "関係会社借入金明細表"
+                            }
+                          },
+                          {
+                            "@Num": "11",
+                            "Subitem2Title": "（１１）",
+                            "Subitem2Sentence": {
+                              "Sentence": "資本金明細表"
+                            }
+                          },
+                          {
+                            "@Num": "12",
+                            "Subitem2Title": "（１２）",
+                            "Subitem2Sentence": {
+                              "Sentence": "資本剰余金明細表"
+                            }
+                          },
+                          {
+                            "@Num": "13",
+                            "Subitem2Title": "（１３）",
+                            "Subitem2Sentence": {
+                              "Sentence": "利益準備金及び任意積立金明細表"
+                            }
+                          },
+                          {
+                            "@Num": "14",
+                            "Subitem2Title": "（１４）",
+                            "Subitem2Sentence": {
+                              "Sentence": "減価償却費明細表"
+                            }
+                          },
+                          {
+                            "@Num": "15",
+                            "Subitem2Title": "（１５）",
+                            "Subitem2Sentence": {
+                              "Sentence": "引当金明細表"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@Num": "2",
+                    "ItemTitle": "二",
+                    "ItemSentence": {
+                      "Sentence": "船舶収支明細表"
+                    }
+                  },
+                  {
+                    "@Num": "3",
+                    "ItemTitle": "三",
+                    "ItemSentence": {
+                      "Sentence": "船員費明細表"
+                    }
+                  },
+                  {
+                    "@Num": "4",
+                    "ItemTitle": "四",
+                    "ItemSentence": {
+                      "Sentence": "従業員給与明細表"
+                    }
+                  },
+                  {
+                    "@Num": "5",
+                    "ItemTitle": "五",
+                    "ItemSentence": {
+                      "Sentence": "役員報酬明細表"
+                    }
+                  },
+                  {
+                    "@Num": "6",
+                    "ItemTitle": "六",
+                    "ItemSentence": {
+                      "Sentence": "借入金支払利息明細表"
+                    }
+                  },
+                  {
+                    "@Num": "7",
+                    "ItemTitle": "七",
+                    "ItemSentence": {
+                      "Sentence": "設備資金借入金明細表"
+                    }
+                  },
+                  {
+                    "@Num": "8",
+                    "ItemTitle": "八",
+                    "ItemSentence": {
+                      "Sentence": "船舶減価償却費明細表"
+                    }
+                  },
+                  {
+                    "@Num": "9",
+                    "ItemTitle": "九",
+                    "ItemSentence": {
+                      "Sentence": "所有船腹明細表"
+                    }
+                  }
+                ]
+              },
+              {
+                "@Num": "3",
+                "ParagraphNum": "３",
+                "ParagraphSentence": {
+                  "Sentence": "前項第一号に掲げる書類は、運輸大臣が告示する財務諸表準則の定めるところにより、前項第二号から第九号までに掲げる書類は、別に告示で定める様式により作成しなければならない。"
+                }
+              }
+            ]
+          },
+          {
+            "@Num": "16",
+            "ArticleCaption": "（証票）",
+            "ArticleTitle": "第十六条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "法第十四条第二項に規定する職員の身分を示す証票の様式は、様式第十三の通りとする。"
+              }
+            }
+          },
+          {
+            "@Num": "17",
+            "ArticleCaption": "（法附則第五項の特定単位期間）",
+            "ArticleTitle": "第十七条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "法附則第五項の特定単位期間は、四月一日から九月三十日までの期間及び十月一日から翌年の三月三十一日までの期間とする。"
+              }
+            }
+          },
+          {
+            "@Num": "18",
+            "ArticleCaption": "（法附則第五項の規定による利子補給金の支給）",
+            "ArticleTitle": "第十八条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "法附則第五項の規定による利子補給金の支給は、特定単位期間ごとに、同項に規定する額を、それぞれ、同項に規定する各年度における当該特定単位期間に応当する特定単位期間においてするものとする。"
+              }
+            }
+          },
+          {
+            "@Num": "19",
+            "ArticleCaption": "（法附則第八項の規定による交付金の交付）",
+            "ArticleTitle": "第十九条",
+            "Paragraph": [
+              {
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": "法附則第八項の規定による同項第一号に掲げる交付金の交付は、当該猶予対象利子が生じた特定単位期間ごとに、同号に掲げる各年度における当該猶予対象利子が生じた特定単位期間に応当する特定単位期間においてするものとする。"
+                }
+              },
+              {
+                "@Num": "2",
+                "ParagraphNum": "２",
+                "ParagraphSentence": {
+                  "Sentence": "法附則第八項の規定による同項第二号に掲げる交付金の交付は、同号に掲げる各年度における各特定単位期間においてするものとする。"
+                }
+              }
+            ]
+          },
+          {
+            "@Num": "20",
+            "ArticleCaption": "（法附則第八項の規定による交付金の請求）",
+            "ArticleTitle": "第二十条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "政府に法附則第八項に規定する交付金を請求しようとする日本政策投資銀行は、各特定単位期間開始後三月を経過した日から一月以内に、当該特定単位期間において交付されることとなる交付金について、様式第十四の外航船舶建造融資利子猶予特別交付金請求書を運輸大臣に提出するものとする。"
+              }
+            }
+          }
+        ]
+      },
+      "SupplProvision": [
+        {
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": [
+            {
+              "@Num": "1",
+              "ParagraphNum": "１",
+              "ParagraphSentence": {
+                "Sentence": "この省令は、公布の日から施行する。"
+              }
+            },
+            {
+              "@Num": "2",
+              "ParagraphNum": "２",
+              "ParagraphSentence": {
+                "Sentence": "外航船舶建造融資利子補給に関する省令（昭和二十八年運輸省令第十五号）は、廃止する。"
+              }
+            },
+            {
+              "@Num": "3",
+              "ParagraphNum": "３",
+              "ParagraphSentence": {
+                "Sentence": "外航船舶建造融資利子補給法の一部を改正する法律（昭和二十八年法律第二百十五号）附則第一項本文の規定により法第二条又は法第十九条の規定を適用する場合においては同法同条の規格は、第一条の規定にかかわらず、左の通りとする。"
+              },
+              "Item": [
+                {
+                  "@Num": "1",
+                  "ItemTitle": "一",
+                  "ItemSentence": {
+                    "Sentence": "総トン数四千トン以上であること。"
+                  }
+                },
+                {
+                  "@Num": "2",
+                  "ItemTitle": "二",
+                  "ItemSentence": {
+                    "Sentence": "満載航海速力十一ノツト以上であること。"
+                  }
+                }
+              ]
+            },
+            {
+              "@Num": "4",
+              "ParagraphNum": "４",
+              "ParagraphSentence": {
+                "Sentence": "外航船舶建造融資利子補給法の一部を改正する法律附則第一項本文の規定により法第二条又は法第十九条の規定を適用して結ばれる契約については、第三条の規定は、同条中「融資仮契約書」は、「融資契約書」と読み替えて適用するものとする。"
+              }
+            },
+            {
+              "@Num": "6",
+              "ParagraphNum": "６",
+              "ParagraphSentence": {
+                "Sentence": [
+                  {
+                    "@Num": "1",
+                    "#text": "法第二条の契約であつて次の表の第一欄に掲げるものによる利子補給金の支給に係る法第七条の単位期間は、同表の第二欄に掲げる期間においては、第八条の規定にかかわらず、それぞれ同表の第三欄に定める期間とし、各単位期間に係る利子補給金の請求に関する第九条の期間は、同条の規定にかかわらず、同表の第四欄に定める期間とする。"
+                  },
+                  {
+                    "@Num": "2",
+                    "#text": "この場合において、利子補給金の支給についての第十条ただし書の規定は、同表の第四欄に定める期間が単位期間終了後一月以内である場合を除き、適用しない。"
+                  }
+                ]
+              },
+              "TableStruct": {
+                "Table": {
+                  "TableRow": [
+                    {
+                      "TableColumn": [
+                        {
+                          "@rowspan": "4",
+                          "Sentence": "昭和五十四年四月一日から昭和五十五年三月三十一日までの期間中に日本開発銀行と結ばれた契約"
+                        },
+                        {
+                          "Sentence": "昭和六十年六月一日から同年十一月三十日までの期間"
+                        },
+                        {
+                          "Sentence": "六月一日から十一月三十日までの期間"
+                        },
+                        {
+                          "Sentence": "単位期間終了後二十六月を経過した日から一月以内"
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "Sentence": "昭和六十年十二月一日から昭和六十一年四月三十日までの期間"
+                        },
+                        {
+                          "Sentence": "十二月一日から翌年の四月三十日までの期間"
+                        },
+                        {
+                          "Sentence": "単位期間終了後二十一月を経過した日から一月以内"
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "Sentence": "昭和六十一年五月一日から同年十月三十一日までの期間"
+                        },
+                        {
+                          "Sentence": "五月一日から十月三十一日までの期間"
+                        },
+                        {
+                          "Sentence": "単位期間終了後十五月を経過した日から一月以内"
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "Sentence": "昭和六十一年十一月一日から昭和六十二年三月三十一日までの期間"
+                        },
+                        {
+                          "Sentence": "十一月一日から翌年の三月三十一日までの期間"
+                        },
+                        {
+                          "Sentence": "単位期間終了後十月を経過した日から一月以内"
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "@rowspan": "5",
+                          "Sentence": "昭和五十四年四月一日から昭和五十五年三月三十一日までの期間中に一般金融機関と結ばれた契約"
+                        },
+                        {
+                          "Sentence": "昭和六十年七月一日から同年十二月三十一日までの期間"
+                        },
+                        {
+                          "Sentence": "七月一日から十二月三十一日までの期間"
+                        },
+                        {
+                          "Sentence": "単位期間終了後二十五月を経過した日から一月以内"
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "Sentence": "昭和六十一年一月一日から同年六月三十日までの期間"
+                        },
+                        {
+                          "Sentence": "一月一日から六月三十日までの期間"
+                        },
+                        {
+                          "Sentence": "単位期間終了後十九月を経過した日から一月以内"
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "Sentence": "昭和六十一年七月一日から同年十二月三十一日までの期間"
+                        },
+                        {
+                          "Sentence": "七月一日から十二月三十一日までの期間"
+                        },
+                        {
+                          "Sentence": "単位期間終了後十三月を経過した日から一月以内"
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "Sentence": "昭和六十二年一月一日から同年六月三十日までの期間"
+                        },
+                        {
+                          "Sentence": "一月一日から六月三十日までの期間"
+                        },
+                        {
+                          "Sentence": "単位期間終了後七月を経過した日から一月以内"
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "Sentence": "昭和六十二年七月一日から同年十二月三十一日までの期間"
+                        },
+                        {
+                          "Sentence": "七月一日から十二月三十一日までの期間"
+                        },
+                        {
+                          "Sentence": "単位期間終了後一月を経過した日から一月以内"
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "@rowspan": "4",
+                          "Sentence": "昭和五十五年四月一日から昭和五十六年三月三十一日までの期間中に日本開発銀行と結ばれた契約"
+                        },
+                        {
+                          "Sentence": "昭和六十年六月一日から同年十月三十一日までの期間"
+                        },
+                        {
+                          "Sentence": "六月一日から十月三十一日までの期間"
+                        },
+                        {
+                          "Sentence": "単位期間終了後二十七月を経過した日から一月以内"
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "Sentence": "昭和六十年十一月一日から昭和六十一年四月三十日までの期間"
+                        },
+                        {
+                          "Sentence": "十一月一日から翌年の四月三十日までの期間"
+                        },
+                        {
+                          "Sentence": "単位期間終了後二十一月を経過した日から一月以内"
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "Sentence": "昭和六十一年五月一日から同年十月三十一日までの期間"
+                        },
+                        {
+                          "Sentence": "五月一日から十月三十一日までの期間"
+                        },
+                        {
+                          "Sentence": "単位期間終了後十五月を経過した日から一月以内"
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "Sentence": "昭和六十一年十一月一日から昭和六十二年三月三十一日までの期間"
+                        },
+                        {
+                          "Sentence": "十一月一日から翌年の三月三十一日までの期間"
+                        },
+                        {
+                          "Sentence": "単位期間終了後十月を経過した日から一月以内"
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "@rowspan": "6",
+                          "Sentence": "昭和五十五年四月一日から昭和五十六年三月三十一日までの期間中に一般金融機関と結ばれた契約"
+                        },
+                        {
+                          "Sentence": "昭和六十年七月一日から同年十二月三十一日までの期間"
+                        },
+                        {
+                          "Sentence": "七月一日から十二月三十一日までの期間"
+                        },
+                        {
+                          "Sentence": "単位期間終了後二十五月を経過した日から一月以内"
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "Sentence": "昭和六十一年一月一日から同年四月三十日までの期間"
+                        },
+                        {
+                          "Sentence": "一月一日から四月三十日までの期間"
+                        },
+                        {
+                          "Sentence": "単位期間終了後二十一月を経過した日から一月以内"
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "Sentence": "昭和六十一年五月一日から同年十月三十一日までの期間"
+                        },
+                        {
+                          "Sentence": "五月一日から十月三十一日までの期間"
+                        },
+                        {
+                          "Sentence": "単位期間終了後十五月を経過した日から一月以内"
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "Sentence": "昭和六十一年十一月一日から昭和六十二年四月三十日までの期間"
+                        },
+                        {
+                          "Sentence": "十一月一日から翌年の四月三十日までの期間"
+                        },
+                        {
+                          "Sentence": "単位期間終了後九月を経過した日から一月以内"
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "Sentence": "昭和六十二年五月一日から同年十月三十一日までの期間"
+                        },
+                        {
+                          "Sentence": "五月一日から十月三十一日までの期間"
+                        },
+                        {
+                          "Sentence": "単位期間終了後三月を経過した日から一月以内"
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "Sentence": "昭和六十二年十一月一日から同年十二月三十一日までの期間"
+                        },
+                        {
+                          "Sentence": "十一月一日から十二月三十一日までの期間"
+                        },
+                        {
+                          "Sentence": "単位期間終了後一月を経過した日から一月以内"
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "@rowspan": "5",
+                          "Sentence": "昭和五十六年四月一日から昭和五十七年三月三十一日までの期間中に日本開発銀行と結ばれた契約"
+                        },
+                        {
+                          "Sentence": "昭和六十年七月一日から同年十一月三十日までの期間"
+                        },
+                        {
+                          "Sentence": "七月一日から十一月三十日までの期間"
+                        },
+                        {
+                          "Sentence": "単位期間終了後二十六月を経過した日から一月以内"
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "Sentence": "昭和六十年十二月一日から昭和六十一年三月三十一日までの期間"
+                        },
+                        {
+                          "Sentence": "十二月一日から翌年の三月三十一日までの期間"
+                        },
+                        {
+                          "Sentence": "単位期間終了後二十二月を経過した日から一月以内"
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "Sentence": "昭和六十一年四月一日から同年六月三十日までの期間"
+                        },
+                        {
+                          "Sentence": "四月一日から六月三十日までの期間"
+                        },
+                        {
+                          "Sentence": "単位期間終了後十九月を経過した日から一月以内"
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "Sentence": "昭和六十一年七月一日から同年十二月三十一日までの期間"
+                        },
+                        {
+                          "Sentence": "七月一日から十二月三十一日までの期間"
+                        },
+                        {
+                          "Sentence": "単位期間終了後十三月を経過した日から一月以内"
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "Sentence": "昭和六十二年一月一日から同年三月三十一日までの期間"
+                        },
+                        {
+                          "Sentence": "一月一日から三月三十一日までの期間"
+                        },
+                        {
+                          "Sentence": "単位期間終了後十月を経過した日から一月以内"
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "@rowspan": "6",
+                          "Sentence": "昭和五十六年四月一日から昭和五十七年三月三十一日までの期間中に一般金融機関と結ばれた契約"
+                        },
+                        {
+                          "Sentence": "昭和六十年七月一日から同年十二月三十一日までの期間"
+                        },
+                        {
+                          "Sentence": "七月一日から十二月三十一日までの期間"
+                        },
+                        {
+                          "Sentence": "単位期間終了後二十五月を経過した日から一月以内"
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "Sentence": "昭和六十一年一月一日から同年五月三十一日までの期間"
+                        },
+                        {
+                          "Sentence": "一月一日から五月三十一日までの期間"
+                        },
+                        {
+                          "Sentence": "単位期間終了後二十月を経過した日から一月以内"
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "Sentence": "昭和六十一年六月一日から同年十一月三十日までの期間"
+                        },
+                        {
+                          "Sentence": "六月一日から十一月三十日までの期間"
+                        },
+                        {
+                          "Sentence": "単位期間終了後十四月を経過した日から一月以内"
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "Sentence": "昭和六十一年十二月一日から昭和六十二年三月三十一日までの期間"
+                        },
+                        {
+                          "Sentence": "十二月一日から翌年の三月三十一日までの期間"
+                        },
+                        {
+                          "Sentence": "単位期間終了後十月を経過した日から一月以内"
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "Sentence": "昭和六十二年四月一日から同年九月三十日までの期間"
+                        },
+                        {
+                          "Sentence": "四月一日から九月三十日までの期間"
+                        },
+                        {
+                          "Sentence": "単位期間終了後四月を経過した日から一月以内"
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "Sentence": "昭和六十二年十月一日から同年十二月三十一日までの期間"
+                        },
+                        {
+                          "Sentence": "十月一日から十二月三十一日までの期間"
+                        },
+                        {
+                          "Sentence": "単位期間終了後一月を経過した日から一月以内"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@AmendLawNum": "昭和二九年五月二〇日運輸省令第二六号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": "１",
+            "ParagraphSentence": {
+              "Sentence": "この省令は、公布の日から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "昭和二九年一二月一六日運輸省令第六〇号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この省令は、公布の日から施行し、昭和二十九年十月一日から適用する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "昭和三一年七月九日運輸省令第四〇号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": "１",
+            "ParagraphSentence": {
+              "Sentence": [
+                {
+                  "@Function": "main",
+                  "@Num": "1",
+                  "#text": "この省令は、公布の日から施行する。"
+                },
+                {
+                  "@Function": "proviso",
+                  "@Num": "2",
+                  "#text": "ただし、第十一条第二項の改正規定は、昭和三十一年四月一日から適用する。"
+                }
+              ]
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "昭和三六年三月二八日運輸省令第一二号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": "１",
+            "ParagraphSentence": {
+              "Sentence": "この省令は、公布の日から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "昭和三七年九月二八日運輸省令第五一号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この省令は、昭和三十七年十月一日から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "昭和三八年一〇月一日運輸省令第五四号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この省令は、公布の日から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "昭和三九年六月一二日運輸省令第四七号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": [
+            {
+              "@Num": "1",
+              "ParagraphNum": "１",
+              "ParagraphSentence": {
+                "Sentence": "この省令は、公布の日から施行する。"
+              }
+            },
+            {
+              "@Num": "2",
+              "ParagraphNum": "２",
+              "ParagraphSentence": {
+                "Sentence": "昭和三十八年四月一日以前に開始された事業年度に係る財務諸表及び財務諸表附属明細表については、なお従前の例によることができる。"
+              }
+            }
+          ]
+        },
+        {
+          "@AmendLawNum": "昭和三九年八月二九日運輸省令第六〇号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この省令は、公布の日から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "昭和四一年六月二二日運輸省令第三八号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この省令は、公布の日から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "昭和四四年七月二六日運輸省令第四二号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この省令は、公布の日から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "昭和四四年九月一六日運輸省令第四九号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この省令は、公布の日から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "昭和四四年一二月二〇日運輸省令第五四号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この省令は、公布の日から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "昭和四六年六月一日運輸省令第三一号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この省令は、公布の日から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "昭和四九年四月二〇日運輸省令第一五号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この省令は、公布の日から施行し、第一条の規定による改正後の地方鉄道軌道整備法施行規則第十四条第四項、第十六条第二項及び第十七条第一項第五号リ（二）の規定並びに第三条の規定による改正後の港湾法施行規則第二十五条第三項及び第二十六条第二号イの規定は、昭和四十九年三月三十一日以後に終了する事業年度に係る損益の計算について適用する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "昭和四九年一〇月一九日運輸省令第四〇号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": [
+            {
+              "@Num": "1",
+              "ParagraphNum": "１",
+              "ParagraphSentence": {
+                "Sentence": "この省令は、公布の日から施行する。"
+              }
+            },
+            {
+              "@Num": "2",
+              "ParagraphNum": "２",
+              "ParagraphSentence": {
+                "Sentence": "改正後の第七条第三項第五号及び様式第七の規定は、この省令の施行の日以後締結される法第二条の契約に係る船舶の受取についての報告について適用し、同日前に締結された法第二条の契約に係る船舶の受取についての報告については、なお従前の例による。"
+              }
+            }
+          ]
+        },
+        {
+          "@AmendLawNum": "昭和四九年一二月一七日運輸省令第四八号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この省令は、公布の日から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "昭和五〇年一〇月二二日運輸省令第四二号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": [
+            {
+              "@Num": "1",
+              "ParagraphNum": "１",
+              "ParagraphSentence": {
+                "Sentence": [
+                  {
+                    "@Function": "main",
+                    "@Num": "1",
+                    "#text": "この省令は、公布の日から施行する。"
+                  },
+                  {
+                    "@Function": "proviso",
+                    "@Num": "2",
+                    "#text": "ただし、第一条中外航船舶建造融資利子補給臨時措置法施行規則第十五条第一項第三号の次に一号を加える改正規定（債務保証に係る部分を除く。）及び第二条中海運業の再建整備に関する臨時措置法施行規則第十三条第三項第五号の次に一号を加える改正規定（債務保証に係る部分を除く。）は、昭和五十年十一月一日から施行する。"
+                  }
+                ]
+              }
+            },
+            {
+              "@Num": "2",
+              "ParagraphNum": "２",
+              "ParagraphSentence": {
+                "Sentence": "昭和四十九年十月一日以前に開始された事業年度に係る決算計上利益等報告書の提出期限並びに当該事業年度について外航船舶建造融資利子補給臨時措置法施行規則第十五条第二項及び海運業の再建整備に関する臨時措置法施行規則第十三条第一項の規定により提出すべき書類については、なお従前の例による。"
+              }
+            }
+          ]
+        },
+        {
+          "@AmendLawNum": "昭和五一年六月二五日運輸省令第二四号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": [
+            {
+              "@Num": "1",
+              "ParagraphNum": "１",
+              "ParagraphSentence": {
+                "Sentence": "この省令は、公布の日から施行する。"
+              }
+            },
+            {
+              "@Num": "2",
+              "ParagraphNum": "２",
+              "ParagraphSentence": {
+                "Sentence": "改正後の第十一条第一項第三号及び第十一条第二項第六号の規定は、昭和五十年十月一日以後に終了する事業年度に係る納付金に関する利益の額の計算について適用する。"
+              }
+            }
+          ]
+        },
+        {
+          "@AmendLawNum": "昭和五四年六月五日運輸省令第二四号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": [
+            {
+              "@Num": "1",
+              "ParagraphNum": "１",
+              "ParagraphSentence": {
+                "Sentence": "この省令は、公布の日から施行する。"
+              }
+            },
+            {
+              "@Num": "2",
+              "ParagraphNum": "２",
+              "ParagraphSentence": {
+                "Sentence": "昭和五十年三月三十一日以前に結ばれた外航船舶建造融資利子補給臨時措置法第二条の規定による利子補給金を支給する旨の契約による利子補給金の支給に係る単位期間については、なお従前の例による。"
+              }
+            }
+          ]
+        },
+        {
+          "@AmendLawNum": "昭和五六年三月二五日運輸省令第八号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この省令は、公布の日から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "昭和五六年三月三〇日運輸省令第一二号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Article": [
+            {
+              "@Num": "1",
+              "ArticleCaption": "（施行期日）",
+              "ArticleTitle": "第一条",
+              "Paragraph": {
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": "この省令は、地方支分部局の整理のための行政管理庁設置法等の一部を改正する法律の施行の日（昭和五十六年四月一日）から施行する。"
+                }
+              }
+            },
+            {
+              "@Num": "2",
+              "ArticleCaption": "（経過措置）",
+              "ArticleTitle": "第二条",
+              "Paragraph": {
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": "この省令の施行前に改正前の船員法施行規則、外航船舶建造融資利子補給臨時措置法施行規則、救命艇手規則、船員労働安全衛生規則又は小型船等に乗り組む海員の労働時間及び休日に関する省令（以下この条において「船員法施行規則等」という。）の規定により新潟海運局長がした許可、認定その他の処分又は証明その他の行為は、改正後の船員法施行規則等の規定により新潟海運監理部長がした許可、認定その他の処分又は証明その他の行為とみなす。"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@AmendLawNum": "昭和五七年五月一三日運輸省令第一一号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この省令は、公布の日から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "昭和五八年三月二九日運輸省令第一五号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この省令は、公布の日から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "昭和五八年四月一三日運輸省令第二二号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この省令は、公布の日から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "昭和五九年四月一四日運輸省令第八号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この省令は、公布の日から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "昭和五九年六月二二日運輸省令第一八号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Article": [
+            {
+              "@Num": "1",
+              "ArticleCaption": "（施行期日）",
+              "ArticleTitle": "第一条",
+              "Paragraph": {
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": "この省令は、昭和五十九年七月一日から施行する。"
+                }
+              }
+            },
+            {
+              "@Num": "2",
+              "ArticleCaption": "（経過措置）",
+              "ArticleTitle": "第二条",
+              "Paragraph": {
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": "この省令の施行前に次の表の上欄に掲げる行政庁が法律若しくはこれに基づく命令の規定によりした許可、認可その他の処分又は契約その他の行為（以下「処分等」という。）は、同表の下欄に掲げるそれぞれの行政庁がした処分等とみなし、この省令の施行前に同表の上欄に掲げる行政庁に対してした申請、届出その他の行為（以下「申請等」という。）は、同表の下欄に掲げるそれぞれの行政庁に対してした申請等とみなす。"
+                },
+                "TableStruct": {
+                  "Table": {
+                    "TableRow": [
+                      {
+                        "TableColumn": [
+                          {
+                            "Sentence": "北海海運局長"
+                          },
+                          {
+                            "Sentence": "北海道運輸局長"
+                          }
+                        ]
+                      },
+                      {
+                        "TableColumn": [
+                          {
+                            "Sentence": "東北海運局長（山形県又は秋田県の区域に係る処分等又は申請等に係る場合を除く。）"
+                          },
+                          {
+                            "Sentence": "東北運輸局長"
+                          }
+                        ]
+                      },
+                      {
+                        "TableColumn": [
+                          {
+                            "Sentence": "東北海運局長（山形県又は秋田県の区域に係る処分等又は申請等に係る場合に限る。）及び新潟海運監理部長"
+                          },
+                          {
+                            "Sentence": "新潟運輸局長"
+                          }
+                        ]
+                      },
+                      {
+                        "TableColumn": [
+                          {
+                            "Sentence": "関東海運局長"
+                          },
+                          {
+                            "Sentence": "関東運輸局長"
+                          }
+                        ]
+                      },
+                      {
+                        "TableColumn": [
+                          {
+                            "Sentence": "東海海運局長"
+                          },
+                          {
+                            "Sentence": "中部運輸局長"
+                          }
+                        ]
+                      },
+                      {
+                        "TableColumn": [
+                          {
+                            "Sentence": "近畿海運局長"
+                          },
+                          {
+                            "Sentence": "近畿運輸局長"
+                          }
+                        ]
+                      },
+                      {
+                        "TableColumn": [
+                          {
+                            "Sentence": "中国海運局長"
+                          },
+                          {
+                            "Sentence": "中国運輸局長"
+                          }
+                        ]
+                      },
+                      {
+                        "TableColumn": [
+                          {
+                            "Sentence": "四国海運局長"
+                          },
+                          {
+                            "Sentence": "四国運輸局長"
+                          }
+                        ]
+                      },
+                      {
+                        "TableColumn": [
+                          {
+                            "Sentence": "九州海運局長"
+                          },
+                          {
+                            "Sentence": "九州運輸局長"
+                          }
+                        ]
+                      },
+                      {
+                        "TableColumn": [
+                          {
+                            "Sentence": "神戸海運局長"
+                          },
+                          {
+                            "Sentence": "神戸海運監理部長"
+                          }
+                        ]
+                      },
+                      {
+                        "TableColumn": [
+                          {
+                            "Sentence": "札幌陸運局長"
+                          },
+                          {
+                            "Sentence": "北海道運輸局長"
+                          }
+                        ]
+                      },
+                      {
+                        "TableColumn": [
+                          {
+                            "Sentence": "仙台陸運局長"
+                          },
+                          {
+                            "Sentence": "東北運輸局長"
+                          }
+                        ]
+                      },
+                      {
+                        "TableColumn": [
+                          {
+                            "Sentence": "新潟陸運局長"
+                          },
+                          {
+                            "Sentence": "新潟運輸局長"
+                          }
+                        ]
+                      },
+                      {
+                        "TableColumn": [
+                          {
+                            "Sentence": "東京陸運局長"
+                          },
+                          {
+                            "Sentence": "関東運輸局長"
+                          }
+                        ]
+                      },
+                      {
+                        "TableColumn": [
+                          {
+                            "Sentence": "名古屋陸運局長"
+                          },
+                          {
+                            "Sentence": "中部運輸局長"
+                          }
+                        ]
+                      },
+                      {
+                        "TableColumn": [
+                          {
+                            "Sentence": "大阪陸運局長"
+                          },
+                          {
+                            "Sentence": "近畿運輸局長"
+                          }
+                        ]
+                      },
+                      {
+                        "TableColumn": [
+                          {
+                            "Sentence": "広島陸運局長"
+                          },
+                          {
+                            "Sentence": "中国運輸局長"
+                          }
+                        ]
+                      },
+                      {
+                        "TableColumn": [
+                          {
+                            "Sentence": "高松陸運局長"
+                          },
+                          {
+                            "Sentence": "四国運輸局長"
+                          }
+                        ]
+                      },
+                      {
+                        "TableColumn": [
+                          {
+                            "Sentence": "福岡陸運局長"
+                          },
+                          {
+                            "Sentence": "九州運輸局長"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@AmendLawNum": "昭和六〇年四月一〇日運輸省令第一六号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この省令は、公布の日から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "昭和六〇年四月二五日運輸省令第一八号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphCaption": "（施行期日）",
+            "ParagraphNum": "１",
+            "ParagraphSentence": {
+              "Sentence": "この省令は、公布の日から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "昭和六一年四月八日運輸省令第一四号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この省令は、公布の日から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "昭和六二年三月三一日運輸省令第三二号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この省令は、昭和六十二年四月一日から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "昭和六二年五月二一日運輸省令第三九号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この省令は、公布の日から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "昭和六三年二月二三日運輸省令第三号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この省令は、公布の日から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成元年七月二〇日運輸省令第二四号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この省令は、公布の日から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成六年三月三〇日運輸省令第一二号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": "１",
+            "ParagraphSentence": {
+              "Sentence": "この省令は、公布の日から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成一一年九月三〇日運輸省令第四一号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この省令は、平成十一年十月一日から施行する。"
+            }
+          }
+        }
+      ],
+      "AppdxStyle": [
+        {
+          "AppdxStyleTitle": "様式第一（その一）",
+          "RelatedArticleNum": "（第四条関係）",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/S28F03901000051-001.pdf"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": "様式第一（その二）",
+          "RelatedArticleNum": "（第四条関係）",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/S28F03901000051-002.pdf"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": "様式第二",
+          "RelatedArticleNum": "（第四条関係）",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/S28F03901000051-003.pdf"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": "様式第三",
+          "RelatedArticleNum": "（第四条関係）",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/S28F03901000051-004.pdf"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": "様式第四（その一）",
+          "RelatedArticleNum": "（第四条関係）",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/S28F03901000051-005.pdf"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": "様式第四（その二）",
+          "RelatedArticleNum": "（第四条、第五条関係）",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/S28F03901000051-006.pdf"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": "様式第五（その一）",
+          "RelatedArticleNum": "（第五条関係）",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/S28F03901000051-007.pdf"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": "様式第五（その二）",
+          "RelatedArticleNum": "（第五条関係）",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/S28F03901000051-008.pdf"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": "様式第六",
+          "RelatedArticleNum": "（第五条関係）",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/S28F03901000051-009.pdf"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": "様式第七",
+          "RelatedArticleNum": "（第七条関係）",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/S28F03901000051-010.pdf"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": "様式第八",
+          "RelatedArticleNum": "（第七条関係）",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/S28F03901000051-011.pdf"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": "様式第九（その一）",
+          "RelatedArticleNum": "（第七条関係）",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/S28F03901000051-012.pdf"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": "様式第九（その二）",
+          "RelatedArticleNum": "（第七条関係）",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/S28F03901000051-013.pdf"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": "様式第十（その一）",
+          "RelatedArticleNum": "（第九条関係）",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/S28F03901000051-014.pdf"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": "様式第十（その二）",
+          "RelatedArticleNum": "（第九条関係）",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/S28F03901000051-015.pdf"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": "様式第十一",
+          "RelatedArticleNum": "（第十三条関係）",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/S28F03901000051-016.pdf"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": "様式第十二",
+          "RelatedArticleNum": "（第十三条関係）",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/S28F03901000051-017.pdf"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": "様式第十二の二",
+          "RelatedArticleNum": "（第十三条関係）",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/S28F03901000051-018.pdf"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": "様式第十三",
+          "RelatedArticleNum": "（第十六条関係）",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/S28F03901000051-019.pdf"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": "様式第十四（その一）",
+          "RelatedArticleNum": "（第二十条関係）",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/S28F03901000051-020.pdf"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": "様式第十四（その二）",
+          "RelatedArticleNum": "（第二十条関係）",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/S28F03901000051-021.pdf"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": "様式第十四（その三）",
+          "RelatedArticleNum": "（第二十条関係）",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/S28F03901000051-022.pdf"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": "様式第十四（その四）",
+          "RelatedArticleNum": "（第二十条関係）",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/S28F03901000051-023.pdf"
+              }
+            }
+          }
+        }
+      ]
+    }
+  }
+}

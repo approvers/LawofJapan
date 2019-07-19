@@ -1,0 +1,1450 @@
+{
+  "Law": {
+    "@Era": "Showa",
+    "@Lang": "ja",
+    "@LawType": "MinisterialOrdinance",
+    "@Num": "50",
+    "@Year": "28",
+    "LawNum": "昭和二十八年運輸省令第五十号",
+    "LawBody": {
+      "LawTitle": "航空機登録規則",
+      "EnactStatement": "航空機登録令（昭和二十八年政令第二百九十六号）第四条、第六条第三項及び第十二条の規定に基き、並びに同令を実施するため、航空機登録規則を次のように定める。",
+      "MainProvision": {
+        "Chapter": [
+          {
+            "@Num": "1",
+            "ChapterTitle": "第一章　登録に関する帳簿",
+            "Article": [
+              {
+                "@Num": "1",
+                "ArticleCaption": "（航空機登録原簿の用紙の様式）",
+                "ArticleTitle": "第一条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": [
+                      {
+                        "@Function": "main",
+                        "@Num": "1",
+                        "Ruby": [
+                          {
+                            "Rt": "ヽ",
+                            "#text": "ま"
+                          },
+                          {
+                            "Rt": "ヽ",
+                            "#text": "つ"
+                          }
+                        ],
+                        "#text": "航空機登録原簿の用紙は、表示部、所有権部及び抵当権部に区分し、且つ、表示部に登録記号欄、表示欄、表示の変更更正欄及び\n消登録欄を、所有権部及び抵当権部に順位番号欄及び事項欄を設け、別記様式第一号により調製する。"
+                      },
+                      {
+                        "@Function": "proviso",
+                        "@Num": "2",
+                        "#text": "但し、抵当権部については、記載すべき事項がないときは、これを設けないことができる。"
+                      }
+                    ]
+                  }
+                }
+              },
+              {
+                "@Num": "2",
+                "ArticleCaption": {
+                  "Ruby": [
+                    {
+                      "Rt": "ヽ",
+                      "#text": "て"
+                    },
+                    {
+                      "Rt": "ヽ",
+                      "#text": "つ"
+                    }
+                  ],
+                  "#text": "（航空機登録原簿の編\n）"
+                },
+                "ArticleTitle": "第二条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": {
+                      "Ruby": [
+                        {
+                          "Rt": "ヽ",
+                          "#text": "て"
+                        },
+                        {
+                          "Rt": "ヽ",
+                          "#text": "つ"
+                        }
+                      ],
+                      "#text": "航空機登録原簿は、航空機登録原簿の用紙を登録記号の順序に従つて編\nして調製しなければならない。"
+                    }
+                  }
+                }
+              },
+              {
+                "@Num": "3",
+                "ArticleCaption": "（帳簿）",
+                "ArticleTitle": "第三条",
+                "Paragraph": [
+                  {
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "Ruby": [
+                          {
+                            "Rt": "ヽ",
+                            "#text": "て"
+                          },
+                          {
+                            "Rt": "ヽ",
+                            "#text": "つ"
+                          }
+                        ],
+                        "#text": "国土交通省航空局には、航空機登録原簿及び申請書編\n簿の外、左に掲げる帳簿を備えなければならない。"
+                      }
+                    },
+                    "Item": [
+                      {
+                        "@Num": "1",
+                        "ItemTitle": "一",
+                        "ItemSentence": {
+                          "Sentence": "登録受付帳"
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "ItemTitle": "二",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "Ruby": [
+                              {
+                                "Rt": "ヽ",
+                                "#text": "つ"
+                              },
+                              {
+                                "Rt": "ヽ",
+                                "#text": "ず"
+                              },
+                              {
+                                "Rt": "ヽ",
+                                "#text": "り"
+                              }
+                            ],
+                            "#text": "申請書類\n\n込帳"
+                          }
+                        }
+                      },
+                      {
+                        "@Num": "3",
+                        "ItemTitle": "三",
+                        "ItemSentence": {
+                          "Sentence": "通知簿"
+                        }
+                      },
+                      {
+                        "@Num": "4",
+                        "ItemTitle": "四",
+                        "ItemSentence": {
+                          "Sentence": {
+                            "Ruby": [
+                              {
+                                "Rt": "ヽ",
+                                "#text": "ま"
+                              },
+                              {
+                                "Rt": "ヽ",
+                                "#text": "つ"
+                              },
+                              {
+                                "Rt": "ヽ",
+                                "#text": "て"
+                              },
+                              {
+                                "Rt": "ヽ",
+                                "#text": "つ"
+                              }
+                            ],
+                            "#text": "消航空機登録原簿用紙編\n簿"
+                          }
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": "前項第一号から第三号までの帳簿は、毎年別冊として調製しなければならない。"
+                    }
+                  },
+                  {
+                    "@Num": "3",
+                    "ParagraphNum": "３",
+                    "ParagraphSentence": {
+                      "Sentence": "前項の帳簿は、当該年度の翌年から起算して十年間保存しなければならない。"
+                    }
+                  }
+                ]
+              },
+              {
+                "@Num": "4",
+                "ArticleCaption": "（登録受付帳）",
+                "ArticleTitle": "第四条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "登録受付帳には、登録の目的、申請人の氏名又は名称、受付年月日及び受付番号を記載しなければならない。"
+                  }
+                }
+              },
+              {
+                "@Num": "5",
+                "ArticleCaption": {
+                  "Ruby": [
+                    {
+                      "Rt": "ヽ",
+                      "#text": "つ"
+                    },
+                    {
+                      "Rt": "ヽ",
+                      "#text": "ず"
+                    },
+                    {
+                      "Rt": "ヽ",
+                      "#text": "り"
+                    }
+                  ],
+                  "#text": "（申請書類\n\n込帳）"
+                },
+                "ArticleTitle": "第五条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": {
+                      "Ruby": [
+                        {
+                          "Rt": "ヽ",
+                          "#text": "つ"
+                        },
+                        {
+                          "Rt": "ヽ",
+                          "#text": "ず"
+                        },
+                        {
+                          "Rt": "ヽ",
+                          "#text": "り"
+                        },
+                        {
+                          "Rt": "ヽ",
+                          "#text": "て"
+                        },
+                        {
+                          "Rt": "ヽ",
+                          "#text": "つ"
+                        }
+                      ],
+                      "#text": "申請書類\n\n込帳には、申請書及びその添附書類を受付の順序に従つて編\nしなければならない。"
+                    }
+                  }
+                }
+              },
+              {
+                "@Num": "6",
+                "ArticleCaption": "（通知簿）",
+                "ArticleTitle": "第六条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "通知簿には、航空法（昭和二十七年法律第二百三十一号）第八条第二項及び第三項、航空機抵当法（昭和二十八年法律第六十六号）第十九条、航空機登録令（昭和二十八年政令第二百九十六号。以下「令」という。）第二十一条、第二十三条第一項並びにこの省令第十二条第二項、第三十八条及び第三十九条の規定による通知事項を記載し、且つ、通知書と契印しなければならない。"
+                  }
+                }
+              },
+              {
+                "@Num": "7",
+                "ArticleCaption": {
+                  "Ruby": [
+                    {
+                      "Rt": "ヽ",
+                      "#text": "ま"
+                    },
+                    {
+                      "Rt": "ヽ",
+                      "#text": "つ"
+                    },
+                    {
+                      "Rt": "ヽ",
+                      "#text": "て"
+                    },
+                    {
+                      "Rt": "ヽ",
+                      "#text": "つ"
+                    }
+                  ],
+                  "#text": "（\n消航空機登録原簿用紙編\n簿）"
+                },
+                "ArticleTitle": "第七条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": {
+                      "Ruby": [
+                        {
+                          "Rt": "ヽ",
+                          "#text": "ま"
+                        },
+                        {
+                          "Rt": "ヽ",
+                          "#text": "つ"
+                        },
+                        {
+                          "Rt": "ヽ",
+                          "#text": "て"
+                        },
+                        {
+                          "Rt": "ヽ",
+                          "#text": "つ"
+                        },
+                        {
+                          "Rt": "ヽ",
+                          "#text": "ま"
+                        },
+                        {
+                          "Rt": "ヽ",
+                          "#text": "つ"
+                        },
+                        {
+                          "Rt": "ヽ",
+                          "#text": "て"
+                        },
+                        {
+                          "Rt": "ヽ",
+                          "#text": "つ"
+                        }
+                      ],
+                      "#text": "消航空機登録原簿用紙編\n簿には、\n消登録をした航空機登録原簿の用紙を編\nして調製しなければならない。"
+                    }
+                  }
+                }
+              },
+              {
+                "@Num": "8",
+                "ArticleCaption": "（航空機登録原簿の謄本の交付の請求等）",
+                "ArticleTitle": "第八条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "航空機登録原簿の謄本若しくは抄本の交付又は航空機登録原簿の閲覧を請求する者は、左に掲げる事項を記載した請求書を提出しなければならない。"
+                  },
+                  "Item": [
+                    {
+                      "@Num": "1",
+                      "ItemTitle": "一",
+                      "ItemSentence": {
+                        "Sentence": "請求人の氏名又は名称及び住所"
+                      }
+                    },
+                    {
+                      "@Num": "2",
+                      "ItemTitle": "二",
+                      "ItemSentence": {
+                        "Sentence": "航空機の登録記号"
+                      }
+                    },
+                    {
+                      "@Num": "3",
+                      "ItemTitle": "三",
+                      "ItemSentence": {
+                        "Sentence": "請求の範囲"
+                      }
+                    },
+                    {
+                      "@Num": "4",
+                      "ItemTitle": "四",
+                      "ItemSentence": {
+                        "Sentence": "請求の年月日"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "@Num": "9",
+                "ArticleCaption": "（航空機登録原簿の謄本等の作製）",
+                "ArticleTitle": "第九条",
+                "Paragraph": [
+                  {
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": "航空機登録原簿の謄本は、航空機登録原簿と同一の様式の用紙により作製し、余白があるときは、その部分に朱線を引き作製の年月日及び当該謄本が航空機登録原簿の記載と相違ないことを認証する旨を記載して、国土交通大臣が、記名押印し、かつ、毎葉のつづり目に契印し、又は契印に代えて、これに準ずる措置をとらなければならない。"
+                    }
+                  },
+                  {
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": [
+                        {
+                          "@Function": "main",
+                          "@Num": "1",
+                          "#text": "航空機登録原簿の謄本は、法令に別段の定がある場合を除き、航空機登録原簿の全部を写さなければならない。"
+                        },
+                        {
+                          "@Function": "proviso",
+                          "@Num": "2",
+                          "#text": "但し、請求により、現に効力を有するもののみを写して作製することができる。"
+                        },
+                        {
+                          "@Function": "main",
+                          "@Num": "3",
+                          "#text": "この場合には、第一項の記載にその旨を附記しなければならない。"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "@Num": "3",
+                    "ParagraphNum": "３",
+                    "ParagraphSentence": {
+                      "Sentence": "第一項の規定は、航空機登録原簿の抄本を作製する場合に準用する。"
+                    }
+                  }
+                ]
+              },
+              {
+                "@Num": "10",
+                "ArticleCaption": "（航空機登録原簿の滅失による登録の回復）",
+                "ArticleTitle": "第十条",
+                "Paragraph": [
+                  {
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": "令第六条第一項の登録の回復の申請書には、滅失した航空機登録原簿の滅失の際有効であつた登録（以下この章において「前の登録」という。）の登録年月日、順位番号、受付年月日及び受付番号をも記載しなければならない。"
+                    }
+                  },
+                  {
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": "前項の申請書には、航空機登録原簿の謄本又は抄本その他前の登録の存したことを証するに足る書面を添附しなければならない。"
+                    }
+                  }
+                ]
+              },
+              {
+                "@Num": "11",
+                "ArticleTitle": "第十一条",
+                "Paragraph": [
+                  {
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": "令第六条第一項の申請があつた場合において、その登録をするときは、表示欄中登録の目的の項に回復の登録の旨を、登録の回復年月日の項に登録の回復年月日を、相当欄に前の登録を記載し、表示部にあつては、表示の変更更正欄に、所有権部及び抵当権部にあつては事項欄に記載した登録の末尾に、登録の回復をした旨及びその年月日を記載し、国土交通大臣の命ずる航空機登録担当官（以下「登録担当官」という。）が押印しなければならない。"
+                    }
+                  },
+                  {
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": "国土交通大臣は、回復の登録をする場合において、前の登録について職権をもつて記載した事項があつたことを発見したときは、その事項をも記載しなければならない。"
+                    }
+                  }
+                ]
+              },
+              {
+                "@Num": "12",
+                "ArticleTitle": "第十二条",
+                "Paragraph": [
+                  {
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "Ruby": [
+                          {
+                            "Rt": "ヽ",
+                            "#text": "て"
+                          },
+                          {
+                            "Rt": "ヽ",
+                            "#text": "つ"
+                          },
+                          {
+                            "Rt": "ヽ",
+                            "#text": "て"
+                          },
+                          {
+                            "Rt": "ヽ",
+                            "#text": "つ"
+                          },
+                          {
+                            "Rt": "ヽ",
+                            "#text": "て"
+                          },
+                          {
+                            "Rt": "ヽ",
+                            "#text": "つ"
+                          },
+                          {
+                            "Rt": "ヽ",
+                            "#text": "て"
+                          },
+                          {
+                            "Rt": "ヽ",
+                            "#text": "つ"
+                          },
+                          {
+                            "Rt": "ヽ",
+                            "#text": "つ"
+                          },
+                          {
+                            "Rt": "ヽ",
+                            "#text": "ず"
+                          },
+                          {
+                            "Rt": "ヽ",
+                            "#text": "り"
+                          }
+                        ],
+                        "#text": "令第七条第一項の規定により申請書を申請書編\n簿に編\nするときは、既に編\nした申請書の末葉と編\nする申請書の初葉との\n\n目に、登録担当官が契印をしなければならない。"
+                      }
+                    }
+                  },
+                  {
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": "令第七条第三項の規定による記載をしたときは、登録権利者に通知しなければならない。"
+                    }
+                  }
+                ]
+              },
+              {
+                "@Num": "13",
+                "ArticleTitle": "第十三条",
+                "Paragraph": [
+                  {
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": {
+                        "Ruby": [
+                          {
+                            "Rt": "ヽ",
+                            "#text": "て"
+                          },
+                          {
+                            "Rt": "ヽ",
+                            "#text": "つ"
+                          },
+                          {
+                            "Rt": "ヽ",
+                            "#text": "て"
+                          },
+                          {
+                            "Rt": "ヽ",
+                            "#text": "つ"
+                          }
+                        ],
+                        "#text": "令第七条第三項の規定により記載した場合には、表示部にあつては表示の変更更正欄に、所有権部及び抵当権部にあつては事項欄に移した登録の末尾に、申請書編\n簿により登録を移した旨及び申請書編\n年月日を記載し、登録担当官が押印しなければならない。"
+                      }
+                    }
+                  },
+                  {
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": "前項の記載をした場合には、令第七条第一項の申請書の末尾に航空機登録原簿に記載した旨及びその年月日を記載し、登録担当官が押印しなければならない。"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "@Num": "2",
+            "ChapterTitle": "第二章　登録に関する手続",
+            "Section": [
+              {
+                "@Num": "1",
+                "SectionTitle": "第一節　登録申請の手続",
+                "Article": [
+                  {
+                    "@Num": "14",
+                    "ArticleCaption": "（申請書の用紙等）",
+                    "ArticleTitle": "第十四条",
+                    "Paragraph": [
+                      {
+                        "@Num": "1",
+                        "ParagraphNum": null,
+                        "ParagraphSentence": {
+                          "Sentence": "申請書には、日本工業規格Ａ列四番の用紙を用いなければならない。"
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "ParagraphNum": "２",
+                        "ParagraphSentence": {
+                          "Sentence": "申請書の記載は、短辺に平行した左横書にしなければならない。"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Num": "15",
+                    "ArticleCaption": "（申請書の契印）",
+                    "ArticleTitle": "第十五条",
+                    "Paragraph": {
+                      "@Num": "1",
+                      "ParagraphNum": null,
+                      "ParagraphSentence": {
+                        "Sentence": [
+                          {
+                            "@Function": "main",
+                            "@Num": "1",
+                            "Ruby": [
+                              {
+                                "Rt": "ヽ",
+                                "#text": "つ"
+                              },
+                              {
+                                "Rt": "ヽ",
+                                "#text": "ず"
+                              },
+                              {
+                                "Rt": "ヽ",
+                                "#text": "り"
+                              }
+                            ],
+                            "#text": "申請書の用紙が二葉以上にわたるときは、申請人は、各葉の\n\n目に契印しなければならない。"
+                          },
+                          {
+                            "@Function": "proviso",
+                            "@Num": "2",
+                            "#text": "但し、登録権利者、登録義務者又は登録名義人が多数である場合にあつては、それぞれ一人の契印で足りる。"
+                          }
+                        ]
+                      }
+                    }
+                  },
+                  {
+                    "@Num": "16",
+                    "ArticleCaption": "（併合申請）",
+                    "ArticleTitle": "第十六条",
+                    "Paragraph": [
+                      {
+                        "@Num": "1",
+                        "ParagraphNum": null,
+                        "ParagraphSentence": {
+                          "Sentence": "二個以上の航空機に関する登録を申請する場合には、登録原因及び登録の目的が同一であるときに限り、同一の申請書で登録の申請をすることができる。"
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "ParagraphNum": "２",
+                        "ParagraphSentence": {
+                          "Sentence": "同時に二以上の登録を申請する場合において、それぞれの申請書に添附すべき書類のうちその内容が同一のものがあるときは、一通の申請書のみにその書類を添附し、他の申請書にその旨を記載すれば足りる。"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Num": "17",
+                    "ArticleCaption": "（申請書の記載事項）",
+                    "ArticleTitle": "第十七条",
+                    "Paragraph": {
+                      "@Num": "1",
+                      "ParagraphNum": null,
+                      "ParagraphSentence": {
+                        "Sentence": "令第十二条第十一号の事項は、左に掲げるものとする。"
+                      },
+                      "Item": [
+                        {
+                          "@Num": "1",
+                          "ItemTitle": "一",
+                          "ItemSentence": {
+                            "Sentence": "登録免許税額"
+                          }
+                        },
+                        {
+                          "@Num": "2",
+                          "ItemTitle": "二",
+                          "ItemSentence": {
+                            "Sentence": "航空機の自重トン数（新規登録又は移転登録に係るものに限る。）"
+                          }
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "@Num": "18",
+                    "ArticleCaption": "（共同抵当の登録の申請）",
+                    "ArticleTitle": "第十八条",
+                    "Paragraph": {
+                      "@Num": "1",
+                      "ParagraphNum": null,
+                      "ParagraphSentence": {
+                        "Sentence": "根抵当権の設定の登録の申請をする場合において、航空機抵当法第二十二条の二第二項において準用する民法（明治二十九年法律第八十九号）第三百九十八条の十六の規定による登録をしようとするときは、申請書にその旨を記載しなければならない。"
+                      }
+                    }
+                  },
+                  {
+                    "@Num": "19",
+                    "ArticleTitle": "第十九条",
+                    "Paragraph": {
+                      "@Num": "1",
+                      "ParagraphNum": null,
+                      "ParagraphSentence": {
+                        "Sentence": "令第四十二条の規定により現になされている登録を表示するときは、その登録に係る航空機の登録記号及びその登録の順位番号を記載しなければならない。"
+                      }
+                    }
+                  },
+                  {
+                    "@Num": "20",
+                    "ArticleCaption": "（根抵当権の分割譲渡による移転の登録の申請）",
+                    "ArticleTitle": "第二十条",
+                    "Paragraph": [
+                      {
+                        "@Num": "1",
+                        "ParagraphNum": null,
+                        "ParagraphSentence": {
+                          "Sentence": "令第四十六条の二第一項の規定により現になされている根抵当権の登録を表示するときは、その根抵当権の設定の登録の登録年月日、受付番号、登録原因及びその日付並びにその根抵当権の担保すべき債権の範囲及び債務者を記載し、かつ、その根抵当権の登録に航空機抵当法第六条ただし書の定め又は担保すべき元本の確定すべき期日の定めの記載があるときは、これを記載しなければならない。"
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "ParagraphNum": "２",
+                        "ParagraphSentence": {
+                          "Sentence": "令第四十六条の二第一項の移転の登録の申請をするときは、申請書に甲根抵当権の極度額を記載しなければならない。"
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "@Num": "2",
+                "SectionTitle": "第二節　登録の手続",
+                "Article": [
+                  {
+                    "@Num": "21",
+                    "ArticleCaption": "（受付番号）",
+                    "ArticleTitle": "第二十一条",
+                    "Paragraph": {
+                      "@Num": "1",
+                      "ParagraphNum": null,
+                      "ParagraphSentence": {
+                        "Sentence": "受付番号は、毎年更新しなければならない。"
+                      }
+                    }
+                  },
+                  {
+                    "@Num": "22",
+                    "ArticleCaption": "（受付年月日の記載）",
+                    "ArticleTitle": "第二十二条",
+                    "Paragraph": {
+                      "@Num": "1",
+                      "ParagraphNum": null,
+                      "ParagraphSentence": {
+                        "Sentence": "令第十六条に規定する場合には、申請書に受付年月日をも記載しなければならない。"
+                      }
+                    }
+                  },
+                  {
+                    "@Num": "23",
+                    "ArticleCaption": "（表示部の記載）",
+                    "ArticleTitle": "第二十三条",
+                    "Paragraph": [
+                      {
+                        "@Num": "1",
+                        "ParagraphNum": null,
+                        "ParagraphSentence": {
+                          "Sentence": "新規登録をするときは、次条の規定により所有権に関する事項を記載する外、登録記号欄に登録記号を、表示欄に登録の目的、新規登録年月日、受付番号及び令第十二条第一号から第四号までに掲げる事項を記載し、登録担当官が押印しなければならない。"
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "ParagraphNum": "２",
+                        "ParagraphSentence": {
+                          "Sentence": "変更登録又は登録の更正をするときは、表示の変更更正欄に変更又は更正された事項、登録年月日及び受付番号を記載し、登録担当官が押印しなければならない。"
+                        }
+                      },
+                      {
+                        "@Num": "3",
+                        "ParagraphNum": "３",
+                        "ParagraphSentence": {
+                          "Sentence": {
+                            "Ruby": [
+                              {
+                                "Rt": "ヽ",
+                                "#text": "ま"
+                              },
+                              {
+                                "Rt": "ヽ",
+                                "#text": "つ"
+                              },
+                              {
+                                "Rt": "ヽ",
+                                "#text": "ま"
+                              },
+                              {
+                                "Rt": "ヽ",
+                                "#text": "つ"
+                              }
+                            ],
+                            "#text": "消登録をするときは、\n消登録欄にその原因、登録年月日及び受付番号又は通知書の番号を記載し、登録担当官が押印しなければならない。"
+                          }
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Num": "24",
+                    "ArticleCaption": "（所有権部及び抵当権部の記載）",
+                    "ArticleTitle": "第二十四条",
+                    "Paragraph": [
+                      {
+                        "@Num": "1",
+                        "ParagraphNum": null,
+                        "ParagraphSentence": {
+                          "Sentence": "所有権に関する事項及び抵当権に関する事項を登録するときは、それぞれ所有権部及び抵当権部に記載しなければならない。"
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "ParagraphNum": "２",
+                        "ParagraphSentence": {
+                          "Sentence": "事項欄に登録をするには、順位番号欄に順位番号を、事項欄に登録権利者の氏名又は名称及び住所、登録原因及びその日付、その他登録すべき権利に関する事項、登録年月日及び受付番号を記載して、登録担当官が押印しなければならない。"
+                        }
+                      },
+                      {
+                        "@Num": "3",
+                        "ParagraphNum": "３",
+                        "ParagraphSentence": {
+                          "Sentence": "主登録の順位番号は、順位番号欄の主登録の項に記載しなければならない。"
+                        }
+                      },
+                      {
+                        "@Num": "4",
+                        "ParagraphNum": "４",
+                        "ParagraphSentence": {
+                          "Sentence": "附記登録の順位番号の記載は、順位番号欄の主登録の項に主登録の順位番号を記載し、附記登録の項にしなければならない。"
+                        }
+                      },
+                      {
+                        "@Num": "5",
+                        "ParagraphNum": "５",
+                        "ParagraphSentence": {
+                          "Sentence": "令第十六条但書の規定により同一の受付番号を附し、且つ、同一の事項欄に登録をするものについては、同一の順位番号を記載しなければならない。"
+                        }
+                      },
+                      {
+                        "@Num": "6",
+                        "ParagraphNum": "６",
+                        "ParagraphSentence": {
+                          "Sentence": "令第十五条の規定による申請があつた場合において登録をするには、第二項の規定による外、事項欄に債権者の氏名又は名称及び住所並びに代位原因を記載しなければならない。"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Num": "25",
+                    "ArticleCaption": "（余白との分界）",
+                    "ArticleTitle": "第二十五条",
+                    "Paragraph": {
+                      "@Num": "1",
+                      "ParagraphNum": null,
+                      "ParagraphSentence": {
+                        "Sentence": "表示の変更更正欄に登録をしたときは、その記載の下に横線を引き、事項欄に登録をしたときは、順位番号欄及び事項欄の記載の下に横線を引いて、余白と分界をしなければならない。"
+                      }
+                    }
+                  },
+                  {
+                    "@Num": "26",
+                    "ArticleCaption": "（変更又は更正の登録）",
+                    "ArticleTitle": "第二十六条",
+                    "Paragraph": {
+                      "@Num": "1",
+                      "ParagraphNum": null,
+                      "ParagraphSentence": {
+                        "Sentence": {
+                          "Ruby": [
+                            {
+                              "Rt": "ヽ",
+                              "#text": "ま"
+                            },
+                            {
+                              "Rt": "ヽ",
+                              "#text": "つ"
+                            }
+                          ],
+                          "#text": "変更又は更正の登録をするときは、変更又は更正に係る事項の記載を朱\nしなければならない。"
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "@Num": "27",
+                    "ArticleCaption": "（通知の記載）",
+                    "ArticleTitle": "第二十七条",
+                    "Paragraph": {
+                      "@Num": "1",
+                      "ParagraphNum": null,
+                      "ParagraphSentence": {
+                        "Sentence": "令第三十八条第一項に規定する記載は、所有権部事項欄にする。"
+                      }
+                    }
+                  },
+                  {
+                    "@Num": "28",
+                    "ArticleCaption": {
+                      "Ruby": [
+                        {
+                          "Rt": "ヽ",
+                          "#text": "ま"
+                        },
+                        {
+                          "Rt": "ヽ",
+                          "#text": "つ"
+                        }
+                      ],
+                      "#text": "（\n消登録に係る催告の記載）"
+                    },
+                    "ArticleTitle": "第二十八条",
+                    "Paragraph": {
+                      "@Num": "1",
+                      "ParagraphNum": null,
+                      "ParagraphSentence": {
+                        "Sentence": "航空法第八条第二項の催告をした場合には、その年月日及び理由を所有権部事項欄に記載しなければならない。"
+                      }
+                    }
+                  },
+                  {
+                    "@Num": "29",
+                    "ArticleCaption": {
+                      "Ruby": [
+                        {
+                          "Rt": "ヽ",
+                          "#text": "ま"
+                        },
+                        {
+                          "Rt": "ヽ",
+                          "#text": "つ"
+                        }
+                      ],
+                      "#text": "（登録の\n消）"
+                    },
+                    "ArticleTitle": "第二十九条",
+                    "Paragraph": [
+                      {
+                        "@Num": "1",
+                        "ParagraphNum": null,
+                        "ParagraphSentence": {
+                          "Sentence": {
+                            "Ruby": [
+                              {
+                                "Rt": "ヽ",
+                                "#text": "ま"
+                              },
+                              {
+                                "Rt": "ヽ",
+                                "#text": "つ"
+                              },
+                              {
+                                "Rt": "ヽ",
+                                "#text": "ま"
+                              },
+                              {
+                                "Rt": "ヽ",
+                                "#text": "つ"
+                              },
+                              {
+                                "Rt": "ヽ",
+                                "#text": "ま"
+                              },
+                              {
+                                "Rt": "ヽ",
+                                "#text": "つ"
+                              },
+                              {
+                                "Rt": "ヽ",
+                                "#text": "ま"
+                              },
+                              {
+                                "Rt": "ヽ",
+                                "#text": "つ"
+                              }
+                            ],
+                            "#text": "登録を\n消するには、\n消の登録の記載をした後、\n消すべき登録を朱\nしなければならない。"
+                          }
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "ParagraphNum": "２",
+                        "ParagraphSentence": {
+                          "Sentence": {
+                            "Ruby": [
+                              {
+                                "Rt": "ヽ",
+                                "#text": "ま"
+                              },
+                              {
+                                "Rt": "ヽ",
+                                "#text": "つ"
+                              },
+                              {
+                                "Rt": "ヽ",
+                                "#text": "ま"
+                              },
+                              {
+                                "Rt": "ヽ",
+                                "#text": "つ"
+                              }
+                            ],
+                            "#text": "前項の場合において、\n消の登録に係る権利を目的とする第三者の権利に関する登録があるときは、相当部事項欄にその第三者の権利の表示をし、権利が消滅したから\n消をする旨を記載しなければならない。"
+                          }
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Num": "30",
+                    "ArticleCaption": {
+                      "Ruby": [
+                        {
+                          "Rt": "ヽ",
+                          "#text": "ま"
+                        },
+                        {
+                          "Rt": "ヽ",
+                          "#text": "つ"
+                        }
+                      ],
+                      "#text": "（\n消した登録の回復）"
+                    },
+                    "ArticleTitle": "第三十条",
+                    "Paragraph": [
+                      {
+                        "@Num": "1",
+                        "ParagraphNum": null,
+                        "ParagraphSentence": {
+                          "Sentence": {
+                            "Ruby": [
+                              {
+                                "Rt": "ヽ",
+                                "#text": "ま"
+                              },
+                              {
+                                "Rt": "ヽ",
+                                "#text": "つ"
+                              },
+                              {
+                                "Rt": "ヽ",
+                                "#text": "ま"
+                              },
+                              {
+                                "Rt": "ヽ",
+                                "#text": "つ"
+                              }
+                            ],
+                            "#text": "消した登録の回復の申請があつた場合において、当該\n消が登録事項の一部のみのものであるときは、回復の登録をした後、附記により更にその登録事項を登録しなければならない。"
+                          }
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "ParagraphNum": "２",
+                        "ParagraphSentence": {
+                          "Sentence": {
+                            "Ruby": [
+                              {
+                                "Rt": "ヽ",
+                                "#text": "ま"
+                              },
+                              {
+                                "Rt": "ヽ",
+                                "#text": "つ"
+                              },
+                              {
+                                "Rt": "ヽ",
+                                "#text": "ま"
+                              },
+                              {
+                                "Rt": "ヽ",
+                                "#text": "つ"
+                              },
+                              {
+                                "Rt": "ヽ",
+                                "#text": "ま"
+                              },
+                              {
+                                "Rt": "ヽ",
+                                "#text": "つ"
+                              }
+                            ],
+                            "#text": "消した登録の回復の申請があつた場合において、当該\n消が、\n消登録に係るものであるときは、第十一条の規定に準じ登録をしなければならない。"
+                          }
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Num": "31",
+                    "ArticleCaption": "（仮登録の記載）",
+                    "ArticleTitle": "第三十一条",
+                    "Paragraph": [
+                      {
+                        "@Num": "1",
+                        "ParagraphNum": null,
+                        "ParagraphSentence": {
+                          "Sentence": "仮登録は、相当部事項欄にしなければならない。"
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "ParagraphNum": "２",
+                        "ParagraphSentence": {
+                          "Sentence": "仮登録をしたときは、事項欄だけに横線を引き、その下方に本登録をすることができる相当の余白を残した上、順位番号欄及び事項欄に横線を引かなければならない。"
+                        }
+                      },
+                      {
+                        "@Num": "3",
+                        "ParagraphNum": "３",
+                        "ParagraphSentence": {
+                          "Sentence": [
+                            {
+                              "@Num": "1",
+                              "#text": "仮登録をした後、本登録の申請があつたときは、仮登録の下方の余白にその登録をしなければならない。"
+                            },
+                            {
+                              "@Num": "2",
+                              "Ruby": [
+                                {
+                                  "Rt": "ヽ",
+                                  "#text": "ま"
+                                },
+                                {
+                                  "Rt": "ヽ",
+                                  "#text": "つ"
+                                }
+                              ],
+                              "#text": "仮登録の\n消の申請があつたときも、同様とする。"
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Num": "32",
+                    "ArticleCaption": "（予告登録の記載）",
+                    "ArticleTitle": "第三十二条",
+                    "Paragraph": {
+                      "@Num": "1",
+                      "ParagraphNum": null,
+                      "ParagraphSentence": {
+                        "Sentence": "予告登録は、相当部事項欄にしなければならない。"
+                      }
+                    }
+                  },
+                  {
+                    "@Num": "33",
+                    "ArticleCaption": "（共同抵当の記載）",
+                    "ArticleTitle": "第三十三条",
+                    "Paragraph": {
+                      "@Num": "1",
+                      "ParagraphNum": null,
+                      "ParagraphSentence": {
+                        "Sentence": "令第四十一条に規定する登録の申請があつた場合において、その登録をするときは、それぞれの抵当権部事項欄に申請に係る他の航空機の表示及び所有権の表示をし、これが共に抵当権の目的となつている旨を記載しなければならない。"
+                      }
+                    }
+                  },
+                  {
+                    "@Num": "34",
+                    "ArticleTitle": "第三十四条",
+                    "Paragraph": {
+                      "@Num": "1",
+                      "ParagraphNum": null,
+                      "ParagraphSentence": {
+                        "Sentence": "令第四十二条に規定する登録の申請があつた場合において、その登録をするときは、その登録及び前の登録にそれぞれの航空機が共に抵当権の目的となつている旨を記載しなければならない。"
+                      }
+                    }
+                  },
+                  {
+                    "@Num": "34_2",
+                    "ArticleCaption": "（根抵当権の分割譲渡による移転の登録）",
+                    "ArticleTitle": "第三十四条の二",
+                    "Paragraph": {
+                      "@Num": "1",
+                      "ParagraphNum": null,
+                      "ParagraphSentence": {
+                        "Sentence": "令第四十六条の二第三項の規定により順位番号を記載したときは、その順位番号及び譲渡前の根抵当権の登録の順位番号にそれぞれ符号を附さなければならない。"
+                      }
+                    }
+                  },
+                  {
+                    "@Num": "35",
+                    "ArticleCaption": "（共同抵当の登録の一部の抹消又は変更等）",
+                    "ArticleTitle": "第三十五条",
+                    "Paragraph": {
+                      "@Num": "1",
+                      "ParagraphNum": null,
+                      "ParagraphSentence": {
+                        "Sentence": [
+                          {
+                            "@Num": "1",
+                            "#text": "令第四十一条に規定する抵当権に関してその一個の航空機の抵当権の登録の抹消をしたときは、他の航空機についての抵当権部事項欄に第三十三条及び第三十四条の規定によりした登録にその旨を附記し、抹消に係る事項を朱抹しなければならない。"
+                          },
+                          {
+                            "@Num": "2",
+                            "#text": "その一個の航空機について航空機の抹消登録、変更登録、移転登録、更正の登録又は抵当権の変更若しくは移転の登録をしたときも同様である。"
+                          }
+                        ]
+                      }
+                    }
+                  },
+                  {
+                    "@Num": "35_2",
+                    "ArticleCaption": "（保全仮登録の記載）",
+                    "ArticleTitle": "第三十五条の二",
+                    "Paragraph": {
+                      "@Num": "1",
+                      "ParagraphNum": null,
+                      "ParagraphSentence": {
+                        "Sentence": "第三十一条の規定は、令第二十四条の二第一項に規定する保全仮登録について準用する。"
+                      }
+                    }
+                  },
+                  {
+                    "@Num": "36",
+                    "ArticleCaption": "（打刻年月日等の記載）",
+                    "ArticleTitle": "第三十六条",
+                    "Paragraph": {
+                      "@Num": "1",
+                      "ParagraphNum": null,
+                      "ParagraphSentence": {
+                        "Sentence": "航空法第八条の三第一項の規定により登録記号を表示する打刻をしたときは、登録記号欄に打刻年月日及び打刻位置を記載しなければならない。"
+                      }
+                    }
+                  },
+                  {
+                    "@Num": "37",
+                    "ArticleCaption": "（用紙の枚数等の押印）",
+                    "ArticleTitle": "第三十七条",
+                    "Paragraph": [
+                      {
+                        "@Num": "1",
+                        "ParagraphNum": null,
+                        "ParagraphSentence": {
+                          "Sentence": "航空機登録原簿の用紙の初葉には、航空機登録原簿用紙枚数欄中その用紙の枚数に相当する数字に登録担当官が押印しなければならない。"
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "ParagraphNum": "２",
+                        "ParagraphSentence": {
+                          "Sentence": "航空機登録原簿の用紙に追加用紙（別記第二号様式）を追加するときは、追加用紙の登録記号欄に登録記号を記載し、当該用紙の航空機登録原簿用紙枚目欄中その用紙の枚目に相当する数字に登録担当者が押印しなければならない。"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Num": "38",
+                    "ArticleCaption": "（異議決定の通知）",
+                    "ArticleTitle": "第三十八条",
+                    "Paragraph": {
+                      "@Num": "1",
+                      "ParagraphNum": null,
+                      "ParagraphSentence": {
+                        "Sentence": "令第二十三条第四項の規定により異議について決定をしたときは、理由を付した文書でその旨を異議を述べた者に通知をしなければならない。"
+                      }
+                    }
+                  },
+                  {
+                    "@Num": "39",
+                    "ArticleCaption": "（債権者代位の場合の通知）",
+                    "ArticleTitle": "第三十九条",
+                    "Paragraph": {
+                      "@Num": "1",
+                      "ParagraphNum": null,
+                      "ParagraphSentence": {
+                        "Sentence": "国土交通大臣は、令第十五条の場合において、その登録を完了したときは、その旨を登録権利者に通知しなければならない。"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "SupplProvision": [
+        {
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": "１",
+            "ParagraphSentence": {
+              "Sentence": "この省令は、航空機登録令施行の日（昭和二十八年十月一日）から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "昭和四二年七月三一日運輸省令第五六号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": "１",
+            "ParagraphSentence": {
+              "Sentence": "この省令は、昭和四十二年八月一日から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "昭和四七年三月三一日運輸省令第一〇号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この省令は、昭和四十七年四月一日から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成二年一二月二六日運輸省令第三七号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この省令は、民事保全法（平成元年法律第九十一号）の施行の日（平成三年一月一日）から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成六年三月三〇日運輸省令第一二号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": "１",
+            "ParagraphSentence": {
+              "Sentence": [
+                {
+                  "@Function": "main",
+                  "@Num": "1",
+                  "#text": "この省令は、公布の日から施行する。"
+                },
+                {
+                  "@Function": "proviso",
+                  "@Num": "2",
+                  "#text": "ただし、次の各号に掲げる規定は、それぞれ当該各号に定める日から施行する。"
+                }
+              ]
+            },
+            "Item": [
+              {
+                "@Num": "1:3",
+                "ItemTitle": "一から三まで",
+                "ItemSentence": {
+                  "Sentence": "略"
+                }
+              },
+              {
+                "@Num": "4",
+                "ItemTitle": "四",
+                "ItemSentence": {
+                  "Column": [
+                    {
+                      "@Num": "1",
+                      "Sentence": "第三条、第十八条、第四十四条及び第四十五条の規定"
+                    },
+                    {
+                      "@Num": "2",
+                      "Sentence": "平成六年十月一日"
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        },
+        {
+          "@AmendLawNum": "平成一二年一一月二九日運輸省令第三九号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Article": {
+            "@Num": "1",
+            "ArticleCaption": "（施行期日）",
+            "ArticleTitle": "第一条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "この省令は、平成十三年一月六日から施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成一七年三月二八日国土交通省令第二一号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この省令は、民法の一部を改正する法律の施行の日（平成十七年四月一日）から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成二七年三月三一日国土交通省令第二二号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この省令は、公布の日から施行する。"
+            }
+          }
+        }
+      ],
+      "AppdxStyle": [
+        {
+          "AppdxStyleTitle": "別記様式第１号",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/S28F03901000050-001.pdf"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": "別記様式第２号",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/S28F03901000050-002.pdf"
+              }
+            }
+          }
+        }
+      ]
+    }
+  }
+}

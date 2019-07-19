@@ -1,0 +1,124 @@
+{
+  "Law": {
+    "@Era": "Showa",
+    "@Lang": "ja",
+    "@LawType": "MinisterialOrdinance",
+    "@Num": "027",
+    "@Year": "06",
+    "LawNum": "昭和六年大蔵省令第二十七号",
+    "LawBody": {
+      "LawTitle": "昭和六年大蔵省令第二十七号（特別会計ノ恩給負担金ヲ一般会計ニ繰入ルルコトニ関スル法律施行事務取扱細則）",
+      "Preamble": {
+        "Paragraph": {
+          "@Num": "1",
+          "ParagraphNum": null,
+          "ParagraphSentence": {
+            "Sentence": "特別会計ノ恩給負担金ヲ一般会計ニ繰入ルルコトニ関スル法律施行事務取扱細則左ノ通定ム"
+          }
+        }
+      },
+      "MainProvision": {
+        "Article": [
+          {
+            "@Num": "1",
+            "ArticleTitle": "第一条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "特別会計ノ恩給負担金ヲ一般会計ニ繰入ルルコトニ関スル法律施行規則第八条ニ規定スル特別会計恩給負担額通知書ハ第一号書式ニ依リ仕訳書ハ第二号書式ニ依リ之ヲ調製スベシ"
+              }
+            }
+          },
+          {
+            "@Num": "2",
+            "ArticleTitle": "第二条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "特別会計ニ於テ俸給又ハ給料ヲ支弁スル公務員ニ関スル恩給金額分担及国庫納金収入等取扱規則第十条ノ規定ニ依ル収入金ハ当該特別会計ノ歳入トシテ之ガ整理ヲ為スベシ"
+              }
+            }
+          },
+          {
+            "@Num": "3",
+            "ArticleTitle": "第三条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "特別会計ヨリ一般会計ニ繰入ルル恩給負担金ハ之ヲ当該年度三月三十一日迄ニ一般会計財務省所管歳入トシテ払込ムベシ"
+              }
+            }
+          }
+        ]
+      },
+      "SupplProvision": [
+        {
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "本令ハ昭和六年度ヨリ之ヲ適用ス"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "昭和九年三月一七日大蔵省令第六号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "本令ハ昭和九年四月一日ヨリ之ヲ施行ス"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成一二年九月二九日大蔵省令第七五号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": [
+            {
+              "@Num": "1",
+              "ParagraphNum": "１",
+              "ParagraphSentence": {
+                "Sentence": "この省令は、平成十三年一月六日から施行する。"
+              }
+            },
+            {
+              "@Num": "2",
+              "ParagraphNum": "２",
+              "ParagraphSentence": {
+                "Sentence": "この省令の施行の際、現に存するこの省令（第四十二条を除く。）による改正前の書式による用紙は、当分の間、これを取り繕い使用することができる。"
+              }
+            }
+          ]
+        }
+      ],
+      "AppdxStyle": [
+        {
+          "AppdxStyleTitle": "第一号書式",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/S06F03401000027-001.pdf"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": "第二号書式",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/S06F03401000027-002.pdf"
+              }
+            }
+          }
+        }
+      ]
+    }
+  }
+}

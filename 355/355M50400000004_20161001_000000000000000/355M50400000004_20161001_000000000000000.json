@@ -1,0 +1,564 @@
+{
+  "Law": {
+    "@Era": "Showa",
+    "@Lang": "ja",
+    "@LawType": "Rule",
+    "@Num": "004",
+    "@Year": "55",
+    "LawNum": "昭和五十五年国家公安委員会規則第四号",
+    "LawBody": {
+      "LawTitle": "国際捜査共助等に関する法律に関する書式例",
+      "EnactStatement": "警察法施行令（昭和二十九年政令第百五十一号）第十三条の規定に基づき、国際捜査共助法に関する書式例を次のように定める。",
+      "MainProvision": {
+        "Paragraph": {
+          "@Num": "1",
+          "ParagraphNum": null,
+          "ParagraphSentence": {
+            "Sentence": "国際捜査共助等に関する法律に規定する処分及び調査のための措置に関して作成する書類は、別記様式第一号から第三十二号までによるものとする。"
+          }
+        }
+      },
+      "SupplProvision": [
+        {
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この規則は、昭和五十五年十月一日から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成一二年一二月二一日国家公安委員会規則第二二号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この規則は、平成十三年一月一日から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成一六年六月二五日国家公安委員会規則第一三号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この規則は、国際捜査共助法及び組織的な犯罪の処罰及び犯罪収益の規制等に関する法律の一部を改正する法律の施行の日（平成十六年六月二十九日）から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成二四年六月二一日国家公安委員会規則第八号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この規則は、情報処理の高度化等に対処するための刑法等の一部を改正する法律附則第一条第一号に掲げる規定の施行の日（平成二十四年六月二十二日）から施行する。"
+            }
+          }
+        }
+      ],
+      "AppdxStyle": [
+        {
+          "AppdxStyleTitle": "別記様式",
+          "StyleStruct": {
+            "Style": {
+              "List": {
+                "ListSentence": {
+                  "Sentence": "目次"
+                },
+                "Sublist1": [
+                  {
+                    "Sublist1Sentence": {
+                      "Sentence": "様式第一号　供述調書（甲）"
+                    }
+                  },
+                  {
+                    "Sublist1Sentence": {
+                      "Sentence": "様式第二号　供述調書（乙）"
+                    }
+                  },
+                  {
+                    "Sublist1Sentence": {
+                      "Sentence": "様式第三号　鑑定嘱託書"
+                    }
+                  },
+                  {
+                    "Sublist1Sentence": {
+                      "Sentence": "様式第四号　鑑定処分許可請求書"
+                    }
+                  },
+                  {
+                    "Sublist1Sentence": {
+                      "Sentence": "様式第五号　実況見分調書"
+                    }
+                  },
+                  {
+                    "Sublist1Sentence": {
+                      "Sentence": "様式第六号　任意提出書"
+                    }
+                  },
+                  {
+                    "Sublist1Sentence": {
+                      "Sentence": "様式第七号　領置調書"
+                    }
+                  },
+                  {
+                    "Sublist1Sentence": {
+                      "Sentence": "様式第八号　押収品目録"
+                    }
+                  },
+                  {
+                    "Sublist1Sentence": {
+                      "Sentence": "様式第九号　押収品目録交付書"
+                    }
+                  },
+                  {
+                    "Sublist1Sentence": {
+                      "Sentence": "様式第十号　共助関係事項照会書"
+                    }
+                  },
+                  {
+                    "Sublist1Sentence": {
+                      "Sentence": "様式第十一号　保全要請書"
+                    }
+                  },
+                  {
+                    "Sublist1Sentence": {
+                      "Sentence": "様式第十二号　保全要請期間延長通知書"
+                    }
+                  },
+                  {
+                    "Sublist1Sentence": {
+                      "Sentence": "様式第十三号　保全要請取消書"
+                    }
+                  },
+                  {
+                    "Sublist1Sentence": {
+                      "Sentence": "様式第十四号　差押・捜索・検証許可状請求書"
+                    }
+                  },
+                  {
+                    "Sublist1Sentence": {
+                      "Sentence": "様式第十五号　記録命令付差押許可状請求書"
+                    }
+                  },
+                  {
+                    "Sublist1Sentence": {
+                      "Sentence": "様式第十六号　身体検査令状請求書"
+                    }
+                  },
+                  {
+                    "Sublist1Sentence": {
+                      "Sentence": "様式第十七号　差押調書"
+                    }
+                  },
+                  {
+                    "Sublist1Sentence": {
+                      "Sentence": "様式第十八号　記録命令付差押調書"
+                    }
+                  },
+                  {
+                    "Sublist1Sentence": {
+                      "Sentence": "様式第十九号　捜索調書"
+                    }
+                  },
+                  {
+                    "Sublist1Sentence": {
+                      "Sentence": "様式第二十号　捜索証明書"
+                    }
+                  },
+                  {
+                    "Sublist1Sentence": {
+                      "Sentence": "様式第二十一号　捜索差押調書"
+                    }
+                  },
+                  {
+                    "Sublist1Sentence": {
+                      "Sentence": "様式第二十二号　検証調書"
+                    }
+                  },
+                  {
+                    "Sublist1Sentence": {
+                      "Sentence": "様式第二十三号　身体検査調書"
+                    }
+                  },
+                  {
+                    "Sublist1Sentence": {
+                      "Sentence": "様式第二十四号　所有権放棄書"
+                    }
+                  },
+                  {
+                    "Sublist1Sentence": {
+                      "Sentence": "様式第二十五号　電磁的記録に係る権利放棄書"
+                    }
+                  },
+                  {
+                    "Sublist1Sentence": {
+                      "Sentence": "様式第二十六号　還付請書"
+                    }
+                  },
+                  {
+                    "Sublist1Sentence": {
+                      "Sentence": "様式第二十七号　仮還付請書"
+                    }
+                  },
+                  {
+                    "Sublist1Sentence": {
+                      "Sentence": "様式第二十八号　交付請書"
+                    }
+                  },
+                  {
+                    "Sublist1Sentence": {
+                      "Sentence": "様式第二十九号　複写電磁的記録請書"
+                    }
+                  },
+                  {
+                    "Sublist1Sentence": {
+                      "Sentence": "様式第三十号　報告書"
+                    }
+                  },
+                  {
+                    "Sublist1Sentence": {
+                      "Sentence": "様式第三十一号　質問てん末書"
+                    }
+                  },
+                  {
+                    "Sublist1Sentence": {
+                      "Sentence": "様式第三十二号　協力関係事項照会書"
+                    }
+                  }
+                ]
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": "様式第一号",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/S55F30301000004-001.pdf"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": "様式第二号",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/S55F30301000004-002.pdf"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": "様式第三号",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/S55F30301000004-003.pdf"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": "様式第四号",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/S55F30301000004-004.pdf"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": "様式第五号",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/S55F30301000004-005.pdf"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": "様式第六号",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/S55F30301000004-006.pdf"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": "様式第七号",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/S55F30301000004-007.pdf"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": "様式第八号",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/S55F30301000004-008.pdf"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": "様式第九号",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/S55F30301000004-009.pdf"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": "様式第十号",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/S55F30301000004-010.pdf"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": "様式第十一号",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/S55F30301000004-011.pdf"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": "様式第十二号",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/S55F30301000004-012.pdf"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": "様式第十三号",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/S55F30301000004-013.pdf"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": "様式第十四号",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/S55F30301000004-014.pdf"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": "様式第十五号",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/S55F30301000004-015.pdf"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": "様式第十六号",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/S55F30301000004-016.pdf"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": "様式第十七号",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/S55F30301000004-017.pdf"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": "様式第十八号",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/S55F30301000004-018.pdf"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": "様式第十九号",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/S55F30301000004-019.pdf"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": "様式第二十号",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/S55F30301000004-020.pdf"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": "様式第二十一号",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/S55F30301000004-021.pdf"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": "様式第二十二号",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/S55F30301000004-022.pdf"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": "様式第二十三号",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/S55F30301000004-023.pdf"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": "様式第二十四号",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/S55F30301000004-024.pdf"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": "様式第二十五号",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/S55F30301000004-025.pdf"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": "様式第二十六号",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/S55F30301000004-026.pdf"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": "様式第二十七号",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/S55F30301000004-027.pdf"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": "様式第二十八号",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/S55F30301000004-028.pdf"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": "様式第二十九号",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/S55F30301000004-029.pdf"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": "様式第三十号",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/S55F30301000004-030.pdf"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": "様式第三十一号",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/S55F30301000004-031.pdf"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": "様式第三十二号",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/S55F30301000004-032.pdf"
+              }
+            }
+          }
+        }
+      ]
+    }
+  }
+}

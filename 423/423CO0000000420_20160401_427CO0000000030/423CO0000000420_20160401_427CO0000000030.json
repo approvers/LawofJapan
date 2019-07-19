@@ -1,0 +1,419 @@
+{
+  "Law": {
+    "@Era": "Heisei",
+    "@Lang": "ja",
+    "@LawType": "CabinetOrder",
+    "@Num": "420",
+    "@Year": "23",
+    "LawNum": "平成二十三年政令第四百二十号",
+    "LawBody": {
+      "LawTitle": "日本国との平和条約に基づき日本の国籍を離脱した者等の出入国管理に関する特例法施行令",
+      "EnactStatement": "内閣は、日本国との平和条約に基づき日本の国籍を離脱した者等の出入国管理に関する特例法（平成三年法律第七十一号）第二十五条の規定に基づき、この政令を制定する。",
+      "MainProvision": {
+        "Article": [
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "1",
+            "ArticleCaption": "（特別永住者証明書の交付に係る市町村の事務）",
+            "ArticleTitle": "第一条",
+            "Paragraph": {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "市町村（特別区を含むものとし、地方自治法（昭和二十二年法律第六十七号）第二百五十二条の十九第一項の指定都市にあっては、区又は総合区。以下同じ。）の長は、日本国との平和条約に基づき日本の国籍を離脱した者等の出入国管理に関する特例法（以下「法」という。）第七条第二項の規定により特別永住者証明書を交付する場合には、当該特別永住者証明書にその交付年月日を記載するものとする。"
+                }
+              }
+            }
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "2",
+            "ArticleTitle": "第二条",
+            "Paragraph": [
+              {
+                "@Hide": "false",
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "市町村の長は、法第七条第二項又は第十一条第二項（法第十二条第三項、第十三条第二項及び第十四条第四項の規定において準用する場合を含む。）の規定により特別永住者証明書を交付したときは、その旨、交付年月日及び当該特別永住者証明書の番号を法務大臣に通知するものとする。"
+                  }
+                }
+              },
+              {
+                "@Hide": "false",
+                "@Num": "2",
+                "ParagraphNum": "２",
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "前項の規定による通知は、法務大臣が市町村の長に使用させる電子計算機（入出力装置を含む。）から電気通信回線を通じて法務大臣の使用に係る電子計算機に送信する方法その他の法務省令で定める方法により行うものとする。"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "3",
+            "ArticleCaption": "（法第十条第一項等の届出の経由に係る市町村の事務）",
+            "ArticleTitle": "第三条",
+            "Paragraph": {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "市町村の長は、法第十条第一項の規定による届出（同条第四項の規定により同条第一項の規定による届出とみなされる届出を含む。以下同じ。）又は同条第二項の規定による届出（同条第五項の規定により同条第二項の規定による届出とみなされる届出を含む。以下同じ。）があったときは、当該届出に係る次に掲げる事項を、法務大臣が市町村の長に使用させる電子計算機（入出力装置を含む。）から電気通信回線を通じて法務大臣の使用に係る電子計算機に送信する方法その他の法務省令で定める方法により、法務大臣に伝達するものとする。"
+                }
+              },
+              "Item": [
+                {
+                  "@Delete": "false",
+                  "@Hide": "false",
+                  "@Num": "1",
+                  "ItemTitle": "一",
+                  "ItemSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "届出をした特別永住者の氏名、生年月日、性別、国籍の属する国又は出入国管理及び難民認定法（昭和二十六年政令第三百十九号）第二条第五号ロに規定する地域及び住居地"
+                    }
+                  }
+                },
+                {
+                  "@Delete": "false",
+                  "@Hide": "false",
+                  "@Num": "2",
+                  "ItemTitle": "二",
+                  "ItemSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "届出をした特別永住者が提出した特別永住者証明書の番号"
+                    }
+                  }
+                },
+                {
+                  "@Delete": "false",
+                  "@Hide": "false",
+                  "@Num": "3",
+                  "ItemTitle": "三",
+                  "ItemSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "届出の年月日"
+                    }
+                  }
+                },
+                {
+                  "@Delete": "false",
+                  "@Hide": "false",
+                  "@Num": "4",
+                  "ItemTitle": "四",
+                  "ItemSentence": {
+                    "Sentence": [
+                      {
+                        "@Function": "main",
+                        "@Num": "1",
+                        "@WritingMode": "vertical",
+                        "#text": "届出が法第十条第一項の規定による届出又は同条第二項の規定による届出であること。"
+                      },
+                      {
+                        "@Function": "proviso",
+                        "@Num": "2",
+                        "@WritingMode": "vertical",
+                        "#text": "ただし、次のイ又はロに掲げる場合には、これに代え、当該イ又はロに定める事項"
+                      }
+                    ]
+                  },
+                  "Subitem1": [
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "1",
+                      "Subitem1Title": "イ",
+                      "Subitem1Sentence": {
+                        "Column": [
+                          {
+                            "@LineBreak": "false",
+                            "@Num": "1",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "法第十条第四項の規定により同条第一項の規定による届出とみなされる届出があった場合"
+                            }
+                          },
+                          {
+                            "@LineBreak": "false",
+                            "@Num": "2",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "当該届出が住民基本台帳法（昭和四十二年法律第八十一号）第三十条の四十六の規定によるものであること。"
+                            }
+                          }
+                        ]
+                      }
+                    },
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "2",
+                      "Subitem1Title": "ロ",
+                      "Subitem1Sentence": {
+                        "Column": [
+                          {
+                            "@LineBreak": "false",
+                            "@Num": "1",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "法第十条第五項の規定により同条第二項の規定による届出とみなされる届出があった場合"
+                            }
+                          },
+                          {
+                            "@LineBreak": "false",
+                            "@Num": "2",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "当該届出が住民基本台帳法第二十二条、第二十三条又は第三十条の四十六のいずれの規定によるものであるかの別"
+                            }
+                          }
+                        ]
+                      }
+                    }
+                  ]
+                },
+                {
+                  "@Delete": "false",
+                  "@Hide": "false",
+                  "@Num": "5",
+                  "ItemTitle": "五",
+                  "ItemSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "法第十条第一項の規定による届出があった場合における住居地を定めた年月日"
+                    }
+                  }
+                },
+                {
+                  "@Delete": "false",
+                  "@Hide": "false",
+                  "@Num": "6",
+                  "ItemTitle": "六",
+                  "ItemSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "法第十条第二項の規定による届出があった場合における新住居地（変更後の住居地をいう。）に移転した年月日及び当該届出の直前に定めていた住居地（同条第五項の規定により同条第二項の規定による届出とみなされる住民基本台帳法第三十条の四十六の規定による届出があった場合における当該届出の直前に定めていた住居地を除く。）"
+                    }
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "4",
+            "ArticleCaption": "（住居地届出日の特別永住者証明書への記載）",
+            "ArticleTitle": "第四条",
+            "Paragraph": {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "市町村の長は、法第十条第三項の規定により特別永住者証明書に住居地又は新住居地の記載をする場合には、併せて、当該特別永住者証明書を提出してした届出の年月日を記載するものとする。"
+                }
+              }
+            }
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "5",
+            "ArticleCaption": "（法第十一条第一項の届出等の経由に係る市町村の事務）",
+            "ArticleTitle": "第五条",
+            "Paragraph": {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "市町村の長は、法第十一条第一項の規定による届出又は法第十二条第一項若しくは第二項、第十三条第一項若しくは第十四条第一項若しくは第三項の規定による申請があったときは、法務省令で定めるところにより、当該届出又は申請に当たって特別永住者から提示された書類の写しを作成し、当該写しを法務大臣に送付するものとする。"
+                }
+              }
+            }
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "6",
+            "ArticleCaption": "（特別永住者証明書の汚損等を知った場合の市町村の事務）",
+            "ArticleTitle": "第六条",
+            "Paragraph": {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "市町村の長は、特別永住者が、著しく毀損し、若しくは汚損し、又は法第八条第五項の規定による記録が毀損した特別永住者証明書を所持することを知ったとき（当該特別永住者が法第十四条第一項の規定による申請をするときを除く。）は、速やかに、その旨及び当該特別永住者に係る次に掲げる事項を法務大臣に書面で通知するとともに、当該特別永住者証明書の状態に関する資料を法務大臣に送付するものとする。"
+                }
+              },
+              "Item": [
+                {
+                  "@Delete": "false",
+                  "@Hide": "false",
+                  "@Num": "1",
+                  "ItemTitle": "一",
+                  "ItemSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "氏名、生年月日、性別、国籍の属する国又は出入国管理及び難民認定法第二条第五号ロに規定する地域及び住居地"
+                    }
+                  }
+                },
+                {
+                  "@Delete": "false",
+                  "@Hide": "false",
+                  "@Num": "2",
+                  "ItemTitle": "二",
+                  "ItemSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "特別永住者証明書の番号"
+                    }
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "7",
+            "ArticleCaption": "（手数料の額）",
+            "ArticleTitle": "第七条",
+            "Paragraph": {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "法第十四条第五項の規定により納付しなければならない特別永住者証明書の交付についての手数料の額は、千三百円とする。"
+                }
+              }
+            }
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "8",
+            "ArticleCaption": "（事務の区分）",
+            "ArticleTitle": "第八条",
+            "Paragraph": {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "第一条、第二条及び第四条から第六条までの規定により市町村が処理することとされている事務は、地方自治法第二条第九項第一号に規定する第一号法定受託事務とする。"
+                }
+              }
+            }
+          }
+        ]
+      },
+      "SupplProvision": [
+        {
+          "SupplProvisionLabel": "附　則",
+          "Article": [
+            {
+              "@Delete": "false",
+              "@Hide": "false",
+              "@Num": "1",
+              "ArticleCaption": "（施行期日）",
+              "ArticleTitle": "第一条",
+              "Paragraph": {
+                "@Hide": "false",
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "この政令は、出入国管理及び難民認定法及び日本国との平和条約に基づき日本の国籍を離脱した者等の出入国管理に関する特例法の一部を改正する等の法律（平成二十一年法律第七十九号。次条において「改正法」という。）の施行の日（平成二十四年七月九日）から施行する。"
+                  }
+                }
+              }
+            },
+            {
+              "@Delete": "false",
+              "@Hide": "false",
+              "@Num": "2",
+              "ArticleCaption": "（経過措置）",
+              "ArticleTitle": "第二条",
+              "Paragraph": {
+                "@Hide": "false",
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "特別永住者が、改正法附則第二十八条第一項の規定により特別永住者証明書とみなされる改正法第四条の規定による廃止前の外国人登録法（昭和二十七年法律第百二十五号）に規定する外国人登録証明書を提出して法第十条第二項の規定による届出をした場合における第三条の規定の適用については、同条第二号中「特別永住者証明書の番号」とあるのは、「出入国管理及び難民認定法及び日本国との平和条約に基づき日本の国籍を離脱した者等の出入国管理に関する特例法の一部を改正する等の法律（平成二十一年法律第七十九号）第四条の規定による廃止前の外国人登録法（昭和二十七年法律第百二十五号）に規定する外国人登録証明書の登録番号」とする。"
+                  }
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@AmendLawNum": "平成二四年六月一五日政令第一六三号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この政令は、公布の日から施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成二七年一月三〇日政令第三〇号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Article": {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "1",
+            "ArticleCaption": "（施行期日）",
+            "ArticleTitle": "第一条",
+            "Paragraph": {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "この政令は、地方自治法の一部を改正する法律（次条において「改正法」という。）の施行の日（平成二十八年四月一日）から施行する。"
+                }
+              }
+            }
+          }
+        }
+      ]
+    }
+  }
+}

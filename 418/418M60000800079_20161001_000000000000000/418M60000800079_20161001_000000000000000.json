@@ -1,0 +1,203 @@
+{
+  "Law": {
+    "@Era": "Heisei",
+    "@Lang": "ja",
+    "@LawType": "MinisterialOrdinance",
+    "@Num": "79",
+    "@Year": "18",
+    "LawNum": "平成十八年国土交通省令第七十九号",
+    "LawBody": {
+      "LawTitle": "鉄道事業動力車操縦者資質管理報告規則",
+      "EnactStatement": "鉄道事業法（昭和六十一年法律第九十二号）第五十五条第一項の規定に基づき、鉄道事業動力車操縦者資質管理報告規則を次のように定める。",
+      "MainProvision": {
+        "Article": [
+          {
+            "@Num": "1",
+            "ArticleCaption": "（趣旨）",
+            "ArticleTitle": "第一条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "鉄道事業者における動力車操縦者の資質の確認及び管理に関する報告については、この省令の定めるところによる。"
+              }
+            }
+          },
+          {
+            "@Num": "2",
+            "ArticleCaption": "（動力車操縦者資質管理報告書）",
+            "ArticleTitle": "第二条",
+            "Paragraph": [
+              {
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": "鉄道事業者は、その事務所ごとに、動力車操縦者の資質の管理の状況をとりまとめて記載した動力車操縦者資質管理報告書を、毎四半期経過後一月以内に、その事務所の所在地を所轄する地方運輸局長（以下「所轄地方運輸局長」という。）に提出しなければならない。"
+                }
+              },
+              {
+                "@Num": "2",
+                "ParagraphNum": "２",
+                "ParagraphSentence": {
+                  "Sentence": "前項の動力車操縦者資質管理報告書には、次に掲げる事項を記載しなければならない。"
+                },
+                "Item": [
+                  {
+                    "@Num": "1",
+                    "ItemTitle": "一",
+                    "ItemSentence": {
+                      "Sentence": "事業者名"
+                    }
+                  },
+                  {
+                    "@Num": "2",
+                    "ItemTitle": "二",
+                    "ItemSentence": {
+                      "Sentence": "事務所の名称"
+                    }
+                  },
+                  {
+                    "@Num": "3",
+                    "ItemTitle": "三",
+                    "ItemSentence": {
+                      "Sentence": "乗務員指導管理者の氏名"
+                    }
+                  },
+                  {
+                    "@Num": "4",
+                    "ItemTitle": "四",
+                    "ItemSentence": {
+                      "Sentence": "当該四半期において適性検査を受けた動力車操縦者に係る次に掲げる事項"
+                    },
+                    "Subitem1": [
+                      {
+                        "@Num": "1",
+                        "Subitem1Title": "イ",
+                        "Subitem1Sentence": {
+                          "Sentence": "運転免許番号"
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "Subitem1Title": "ロ",
+                        "Subitem1Sentence": {
+                          "Sentence": "運転免許の交付年月日"
+                        }
+                      },
+                      {
+                        "@Num": "3",
+                        "Subitem1Title": "ハ",
+                        "Subitem1Sentence": {
+                          "Sentence": "経験年数"
+                        }
+                      },
+                      {
+                        "@Num": "4",
+                        "Subitem1Title": "ニ",
+                        "Subitem1Sentence": {
+                          "Sentence": "当該検査の結果"
+                        }
+                      },
+                      {
+                        "@Num": "5",
+                        "Subitem1Title": "ホ",
+                        "Subitem1Sentence": {
+                          "Sentence": "過去の適性検査及び身体検査の結果"
+                        }
+                      },
+                      {
+                        "@Num": "6",
+                        "Subitem1Title": "ヘ",
+                        "Subitem1Sentence": {
+                          "Sentence": "教育の状況"
+                        }
+                      },
+                      {
+                        "@Num": "7",
+                        "Subitem1Title": "ト",
+                        "Subitem1Sentence": {
+                          "Sentence": "過去三年間における運転取扱い誤り（軽微なものを除く。）の回数及びその概要"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Num": "5",
+                    "ItemTitle": "五",
+                    "ItemSentence": {
+                      "Sentence": "動力車の安全な運転に支障を及ぼすおそれがある身体の機能の低下が認められる者（運転免許に必要な条件が付されている者を除く。）がある場合にあっては、当該動力車操縦者の運転免許及び状態に関する情報"
+                    }
+                  },
+                  {
+                    "@Num": "6",
+                    "ItemTitle": "六",
+                    "ItemSentence": {
+                      "Sentence": "その他動力車操縦者の資質の確認及び管理に関し必要な事項"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "@Num": "3",
+            "ArticleCaption": "（異常運転等報告書）",
+            "ArticleTitle": "第三条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "鉄道事業者は、次に掲げる事態が発生した場合には、遅滞なく、当該事態の発生の日時及び場所、当該事態の概要及び要因並びに当該事態に関係した動力車操縦者に関する情報を記載した異常運転等報告書を所轄地方運輸局長に提出しなければならない。"
+              },
+              "Item": [
+                {
+                  "@Num": "1",
+                  "ItemTitle": "一",
+                  "ItemSentence": {
+                    "Sentence": "動力車操縦者の取扱い誤りに原因があるおそれがあると認められる鉄道運転事故（鉄道事故等報告規則（昭和六十二年運輸省令第八号）第三条第一項に規定する鉄道運転事故をいう。）であって、乗客、乗務員等に死傷者を生じたもの"
+                  }
+                },
+                {
+                  "@Num": "2",
+                  "ItemTitle": "二",
+                  "ItemSentence": {
+                    "Sentence": "動力車操縦者が酒気を帯びた状態又は薬物の影響により正常な操縦ができないおそれがある状態で列車が運行された事態"
+                  }
+                },
+                {
+                  "@Num": "3",
+                  "ItemTitle": "三",
+                  "ItemSentence": {
+                    "Sentence": "特に異常な操縦がされたと認められる事態"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "@Num": "4",
+            "ArticleCaption": "（様式）",
+            "ArticleTitle": "第四条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "第二条の動力車操縦者資質管理報告書及び前条の異常運転等報告書の様式は、国土交通大臣が告示で定める。"
+              }
+            }
+          }
+        ]
+      },
+      "SupplProvision": {
+        "SupplProvisionLabel": "附　則",
+        "Paragraph": {
+          "@Num": "1",
+          "ParagraphNum": null,
+          "ParagraphSentence": {
+            "Sentence": "この省令は、運輸の安全性の向上のための鉄道事業法等の一部を改正する法律（平成十八年法律第十九号）の施行の日から施行する。"
+          }
+        }
+      }
+    }
+  }
+}

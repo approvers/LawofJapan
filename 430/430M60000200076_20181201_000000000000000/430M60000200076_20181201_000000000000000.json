@@ -1,0 +1,2355 @@
+{
+  "Law": {
+    "@Era": "Heisei",
+    "@Lang": "ja",
+    "@LawType": "MinisterialOrdinance",
+    "@Num": "076",
+    "@Year": "30",
+    "LawNum": "平成三十年農林水産省令第七十六号",
+    "LawBody": {
+      "LawTitle": "特定試験成績及びその信頼性の確保のための基準に関する省令",
+      "EnactStatement": "農薬取締法（昭和二十三年法律第八十二号）第三条第二項（同法第三十四条第六項の規定により準用する場合を含む。）の規定に基づき、特定試験成績及びその信頼性の確保のための基準に関する省令を次のように定める。",
+      "TOC": {
+        "TOCLabel": "目次",
+        "TOCChapter": [
+          {
+            "@Delete": "false",
+            "@Num": "1",
+            "ChapterTitle": "第一章　総則",
+            "ArticleRange": "（第一条）"
+          },
+          {
+            "@Delete": "false",
+            "@Num": "2",
+            "ChapterTitle": "第二章　特定試験成績",
+            "ArticleRange": "（第二条）"
+          },
+          {
+            "@Delete": "false",
+            "@Num": "3",
+            "ChapterTitle": "第三章　特定試験成績の信頼性の確保のための基準",
+            "TOCSection": [
+              {
+                "@Delete": "false",
+                "@Num": "1",
+                "SectionTitle": "第一節　総則",
+                "ArticleRange": "（第三条・第四条）"
+              },
+              {
+                "@Delete": "false",
+                "@Num": "2",
+                "SectionTitle": "第二節　試験施設の職員及び組織",
+                "ArticleRange": "（第五条―第十条）"
+              },
+              {
+                "@Delete": "false",
+                "@Num": "3",
+                "SectionTitle": "第三節　試験施設、機器、材料及び試薬",
+                "ArticleRange": "（第十一条・第十二条）"
+              },
+              {
+                "@Delete": "false",
+                "@Num": "4",
+                "SectionTitle": "第四節　操作及び被験物質等の取扱い",
+                "ArticleRange": "（第十三条―第十五条）"
+              },
+              {
+                "@Delete": "false",
+                "@Num": "5",
+                "SectionTitle": "第五節　試験計画書及び試験の実施",
+                "ArticleRange": "（第十六条・第十七条）"
+              },
+              {
+                "@Delete": "false",
+                "@Num": "6",
+                "SectionTitle": "第六節　報告及び保管",
+                "ArticleRange": "（第十八条・第十九条）"
+              }
+            ]
+          }
+        ],
+        "TOCSupplProvision": {
+          "SupplProvisionLabel": "附則"
+        }
+      },
+      "MainProvision": {
+        "Chapter": [
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "1",
+            "ChapterTitle": "第一章　総則",
+            "Article": {
+              "@Delete": "false",
+              "@Hide": "false",
+              "@Num": "1",
+              "ArticleCaption": "（趣旨）",
+              "ArticleTitle": "第一条",
+              "Paragraph": {
+                "@Hide": "false",
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "この省令は、農薬取締法（以下「法」という。）第三条第二項（法第三十四条第六項の規定により準用する場合を含む。次条及び第四条において同じ。）の農林水産省令で定める試験成績及び農林水産省令で定める基準を定めるものとする。"
+                  }
+                }
+              }
+            }
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "2",
+            "ChapterTitle": "第二章　特定試験成績",
+            "Article": {
+              "@Delete": "false",
+              "@Hide": "false",
+              "@Num": "2",
+              "ArticleTitle": "第二条",
+              "Paragraph": {
+                "@Hide": "false",
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "法第三条第二項の農林水産省令で定める試験成績は、次に掲げる試験成績（微生物農薬については、第四号に掲げる試験成績）とする。"
+                  }
+                },
+                "Item": [
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "1",
+                    "ItemTitle": "一",
+                    "ItemSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "農薬取締法施行規則（昭和二十六年農林省令第二十一号。以下「規則」という。）第二条第一項第一号に掲げる試験成績のうち、農薬原体の組成分析（ダイオキシン類の分析を除く。）に関するもの"
+                      }
+                    }
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "2",
+                    "ItemTitle": "二",
+                    "ItemSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "規則第二条第一項第二号に掲げる試験成績のうち、有効成分の物理的化学的性状（色調、形状及び臭気を除く。）に関するもの"
+                      }
+                    }
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "3",
+                    "ItemTitle": "三",
+                    "ItemSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "規則第二条第一項第五号イに掲げる試験成績"
+                      }
+                    }
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "4",
+                    "ItemTitle": "四",
+                    "ItemSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "規則第二条第一項第五号ロに掲げる試験成績（解毒方法又は救命処置方法の検索に関する試験成績を除く。）"
+                      }
+                    }
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "5",
+                    "ItemTitle": "五",
+                    "ItemSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "規則第二条第一項第六号に掲げる試験成績（農作物等への残留に関する試験成績のうち、作物残留試験（生産量の少ない農作物等を適用農作物等として実施するものに限る。）及び後作物残留試験に関するものを除く。）"
+                      }
+                    }
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "6",
+                    "ItemTitle": "六",
+                    "ItemSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "規則第二条第一項第七号に掲げる試験成績"
+                      }
+                    }
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "7",
+                    "ItemTitle": "七",
+                    "ItemSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "規則第二条第一項第八号に掲げる試験成績のうち、土壌中動態及び土壌吸着性並びに水中動態に関するもの"
+                      }
+                    }
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "8",
+                    "ItemTitle": "八",
+                    "ItemSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "規則第二条第一項第九号に掲げる試験成績のうち、水産動植物への影響に関するもの"
+                      }
+                    }
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "9",
+                    "ItemTitle": "九",
+                    "ItemSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "規則第二条第一項第十号に掲げる試験成績のうち、農薬原体の成分（有効成分及び考慮すべき毒性を有する不純物に限る。）並びに農作物等及び畜産物への残留に関するもの"
+                      }
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "3",
+            "ChapterTitle": "第三章　特定試験成績の信頼性の確保のための基準",
+            "Section": [
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "1",
+                "SectionTitle": "第一節　総則",
+                "Article": [
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "3",
+                    "ArticleCaption": "（定義）",
+                    "ArticleTitle": "第三条",
+                    "Paragraph": [
+                      {
+                        "@Hide": "false",
+                        "@Num": "1",
+                        "ParagraphNum": null,
+                        "ParagraphSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "この章において「試験系」とは、物理的化学的試験系（物理的化学的データを得るために使用される測定装置の系をいう。第十三条第一項において同じ。）若しくは生物的試験系（被験物質が投与され、若しくは加えられる動物、植物、微生物、土壌若しくはこれらの構成部分又はその対照として用いられるものをいう。同条第二項において同じ。）又はこれらを組み合わせた系をいう。"
+                          }
+                        }
+                      },
+                      {
+                        "@Hide": "false",
+                        "@Num": "2",
+                        "ParagraphNum": "２",
+                        "ParagraphSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "この章において「生データ」とは、試験において得られた観察の結果及びその記録をいう。"
+                          }
+                        }
+                      },
+                      {
+                        "@Hide": "false",
+                        "@Num": "3",
+                        "ParagraphNum": "３",
+                        "ParagraphSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "この章において「標本」とは、検査又は分析のため試験系から採取された物をいう。"
+                          }
+                        }
+                      },
+                      {
+                        "@Hide": "false",
+                        "@Num": "4",
+                        "ParagraphNum": "４",
+                        "ParagraphSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "この章において「被験物質」とは、試験において評価の対象となる農薬若しくは農薬の有効成分又はこれらの関連物質をいう。"
+                          }
+                        }
+                      },
+                      {
+                        "@Hide": "false",
+                        "@Num": "5",
+                        "ParagraphNum": "５",
+                        "ParagraphSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "この章において「対照物質」とは、試験において被験物質と比較する目的で用いられる農薬若しくは農薬の有効成分又は化学物質をいう。"
+                          }
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "4",
+                    "ArticleCaption": "（特定試験成績の信頼性の確保のための基準）",
+                    "ArticleTitle": "第四条",
+                    "Paragraph": {
+                      "@Hide": "false",
+                      "@Num": "1",
+                      "ParagraphNum": null,
+                      "ParagraphSentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "法第三条第二項の農林水産省令で定める基準は、次条から第十九条までに定めるところによる。"
+                        }
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "2",
+                "SectionTitle": "第二節　試験施設の職員及び組織",
+                "Article": [
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "5",
+                    "ArticleCaption": "（運営管理者の責務）",
+                    "ArticleTitle": "第五条",
+                    "Paragraph": {
+                      "@Hide": "false",
+                      "@Num": "1",
+                      "ParagraphNum": null,
+                      "ParagraphSentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "運営管理者（試験施設の運営及び管理について責任を有する者をいう。以下同じ。）は、次に掲げる業務を行わなければならない。"
+                        }
+                      },
+                      "Item": [
+                        {
+                          "@Delete": "false",
+                          "@Hide": "false",
+                          "@Num": "1",
+                          "ItemTitle": "一",
+                          "ItemSentence": {
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "試験施設に自らが運営管理者であることを証する文書を備えること。"
+                            }
+                          }
+                        },
+                        {
+                          "@Delete": "false",
+                          "@Hide": "false",
+                          "@Num": "2",
+                          "ItemTitle": "二",
+                          "ItemSentence": {
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "試験ごとに、試験に従事する者のうち、当該試験の実施、記録、報告その他の業務について責任を有する者（以下「試験責任者」という。）を指名すること。"
+                            }
+                          }
+                        },
+                        {
+                          "@Delete": "false",
+                          "@Hide": "false",
+                          "@Num": "3",
+                          "ItemTitle": "三",
+                          "ItemSentence": {
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "試験場所（試験の一部が行われる場所をいう。以下同じ。）で試験を実施する場合にあっては、必要に応じ、試験場所の運営及び管理について責任を有する者（以下「試験場所管理責任者」という。）を指名するとともに、必要に応じ、当該試験の一部の実施、記録及び報告について責任を有する者（以下「主任試験員」という。）を指名すること。"
+                            }
+                          }
+                        },
+                        {
+                          "@Delete": "false",
+                          "@Hide": "false",
+                          "@Num": "4",
+                          "ItemTitle": "四",
+                          "ItemSentence": {
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "試験施設で行われる試験がこの省令の規定に従って行われていることを保証する部門（以下「信頼性保証部門」という。）の担当者、資料保管施設の管理に責任を有する者（以下「資料保管責任者」という。）、被験物質及び対照物質の管理に責任を有する者（次条第三号において「被験物質等管理責任者」という。）並びに機器の管理に責任を有する者（同号及び第十二条第二項において「機器管理責任者」という。）を指名すること。"
+                            }
+                          }
+                        },
+                        {
+                          "@Delete": "false",
+                          "@Hide": "false",
+                          "@Num": "5",
+                          "ItemTitle": "五",
+                          "ItemSentence": {
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "信頼性保証部門の担当者がその業務を適切に行っていることを確認すること。"
+                            }
+                          }
+                        },
+                        {
+                          "@Delete": "false",
+                          "@Hide": "false",
+                          "@Num": "6",
+                          "ItemTitle": "六",
+                          "ItemSentence": {
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "試験を適切に実施するために十分な職員、施設、機器及び材料を確保すること。"
+                            }
+                          }
+                        },
+                        {
+                          "@Delete": "false",
+                          "@Hide": "false",
+                          "@Num": "7",
+                          "ItemTitle": "七",
+                          "ItemSentence": {
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "職員に対する必要な教育及び訓練を行うこと。"
+                            }
+                          }
+                        },
+                        {
+                          "@Delete": "false",
+                          "@Hide": "false",
+                          "@Num": "8",
+                          "ItemTitle": "八",
+                          "ItemSentence": {
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "職員に対する教育及び訓練の内容並びに職務経験を記録した文書並びに職務分掌を明記した文書を作成し、これらを保存すること。"
+                            }
+                          }
+                        },
+                        {
+                          "@Delete": "false",
+                          "@Hide": "false",
+                          "@Num": "9",
+                          "ItemTitle": "九",
+                          "ItemSentence": {
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "試験計画書が、試験責任者により作成され、試験責任者の署名又は記名押印がされていることを確認すること。"
+                            }
+                          }
+                        },
+                        {
+                          "@Delete": "false",
+                          "@Hide": "false",
+                          "@Num": "10",
+                          "ItemTitle": "十",
+                          "ItemSentence": {
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "職員によって作成された標準操作手順書を承認し、保存すること。"
+                            }
+                          }
+                        },
+                        {
+                          "@Delete": "false",
+                          "@Hide": "false",
+                          "@Num": "11",
+                          "ItemTitle": "十一",
+                          "ItemSentence": {
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "主計画表（試験施設における全ての試験に関する作業量の評価又は試験の進捗管理のために必要な情報を記載した文書をいう。以下この節及び第十九条第一項第三号において同じ。）が適切に作成されていることを確認し、これを保存すること。"
+                            }
+                          }
+                        },
+                        {
+                          "@Delete": "false",
+                          "@Hide": "false",
+                          "@Num": "12",
+                          "ItemTitle": "十二",
+                          "ItemSentence": {
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "試験場所で試験を実施する場合にあっては、試験責任者、主任試験員及び試験に従事する者並びに信頼性保証部門の相互の密接な連携が図られるよう、連絡体制を確立すること。"
+                            }
+                          }
+                        },
+                        {
+                          "@Delete": "false",
+                          "@Hide": "false",
+                          "@Num": "13",
+                          "ItemTitle": "十三",
+                          "ItemSentence": {
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "被験物質及び対照物質の特性が把握され、適切に試験が実施されていることを確認すること。"
+                            }
+                          }
+                        },
+                        {
+                          "@Delete": "false",
+                          "@Hide": "false",
+                          "@Num": "14",
+                          "ItemTitle": "十四",
+                          "ItemSentence": {
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "電子情報処理組織を用いる場合にあっては、当該電子情報処理組織が適切に作動することの確認並びに適切な操作及び保守管理に関する手順を定めること。"
+                            }
+                          }
+                        },
+                        {
+                          "@Delete": "false",
+                          "@Hide": "false",
+                          "@Num": "15",
+                          "ItemTitle": "十五",
+                          "ItemSentence": {
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "その他試験施設の運営及び管理に関する業務を行うこと。"
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "6",
+                    "ArticleCaption": "（試験場所管理責任者の責務）",
+                    "ArticleTitle": "第六条",
+                    "Paragraph": {
+                      "@Hide": "false",
+                      "@Num": "1",
+                      "ParagraphNum": null,
+                      "ParagraphSentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "試験場所管理責任者は、自らが責任を有する試験場所について、次に掲げる業務を行わなければならない。"
+                        }
+                      },
+                      "Item": [
+                        {
+                          "@Delete": "false",
+                          "@Hide": "false",
+                          "@Num": "1",
+                          "ItemTitle": "一",
+                          "ItemSentence": {
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "試験場所に自らが試験場所管理責任者であることを証する文書を備えること。"
+                            }
+                          }
+                        },
+                        {
+                          "@Delete": "false",
+                          "@Hide": "false",
+                          "@Num": "2",
+                          "ItemTitle": "二",
+                          "ItemSentence": {
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "必要に応じ、主任試験員を指名すること。"
+                            }
+                          }
+                        },
+                        {
+                          "@Delete": "false",
+                          "@Hide": "false",
+                          "@Num": "3",
+                          "ItemTitle": "三",
+                          "ItemSentence": {
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "信頼性保証部門の担当者、資料保管責任者、被験物質等管理責任者及び機器管理責任者を指名すること。"
+                            }
+                          }
+                        },
+                        {
+                          "@Delete": "false",
+                          "@Hide": "false",
+                          "@Num": "4",
+                          "ItemTitle": "四",
+                          "ItemSentence": {
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "信頼性保証部門の担当者がその業務を適切に行っていることを確認すること。"
+                            }
+                          }
+                        },
+                        {
+                          "@Delete": "false",
+                          "@Hide": "false",
+                          "@Num": "5",
+                          "ItemTitle": "五",
+                          "ItemSentence": {
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "試験を適切に実施するために十分な職員、施設、機器及び材料を確保すること。"
+                            }
+                          }
+                        },
+                        {
+                          "@Delete": "false",
+                          "@Hide": "false",
+                          "@Num": "6",
+                          "ItemTitle": "六",
+                          "ItemSentence": {
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "職員に対する必要な教育及び訓練を行うこと。"
+                            }
+                          }
+                        },
+                        {
+                          "@Delete": "false",
+                          "@Hide": "false",
+                          "@Num": "7",
+                          "ItemTitle": "七",
+                          "ItemSentence": {
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "職員に対する教育及び訓練の内容並びに職務経験を記録した文書並びに職務分掌を明記した文書を作成し、これらを保存すること。"
+                            }
+                          }
+                        },
+                        {
+                          "@Delete": "false",
+                          "@Hide": "false",
+                          "@Num": "8",
+                          "ItemTitle": "八",
+                          "ItemSentence": {
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "職員によって作成された標準操作手順書を承認し、保存すること。"
+                            }
+                          }
+                        },
+                        {
+                          "@Delete": "false",
+                          "@Hide": "false",
+                          "@Num": "9",
+                          "ItemTitle": "九",
+                          "ItemSentence": {
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "主計画表（当該試験場所に関する部分に限る。）が適切に作成されていることを確認し、これを保存すること。"
+                            }
+                          }
+                        },
+                        {
+                          "@Delete": "false",
+                          "@Hide": "false",
+                          "@Num": "10",
+                          "ItemTitle": "十",
+                          "ItemSentence": {
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "被験物質及び対照物質の特性が把握され、適切に試験が実施されていることを確認すること。"
+                            }
+                          }
+                        },
+                        {
+                          "@Delete": "false",
+                          "@Hide": "false",
+                          "@Num": "11",
+                          "ItemTitle": "十一",
+                          "ItemSentence": {
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "電子情報処理組織を用いる場合にあっては、当該電子情報処理組織が適切に作動することの確認並びに適切な操作及び保守管理に関する手順を定めること。"
+                            }
+                          }
+                        },
+                        {
+                          "@Delete": "false",
+                          "@Hide": "false",
+                          "@Num": "12",
+                          "ItemTitle": "十二",
+                          "ItemSentence": {
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "その他試験場所の運営及び管理に関する業務を行うこと。"
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "7",
+                    "ArticleCaption": "（試験責任者の責務）",
+                    "ArticleTitle": "第七条",
+                    "Paragraph": {
+                      "@Hide": "false",
+                      "@Num": "1",
+                      "ParagraphNum": null,
+                      "ParagraphSentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "試験責任者は、次に掲げる業務を行わなければならない。"
+                        }
+                      },
+                      "Item": [
+                        {
+                          "@Delete": "false",
+                          "@Hide": "false",
+                          "@Num": "1",
+                          "ItemTitle": "一",
+                          "ItemSentence": {
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "試験計画書を作成し、又は変更した場合には、当該試験計画書の写しを信頼性保証部門に送付すること。"
+                            }
+                          }
+                        },
+                        {
+                          "@Delete": "false",
+                          "@Hide": "false",
+                          "@Num": "2",
+                          "ItemTitle": "二",
+                          "ItemSentence": {
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "試験に従事する者が標準操作手順書及び試験計画書を利用できるようにすること。"
+                            }
+                          }
+                        },
+                        {
+                          "@Delete": "false",
+                          "@Hide": "false",
+                          "@Num": "3",
+                          "ItemTitle": "三",
+                          "ItemSentence": {
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "各試験が標準操作手順書及び試験計画書に従って行われていることを確認するとともに、これらに定められた内容から逸脱があった場合には、試験に及ぼす影響を評価した上で、必要に応じて適切な改善措置を講ずるとともに、これらの内容を記録し、保存すること。"
+                            }
+                          }
+                        },
+                        {
+                          "@Delete": "false",
+                          "@Hide": "false",
+                          "@Num": "4",
+                          "ItemTitle": "四",
+                          "ItemSentence": {
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "生データが正確に記録されていることを確認すること。"
+                            }
+                          }
+                        },
+                        {
+                          "@Delete": "false",
+                          "@Hide": "false",
+                          "@Num": "5",
+                          "ItemTitle": "五",
+                          "ItemSentence": {
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "電子情報処理組織を用いる場合にあっては、当該電子情報処理組織が適切に作動することを事前に確認すること。"
+                            }
+                          }
+                        },
+                        {
+                          "@Delete": "false",
+                          "@Hide": "false",
+                          "@Num": "6",
+                          "ItemTitle": "六",
+                          "ItemSentence": {
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "試験終了後に、試験計画書、最終報告書、生データその他の当該試験に関連する資料を資料保管施設に保存すること。"
+                            }
+                          }
+                        },
+                        {
+                          "@Delete": "false",
+                          "@Hide": "false",
+                          "@Num": "7",
+                          "ItemTitle": "七",
+                          "ItemSentence": {
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "その他試験の実施、記録及び報告の管理に関する業務を行うこと。"
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "8",
+                    "ArticleCaption": "（主任試験員の責務）",
+                    "ArticleTitle": "第八条",
+                    "Paragraph": {
+                      "@Hide": "false",
+                      "@Num": "1",
+                      "ParagraphNum": null,
+                      "ParagraphSentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "主任試験員は、委任された試験の一部について、前条各号（第一号を除く。）に掲げる業務を行わなければならない。"
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "9",
+                    "ArticleCaption": "（試験に従事する者の責務）",
+                    "ArticleTitle": "第九条",
+                    "Paragraph": {
+                      "@Hide": "false",
+                      "@Num": "1",
+                      "ParagraphNum": null,
+                      "ParagraphSentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "試験に従事する者は、次に掲げる事項を遵守しなければならない。"
+                        }
+                      },
+                      "Item": [
+                        {
+                          "@Delete": "false",
+                          "@Hide": "false",
+                          "@Num": "1",
+                          "ItemTitle": "一",
+                          "ItemSentence": {
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "この省令の規定、自らが従事する試験に関する標準操作手順書及び試験計画書に従って試験を実施するとともに、これらに定められた内容から逸脱した場合にあっては、その内容及び理由を記録し、試験責任者（主任試験員が指名されている場合にあっては、主任試験員。以下この節において同じ。）に報告すること。"
+                            }
+                          }
+                        },
+                        {
+                          "@Delete": "false",
+                          "@Hide": "false",
+                          "@Num": "2",
+                          "ItemTitle": "二",
+                          "ItemSentence": {
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "生データを速やかに、かつ、正確に記録すること。"
+                            }
+                          }
+                        },
+                        {
+                          "@Delete": "false",
+                          "@Hide": "false",
+                          "@Num": "3",
+                          "ItemTitle": "三",
+                          "ItemSentence": {
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "自らの安全及び衛生を確保するとともに、試験の実施に影響を及ぼすおそれのある健康上の問題を有する場合にあっては、その旨を試験責任者に報告すること。"
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "10",
+                    "ArticleCaption": "（信頼性保証部門の責務）",
+                    "ArticleTitle": "第十条",
+                    "Paragraph": [
+                      {
+                        "@Hide": "false",
+                        "@Num": "1",
+                        "ParagraphNum": null,
+                        "ParagraphSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "試験施設は、運営管理者により指名され、試験手順に精通した担当者からなる信頼性保証部門を置かなければならない。"
+                          }
+                        }
+                      },
+                      {
+                        "@Hide": "false",
+                        "@Num": "2",
+                        "ParagraphNum": "２",
+                        "ParagraphSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "信頼性保証部門の担当者は、次に掲げる業務を行わなければならない。"
+                          }
+                        },
+                        "Item": [
+                          {
+                            "@Delete": "false",
+                            "@Hide": "false",
+                            "@Num": "1",
+                            "ItemTitle": "一",
+                            "ItemSentence": {
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "標準操作手順書、主計画表及び試験計画書の写しを保存すること。"
+                              }
+                            }
+                          },
+                          {
+                            "@Delete": "false",
+                            "@Hide": "false",
+                            "@Num": "2",
+                            "ItemTitle": "二",
+                            "ItemSentence": {
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "試験計画書がこの省令の規定に従って作成されていることを調査し、その記録を保存すること。"
+                              }
+                            }
+                          },
+                          {
+                            "@Delete": "false",
+                            "@Hide": "false",
+                            "@Num": "3",
+                            "ItemTitle": "三",
+                            "ItemSentence": {
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "試験がこの省令の規定、標準操作手順書及び試験計画書に従って実施されていることを調査し、その記録を保存すること。"
+                              }
+                            }
+                          },
+                          {
+                            "@Delete": "false",
+                            "@Hide": "false",
+                            "@Num": "4",
+                            "ItemTitle": "四",
+                            "ItemSentence": {
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "最終報告書に試験の実施方法が正確に記載され、かつ、生データが正確に反映されていることを調査すること。"
+                              }
+                            }
+                          },
+                          {
+                            "@Delete": "false",
+                            "@Hide": "false",
+                            "@Num": "5",
+                            "ItemTitle": "五",
+                            "ItemSentence": {
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "試験施設の設備及び管理について、定期的に調査し、その記録を保存すること。"
+                              }
+                            }
+                          },
+                          {
+                            "@Delete": "false",
+                            "@Hide": "false",
+                            "@Num": "6",
+                            "ItemTitle": "六",
+                            "ItemSentence": {
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "第二号から前号までの調査の結果を書面で運営管理者（試験場所管理責任者が指名されている場合にあっては、試験場所管理責任者。次号において同じ。）及び試験責任者に報告すること。"
+                              }
+                            }
+                          },
+                          {
+                            "@Delete": "false",
+                            "@Hide": "false",
+                            "@Num": "7",
+                            "ItemTitle": "七",
+                            "ItemSentence": {
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "第二号から第四号までの確認を行った日付及びその結果並びに当該結果を運営管理者及び試験責任者に報告した日付を記載した文書（第十八条第三項において「信頼性保証書」という。）を作成し、署名又は記名押印をすること。"
+                              }
+                            }
+                          },
+                          {
+                            "@Delete": "false",
+                            "@Hide": "false",
+                            "@Num": "8",
+                            "ItemTitle": "八",
+                            "ItemSentence": {
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "その他当該試験施設で行われる試験がこの省令の規定に従って行われていることを保証するために必要な業務を行うこと。"
+                              }
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "@Hide": "false",
+                        "@Num": "3",
+                        "ParagraphNum": "３",
+                        "ParagraphSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "試験ごとの信頼性保証部門の担当者は、当該試験に従事する者以外の者でなければならない。"
+                          }
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "3",
+                "SectionTitle": "第三節　試験施設、機器、材料及び試薬",
+                "Article": [
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "11",
+                    "ArticleCaption": "（試験施設）",
+                    "ArticleTitle": "第十一条",
+                    "Paragraph": {
+                      "@Hide": "false",
+                      "@Num": "1",
+                      "ParagraphNum": null,
+                      "ParagraphSentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "試験施設は、次に掲げる要件を満たさなければならない。"
+                        }
+                      },
+                      "Item": [
+                        {
+                          "@Delete": "false",
+                          "@Hide": "false",
+                          "@Num": "1",
+                          "ItemTitle": "一",
+                          "ItemSentence": {
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "試験を実施するために必要な面積及び構造を有すること。"
+                            }
+                          }
+                        },
+                        {
+                          "@Delete": "false",
+                          "@Hide": "false",
+                          "@Num": "2",
+                          "ItemTitle": "二",
+                          "ItemSentence": {
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "各試験の適切な実施を確保するため、異なる操作を適切に分離して行うことができる構造を有するとともに、十分な数の部屋又は区域を有すること。"
+                            }
+                          }
+                        },
+                        {
+                          "@Delete": "false",
+                          "@Hide": "false",
+                          "@Num": "3",
+                          "ItemTitle": "三",
+                          "ItemSentence": {
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "疾病の診断、治療及び管理を行う部屋又は区域を有すること。"
+                            }
+                          }
+                        },
+                        {
+                          "@Delete": "false",
+                          "@Hide": "false",
+                          "@Num": "4",
+                          "ItemTitle": "四",
+                          "ItemSentence": {
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "試験を実施する部屋又は区域と機器を保管する部屋又は区域が分離されていること。"
+                            }
+                          }
+                        },
+                        {
+                          "@Delete": "false",
+                          "@Hide": "false",
+                          "@Num": "5",
+                          "ItemTitle": "五",
+                          "ItemSentence": {
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "被験物質又は対照物質の受領及び保管を行う部屋又は区域と媒体（被験物質及び対照物質を容易に試験系に投与し又は添加するため、混合、分散又は可溶化をする目的で使用される物質をいう。第十四条第六号において同じ。）と被験物質との混合を行う部屋又は区域が分離されていること。"
+                            }
+                          }
+                        },
+                        {
+                          "@Delete": "false",
+                          "@Hide": "false",
+                          "@Num": "6",
+                          "ItemTitle": "六",
+                          "ItemSentence": {
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "被験物質又は対照物質の保管を行う部屋又は区域が、これらの物質の同一性、濃度、純度及び安定性並びに安全な保管を確保できるものであるとともに、試験を実施する部屋又は区域と分離されていること。"
+                            }
+                          }
+                        },
+                        {
+                          "@Delete": "false",
+                          "@Hide": "false",
+                          "@Num": "7",
+                          "ItemTitle": "七",
+                          "ItemSentence": {
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "試験計画書、最終報告書、生データ、標本その他の当該試験に関連する資料を適切に保存できる資料保管施設を有すること。"
+                            }
+                          }
+                        },
+                        {
+                          "@Delete": "false",
+                          "@Hide": "false",
+                          "@Num": "8",
+                          "ItemTitle": "八",
+                          "ItemSentence": {
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "廃棄物について、試験に影響を及ぼさないよう適切に収集、保管及び処理が行われること。"
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "12",
+                    "ArticleCaption": "（機器、材料及び試薬）",
+                    "ArticleTitle": "第十二条",
+                    "Paragraph": [
+                      {
+                        "@Hide": "false",
+                        "@Num": "1",
+                        "ParagraphNum": null,
+                        "ParagraphSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "試験成績の作成に使用される機器、施設の環境を保持するために使用される機器その他試験を行うために必要な機器（以下単に「機器」という。）は、適切に設計され、十分な処理能力を有するとともに、適切に配置されなければならない。"
+                          }
+                        }
+                      },
+                      {
+                        "@Hide": "false",
+                        "@Num": "2",
+                        "ParagraphNum": "２",
+                        "ParagraphSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "Ruby": {
+                              "Rt": "こう",
+                              "#text": "較"
+                            },
+                            "#text": "機器管理責任者は、標準操作手順書に従い、定期的に機器の保守点検、清掃及び正が行われていることを確認するとともに、その結果を記録し、保存しなければならない。"
+                          }
+                        }
+                      },
+                      {
+                        "@Hide": "false",
+                        "@Num": "3",
+                        "ParagraphNum": "３",
+                        "ParagraphSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "試験で使用される機器及び材料は、試験系に悪影響を及ぼさないものでなければならない。"
+                          }
+                        }
+                      },
+                      {
+                        "@Hide": "false",
+                        "@Num": "4",
+                        "ParagraphNum": "４",
+                        "ParagraphSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "試薬及び溶液（以下この項において「試薬等」という。）は、その名称、保管条件、使用期限その他試薬等を特定するために必要な事項について適切な表示が行われなければならない。"
+                          }
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "4",
+                "SectionTitle": "第四節　操作及び被験物質等の取扱い",
+                "Article": [
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "13",
+                    "ArticleCaption": "（試験系）",
+                    "ArticleTitle": "第十三条",
+                    "Paragraph": [
+                      {
+                        "@Hide": "false",
+                        "@Num": "1",
+                        "ParagraphNum": null,
+                        "ParagraphSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "物理的化学的試験系として物理的化学的データを得るために使用される機器は、適切に配置又は設計をされ、十分な処理能力を備えるとともに、その機能が維持されたものでなければならない。"
+                          }
+                        }
+                      },
+                      {
+                        "@Hide": "false",
+                        "@Num": "2",
+                        "ParagraphNum": "２",
+                        "ParagraphSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "生物的試験系は、次に掲げる要件を満たさなければならない。"
+                          }
+                        },
+                        "Item": [
+                          {
+                            "@Delete": "false",
+                            "@Hide": "false",
+                            "@Num": "1",
+                            "ItemTitle": "一",
+                            "ItemSentence": {
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "データの信頼性を担保するため、試験系の保管、収容、取扱い及び管理を行うために適切な条件が定められること。"
+                              }
+                            }
+                          },
+                          {
+                            "@Delete": "false",
+                            "@Hide": "false",
+                            "@Num": "2",
+                            "ItemTitle": "二",
+                            "ItemSentence": {
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "新しく受け入れた試験系は、健康状態が確認されるまで隔離されること。"
+                              }
+                            }
+                          },
+                          {
+                            "@Delete": "false",
+                            "@Hide": "false",
+                            "@Num": "3",
+                            "ItemTitle": "三",
+                            "ItemSentence": {
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "試験系に異常死又は疾病が発生した場合には、当該試験系のロットは試験では使用されないこと。"
+                              }
+                            }
+                          },
+                          {
+                            "@Delete": "false",
+                            "@Hide": "false",
+                            "@Num": "4",
+                            "ItemTitle": "四",
+                            "ItemSentence": {
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "実験開始日（試験で生データが得られた最初の日をいう。第十六条第一項第七号及び第十八条第一項第八号において同じ。）に、試験系に試験の目的又は実施を妨げる疾病や病的状態がないこと。"
+                              }
+                            }
+                          },
+                          {
+                            "@Delete": "false",
+                            "@Hide": "false",
+                            "@Num": "5",
+                            "ItemTitle": "五",
+                            "ItemSentence": {
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "試験系が試験中に罹病し又は傷害を受けた場合において、試験の完全性を維持するために必要なときは、隔離され、治療が施されること。"
+                              }
+                            }
+                          },
+                          {
+                            "@Delete": "false",
+                            "@Hide": "false",
+                            "@Num": "6",
+                            "ItemTitle": "六",
+                            "ItemSentence": {
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "試験前又は試験中の疾病の診断及び治療について記録されること。"
+                              }
+                            }
+                          },
+                          {
+                            "@Delete": "false",
+                            "@Hide": "false",
+                            "@Num": "7",
+                            "ItemTitle": "七",
+                            "ItemSentence": {
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "試験系の入手源、受領日及び受領時の状態の記録が保管されること。"
+                              }
+                            }
+                          },
+                          {
+                            "@Delete": "false",
+                            "@Hide": "false",
+                            "@Num": "8",
+                            "ItemTitle": "八",
+                            "ItemSentence": {
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "被験物質又は対照物質を最初に投与し又は添加する前に、一定の期間、試験環境に順応させられること。"
+                              }
+                            }
+                          },
+                          {
+                            "@Delete": "false",
+                            "@Hide": "false",
+                            "@Num": "9",
+                            "ItemTitle": "九",
+                            "ItemSentence": {
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "試験系を識別するための全ての情報がその収容場所又は容器（適切な頻度で清掃し、衛生的な状態が維持された収容場所又は容器に限る。）に表示されるとともに、必要に応じ、個々の試験系が識別できるよう適切な表示が行われること。"
+                              }
+                            }
+                          },
+                          {
+                            "@Delete": "false",
+                            "@Hide": "false",
+                            "@Num": "10",
+                            "ItemTitle": "十",
+                            "ItemSentence": {
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "ほ場試験で使用される試験系については、飛散した農薬又は過去に使用した農薬の影響が及ばないようにされること。"
+                              }
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "14",
+                    "ArticleCaption": "（被験物質及び対照物質）",
+                    "ArticleTitle": "第十四条",
+                    "Paragraph": {
+                      "@Hide": "false",
+                      "@Num": "1",
+                      "ParagraphNum": null,
+                      "ParagraphSentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "被験物質及び対照物質は、次に掲げる要件を満たさなければならない。"
+                        }
+                      },
+                      "Item": [
+                        {
+                          "@Delete": "false",
+                          "@Hide": "false",
+                          "@Num": "1",
+                          "ItemTitle": "一",
+                          "ItemSentence": {
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "被験物質及び対照物質の特性、受領日、有効期限、受領した量及び使用した量の記録が保管されること。"
+                            }
+                          }
+                        },
+                        {
+                          "@Delete": "false",
+                          "@Hide": "false",
+                          "@Num": "2",
+                          "ItemTitle": "二",
+                          "ItemSentence": {
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "被験物質及び対照物質の取扱い、サンプリング及び保管に当たっては、その均一性及び安定性が確認されるとともに、汚染又は混同が起こらないよう手順が定められること。"
+                            }
+                          }
+                        },
+                        {
+                          "@Delete": "false",
+                          "@Hide": "false",
+                          "@Num": "3",
+                          "ItemTitle": "三",
+                          "ItemSentence": {
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "被験物質及び対照物質の保管容器に、当該物質の識別情報、使用期限及び保管条件が表示されること。"
+                            }
+                          }
+                        },
+                        {
+                          "@Delete": "false",
+                          "@Hide": "false",
+                          "@Num": "4",
+                          "ItemTitle": "四",
+                          "ItemSentence": {
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "被験物質及び対照物質のロットを判別するための必要な識別が行われること。"
+                            }
+                          }
+                        },
+                        {
+                          "@Delete": "false",
+                          "@Hide": "false",
+                          "@Num": "5",
+                          "ItemTitle": "五",
+                          "ItemSentence": {
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "被験物質が試験委託者（試験施設に試験を委託する者をいう。以下同じ。）から提供される場合には、試験委託者と試験施設との間に、試験で使用される被験物質の同一性を確認するための協力体制が確保されていること。"
+                            }
+                          }
+                        },
+                        {
+                          "@Delete": "false",
+                          "@Hide": "false",
+                          "@Num": "6",
+                          "ItemTitle": "六",
+                          "ItemSentence": {
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "被験物質を媒体と混合して投与し又は添加する場合には、媒体中での被験物質の均一性、濃度及び安定性が確認されること。"
+                            }
+                          }
+                        },
+                        {
+                          "@Delete": "false",
+                          "@Hide": "false",
+                          "@Num": "7",
+                          "ItemTitle": "七",
+                          "ItemSentence": {
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "試験（実験期間が四週間未満であるものを除く。）に使用する被験物質のロットから、分析用のサンプルが保管されること。"
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "15",
+                    "ArticleCaption": "（標準操作手順書）",
+                    "ArticleTitle": "第十五条",
+                    "Paragraph": [
+                      {
+                        "@Hide": "false",
+                        "@Num": "1",
+                        "ParagraphNum": null,
+                        "ParagraphSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "標準操作手順書には、次に掲げる事項に関する実施方法及び手順を記載しなければならない。"
+                          }
+                        },
+                        "Item": [
+                          {
+                            "@Delete": "false",
+                            "@Hide": "false",
+                            "@Num": "1",
+                            "ItemTitle": "一",
+                            "ItemSentence": {
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "被験物質及び対照物質の管理"
+                              }
+                            }
+                          },
+                          {
+                            "@Delete": "false",
+                            "@Hide": "false",
+                            "@Num": "2",
+                            "ItemTitle": "二",
+                            "ItemSentence": {
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "機器の使用、保守、清掃及び較正"
+                              }
+                            }
+                          },
+                          {
+                            "@Delete": "false",
+                            "@Hide": "false",
+                            "@Num": "3",
+                            "ItemTitle": "三",
+                            "ItemSentence": {
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "電子情報処理組織の管理"
+                              }
+                            }
+                          },
+                          {
+                            "@Delete": "false",
+                            "@Hide": "false",
+                            "@Num": "4",
+                            "ItemTitle": "四",
+                            "ItemSentence": {
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "材料、試薬及び溶液の調製及びラベル表示"
+                              }
+                            }
+                          },
+                          {
+                            "@Delete": "false",
+                            "@Hide": "false",
+                            "@Num": "5",
+                            "ItemTitle": "五",
+                            "ItemSentence": {
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "記録の作成、報告、保管及び検索"
+                              }
+                            }
+                          },
+                          {
+                            "@Delete": "false",
+                            "@Hide": "false",
+                            "@Num": "6",
+                            "ItemTitle": "六",
+                            "ItemSentence": {
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "試験系の管理"
+                              }
+                            }
+                          },
+                          {
+                            "@Delete": "false",
+                            "@Hide": "false",
+                            "@Num": "7",
+                            "ItemTitle": "七",
+                            "ItemSentence": {
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "信頼性保証部門が行う試験及び施設に係る調査業務"
+                              }
+                            }
+                          },
+                          {
+                            "@Delete": "false",
+                            "@Hide": "false",
+                            "@Num": "8",
+                            "ItemTitle": "八",
+                            "ItemSentence": {
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "その他必要な事項"
+                              }
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "@Hide": "false",
+                        "@Num": "2",
+                        "ParagraphNum": "２",
+                        "ParagraphSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "運営管理者は、前項各号に掲げる事項が実施されるそれぞれの部屋又は区域に標準操作手順書を備え付けなければならない。"
+                          }
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "5",
+                "SectionTitle": "第五節　試験計画書及び試験の実施",
+                "Article": [
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "16",
+                    "ArticleCaption": "（試験計画書）",
+                    "ArticleTitle": "第十六条",
+                    "Paragraph": [
+                      {
+                        "@Hide": "false",
+                        "@Num": "1",
+                        "ParagraphNum": null,
+                        "ParagraphSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "試験責任者は、試験ごとに、次に掲げる事項を記載した試験計画書を作成し、信頼性保証部門の確認を受けなければならない。"
+                          }
+                        },
+                        "Item": [
+                          {
+                            "@Delete": "false",
+                            "@Hide": "false",
+                            "@Num": "1",
+                            "ItemTitle": "一",
+                            "ItemSentence": {
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "表題、試験の種類及び目的"
+                              }
+                            }
+                          },
+                          {
+                            "@Delete": "false",
+                            "@Hide": "false",
+                            "@Num": "2",
+                            "ItemTitle": "二",
+                            "ItemSentence": {
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "被験物質及び対照物質に関する事項"
+                              }
+                            }
+                          },
+                          {
+                            "@Delete": "false",
+                            "@Hide": "false",
+                            "@Num": "3",
+                            "ItemTitle": "三",
+                            "ItemSentence": {
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "試験委託者の名称及び所在地"
+                              }
+                            }
+                          },
+                          {
+                            "@Delete": "false",
+                            "@Hide": "false",
+                            "@Num": "4",
+                            "ItemTitle": "四",
+                            "ItemSentence": {
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "試験施設の名称及び所在地"
+                              }
+                            }
+                          },
+                          {
+                            "@Delete": "false",
+                            "@Hide": "false",
+                            "@Num": "5",
+                            "ItemTitle": "五",
+                            "ItemSentence": {
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "試験責任者の氏名及び所属"
+                              }
+                            }
+                          },
+                          {
+                            "@Delete": "false",
+                            "@Hide": "false",
+                            "@Num": "6",
+                            "ItemTitle": "六",
+                            "ItemSentence": {
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "試験場所で試験が実施される場合にあっては、主任試験員の氏名及び所属並びに試験責任者が主任試験員に委任する試験の部分"
+                              }
+                            }
+                          },
+                          {
+                            "@Delete": "false",
+                            "@Hide": "false",
+                            "@Num": "7",
+                            "ItemTitle": "七",
+                            "ItemSentence": {
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "試験開始日（第十二号の署名又は記名押印の日をいう。第十八条第一項第八号において同じ。）並びに実験開始日及び実験完了日（試験で生データが得られた最後の日をいう。同号において同じ。）の予定日"
+                              }
+                            }
+                          },
+                          {
+                            "@Delete": "false",
+                            "@Hide": "false",
+                            "@Num": "8",
+                            "ItemTitle": "八",
+                            "ItemSentence": {
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "参照する試験指針に関する事項"
+                              }
+                            }
+                          },
+                          {
+                            "@Delete": "false",
+                            "@Hide": "false",
+                            "@Num": "9",
+                            "ItemTitle": "九",
+                            "ItemSentence": {
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "試験系に関する事項"
+                              }
+                            }
+                          },
+                          {
+                            "@Delete": "false",
+                            "@Hide": "false",
+                            "@Num": "10",
+                            "ItemTitle": "十",
+                            "ItemSentence": {
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "試験の実施方法に関する事項"
+                              }
+                            }
+                          },
+                          {
+                            "@Delete": "false",
+                            "@Hide": "false",
+                            "@Num": "11",
+                            "ItemTitle": "十一",
+                            "ItemSentence": {
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "保管すべき記録に関する事項"
+                              }
+                            }
+                          },
+                          {
+                            "@Delete": "false",
+                            "@Hide": "false",
+                            "@Num": "12",
+                            "ItemTitle": "十二",
+                            "ItemSentence": {
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "試験責任者の署名又は記名押印及びその日付"
+                              }
+                            }
+                          },
+                          {
+                            "@Delete": "false",
+                            "@Hide": "false",
+                            "@Num": "13",
+                            "ItemTitle": "十三",
+                            "ItemSentence": {
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "その他必要な事項"
+                              }
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "@Hide": "false",
+                        "@Num": "2",
+                        "ParagraphNum": "２",
+                        "ParagraphSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "試験責任者は、試験計画書を変更する場合には、その日付、変更箇所及び理由を文書により記録し、署名又は記名押印の上、試験計画書とともに保管しなければならない。"
+                          }
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "17",
+                    "ArticleCaption": "（試験の実施）",
+                    "ArticleTitle": "第十七条",
+                    "Paragraph": [
+                      {
+                        "@Hide": "false",
+                        "@Num": "1",
+                        "ParagraphNum": null,
+                        "ParagraphSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "試験の実施に当たっては、各試験を識別するための表示を行うとともに、標本の採取元が確認できるように表示を行わなければならない。"
+                          }
+                        }
+                      },
+                      {
+                        "@Hide": "false",
+                        "@Num": "2",
+                        "ParagraphNum": "２",
+                        "ParagraphSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "試験は、試験責任者の指導監督の下に、試験計画書に従って実施されなければならない。"
+                          }
+                        }
+                      },
+                      {
+                        "@Hide": "false",
+                        "@Num": "3",
+                        "ParagraphNum": "３",
+                        "ParagraphSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "試験に従事する者は、試験の実施中に得られた全てのデータについて、速やかに、かつ、正確に、その日付とともに記録し、署名又は記名押印をしなければならない。"
+                          }
+                        }
+                      },
+                      {
+                        "@Hide": "false",
+                        "@Num": "4",
+                        "ParagraphNum": "４",
+                        "ParagraphSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "試験に従事する者は、生データを変更する場合には、変更前のデータが不明瞭にならないように変更を行うとともに、その変更の理由及び変更の日付を記載し、署名又は記名押印をしなければならない。"
+                          }
+                        }
+                      },
+                      {
+                        "@Hide": "false",
+                        "@Num": "5",
+                        "ParagraphNum": "５",
+                        "ParagraphSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "試験責任者は、前二項に規定する事務が適切に行われていることを確認するとともに、その日付を記載し、署名又は記名押印をしなければならない。"
+                          }
+                        }
+                      },
+                      {
+                        "@Hide": "false",
+                        "@Num": "6",
+                        "ParagraphNum": "６",
+                        "ParagraphSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "電子情報処理組織により試験のデータの管理を行う場合には、次に掲げる事項を遵守しなければならない。"
+                          }
+                        },
+                        "Item": [
+                          {
+                            "@Delete": "false",
+                            "@Hide": "false",
+                            "@Num": "1",
+                            "ItemTitle": "一",
+                            "ItemSentence": {
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "電子情報処理組織は、変更前のデータが不明瞭にならないように変更を行うことができる設計とすること。"
+                              }
+                            }
+                          },
+                          {
+                            "@Delete": "false",
+                            "@Hide": "false",
+                            "@Num": "2",
+                            "ItemTitle": "二",
+                            "ItemSentence": {
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "電子情報処理組織にデータを入力する場合には、その入力時に、当該データ入力に責任を有する者がデータの確認を行うこと。"
+                              }
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "@Delete": "false",
+                "@Hide": "false",
+                "@Num": "6",
+                "SectionTitle": "第六節　報告及び保管",
+                "Article": [
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "18",
+                    "ArticleCaption": "（最終報告書）",
+                    "ArticleTitle": "第十八条",
+                    "Paragraph": [
+                      {
+                        "@Hide": "false",
+                        "@Num": "1",
+                        "ParagraphNum": null,
+                        "ParagraphSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "試験責任者は、試験ごとに、次に掲げる事項を記載した最終報告書を作成しなければならない。"
+                          }
+                        },
+                        "Item": [
+                          {
+                            "@Delete": "false",
+                            "@Hide": "false",
+                            "@Num": "1",
+                            "ItemTitle": "一",
+                            "ItemSentence": {
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "表題、最終報告書の作成日並びに試験の種類及び目的"
+                              }
+                            }
+                          },
+                          {
+                            "@Delete": "false",
+                            "@Hide": "false",
+                            "@Num": "2",
+                            "ItemTitle": "二",
+                            "ItemSentence": {
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "被験物質及び対照物質に関する事項"
+                              }
+                            }
+                          },
+                          {
+                            "@Delete": "false",
+                            "@Hide": "false",
+                            "@Num": "3",
+                            "ItemTitle": "三",
+                            "ItemSentence": {
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "試験が委託された場合にあっては、試験委託者の名称及び所在地"
+                              }
+                            }
+                          },
+                          {
+                            "@Delete": "false",
+                            "@Hide": "false",
+                            "@Num": "4",
+                            "ItemTitle": "四",
+                            "ItemSentence": {
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "試験施設の名称及び所在地"
+                              }
+                            }
+                          },
+                          {
+                            "@Delete": "false",
+                            "@Hide": "false",
+                            "@Num": "5",
+                            "ItemTitle": "五",
+                            "ItemSentence": {
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "試験責任者の氏名及び所属"
+                              }
+                            }
+                          },
+                          {
+                            "@Delete": "false",
+                            "@Hide": "false",
+                            "@Num": "6",
+                            "ItemTitle": "六",
+                            "ItemSentence": {
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "試験場所で試験が実施された場合にあっては、主任試験員の氏名及び所属並びに試験責任者が主任試験員に委任した試験の部分"
+                              }
+                            }
+                          },
+                          {
+                            "@Delete": "false",
+                            "@Hide": "false",
+                            "@Num": "7",
+                            "ItemTitle": "七",
+                            "ItemSentence": {
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "最終報告書に寄与する報告をした試験の専門家（次項において単に「専門家」という。）がいる場合にあっては、その氏名及び所属"
+                              }
+                            }
+                          },
+                          {
+                            "@Delete": "false",
+                            "@Hide": "false",
+                            "@Num": "8",
+                            "ItemTitle": "八",
+                            "ItemSentence": {
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "試験開始日、実験開始日及び実験完了日"
+                              }
+                            }
+                          },
+                          {
+                            "@Delete": "false",
+                            "@Hide": "false",
+                            "@Num": "9",
+                            "ItemTitle": "九",
+                            "ItemSentence": {
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "試験の材料及び試験方法に関する事項"
+                              }
+                            }
+                          },
+                          {
+                            "@Delete": "false",
+                            "@Hide": "false",
+                            "@Num": "10",
+                            "ItemTitle": "十",
+                            "ItemSentence": {
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "参照した試験指針に関する事項"
+                              }
+                            }
+                          },
+                          {
+                            "@Delete": "false",
+                            "@Hide": "false",
+                            "@Num": "11",
+                            "ItemTitle": "十一",
+                            "ItemSentence": {
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "試験結果の概要、評価及び考察その他の試験結果に関する事項"
+                              }
+                            }
+                          },
+                          {
+                            "@Delete": "false",
+                            "@Hide": "false",
+                            "@Num": "12",
+                            "ItemTitle": "十二",
+                            "ItemSentence": {
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "試験計画書、被験物質及び対照物質のサンプル、標本、生データ及び最終報告書の保管に関する事項"
+                              }
+                            }
+                          },
+                          {
+                            "@Delete": "false",
+                            "@Hide": "false",
+                            "@Num": "13",
+                            "ItemTitle": "十三",
+                            "ItemSentence": {
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "この省令に従って試験が実施された旨"
+                              }
+                            }
+                          },
+                          {
+                            "@Delete": "false",
+                            "@Hide": "false",
+                            "@Num": "14",
+                            "ItemTitle": "十四",
+                            "ItemSentence": {
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "試験責任者の署名又は記名押印及びその日付"
+                              }
+                            }
+                          },
+                          {
+                            "@Delete": "false",
+                            "@Hide": "false",
+                            "@Num": "15",
+                            "ItemTitle": "十五",
+                            "ItemSentence": {
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "その他必要な事項"
+                              }
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "@Hide": "false",
+                        "@Num": "2",
+                        "ParagraphNum": "２",
+                        "ParagraphSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "主任試験員又は専門家が報告書を作成している場合には、当該報告書に作成の日付を記載し、これらの者に署名又は記名押印をさせて、前項の最終報告書に添付するものとする。"
+                          }
+                        }
+                      },
+                      {
+                        "@Hide": "false",
+                        "@Num": "3",
+                        "ParagraphNum": "３",
+                        "ParagraphSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "試験責任者は、第一項の最終報告書（前項の規定により添付された報告書を含む。）に、信頼性保証部門が作成した信頼性保証書を添付しなければならない。"
+                          }
+                        }
+                      },
+                      {
+                        "@Hide": "false",
+                        "@Num": "4",
+                        "ParagraphNum": "４",
+                        "ParagraphSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "試験責任者は、第一項の最終報告書を訂正する場合には、その日付、訂正箇所及び理由を文書により記録し、署名又は記名押印の上、当該最終報告書とともに保管しなければならない。"
+                          }
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "19",
+                    "ArticleCaption": "（記録及び資料の保管）",
+                    "ArticleTitle": "第十九条",
+                    "Paragraph": [
+                      {
+                        "@Hide": "false",
+                        "@Num": "1",
+                        "ParagraphNum": null,
+                        "ParagraphSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "運営管理者は、試験完了日（前条第一項第十四号の署名又は記名押印の日をいう。以下この項において同じ。）から十年間（第一号に掲げる事項については、十年間又は試験完了日から当該サンプル又は標本の評価が困難となった日までの期間のうちいずれか短い期間）、次に掲げる資料を資料保管施設において適切に保存しなければならない。"
+                          }
+                        },
+                        "Item": [
+                          {
+                            "@Delete": "false",
+                            "@Hide": "false",
+                            "@Num": "1",
+                            "ItemTitle": "一",
+                            "ItemSentence": {
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "被験物質及び対照物質のサンプル及び標本"
+                              }
+                            }
+                          },
+                          {
+                            "@Delete": "false",
+                            "@Hide": "false",
+                            "@Num": "2",
+                            "ItemTitle": "二",
+                            "ItemSentence": {
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "各試験の試験計画書、生データ及び最終報告書"
+                              }
+                            }
+                          },
+                          {
+                            "@Delete": "false",
+                            "@Hide": "false",
+                            "@Num": "3",
+                            "ItemTitle": "三",
+                            "ItemSentence": {
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "主計画表及び信頼性保証部門により実施された全ての調査の記録"
+                              }
+                            }
+                          },
+                          {
+                            "@Delete": "false",
+                            "@Hide": "false",
+                            "@Num": "4",
+                            "ItemTitle": "四",
+                            "ItemSentence": {
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "職員の資格、訓練、経験及び職務分掌の記録"
+                              }
+                            }
+                          },
+                          {
+                            "@Delete": "false",
+                            "@Hide": "false",
+                            "@Num": "5",
+                            "ItemTitle": "五",
+                            "ItemSentence": {
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "機器の保守及び較正の記録"
+                              }
+                            }
+                          },
+                          {
+                            "@Delete": "false",
+                            "@Hide": "false",
+                            "@Num": "6",
+                            "ItemTitle": "六",
+                            "ItemSentence": {
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "電子情報処理組織の作動確認に関する文書"
+                              }
+                            }
+                          },
+                          {
+                            "@Delete": "false",
+                            "@Hide": "false",
+                            "@Num": "7",
+                            "ItemTitle": "七",
+                            "ItemSentence": {
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "標準操作手順書"
+                              }
+                            }
+                          },
+                          {
+                            "@Delete": "false",
+                            "@Hide": "false",
+                            "@Num": "8",
+                            "ItemTitle": "八",
+                            "ItemSentence": {
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "環境モニターの記録"
+                              }
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "@Hide": "false",
+                        "@Num": "2",
+                        "ParagraphNum": "２",
+                        "ParagraphSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "前項第一号に掲げる資料を処分しようとする場合には、その理由その他必要な事項を記録した上で処分しなければならない。"
+                          }
+                        }
+                      },
+                      {
+                        "@Hide": "false",
+                        "@Num": "3",
+                        "ParagraphNum": "３",
+                        "ParagraphSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "資料保管責任者は、資料保管施設において保管する資料について、その保管及び検索が容易になるよう、索引を作成しなければならない。"
+                          }
+                        }
+                      },
+                      {
+                        "@Hide": "false",
+                        "@Num": "4",
+                        "ParagraphNum": "４",
+                        "ParagraphSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "資料保管施設に出入りができる者は、資料保管責任者及び資料保管責任者に許可された者とする。"
+                          }
+                        }
+                      },
+                      {
+                        "@Hide": "false",
+                        "@Num": "5",
+                        "ParagraphNum": "５",
+                        "ParagraphSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "資料保管責任者は、資料保管施設への前項に規定する者の出入り及び資料の出入りについて記録を行わなければならない。"
+                          }
+                        }
+                      },
+                      {
+                        "@Hide": "false",
+                        "@Num": "6",
+                        "ParagraphNum": "６",
+                        "ParagraphSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "運営管理者は、試験施設が廃止された場合には、当該試験施設の試験に関する資料を当該試験施設の業務を承継する者又は当該試験の試験委託者（次項において「資料承継者」という。）に移管しなければならない。"
+                          }
+                        }
+                      },
+                      {
+                        "@Hide": "false",
+                        "@Num": "7",
+                        "ParagraphNum": "７",
+                        "ParagraphSentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "資料承継者については、第一項から第五項までの規定を準用する。"
+                          }
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "SupplProvision": {
+        "SupplProvisionLabel": "附　則",
+        "Paragraph": [
+          {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphCaption": "（施行期日）",
+            "ParagraphNum": "１",
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この省令は、農薬取締法の一部を改正する法律（平成三十年法律第五十三号）の施行の日（平成三十年十二月一日）から施行する。"
+              }
+            }
+          },
+          {
+            "@Hide": "false",
+            "@Num": "2",
+            "ParagraphCaption": "（経過措置）",
+            "ParagraphNum": "２",
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "第二条各号に掲げる試験成績のうち、この省令の施行前に開始した試験の試験成績については、第五条から第十九条までに定める基準によらないことができる。"
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

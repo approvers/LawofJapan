@@ -1,0 +1,136 @@
+{
+  "Law": {
+    "@Era": "Heisei",
+    "@Lang": "ja",
+    "@LawType": "CabinetOrder",
+    "@Num": "221",
+    "@Year": "18",
+    "LawNum": "平成十八年政令第二百二十一号",
+    "LawBody": {
+      "LawTitle": "農業の担い手に対する経営安定のための交付金の交付に関する法律施行令",
+      "EnactStatement": "内閣は、農業の担い手に対する経営安定のための交付金の交付に関する法律（平成十八年法律第八十八号）第二条第一項及び第三条第一項の規定に基づき、この政令を制定する。",
+      "MainProvision": {
+        "Article": [
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "1",
+            "ArticleCaption": "（生産条件不利補正対象農産物）",
+            "ArticleTitle": "第一条",
+            "Paragraph": {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "農業の担い手に対する経営安定のための交付金の交付に関する法律（以下「法」という。）第二条第二項の政令で定める対象農産物は、麦、大豆、てん菜、でん粉の製造の用に供するばれいしょ、そば及び菜種であって、農林水産省令で定める要件に該当するものとする。"
+                }
+              }
+            }
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "2",
+            "ArticleCaption": "（収入減少影響緩和対象農産物）",
+            "ArticleTitle": "第二条",
+            "Paragraph": {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "法第二条第三項の政令で定める対象農産物は、米穀、麦、大豆、てん菜及びでん粉の製造の用に供するばれいしょであって、農林水産省令で定める要件に該当するものとする。"
+                }
+              }
+            }
+          }
+        ]
+      },
+      "SupplProvision": [
+        {
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Article": [
+            {
+              "@Delete": "false",
+              "@Hide": "false",
+              "@Num": "1",
+              "ArticleCaption": "（施行期日）",
+              "ArticleTitle": "第一条",
+              "Paragraph": {
+                "@Hide": "false",
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "この政令は、法の施行の日（平成十九年四月一日）から施行する。"
+                  }
+                }
+              }
+            },
+            {
+              "@Delete": "false",
+              "@Hide": "false",
+              "@Num": "2",
+              "ArticleCaption": "（大豆交付金暫定措置法施行令の廃止）",
+              "ArticleTitle": "第二条",
+              "Paragraph": {
+                "@Hide": "false",
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "大豆交付金暫定措置法施行令（昭和三十六年政令第四百十七号）は、廃止する。"
+                  }
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@AmendLawNum": "平成二六年一〇月二九日政令第三四六号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": [
+            {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphCaption": "（施行期日）",
+              "ParagraphNum": "１",
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "この政令は、平成二十七年四月一日から施行する。"
+                }
+              }
+            },
+            {
+              "@Hide": "false",
+              "@Num": "2",
+              "ParagraphCaption": "（経過措置）",
+              "ParagraphNum": "２",
+              "ParagraphSentence": {
+                "Sentence": [
+                  {
+                    "@Num": "1",
+                    "@WritingMode": "vertical",
+                    "#text": "この政令による改正後の農業の担い手に対する経営安定のための交付金の交付に関する法律施行令（以下「新令」という。）本則の規定は、平成二十七年度の予算に係る農業の担い手に対する経営安定のための交付金の交付に関する法律の一部を改正する法律（以下「改正法」という。）による改正後の農業の担い手に対する経営安定のための交付金の交付に関する法律（以下「新法」という。）第三条第一項各号又は第四条第一項の交付金から適用し、平成二十六年度以前の年度の予算に係る改正法による改正前の農業の担い手に対する経営安定のための交付金の交付に関する法律第三条第一項各号又は第四条第一項の交付金については、なお従前の例による。"
+                  },
+                  {
+                    "@Num": "2",
+                    "@WritingMode": "vertical",
+                    "#text": "この場合において、平成二十七年度の予算に係る新法第四条第一項の交付金についての新令第二条の規定の適用については、同条中「ばれいしょであって、農林水産省令で定める要件に該当するもの」とあるのは、「ばれいしょ」とする。"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,317 @@
+{
+  "Law": {
+    "@Era": "Showa",
+    "@Lang": "ja",
+    "@LawType": "MinisterialOrdinance",
+    "@Num": "24",
+    "@Year": "27",
+    "LawNum": "昭和二十七年労働省令第二十四号",
+    "LawBody": {
+      "LawTitle": "労働基準法第十八条第四項の規定に基づき使用者が労働者の預金を受け入れる場合の利率を定める省令",
+      "EnactStatement": "労働基準法第十八条第四項の規定に基き使用者が労働者の預金を受け入れる場合の利率を定める省令を次のように定める。",
+      "MainProvision": {
+        "Article": [
+          {
+            "@Num": "1",
+            "ArticleCaption": "（定義）",
+            "ArticleTitle": "第一条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "この省令において、次の各号に掲げる用語の意義は、当該各号に定めるところによる。"
+              },
+              "Item": [
+                {
+                  "@Num": "1",
+                  "ItemTitle": "一",
+                  "ItemSentence": {
+                    "Column": [
+                      {
+                        "@Num": "1",
+                        "Sentence": "下限利率"
+                      },
+                      {
+                        "@Num": "2",
+                        "Sentence": "労働基準法第十八条第四項に規定する金融機関の受け入れる預金の利率を考慮して厚生労働省令で定める利率をいう。"
+                      }
+                    ]
+                  }
+                },
+                {
+                  "@Num": "2",
+                  "ItemTitle": "二",
+                  "ItemSentence": {
+                    "Column": [
+                      {
+                        "@Num": "1",
+                        "Sentence": "定期預金平均利率"
+                      },
+                      {
+                        "@Num": "2",
+                        "Sentence": "特定の月において全国の銀行が新規に受け入れる定期預金（預入金額が三百万円未満であるものに限る。）について、当該定期預金に係る契約において定める預入期間が一年以上であって二年未満であるもの、二年以上であって三年未満であるもの、三年以上であって四年未満であるもの、四年以上であって五年未満であるもの及び五年以上であって六年未満であるものの別に平均年利率として日本銀行が公表する利率を平均して得た利率をいう。"
+                      }
+                    ]
+                  }
+                },
+                {
+                  "@Num": "3",
+                  "ItemTitle": "三",
+                  "ItemSentence": {
+                    "Column": [
+                      {
+                        "@Num": "1",
+                        "Sentence": "端数処理"
+                      },
+                      {
+                        "@Num": "2",
+                        "Sentence": "一未満の端数がある数について、小数点以下三位未満を切り捨て、小数点以下三位の数字が、一又は二であるときはこれを切り捨て、三から七までの数であるときはこれを五とし、八又は九であるときはこれを切り上げることをいう。"
+                      }
+                    ]
+                  }
+                },
+                {
+                  "@Num": "4",
+                  "ItemTitle": "四",
+                  "ItemSentence": {
+                    "Column": [
+                      {
+                        "@Num": "1",
+                        "Sentence": "年度"
+                      },
+                      {
+                        "@Num": "2",
+                        "Sentence": "毎年四月から翌年三月までの期間をいう。"
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "@Num": "2",
+            "ArticleCaption": "（一の年度における下限利率）",
+            "ArticleTitle": "第二条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "一の年度における下限利率は、次の各号に掲げる場合の区分に応じ、当該各号に定める利率とする。"
+              },
+              "Item": [
+                {
+                  "@Num": "1",
+                  "ItemTitle": "一",
+                  "ItemSentence": {
+                    "Column": [
+                      {
+                        "@Num": "1",
+                        "Sentence": "当該年度の前年度の十月における定期預金平均利率及び同月において適用される下限利率の差が五厘以上である場合"
+                      },
+                      {
+                        "@Num": "2",
+                        "Sentence": "当該定期預金平均利率に端数処理をして得た利率"
+                      }
+                    ]
+                  }
+                },
+                {
+                  "@Num": "2",
+                  "ItemTitle": "二",
+                  "ItemSentence": {
+                    "Column": [
+                      {
+                        "@Num": "1",
+                        "Sentence": "当該年度の前年度の十月における定期預金平均利率及び同月において適用される下限利率の差が五厘未満である場合"
+                      },
+                      {
+                        "@Num": "2",
+                        "Sentence": "当該下限利率と同一の利率"
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "@Num": "3",
+            "ArticleCaption": "（年度の途中における下限利率の変更）",
+            "ArticleTitle": "第三条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "毎年度の四月における定期預金平均利率及び前条の規定により同月において適用される下限利率の差が一分以上であるときは、当該年度の十月から三月までの期間における下限利率は、前条の規定にかかわらず、当該定期預金平均利率に端数処理をして得た利率とする。"
+              }
+            }
+          },
+          {
+            "@Num": "4",
+            "ArticleCaption": "（下限利率の下限）",
+            "ArticleTitle": "第四条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "前二条の規定による下限利率が五厘未満であるときは、これらの規定にかかわらず、下限利率は五厘とする。"
+              }
+            }
+          },
+          {
+            "@Num": "5",
+            "ArticleCaption": "（下限利率の告示）",
+            "ArticleTitle": "第五条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "厚生労働大臣は、前三条の規定により下限利率が変更されるときは、その旨を告示するものとする。"
+              }
+            }
+          },
+          {
+            "@Num": "6",
+            "ArticleCaption": "（利子の計算）",
+            "ArticleTitle": "第六条",
+            "Paragraph": [
+              {
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": [
+                    {
+                      "@Function": "main",
+                      "@Num": "1",
+                      "#text": "利子は、預入の月から付けなければならない。"
+                    },
+                    {
+                      "@Function": "proviso",
+                      "@Num": "2",
+                      "#text": "ただし、月の十六日以後に預入された場合には、その預入の月の利子を付けることを要しない。"
+                    }
+                  ]
+                }
+              },
+              {
+                "@Num": "2",
+                "ParagraphNum": "○２",
+                "ParagraphSentence": {
+                  "Sentence": [
+                    {
+                      "@Num": "1",
+                      "#text": "払戻金に相当する預金には、その払渡しの月の利子を付けることを要しない。"
+                    },
+                    {
+                      "@Num": "2",
+                      "#text": "預入の月において払戻金の払渡しがあったときも、同様とする。"
+                    }
+                  ]
+                }
+              },
+              {
+                "@Num": "3",
+                "ParagraphNum": "○３",
+                "ParagraphSentence": {
+                  "Sentence": "十円未満の預金の端数には、利子を付けることを要しない。"
+                }
+              },
+              {
+                "@Num": "4",
+                "ParagraphNum": "○４",
+                "ParagraphSentence": {
+                  "Sentence": "利子の計算においては、円未満の端数は切り捨てることができる。"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      "SupplProvision": [
+        {
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この省令は、昭和二十七年九月一日から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成七年七月一七日労働省令第三三号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この省令は、平成七年八月一日から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成九年一月一六日労働省令第一号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この省令は、平成九年二月一日から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成一一年二月一五日労働省令第一〇号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この省令は、平成十一年四月一日から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成一二年一二月一四日労働省令第四三号",
+          "SupplProvisionLabel": "附　則",
+          "Article": [
+            {
+              "@Num": "1",
+              "ArticleCaption": "（施行期日）",
+              "ArticleTitle": "第一条",
+              "Paragraph": {
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": "この省令は、平成十三年四月一日から施行する。"
+                }
+              }
+            },
+            {
+              "@Num": "2",
+              "ArticleCaption": "（経過措置）",
+              "ArticleTitle": "第二条",
+              "Paragraph": [
+                {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "平成十三年四月から平成十四年三月までの期間におけるこの省令による改正後の第二条の規定の適用については、同条中「同月において適用される下限利率」とあるのは、「五厘」とする。"
+                  }
+                },
+                {
+                  "@Num": "2",
+                  "ParagraphNum": "２",
+                  "ParagraphSentence": {
+                    "Sentence": "平成十三年四月から平成十四年三月までの期間におけるこの省令による改正後の第五条の規定の適用については、同条中「前三条の規定により下限利率が変更されるとき」とあるのは、「前三条の規定により下限利率が変更されるとき又は下限利率が前年度の十月において適用される下限利率と同一の利率とされるとき」とする。"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

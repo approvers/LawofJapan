@@ -1,0 +1,138 @@
+{
+  "Law": {
+    "@Era": "Heisei",
+    "@Lang": "ja",
+    "@LawType": "CabinetOrder",
+    "@Num": "23",
+    "@Year": "08",
+    "LawNum": "平成八年政令第二十三号",
+    "LawBody": {
+      "LawTitle": "覚せい剤原料を指定する政令",
+      "EnactStatement": {
+        "Ruby": {
+          "Rt": [
+            "ヽ",
+            "ヽ"
+          ],
+          "#text": "せい"
+        },
+        "#text": "内閣は、覚剤取締法（昭和二十六年法律第二百五十二号）別表第九号の規定に基づき、この政令を制定する。"
+      },
+      "MainProvision": {
+        "Paragraph": {
+          "@Hide": "false",
+          "@Num": "1",
+          "ParagraphNum": null,
+          "ParagraphSentence": {
+            "Sentence": {
+              "@WritingMode": "vertical",
+              "Ruby": {
+                "Rt": [
+                  "ヽ",
+                  "ヽ"
+                ],
+                "#text": "せい"
+              },
+              "#text": "覚剤取締法別表第九号の規定に基づき、次に掲げる物を覚せい剤原料に指定する。"
+            }
+          },
+          "Item": [
+            {
+              "@Delete": "false",
+              "@Hide": "false",
+              "@Num": "1",
+              "ItemTitle": "一",
+              "ItemSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "Ｎ・α―ジメチル―Ｎ―二―プロピニルフェネチルアミン、その塩類及びこれらのいずれかを含有する物"
+                }
+              }
+            },
+            {
+              "@Delete": "false",
+              "@Hide": "false",
+              "@Num": "2",
+              "ItemTitle": "二",
+              "ItemSentence": {
+                "Sentence": [
+                  {
+                    "@Function": "main",
+                    "@Num": "1",
+                    "@WritingMode": "vertical",
+                    "#text": "エリトロ―二―アミノ―一―フェニルプロパン―一―オール、その塩類及びこれらのいずれかを含有する物。"
+                  },
+                  {
+                    "@Function": "proviso",
+                    "@Num": "2",
+                    "@WritingMode": "vertical",
+                    "#text": "ただし、エリトロ―二―アミノ―一―フェニルプロパン―一―オールとして五〇％以下を含有する物を除く。"
+                  }
+                ]
+              }
+            },
+            {
+              "@Delete": "false",
+              "@Hide": "false",
+              "@Num": "3",
+              "ItemTitle": "三",
+              "ItemSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "二・六―ジアミノ―N―（一―フェニルプロパン―二―イル）ヘキサンアミド、その塩類及びこれらのいずれかを含有する物"
+                }
+              }
+            }
+          ]
+        }
+      },
+      "SupplProvision": [
+        {
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この政令は、公布の日から起算して三十日を経過した日から施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成一〇年七月一〇日政令第二四六号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この政令は、公布の日から起算して二月を経過した日から施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成三〇年二月二一日政令第三六号",
+          "@Type": "Amend",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この政令は、公布の日から起算して三十日を経過した日から施行する。"
+              }
+            }
+          }
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,2918 @@
+{
+  "Law": {
+    "@Era": "Showa",
+    "@Lang": "ja",
+    "@LawType": "MinisterialOrdinance",
+    "@Num": "039",
+    "@Year": "47",
+    "LawNum": "昭和四十七年総理府令第三十九号",
+    "LawBody": {
+      "LawTitle": "悪臭防止法施行規則",
+      "EnactStatement": "悪臭防止法（昭和四十六年法律第九十一号）第四条第一号及び第二号並びに第六条の規定に基づき、並びに同法を実施するため、悪臭防止法施行規則を次のように定める。",
+      "TOC": {
+        "TOCLabel": "目次",
+        "TOCChapter": [
+          {
+            "@Num": "1",
+            "ChapterTitle": "第一章　規制",
+            "ArticleRange": "（第一条―第七条）"
+          },
+          {
+            "@Num": "2",
+            "ChapterTitle": "第二章　測定の委託",
+            "ArticleRange": "（第八条・第九条）"
+          },
+          {
+            "@Num": "3",
+            "ChapterTitle": "第三章　臭気測定業務従事者",
+            "TOCSection": [
+              {
+                "@Num": "1",
+                "SectionTitle": "第一節　責務等",
+                "ArticleRange": "（第十条・第十一条）"
+              },
+              {
+                "@Num": "2",
+                "SectionTitle": "第二節　臭気判定士免状",
+                "ArticleRange": "（第十二条―第十七条）"
+              },
+              {
+                "@Num": "3",
+                "SectionTitle": "第三節　臭気判定士試験",
+                "ArticleRange": "（第十八条―第二十条）"
+              },
+              {
+                "@Num": "4",
+                "SectionTitle": {
+                  "Ruby": {
+                    "Rt": "きゆう",
+                    "#text": "嗅"
+                  },
+                  "#text": "第四節　覚検査"
+                },
+                "ArticleRange": "（第二十一条）"
+              },
+              {
+                "@Num": "5",
+                "SectionTitle": "第五節　指定機関",
+                "ArticleRange": "（第二十二条―第二十四条）"
+              },
+              {
+                "@Num": "6",
+                "SectionTitle": "第六節　手数料等",
+                "ArticleRange": "（第二十五条―第二十七条）"
+              }
+            ]
+          }
+        ],
+        "TOCSupplProvision": {
+          "SupplProvisionLabel": "附則"
+        }
+      },
+      "MainProvision": {
+        "Chapter": [
+          {
+            "@Num": "1",
+            "ChapterTitle": "第一章　規制",
+            "Article": [
+              {
+                "@Num": "1",
+                "ArticleCaption": "（臭気指数の算定）",
+                "ArticleTitle": "第一条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": {
+                      "Ruby": {
+                        "Rt": "きゆう",
+                        "#text": "嗅"
+                      },
+                      "#text": "悪臭防止法（以下「法」という。）第二条第二項の規定による気体又は水に係る臭気指数の算定は、環境大臣が定める方法により、試料とする気体又は水の臭気を人間の覚で感知することができなくなるまで気体又は水の希釈をした場合におけるその希釈の倍数（以下「臭気濃度」という。）を求め、当該臭気濃度の値の対数に十を乗じた値を求めることにより行うものとする。"
+                    }
+                  }
+                }
+              },
+              {
+                "@Num": "2",
+                "ArticleCaption": "（敷地境界線における特定悪臭物質の濃度に係る規制基準の範囲）",
+                "ArticleTitle": "第二条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "法第四条第一項第一号の環境省令で定める範囲は、法第二条第一項に規定する特定悪臭物質（以下「特定悪臭物質」という。）の種類ごとに別表第一の下欄に掲げるとおりとする。"
+                  }
+                }
+              },
+              {
+                "@Num": "3",
+                "ArticleCaption": "（排出口における特定悪臭物質の流量又は濃度に係る規制基準の設定方法）",
+                "ArticleTitle": "第三条",
+                "Paragraph": [
+                  {
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": "法第四条第一項第二号の環境省令で定める方法は、特定悪臭物質（メチルメルカプタン、硫化メチル、二硫化メチル、アセトアルデヒド、スチレン、プロピオン酸、ノルマル酪酸、ノルマル吉草酸及びイソ吉草酸を除く。）の種類ごとに次の式により流量を算出する方法とする。"
+                    },
+                    "List": [
+                      {
+                        "ListSentence": {
+                          "Sentence": "ｑ＝０．１０８×Ｈｅ２・Ｃｍ"
+                        }
+                      },
+                      {
+                        "ListSentence": {
+                          "Sentence": "（この式において、ｑ、Ｈｅ及びＣｍは、それぞれ次の値を表すものとする。"
+                        }
+                      },
+                      {
+                        "ListSentence": {
+                          "Column": [
+                            {
+                              "@Num": "1",
+                              "Sentence": "ｑ"
+                            },
+                            {
+                              "@Num": "2",
+                              "Sentence": "流量（単位　温度零度、圧力一気圧の状態に換算した立方メートル毎時）"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ListSentence": {
+                          "Column": [
+                            {
+                              "@Num": "1",
+                              "Sentence": "Ｈｅ"
+                            },
+                            {
+                              "@Num": "2",
+                              "Sentence": "次項に規定する方法により補正された排出口の高さ（単位　メートル）"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ListSentence": {
+                          "Column": [
+                            {
+                              "@Num": "1",
+                              "Sentence": "Ｃｍ"
+                            },
+                            {
+                              "@Num": "2",
+                              "Sentence": "法第四条第一項第一号の規制基準として定められた値（単位　百万分率））"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ListSentence": {
+                          "Sentence": "次項に規定する方法により補正された排出口の高さが五メートル未満となる場合については、この式は、適用しないものとする。"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": "排出口の高さの補正は、次の算式により行うものとする。"
+                    },
+                    "List": [
+                      {
+                        "ListSentence": {
+                          "Sentence": "Ｈｅ＝Ｈｏ＋０．６５（Ｈｍ＋Ｈｔ）"
+                        }
+                      },
+                      {
+                        "ListSentence": {
+                          "Sentence": "Ｈｍ＝（０．７９５√（Ｑ・Ｖ））／（１＋（２．５８／Ｖ））"
+                        }
+                      },
+                      {
+                        "ListSentence": {
+                          "Sentence": "Ｈｔ＝２．０１×１０－３・Ｑ・（Ｔ－２８８）・｛２．３０ｌｏｇＪ＋（１／Ｊ）－１｝"
+                        }
+                      },
+                      {
+                        "ListSentence": {
+                          "Sentence": "Ｊ＝（１／√（Ｑ・Ｖ））×｛１４６０－２９６×（Ｖ／（Ｔ－２８８））｝＋１"
+                        }
+                      },
+                      {
+                        "ListSentence": {
+                          "Sentence": "（これらの式において、Ｈｅ、Ｈｏ、Ｑ、Ｖ及びＴは、それぞれ次の値を表すものとする。"
+                        }
+                      },
+                      {
+                        "ListSentence": {
+                          "Column": [
+                            {
+                              "@Num": "1",
+                              "Sentence": "Ｈｅ"
+                            },
+                            {
+                              "@Num": "2",
+                              "Sentence": "補正された排出口の高さ（単位　メートル）"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ListSentence": {
+                          "Column": [
+                            {
+                              "@Num": "1",
+                              "Sentence": "Ｈｏ"
+                            },
+                            {
+                              "@Num": "2",
+                              "Sentence": "排出口の実高さ（単位　メートル）"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ListSentence": {
+                          "Column": [
+                            {
+                              "@Num": "1",
+                              "Sentence": "Ｑ"
+                            },
+                            {
+                              "@Num": "2",
+                              "Sentence": "温度十五度における排出ガスの流量（単位　立方メートル毎秒）"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ListSentence": {
+                          "Column": [
+                            {
+                              "@Num": "1",
+                              "Sentence": "Ｖ"
+                            },
+                            {
+                              "@Num": "2",
+                              "Sentence": "排出ガスの排出速度（単位　メートル毎秒）"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ListSentence": {
+                          "Column": [
+                            {
+                              "@Num": "1",
+                              "Sentence": "Ｔ"
+                            },
+                            {
+                              "@Num": "2",
+                              "Sentence": "排出ガスの温度（単位　絶対温度））"
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "@Num": "4",
+                "ArticleCaption": "（排出水中における特定悪臭物質の濃度に係る規制基準の設定方法）",
+                "ArticleTitle": "第四条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "法第四条第一項第三号の環境省令で定める方法は、特定悪臭物質（アンモニア、トリメチルアミン、アセトアルデヒド、プロピオンアルデヒド、ノルマルブチルアルデヒド、イソブチルアルデヒド、ノルマルバレルアルデヒド、イソバレルアルデヒド、イソブタノール、酢酸エチル、メチルイソブチルケトン、トルエン、スチレン、キシレン、プロピオン酸、ノルマル酪酸、ノルマル吉草酸及びイソ吉草酸を除く。）の種類ごとに次の式により排出水中の濃度を算出する方法とする。"
+                  },
+                  "List": [
+                    {
+                      "ListSentence": {
+                        "Sentence": "ＣＬｍ＝ｋ×Ｃｍ"
+                      }
+                    },
+                    {
+                      "ListSentence": {
+                        "Sentence": "（この式において、ＣＬｍ、ｋ及びＣｍは、それぞれ次の値を表すものとする。"
+                      }
+                    },
+                    {
+                      "ListSentence": {
+                        "Column": [
+                          {
+                            "@Num": "1",
+                            "Sentence": "CLm"
+                          },
+                          {
+                            "@Num": "2",
+                            "Sentence": "排出水中の濃度（単位　一リットルにつきミリグラム）"
+                          }
+                        ]
+                      }
+                    },
+                    {
+                      "ListSentence": {
+                        "Column": [
+                          {
+                            "@Num": "1",
+                            "Sentence": "ｋ"
+                          },
+                          {
+                            "@Num": "2",
+                            "Sentence": "別表第二の第二欄に掲げる特定悪臭物質の種類及び同表の第三欄に掲げる当該事業場から敷地外に排出される排出水の量ごとに同表の第四欄に掲げる値（単位　一リットルにつきミリグラム）"
+                          }
+                        ]
+                      }
+                    },
+                    {
+                      "ListSentence": {
+                        "Column": [
+                          {
+                            "@Num": "1",
+                            "Sentence": "Ｃｍ"
+                          },
+                          {
+                            "@Num": "2",
+                            "Sentence": "法第四条第一項第一号の規制基準として定められた値（単位　百万分率））"
+                          }
+                        ]
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "@Num": "5",
+                "ArticleCaption": "（特定悪臭物質の測定方法）",
+                "ArticleTitle": "第五条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "法第四条第一項の規制基準を適用する場合における特定悪臭物質の測定の方法は、環境大臣が定めるところによるものとする。"
+                  }
+                }
+              },
+              {
+                "@Num": "6",
+                "ArticleCaption": "（敷地境界線における臭気指数に係る規制基準の範囲）",
+                "ArticleTitle": "第六条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "法第四条第二項第一号の環境省令で定める範囲は、大気の臭気指数が十以上二十一以下とする。"
+                  }
+                }
+              },
+              {
+                "@Num": "6_2",
+                "ArticleCaption": "（排出口における臭気排出強度及び臭気指数に係る規制基準の設定方法）",
+                "ArticleTitle": "第六条の二",
+                "Paragraph": [
+                  {
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": [
+                        {
+                          "@Function": "main",
+                          "@Num": "1",
+                          "#text": "法第四条第二項第二号の環境省令で定める方法は、次の各号の排出口の高さの区分ごとに、当該各号に定める方法とする。"
+                        },
+                        {
+                          "@Function": "proviso",
+                          "@Num": "2",
+                          "#text": "ただし、排出ガスの臭気指数として同項第二号の規制基準を定める場合、その値は同項第一号の規制基準として定める値以上でなければならない。"
+                        }
+                      ]
+                    },
+                    "Item": [
+                      {
+                        "@Num": "1",
+                        "ItemTitle": "一",
+                        "ItemSentence": {
+                          "Column": [
+                            {
+                              "@Num": "1",
+                              "Sentence": "排出口の実高さが十五メートル以上の施設"
+                            },
+                            {
+                              "@Num": "2",
+                              "Sentence": "イに定める式により臭気排出強度（排出ガスの臭気指数及び流量を基礎として、環境大臣が定める方法により算出される値をいう。以下同じ。）の量を算出する方法"
+                            }
+                          ]
+                        },
+                        "Subitem1": [
+                          {
+                            "@Num": "1",
+                            "Subitem1Title": "イ",
+                            "Subitem1Sentence": {
+                              "Sentence": "次に定める式により臭気排出強度の量を算出するものとする。"
+                            },
+                            "List": [
+                              {
+                                "ListSentence": {
+                                  "Sentence": "ｑｔ＝（６０×１０Ａ）／Ｆｍａｘ"
+                                }
+                              },
+                              {
+                                "ListSentence": {
+                                  "Sentence": "Ａ＝（Ｌ）／（１０）－０．２２５５"
+                                }
+                              },
+                              {
+                                "ListSentence": {
+                                  "Sentence": "これらの式において、ｑｔ、Ｆｍａｘ及びＬはそれぞれ次の値を表すものとする。"
+                                }
+                              },
+                              {
+                                "ListSentence": {
+                                  "Column": [
+                                    {
+                                      "@Num": "1",
+                                      "Sentence": "ｑｔ"
+                                    },
+                                    {
+                                      "@Num": "2",
+                                      "Sentence": "排出ガスの臭気排出強度（単位　温度零度、圧力一気圧の状態に換算した立方メートル毎分）"
+                                    }
+                                  ]
+                                }
+                              },
+                              {
+                                "ListSentence": {
+                                  "Sentence": "Ｆｍａｘ　別表第三に定める式により算出されるＦ（ｘ）（温度零度、圧力一気圧の状態における臭気排出強度一立方メートル毎秒に対する排出口からの風下距離ｘ（単位　メートル）における地上での臭気濃度）の最大値（単位　温度零度、圧力一気圧の状態に換算した秒毎立方メートル）。ただし、Ｆ（ｘ）の最大値として算出される値が一を排出ガスの流量（単位　温度零度、圧力一気圧の状態に換算した立方メートル毎秒）で除した値を超えるときは、一を排出ガスの流量で除した値とする。"
+                                }
+                              },
+                              {
+                                "ListSentence": {
+                                  "Column": [
+                                    {
+                                      "@Num": "1",
+                                      "Sentence": "Ｌ"
+                                    },
+                                    {
+                                      "@Num": "2",
+                                      "Sentence": "法第四条第二項第一号の規制基準として定められた値"
+                                    }
+                                  ]
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "@Num": "2",
+                            "Subitem1Title": "ロ",
+                            "Subitem1Sentence": {
+                              "Sentence": "イに規定するＦｍａｘの値は、次に掲げる場合の区分に応じ、それぞれ次に定める条件により算出するものとする。"
+                            },
+                            "Subitem2": [
+                              {
+                                "@Num": "1",
+                                "Subitem2Title": "（１）",
+                                "Subitem2Sentence": {
+                                  "Column": [
+                                    {
+                                      "@Num": "1",
+                                      "Sentence": "次項に定める方法により算出される初期排出高さが、環境大臣が定める方法により算出される周辺最大建物（対象となる事業場の敷地内の建物（建築基準法（昭和二十五年法律第二百一号）第二条第一号に定める建築物及び建築基準法施行令（昭和二十五年政令第三百三十八号）第百三十八条第三項で指定する工作物をいう。）で、排出口から当該建物の高さの十倍の距離以内の範囲に当該建物の一部若しくは全部が含まれるもののうち、高さが最大のもの。以下同じ。）の高さ（以下「周辺最大建物の高さ」という。）の二・五倍以上となる場合"
+                                    },
+                                    {
+                                      "@Num": "2",
+                                      "Sentence": "排出口からの風下距離が排出口と敷地境界の最短距離以上となる区間における最大値"
+                                    }
+                                  ]
+                                }
+                              },
+                              {
+                                "@Num": "2",
+                                "Subitem2Title": "（２）",
+                                "Subitem2Sentence": {
+                                  "Column": [
+                                    {
+                                      "@Num": "1",
+                                      "Sentence": "次項に定める方法により算出される初期排出高さが、周辺最大建物の高さの二・五倍未満となる場合"
+                                    },
+                                    {
+                                      "@Num": "2",
+                                      "Sentence": [
+                                        {
+                                          "@Function": "main",
+                                          "@Num": "1",
+                                          "#text": "排出口からの風下距離がただし書きにより定めるＲ以上となる区間における最大値。"
+                                        },
+                                        {
+                                          "@Function": "proviso",
+                                          "@Num": "2",
+                                          "#text": "ただし、Ｒは排出口と敷地境界の最短距離と、環境大臣が定める方法で算出される周辺最大建物と敷地境界の最短距離のうち、いずれか小さい値"
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "@Num": "2",
+                        "ItemTitle": "二",
+                        "ItemSentence": {
+                          "Column": [
+                            {
+                              "@Num": "1",
+                              "Sentence": "排出口の実高さが十五メートル未満の施設"
+                            },
+                            {
+                              "@Num": "2",
+                              "Sentence": "次の式により排出ガスの臭気指数を算出する方法"
+                            }
+                          ]
+                        },
+                        "List": [
+                          {
+                            "ListSentence": {
+                              "Sentence": "Ｉ＝１０×ｌｏｇＣ"
+                            }
+                          },
+                          {
+                            "ListSentence": {
+                              "Sentence": "Ｃ＝Ｋ×Ｈｂ２×１０Ｂ"
+                            }
+                          },
+                          {
+                            "ListSentence": {
+                              "Sentence": "Ｂ＝( Ｌ ) /( 10 )"
+                            }
+                          },
+                          {
+                            "ListSentence": {
+                              "Sentence": "（これらの式においてＩ、Ｋ、Ｈｂ及びＬは、それぞれ次の値を表すものとする。"
+                            }
+                          },
+                          {
+                            "ListSentence": {
+                              "Column": [
+                                {
+                                  "@Num": "1",
+                                  "Sentence": "Ｉ"
+                                },
+                                {
+                                  "@Num": "2",
+                                  "Sentence": "排出ガスの臭気指数"
+                                }
+                              ]
+                            }
+                          },
+                          {
+                            "ListSentence": {
+                              "Sentence": "Ｋ　次表の上欄に掲げる排出口の口径の区分ごとに、同表の下欄に掲げる値。ただし、排出口の形状が円形でない場合、排出口の口径はその断面積を円の面積とみなしたときの円の直径とする。"
+                            }
+                          },
+                          {
+                            "ListSentence": {
+                              "Sentence": "Ｈｂ　周辺最大建物の高さ（単位　メートル）。ただし、算出される値が十未満である場合又は十以上であって排出口の実高さ（単位　メートル）の値の一・五倍以上である場合には、第一欄に掲げる算出される値の大きさ及び第二欄に掲げる排出口の実高さごとに、同表の第三欄に掲げる式により算出される高さ（単位　メートル）とする。"
+                            }
+                          },
+                          {
+                            "ListSentence": {
+                              "Sentence": "Ｌ　法第四条第二項第一号の規制基準として定められた値）"
+                            }
+                          }
+                        ],
+                        "TableStruct": [
+                          {
+                            "Table": {
+                              "TableRow": [
+                                {
+                                  "TableColumn": [
+                                    {
+                                      "Sentence": "排出口の口径が〇・六メートル未満の場合"
+                                    },
+                                    {
+                                      "Sentence": "〇・六九"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "TableColumn": [
+                                    {
+                                      "Sentence": "排出口の口径が〇・六メートル以上〇・九メートル未満の場合"
+                                    },
+                                    {
+                                      "Sentence": "〇・二〇"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "TableColumn": [
+                                    {
+                                      "Sentence": "排出口の口径が〇・九メートル以上の場合"
+                                    },
+                                    {
+                                      "Sentence": "〇・一〇"
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          },
+                          {
+                            "Table": {
+                              "TableRow": [
+                                {
+                                  "TableColumn": [
+                                    {
+                                      "@rowspan": "2",
+                                      "Sentence": "十未満"
+                                    },
+                                    {
+                                      "Sentence": "六・七メートル以上"
+                                    },
+                                    {
+                                      "Sentence": "十メートル"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "TableColumn": [
+                                    {
+                                      "Sentence": "六・七メートル未満"
+                                    },
+                                    {
+                                      "Sentence": "排出口の実高さの一・五倍"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "TableColumn": [
+                                    {
+                                      "Sentence": "十以上であって排出口の実高さ（単位　メートル）の値の一・五倍以上"
+                                    },
+                                    {
+                                      "Sentence": null
+                                    },
+                                    {
+                                      "Sentence": "排出口の実高さの一・五倍"
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": [
+                        {
+                          "@Function": "main",
+                          "@Num": "1",
+                          "#text": "初期排出高さの算出は、次式により行うものとする。"
+                        },
+                        {
+                          "@Function": "proviso",
+                          "@Num": "2",
+                          "#text": "ただし、当該方法により算出される値が排出口の実高さの値を超える場合、初期排出高さは排出口の実高さ（単位　メートル）とする。"
+                        }
+                      ]
+                    },
+                    "List": [
+                      {
+                        "ListSentence": {
+                          "Sentence": "Ｈｉ＝Ｈｏ＋２（Ｖ－１．５）Ｄ"
+                        }
+                      },
+                      {
+                        "ListSentence": {
+                          "Sentence": "これらの式において、Ｈｉ、Ｈｏ、Ｖ及びＤは、それぞれ次の値を表すものとする。"
+                        }
+                      },
+                      {
+                        "ListSentence": {
+                          "Column": [
+                            {
+                              "@Num": "1",
+                              "Sentence": "Ｈｉ"
+                            },
+                            {
+                              "@Num": "2",
+                              "Sentence": "初期排出高さ（単位　メートル）"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ListSentence": {
+                          "Column": [
+                            {
+                              "@Num": "1",
+                              "Sentence": "Ｈｏ"
+                            },
+                            {
+                              "@Num": "2",
+                              "Sentence": "排出口の実高さ（単位　メートル）"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ListSentence": {
+                          "Column": [
+                            {
+                              "@Num": "1",
+                              "Sentence": "Ｖ"
+                            },
+                            {
+                              "@Num": "2",
+                              "Sentence": "排出ガスの排出速度（単位　メートル毎秒）"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "ListSentence": {
+                          "Sentence": "Ｄ　排出口の口径（単位　メートル）。ただし、排出口の形状が円形でない場合には、その断面積を円の面積とみなしたときの円の直径とする。"
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "@Num": "6_3",
+                "ArticleCaption": "（排出水における臭気指数に係る規制基準の設定方法）",
+                "ArticleTitle": "第六条の三",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "法第四条第二項第三号の環境省令で定める方法は、次の式により排出水の臭気指数を算出する方法とする。"
+                  },
+                  "List": [
+                    {
+                      "ListSentence": {
+                        "Sentence": "Ｉｗ＝Ｌ＋１６"
+                      }
+                    },
+                    {
+                      "ListSentence": {
+                        "Sentence": "この式において、Ｉｗ及びＬは、それぞれ次の値を表すものとする。"
+                      }
+                    },
+                    {
+                      "ListSentence": {
+                        "Column": [
+                          {
+                            "@Num": "1",
+                            "Sentence": "Ｉｗ"
+                          },
+                          {
+                            "@Num": "2",
+                            "Sentence": "排出水の臭気指数"
+                          }
+                        ]
+                      }
+                    },
+                    {
+                      "ListSentence": {
+                        "Column": [
+                          {
+                            "@Num": "1",
+                            "Sentence": "Ｌ"
+                          },
+                          {
+                            "@Num": "2",
+                            "Sentence": "法第四条第二項第一号の規制基準として定められた値"
+                          }
+                        ]
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "@Num": "7",
+                "ArticleCaption": "（公示）",
+                "ArticleTitle": "第七条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "法第六条の規定による公示は、都道府県又は市の公報に掲載してしなければならない。"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "@Num": "2",
+            "ChapterTitle": "第二章　測定の委託",
+            "Article": [
+              {
+                "@Num": "8",
+                "ArticleCaption": "（特定悪臭物質の濃度の測定を適正に行うことができる者の要件）",
+                "ArticleTitle": "第八条",
+                "Paragraph": {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "法第十二条の環境省令で定める要件は、大気（大気中に放出される気体を含む。）又は水中の物質の濃度の計量証明の事業に関し、計量法（平成四年法律第五十一号）第百七条の規定に基づき都道府県知事の登録を受けた者並びに同条ただし書の規定による国、地方公共団体及び独立行政法人通則法（平成十一年法律第百三号）第二条第一項に規定する独立行政法人であって当該計量証明の事業を適正に行う能力を有するものとして政令で定めるものであることとする。"
+                  }
+                }
+              },
+              {
+                "@Num": "9",
+                "ArticleCaption": "（委託の方法）",
+                "ArticleTitle": "第九条",
+                "Paragraph": [
+                  {
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": [
+                        {
+                          "@Function": "main",
+                          "@Num": "1",
+                          "#text": "法第十二条の規定による臭気指数及び臭気排出強度（以下「臭気指数等」という。）に係る測定の委託は、次の各号に掲げる事項についての条項を含む委託契約書を作成して行うものとする。"
+                        },
+                        {
+                          "@Function": "proviso",
+                          "@Num": "2",
+                          "#text": "ただし、国又は地方公共団体に測定の委託を行う場合は、この限りでない。"
+                        }
+                      ]
+                    },
+                    "Item": [
+                      {
+                        "@Num": "1",
+                        "ItemTitle": "一",
+                        "ItemSentence": {
+                          "Sentence": "委託者は、必要があると認めるときは測定に関し受託者に報告を求めることができ、受託者は、これに応じなければならないこと。"
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "ItemTitle": "二",
+                        "ItemSentence": {
+                          "Sentence": "受託者が法第十二条各号のいずれにも該当しなくなったとき又は委託に係る測定の業務に関し不正の行為があったと認めるときは、委託者において当該契約を解除することができること。"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Num": "2",
+                    "ParagraphNum": "２",
+                    "ParagraphSentence": {
+                      "Sentence": "法第十二条の規定により臭気指数等に係る測定を同条の臭気測定業務従事者又は臭気指数等に係る測定の業務を行う法人（当該測定を同条の臭気測定業務従事者に実施させるものに限る。）に委託した者は、当該委託に係る測定の業務に関し受託者に不正の行為があったと認め、当該委託の契約を解除したときは、当該契約に関する書類の写し並びに当該契約を解除した日及びその理由を記載した書類を環境大臣に提出しなければならない。"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "@Num": "3",
+            "ChapterTitle": "第三章　臭気測定業務従事者",
+            "Section": [
+              {
+                "@Num": "1",
+                "SectionTitle": "第一節　責務等",
+                "Article": [
+                  {
+                    "@Num": "10",
+                    "ArticleTitle": "第十条",
+                    "Paragraph": {
+                      "@Num": "1",
+                      "ParagraphNum": null,
+                      "ParagraphSentence": {
+                        "Sentence": "臭気測定業務従事者は、臭気指数等に係る測定の業務の実施に当たって厳正を保持し、不正の行為がないようにしなければならない。"
+                      }
+                    }
+                  },
+                  {
+                    "@Num": "11",
+                    "ArticleCaption": "（臭気測定業務従事者）",
+                    "ArticleTitle": "第十一条",
+                    "Paragraph": {
+                      "@Num": "1",
+                      "ParagraphNum": null,
+                      "ParagraphSentence": {
+                        "Sentence": "法第十二条第一号の環境省令で定める条件は、臭気判定士免状の交付を受けていることとする。"
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "@Num": "2",
+                "SectionTitle": "第二節　臭気判定士免状",
+                "Article": [
+                  {
+                    "@Num": "12",
+                    "ArticleCaption": "（臭気判定士免状）",
+                    "ArticleTitle": "第十二条",
+                    "Paragraph": [
+                      {
+                        "@Num": "1",
+                        "ParagraphNum": null,
+                        "ParagraphSentence": {
+                          "Sentence": {
+                            "Ruby": [
+                              {
+                                "Rt": "きゆう",
+                                "#text": "嗅"
+                              },
+                              {
+                                "Rt": "きゆう",
+                                "#text": "嗅"
+                              }
+                            ],
+                            "#text": "臭気判定士免状（以下「免状」という。）は、法第十三条第一項の試験（以下「臭気判定士試験」という。）及び同項の覚についての適性検査（以下「覚検査」という。）に合格した者に対し、環境大臣が交付する。"
+                          }
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "ParagraphNum": "２",
+                        "ParagraphSentence": {
+                          "Sentence": "免状の有効期間は、五年とする。"
+                        }
+                      },
+                      {
+                        "@Num": "3",
+                        "ParagraphNum": "３",
+                        "ParagraphSentence": {
+                          "Sentence": "免状の様式は、様式第一号とする。"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Num": "13",
+                    "ArticleCaption": "（免状の申請手続）",
+                    "ArticleTitle": "第十三条",
+                    "Paragraph": {
+                      "@Num": "1",
+                      "ParagraphNum": null,
+                      "ParagraphSentence": {
+                        "Sentence": "前条第一項の規定により免状の交付を受けようとする者は、様式第二号による申請書に次に掲げる書類を添えて、これを環境大臣に提出しなければならない。"
+                      },
+                      "Item": [
+                        {
+                          "@Num": "1",
+                          "ItemTitle": "一",
+                          "ItemSentence": {
+                            "Sentence": "戸籍の謄本若しくは抄本又は住民票の写し"
+                          }
+                        },
+                        {
+                          "@Num": "2",
+                          "ItemTitle": "二",
+                          "ItemSentence": {
+                            "Sentence": "臭気判定士試験の合格証書"
+                          }
+                        },
+                        {
+                          "@Num": "3",
+                          "ItemTitle": "三",
+                          "ItemSentence": {
+                            "Sentence": {
+                              "Ruby": {
+                                "Rt": "きゆう",
+                                "#text": "嗅"
+                              },
+                              "#text": "申請書を提出する日前一年以内に受けた覚検査の合格証書"
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "@Num": "14",
+                    "ArticleCaption": "（免状の更新）",
+                    "ArticleTitle": "第十四条",
+                    "Paragraph": [
+                      {
+                        "@Num": "1",
+                        "ParagraphNum": null,
+                        "ParagraphSentence": {
+                          "Sentence": [
+                            {
+                              "@Function": "main",
+                              "@Num": "1",
+                              "Ruby": [
+                                {
+                                  "Rt": "きゆう",
+                                  "#text": "嗅"
+                                },
+                                {
+                                  "Rt": "きゆう",
+                                  "#text": "嗅"
+                                }
+                              ],
+                              "#text": "免状の有効期間の更新（以下「免状の更新」という。）を受けようとする者は、当該免状の有効期間が満了する日の六月前から当該免状の有効期間が満了する日までの間に、覚検査を受け、様式第三号による申請書に当該覚検査の合格証書を添えて、これを環境大臣に提出しなければならない。"
+                            },
+                            {
+                              "@Function": "proviso",
+                              "@Num": "2",
+                              "Ruby": [
+                                {
+                                  "Rt": "きゆう",
+                                  "#text": "嗅"
+                                },
+                                {
+                                  "Rt": "きゆう",
+                                  "#text": "嗅"
+                                },
+                                {
+                                  "Rt": "きゆう",
+                                  "#text": "嗅"
+                                }
+                              ],
+                              "#text": "ただし、災害、病気その他のやむを得ない事情のため、免状の有効期間が満了する日までに、覚検査を受け、申請書を提出することができないときは、当該やむを得ない事情がやんだ日から起算して一月以内に、覚検査を受け、様式第三号による申請書に当該覚検査の合格証書及び当該やむを得ない事情を明らかにした書類を添えて、これを提出することにより、免状の更新を受けることができる。"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "ParagraphNum": "２",
+                        "ParagraphSentence": {
+                          "Sentence": "免状の更新は、更新申請者が現に有する免状と引換えに新たな免状を交付して行うものとする。"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Num": "15",
+                    "ArticleCaption": "（免状の再交付）",
+                    "ArticleTitle": "第十五条",
+                    "Paragraph": [
+                      {
+                        "@Num": "1",
+                        "ParagraphNum": null,
+                        "ParagraphSentence": {
+                          "Sentence": "免状の交付を受けている者は、免状を破り、汚し、又は失ったときは、環境大臣に免状の再交付を申請することができる。"
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "ParagraphNum": "２",
+                        "ParagraphSentence": {
+                          "Sentence": "前項の申請は、様式第四号の申請書により行うものとする。"
+                        }
+                      },
+                      {
+                        "@Num": "3",
+                        "ParagraphNum": "３",
+                        "ParagraphSentence": {
+                          "Sentence": "免状を破り、又は汚した者が第一項の申請をする場合には、前項の申請書にその免状を添えなければならない。"
+                        }
+                      },
+                      {
+                        "@Num": "4",
+                        "ParagraphNum": "４",
+                        "ParagraphSentence": {
+                          "Sentence": "免状の交付を受けている者は、免状の再交付を受けた後、失った免状を発見したときは、五日以内に、当該失った免状を環境大臣に返納しなければならない。"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Num": "16",
+                    "ArticleCaption": "（免状の書換え）",
+                    "ArticleTitle": "第十六条",
+                    "Paragraph": [
+                      {
+                        "@Num": "1",
+                        "ParagraphNum": null,
+                        "ParagraphSentence": {
+                          "Sentence": "免状の交付を受けている者は、免状の記載事項に変更を生じたときは、免状に戸籍の謄本若しくは抄本又は住民票の写しを添えて、環境大臣に免状の書換えを申請することができる。"
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "ParagraphNum": "２",
+                        "ParagraphSentence": {
+                          "Sentence": "前項の申請は、様式第五号の申請書により行うものとする。"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Num": "17",
+                    "ArticleCaption": "（免状の交付の取消し等）",
+                    "ArticleTitle": "第十七条",
+                    "Paragraph": [
+                      {
+                        "@Num": "1",
+                        "ParagraphNum": null,
+                        "ParagraphSentence": {
+                          "Sentence": "環境大臣は、免状の交付を受けた者が臭気指数等に係る測定に関し不正の行為を行ったと認めるとき又は法に規定する罪を犯したときは、当該者に対して行われた免状の交付を取り消すものとする。"
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "ParagraphNum": "２",
+                        "ParagraphSentence": {
+                          "Sentence": "免状の交付を受けた者は、前項の規定により免状の交付を取り消されたときは、五日以内に、当該免状を環境大臣に返納しなければならない。"
+                        }
+                      },
+                      {
+                        "@Num": "3",
+                        "ParagraphNum": "３",
+                        "ParagraphSentence": {
+                          "Sentence": "免状の交付を受けている者が死亡し、又は失そうの宣告を受けたときは、戸籍法（昭和二十二年法律第二百二十四号）に規定する死亡又は失そうの届出義務者は、一月以内に、環境大臣に当該免状を返納しなければならない。"
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "@Num": "3",
+                "SectionTitle": "第三節　臭気判定士試験",
+                "Article": [
+                  {
+                    "@Num": "18",
+                    "ArticleCaption": "（臭気判定士試験）",
+                    "ArticleTitle": "第十八条",
+                    "Paragraph": [
+                      {
+                        "@Num": "1",
+                        "ParagraphNum": null,
+                        "ParagraphSentence": {
+                          "Sentence": "環境大臣は、臭気判定士試験を行う期日及び場所並びに受験申請書の提出期限及び提出先を、あらかじめ、官報に公示しなければならない。"
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "ParagraphNum": "２",
+                        "ParagraphSentence": {
+                          "Sentence": "臭気判定士試験の科目は、次のとおりとする。"
+                        },
+                        "Item": [
+                          {
+                            "@Num": "1",
+                            "ItemTitle": "一",
+                            "ItemSentence": {
+                              "Sentence": {
+                                "Ruby": {
+                                  "Rt": "きゆう",
+                                  "#text": "嗅"
+                                },
+                                "#text": "覚概論"
+                              }
+                            }
+                          },
+                          {
+                            "@Num": "2",
+                            "ItemTitle": "二",
+                            "ItemSentence": {
+                              "Sentence": "悪臭防止行政"
+                            }
+                          },
+                          {
+                            "@Num": "3",
+                            "ItemTitle": "三",
+                            "ItemSentence": {
+                              "Sentence": "悪臭測定概論"
+                            }
+                          },
+                          {
+                            "@Num": "4",
+                            "ItemTitle": "四",
+                            "ItemSentence": {
+                              "Sentence": "分析統計概論"
+                            }
+                          },
+                          {
+                            "@Num": "5",
+                            "ItemTitle": "五",
+                            "ItemSentence": {
+                              "Sentence": "臭気指数等に係る測定の実務"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "@Num": "3",
+                        "ParagraphNum": "３",
+                        "ParagraphSentence": {
+                          "Sentence": "次の各号のいずれかに該当する者は、臭気判定士試験を受けることができない。"
+                        },
+                        "Item": [
+                          {
+                            "@Num": "1",
+                            "ItemTitle": "一",
+                            "ItemSentence": {
+                              "Sentence": "試験日において十八歳以上でない者"
+                            }
+                          },
+                          {
+                            "@Num": "2",
+                            "ItemTitle": "二",
+                            "ItemSentence": {
+                              "Sentence": "第十七条第一項の規定により免状の交付を取り消され、その日から一年を経過しない者"
+                            }
+                          },
+                          {
+                            "@Num": "3",
+                            "ItemTitle": "三",
+                            "ItemSentence": {
+                              "Sentence": "法に規定する罪を犯して刑に処せられ、その執行を終わり、又はその執行を受けることがなくなった日から起算して二年を経過しない者"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@Num": "19",
+                    "ArticleCaption": "（受験の申請）",
+                    "ArticleTitle": "第十九条",
+                    "Paragraph": {
+                      "@Num": "1",
+                      "ParagraphNum": null,
+                      "ParagraphSentence": {
+                        "Sentence": "臭気判定士試験を受けようとする者は、様式第七号による受験申請書に年齢を証する書類及び写真（申請前六月以内に脱帽して正面から撮影した縦六センチメートル横四センチメートルのもので、その裏面には撮影年月日及び氏名を記載すること。）を添えて、これを環境大臣に提出しなければならない。"
+                      }
+                    }
+                  },
+                  {
+                    "@Num": "20",
+                    "ArticleCaption": "（合格証書の交付）",
+                    "ArticleTitle": "第二十条",
+                    "Paragraph": {
+                      "@Num": "1",
+                      "ParagraphNum": null,
+                      "ParagraphSentence": {
+                        "Sentence": "環境大臣は、臭気判定士試験に合格した者に様式第八号の合格証書を交付する。"
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "@Num": "4",
+                "SectionTitle": {
+                  "Ruby": {
+                    "Rt": "きゆう",
+                    "#text": "嗅"
+                  },
+                  "#text": "第四節　覚検査"
+                },
+                "Article": {
+                  "@Num": "21",
+                  "ArticleTitle": "第二十一条",
+                  "Paragraph": {
+                    "@Num": "1",
+                    "ParagraphNum": null,
+                    "ParagraphSentence": {
+                      "Sentence": [
+                        {
+                          "@Num": "1",
+                          "Ruby": {
+                            "Rt": "きゆう",
+                            "#text": "嗅"
+                          },
+                          "#text": "第十八条第一項及び第三項第一号、第十九条並びに第二十条の規定は、覚検査について準用する。"
+                        },
+                        {
+                          "@Num": "2",
+                          "Ruby": {
+                            "Rt": "きゆう",
+                            "#text": "嗅"
+                          },
+                          "#text": "この場合において、第十九条中「様式第七号による受験申請書」とあるのは「様式第九号による覚検査受検申請書」と、第二十条中「様式第八号」とあるのは「様式第十号」と読み替えるものとする。"
+                        }
+                      ]
+                    }
+                  }
+                }
+              },
+              {
+                "@Num": "5",
+                "SectionTitle": "第五節　指定機関",
+                "Article": [
+                  {
+                    "@Num": "22",
+                    "ArticleCaption": "（指定機関）",
+                    "ArticleTitle": "第二十二条",
+                    "Paragraph": [
+                      {
+                        "@Num": "1",
+                        "ParagraphNum": null,
+                        "ParagraphSentence": {
+                          "Sentence": "環境大臣は、法第十三条第二項に規定する指定機関（以下「指定機関」という。）に同項に規定する試験検査事務（以下「試験検査事務」という。）を行わせることとしたときは、試験検査事務を行わないものとする。"
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "ParagraphNum": "２",
+                        "ParagraphSentence": {
+                          "Sentence": "環境大臣は、第十二条から第十六条まで及び第十七条第三項に規定する免状に関する事務（以下「免状に関する事務」という。）を指定機関に行わせることができる。"
+                        }
+                      },
+                      {
+                        "@Num": "3",
+                        "ParagraphNum": "３",
+                        "ParagraphSentence": {
+                          "Sentence": "第一項の規定は、免状に関する事務に準用する。"
+                        }
+                      },
+                      {
+                        "@Num": "4",
+                        "ParagraphNum": "４",
+                        "ParagraphSentence": {
+                          "Sentence": "指定機関が試験検査事務及び免状に関する事務を行う場合における第十二条から第十六条まで、第十七条第三項、第十九条（前条において準用する場合を含む。）及び第二十条（前条において準用する場合を含む。）の規定の適用については、これらの規定中「環境大臣」とあるのは、「法第十三条第二項に規定する指定機関」と読み替えるものとする。"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Num": "23",
+                    "ArticleCaption": "（指定の申請）",
+                    "ArticleTitle": "第二十三条",
+                    "Paragraph": [
+                      {
+                        "@Num": "1",
+                        "ParagraphNum": null,
+                        "ParagraphSentence": {
+                          "Sentence": "指定機関の指定は、試験検査事務を行おうとする者の申請により行う。"
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "ParagraphNum": "２",
+                        "ParagraphSentence": {
+                          "Sentence": "前項の申請をしようとする者は、様式第十一号による申請書に次に掲げる書類を添えて、これを環境大臣に提出しなければならない。"
+                        },
+                        "Item": [
+                          {
+                            "@Num": "1",
+                            "ItemTitle": "一",
+                            "ItemSentence": {
+                              "Sentence": "定款及び登記事項証明書"
+                            }
+                          },
+                          {
+                            "@Num": "2",
+                            "ItemTitle": "二",
+                            "ItemSentence": {
+                              "Sentence": "役員の名簿及び履歴書"
+                            }
+                          },
+                          {
+                            "@Num": "3",
+                            "ItemTitle": "三",
+                            "ItemSentence": {
+                              "Sentence": "申請の日の属する事業年度の直前の事業年度末における財産目録及び貸借対照表"
+                            }
+                          },
+                          {
+                            "@Num": "4",
+                            "ItemTitle": "四",
+                            "ItemSentence": {
+                              "Sentence": "申請の日の属する事業年度の事業計画書及び収支予算書並びに当該事業年度の翌事業年度から申請の日から起算して五年を経過した日の属する事業年度までの各事業年度の事業の実施及び収支に係る計画を記載した書類"
+                            }
+                          },
+                          {
+                            "@Num": "5",
+                            "ItemTitle": "五",
+                            "ItemSentence": {
+                              "Sentence": "試験検査事務の実施に関する事務組織を記載した書類"
+                            }
+                          },
+                          {
+                            "@Num": "6",
+                            "ItemTitle": "六",
+                            "ItemSentence": {
+                              "Sentence": "法第十三条第二項に規定する指定の基準に適合することを証する書類"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "@Num": "3",
+                        "ParagraphNum": "３",
+                        "ParagraphSentence": {
+                          "Sentence": "前項第四号に掲げる書類は、試験検査事務に係る事業と他の事業に係る事項を区分して記載したものでなければならない。"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Num": "24",
+                    "ArticleCaption": "（指定の付款）",
+                    "ArticleTitle": "第二十四条",
+                    "Paragraph": {
+                      "@Num": "1",
+                      "ParagraphNum": null,
+                      "ParagraphSentence": {
+                        "Sentence": "法第十三条第二項の指定には、期限を付し、又は次に掲げる事項に関して必要な条件を付することができる。"
+                      },
+                      "Item": [
+                        {
+                          "@Num": "1",
+                          "ItemTitle": "一",
+                          "ItemSentence": {
+                            "Sentence": "指定機関の役員の選任又は解任"
+                          }
+                        },
+                        {
+                          "@Num": "2",
+                          "ItemTitle": "二",
+                          "ItemSentence": {
+                            "Sentence": {
+                              "Ruby": [
+                                {
+                                  "Rt": "きゆう",
+                                  "#text": "嗅"
+                                },
+                                {
+                                  "Rt": "きゆう",
+                                  "#text": "嗅"
+                                }
+                              ],
+                              "#text": "指定機関の試験委員（指定機関が、臭気判定士試験に関する事務のうち臭気指数等に係る測定に関する必要な知識を有するかどうかの判定に関する事務を行う場合において、当該事務を行う者をいう。）又は検査委員（指定機関が覚検査に関する事務のうち臭気指数に係る測定に関する覚についての適性を有するかどうかの判定に関する事務を行う場合において、当該事務を行う者をいう。）の選任又は解任"
+                            }
+                          }
+                        },
+                        {
+                          "@Num": "3",
+                          "ItemTitle": "三",
+                          "ItemSentence": {
+                            "Sentence": "試験検査事務の実施に関する規程の作成又は変更"
+                          }
+                        },
+                        {
+                          "@Num": "4",
+                          "ItemTitle": "四",
+                          "ItemSentence": {
+                            "Sentence": {
+                              "Ruby": {
+                                "Rt": "きゆう",
+                                "#text": "嗅"
+                              },
+                              "#text": "臭気判定士試験及び覚検査の結果の環境大臣への報告"
+                            }
+                          }
+                        },
+                        {
+                          "@Num": "5",
+                          "ItemTitle": "五",
+                          "ItemSentence": {
+                            "Sentence": "指定の取消し"
+                          }
+                        },
+                        {
+                          "@Num": "6",
+                          "ItemTitle": "六",
+                          "ItemSentence": {
+                            "Sentence": "前各号に掲げるもののほか試験検査事務の実施に関し必要な事項"
+                          }
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "@Num": "6",
+                "SectionTitle": "第六節　手数料等",
+                "Article": [
+                  {
+                    "@Num": "25",
+                    "ArticleCaption": "（手数料）",
+                    "ArticleTitle": "第二十五条",
+                    "Paragraph": [
+                      {
+                        "@Num": "1",
+                        "ParagraphNum": null,
+                        "ParagraphSentence": {
+                          "Sentence": "次の各号に掲げる者は、当該各号に定める額の手数料を国（第二十三条第二項の規定により、指定機関に免状に関する事務を行わせる場合にあっては、当該指定機関）に納付しなければならない。"
+                        },
+                        "Item": [
+                          {
+                            "@Num": "1",
+                            "ItemTitle": "一",
+                            "ItemSentence": {
+                              "Column": [
+                                {
+                                  "@Num": "1",
+                                  "Sentence": "第十二条第一項の免状の交付を受けようとする者"
+                                },
+                                {
+                                  "@Num": "2",
+                                  "Sentence": "三千五百円"
+                                }
+                              ]
+                            }
+                          },
+                          {
+                            "@Num": "2",
+                            "ItemTitle": "二",
+                            "ItemSentence": {
+                              "Column": [
+                                {
+                                  "@Num": "1",
+                                  "Sentence": "第十四条第一項の免状の更新、第十五条第一項の免状の再交付又は第十六条第一項の免状の書換えを受けようとする者"
+                                },
+                                {
+                                  "@Num": "2",
+                                  "Sentence": "三千円"
+                                }
+                              ]
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "@Num": "2",
+                        "ParagraphNum": "２",
+                        "ParagraphSentence": {
+                          "Sentence": "指定機関に納付された手数料は、指定機関の収入とする。"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Num": "26",
+                    "ArticleCaption": "（フレキシブルディスクによる手続）",
+                    "ArticleTitle": "第二十六条",
+                    "Paragraph": [
+                      {
+                        "@Num": "1",
+                        "ParagraphNum": null,
+                        "ParagraphSentence": {
+                          "Sentence": "申請者は次の各号に掲げる申請書の提出に代えて、当該申請書の各欄に掲げる事項を記録したフレキシブルディスク及び様式第十二号のフレキシブルディスク提出書を、環境大臣（第二十二条第一項及び第二項の規定により、指定機関に試験検査事務及び免状に関する事務を行わせる場合にあっては、当該指定機関の代表者）に提出することができる。"
+                        },
+                        "Item": [
+                          {
+                            "@Num": "1",
+                            "ItemTitle": "一",
+                            "ItemSentence": {
+                              "Sentence": "様式第二号による申請書"
+                            }
+                          },
+                          {
+                            "@Num": "2",
+                            "ItemTitle": "二",
+                            "ItemSentence": {
+                              "Sentence": "様式第三号による申請書"
+                            }
+                          },
+                          {
+                            "@Num": "3",
+                            "ItemTitle": "三",
+                            "ItemSentence": {
+                              "Sentence": "様式第四号による申請書"
+                            }
+                          },
+                          {
+                            "@Num": "4",
+                            "ItemTitle": "四",
+                            "ItemSentence": {
+                              "Sentence": "様式第五号による申請書"
+                            }
+                          },
+                          {
+                            "@Num": "5",
+                            "ItemTitle": "五",
+                            "ItemSentence": {
+                              "Sentence": "様式第七号による申請書"
+                            }
+                          },
+                          {
+                            "@Num": "6",
+                            "ItemTitle": "六",
+                            "ItemSentence": {
+                              "Sentence": "様式第九号による申請書"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "@Num": "2",
+                        "ParagraphNum": "２",
+                        "ParagraphSentence": {
+                          "Sentence": "前項のフレキシブルディスクは、次の各号のいずれかに該当するものでなければならない。"
+                        },
+                        "Item": [
+                          {
+                            "@Num": "1",
+                            "ItemTitle": "一",
+                            "ItemSentence": {
+                              "Sentence": "日本工業規格Ｘ六二二一に適合する九十ミリメートルフレキシブルディスクカートリッジ"
+                            }
+                          },
+                          {
+                            "@Num": "2",
+                            "ItemTitle": "二",
+                            "ItemSentence": {
+                              "Sentence": "日本工業規格Ｘ六二二三に適合する九十ミリメートルフレキシブルディスクカートリッジ"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "@Num": "3",
+                        "ParagraphNum": "３",
+                        "ParagraphSentence": {
+                          "Sentence": "第一項の規定によるフレキシブルディスクへの記録は、次に掲げる方式に従ってしなければならない。"
+                        },
+                        "Item": [
+                          {
+                            "@Num": "1",
+                            "ItemTitle": "一",
+                            "ItemSentence": {
+                              "Sentence": "トラックフォーマットについては、前項第一号のフレキシブルディスクに記録する場合にあっては日本工業規格Ｘ六二二二、同項第二号のフレキシブルディスクに記録する場合にあっては日本工業規格Ｘ六二二五"
+                            }
+                          },
+                          {
+                            "@Num": "2",
+                            "ItemTitle": "二",
+                            "ItemSentence": {
+                              "Sentence": "ボリューム及びファイル構成については、日本工業規格Ｘ〇六〇五"
+                            }
+                          },
+                          {
+                            "@Num": "3",
+                            "ItemTitle": "三",
+                            "ItemSentence": {
+                              "Sentence": "文字の符号化表現については、日本工業規格Ｘ〇二〇八付属書一"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "@Num": "4",
+                        "ParagraphNum": "４",
+                        "ParagraphSentence": {
+                          "Sentence": "第一項の規定によるフレキシブルディスクへの記録は、日本工業規格Ｘ〇二〇一及びＸ〇二〇八による図形文字並びに日本工業規格Ｘ〇二一一による制御文字のうち「復帰」及び「改行」を用いてしなければならない。"
+                        }
+                      },
+                      {
+                        "@Num": "5",
+                        "ParagraphNum": "５",
+                        "ParagraphSentence": {
+                          "Sentence": "第一項のフレキシブルディスクには、日本工業規格Ｘ六二二一又はＸ六二二三によるラベル領域に、次に掲げる事項を記載した書面をはり付けなければならない。"
+                        },
+                        "Item": [
+                          {
+                            "@Num": "1",
+                            "ItemTitle": "一",
+                            "ItemSentence": {
+                              "Sentence": "申請者の氏名"
+                            }
+                          },
+                          {
+                            "@Num": "2",
+                            "ItemTitle": "二",
+                            "ItemSentence": {
+                              "Sentence": "申請年月日"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@Num": "27",
+                    "ArticleCaption": "（立入検査の身分証明書）",
+                    "ArticleTitle": "第二十七条",
+                    "Paragraph": {
+                      "@Num": "1",
+                      "ParagraphNum": null,
+                      "ParagraphSentence": {
+                        "Sentence": "法第二十条第三項の証明書の様式は、立入検査が同条第一項の規定により行われる場合にあっては様式第十三号、同条第二項により行われる場合にあっては様式第十四号のとおりとする。"
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "SupplProvision": [
+        {
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この府令は、法の施行の日（昭和四十七年五月三十一日）から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "昭和五一年九月一八日総理府令第四九号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この府令は、昭和五十一年十月一日から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成元年九月二七日総理府令第五〇号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この府令は、平成二年四月一日から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成五年六月一八日総理府令第三四号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この府令は、平成六年四月一日から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成六年四月二一日総理府令第二三号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": [
+            {
+              "@Num": "1",
+              "ParagraphNum": "１",
+              "ParagraphSentence": {
+                "Sentence": "この府令は、平成七年四月一日から施行する。"
+              }
+            },
+            {
+              "@Num": "2",
+              "ParagraphNum": "２",
+              "ParagraphSentence": {
+                "Sentence": "メチルメルカプタンについては、この府令による改正後の悪臭防止法施行規則第三条に定める方法により算出した排出水中の濃度の値が一リットルにつき〇・〇〇二ミリグラム未満の場合に係る排出水中の濃度の許容限度は、当分の間、一リットルにつき〇・〇〇二ミリグラムとする。"
+              }
+            }
+          ]
+        },
+        {
+          "@AmendLawNum": "平成七年九月一二日総理府令第四二号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": [
+            {
+              "@Num": "1",
+              "ParagraphNum": "１",
+              "ParagraphSentence": {
+                "Sentence": [
+                  {
+                    "@Function": "main",
+                    "@Num": "1",
+                    "#text": "この府令は、悪臭防止法の一部を改正する法律の施行の日（平成八年四月一日）から施行する。"
+                  },
+                  {
+                    "@Function": "proviso",
+                    "@Num": "2",
+                    "#text": "ただし、この府令による改正後の悪臭防止法施行規則（以下「改正悪臭防止法施行規則」という。）第二十三条の規定は、公布の日から施行する。"
+                  }
+                ]
+              }
+            },
+            {
+              "@Num": "2",
+              "ParagraphNum": "２",
+              "ParagraphSentence": {
+                "Sentence": "法第四条第二項第三号の規定に基づく環境省令が施行されるまでの間は、悪臭防止法の一部を改正する法律附則第三条の規定により読み替えられた法第四条第二項の規定による規制基準の設定については、法第四条第一項第一号の規制基準に代えて同条第二項第一号の規制基準を、同条第一項第二号の規制基準に代えて同条第二項第二号の規制基準を定めることができるものとする。"
+              }
+            },
+            {
+              "@Num": "3",
+              "ParagraphNum": "３",
+              "ParagraphSentence": {
+                "Sentence": {
+                  "Ruby": {
+                    "Rt": "きゆう",
+                    "#text": "嗅"
+                  },
+                  "#text": "この府令の施行の際覚を用いる臭気の判定試験に関する知識及び技能の審査・証明事業の認定に関する規程第一条第一項の規定に基づく審査・証明事業（平成五年一月環境庁告示第四号）により臭気判定技士の登録を受けている者（以下「登録臭気判定技士」という。）は、改正悪臭防止法施行規則第十二条第一項の規定にかかわらず、平成九年三月三十一日までの間は、免状の交付を受けている者とみなす。"
+                }
+              }
+            },
+            {
+              "@Num": "4",
+              "ParagraphNum": "４",
+              "ParagraphSentence": {
+                "Sentence": [
+                  {
+                    "@Function": "main",
+                    "@Num": "1",
+                    "#text": "環境庁長官（改正悪臭防止法施行規則第二十二条第一項の規定により、指定機関に指定事務を行わせる場合にあっては、当該指定機関）は、登録臭気判定技士であって環境庁長官が指定する臭気指数の測定に関する講習会の課程を平成八年十二月三十一日までに修了したものに対して、免状を交付することができる。"
+                  },
+                  {
+                    "@Function": "proviso",
+                    "@Num": "2",
+                    "#text": "ただし、登録臭気判定技士が臭気指数の測定に関し不正の行為を行ったと認めるとき又は登録臭気判定技士が法に規定する罪を犯したときは、免状を交付しないものとする。"
+                  }
+                ]
+              }
+            },
+            {
+              "@Num": "5",
+              "ParagraphNum": "５",
+              "ParagraphSentence": {
+                "Sentence": "前項の規定により免状の交付を受けようとする者は、平成九年一月三十一日までの間に、附則様式による申請書に次に掲げる書類を添えて、これを環境庁長官（改正悪臭防止法施行規則第二十二条第一項の規定により、指定機関に指定事務を行わせる場合にあっては、当該指定機関）に提出しなければならない。"
+              },
+              "Item": [
+                {
+                  "@Num": "1",
+                  "ItemTitle": "一",
+                  "ItemSentence": {
+                    "Sentence": "戸籍の謄本又は抄本"
+                  }
+                },
+                {
+                  "@Num": "2",
+                  "ItemTitle": "二",
+                  "ItemSentence": {
+                    "Sentence": "登録臭気判定技士であることを証する書類"
+                  }
+                },
+                {
+                  "@Num": "3",
+                  "ItemTitle": "三",
+                  "ItemSentence": {
+                    "Sentence": "前項の環境庁長官の指定する臭気指数の測定に関する講習会の課程を修了していることを証する書類"
+                  }
+                }
+              ]
+            }
+          ],
+          "SupplProvisionAppdxTable": {
+            "SupplProvisionAppdxTableTitle": "附則様式（附則第５項関係）"
+          }
+        },
+        {
+          "@AmendLawNum": "平成九年一二月一五日総理府令第六二号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": [
+            {
+              "@Num": "1",
+              "ParagraphNum": "１",
+              "ParagraphSentence": {
+                "Sentence": "この府令は、公布の日から施行する。"
+              }
+            },
+            {
+              "@Num": "2",
+              "ParagraphNum": "２",
+              "ParagraphSentence": {
+                "Sentence": "この府令の施行の際現に交付されている臭気判定士免状の有効期間については、なお従前の例による。"
+              }
+            }
+          ]
+        },
+        {
+          "@AmendLawNum": "平成一一年三月一二日総理府令第一〇号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": [
+                {
+                  "@Function": "main",
+                  "@Num": "1",
+                  "#text": "この府令は、平成十一年九月十三日から施行する。"
+                },
+                {
+                  "@Function": "proviso",
+                  "@Num": "2",
+                  "#text": "ただし、悪臭防止法施行規則第十四条第一項並びに第十八条第一項及び第四項の改正規定は、公布の日から施行する。"
+                }
+              ]
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成一一年三月三一日総理府令第二六号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": [
+            {
+              "@Num": "1",
+              "ParagraphNum": "１",
+              "ParagraphSentence": {
+                "Sentence": "この府令は、平成十一年十月一日から施行する。"
+              }
+            },
+            {
+              "@Num": "2",
+              "ParagraphNum": "２",
+              "ParagraphSentence": {
+                "Sentence": "この府令の施行の際現にあるこの府令による改正前の様式による用紙については、当分の間、これを使用することができる。"
+              }
+            }
+          ]
+        },
+        {
+          "@AmendLawNum": "平成一二年二月八日総理府令第七号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Article": {
+            "@Num": "1",
+            "ArticleCaption": "（施行期日）",
+            "ArticleTitle": "第一条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": [
+                  {
+                    "@Function": "main",
+                    "@Num": "1",
+                    "#text": "この府令は、平成十二年四月一日から施行する。"
+                  },
+                  {
+                    "@Function": "proviso",
+                    "@Num": "2",
+                    "#text": "ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。"
+                  }
+                ]
+              },
+              "Item": {
+                "@Num": "1",
+                "ItemTitle": "一",
+                "ItemSentence": {
+                  "Column": [
+                    {
+                      "@Num": "1",
+                      "Sentence": "第三条中水質汚濁防止法施行規則様式第一の改正規定、第六条中悪臭防止法施行規則目次の改正規定、第七条中瀬戸内海環境保全特別措置法施行規則様式第一及び様式第二の改正規定、第九条中湖沼水質保全特別措置法施行規則第三条及び第十一条の改正規定並びに第十一条中特定水道利水障害の防止のための水道水源水域の水質の保全に関する特別措置法施行規則第八条及び第十五条の改正規定"
+                    },
+                    {
+                      "@Num": "2",
+                      "Sentence": "公布の日"
+                    }
+                  ]
+                }
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成一二年六月一五日総理府令第六一号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": [
+                {
+                  "@Function": "main",
+                  "@Num": "1",
+                  "#text": "この府令は、平成十三年四月一日から施行する。"
+                },
+                {
+                  "@Function": "proviso",
+                  "@Num": "2",
+                  "#text": "ただし、目次の改正規定、第三章第三節の節名の改正規定及び第二十条の次に一条を加える改正規定は、公布の日から施行する。"
+                }
+              ]
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成一二年八月一四日総理府令第九四号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": [
+            {
+              "@Num": "1",
+              "ParagraphNum": "１",
+              "ParagraphSentence": {
+                "Sentence": "この府令は、内閣法の一部を改正する法律（平成十一年法律第八十八号）の施行の日（平成十三年一月六日）から施行する。"
+              }
+            },
+            {
+              "@Num": "2",
+              "ParagraphNum": "２",
+              "ParagraphSentence": {
+                "Sentence": "この府令の施行の日の前日において従前の環境庁の臨時水俣病認定審査会の委員である者の任期は、第一条の規定による廃止前の臨時水俣病認定審査会の組織等に関する総理府令第二条の規定にかかわらず、その日に満了する。"
+              }
+            }
+          ]
+        },
+        {
+          "@AmendLawNum": "平成一三年三月二一日環境省令第六号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": [
+            {
+              "@Num": "1",
+              "ParagraphCaption": "（施行期日）",
+              "ParagraphNum": "１",
+              "ParagraphSentence": {
+                "Sentence": "この省令は、平成十三年四月一日から施行する。"
+              }
+            },
+            {
+              "@Num": "2",
+              "ParagraphCaption": "（経過措置）",
+              "ParagraphNum": "２",
+              "ParagraphSentence": {
+                "Sentence": "この省令の施行の際第十二条第一項に規定する臭気判定士免状（次項において「旧免状」という。）の交付を受けていない者であって、この省令による改正前の悪臭防止法施行規則（以下「旧規則」という。）第十八条の試験に合格したもののうち次に掲げるものは、悪臭防止法第十三条第一項の試験に合格した者とみなす。"
+              },
+              "Item": [
+                {
+                  "@Num": "1",
+                  "ItemTitle": "一",
+                  "ItemSentence": {
+                    "Sentence": "平成十二年四月一日から平成十三年三月三十一日までの間に旧規則第十八条の試験に合格した者"
+                  }
+                },
+                {
+                  "@Num": "2",
+                  "ItemTitle": "二",
+                  "ItemSentence": {
+                    "Sentence": "平成十二年三月三十一日前に旧規則第十八条の試験に合格した者であって、平成十四年三月三十一日までに旧規則第二十条の二の規定に基づき環境大臣が指定する講習を受けたもの"
+                  }
+                }
+              ]
+            },
+            {
+              "@Num": "3",
+              "ParagraphNum": "３",
+              "ParagraphSentence": {
+                "Sentence": "この省令の施行の際現に有効な旧免状の有効期間及び交付の取消しに係る手続に関しては、なお従前の例による。"
+              }
+            }
+          ]
+        },
+        {
+          "@AmendLawNum": "平成一七年三月四日環境省令第三号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この省令は、不動産登記法の施行の日（平成十七年三月七日）から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成一九年四月二〇日環境省令第一一号",
+          "SupplProvisionLabel": "附　則",
+          "Article": [
+            {
+              "@Num": "1",
+              "ArticleCaption": "（施行期日）",
+              "ArticleTitle": "第一条",
+              "Paragraph": {
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": "この省令は、公布の日から施行する。"
+                }
+              }
+            },
+            {
+              "@Num": "2",
+              "ArticleCaption": "（経過措置）",
+              "ArticleTitle": "第二条",
+              "Paragraph": [
+                {
+                  "@Num": "1",
+                  "ParagraphNum": null,
+                  "ParagraphSentence": {
+                    "Sentence": "この省令の施行の際現にあるこの省令による改正前の様式による証明書は、この省令による改正後の様式によるものとみなす。"
+                  }
+                },
+                {
+                  "@Num": "2",
+                  "ParagraphNum": "２",
+                  "ParagraphSentence": {
+                    "Sentence": "この省令の施行の際現にあるこの省令による改正前の様式により調製した用紙は、この省令の施行後においても当分の間、これを取り繕って使用することができる。"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "@AmendLawNum": "平成一九年一二月一三日環境省令第三三号",
+          "SupplProvisionLabel": "附　則",
+          "Article": [
+            {
+              "@Num": "1",
+              "ArticleCaption": "（施行期日）",
+              "ArticleTitle": "第一条",
+              "Paragraph": {
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": "この省令は、平成二十年四月一日から施行する。"
+                }
+              }
+            },
+            {
+              "@Num": "2",
+              "ArticleCaption": "（悪臭防止法施行規則第二十条の二第一項に規定する講習に関する省令の廃止）",
+              "ArticleTitle": "第二条",
+              "Paragraph": {
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": "悪臭防止法施行規則第二十条の二第一項に規定する講習に関する省令（平成十三年環境省令第三十五号）は、廃止する。"
+                }
+              }
+            },
+            {
+              "@Num": "3",
+              "ArticleCaption": "（経過措置）",
+              "ArticleTitle": "第三条",
+              "Paragraph": {
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": "この省令の施行の際現にあるこの省令による改正前の様式第一号による免状は、この省令による改正後の様式第一号によるものとみなす。"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@AmendLawNum": "平成二〇年一二月一日環境省令第一六号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Article": {
+            "@Num": "1",
+            "ArticleCaption": "（施行期日）",
+            "ArticleTitle": "第一条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "この省令は、平成二十年十二月一日から施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成二三年一一月三〇日環境省令第三二号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Article": {
+            "@Num": "1",
+            "ArticleCaption": "（施行期日）",
+            "ArticleTitle": "第一条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "この省令は、平成二十四年四月一日から施行する。"
+              }
+            }
+          }
+        }
+      ],
+      "AppdxTable": [
+        {
+          "AppdxTableTitle": "別表第一",
+          "RelatedArticleNum": "（第一条関係）",
+          "TableStruct": {
+            "Table": {
+              "TableRow": [
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "一"
+                    },
+                    {
+                      "Sentence": "アンモニア"
+                    },
+                    {
+                      "Sentence": "大気中における含有率が百万分の一以上百万分の五以下"
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "二"
+                    },
+                    {
+                      "Sentence": "メチルメルカプタン"
+                    },
+                    {
+                      "Sentence": "大気中における含有率が百万分の〇・〇〇二以上百万分の〇・〇一以下"
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "三"
+                    },
+                    {
+                      "Sentence": "硫化水素"
+                    },
+                    {
+                      "Sentence": "大気中における含有率が百万分の〇・〇二以上百万分の〇・二以下"
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "四"
+                    },
+                    {
+                      "Sentence": "硫化メチル"
+                    },
+                    {
+                      "Sentence": "大気中における含有率が百万分の〇・〇一以上百万分の〇・二以下"
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "五"
+                    },
+                    {
+                      "Sentence": "二硫化メチル"
+                    },
+                    {
+                      "Sentence": "大気中における含有率が百万分の〇・〇〇九以上百万分の〇・一以下"
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "六"
+                    },
+                    {
+                      "Sentence": "トリメチルアミン"
+                    },
+                    {
+                      "Sentence": "大気中における含有率が百万分の〇・〇〇五以上百万分の〇・〇七以下"
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "七"
+                    },
+                    {
+                      "Sentence": "アセトアルデヒド"
+                    },
+                    {
+                      "Sentence": "大気中における含有率が百万分の〇・〇五以上百万分の〇・五以下"
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "八"
+                    },
+                    {
+                      "Sentence": "プロピオンアルデヒド"
+                    },
+                    {
+                      "Sentence": "大気中における含有率が百万分の〇・〇五以上百万分の〇・五以下"
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "九"
+                    },
+                    {
+                      "Sentence": "ノルマルブチルアルデヒド"
+                    },
+                    {
+                      "Sentence": "大気中における含有率が百万分の〇・〇〇九以上百万分の〇・〇八以下"
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "十"
+                    },
+                    {
+                      "Sentence": "イソブチルアルデヒド"
+                    },
+                    {
+                      "Sentence": "大気中における含有率が百万分の〇・〇二以上百万分の〇・二以下"
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "十一"
+                    },
+                    {
+                      "Sentence": "ノルマルバレルアルデヒド"
+                    },
+                    {
+                      "Sentence": "大気中における含有率が百万分の〇・〇〇九以上百万分の〇・〇五以下"
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "十二"
+                    },
+                    {
+                      "Sentence": "イソバレルアルデヒド"
+                    },
+                    {
+                      "Sentence": "大気中における含有率が百万分の〇・〇〇三以上百万分の〇・〇一以下"
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "十三"
+                    },
+                    {
+                      "Sentence": "イソブタノール"
+                    },
+                    {
+                      "Sentence": "大気中における含有率が百万分の〇・九以上百万分の二十以下"
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "十四"
+                    },
+                    {
+                      "Sentence": "酢酸エチル"
+                    },
+                    {
+                      "Sentence": "大気中における含有率が百万分の三以上百万分の二十以下"
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "十五"
+                    },
+                    {
+                      "Sentence": "メチルイソブチルケトン"
+                    },
+                    {
+                      "Sentence": "大気中における含有率が百万分の一以上百万分の六以下"
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "十六"
+                    },
+                    {
+                      "Sentence": "トルエン"
+                    },
+                    {
+                      "Sentence": "大気中における含有率が百万分の十以上百万分の六十以下"
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "十七"
+                    },
+                    {
+                      "Sentence": "スチレン"
+                    },
+                    {
+                      "Sentence": "大気中における含有率が百万分の〇・四以上百万分の二以下"
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "十八"
+                    },
+                    {
+                      "Sentence": "キシレン"
+                    },
+                    {
+                      "Sentence": "大気中における含有率が百万分の一以上百万分の五以下"
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "十九"
+                    },
+                    {
+                      "Sentence": "プロピオン酸"
+                    },
+                    {
+                      "Sentence": "大気中における含有率が百万分の〇・〇三以上百万分の〇・二以下"
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "二十"
+                    },
+                    {
+                      "Sentence": "ノルマル酪酸"
+                    },
+                    {
+                      "Sentence": "大気中における含有率が百万分の〇・〇〇一以上百万分の〇・〇〇六以下"
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "二十一"
+                    },
+                    {
+                      "Sentence": "ノルマル吉草酸"
+                    },
+                    {
+                      "Sentence": "大気中における含有率が百万分の〇・〇〇〇九以上百万分の〇・〇〇四以下"
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "二十二"
+                    },
+                    {
+                      "Sentence": "イソ吉草酸"
+                    },
+                    {
+                      "Sentence": "大気中における含有率が百万分の〇・〇〇一以上百万分の〇・〇一以下"
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        },
+        {
+          "AppdxTableTitle": "別表第二",
+          "RelatedArticleNum": "（第四条関係）",
+          "TableStruct": {
+            "Table": {
+              "TableRow": [
+                {
+                  "TableColumn": [
+                    {
+                      "@rowspan": "3",
+                      "Sentence": "一"
+                    },
+                    {
+                      "@rowspan": "3",
+                      "Sentence": "メチルメルカプタン"
+                    },
+                    {
+                      "Sentence": "〇・〇〇一立方メートル毎秒以下の場合"
+                    },
+                    {
+                      "Sentence": "十六"
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "〇・〇〇一立方メートル毎秒を超え、〇・一立方メートル毎秒以下の場合"
+                    },
+                    {
+                      "Sentence": "三・四"
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "〇・一立方メートル毎秒を超える場合"
+                    },
+                    {
+                      "Sentence": "〇・七一"
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "@rowspan": "3",
+                      "Sentence": "二"
+                    },
+                    {
+                      "@rowspan": "3",
+                      "Sentence": "硫化水素"
+                    },
+                    {
+                      "Sentence": "〇・〇〇一立方メートル毎秒以下の場合"
+                    },
+                    {
+                      "Sentence": "五・六"
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "〇・〇〇一立方メートル毎秒を超え、〇・一立方メートル毎秒以下の場合"
+                    },
+                    {
+                      "Sentence": "一・二"
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "〇・一立方メートル毎秒を超える場合"
+                    },
+                    {
+                      "Sentence": "〇・二六"
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "@rowspan": "3",
+                      "Sentence": "三"
+                    },
+                    {
+                      "@rowspan": "3",
+                      "Sentence": "硫化メチル"
+                    },
+                    {
+                      "Sentence": "〇・〇〇一立方メートル毎秒以下の場合"
+                    },
+                    {
+                      "Sentence": "三十二"
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "〇・〇〇一立方メートル毎秒を超え、〇・一立方メートル毎秒以下の場合"
+                    },
+                    {
+                      "Sentence": "六・九"
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "〇・一立方メートル毎秒を超える場合"
+                    },
+                    {
+                      "Sentence": "一・四"
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "@rowspan": "3",
+                      "Sentence": "四"
+                    },
+                    {
+                      "@rowspan": "3",
+                      "Sentence": "二硫化メチル"
+                    },
+                    {
+                      "Sentence": "〇・〇〇一立方メートル毎秒以下の場合"
+                    },
+                    {
+                      "Sentence": "六十三"
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "〇・〇〇一立方メートル毎秒を超え、〇・一立方メートル毎秒以下の場合"
+                    },
+                    {
+                      "Sentence": "十四"
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "Sentence": "〇・一立方メートル毎秒を超える場合"
+                    },
+                    {
+                      "Sentence": "二・九"
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        },
+        {
+          "AppdxTableTitle": "別表第三",
+          "RelatedArticleNum": "（第六条の二関係）",
+          "TableStruct": {
+            "Table": {
+              "TableRow": {
+                "TableColumn": {
+                  "@BorderBottom": "none",
+                  "@BorderLeft": "none",
+                  "@BorderRight": "none",
+                  "@BorderTop": "none",
+                  "Sentence": "Ｆ（ｘ）＝（１）／（３．１４σｙσ２）ｅｘｐ（－（Ｈｃ（ｘ））２）／（２σｚ２）"
+                }
+              }
+            },
+            "Remarks": {
+              "RemarksLabel": "備考",
+              "Item": {
+                "@Num": "1",
+                "ItemTitle": null,
+                "ItemSentence": {
+                  "Sentence": "この式において、ｘ、σy、σ2及びＨc（ｘ）は、それぞれ次の値を表すものとする。"
+                },
+                "List": [
+                  {
+                    "ListSentence": {
+                      "Sentence": "ｘ　排出口からの風下距離（単位　メートル）"
+                    }
+                  },
+                  {
+                    "ListSentence": {
+                      "Sentence": "σｙ　環境大臣が定める方法により周辺最大建物の影響を考慮して算出される、排出口からの風下距離に応じた排出ガスの水平方向拡散幅（単位　メートル）"
+                    }
+                  },
+                  {
+                    "ListSentence": {
+                      "Sentence": "σｚ　環境大臣が定める方法により周辺最大建物の影響を考慮して算出される、排出口からの風下距離に応じた排出ガスの鉛直方向拡散幅（単位　メートル）"
+                    }
+                  },
+                  {
+                    "ListSentence": {
+                      "Sentence": "Ｈc（ｘ）　次式により算出される、排出口からの風下距離に応じた排出ガスの流れの中心軸の高さ（単位　メートル）。ただし、次式におけるＨiと△Ｈdの和が周辺最大建物の高さの〇・五倍未満となる場合、〇メートル。"
+                    }
+                  },
+                  {
+                    "ListSentence": {
+                      "Sentence": "Ｈｃ（ｘ） ＝Ｈｉ＋△Ｈ＋△Ｈｄ"
+                    }
+                  },
+                  {
+                    "ListSentence": {
+                      "Sentence": "（この式において、Ｈｉ、△Ｈ及び△Ｈｄは、それぞれ次の値を表すものとする。"
+                    }
+                  },
+                  {
+                    "ListSentence": {
+                      "Sentence": "Ｈｉ　第二項に掲げる方法により算出される初期排出高さ（単位　メートル）。"
+                    }
+                  },
+                  {
+                    "ListSentence": {
+                      "Sentence": "△Ｈ　環境大臣が定める方法により算出される、排出口からの風下距離に応じた排出ガスの流れの中心軸の上昇高さ（単位　メートル）"
+                    }
+                  },
+                  {
+                    "ListSentence": {
+                      "Sentence": "△Ｈｄ　次表の上欄に掲げる初期排出高さの区分ごとに同表の下欄に掲げる式により算出される周辺最大建物の影響による排出ガスの流れの中心軸の低下高さ（単位　メートル）"
+                    }
+                  }
+                ],
+                "TableStruct": {
+                  "Table": {
+                    "TableRow": [
+                      {
+                        "TableColumn": [
+                          {
+                            "Sentence": "ＨｉがＨｂ未満の場合"
+                          },
+                          {
+                            "Sentence": "－１．５Ｈｂ"
+                          }
+                        ]
+                      },
+                      {
+                        "TableColumn": [
+                          {
+                            "Sentence": "ＨｉがＨｂ以上Ｈｂの二・五倍未満の場合"
+                          },
+                          {
+                            "Sentence": "Ｈｉ－２．５Ｈｂ"
+                          }
+                        ]
+                      },
+                      {
+                        "TableColumn": [
+                          {
+                            "Sentence": "ＨｉがＨｂの二・五倍以上の場合"
+                          },
+                          {
+                            "Sentence": "〇"
+                          }
+                        ]
+                      },
+                      {
+                        "TableColumn": {
+                          "@colspan": "2",
+                          "Sentence": "この表において、Ｈｉは第二項に掲げる方法により算出される初期排出高さ（単位　メートル）を、Ｈｂは周辺最大建物の高さ（単位　メートル）を表すものとする。）"
+                        }
+                      }
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "AppdxStyle": [
+        {
+          "AppdxStyleTitle": "様式第１号",
+          "RelatedArticleNum": "（第１２条関係）",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/S47F03101000039-001.pdf"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": "様式第２号",
+          "RelatedArticleNum": "（第１３条関係）",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/S47F03101000039-002.pdf"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": "様式第３号",
+          "RelatedArticleNum": "（第１４条関係）",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/S47F03101000039-003.pdf"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": "様式第４号",
+          "RelatedArticleNum": "（第１５条関係）",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/S47F03101000039-004.pdf"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": "様式第５号",
+          "RelatedArticleNum": "（第１６条関係）",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/S47F03101000039-005.pdf"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": "様式第６号　削除"
+        },
+        {
+          "AppdxStyleTitle": "様式第７号",
+          "RelatedArticleNum": "（第１９条関係）",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/S47F03101000039-006.pdf"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": "様式第８号",
+          "RelatedArticleNum": "（第２０条関係）",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/S47F03101000039-007.pdf"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": "様式第９号",
+          "RelatedArticleNum": "（第２１条関係）",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/S47F03101000039-008.pdf"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": "様式第１０号",
+          "RelatedArticleNum": "（第２１条関係）",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/S47F03101000039-009.pdf"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": "様式第１１号",
+          "RelatedArticleNum": "（第２３条関係）",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/S47F03101000039-010.pdf"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": "様式第１２号",
+          "RelatedArticleNum": "（第２６条関係）",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/S47F03101000039-011.pdf"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": "様式第１３号",
+          "RelatedArticleNum": "（第２７条関係）",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/S47F03101000039-012.pdf"
+              }
+            }
+          }
+        },
+        {
+          "AppdxStyleTitle": "様式第１４号",
+          "RelatedArticleNum": "（第２７条関係）",
+          "StyleStruct": {
+            "Style": {
+              "Fig": {
+                "@src": "./pict/S47F03101000039-013.pdf"
+              }
+            }
+          }
+        }
+      ]
+    }
+  }
+}

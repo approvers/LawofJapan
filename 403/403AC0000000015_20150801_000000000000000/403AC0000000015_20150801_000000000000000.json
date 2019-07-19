@@ -1,0 +1,75 @@
+{
+  "Law": {
+    "@Era": "Heisei",
+    "@Lang": "ja",
+    "@LawType": "Act",
+    "@Num": "15",
+    "@Year": "03",
+    "LawNum": "平成三年法律第十五号",
+    "LawBody": {
+      "LawTitle": "国の補助金等の臨時特例等に関する法律　抄",
+      "MainProvision": {
+        "Chapter": {
+          "@Delete": "false",
+          "@Hide": "false",
+          "@Num": "8",
+          "ChapterTitle": "第八章　地方公共団体に対する財政金融上の措置",
+          "Article": {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "34",
+            "ArticleCaption": "（地方公共団体に対する財政金融上の措置）",
+            "ArticleTitle": "第三十四条",
+            "Paragraph": {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "国は、この法律の規定による改正後の法律の規定により平成三年度及び平成四年度の予算に係る国の負担又は補助の割合の引下げ措置の対象となる地方公共団体に対し、その事務又は事業の執行及び財政運営に支障を生ずることのないよう財政金融上の措置を講ずるものとする。"
+                }
+              }
+            }
+          }
+        }
+      },
+      "SupplProvision": [
+        {
+          "@Extract": "false",
+          "@Type": "New",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphNum": "１",
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この法律は、平成三年四月一日から施行する。"
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成五年三月三一日法律第八号",
+          "@Extract": "true",
+          "@Type": "Amend",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphCaption": "（施行期日等）",
+            "ParagraphNum": "１",
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この法律は、平成五年四月一日から施行する。"
+              }
+            }
+          }
+        }
+      ]
+    }
+  }
+}

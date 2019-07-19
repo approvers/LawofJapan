@@ -1,0 +1,68 @@
+{
+  "Law": {
+    "@Era": "Heisei",
+    "@Lang": "ja",
+    "@LawType": "CabinetOrder",
+    "@Num": "058",
+    "@Year": "28",
+    "LawNum": "平成二十八年政令第五十八号",
+    "LawBody": {
+      "LawTitle": "独立行政法人海技教育機構法第十四条第一項の規定による医療法施行令の規定の技術的読替え等に関する政令",
+      "EnactStatement": "内閣は、独立行政法人海技教育機構法（平成十一年法律第二百十四号）第十四条第一項及び医療法（昭和二十三年法律第二百五号）第三十条の二の規定に基づき、この政令を制定する。",
+      "MainProvision": {
+        "Article": [
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "1",
+            "ArticleCaption": "（技術的読替え）",
+            "ArticleTitle": "第一条",
+            "Paragraph": {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "独立行政法人海技教育機構法第十四条第一項の規定により独立行政法人海技教育機構について医療法施行令（昭和二十三年政令第三百二十六号）第一条の規定を適用する場合においては、同条の表の下欄中「主務大臣」とあるのは、「独立行政法人海技教育機構」とする。"
+                }
+              }
+            }
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "2",
+            "ArticleCaption": "（医療法施行令第四条の五の規定の適用の特例）",
+            "ArticleTitle": "第二条",
+            "Paragraph": {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "医療法施行令第四条の五の規定の適用については、独立行政法人海技教育機構は、国とみなす。"
+                }
+              }
+            }
+          }
+        ]
+      },
+      "SupplProvision": {
+        "SupplProvisionLabel": "附　則",
+        "Paragraph": {
+          "@Hide": "false",
+          "@Num": "1",
+          "ParagraphNum": null,
+          "ParagraphSentence": {
+            "Sentence": {
+              "@WritingMode": "vertical",
+              "#text": "この政令は、平成二十八年四月一日から施行する。"
+            }
+          }
+        }
+      }
+    }
+  }
+}

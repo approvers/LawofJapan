@@ -1,0 +1,55 @@
+{
+  "Law": {
+    "@Era": "Showa",
+    "@Lang": "ja",
+    "@LawType": "Act",
+    "@Num": "23",
+    "@Year": "26",
+    "LawNum": "昭和二十六年法律第二十三号",
+    "LawBody": {
+      "LawTitle": "郵政事業特別会計の歳入不足を補てんするための一般会計からする繰入金に関する法律",
+      "MainProvision": {
+        "Paragraph": [
+          {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphNum": "１",
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "政府は、郵政事業特別会計の歳入不足を補てんするため、昭和二十六年度において、一般会計から、三十五億八千三百八十三万五千円を限り、この会計に繰り入れることができる。"
+              }
+            }
+          },
+          {
+            "@Hide": "false",
+            "@Num": "2",
+            "ParagraphNum": "２",
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "政府は、前項の規定による繰入金については、後日郵政事業特別会計から、その繰入金に相当する金額に達するまでの金額を、予算の定めるところにより、一般会計に繰り入れなければならない。"
+              }
+            }
+          }
+        ]
+      },
+      "SupplProvision": {
+        "@Extract": "false",
+        "@Type": "New",
+        "SupplProvisionLabel": "附　則",
+        "Paragraph": {
+          "@Hide": "false",
+          "@Num": "1",
+          "ParagraphNum": null,
+          "ParagraphSentence": {
+            "Sentence": {
+              "@WritingMode": "vertical",
+              "#text": "この法律は、昭和二十六年四月一日から施行する。"
+            }
+          }
+        }
+      }
+    }
+  }
+}

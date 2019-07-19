@@ -1,0 +1,1756 @@
+{
+  "Law": {
+    "@DataInfo": "190514e03k03m01",
+    "@Era": "Heisei",
+    "@Lang": "ja",
+    "@LawType": "MinisterialOrdinance",
+    "@Num": "046",
+    "@Year": "31",
+    "LawNum": "平成三十一年総務省令第四十六号",
+    "LawBody": {
+      "LawTitle": "経済センサス基礎調査規則",
+      "EnactStatement": "統計法（平成十九年法律第五十三号）第十八条及び統計法施行令（平成二十年政令第三百三十四号）別表第一の一の項の規定に基づき、並びに同法を実施するため、経済センサス基礎調査規則（平成二十年総務省令第百二十五号）の全部を改正する省令を次のように定める。",
+      "MainProvision": {
+        "Article": [
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "1",
+            "ArticleCaption": "（趣旨）",
+            "ArticleTitle": "第一条",
+            "Paragraph": {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "統計法（以下「法」という。）第二条第四項に規定する基幹統計である経済構造統計を作成するための調査のうち経済センサス活動調査規則（平成二十三年総務省・経済産業省令第一号）第一条に規定するもの（以下「経済センサス活動調査」という。）の実施中間年（経済センサス活動調査を実施する年以外の年をいう。以下同じ。）における経済構造統計を作成するための調査のうち報告を求める事項を事業所及び企業の名称、所在地、事業の内容、従業者数その他の基本的事項に限定したもの（以下「経済センサス基礎調査」という。）の実施に関しては、この省令の定めるところによる。"
+                }
+              }
+            }
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "2",
+            "ArticleCaption": "（調査の目的）",
+            "ArticleTitle": "第二条",
+            "Paragraph": {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "経済センサス基礎調査は、全ての産業分野における事業所及び企業の活動状態等の基本的構造を明らかにし、経済センサス活動調査の実施中間年における経済構造統計を作成すること並びに各種統計調査実施のための事業所及び企業の名簿を得ることを目的とする。"
+                }
+              }
+            }
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "3",
+            "ArticleCaption": "（定義）",
+            "ArticleTitle": "第三条",
+            "Paragraph": {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "この省令において、次の各号に掲げる用語の意義は、当該各号に定めるところによる。"
+                }
+              },
+              "Item": [
+                {
+                  "@Delete": "false",
+                  "@Hide": "false",
+                  "@Num": "1",
+                  "ItemTitle": "一",
+                  "ItemSentence": {
+                    "Column": [
+                      {
+                        "@LineBreak": "false",
+                        "@Num": "1",
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "事業所"
+                        }
+                      },
+                      {
+                        "@LineBreak": "false",
+                        "@Num": "2",
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "物の生産又はサービスの提供が事業として行われている一定の場所"
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "@Delete": "false",
+                  "@Hide": "false",
+                  "@Num": "2",
+                  "ItemTitle": "二",
+                  "ItemSentence": {
+                    "Column": [
+                      {
+                        "@LineBreak": "false",
+                        "@Num": "1",
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "企業"
+                        }
+                      },
+                      {
+                        "@LineBreak": "false",
+                        "@Num": "2",
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "法人（国、地方公共団体及び外国の法人を除く。）及び事業を経営する個人"
+                        }
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "4",
+            "ArticleCaption": "（調査の対象）",
+            "ArticleTitle": "第四条",
+            "Paragraph": {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "経済センサス基礎調査は、次に掲げる事業所を除く事業所（以下「調査事業所」という。）について行う。"
+                }
+              },
+              "Item": [
+                {
+                  "@Delete": "false",
+                  "@Hide": "false",
+                  "@Num": "1",
+                  "ItemTitle": "一",
+                  "ItemSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "法第二条第九項に規定する統計基準である日本標準産業分類に掲げる産業のうち次に掲げるものに属する事業所であって、個人の経営に係るもの"
+                    }
+                  },
+                  "Subitem1": [
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "1",
+                      "Subitem1Title": "イ",
+                      "Subitem1Sentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "大分類Ａ―農業、林業"
+                        }
+                      }
+                    },
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "2",
+                      "Subitem1Title": "ロ",
+                      "Subitem1Sentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "大分類Ｂ―漁業"
+                        }
+                      }
+                    }
+                  ]
+                },
+                {
+                  "@Delete": "false",
+                  "@Hide": "false",
+                  "@Num": "2",
+                  "ItemTitle": "二",
+                  "ItemSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "日本標準産業分類に掲げる産業のうち次に掲げるものに属する事業所"
+                    }
+                  },
+                  "Subitem1": [
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "1",
+                      "Subitem1Title": "イ",
+                      "Subitem1Sentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "大分類Ｎ―生活関連サービス業、娯楽業のうち、中分類七九―その他の生活関連サービス業（小分類七九二―家事サービス業に限る。）"
+                        }
+                      }
+                    },
+                    {
+                      "@Delete": "false",
+                      "@Hide": "false",
+                      "@Num": "2",
+                      "Subitem1Title": "ロ",
+                      "Subitem1Sentence": {
+                        "Sentence": {
+                          "@WritingMode": "vertical",
+                          "#text": "大分類Ｒ―サービス業（他に分類されないもの）のうち、中分類九六―外国公務"
+                        }
+                      }
+                    }
+                  ]
+                },
+                {
+                  "@Delete": "false",
+                  "@Hide": "false",
+                  "@Num": "3",
+                  "ItemTitle": "三",
+                  "ItemSentence": {
+                    "Sentence": {
+                      "@WritingMode": "vertical",
+                      "#text": "調査困難地域（東日本大震災（平成二十三年三月十一日に発生した東北地方太平洋沖地震及びこれに伴う原子力発電所の事故による災害をいう。）の影響により経済センサス基礎調査の実施が困難な地域として総務大臣の定める地域）にある事業所"
+                    }
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "5",
+            "ArticleCaption": "（調査の種類）",
+            "ArticleTitle": "第五条",
+            "Paragraph": [
+              {
+                "@Hide": "false",
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "経済センサス基礎調査は、甲調査及び乙調査とする。"
+                  }
+                }
+              },
+              {
+                "@Hide": "false",
+                "@Num": "2",
+                "ParagraphNum": "２",
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "甲調査は、調査事業所のうち、国及び地方公共団体の調査事業所以外の調査事業所について行う。"
+                  }
+                }
+              },
+              {
+                "@Hide": "false",
+                "@Num": "3",
+                "ParagraphNum": "３",
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "乙調査は、国及び地方公共団体の調査事業所について行う。"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "6",
+            "ArticleCaption": "（調査事項等）",
+            "ArticleTitle": "第六条",
+            "Paragraph": [
+              {
+                "@Hide": "false",
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "経済センサス基礎調査は、総務大臣が定める様式による調査票により、調査事業所に係る次に掲げる事項のうち、甲調査の場合には第一号イからソまで及び第二号に掲げる事項を、乙調査の場合には第一号イからハまで、ホ、ツ及びネ並びに第二号に掲げる事項をそれぞれ調査する。"
+                  }
+                },
+                "Item": [
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "1",
+                    "ItemTitle": "一",
+                    "ItemSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "新たに把握した調査事業所（第十条の規定により作成された経済センサス基礎調査調査用名簿に記載されていない事業所をいう。以下同じ。）に関する事項"
+                      }
+                    },
+                    "Subitem1": [
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "1",
+                        "Subitem1Title": "イ",
+                        "Subitem1Sentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "名称及び電話番号"
+                          }
+                        }
+                      },
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "2",
+                        "Subitem1Title": "ロ",
+                        "Subitem1Sentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "所在地"
+                          }
+                        }
+                      },
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "3",
+                        "Subitem1Title": "ハ",
+                        "Subitem1Sentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "活動状態"
+                          }
+                        }
+                      },
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "4",
+                        "Subitem1Title": "ニ",
+                        "Subitem1Sentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "従業者数"
+                          }
+                        }
+                      },
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "5",
+                        "Subitem1Title": "ホ",
+                        "Subitem1Sentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "主な事業の内容"
+                          }
+                        }
+                      },
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "6",
+                        "Subitem1Title": "ヘ",
+                        "Subitem1Sentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "業態"
+                          }
+                        }
+                      },
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "7",
+                        "Subitem1Title": "ト",
+                        "Subitem1Sentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "消費税の税込記入、税抜記入の別"
+                          }
+                        }
+                      },
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "8",
+                        "Subitem1Title": "チ",
+                        "Subitem1Sentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "事業所の年間総売上（収入）金額"
+                          }
+                        }
+                      },
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "9",
+                        "Subitem1Title": "リ",
+                        "Subitem1Sentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "開設時期"
+                          }
+                        }
+                      },
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "10",
+                        "Subitem1Title": "ヌ",
+                        "Subitem1Sentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "経営組織"
+                          }
+                        }
+                      },
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "11",
+                        "Subitem1Title": "ル",
+                        "Subitem1Sentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "法人番号"
+                          }
+                        }
+                      },
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "12",
+                        "Subitem1Title": "ヲ",
+                        "Subitem1Sentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "単独事業所・本所・支所の別"
+                          }
+                        }
+                      },
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "13",
+                        "Subitem1Title": "ワ",
+                        "Subitem1Sentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "本所・本社・本店の名称"
+                          }
+                        }
+                      },
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "14",
+                        "Subitem1Title": "カ",
+                        "Subitem1Sentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "本所・本社・本店の電話番号"
+                          }
+                        }
+                      },
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "15",
+                        "Subitem1Title": "ヨ",
+                        "Subitem1Sentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "本所・本社・本店の所在地"
+                          }
+                        }
+                      },
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "16",
+                        "Subitem1Title": "タ",
+                        "Subitem1Sentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "組織全体の主な事業の内容"
+                          }
+                        }
+                      },
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "17",
+                        "Subitem1Title": "レ",
+                        "Subitem1Sentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "組織全体の年間総売上（収入）金額"
+                          }
+                        }
+                      },
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "18",
+                        "Subitem1Title": "ソ",
+                        "Subitem1Sentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "資本金等の額"
+                          }
+                        }
+                      },
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "19",
+                        "Subitem1Title": "ツ",
+                        "Subitem1Sentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "職員数"
+                          }
+                        }
+                      },
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "20",
+                        "Subitem1Title": "ネ",
+                        "Subitem1Sentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "事業の委託先の名称、電話番号及び所在地"
+                          }
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "2",
+                    "ItemTitle": "二",
+                    "ItemSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "前号以外の調査事業所に関する事項"
+                      }
+                    },
+                    "Subitem1": [
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "1",
+                        "Subitem1Title": "イ",
+                        "Subitem1Sentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "名称"
+                          }
+                        }
+                      },
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "2",
+                        "Subitem1Title": "ロ",
+                        "Subitem1Sentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "所在地"
+                          }
+                        }
+                      },
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "3",
+                        "Subitem1Title": "ハ",
+                        "Subitem1Sentence": {
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "活動状態"
+                          }
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "@Hide": "false",
+                "@Num": "2",
+                "ParagraphNum": "２",
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "総務大臣は、前項の様式を定めたときは告示する。"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "7",
+            "ArticleCaption": "（統計調査員）",
+            "ArticleTitle": "第七条",
+            "Paragraph": [
+              {
+                "@Hide": "false",
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "法第十四条に規定する統計調査員として甲調査の事務に従事させるため都道府県に設置されるものは、次項に規定する事務を適正に執行する能力を有する者（次の各号のいずれかに該当する者を除く。）とする。"
+                  }
+                },
+                "Item": [
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "1",
+                    "ItemTitle": "一",
+                    "ItemSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "国税徴収法（昭和三十四年法律第百四十七号）第二条第十一号に規定する徴収職員及び地方税法（昭和二十五年法律第二百二十六号）第一条第一項第三号に規定する徴税吏員"
+                      }
+                    }
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "2",
+                    "ItemTitle": "二",
+                    "ItemSentence": {
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "警察法（昭和二十九年法律第百六十二号）第三十四条第一項及び第五十五条第一項に規定する警察官"
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "@Hide": "false",
+                "@Num": "2",
+                "ParagraphNum": "２",
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "統計調査員は、市町村長（特別区の長を含む。以下同じ。）の調査実施上の指導を受けて、担当調査区（市町村長から指定された調査区をいう。以下同じ。）内の全ての事業所について、外観による確認又は調査事業所の事業主（当該調査事業所の事業を管理するものをいう。以下同じ。）への質問などによる活動状態等の把握、担当調査区における調査票の配布、担当調査区内にある調査事業所に係る調査区内事業所名簿その他の関係書類の作成及びこれらに附帯する事務を行う。"
+                  }
+                }
+              },
+              {
+                "@Hide": "false",
+                "@Num": "3",
+                "ParagraphNum": "３",
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "都道府県知事は、統計調査員を設置したときは、当該統計調査員の氏名その他総務大臣の定める事項を市町村長に通知し、及び総務大臣に報告するものとする。"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "8",
+            "ArticleCaption": "（統計調査員の身分を示す証票）",
+            "ArticleTitle": "第八条",
+            "Paragraph": [
+              {
+                "@Hide": "false",
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "市町村長は、統計調査員に対し、都道府県知事の発行するその身分を示す証票を交付するものとする。"
+                  }
+                }
+              },
+              {
+                "@Hide": "false",
+                "@Num": "2",
+                "ParagraphNum": "２",
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "統計調査員は、その事務を行うときは、前項の証票を携帯し、必要に応じてこれを提示しなければならない。"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "9",
+            "ArticleCaption": "（調査区の設定及び修正）",
+            "ArticleTitle": "第九条",
+            "Paragraph": [
+              {
+                "@Hide": "false",
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "市町村長は、総務大臣の定めるところにより、当該市町村の区域を区分して調査区を設定するものとする。"
+                  }
+                }
+              },
+              {
+                "@Hide": "false",
+                "@Num": "2",
+                "ParagraphNum": "２",
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "総務大臣は、前項の規定により市町村長が設定した調査区に基づき、調査区地図、調査区台帳その他の調査区関係書類（以下「調査区地図等」という。）を作成する。"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "10",
+            "ArticleCaption": "（名簿の作成）",
+            "ArticleTitle": "第十条",
+            "Paragraph": {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "総務大臣は、経済センサス基礎調査を正確かつ円滑に実施するため、経済センサス基礎調査に先立って、法第二十七条第一項に規定する事業所母集団データベースに記録されている情報に基づいて調査事業所に関する経済センサス基礎調査調査用名簿を作成するものとする。"
+                }
+              }
+            }
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "11",
+            "ArticleCaption": "（調査の方法及び期間）",
+            "ArticleTitle": "第十一条",
+            "Paragraph": [
+              {
+                "@Hide": "false",
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "甲調査は、調査事業所について、次の各号に掲げる区分に応じ、当該各号に定める方法により行う。"
+                  }
+                },
+                "Item": [
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "1",
+                    "ItemTitle": "一",
+                    "ItemSentence": {
+                      "Column": [
+                        {
+                          "@LineBreak": "false",
+                          "@Num": "1",
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "新たに把握した調査事業所"
+                          }
+                        },
+                        {
+                          "@LineBreak": "false",
+                          "@Num": "2",
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "統計調査員が調査票を調査事業所ごとに配布し、及び総務大臣が郵便又は民間事業者による信書の送達に関する法律（平成十四年法律第九十九号）第二条第六項に規定する一般信書便事業者、同条第九項に規定する特定信書便事業者若しくは同法第三条第四号に規定する外国信書便事業者による同法第二条第二項に規定する信書便（第十四条第三項第一号において「郵便等」という。）により当該調査票の提出を受ける方法"
+                          }
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "2",
+                    "ItemTitle": "二",
+                    "ItemSentence": {
+                      "Column": [
+                        {
+                          "@LineBreak": "false",
+                          "@Num": "1",
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "前号以外の調査事業所"
+                          }
+                        },
+                        {
+                          "@LineBreak": "false",
+                          "@Num": "2",
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "統計調査員が外観による確認又は調査事業所の事業主へ質問するなどして調査票に記入する方法"
+                          }
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "@Hide": "false",
+                "@Num": "2",
+                "ParagraphNum": "２",
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "乙調査は、国の調査事業所にあっては総務大臣が、都道府県の調査事業所にあっては都道府県知事が、市町村（特別区を含む。以下同じ。）の調査事業所にあっては市町村長が、特別地方公共団体（特別区を除く。第十四条第三項第二号ニにおいて同じ。）の調査事業所にあっては都道府県知事又は市町村長がそれぞれ調査票を調査事業所ごとに送付し、及び回収することにより行う。"
+                  }
+                }
+              },
+              {
+                "@Hide": "false",
+                "@Num": "3",
+                "ParagraphNum": "３",
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "第一項の規定による甲調査は、平成三十一年六月一日から翌年三月三十一日までの間において、前項の規定による乙調査は、経済センサス活動調査の実施中間年の毎年四月一日から六月三十日までの間においてそれぞれ行う。"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "12",
+            "ArticleCaption": "（事務の委託）",
+            "ArticleTitle": "第十二条",
+            "Paragraph": [
+              {
+                "@Hide": "false",
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "都道府県知事は、多数の事業所がある施設について、当該施設にある調査事業所に係る第七条第二項の規定により統計調査員が行うこととされている事務を当該施設を管理し、又は運営する法人その他の団体に委託して行うことができる。"
+                  }
+                }
+              },
+              {
+                "@Hide": "false",
+                "@Num": "2",
+                "ParagraphNum": "２",
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "前項の場合においては、都道府県知事は、経済センサス基礎調査の結果知られた秘密の漏えいの危険を防止するため、秘密の保護に関する事項を定めた契約の締結その他必要な措置を講じなければならない。"
+                  }
+                }
+              },
+              {
+                "@Hide": "false",
+                "@Num": "3",
+                "ParagraphNum": "３",
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "第一項の場合における次の表の上欄に掲げる規定の適用については、同欄に掲げる規定中同表の中欄に掲げる字句は、それぞれ同表の下欄に掲げる字句とする。"
+                  }
+                },
+                "TableStruct": {
+                  "Table": {
+                    "@WritingMode": "vertical",
+                    "TableRow": [
+                      {
+                        "TableColumn": [
+                          {
+                            "@Align": "left",
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "@Valign": "middle",
+                            "@rowspan": "3",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "第七条第二項"
+                            }
+                          },
+                          {
+                            "@Align": "left",
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "@Valign": "middle",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "統計調査員"
+                            }
+                          },
+                          {
+                            "@Align": "left",
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "@Valign": "middle",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "第十二条第一項の規定により都道府県知事から統計調査員が行うこととされているこの項の事務を委託された多数の事業所がある施設を管理し、又は運営する法人その他の団体（以下「委託管理団体」という。）"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "TableColumn": [
+                          {
+                            "@Align": "left",
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "@Valign": "middle",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "担当調査区（市町村長から指定された調査区をいう。以下同じ。）"
+                            }
+                          },
+                          {
+                            "@Align": "left",
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "@Valign": "middle",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "当該施設（以下「委託管理施設」という。）"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "TableColumn": [
+                          {
+                            "@Align": "left",
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "@Valign": "middle",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "担当調査区"
+                            }
+                          },
+                          {
+                            "@Align": "left",
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "@Valign": "middle",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "委託管理施設"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "TableColumn": [
+                          {
+                            "@Align": "left",
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "@Valign": "middle",
+                            "@rowspan": "2",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "第七条第三項"
+                            }
+                          },
+                          {
+                            "@Align": "left",
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "@Valign": "middle",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "統計調査員を設置した"
+                            }
+                          },
+                          {
+                            "@Align": "left",
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "@Valign": "middle",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "第十二条第一項の規定により統計調査員が行うこととされている第二項の事務を委託した"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "TableColumn": [
+                          {
+                            "@Align": "left",
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "@Valign": "middle",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "当該統計調査員の氏名"
+                            }
+                          },
+                          {
+                            "@Align": "left",
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "@Valign": "middle",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "委託管理団体の名称"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "TableColumn": [
+                          {
+                            "@Align": "left",
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "@Valign": "middle",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "第八条の見出し"
+                            }
+                          },
+                          {
+                            "@Align": "left",
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "@Valign": "middle",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "統計調査員の身分を示す証票"
+                            }
+                          },
+                          {
+                            "@Align": "left",
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "@Valign": "middle",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "委託管理団体証"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "TableColumn": [
+                          {
+                            "@Align": "left",
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "@Valign": "middle",
+                            "@rowspan": "2",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "第八条第一項"
+                            }
+                          },
+                          {
+                            "@Align": "left",
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "@Valign": "middle",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "統計調査員"
+                            }
+                          },
+                          {
+                            "@Align": "left",
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "@Valign": "middle",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "委託管理団体"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "TableColumn": [
+                          {
+                            "@Align": "left",
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "@Valign": "middle",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "その身分を示す証票"
+                            }
+                          },
+                          {
+                            "@Align": "left",
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "@Valign": "middle",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "委託管理団体証"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "TableColumn": [
+                          {
+                            "@Align": "left",
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "@Valign": "middle",
+                            "@rowspan": "3",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "第八条第二項"
+                            }
+                          },
+                          {
+                            "@Align": "left",
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "@Valign": "middle",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "統計調査員"
+                            }
+                          },
+                          {
+                            "@Align": "left",
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "@Valign": "middle",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "委託管理団体に所属する者"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "TableColumn": [
+                          {
+                            "@Align": "left",
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "@Valign": "middle",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "その事務"
+                            }
+                          },
+                          {
+                            "@Align": "left",
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "@Valign": "middle",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "第十二条第一項の規定により委託管理団体が行うこととされている事務"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "TableColumn": [
+                          {
+                            "@Align": "left",
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "@Valign": "middle",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "証票"
+                            }
+                          },
+                          {
+                            "@Align": "left",
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "@Valign": "middle",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "委託管理団体証"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "TableColumn": [
+                          {
+                            "@Align": "left",
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "@Valign": "middle",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "第十一条第一項並びに第十五条第一項及び第二項"
+                            }
+                          },
+                          {
+                            "@Align": "left",
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "@Valign": "middle",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "統計調査員"
+                            }
+                          },
+                          {
+                            "@Align": "left",
+                            "@BorderBottom": "solid",
+                            "@BorderLeft": "solid",
+                            "@BorderRight": "solid",
+                            "@BorderTop": "solid",
+                            "@Valign": "middle",
+                            "Sentence": {
+                              "@WritingMode": "vertical",
+                              "#text": "委託管理団体"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "13",
+            "ArticleCaption": "（期間の変更）",
+            "ArticleTitle": "第十三条",
+            "Paragraph": [
+              {
+                "@Hide": "false",
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "市町村長は、甲調査又は乙調査（市町村長が調査票を送付し、回収する調査事業所に係るものに限る。）に関し、天災その他避けることのできない事故により、第十一条第三項に規定する期間（次項から第四項までにおいて「調査の期間」という。）に当該調査を行うことが困難な場合には、直ちに、その旨を都道府県知事に報告しなければならない。"
+                  }
+                }
+              },
+              {
+                "@Hide": "false",
+                "@Num": "2",
+                "ParagraphNum": "２",
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "都道府県知事は、前項の規定による報告があったとき又は乙調査（都道府県知事が調査票を送付し、回収する調査事業所に係るものに限る。）に関し、天災その他避けることのできない事故により、調査の期間に当該調査を行うことが困難な場合には、直ちに、その旨を総務大臣に報告しなければならない。"
+                  }
+                }
+              },
+              {
+                "@Hide": "false",
+                "@Num": "3",
+                "ParagraphNum": "３",
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "総務大臣は、前項の規定による報告があったとき又は乙調査（総務大臣が調査票を送付し、回収する調査事業所に係るものに限る。）に関し、天災その他避けることのできない事故により調査の期間に当該調査を行うことが困難な場合には、対象となる地域を指定して、調査の期間を変更することができる。"
+                  }
+                }
+              },
+              {
+                "@Hide": "false",
+                "@Num": "4",
+                "ParagraphNum": "４",
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "総務大臣は、前項の規定により調査の期間を変更したときは、その旨を告示しなければならない。"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "14",
+            "ArticleCaption": "（報告の義務及び方法）",
+            "ArticleTitle": "第十四条",
+            "Paragraph": [
+              {
+                "@Hide": "false",
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "第六条第一項に掲げる事項のうち甲調査又は乙調査のそれぞれの調査に係る事項について、調査事業所の事業主が報告しなければならない。"
+                  }
+                }
+              },
+              {
+                "@Hide": "false",
+                "@Num": "2",
+                "ParagraphNum": "２",
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "事業主が不在その他の事由により報告を行うことができないときは、事実上当該事業主に代わる者は、当該事業主に代わって当該報告を行うものとする。"
+                  }
+                }
+              },
+              {
+                "@Hide": "false",
+                "@Num": "3",
+                "ParagraphNum": "３",
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "前二項の規定による報告は、次の各号に掲げる区分に応じ、当該各号に定める方法により行うものとする。"
+                  }
+                },
+                "Item": [
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "1",
+                    "ItemTitle": "一",
+                    "ItemSentence": {
+                      "Column": [
+                        {
+                          "@LineBreak": "false",
+                          "@Num": "1",
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "甲調査"
+                          }
+                        },
+                        {
+                          "@LineBreak": "false",
+                          "@Num": "2",
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "新たに把握した調査事業所にあっては調査票に記入し、及び当該調査票を総務大臣に郵便等により提出する方法、それ以外の調査事業所にあっては統計調査員の質問に答える方法"
+                          }
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "@Delete": "false",
+                    "@Hide": "false",
+                    "@Num": "2",
+                    "ItemTitle": "二",
+                    "ItemSentence": {
+                      "Column": [
+                        {
+                          "@LineBreak": "false",
+                          "@Num": "1",
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "乙調査"
+                          }
+                        },
+                        {
+                          "@LineBreak": "false",
+                          "@Num": "2",
+                          "Sentence": {
+                            "@WritingMode": "vertical",
+                            "#text": "調査票に記入し、及び当該調査票を次に掲げる調査事業所の区分に応じ、当該区分に定める者に提出する方法"
+                          }
+                        }
+                      ]
+                    },
+                    "Subitem1": [
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "1",
+                        "Subitem1Title": "イ",
+                        "Subitem1Sentence": {
+                          "Column": [
+                            {
+                              "@LineBreak": "false",
+                              "@Num": "1",
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "国の調査事業所"
+                              }
+                            },
+                            {
+                              "@LineBreak": "false",
+                              "@Num": "2",
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "総務大臣"
+                              }
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "2",
+                        "Subitem1Title": "ロ",
+                        "Subitem1Sentence": {
+                          "Column": [
+                            {
+                              "@LineBreak": "false",
+                              "@Num": "1",
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "都道府県の調査事業所"
+                              }
+                            },
+                            {
+                              "@LineBreak": "false",
+                              "@Num": "2",
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "都道府県知事"
+                              }
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "3",
+                        "Subitem1Title": "ハ",
+                        "Subitem1Sentence": {
+                          "Column": [
+                            {
+                              "@LineBreak": "false",
+                              "@Num": "1",
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "市町村の調査事業所"
+                              }
+                            },
+                            {
+                              "@LineBreak": "false",
+                              "@Num": "2",
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "市町村長"
+                              }
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "@Delete": "false",
+                        "@Hide": "false",
+                        "@Num": "4",
+                        "Subitem1Title": "ニ",
+                        "Subitem1Sentence": {
+                          "Column": [
+                            {
+                              "@LineBreak": "false",
+                              "@Num": "1",
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "特別地方公共団体の調査事業所"
+                              }
+                            },
+                            {
+                              "@LineBreak": "false",
+                              "@Num": "2",
+                              "Sentence": {
+                                "@WritingMode": "vertical",
+                                "#text": "都道府県知事又は市町村長"
+                              }
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "15",
+            "ArticleCaption": "（調査票等の提出等）",
+            "ArticleTitle": "第十五条",
+            "Paragraph": [
+              {
+                "@Hide": "false",
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "統計調査員は、第十一条第一項第二号の規定により記入した調査票及び調査区内事業所名簿その他の関係書類を市町村長に対しその定める期限までに提出しなければならない。"
+                  }
+                }
+              },
+              {
+                "@Hide": "false",
+                "@Num": "2",
+                "ParagraphNum": "２",
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "市町村長は、前項の規定により統計調査員から提出された調査票及び調査区内事業所名簿その他の関係書類並びに第十一条第二項の規定により調査事業所から提出された調査票を審査し、都道府県知事に対しその定める期限までに提出しなければならない。"
+                  }
+                }
+              },
+              {
+                "@Hide": "false",
+                "@Num": "3",
+                "ParagraphNum": "３",
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "都道府県知事は、前項の規定により市町村長から提出された調査票及び調査区内事業所名簿その他の関係書類並びに第十一条第二項の規定により調査事業所から提出された調査票を審査し、総務大臣に対しその定める期限までに提出しなければならない。"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "16",
+            "ArticleCaption": "（結果の公表等）",
+            "ArticleTitle": "第十六条",
+            "Paragraph": {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "総務大臣は、調査票の審査及び集計を行い、その結果を速やかに公表するものとする。"
+                }
+              }
+            }
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "17",
+            "ArticleCaption": "（事業所及び企業の名簿の作成）",
+            "ArticleTitle": "第十七条",
+            "Paragraph": {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "総務大臣は、調査事業所について、各種統計調査実施のための事業所及び企業の名簿を作成するものとする。"
+                }
+              }
+            }
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "18",
+            "ArticleCaption": "（調査区の管理）",
+            "ArticleTitle": "第十八条",
+            "Paragraph": [
+              {
+                "@Hide": "false",
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "市町村長は、総務大臣の定めるところにより、調査区を管理するものとする。"
+                  }
+                }
+              },
+              {
+                "@Hide": "false",
+                "@Num": "2",
+                "ParagraphNum": "２",
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "市町村長は、調査区について総務大臣の定める事由が生じたときは、総務大臣の定めるところにより、当該調査区を修正するものとする。"
+                  }
+                }
+              },
+              {
+                "@Hide": "false",
+                "@Num": "3",
+                "ParagraphNum": "３",
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "市町村長は、前項の規定に基づき調査区を修正したときは、総務大臣の定めるところにより、調査区地図等を修正しなければならない。"
+                  }
+                }
+              },
+              {
+                "@Hide": "false",
+                "@Num": "4",
+                "ParagraphNum": "４",
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "市町村長は、都道府県知事に対し前項の規定に基づき修正した調査区地図等の有無を報告するとともに、同項の規定に基づき修正した調査区地図等があるときは、当該調査区地図等を併せて提出しなければならない。"
+                  }
+                }
+              },
+              {
+                "@Hide": "false",
+                "@Num": "5",
+                "ParagraphNum": "５",
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "都道府県知事は、総務大臣に対し前項の規定による市町村長の報告を取りまとめて報告するとともに、同項の規定により市町村長が提出した調査区地図等を審査し、提出しなければならない。"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "19",
+            "ArticleCaption": "（調査票等の保存）",
+            "ArticleTitle": "第十九条",
+            "Paragraph": {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "総務省統計局長は、調査票を三年間、調査票の内容が転写されている電磁的記録（電子的方式、磁気的方式その他人の知覚によっては認識することができない方式で作られた記録をいう。以下この条において同じ。）及び結果原表が転写されている電磁的記録を永年保存するものとする。"
+                }
+              }
+            }
+          }
+        ]
+      },
+      "SupplProvision": {
+        "@Extract": "true",
+        "SupplProvisionLabel": "附　則",
+        "Article": {
+          "@Delete": "false",
+          "@Hide": "false",
+          "@Num": "1",
+          "ArticleCaption": "（施行期日）",
+          "ArticleTitle": "第一条",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "この省令は、公布の日から施行する。"
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

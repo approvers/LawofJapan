@@ -1,0 +1,101 @@
+{
+  "Law": {
+    "@Era": "Meiji",
+    "@Lang": "ja",
+    "@LawType": "Act",
+    "@Num": "50",
+    "@Year": "32",
+    "LawNum": "明治三十二年法律第五十号",
+    "LawBody": {
+      "LawTitle": "明治三十二年法律第五十号（外国人ノ署名捺印及無資力証明ニ関スル法律）",
+      "MainProvision": {
+        "Article": [
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "1",
+            "ArticleTitle": "第一条",
+            "Paragraph": [
+              {
+                "@Hide": "false",
+                "@Num": "1",
+                "ParagraphNum": null,
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "法令ノ規定ニ依リ署名、捺印スヘキ場合ニ於テハ外国人ハ署名スルヲ以テ足ル"
+                  }
+                }
+              },
+              {
+                "@Hide": "false",
+                "@Num": "2",
+                "ParagraphNum": "○２",
+                "ParagraphSentence": {
+                  "Sentence": {
+                    "@WritingMode": "vertical",
+                    "#text": "捺印ノミヲ為スヘキ場合ニ於テハ外国人ハ署名ヲ以テ捺印ニ代フルコトヲ得"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "2",
+            "ArticleTitle": "第二条",
+            "Paragraph": {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "削除"
+                }
+              }
+            }
+          }
+        ]
+      },
+      "SupplProvision": [
+        {
+          "SupplProvisionLabel": "附　則",
+          "Article": {
+            "@Delete": "false",
+            "@Hide": "false",
+            "@Num": "3",
+            "ArticleTitle": "第三条",
+            "Paragraph": {
+              "@Hide": "false",
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": {
+                  "@WritingMode": "vertical",
+                  "#text": "本法施行ノ期日ハ勅令ヲ以テ之ヲ定ム"
+                }
+              }
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "大正一五年四月二四日法律第七一号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Hide": "false",
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": {
+                "@WritingMode": "vertical",
+                "#text": "本法施行ノ期日ハ勅令ヲ以テ之ヲ定ム"
+              }
+            }
+          }
+        }
+      ]
+    }
+  }
+}

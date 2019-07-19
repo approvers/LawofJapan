@@ -1,0 +1,112 @@
+{
+  "Law": {
+    "@Era": "Heisei",
+    "@Lang": "ja",
+    "@LawType": "CabinetOrder",
+    "@Num": "289",
+    "@Year": "30",
+    "LawNum": "平成三十年政令第二百八十九号",
+    "LawBody": {
+      "LawTitle": "平成三十年北海道胆振東部地震による災害についての激甚災害及びこれに対し適用すべき措置の指定に関する政令",
+      "EnactStatement": {
+        "Ruby": {
+          "Rt": "じん",
+          "#text": "甚"
+        },
+        "#text": "内閣は、激災害に対処するための特別の財政援助等に関する法律（昭和三十七年法律第百五十号）第二条第一項及び第二項の規定に基づき、この政令を制定する。"
+      },
+      "MainProvision": {
+        "Paragraph": {
+          "@Hide": "false",
+          "@Num": "1",
+          "ParagraphNum": null,
+          "ParagraphSentence": {
+            "Sentence": {
+              "@WritingMode": "vertical",
+              "Ruby": {
+                "Rt": "じん",
+                "#text": "甚"
+              },
+              "#text": "次の表の上欄に掲げる災害を激災害に対処するための特別の財政援助等に関する法律（以下「法」という。）第二条第一項の激甚災害として指定し、当該激甚災害に対し適用すべき措置を同表の下欄に掲げるとおり指定する。"
+            }
+          },
+          "TableStruct": {
+            "Table": {
+              "@WritingMode": "vertical",
+              "TableRow": [
+                {
+                  "TableColumn": [
+                    {
+                      "@Align": "center",
+                      "@BorderBottom": "solid",
+                      "@BorderLeft": "solid",
+                      "@BorderRight": "solid",
+                      "@BorderTop": "solid",
+                      "@Valign": "top",
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "激甚災害"
+                      }
+                    },
+                    {
+                      "@Align": "center",
+                      "@BorderBottom": "solid",
+                      "@BorderLeft": "solid",
+                      "@BorderRight": "solid",
+                      "@BorderTop": "solid",
+                      "@Valign": "top",
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "適用すべき措置"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "TableColumn": [
+                    {
+                      "@BorderBottom": "solid",
+                      "@BorderLeft": "solid",
+                      "@BorderRight": "solid",
+                      "@BorderTop": "solid",
+                      "@Valign": "top",
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "平成三十年北海道胆振東部地震による災害"
+                      }
+                    },
+                    {
+                      "@BorderBottom": "solid",
+                      "@BorderLeft": "solid",
+                      "@BorderRight": "solid",
+                      "@BorderTop": "solid",
+                      "@Valign": "top",
+                      "Sentence": {
+                        "@WritingMode": "vertical",
+                        "#text": "法第三条から第六条まで、第十六条、第十七条、第十九条、第二十条及び第二十四条に規定する措置並びに北海道勇払郡厚真町、安平町及びむかわ町の区域に係る激甚災害にあっては、法第十二条に規定する措置"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        }
+      },
+      "SupplProvision": {
+        "SupplProvisionLabel": "附　則",
+        "Paragraph": {
+          "@Hide": "false",
+          "@Num": "1",
+          "ParagraphNum": null,
+          "ParagraphSentence": {
+            "Sentence": {
+              "@WritingMode": "vertical",
+              "#text": "この政令は、公布の日から施行する。"
+            }
+          }
+        }
+      }
+    }
+  }
+}

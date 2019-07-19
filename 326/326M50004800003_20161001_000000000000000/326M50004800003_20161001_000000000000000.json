@@ -1,0 +1,2175 @@
+{
+  "Law": {
+    "@Era": "Showa",
+    "@Lang": "ja",
+    "@LawType": "MinisterialOrdinance",
+    "@Num": "003",
+    "@Year": "26",
+    "LawNum": "昭和二十六年運輸省・建設省令第三号",
+    "LawBody": {
+      "LawTitle": "自動車道標識の様式を定める省令",
+      "EnactStatement": "自動車道標識令（昭和二十六年政令第二百五十二号）第五条の規定に基き、自動車道標識の様式を定める省令を次のように定める。",
+      "MainProvision": {
+        "Paragraph": {
+          "@Num": "1",
+          "ParagraphNum": null,
+          "ParagraphSentence": {
+            "Sentence": "自動車道標識の様式は、別表の通りとする。"
+          }
+        }
+      },
+      "SupplProvision": [
+        {
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この省令は、昭和二十六年十一月一日から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "昭和四〇年一〇月四日運輸省・建設省令第五号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": [
+            {
+              "@Num": "1",
+              "ParagraphNum": "１",
+              "ParagraphSentence": {
+                "Sentence": "この省令は、昭和四十年十二月一日から施行する。"
+              }
+            },
+            {
+              "@Num": "2",
+              "ParagraphNum": "２",
+              "ParagraphSentence": {
+                "Sentence": "この省令の施行の際現に改正前の自動車道標識の様式を定める省令の規定により設置されている自動車道標識の様式のうち、次の表の上欄に掲げる改正前の同省令の規定による事項を表示する自動車道標識の様式は、当分の間、それぞれ同表の下欄に掲げる改正後の同省令の規定による事項を表示する自動車道標識の様式とみなす。"
+              },
+              "TableStruct": {
+                "Table": {
+                  "TableRow": [
+                    {
+                      "TableColumn": [
+                        {
+                          "Sentence": "著名な地点"
+                        },
+                        {
+                          "Sentence": "著名な地点"
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "Sentence": "待避所があること。"
+                        },
+                        {
+                          "Sentence": "待避所があること。"
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "Sentence": "その区域が駐車場であること。"
+                        },
+                        {
+                          "Sentence": "駐車場があること。"
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "Sentence": "まわり道があること。"
+                        },
+                        {
+                          "Sentence": "まわり道があること。"
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "Sentence": "学校があること。"
+                        },
+                        {
+                          "Sentence": "学校、幼稚園、保育所等があること。"
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "Sentence": "その区域が工事中であること。"
+                        },
+                        {
+                          "Sentence": "工事中であること。"
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "Sentence": "自動車の通行を禁止すること。"
+                        },
+                        {
+                          "Sentence": "自動車の通行を禁止すること。"
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "Sentence": "右折又は左折を禁止すること。"
+                        },
+                        {
+                          "@rowspan": "3",
+                          "Sentence": "指定方向以外の方向への進行を禁止すること。"
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": {
+                        "Sentence": "右折及び直進又は左折及び直進を禁止すること。"
+                      }
+                    },
+                    {
+                      "TableColumn": {
+                        "Sentence": "屈折を禁止すること。"
+                      }
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "Sentence": "転回を禁止すること。"
+                        },
+                        {
+                          "Sentence": "転回を禁止すること。"
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "Sentence": "追い越しを禁止すること。"
+                        },
+                        {
+                          "Sentence": "追越しを禁止すること。"
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "Sentence": "停車を禁止すること。"
+                        },
+                        {
+                          "Sentence": "駐車及び停車を禁止すること。"
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "Sentence": "駐車を禁止すること。"
+                        },
+                        {
+                          "Sentence": "駐車を禁止すること。"
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "Sentence": "車種別及び昼夜間別の制限速度"
+                        },
+                        {
+                          "Sentence": "制限速度"
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "Sentence": "制限重量"
+                        },
+                        {
+                          "Sentence": "制限重量"
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "Sentence": "制限高"
+                        },
+                        {
+                          "Sentence": "制限高"
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "Sentence": "警笛を鳴らして通行する必要があること。"
+                        },
+                        {
+                          "Sentence": "警音器を鳴らして通行する必要があること。"
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "Sentence": "一方通行をする必要があること。"
+                        },
+                        {
+                          "Sentence": "一方通行をする必要があること。"
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "Sentence": "一時停止をする必要があること。"
+                        },
+                        {
+                          "Sentence": "一時停止をする必要があること。"
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "Sentence": "その地点が横断歩道であること。"
+                        },
+                        {
+                          "Sentence": "その地点が横断歩道であること。"
+                        }
+                      ]
+                    },
+                    {
+                      "TableColumn": [
+                        {
+                          "Sentence": "安全地帯があること。"
+                        },
+                        {
+                          "Sentence": "安全地帯があること。"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "@Num": "3",
+              "ParagraphNum": "３",
+              "ParagraphSentence": {
+                "Sentence": "この省令の施行の際現に改正前の自動車道標識の様式を定める省令の規定により設置されている自動車道標識に改正前の同省令の規定により取り付けられている補助板は、当分の間、改正後の同省令の規定による補助標識の標示板とみなす。"
+              }
+            }
+          ]
+        }
+      ],
+      "AppdxTable": {
+        "AppdxTableTitle": "別表",
+        "TableStruct": {
+          "Table": {
+            "TableRow": [
+              {
+                "TableColumn": {
+                  "@colspan": "3",
+                  "Sentence": "案内標識"
+                }
+              },
+              {
+                "TableColumn": {
+                  "@colspan": "3",
+                  "FigStruct": {
+                    "Fig": {
+                      "@src": "./pict/S26F03902005003-001.jpg"
+                    }
+                  }
+                }
+              },
+              {
+                "TableColumn": [
+                  {
+                    "Sentence": "表示すべき事項"
+                  },
+                  {
+                    "Sentence": "標示板の様式"
+                  },
+                  {
+                    "Sentence": "略号"
+                  }
+                ]
+              },
+              {
+                "TableColumn": [
+                  {
+                    "Sentence": "都府県の名称"
+                  },
+                  {
+                    "FigStruct": {
+                      "Fig": {
+                        "@src": "./pict/S26F03902005003-002.jpg"
+                      }
+                    }
+                  },
+                  {
+                    "Sentence": "Ａ１"
+                  }
+                ]
+              },
+              {
+                "TableColumn": [
+                  {
+                    "Sentence": "市町村の名称"
+                  },
+                  {
+                    "FigStruct": {
+                      "Fig": {
+                        "@src": "./pict/S26F03902005003-003.jpg"
+                      }
+                    }
+                  },
+                  {
+                    "Sentence": "Ａ２"
+                  }
+                ]
+              },
+              {
+                "TableColumn": [
+                  {
+                    "@rowspan": "3",
+                    "Sentence": "方面、方向及び距離"
+                  },
+                  {
+                    "FigStruct": {
+                      "Fig": {
+                        "@src": "./pict/S26F03902005003-004.jpg"
+                      }
+                    }
+                  },
+                  {
+                    "Sentence": "Ａ３ａ"
+                  }
+                ]
+              },
+              {
+                "TableColumn": [
+                  {
+                    "FigStruct": {
+                      "Fig": {
+                        "@src": "./pict/S26F03902005003-005.jpg"
+                      }
+                    }
+                  },
+                  {
+                    "Sentence": "Ａ３ｂ"
+                  }
+                ]
+              },
+              {
+                "TableColumn": [
+                  {
+                    "FigStruct": {
+                      "Fig": {
+                        "@src": "./pict/S26F03902005003-006.jpg"
+                      }
+                    }
+                  },
+                  {
+                    "Sentence": "Ａ３ｃ"
+                  }
+                ]
+              },
+              {
+                "TableColumn": [
+                  {
+                    "Sentence": "方面及び距離"
+                  },
+                  {
+                    "FigStruct": {
+                      "Fig": {
+                        "@src": "./pict/S26F03902005003-007.jpg"
+                      }
+                    }
+                  },
+                  {
+                    "Sentence": "Ａ４"
+                  }
+                ]
+              },
+              {
+                "TableColumn": [
+                  {
+                    "Sentence": "方面及び方向"
+                  },
+                  {
+                    "FigStruct": {
+                      "Fig": {
+                        "@src": "./pict/S26F03902005003-008.jpg"
+                      }
+                    }
+                  },
+                  {
+                    "Sentence": "Ａ５"
+                  }
+                ]
+              },
+              {
+                "TableColumn": [
+                  {
+                    "@rowspan": "2",
+                    "Sentence": "その地点が自動車道の入口又は出口であること。"
+                  },
+                  {
+                    "FigStruct": {
+                      "Fig": {
+                        "@src": "./pict/S26F03902005003-009.jpg"
+                      }
+                    }
+                  },
+                  {
+                    "Sentence": "Ａ６ａ"
+                  }
+                ]
+              },
+              {
+                "TableColumn": [
+                  {
+                    "FigStruct": {
+                      "Fig": {
+                        "@src": "./pict/S26F03902005003-010.jpg"
+                      }
+                    }
+                  },
+                  {
+                    "Sentence": "Ａ６ｂ"
+                  }
+                ]
+              },
+              {
+                "TableColumn": [
+                  {
+                    "@rowspan": "2",
+                    "Sentence": "著名な地点"
+                  },
+                  {
+                    "FigStruct": {
+                      "Fig": {
+                        "@src": "./pict/S26F03902005003-011.jpg"
+                      }
+                    }
+                  },
+                  {
+                    "Sentence": "Ａ７ａ"
+                  }
+                ]
+              },
+              {
+                "TableColumn": [
+                  {
+                    "FigStruct": {
+                      "Fig": {
+                        "@src": "./pict/S26F03902005003-012.jpg"
+                      }
+                    }
+                  },
+                  {
+                    "Sentence": "Ａ７ｂ"
+                  }
+                ]
+              },
+              {
+                "TableColumn": [
+                  {
+                    "Sentence": "料金徴収所があること。"
+                  },
+                  {
+                    "FigStruct": {
+                      "Fig": {
+                        "@src": "./pict/S26F03902005003-013.jpg"
+                      }
+                    }
+                  },
+                  {
+                    "Sentence": "Ａ８"
+                  }
+                ]
+              },
+              {
+                "TableColumn": [
+                  {
+                    "Sentence": "待避所があること。"
+                  },
+                  {
+                    "FigStruct": {
+                      "Fig": {
+                        "@src": "./pict/S26F03902005003-014.jpg"
+                      }
+                    }
+                  },
+                  {
+                    "Sentence": "Ａ９"
+                  }
+                ]
+              },
+              {
+                "TableColumn": [
+                  {
+                    "Sentence": "駐車場があること。"
+                  },
+                  {
+                    "FigStruct": {
+                      "Fig": {
+                        "@src": "./pict/S26F03902005003-015.jpg"
+                      }
+                    }
+                  },
+                  {
+                    "Sentence": "Ａ１０"
+                  }
+                ]
+              },
+              {
+                "TableColumn": [
+                  {
+                    "Sentence": "非常電話があること。"
+                  },
+                  {
+                    "FigStruct": {
+                      "Fig": {
+                        "@src": "./pict/S26F03902005003-016.jpg"
+                      }
+                    }
+                  },
+                  {
+                    "Sentence": "Ａ１１"
+                  }
+                ]
+              },
+              {
+                "TableColumn": [
+                  {
+                    "Sentence": "まわり道があること。"
+                  },
+                  {
+                    "FigStruct": {
+                      "Fig": {
+                        "@src": "./pict/S26F03902005003-017.jpg"
+                      }
+                    }
+                  },
+                  {
+                    "Sentence": "Ａ１２"
+                  }
+                ]
+              },
+              {
+                "TableColumn": {
+                  "@colspan": "3",
+                  "Sentence": "警戒標識"
+                }
+              },
+              {
+                "TableColumn": {
+                  "@colspan": "3",
+                  "FigStruct": {
+                    "Fig": {
+                      "@src": "./pict/S26F03902005003-018.jpg"
+                    }
+                  }
+                }
+              },
+              {
+                "TableColumn": [
+                  {
+                    "Sentence": "表示すべき事項"
+                  },
+                  {
+                    "Sentence": "標示板の様式"
+                  },
+                  {
+                    "Sentence": "略号"
+                  }
+                ]
+              },
+              {
+                "TableColumn": [
+                  {
+                    "Sentence": "┼形道路交差点があること。"
+                  },
+                  {
+                    "FigStruct": {
+                      "Fig": {
+                        "@src": "./pict/S26F03902005003-019.jpg"
+                      }
+                    }
+                  },
+                  {
+                    "Sentence": "Ｂ１"
+                  }
+                ]
+              },
+              {
+                "TableColumn": [
+                  {
+                    "Sentence": "├形道路交差点又は┤形道路交差点があること。"
+                  },
+                  {
+                    "FigStruct": {
+                      "Fig": {
+                        "@src": "./pict/S26F03902005003-020.jpg"
+                      }
+                    }
+                  },
+                  {
+                    "Sentence": "Ｂ２"
+                  }
+                ]
+              },
+              {
+                "TableColumn": [
+                  {
+                    "Sentence": "Ｔ形道路交差点があること。"
+                  },
+                  {
+                    "FigStruct": {
+                      "Fig": {
+                        "@src": "./pict/S26F03902005003-021.jpg"
+                      }
+                    }
+                  },
+                  {
+                    "Sentence": "Ｂ３"
+                  }
+                ]
+              },
+              {
+                "TableColumn": [
+                  {
+                    "Sentence": "Ｙ形道路交差点があること。"
+                  },
+                  {
+                    "FigStruct": {
+                      "Fig": {
+                        "@src": "./pict/S26F03902005003-022.jpg"
+                      }
+                    }
+                  },
+                  {
+                    "Sentence": "Ｂ４"
+                  }
+                ]
+              },
+              {
+                "TableColumn": [
+                  {
+                    "Sentence": "右方屈曲又は左方屈曲があること。"
+                  },
+                  {
+                    "FigStruct": {
+                      "Fig": {
+                        "@src": "./pict/S26F03902005003-023.jpg"
+                      }
+                    }
+                  },
+                  {
+                    "Sentence": "Ｂ５"
+                  }
+                ]
+              },
+              {
+                "TableColumn": [
+                  {
+                    "Sentence": "右方屈折又は左方屈折があること。"
+                  },
+                  {
+                    "FigStruct": {
+                      "Fig": {
+                        "@src": "./pict/S26F03902005003-024.jpg"
+                      }
+                    }
+                  },
+                  {
+                    "Sentence": "Ｂ６"
+                  }
+                ]
+              },
+              {
+                "TableColumn": [
+                  {
+                    "Sentence": "右背向屈曲又は左背向屈曲があること。"
+                  },
+                  {
+                    "FigStruct": {
+                      "Fig": {
+                        "@src": "./pict/S26F03902005003-025.jpg"
+                      }
+                    }
+                  },
+                  {
+                    "Sentence": "Ｂ７"
+                  }
+                ]
+              },
+              {
+                "TableColumn": [
+                  {
+                    "Sentence": "右背向屈折又は左背向屈折があること。"
+                  },
+                  {
+                    "FigStruct": {
+                      "Fig": {
+                        "@src": "./pict/S26F03902005003-026.jpg"
+                      }
+                    }
+                  },
+                  {
+                    "Sentence": "Ｂ８"
+                  }
+                ]
+              },
+              {
+                "TableColumn": [
+                  {
+                    "Sentence": "右つづら折り又は左つづら折りがあること。"
+                  },
+                  {
+                    "FigStruct": {
+                      "Fig": {
+                        "@src": "./pict/S26F03902005003-027.jpg"
+                      }
+                    }
+                  },
+                  {
+                    "Sentence": "Ｂ９"
+                  }
+                ]
+              },
+              {
+                "TableColumn": [
+                  {
+                    "Sentence": "踏切があること。"
+                  },
+                  {
+                    "FigStruct": {
+                      "Fig": {
+                        "@src": "./pict/S26F03902005003-028.jpg"
+                      }
+                    }
+                  },
+                  {
+                    "Sentence": "Ｂ１０"
+                  }
+                ]
+              },
+              {
+                "TableColumn": [
+                  {
+                    "Sentence": "学校、幼稚園、保育所等があること。"
+                  },
+                  {
+                    "FigStruct": {
+                      "Fig": {
+                        "@src": "./pict/S26F03902005003-029.jpg"
+                      }
+                    }
+                  },
+                  {
+                    "Sentence": "Ｂ１１"
+                  }
+                ]
+              },
+              {
+                "TableColumn": [
+                  {
+                    "Sentence": "合流交通があること。"
+                  },
+                  {
+                    "FigStruct": {
+                      "Fig": {
+                        "@src": "./pict/S26F03902005003-030.jpg"
+                      }
+                    }
+                  },
+                  {
+                    "Sentence": "Ｂ１２"
+                  }
+                ]
+              },
+              {
+                "TableColumn": [
+                  {
+                    "Sentence": "車線数が減少すること。"
+                  },
+                  {
+                    "FigStruct": {
+                      "Fig": {
+                        "@src": "./pict/S26F03902005003-031.jpg"
+                      }
+                    }
+                  },
+                  {
+                    "Sentence": "Ｂ１３"
+                  }
+                ]
+              },
+              {
+                "TableColumn": [
+                  {
+                    "Sentence": "幅員が減少すること。"
+                  },
+                  {
+                    "FigStruct": {
+                      "Fig": {
+                        "@src": "./pict/S26F03902005003-032.jpg"
+                      }
+                    }
+                  },
+                  {
+                    "Sentence": "Ｂ１４"
+                  }
+                ]
+              },
+              {
+                "TableColumn": [
+                  {
+                    "Sentence": "路面がすべりやすいこと。"
+                  },
+                  {
+                    "FigStruct": {
+                      "Fig": {
+                        "@src": "./pict/S26F03902005003-033.jpg"
+                      }
+                    }
+                  },
+                  {
+                    "Sentence": "Ｂ１５"
+                  }
+                ]
+              },
+              {
+                "TableColumn": [
+                  {
+                    "@rowspan": "2",
+                    "Sentence": {
+                      "Ruby": [
+                        {
+                          "Rt": "こう",
+                          "#text": "勾"
+                        },
+                        {
+                          "Rt": "こう",
+                          "#text": "勾"
+                        }
+                      ],
+                      "#text": "上り急配又は下り急配があること。"
+                    }
+                  },
+                  {
+                    "FigStruct": {
+                      "Fig": {
+                        "@src": "./pict/S26F03902005003-034.jpg"
+                      }
+                    }
+                  },
+                  {
+                    "Sentence": "Ｂ１６ａ"
+                  }
+                ]
+              },
+              {
+                "TableColumn": [
+                  {
+                    "FigStruct": {
+                      "Fig": {
+                        "@src": "./pict/S26F03902005003-035.jpg"
+                      }
+                    }
+                  },
+                  {
+                    "Sentence": "Ｂ１６ｂ"
+                  }
+                ]
+              },
+              {
+                "TableColumn": [
+                  {
+                    "Sentence": "工事中であること。"
+                  },
+                  {
+                    "FigStruct": {
+                      "Fig": {
+                        "@src": "./pict/S26F03902005003-036.jpg"
+                      }
+                    }
+                  },
+                  {
+                    "Sentence": "Ｂ１７"
+                  }
+                ]
+              },
+              {
+                "TableColumn": [
+                  {
+                    "Sentence": "作業中であること。"
+                  },
+                  {
+                    "FigStruct": {
+                      "Fig": {
+                        "@src": "./pict/S26F03902005003-037.jpg"
+                      }
+                    }
+                  },
+                  {
+                    "Sentence": "Ｂ１８"
+                  }
+                ]
+              },
+              {
+                "TableColumn": [
+                  {
+                    "Sentence": "運転上注意する必要があること。"
+                  },
+                  {
+                    "FigStruct": {
+                      "Fig": {
+                        "@src": "./pict/S26F03902005003-038.jpg"
+                      }
+                    }
+                  },
+                  {
+                    "Sentence": "Ｂ１９"
+                  }
+                ]
+              },
+              {
+                "TableColumn": {
+                  "@colspan": "3",
+                  "Sentence": "規制標識"
+                }
+              },
+              {
+                "TableColumn": {
+                  "@colspan": "3",
+                  "FigStruct": {
+                    "Fig": {
+                      "@src": "./pict/S26F03902005003-039.jpg"
+                    }
+                  }
+                }
+              },
+              {
+                "TableColumn": [
+                  {
+                    "Sentence": "表示すべき事項"
+                  },
+                  {
+                    "Sentence": "標示板の様式"
+                  },
+                  {
+                    "Sentence": "略号"
+                  }
+                ]
+              },
+              {
+                "TableColumn": [
+                  {
+                    "Sentence": "自動車の通行を禁止すること。"
+                  },
+                  {
+                    "FigStruct": {
+                      "Fig": {
+                        "@src": "./pict/S26F03902005003-040.jpg"
+                      }
+                    }
+                  },
+                  {
+                    "Sentence": "Ｃ１"
+                  }
+                ]
+              },
+              {
+                "TableColumn": [
+                  {
+                    "Sentence": "進入を禁止すること。"
+                  },
+                  {
+                    "FigStruct": {
+                      "Fig": {
+                        "@src": "./pict/S26F03902005003-041.jpg"
+                      }
+                    }
+                  },
+                  {
+                    "Sentence": "Ｃ２"
+                  }
+                ]
+              },
+              {
+                "TableColumn": [
+                  {
+                    "@rowspan": "5",
+                    "Sentence": "指定方向以外の方向への進行を禁止すること。"
+                  },
+                  {
+                    "FigStruct": {
+                      "Fig": {
+                        "@src": "./pict/S26F03902005003-042.jpg"
+                      }
+                    }
+                  },
+                  {
+                    "Sentence": "Ｃ３ａ"
+                  }
+                ]
+              },
+              {
+                "TableColumn": [
+                  {
+                    "FigStruct": {
+                      "Fig": {
+                        "@src": "./pict/S26F03902005003-043.jpg"
+                      }
+                    }
+                  },
+                  {
+                    "Sentence": "Ｃ３ｂ"
+                  }
+                ]
+              },
+              {
+                "TableColumn": [
+                  {
+                    "FigStruct": {
+                      "Fig": {
+                        "@src": "./pict/S26F03902005003-044.jpg"
+                      }
+                    }
+                  },
+                  {
+                    "Sentence": "Ｃ３ｃ"
+                  }
+                ]
+              },
+              {
+                "TableColumn": [
+                  {
+                    "FigStruct": {
+                      "Fig": {
+                        "@src": "./pict/S26F03902005003-045.jpg"
+                      }
+                    }
+                  },
+                  {
+                    "Sentence": "Ｃ３ｄ"
+                  }
+                ]
+              },
+              {
+                "TableColumn": [
+                  {
+                    "FigStruct": {
+                      "Fig": {
+                        "@src": "./pict/S26F03902005003-046.jpg"
+                      }
+                    }
+                  },
+                  {
+                    "Sentence": "Ｃ３ｅ"
+                  }
+                ]
+              },
+              {
+                "TableColumn": [
+                  {
+                    "Sentence": "横断（左横断を除く。）を禁止すること。"
+                  },
+                  {
+                    "FigStruct": {
+                      "Fig": {
+                        "@src": "./pict/S26F03902005003-047.jpg"
+                      }
+                    }
+                  },
+                  {
+                    "Sentence": "Ｃ４"
+                  }
+                ]
+              },
+              {
+                "TableColumn": [
+                  {
+                    "Sentence": "転回を禁止すること。"
+                  },
+                  {
+                    "FigStruct": {
+                      "Fig": {
+                        "@src": "./pict/S26F03902005003-048.jpg"
+                      }
+                    }
+                  },
+                  {
+                    "Sentence": "Ｃ５"
+                  }
+                ]
+              },
+              {
+                "TableColumn": [
+                  {
+                    "Sentence": "追越しを禁止すること。"
+                  },
+                  {
+                    "FigStruct": {
+                      "Fig": {
+                        "@src": "./pict/S26F03902005003-049.jpg"
+                      }
+                    }
+                  },
+                  {
+                    "Sentence": "Ｃ６"
+                  }
+                ]
+              },
+              {
+                "TableColumn": [
+                  {
+                    "Sentence": "駐車及び停車を禁止すること。"
+                  },
+                  {
+                    "FigStruct": {
+                      "Fig": {
+                        "@src": "./pict/S26F03902005003-050.jpg"
+                      }
+                    }
+                  },
+                  {
+                    "Sentence": "Ｃ７"
+                  }
+                ]
+              },
+              {
+                "TableColumn": [
+                  {
+                    "Sentence": "駐車を禁止すること。"
+                  },
+                  {
+                    "FigStruct": {
+                      "Fig": {
+                        "@src": "./pict/S26F03902005003-051.jpg"
+                      }
+                    }
+                  },
+                  {
+                    "Sentence": "Ｃ８"
+                  }
+                ]
+              },
+              {
+                "TableColumn": [
+                  {
+                    "Sentence": "制限速度"
+                  },
+                  {
+                    "FigStruct": {
+                      "Fig": {
+                        "@src": "./pict/S26F03902005003-052.jpg"
+                      }
+                    }
+                  },
+                  {
+                    "Sentence": "Ｃ９"
+                  }
+                ]
+              },
+              {
+                "TableColumn": [
+                  {
+                    "Sentence": "制限重量"
+                  },
+                  {
+                    "FigStruct": {
+                      "Fig": {
+                        "@src": "./pict/S26F03902005003-053.jpg"
+                      }
+                    }
+                  },
+                  {
+                    "Sentence": "Ｃ１０"
+                  }
+                ]
+              },
+              {
+                "TableColumn": [
+                  {
+                    "Sentence": "制限高"
+                  },
+                  {
+                    "FigStruct": {
+                      "Fig": {
+                        "@src": "./pict/S26F03902005003-054.jpg"
+                      }
+                    }
+                  },
+                  {
+                    "Sentence": "Ｃ１１"
+                  }
+                ]
+              },
+              {
+                "TableColumn": [
+                  {
+                    "Sentence": "警音器を鳴らして通行する必要があること。"
+                  },
+                  {
+                    "FigStruct": {
+                      "Fig": {
+                        "@src": "./pict/S26F03902005003-055.jpg"
+                      }
+                    }
+                  },
+                  {
+                    "Sentence": "Ｃ１２"
+                  }
+                ]
+              },
+              {
+                "TableColumn": [
+                  {
+                    "Sentence": "一方通行をする必要があること。"
+                  },
+                  {
+                    "FigStruct": {
+                      "Fig": {
+                        "@src": "./pict/S26F03902005003-056.jpg"
+                      }
+                    }
+                  },
+                  {
+                    "Sentence": "Ｃ１３"
+                  }
+                ]
+              },
+              {
+                "TableColumn": [
+                  {
+                    "Sentence": "徐行をする必要があること。"
+                  },
+                  {
+                    "FigStruct": {
+                      "Fig": {
+                        "@src": "./pict/S26F03902005003-057.jpg"
+                      }
+                    }
+                  },
+                  {
+                    "Sentence": "Ｃ１４"
+                  }
+                ]
+              },
+              {
+                "TableColumn": [
+                  {
+                    "Sentence": "一時停止をする必要があること。"
+                  },
+                  {
+                    "FigStruct": {
+                      "Fig": {
+                        "@src": "./pict/S26F03902005003-058.jpg"
+                      }
+                    }
+                  },
+                  {
+                    "Sentence": "Ｃ１５"
+                  }
+                ]
+              },
+              {
+                "TableColumn": {
+                  "@colspan": "3",
+                  "Sentence": "指示標識"
+                }
+              },
+              {
+                "TableColumn": {
+                  "@colspan": "3",
+                  "FigStruct": {
+                    "Fig": {
+                      "@src": "./pict/S26F03902005003-059.jpg"
+                    }
+                  }
+                }
+              },
+              {
+                "TableColumn": [
+                  {
+                    "Sentence": "表示すべき事項"
+                  },
+                  {
+                    "Sentence": "標示板の様式"
+                  },
+                  {
+                    "Sentence": "略号"
+                  }
+                ]
+              },
+              {
+                "TableColumn": [
+                  {
+                    "@rowspan": "2",
+                    "Sentence": "その地点が横断歩道であること。"
+                  },
+                  {
+                    "FigStruct": {
+                      "Fig": {
+                        "@src": "./pict/S26F03902005003-060.jpg"
+                      }
+                    }
+                  },
+                  {
+                    "Sentence": "Ｄ１ａ"
+                  }
+                ]
+              },
+              {
+                "TableColumn": [
+                  {
+                    "FigStruct": {
+                      "Fig": {
+                        "@src": "./pict/S26F03902005003-061.jpg"
+                      }
+                    }
+                  },
+                  {
+                    "Sentence": "Ｄ１ｂ"
+                  }
+                ]
+              },
+              {
+                "TableColumn": [
+                  {
+                    "Sentence": "安全地帯があること。"
+                  },
+                  {
+                    "FigStruct": {
+                      "Fig": {
+                        "@src": "./pict/S26F03902005003-062.jpg"
+                      }
+                    }
+                  },
+                  {
+                    "Sentence": "Ｄ２"
+                  }
+                ]
+              },
+              {
+                "TableColumn": [
+                  {
+                    "Sentence": "規制予告"
+                  },
+                  {
+                    "FigStruct": {
+                      "Fig": {
+                        "@src": "./pict/S26F03902005003-063.jpg"
+                      }
+                    }
+                  },
+                  {
+                    "Sentence": "Ｄ３"
+                  }
+                ]
+              },
+              {
+                "TableColumn": {
+                  "@colspan": "3",
+                  "Sentence": "補助標識"
+                }
+              },
+              {
+                "TableColumn": {
+                  "@colspan": "3",
+                  "FigStruct": {
+                    "Fig": {
+                      "@src": "./pict/S26F03902005003-064.jpg"
+                    }
+                  }
+                }
+              },
+              {
+                "TableColumn": [
+                  {
+                    "Sentence": "表示すべき事項"
+                  },
+                  {
+                    "Sentence": "標示板の様式"
+                  },
+                  {
+                    "Sentence": "略号"
+                  }
+                ]
+              },
+              {
+                "TableColumn": [
+                  {
+                    "Sentence": "本標識が表示する施設又は場所までの距離"
+                  },
+                  {
+                    "FigStruct": {
+                      "Fig": {
+                        "@src": "./pict/S26F03902005003-065.jpg"
+                      }
+                    }
+                  },
+                  {
+                    "Sentence": "Ｅ１"
+                  }
+                ]
+              },
+              {
+                "TableColumn": [
+                  {
+                    "Sentence": "本標識が表示する施設又は場所の方向"
+                  },
+                  {
+                    "FigStruct": {
+                      "Fig": {
+                        "@src": "./pict/S26F03902005003-066.jpg"
+                      }
+                    }
+                  },
+                  {
+                    "Sentence": "Ｅ２"
+                  }
+                ]
+              },
+              {
+                "TableColumn": [
+                  {
+                    "Sentence": "本標識が表示する事項を補足するために必要な事項"
+                  },
+                  {
+                    "FigStruct": {
+                      "Fig": {
+                        "@src": "./pict/S26F03902005003-067.jpg"
+                      }
+                    }
+                  },
+                  {
+                    "Sentence": "Ｅ３"
+                  }
+                ]
+              },
+              {
+                "TableColumn": [
+                  {
+                    "@rowspan": "2",
+                    "Sentence": "本標識が表示する規制の日又は時間"
+                  },
+                  {
+                    "FigStruct": {
+                      "Fig": {
+                        "@src": "./pict/S26F03902005003-068.jpg"
+                      }
+                    }
+                  },
+                  {
+                    "Sentence": "Ｅ４ａ"
+                  }
+                ]
+              },
+              {
+                "TableColumn": [
+                  {
+                    "FigStruct": {
+                      "Fig": {
+                        "@src": "./pict/S26F03902005003-069.jpg"
+                      }
+                    }
+                  },
+                  {
+                    "Sentence": "Ｅ４ｂ"
+                  }
+                ]
+              },
+              {
+                "TableColumn": [
+                  {
+                    "Sentence": "本標識が表示する規制の対象となる自動車の種類"
+                  },
+                  {
+                    "FigStruct": {
+                      "Fig": {
+                        "@src": "./pict/S26F03902005003-070.jpg"
+                      }
+                    }
+                  },
+                  {
+                    "Sentence": "Ｅ５"
+                  }
+                ]
+              },
+              {
+                "TableColumn": [
+                  {
+                    "Sentence": "本標識が表示する規制の区間の距離"
+                  },
+                  {
+                    "FigStruct": {
+                      "Fig": {
+                        "@src": "./pict/S26F03902005003-071.jpg"
+                      }
+                    }
+                  },
+                  {
+                    "Sentence": "Ｅ６"
+                  }
+                ]
+              },
+              {
+                "TableColumn": [
+                  {
+                    "Sentence": "本標識が表示する規制の区間の始まり"
+                  },
+                  {
+                    "FigStruct": {
+                      "Fig": {
+                        "@src": "./pict/S26F03902005003-072.jpg"
+                      }
+                    }
+                  },
+                  {
+                    "Sentence": "Ｅ７"
+                  }
+                ]
+              },
+              {
+                "TableColumn": [
+                  {
+                    "Sentence": "本標識が表示する規制の区間内であること。"
+                  },
+                  {
+                    "FigStruct": {
+                      "Fig": {
+                        "@src": "./pict/S26F03902005003-073.jpg"
+                      }
+                    }
+                  },
+                  {
+                    "Sentence": "Ｅ８"
+                  }
+                ]
+              },
+              {
+                "TableColumn": [
+                  {
+                    "@rowspan": "2",
+                    "Sentence": "本標識が表示する規制の区間の終り"
+                  },
+                  {
+                    "FigStruct": {
+                      "Fig": {
+                        "@src": "./pict/S26F03902005003-074.jpg"
+                      }
+                    }
+                  },
+                  {
+                    "Sentence": "Ｅ９ａ"
+                  }
+                ]
+              },
+              {
+                "TableColumn": [
+                  {
+                    "FigStruct": {
+                      "Fig": {
+                        "@src": "./pict/S26F03902005003-075.jpg"
+                      }
+                    }
+                  },
+                  {
+                    "Sentence": "Ｅ９ｂ"
+                  }
+                ]
+              }
+            ]
+          },
+          "Remarks": {
+            "RemarksLabel": {
+              "@LineBreak": "true",
+              "#text": "備考"
+            },
+            "Item": [
+              {
+                "@Num": "1",
+                "ItemTitle": "一",
+                "ItemSentence": {
+                  "Sentence": "本標識の標示板"
+                },
+                "Subitem1": [
+                  {
+                    "@Num": "1",
+                    "Subitem1Title": "１",
+                    "Subitem1Sentence": {
+                      "Sentence": "表示"
+                    },
+                    "Subitem2": [
+                      {
+                        "@Num": "1",
+                        "Subitem2Title": "（一）",
+                        "Subitem2Sentence": {
+                          "Sentence": {
+                            "Ruby": [
+                              {
+                                "Rt": "こう",
+                                "#text": "勾"
+                              },
+                              {
+                                "Rt": "こう",
+                                "#text": "勾"
+                              }
+                            ],
+                            "#text": "「都府県の名称」、「市町村の名称」、「方面、方向及び距離」、「方面及び距離」、「方面及び方向」、「著名な地点」及び「まわり道があること。」を表示する案内標識、「├形道路交差点又は┤形道路交差点があること。」、「右方屈曲又は左方屈曲があること。」、「右方屈折又は左方屈折があること。」、「右背向屈曲又は左背向屈曲があること。」、「右背向屈折又は左背向屈折があること。」、「右つづら折り又は左つづら折りがあること。」、「合流交通があること。」、「車線数が減少すること。」、「幅員が減少すること。」及び「上り急配又は下り急配があること。」を表示する警戒標識、「指定方向以外の方向への進行を禁止すること。」、「制限速度」、「制限重量」、「制限高」及び「一方通行をする必要があること。」を表示する規制標識並びに「規制予告」を表示する指示標識の標示板に示される文字（数字を含む。以下同じ。）及び記号は、例示とする。"
+                          }
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "Subitem2Title": "（二）",
+                        "Subitem2Sentence": {
+                          "Sentence": {
+                            "Ruby": [
+                              {
+                                "Rt": "こう",
+                                "#text": "勾"
+                              },
+                              {
+                                "Rt": "こう",
+                                "#text": "勾"
+                              },
+                              {
+                                "Rt": "こう",
+                                "#text": "勾"
+                              },
+                              {
+                                "Rt": "こう",
+                                "#text": "勾"
+                              },
+                              {
+                                "Rt": "こう",
+                                "#text": "勾"
+                              }
+                            ],
+                            "#text": "「上り急配又は下り急配があること。」を表示する警戒標識の標示板に示される数字は、当該上り急配又は下り急配の配の値とする。"
+                          }
+                        }
+                      },
+                      {
+                        "@Num": "3",
+                        "Subitem2Title": "（三）",
+                        "Subitem2Sentence": {
+                          "Sentence": "「制限速度」、「制限重量」又は「制限高」を表示する規制標識の標示板に示される速度、重量又は高さの単位は、それぞれキロメートル毎時、トン又はメートルとする。"
+                        }
+                      },
+                      {
+                        "@Num": "4",
+                        "Subitem2Title": "（四）",
+                        "Subitem2Sentence": {
+                          "Sentence": "「規制予告」を表示する指示標識の標示板には、前方において行なわれている規制を表示する規制標識の標示板の様式及び当該規制の対象となる自動車の種類、規制の日若しくは時間又は規制が行なわれている場所までの距離を示すものとする。"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Num": "2",
+                    "Subitem1Title": "２",
+                    "Subitem1Sentence": {
+                      "Column": [
+                        {
+                          "@LineBreak": "true",
+                          "@Num": "1",
+                          "Sentence": "寸法"
+                        },
+                        {
+                          "@Num": "2",
+                          "Sentence": "寸法が図示されているものについては、図示の寸法（その単位はセンチメートルとする。以下同じ。）とする。ただし、自動車道の設計速度、自動車道の形状又は交通の状況により特別の必要がある場合には、図示の寸法の二倍まで拡大することができる。"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "@Num": "3",
+                    "Subitem1Title": "３",
+                    "Subitem1Sentence": {
+                      "Sentence": "色彩"
+                    },
+                    "Subitem2": [
+                      {
+                        "@Num": "1",
+                        "Subitem2Title": "（一）",
+                        "Subitem2Sentence": {
+                          "Sentence": "案内標識"
+                        },
+                        "Subitem3": [
+                          {
+                            "@Num": "1",
+                            "Subitem3Title": "（１）",
+                            "Subitem3Sentence": {
+                              "Sentence": "「都府県の名称」、「市町村の名称」、「方面、方向及び距離」、「方面及び距離」及び「著名な地点」を表示するものについては、文字、矢印以外の記号、縁線及び区分線を青色とし、矢印を赤色とし、縁及び地を白色とする。"
+                            }
+                          },
+                          {
+                            "@Num": "2",
+                            "Subitem3Title": "（２）",
+                            "Subitem3Sentence": {
+                              "Sentence": "「方面及び方向」、「料金徴収所があること。」、「待避所があること。」及び「駐車場があること。」を表示するものについては、文字、記号及び縁を白色とし、地を青色とする。"
+                            }
+                          },
+                          {
+                            "@Num": "3",
+                            "Subitem3Title": "（３）",
+                            "Subitem3Sentence": {
+                              "Sentence": "「その地点が自動車道の入口又は出口であること。」及び「まわり道があること。」を表示するものについては、文字及びわくを青色とし、矢印を赤色とし、地を白色とする。"
+                            }
+                          },
+                          {
+                            "@Num": "4",
+                            "Subitem3Title": "（４）",
+                            "Subitem3Sentence": {
+                              "Sentence": "「非常電話があること。」を表示するものについては、文字及び地を白色とし、記号を黒色とし、わくを青色とする。"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "@Num": "2",
+                        "Subitem2Title": "（二）",
+                        "Subitem2Sentence": {
+                          "Column": [
+                            {
+                              "@LineBreak": "true",
+                              "@Num": "1",
+                              "Sentence": "警戒標識"
+                            },
+                            {
+                              "@Num": "2",
+                              "Sentence": {
+                                "Ruby": [
+                                  {
+                                    "Rt": "こう",
+                                    "#text": "勾"
+                                  },
+                                  {
+                                    "Rt": "こう",
+                                    "#text": "勾"
+                                  }
+                                ],
+                                "#text": "文字、記号及び縁線を黒色とし、縁及び地を黄色とする。ただし、「上り急配又は下り急配があること。」を表示するものについては、矢印を白色とする。"
+                              }
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "@Num": "3",
+                        "Subitem2Title": "（三）",
+                        "Subitem2Sentence": {
+                          "Sentence": "規制標識"
+                        },
+                        "Subitem3": [
+                          {
+                            "@Num": "1",
+                            "Subitem3Title": "（１）",
+                            "Subitem3Sentence": {
+                              "Sentence": "「自動車の通行を禁止すること。」、「横断（左横断を除く。）を禁止すること。」、「転回を禁止すること。」、「追越しを禁止すること。」、「制限速度」、「制限重量」及び「制限高」を表示するものについては、文字及び記号を青色とし、斜めの帯及びわくを赤色とし、縁及び地を白色とする。"
+                            }
+                          },
+                          {
+                            "@Num": "2",
+                            "Subitem3Title": "（２）",
+                            "Subitem3Sentence": {
+                              "Sentence": "「進入を禁止すること。」を表示するものについては、帯及び縁を白色とし、地を赤色とする。"
+                            }
+                          },
+                          {
+                            "@Num": "3",
+                            "Subitem3Title": "（３）",
+                            "Subitem3Sentence": {
+                              "Sentence": "「指定方向以外の方向への進行を禁止すること。」及び「警音器を鳴らして通行する必要があること。」を表示するものについては、記号及び縁を白色とし、地を青色とする。"
+                            }
+                          },
+                          {
+                            "@Num": "4",
+                            "Subitem3Title": "（４）",
+                            "Subitem3Sentence": {
+                              "Sentence": "「駐車及び停車を禁止すること。」及び「駐車を禁止すること。」を表示するものについては、斜めの帯及びわくを赤色とし、縁を白色とし、地を青色とする。"
+                            }
+                          },
+                          {
+                            "@Num": "5",
+                            "Subitem3Title": "（５）",
+                            "Subitem3Sentence": {
+                              "Sentence": "「一方通行をする必要があること。」を表示するものについては、記号及び縁線を白色とし、縁及び地を青色とする。"
+                            }
+                          },
+                          {
+                            "@Num": "6",
+                            "Subitem3Title": "（６）",
+                            "Subitem3Sentence": {
+                              "Sentence": "「徐行をする必要があること。」を表示するものについては、文字を青色とし、わくを赤色とし、縁及び地を白色とする。"
+                            }
+                          },
+                          {
+                            "@Num": "7",
+                            "Subitem3Title": "（７）",
+                            "Subitem3Sentence": {
+                              "Sentence": "「一時停止をする必要があること。」を表示するものについては、文字及び縁線を白色とし、縁及び地を赤色とする。"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "@Num": "4",
+                        "Subitem2Title": "（四）",
+                        "Subitem2Sentence": {
+                          "Sentence": "指示標識"
+                        },
+                        "Subitem3": [
+                          {
+                            "@Num": "1",
+                            "Subitem3Title": "（１）",
+                            "Subitem3Sentence": {
+                              "Sentence": "「その地点が横断歩道であること。」を表示するものについては、記号及び縁線を白色とし、縁及び地を青色とする。"
+                            }
+                          },
+                          {
+                            "@Num": "2",
+                            "Subitem3Title": "（２）",
+                            "Subitem3Sentence": {
+                              "Sentence": "「安全地帯があること。」を表示するものについては、記号及び縁を白色とし、地を青色とする。"
+                            }
+                          },
+                          {
+                            "@Num": "3",
+                            "Subitem3Title": "（３）",
+                            "Subitem3Sentence": {
+                              "Sentence": "「規制予告」を表示するものについては、規制標識の標示板の様式を示す部分は、当該規制標識の種類に応じて一の３の（三）に規定するところによるものとし、その他の部分は、文字及び縁線を青色とし、縁及び地を白色とする。"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@Num": "4",
+                    "Subitem1Title": "４",
+                    "Subitem1Sentence": {
+                      "Column": [
+                        {
+                          "@LineBreak": "true",
+                          "@Num": "1",
+                          "Sentence": "文字の形"
+                        },
+                        {
+                          "@Num": "2",
+                          "Sentence": "文字の形は、次に図示したものを基準とする。"
+                        }
+                      ]
+                    },
+                    "FigStruct": {
+                      "Fig": {
+                        "@src": "./pict/S26F03902005003-076.jpg"
+                      }
+                    }
+                  },
+                  {
+                    "@Num": "5",
+                    "Subitem1Title": "５",
+                    "Subitem1Sentence": {
+                      "Sentence": "文字等の大きさ等"
+                    },
+                    "Subitem2": [
+                      {
+                        "@Num": "1",
+                        "Subitem2Title": "（一）",
+                        "Subitem2Sentence": {
+                          "Sentence": "寸法が図示されている文字及び記号の大きさは、図示の寸法を基準とする。"
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "Subitem2Title": "（二）",
+                        "Subitem2Sentence": {
+                          "Sentence": "縁、縁線及び区分線の太さは、次の寸法を基準とする。"
+                        },
+                        "Subitem3": [
+                          {
+                            "@Num": "1",
+                            "Subitem3Title": "（１）",
+                            "Subitem3Sentence": {
+                              "Column": [
+                                {
+                                  "@LineBreak": "true",
+                                  "@Num": "1",
+                                  "Sentence": "案内標識"
+                                },
+                                {
+                                  "@Num": "2",
+                                  "Sentence": "縁は九ミリメートルとし、縁線は六ミリメートルとし、区分線は五ミリメートルとする。ただし、「方面及び方向」を表示するものについては、縁は二十ミリメートルとする。"
+                                }
+                              ]
+                            }
+                          },
+                          {
+                            "@Num": "2",
+                            "Subitem3Title": "（２）",
+                            "Subitem3Sentence": {
+                              "Column": [
+                                {
+                                  "@LineBreak": "true",
+                                  "@Num": "1",
+                                  "Sentence": "警戒標識"
+                                },
+                                {
+                                  "@Num": "2",
+                                  "Sentence": "縁及び縁線は、十二ミリメートルとする。"
+                                }
+                              ]
+                            }
+                          },
+                          {
+                            "@Num": "3",
+                            "Subitem3Title": "（３）",
+                            "Subitem3Sentence": {
+                              "Column": [
+                                {
+                                  "@LineBreak": "true",
+                                  "@Num": "1",
+                                  "Sentence": "規制標識"
+                                },
+                                {
+                                  "@Num": "2",
+                                  "Sentence": "縁は十五ミリメートルとし、縁線は、「一方通行をする必要があること。」を表示するものについては十二ミリメートル、「一時停止をする必要があること。」を表示するものについては十五ミリメートルとする。"
+                                }
+                              ]
+                            }
+                          },
+                          {
+                            "@Num": "4",
+                            "Subitem3Title": "（４）",
+                            "Subitem3Sentence": {
+                              "Column": [
+                                {
+                                  "@LineBreak": "true",
+                                  "@Num": "1",
+                                  "Sentence": "指示標識"
+                                },
+                                {
+                                  "@Num": "2",
+                                  "Sentence": "縁は、「その地点に横断歩道があること。」を表示するものについては十二ミリメートル、その他のものについては十五ミリメートルとし、縁線は十二ミリメートルとする。"
+                                }
+                              ]
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "@Num": "2",
+                "ItemTitle": "二",
+                "ItemSentence": {
+                  "Sentence": "補助標識の標示板"
+                },
+                "Subitem1": [
+                  {
+                    "@Num": "1",
+                    "Subitem1Title": "１",
+                    "Subitem1Sentence": {
+                      "Column": [
+                        {
+                          "@LineBreak": "true",
+                          "@Num": "1",
+                          "Sentence": "表示"
+                        },
+                        {
+                          "@Num": "2",
+                          "Sentence": "補助標識（「本標識が表示する規制の区間の終り（Ｅ９ｂ）」を表示するものを除く。）の標示板に示される文字及び記号は、例示とする。"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "@Num": "2",
+                    "Subitem1Title": "２",
+                    "Subitem1Sentence": {
+                      "Column": [
+                        {
+                          "@LineBreak": "true",
+                          "@Num": "1",
+                          "Sentence": "寸法"
+                        },
+                        {
+                          "@Num": "2",
+                          "Sentence": "標示板の寸法は、図示の寸法とする。ただし、附置される本標識の標示板の拡大率と同じ比率で拡大することができる。"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "@Num": "3",
+                    "Subitem1Title": "３",
+                    "Subitem1Sentence": {
+                      "Column": [
+                        {
+                          "@LineBreak": "true",
+                          "@Num": "1",
+                          "Sentence": "色彩"
+                        },
+                        {
+                          "@Num": "2",
+                          "Sentence": "文字及び矢印以外の記号を黒色とし、矢印を赤色とし、地を白色とする。ただし、「本標識が表示する規制の区間の終り（Ｅ９ｂ）」を表示するものについては、斜めの帯及びわくを青色とし、縁及び地を白色とする。"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "@Num": "4",
+                    "Subitem1Title": "４",
+                    "Subitem1Sentence": {
+                      "Column": [
+                        {
+                          "@LineBreak": "true",
+                          "@Num": "1",
+                          "Sentence": "文字の形"
+                        },
+                        {
+                          "@Num": "2",
+                          "Sentence": "文字の形は、一の４に図示されたものを基準とする。"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "@Num": "3",
+                "ItemTitle": "三",
+                "ItemSentence": {
+                  "Sentence": "柱"
+                },
+                "Subitem1": [
+                  {
+                    "@Num": "1",
+                    "Subitem1Title": "１",
+                    "Subitem1Sentence": {
+                      "Column": [
+                        {
+                          "@LineBreak": "true",
+                          "@Num": "1",
+                          "Sentence": "寸法"
+                        },
+                        {
+                          "@Num": "2",
+                          "Sentence": "柱の寸法は、図示の寸法を基準とする。"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "@Num": "2",
+                    "Subitem1Title": "２",
+                    "Subitem1Sentence": {
+                      "Column": [
+                        {
+                          "@LineBreak": "true",
+                          "@Num": "1",
+                          "Sentence": "色彩"
+                        },
+                        {
+                          "@Num": "2",
+                          "Sentence": "柱の色彩は、灰色又は白色とする。"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "@Num": "4",
+                "ItemTitle": "四",
+                "ItemSentence": {
+                  "Sentence": "その他"
+                },
+                "Subitem1": [
+                  {
+                    "@Num": "1",
+                    "Subitem1Title": "１",
+                    "Subitem1Sentence": {
+                      "Sentence": "取付け方"
+                    },
+                    "Subitem2": [
+                      {
+                        "@Num": "1",
+                        "Subitem2Title": "（一）",
+                        "Subitem2Sentence": {
+                          "Sentence": "標示板の取付け方は、図示の取付け方を基準とする。"
+                        }
+                      },
+                      {
+                        "@Num": "2",
+                        "Subitem2Title": "（二）",
+                        "Subitem2Sentence": {
+                          "Sentence": "同一の場所に二以上の自動車道標識を設置する場合には、二以上の標示板を同一の柱に取り付けることができる。"
+                        }
+                      },
+                      {
+                        "@Num": "3",
+                        "Subitem2Title": "（三）",
+                        "Subitem2Sentence": {
+                          "Sentence": "（二）により同一の柱に二以上の規制標識の標示板が上下に取り付けられる場合で、それぞれの規制標識が表示する規制の区間の終りを「本標識が表示する規制の区間の終り（Ｅ９ｂ）」を表示する補助標識によつて示すときは、下方の規制標識に係る補助標識は省略するものとする。"
+                        }
+                      },
+                      {
+                        "@Num": "4",
+                        "Subitem2Title": "（四）",
+                        "Subitem2Sentence": {
+                          "Sentence": "「本標識が表示する規制の区間の始まり」及び「本標識が表示する規制の区間の終り（Ｅ９ａ）」を表示する補助標識の標示板については、当該標示板の表示する矢印の方向を規制の区間の内側に向けて取り付けるものとする。"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "@Num": "2",
+                    "Subitem1Title": "２",
+                    "Subitem1Sentence": {
+                      "Column": [
+                        {
+                          "@LineBreak": "true",
+                          "@Num": "1",
+                          "Sentence": "反射材料等"
+                        },
+                        {
+                          "@Num": "2",
+                          "Sentence": "自動車道標識には、原則として、反射材料を用い、又は反射装置若しくは夜間照明装置を施すものとする。"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    }
+  }
+}

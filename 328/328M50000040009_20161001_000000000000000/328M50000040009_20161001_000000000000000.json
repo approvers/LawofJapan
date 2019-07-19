@@ -1,0 +1,131 @@
+{
+  "Law": {
+    "@Era": "Showa",
+    "@Lang": "ja",
+    "@LawType": "MinisterialOrdinance",
+    "@Num": "009",
+    "@Year": "28",
+    "LawNum": "昭和二十八年大蔵省令第九号",
+    "LawBody": {
+      "LawTitle": "連続式蒸留機の新設及び拡張の臨時制限に関する省令",
+      "EnactStatement": {
+        "Ruby": [
+          {
+            "Rt": "ヽ",
+            "#text": "り"
+          },
+          {
+            "Rt": "ヽ",
+            "#text": "ゆ"
+          },
+          {
+            "Rt": "ヽ",
+            "#text": "う"
+          }
+        ],
+        "#text": "酒税の保全及び酒類業組合等に関する法律（昭和二十八年法律第七号）第八十四条第二項の規定に基き、連続式蒸\n\n機の新設及び拡張の臨時制限に関する省令を次のように定める。"
+      },
+      "MainProvision": {
+        "Paragraph": [
+          {
+            "@Num": "1",
+            "ParagraphNum": "１",
+            "ParagraphSentence": {
+              "Sentence": "酒類の製造者は、連続式蒸留機（酒税法（昭和二十八年法律第六号）第三条第九号に規定する連続式蒸留機をいう。以下同じ。）をその製造場に新たに設置し、又は既に設置されている連続式蒸留機の拡張（連続式蒸留機に加工し、そのアルコールの生産能力を増加させることをいう。以下同じ。）をしようとするときは、当分の間、財務大臣の承認を受けなければならない。"
+            }
+          },
+          {
+            "@Num": "2",
+            "ParagraphNum": "２",
+            "ParagraphSentence": {
+              "Sentence": "前項の承認を受けようとする者は、左の事項を記載した申請書を、その製造場の所在地の所轄税務署長を経由して、財務大臣に提出しなければならない。"
+            },
+            "Item": [
+              {
+                "@Num": "1",
+                "ItemTitle": "一",
+                "ItemSentence": {
+                  "Sentence": "申請者の住所及び氏名又は名称"
+                }
+              },
+              {
+                "@Num": "2",
+                "ItemTitle": "二",
+                "ItemSentence": {
+                  "Sentence": "製造場の位置"
+                }
+              },
+              {
+                "@Num": "3",
+                "ItemTitle": "三",
+                "ItemSentence": {
+                  "Sentence": "新たに設置する場合にあつては、当該連続式蒸留機のアルコールの生産能力、拡張する場合にあつては、当該連続式蒸留機の昭和二十六年五月二十二日、申請時及び当該拡張後におけるアルコールの生産能力"
+                }
+              },
+              {
+                "@Num": "4",
+                "ItemTitle": "四",
+                "ItemSentence": {
+                  "Sentence": "申請の事由"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      "SupplProvision": [
+        {
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この省令は、昭和二十八年三月一日から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "昭和三七年三月三一日大蔵省令第二六号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": "１",
+            "ParagraphSentence": {
+              "Sentence": "この省令は、昭和三十七年四月一日から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成一二年八月二一日大蔵省令第六九号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": "１",
+            "ParagraphSentence": {
+              "Sentence": "この省令は、平成十三年一月六日から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成一八年三月三一日財務省令第二五号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Article": {
+            "@Num": "1",
+            "ArticleCaption": "（施行期日）",
+            "ArticleTitle": "第一条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "この省令は、平成十八年五月一日から施行する。"
+              }
+            }
+          }
+        }
+      ]
+    }
+  }
+}

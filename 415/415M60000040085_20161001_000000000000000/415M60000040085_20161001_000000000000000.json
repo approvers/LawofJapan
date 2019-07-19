@@ -1,0 +1,93 @@
+{
+  "Law": {
+    "@Era": "Heisei",
+    "@Lang": "ja",
+    "@LawType": "MinisterialOrdinance",
+    "@Num": "85",
+    "@Year": "15",
+    "LawNum": "平成十五年財務省令第八十五号",
+    "LawBody": {
+      "LawTitle": "周辺地域整備資金事務取扱規則",
+      "EnactStatement": "電源開発促進対策特別会計法（昭和四十九年法律第八十号）第三条の五の規定に基づき、周辺地域整備資金事務取扱規則を次のように定める。",
+      "MainProvision": {
+        "Article": [
+          {
+            "@Num": "1",
+            "ArticleCaption": "（通則）",
+            "ArticleTitle": "第一条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "特別会計に関する法律（平成十九年法律第二十三号。以下「法」という。）第九十二条第一項に規定する周辺地域整備資金（以下「資金」という。）の経理の手続については、他の法令に定めるもののほか、この省令の定めるところによる。"
+              }
+            }
+          },
+          {
+            "@Num": "2",
+            "ArticleCaption": "（資金の受払い）",
+            "ArticleTitle": "第二条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "資金は、法第九十二条第二項及び第三項の規定による受入金をもって受けとし、同条第四項の規定による組入金及び同条第五項の規定による繰入金をもって払いとして経理する。"
+              }
+            }
+          },
+          {
+            "@Num": "3",
+            "ArticleCaption": "（資金受払簿）",
+            "ArticleTitle": "第三条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "経済産業大臣は、別紙書式の周辺地域整備資金受払簿を備え、前条に規定する資金の受払いを登記しなければならない。"
+              }
+            }
+          }
+        ]
+      },
+      "SupplProvision": [
+        {
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この省令は、平成十五年十月一日から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成一九年三月三一日財務省令第二九号",
+          "@Extract": "true",
+          "SupplProvisionLabel": "附　則",
+          "Article": {
+            "@Num": "1",
+            "ArticleCaption": "（施行期日）",
+            "ArticleTitle": "第一条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "この省令は、特別会計に関する法律の施行の日（平成十九年四月一日）から施行する。"
+              }
+            }
+          }
+        }
+      ],
+      "AppdxFormat": {
+        "AppdxFormatTitle": "別紙書式",
+        "FormatStruct": {
+          "Format": {
+            "Fig": {
+              "@src": "./pict/H15F14001000085-001.pdf"
+            }
+          }
+        }
+      }
+    }
+  }
+}

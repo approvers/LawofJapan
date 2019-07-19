@@ -1,0 +1,110 @@
+{
+  "Law": {
+    "@Era": "Showa",
+    "@Lang": "ja",
+    "@LawType": "MinisterialOrdinance",
+    "@Num": "002",
+    "@Year": "46",
+    "LawNum": "昭和四十六年総理府・厚生省令第二号",
+    "LawBody": {
+      "LawTitle": "大気汚染防止法第二十一条第一項の規定に基づく自動車排出ガスによる大気の汚染の限度を定める省令",
+      "EnactStatement": "大気汚染防止法第二十一条第一項の規定に基づき、大気汚染防止法第二十一条第一項の規定に基づく自動車排出ガスによる大気の汚染の限度を定める命令を次のように定める。",
+      "MainProvision": {
+        "Article": [
+          {
+            "@Num": "1",
+            "ArticleCaption": "（大気の汚染の限度）",
+            "ArticleTitle": "第一条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "大気汚染防止法（昭和四十三年法律第九十七号）第二十一条第一項の環境省令で定める限度は、一酸化炭素の大気中における含有率の一時間値（以下単に「一時間値」という。）の月間平均値百万分の十とする。"
+              }
+            }
+          },
+          {
+            "@Num": "2",
+            "ArticleCaption": "（測定等の方法）",
+            "ArticleTitle": "第二条",
+            "Paragraph": {
+              "@Num": "1",
+              "ParagraphNum": null,
+              "ParagraphSentence": {
+                "Sentence": "一時間値の測定及び一時間値の月間平均値の算定は、次の各号に定めるところによる。"
+              },
+              "Item": [
+                {
+                  "@Num": "1",
+                  "ItemTitle": "一",
+                  "ItemSentence": {
+                    "Sentence": "一時間値の測定は、非分散形赤外分析計法による一酸化炭素測定器を用いて、大気を連続して吸引して行なうこと。"
+                  }
+                },
+                {
+                  "@Num": "2",
+                  "ItemTitle": "二",
+                  "ItemSentence": {
+                    "Sentence": [
+                      {
+                        "@Num": "1",
+                        "#text": "一時間値の月間平均値の算定は、総有効測定時間の測定値の算術平均によること。"
+                      },
+                      {
+                        "@Num": "2",
+                        "#text": "この場合において、当該総有効測定時間数は、四百八十時間以上であること。"
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "SupplProvision": [
+        {
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この命令は、大気汚染防止法の一部を改正する法律（昭和四十五年法律第百三十四号）の施行の日（昭和四十六年六月二十四日）から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "昭和四六年七月一日総理府令第四一号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": {
+            "@Num": "1",
+            "ParagraphNum": null,
+            "ParagraphSentence": {
+              "Sentence": "この府令は、公布の日から施行する。"
+            }
+          }
+        },
+        {
+          "@AmendLawNum": "平成一二年八月一四日総理府令第九四号",
+          "SupplProvisionLabel": "附　則",
+          "Paragraph": [
+            {
+              "@Num": "1",
+              "ParagraphNum": "１",
+              "ParagraphSentence": {
+                "Sentence": "この府令は、内閣法の一部を改正する法律（平成十一年法律第八十八号）の施行の日（平成十三年一月六日）から施行する。"
+              }
+            },
+            {
+              "@Num": "2",
+              "ParagraphNum": "２",
+              "ParagraphSentence": {
+                "Sentence": "この府令の施行の日の前日において従前の環境庁の臨時水俣病認定審査会の委員である者の任期は、第一条の規定による廃止前の臨時水俣病認定審査会の組織等に関する総理府令第二条の規定にかかわらず、その日に満了する。"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
