@@ -8,3 +8,9 @@ $ find|grep xml|while read line;do cat $line ;echo xq . $(echo $line | sed -e 's
 $ find|grep xml|xargs rm
 $ find|grep pict|xargs rm -rf
 ```
+
+# LawNum2FileName.jsonの生成
+
+```
+$ find|grep json|while read line;do jq -r .Law.LawNum $line|tr -d '\n';echo " $(basename $line)";done|jq -R 'input | split(" ")| {LawNum:(.[0]), FileName: (.[1])}' > LawNum2FileName.json
+```
