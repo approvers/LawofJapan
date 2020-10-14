@@ -1,4 +1,16 @@
-# 一番最初に使用した、法律バルクデータ全取得コマンド
+# 日本の法律
+
+**法律全部gitに乗せる**
+
+TODO
+- [ ] 法律取得の並列化
+- [ ] 法律取得の自動化
+  - [ ] 時間かRSSをトリガーにしていい感じにやる
+- [ ] 法律取得をDocker内部でやる
+- [ ] 法律取得をGithub Actionsで動かす
+
+
+# 法律バルクデータ全取得コマンド
 
 ```
 $ curl -sS https://elaws.e-gov.go.jp/download/lawdownload.html|grep lawdata_download|sed -E 's/(.+)([0-9]{3}\.zip)(.+)/\2/'|while read line;do echo https://elaws.e-gov.go.jp/download/$line;done|aria2c -i -
